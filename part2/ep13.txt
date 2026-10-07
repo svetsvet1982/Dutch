@@ -26,17 +26,17 @@ Lotte: Goed. Ik ook niet. Dus we vertellen het nog niet?
 Jonas: Dat is… (computergeluid) Daar is ze!
 그건… (컴퓨터 소리가 난다) 엄마 전화 왔다!
 Ingrid: (op het scherm, lachend, in het Zweeds) Hej, älskling!
-잉그리드: (화면에서 웃으며 스웨덴어로) 안녕, 우리 아들!
+(화면에서 웃으며 스웨덴어로) 안녕, 우리 아들!
 Jonas: Hallo, mama. Hoi. (in het Nederlands) We spreken Nederlands, hè? Dat hadden we afgesproken.
 안녕, 엄마. 안녕하세요. (네덜란드어로) 우리 네덜란드어로 말하기로 했잖아요, 그렇죠?
 Ingrid: (probeert het) Ja, ja. Nederlands. Goedemiddag, Jonas. Hoe… hoe gaat het met jou?
-잉그리드: (시도하며) 응, 응. 네덜란드어. 안녕, 요나스. 어… 잘 지내니?
+(시도하며) 응, 응. 네덜란드어. 안녕, 요나스. 어… 잘 지내니?
 Jonas: Goed. Heel goed. Mama, dit is Lotte.
 잘 지내요. 아주 좋아요. 엄마, 이쪽이 로터예요.
 Lotte: (zwaait in de camera) Hallo, mevrouw Lindqvist. Leuk je te ontmoeten. Eh, leuk u te ontmoeten.
 (카메라에 손을 흔들며) 안녕하세요, 린드크비스트 부인. 만나서 반가워… 아니, 만나서 반갑습니다.
 Ingrid: Oh, Lotte! Wat een mooie naam. Zeg maar "je" en zeg maar "Ingrid". Ik ben niet mevrouw.
-잉그리드: 아, 로터! 이름이 참 예쁘구나. 편하게 말 놓고 "잉그리드"라고 불러. 부인이 아니야.
+아, 로터! 이름이 참 예쁘구나. 편하게 말 놓고 "잉그리드"라고 불러. 부인이 아니야.
 Lotte: Dank je, Ingrid. Leuk je te ontmoeten.
 고마워요, 잉그리드. 만나서 반가워요.
 Ingrid: Ik ook. Heel leuk. Jonas heeft veel verteld. Over jou. Heel veel.
@@ -146,15 +146,15 @@ Jonas: Mama, ik heb nog een vraag. Hoe gaat het met Erik?
 Ingrid: Erik? Hij is hier! (roept) Erik! Kom eens!
 에리크? 여기 있어! (소리치며) 에리크! 이리 와 봐!
 Erik: (komt in beeld, zwaait) Hej! Hallo, Jonas! En Lotte?
-에리크: (화면에 들어와 손을 흔들며) 안녕! 안녕, 요나스! 그리고 로터?
+(화면에 들어와 손을 흔들며) 안녕! 안녕, 요나스! 그리고 로터?
 Lotte: Hallo, Erik! Leuk je te ontmoeten.
 안녕하세요, 에리크! 만나서 반가워요.
 Erik: Ik ook. Mijn Nederlands is… (denkt na) Goedemorgen. Dank u wel. Tot ziens.
-에리크: 나도요. 내 네덜란드어는… (생각하며) 안녕하세요. 감사합니다. 안녕히 가세요.
+나도요. 내 네덜란드어는… (생각하며) 안녕하세요. 감사합니다. 안녕히 가세요.
 Lotte: (lacht) Dat is een goed begin!
 (웃으며) 좋은 시작이에요!
 Erik: Jonas zegt dat jij zijn lerares bent. Hij moet goed luisteren.
-에리크: 요나스 말로는 당신이 선생님이래요. 열심히 들어야죠.
+요나스 말로는 당신이 선생님이래요. 열심히 들어야죠.
 Lotte: Hij luistert goed. Meestal.
 잘 들어요. 대개는요.
 Jonas: Hé!
@@ -184,7 +184,7 @@ Ingrid: Nu moet ik gaan. Ik heb een afspraak met mijn tuin. Het is lente. Alles 
 Jonas: Dag mama. Ik bel zondag.
 엄마, 안녕히 계세요. 일요일에 전화할게요.
 Ingrid: Dag lieverd. Dag Lotte. Tot… tot ziens! (blaast een kus)
-잉그리드: 잘 있어, 우리 아들. 안녕, 로터. 다시… 다시 보자! (뽀뽀를 보낸다)
+잘 있어, 우리 아들. 안녕, 로터. 다시… 다시 보자! (뽀뽀를 보낸다)
 Lotte: Dag Ingrid. Tot ziens!
 안녕히 계세요, 잉그리드. 다시 봬요!
 Jonas: (sluit de laptop, stil) Zo.

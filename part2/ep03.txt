@@ -46,11 +46,11 @@ Willem: Met de lepel. Niet ervan eten! Dat is voor hem.
 Lotte: (lacht) Ik zal me inhouden.
 (웃으며) 참을게요.
 Tariq: (doet de deur open, in een joggingbroek) Ja? Wie is daar?
-타리크: (운동복 바지를 입고 문을 열며) 네? 누구세요?
+(운동복 바지를 입고 문을 열며) 네? 누구세요?
 Lotte: Hoi. Ik ben Lotte. Een vriendin van Jonas.
 안녕하세요. 로터예요. 요나스의 친구예요.
 Tariq: Lotte! Hé, wacht even. Jij bent die Lotte? Van Nijntje en de sneeuwballen?
-타리크: 로터! 어, 잠깐만요. 당신이 그 로터예요? 미피와 눈싸움의?
+로터! 어, 잠깐만요. 당신이 그 로터예요? 미피와 눈싸움의?
 Lotte: (lacht) Dat is een gekke samenvatting. Maar ja.
 (웃으며) 이상한 요약이네요. 하지만 맞아요.
 Tariq: Ik ben Tariq. Zijn huisgenoot. Kom binnen. Hij heeft het over niets anders.
@@ -130,7 +130,7 @@ Jonas: Ik heb geen honger.
 Lotte: Niet de bedoeling. Het is geen eten, het is medicijn.
 상관없어. 음식이 아니라 약이야.
 Tariq: (komt binnen met een dienblad) Hier is de soep! Warm en dik. De lepel staat rechtop.
-타리크: (쟁반을 들고 들어오며) 수프 왔어요! 따뜻하고 걸쭉해요. 숟가락이 똑바로 서요.
+(쟁반을 들고 들어오며) 수프 왔어요! 따뜻하고 걸쭉해요. 숟가락이 똑바로 서요.
 Jonas: Rechtop?
 똑바로요?
 Tariq: Zo hoort erwtensoep. Als je lepel blijft staan, is het goed.
@@ -144,7 +144,7 @@ Tariq: Natuurlijk. Ik laat jullie alleen. Ik ga mijn deel opeten, beneden. Het r
 Jonas: Tariq, laat wat over!
 타리크, 좀 남겨 둬!
 Tariq: (vanuit de gang) Nee! Het is te lekker!
-타리크: (복도에서) 싫어! 너무 맛있어!
+(복도에서) 싫어! 너무 맛있어!
 Lotte: (lacht, geeft hem de kom) Eet maar. Langzaam. Het is heet.
 (웃으며 그릇을 건네고) 먹어. 천천히. 뜨거워.
 Jonas: (proeft) Mmm. Het is… echt goed. Het is zoals… zoals het smaakt naar thuis.

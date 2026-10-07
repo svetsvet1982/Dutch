@@ -36,15 +36,15 @@ Willem: Bij de kerstboom. Eh… bij de Sinterklaasboom. Die bestaat niet. Bij de
 Jonas: (lacht) We leggen ze bij de plant.
 (웃으며) 화분 옆에 놓을게요.
 Mevrouw De Boer: (komt binnen) Goedenavond! Wat gezellig is het hier!
-더 부르 부인: (들어오며) 안녕하세요! 여기 정말 아늑하네요!
+(들어오며) 안녕하세요! 여기 정말 아늑하네요!
 Willem: Goedenavond, mevrouw De Boer. Fijn dat u er bent.
 안녕하세요, 더 부르 부인. 와 주셔서 기뻐요.
 Pieter: (komt binnen, met een tas) Hé! Is het al begonnen?
-피터: (가방을 들고 들어오며) 어! 벌써 시작했어요?
+(가방을 들고 들어오며) 어! 벌써 시작했어요?
 Willem: Nog niet, Pieter. Ga maar zitten.
 아직이에요, 피터. 앉아요.
 Hendriks: (komt binnen, met een dik papier) Goedenavond. Ik heb mijn gedicht bij me. Het is niet lang.
-헨드릭스: (두꺼운 종이를 들고 들어오며) 안녕하세요. 시를 가져왔어요. 길지 않아요.
+(두꺼운 종이를 들고 들어오며) 안녕하세요. 시를 가져왔어요. 길지 않아요.
 Lotte: (fluistert) Hoeveel strofen?
 (속삭이며) 몇 연이에요?
 Hendriks: Twaalf. Dit jaar heb ik me ingehouden.
@@ -58,7 +58,7 @@ Mevrouw De Boer: Ja! Ik begin! Mijn gedicht is voor… Pieter!
 Pieter: Voor mij? (steekt zijn handen uit) Mijn cadeau!
 저한테요? (손을 내밀며) 제 선물이에요!
 Mevrouw De Boer: (leest voor) "Pieter schrijft over maandag, / dat is niet wat ik graag mag. / Maar hij is jong en kan nog veel, / hier is een mok, een goed doel."
-더 부르 부인: (낭독하며) "피터는 월요일에 대해 쓰네, / 나는 그걸 좋아하진 않지. / 하지만 젊으니 앞으로 많이 할 수 있을 거야, / 여기 머그잔, 좋은 뜻으로."
+(낭독하며) "피터는 월요일에 대해 쓰네, / 나는 그걸 좋아하진 않지. / 하지만 젊으니 앞으로 많이 할 수 있을 거야, / 여기 머그잔, 좋은 뜻으로."
 Pieter: (lacht) Dank u! Een mok. Met "Maandag" erop!
 (웃으며) 고마워요! 머그잔이네요. "월요일"이라고 적혀 있어요!
 Willem: Een goed begin. Wie volgt?
@@ -66,9 +66,9 @@ Willem: Een goed begin. Wie volgt?
 Hendriks: Ik. Mijn gedicht is voor mevrouw De Boer.
 저요. 제 시는 더 부르 부인께 쓴 거예요.
 Mevrouw De Boer: Oh nee, ik heb er een voorgevoel van.
-더 부르 부인: 아, 안 돼요. 불길한 예감이 들어요.
+아, 안 돼요. 불길한 예감이 들어요.
 Hendriks: (leest, heel lang) "Mevrouw De Boer, een vrouw van naam, / kwam elke dag in deze zaak, / ze kocht een boek en daarna twee, / en soms ook drie, daar ben ik blij mee…"
-헨드릭스: (아주 길게 낭독하며) "더 부르 부인, 이름난 여성, / 날마다 이 가게에 오셨지, / 책 한 권을 사고 그다음엔 두 권, / 때로는 세 권도, 그래서 기뻐요…"
+(아주 길게 낭독하며) "더 부르 부인, 이름난 여성, / 날마다 이 가게에 오셨지, / 책 한 권을 사고 그다음엔 두 권, / 때로는 세 권도, 그래서 기뻐요…"
 Willem: (zachtjes, tegen Lotte) Dit is strofe drie.
 (로터에게 조용히) 이게 삼 연이에요.
 Lotte: (fluistert) Er komen er nog negen.
@@ -76,13 +76,13 @@ Lotte: (fluistert) Er komen er nog negen.
 Jonas: (fluistert) Ik heb nog nooit zo'n lang gedicht gehoord.
 (속삭이며) 이렇게 긴 시는 처음 들어.
 Hendriks: "…en dan, tot slot, mijn lieve vrouw, / dank voor uw trouw." Dank u wel.
-헨드릭스: "…그리고 마지막으로, 사랑하는 부인, / 변함없는 충성에 감사드립니다." 감사합니다.
+"…그리고 마지막으로, 사랑하는 부인, / 변함없는 충성에 감사드립니다." 감사합니다.
 Mevrouw De Boer: (klapt) Prachtig! Echt prachtig! Wat een mooie woorden.
-더 부르 부인: (박수 치며) 아름다워요! 정말 아름다워요! 말이 참 곱네요.
+(박수 치며) 아름다워요! 정말 아름다워요! 말이 참 곱네요.
 Hendriks: En hier is uw cadeau: een boekenlegger met uw naam.
-헨드릭스: 그리고 선물은 이름이 새겨진 책갈피예요.
+그리고 선물은 이름이 새겨진 책갈피예요.
 Mevrouw De Boer: Wat lief! Dank u wel, meneer Hendriks.
-더 부르 부인: 정말 다정하네요! 고마워요, 헨드릭스 씨.
+정말 다정하네요! 고마워요, 헨드릭스 씨.
 Willem: En nu is Jonas aan de beurt. Voor wie is uw gedicht?
 이제 요나스 차례예요. 시는 누구에게 쓴 거예요?
 Jonas: Ik… (kijkt naar Lotte) Dat is een geheim, maar ik moet het zeggen. Het is voor Lotte.
@@ -96,7 +96,7 @@ Lotte: (rood) Ja.
 Willem: (lacht) Toeval, hè? Wat een toeval.
 (웃으며) 우연이죠? 대단한 우연이네요.
 Mevrouw De Boer: (tegen Pieter, zachtjes) Dat is geen toeval.
-더 부르 부인: (피터에게 조용히) 이건 우연이 아니야.
+(피터에게 조용히) 이건 우연이 아니야.
 Willem: Meneer Jonas, wilt u beginnen?
 요나스 씨, 먼저 하시겠어요?
 Jonas: Ja. (staat op, pakt een papiertje) Ik heb dit gisteravond geschreven. Er zijn fouten in.
@@ -172,15 +172,15 @@ Jonas: Dank je. Dank je wel. Zo veel.
 Willem: (veegt een traan weg, onopvallend) Zo, dat was prachtig.
 (눈에 띄지 않게 눈물을 닦으며) 자, 멋졌어요.
 Mevrouw De Boer: (snuit haar neus) Wat ontroerend.
-더 부르 부인: (코를 풀며) 감동적이네요.
+(코를 풀며) 감동적이네요.
 Pieter: (stil) Dit is beter dan Netflix.
-피터: (조용히) 이건 넷플릭스보다 낫네요.
+(조용히) 이건 넷플릭스보다 낫네요.
 Hendriks: Wilt u allemaal nog mijn laatste vier strofen horen?
-헨드릭스: 여러분, 제 마지막 네 연도 들어 보시겠어요?
+여러분, 제 마지막 네 연도 들어 보시겠어요?
 Iedereen: (tegelijk) Nee, dank u!
 모두: (동시에) 아니요, 감사합니다!
 Hendriks: (beledigd) Nu goed. Dan houd ik ze voor volgend jaar.
-헨드릭스: (기분이 상해) 알겠어요. 그럼 내년을 위해 남겨 둘게요.
+(기분이 상해) 알겠어요. 그럼 내년을 위해 남겨 둘게요.
 Willem: Dan zingen we nu een lied. Weet iedereen "Sinterklaas kapoentje"?
 그럼 이제 노래를 불러요. 다들 "Sinterklaas kapoentje" 아시죠?
 Jonas: Ik niet. Maar ik leer het.

@@ -6,11 +6,11 @@
 Lotte: (bij de receptie, nat van de regen) Goedenavond. Ik kom voor Jonas Lindqvist. Is hij er nog?
 (접수대에서, 비에 젖은 채) 안녕하세요. 요나스 린드크비스트 씨를 만나러 왔어요. 아직 있나요?
 Receptioniste: Meneer Lindqvist? Hij zit in de controlekamer. Vanavond is het druk.
-접수 직원: 린드크비스트 씨요? 관제실에 있어요. 오늘 밤은 바빠요.
+린드크비스트 씨요? 관제실에 있어요. 오늘 밤은 바빠요.
 Lotte: Druk? Ik wilde hem alleen een broodje brengen.
 바쁘다고요? 그냥 샌드위치를 가져다주려고 했는데요.
 Receptioniste: Dan komt u op een goed moment. Of juist een slecht. Het is code oranje.
-접수 직원: 그럼 좋은 때에 오셨네요. 아니면 정말 나쁜 때에 오셨거나요. 지금 오렌지 경보예요.
+그럼 좋은 때에 오셨네요. 아니면 정말 나쁜 때에 오셨거나요. 지금 오렌지 경보예요.
 Lotte: Code oranje? Dat is een stormwaarschuwing, hè?
 오렌지 경보요? 폭풍 경보 맞죠?
 Receptioniste: Ja. Het waterpeil in de Noordzee stijgt. Over een uur wordt de storm erger.
@@ -18,7 +18,7 @@ Receptioniste: Ja. Het waterpeil in de Noordzee stijgt. Over een uur wordt de st
 Lotte: Ik begrijp het. Mag ik naar hem toe? Even maar.
 알겠어요. 그에게 가 봐도 될까요? 잠깐만요.
 Receptioniste: Het is de tweede verdieping, deur drie. Neemt u de lift.
-접수 직원: 이 층이에요, 삼 번 문입니다. 엘리베이터를 타세요.
+이 층이에요, 삼 번 문입니다. 엘리베이터를 타세요.
 Jonas: (staat bij de deur, in een hemd, met koffie) Lotte! Wat doe jij hier?
 (문 앞에서 셔츠 차림에 커피를 들고) 로터! 여기 웬일이야?
 Lotte: Ik heb een broodje voor je. Willem zei dat je vanavond lang zou werken.
@@ -62,23 +62,23 @@ Lotte: Jouw werk. Het is… zo anders dan het mijne.
 Jonas: Anders, ja. Maar ik denk graag dat we allebei mensen helpen.
 달라, 맞아. 하지만 우리 둘 다 사람들을 돕는다고 생각하고 싶어.
 Collega: (komt aanlopen) Jonas, de verwachting is bijgesteld. Het wordt hoger dan gedacht. Drie meter vijftig.
-동료: (다가오며) 요나스, 예측이 수정됐어요. 생각보다 높아질 거예요. 삼 미터 오십이에요.
+(다가오며) 요나스, 예측이 수정됐어요. 생각보다 높아질 거예요. 삼 미터 오십이에요.
 Jonas: Drie vijftig? Dan sluit de kering zeker. Heb je het bericht al gestuurd naar Rotterdam?
 삼 오십이라고? 그럼 방벽은 분명 닫히겠네. 로테르담에 이미 연락했어?
 Collega: Ja, net. Zij bereiden alles voor.
-동료: 네, 방금요. 거기서 모든 준비를 하고 있어요.
+네, 방금요. 거기서 모든 준비를 하고 있어요.
 Jonas: Goed. (kijkt naar Lotte) Sorry. Dit is Marieke, mijn collega. Marieke, dit is Lotte.
 좋아. (로터를 보며) 미안해. 내 동료 마리커야. 마리커, 이쪽은 로터야.
 Marieke: Lotte! Jij bent die Lotte! Van de boekenwinkel!
-마리커: 로터! 당신이 그 로터군요! 서점의!
+로터! 당신이 그 로터군요! 서점의!
 Lotte: (lacht) Dus iedereen kent me?
 (웃으며) 그럼 다들 나를 아는 거예요?
 Marieke: Jonas praat constant over je. Over je boot, je vuurtoren, je poëzie. Sorry, Jonas.
-마리커: 요나스가 계속 당신 이야기를 해요. 배, 등대, 시에 대해서요. 미안, 요나스.
+요나스가 계속 당신 이야기를 해요. 배, 등대, 시에 대해서요. 미안, 요나스.
 Jonas: (rood) Marieke…
 (얼굴이 붉어져) 마리커…
 Marieke: Wat? Het is waar. Leuk je te ontmoeten, Lotte. Neem een stoel. Het wordt een lange nacht.
-마리커: 뭐가요? 사실인걸요. 만나서 반가워요, 로터. 의자에 앉으세요. 긴 밤이 될 거예요.
+뭐가요? 사실인걸요. 만나서 반가워요, 로터. 의자에 앉으세요. 긴 밤이 될 거예요.
 Lotte: Ze is aardig.
 다정한 분이네.
 Jonas: Ze is geweldig. Soms een beetje veel.
@@ -126,13 +126,13 @@ Jonas: Ik weet het. Ik zorg dat het goed komt.
 Lotte: (zachtjes) Dank je.
 (조용히) 고마워.
 Marieke: (roept) Jonas! De kering in Rotterdam sluit over tien minuten!
-마리커: (소리치며) 요나스! 로테르담 방벽이 십 분 뒤에 닫혀요!
+(소리치며) 요나스! 로테르담 방벽이 십 분 뒤에 닫혀요!
 Jonas: Ik kom! (tegen Lotte) Wil je meekijken? Het is spannend.
 지금 가요! (로터에게) 같이 볼래? 긴장감 넘쳐.
 Lotte: Graag.
 좋아.
 Marieke: (op het scherm) Kijk, daar. De armen komen in beweging.
-마리커: (화면을 가리키며) 봐요, 저기요. 팔이 움직이기 시작해요.
+(화면을 가리키며) 봐요, 저기요. 팔이 움직이기 시작해요.
 Lotte: (kijkt gefascineerd) Ze bewegen. Heel langzaam.
 (매료되어 바라보며) 움직여. 아주 천천히.
 Jonas: Het duurt anderhalf uur voor ze helemaal dicht zijn. Alles moet precies kloppen.
@@ -142,7 +142,7 @@ Lotte: Dat is zo groot en toch zo precies.
 Jonas: Dat is de schoonheid van het werk.
 그게 이 일의 아름다움이야.
 Marieke: De vloedgolf komt eraan. Peil is nu drie meter vijfentwintig.
-마리커: 해일이 오고 있어요. 수위는 지금 삼 미터 이십오예요.
+해일이 오고 있어요. 수위는 지금 삼 미터 이십오예요.
 Jonas: (kijkt strak naar het scherm) Houd het in de gaten.
 (화면을 응시하며) 계속 지켜봐요.
 Lotte: (stil, naast hem) Ik zeg niets. Ik kijk alleen.
@@ -150,15 +150,15 @@ Lotte: (stil, naast hem) Ik zeg niets. Ik kijk alleen.
 Jonas: (zachtjes) Dank je.
 (조용히) 고마워.
 Marieke: Peil drie meter dertig. Het stabiliseert.
-마리커: 수위 삼 미터 삼십입니다. 안정되고 있어요.
+수위 삼 미터 삼십입니다. 안정되고 있어요.
 Jonas: Het stabiliseert? Dat betekent dat het niet meer stijgt.
 안정되고 있다고? 더 이상 안 오른다는 뜻이야.
 Marieke: Ja! De kering is dicht. Het water blijft buiten.
-마리커: 네! 방벽이 닫혔어요. 물이 밖에 머물러요.
+네! 방벽이 닫혔어요. 물이 밖에 머물러요.
 Jonas: (ademt uit) Dank je, wereld.
 (숨을 내쉬며) 고마워요, 세상.
 Collega: (komt aanrennen) Goed gedaan, allemaal! Het peil zakt nu langzaam.
-동료: (달려오며) 모두 잘했어요! 수위가 이제 서서히 내려가요.
+(달려오며) 모두 잘했어요! 수위가 이제 서서히 내려가요.
 Jonas: (kijkt naar Lotte) Het is voorbij.
 (로터를 바라보며) 끝났어.
 Lotte: (trots, zachtjes) Ik ben trots op je.
@@ -184,7 +184,7 @@ Jonas: (glimlacht) Zekerheid. Dat is een woord dat ingenieurs niet gebruiken.
 Lotte: Dan ben ik de uitzondering. Ik gebruik het.
 그럼 내가 예외야. 난 쓸게.
 Marieke: (op de achtergrond) Mogen we de gele hesjes uitdelen? Het is een feest!
-마리커: (멀리서) 형광 조끼 나눠 줘도 돼요? 파티잖아요!
+(멀리서) 형광 조끼 나눠 줘도 돼요? 파티잖아요!
 Jonas: (lacht) Marieke, nee.
 (웃으며) 마리커, 안 돼요.
 Lotte: Ga maar. Ik wacht hier. Ik help met koffie.

@@ -36,19 +36,19 @@ Jonas: Nee, nee. Dit is mijn uitnodiging. U hebt mij de Jordaan laten zien.
 Lotte: Goed. Dan betaal ik de chocolademelk.
 알겠어요. 그럼 초콜릿 우유는 제가 살게요.
 Medewerker: (bij de ingang) Goedenavond! Mag ik uw kaartjes zien?
-직원: (입구에서) 안녕하세요! 표를 보여 주시겠어요?
+(입구에서) 안녕하세요! 표를 보여 주시겠어요?
 Jonas: Alstublieft.
 여기 있어요.
 Medewerker: Dank u wel. Welkom in het Rijksmuseum. De garderobe is links.
-직원: 감사합니다. 레이크스뮤지엄에 오신 것을 환영합니다. 보관소는 왼쪽이에요.
+감사합니다. 레이크스뮤지엄에 오신 것을 환영합니다. 보관소는 왼쪽이에요.
 Lotte: Waar is de garderobe precies?
 보관소가 정확히 어디예요?
 Medewerker: Achter de trap, bij de grote deur. U ziet de bordjes.
-직원: 계단 뒤, 큰 문 옆이에요. 표지판이 보이실 거예요.
+계단 뒤, 큰 문 옆이에요. 표지판이 보이실 거예요.
 Jonas: Hoe laat sluit het museum vanavond?
 오늘 밤 박물관은 몇 시에 문 닫아요?
 Medewerker: Om twee uur 's nachts. Maar de laatste rondleiding begint om half één.
-직원: 새벽 두 시예요. 하지만 마지막 가이드 투어는 열두 시 반에 시작해요.
+새벽 두 시예요. 하지만 마지막 가이드 투어는 열두 시 반에 시작해요.
 Jonas: Om twee uur! Dan hebben we veel tijd.
 두 시요! 그럼 시간이 많네요.
 Lotte: Half één… dat is twaalf uur dertig, hè? Niet half twee!
@@ -62,7 +62,7 @@ Jonas: Nee, ú hebt het mij geleerd.
 Lotte: (lacht) Dan hebben we het allebei geleerd. Kom, de garderobe.
 (웃으며) 그럼 둘 다 배운 거네요. 가요, 보관소로.
 Medewerker: (bij de garderobe) Goedenavond. Uw jas, alstublieft. Hier is uw nummer.
-직원: (보관소에서) 안녕하세요. 외투를 주세요. 여기 번호표예요.
+(보관소에서) 안녕하세요. 외투를 주세요. 여기 번호표예요.
 Jonas: Nummer zesenveertig. En voor u?
 사십육 번이에요. 로터는요?
 Lotte: Zevenenveertig. Dat past.
@@ -190,7 +190,7 @@ Lotte: Nee. Het is anders. Mooier.
 Jonas: Twee chocolademelk, alstublieft.
 초콜릿 우유 두 잔 주세요.
 Barista: Komt eraan. Met slagroom?
-바리스타: 곧 나와요. 휘핑크림 올릴까요?
+곧 나와요. 휘핑크림 올릴까요?
 Lotte: Ja, graag. En ik betaal.
 네, 부탁해요. 그리고 제가 낼게요.
 Jonas: Dank u. Dat was onze deal.

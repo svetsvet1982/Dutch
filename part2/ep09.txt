@@ -12,7 +12,7 @@ Jonas: Stamppot. Dat woord ken ik. Het is iets met aardappels.
 Lotte: Precies. "Stampen" betekent: fijnstampen. Je stampt de aardappels met een groente.
 맞아. "stampen"은 으깬다는 뜻이야. 감자를 채소와 함께 으깨는 거지.
 Tariq: (uit de keuken) Hallo, Lotte! Dit wordt een bijzondere avond.
-타리크: (부엌에서) 안녕, 로터! 오늘 특별한 저녁이 되겠네.
+(부엌에서) 안녕, 로터! 오늘 특별한 저녁이 되겠네.
 Lotte: Hoi Tariq! Is de keuken klaar?
 안녕, 타리크! 부엌은 준비됐어?
 Tariq: Hij is schoon. Nou ja, "schoon". Jonas heeft gisteren afgewassen.
@@ -28,7 +28,7 @@ Lotte: Voor drie personen… ongeveer een kilo. Dat zijn zo'n acht grote aardapp
 Jonas: Acht. (pakt een schilmesje) Ik heb nog nooit een aardappel geschild.
 여덟 개. (필러를 집으며) 감자를 깐 적이 한 번도 없어.
 Tariq: Zie je? Een volwassen man die geen aardappel kan schillen.
-타리크: 봤죠? 감자도 못 깎는 다 큰 어른이에요.
+봤죠? 감자도 못 깎는 다 큰 어른이에요.
 Jonas: Ik leer het nu. Schil naar je toe of van je af?
 이제 배우는 중이야. 몸 쪽으로 깎아, 아니면 바깥쪽으로?
 Lotte: Van je af. Dan snijd je je niet. Kijk, zo. (laat het zien)
@@ -46,13 +46,13 @@ Tariq: Zeker. Zal ik hem fijn snijden of grof?
 Lotte: Fijn. Niet te fijn, maar fijn genoeg.
 곱게. 너무 곱진 말고, 충분히 곱게.
 Tariq: Dat is Nederlands voor: "Doe maar iets."
-타리크: 그건 네덜란드어로 "대충 해 봐"라는 뜻이네.
+그건 네덜란드어로 "대충 해 봐"라는 뜻이네.
 Lotte: (lacht) Dat is precies wat het is. We hebben een spreekwoord: "Doe maar gewoon, dan doe je al gek genoeg."
 (웃으며) 정확히 그거야. 우리에겐 속담이 있어. "그냥 평범하게 해, 그것만으로도 충분히 이상해."
 Jonas: "Doe maar gewoon, dan doe je al gek genoeg." Dat is een bijzonder spreekwoord.
 "Doe maar gewoon, dan doe je al gek genoeg." 독특한 속담이네.
 Tariq: Het is de Nederlandse levensfilosofie. Nooit opvallen. Nooit te veel.
-타리크: 네덜란드의 인생철학이죠. 눈에 띄지 말고, 지나치지 말고.
+네덜란드의 인생철학이죠. 눈에 띄지 말고, 지나치지 말고.
 Lotte: Dat is een beetje overdreven. Maar het zit er wel in.
 조금 과장이야. 하지만 그런 면이 있기는 해.
 Tariq: Ik ben Nederlander, maar mijn oma is Marokkaans. Bij haar is het: "Maak het mooi. Maak het groot."
@@ -80,7 +80,7 @@ Jonas: Ik wil gewoon proeven.
 Lotte: (zucht) Goed. Een heel klein beetje. Als het niet lekker is, gooi ik het weg.
 (한숨 쉬며) 알았어. 아주 조금만. 맛없으면 버릴 거야.
 Tariq: Het wordt lekker. Dat beloof ik.
-타리크: 맛있을 거야. 약속해.
+맛있을 거야. 약속해.
 Lotte: Jonas, hoe staat het met de aardappels?
 요나스, 감자는 어떻게 돼 가?
 Jonas: Acht geschild. Eén snij ik half af. (laat zien) Mijn eerste verlies.
@@ -98,13 +98,13 @@ Lotte: Perfect. Nu aan de kook brengen. Twintig minuten.
 Jonas: Twintig minuten. Dan ga ik de boerenkool helpen.
 이십 분이네. 그럼 케일을 도우러 갈게.
 Tariq: Nee, jij gaat de tafel dekken. Dat kun je tenminste.
-타리크: 아니, 넌 식탁을 차려. 그건 할 수 있잖아.
+아니, 넌 식탁을 차려. 그건 할 수 있잖아.
 Jonas: (lacht) Dank je. Dat is lief.
 (웃으며) 고마워. 다정하네.
 Lotte: (snijdt uien) Weet je… dit is leuk. Samen koken. Ik kook zelden voor anderen.
 (양파를 썰며) 있잖아… 이거 즐거워. 같이 요리하는 거. 난 남을 위해 요리하는 일이 드물어.
 Tariq: Waarom niet? Je kunt het goed.
-타리크: 왜? 잘하잖아.
+왜? 잘하잖아.
 Lotte: Op mijn boot is de keuken klein. En ik ben meestal alleen.
 배 위 부엌이 작아서. 그리고 보통 혼자거든.
 Jonas: (komt terug) Nu niet.
@@ -120,11 +120,11 @@ Jonas: (prikt, tilt dan de pan, met een keukenhandschoen) Hij is zacht. Zal ik h
 Lotte: Ja, pas op, heet! Nu doen we de boerenkool erbij. Eén minuut koken, en dan stampen.
 응, 조심해, 뜨거워! 이제 케일을 넣어. 일 분 끓이고 으깨는 거야.
 Tariq: (komt terug) Kom ik gelegen?
-타리크: (돌아오며) 제때 왔나?
+(돌아오며) 제때 왔나?
 Lotte: Perfect getimed. Hier, de boerenkool.
 딱 맞춰 왔어. 여기 케일.
 Tariq: Hier is de ras el hanout. Een snuifje.
-타리크: 여기 라스 엘 하누트야. 한 꼬집.
+여기 라스 엘 하누트야. 한 꼬집.
 Lotte: Een snuifje. Niet meer.
 한 꼬집. 더 말고.
 Tariq: (strooit) Een heel klein snuifje.
@@ -142,7 +142,7 @@ Jonas: (stopt) Zo goed?
 Lotte: Prima. Nu de rookworst. Die moet in de pan, vijf minuten.
 좋아. 이제 훈제 소시지. 냄비에 오 분 데워야 해.
 Tariq: Ik doe de worst. Ga jij maar zitten.
-타리크: 소시지는 내가 할게. 앉아 있어.
+소시지는 내가 할게. 앉아 있어.
 Jonas: (roert) Dat ruikt lekker. Nu begrijp ik waarom iedereen het zo graag eet.
 (저으며) 냄새가 좋아. 이제 왜 다들 이렇게 좋아하는지 알겠어.
 Lotte: Dat is de geur van thuis. Voor mij althans.
@@ -150,7 +150,7 @@ Lotte: Dat is de geur van thuis. Voor mij althans.
 Jonas: Dat begrijp ik. Mijn moeders erwtensoep ook.
 이해해. 우리 엄마의 완두콩 수프도 그래.
 Tariq: Mijn oma's couscous. Elke vrijdag. (zucht) Ik mis het.
-타리크: 우리 할머니의 쿠스쿠스. 매주 금요일. (한숨) 그리워요.
+우리 할머니의 쿠스쿠스. 매주 금요일. (한숨) 그리워요.
 Lotte: Dan moeten we een keer couscous eten bij jouw oma.
 그럼 언제 한번 네 할머니 댁에서 쿠스쿠스 먹어야겠다.
 Tariq: Echt? Dan ga ik haar bellen. Ze vindt het geweldig.
@@ -178,7 +178,7 @@ Tariq: Je proeft het nauwelijks. Maar het geeft een warme smaak.
 Lotte: (proeft) Hmm. Eigenlijk best lekker.
 (맛을 보며) 음. 사실 꽤 맛있네.
 Tariq: Zie je? Ik zei het toch!
-타리크: 봤죠? 내가 말했잖아요!
+봤죠? 내가 말했잖아요!
 Lotte: Goed, goed. Ik had ongelijk. Dat zeg ik niet vaak.
 알았어, 알았어. 내가 틀렸어. 이런 말은 자주 안 해.
 Jonas: Dat is waar. Ik schrijf het op. (pakt zijn notitieboekje)
@@ -186,9 +186,9 @@ Jonas: Dat is waar. Ik schrijf het op. (pakt zijn notitieboekje)
 Lotte: (lacht) Het is de eerste en de laatste keer.
 (웃으며) 처음이자 마지막이야.
 Jonas: Smakelijk eten, allemaal!
-요나스: 모두 맛있게 드세요!
+모두 맛있게 드세요!
 Tariq: Smakelijk eten!
-타리크: 맛있게 드세요!
+맛있게 드세요!
 Lotte: Smakelijk eten, Jonas. En bedankt voor de uitnodiging.
 맛있게 먹어, 요나스. 그리고 초대해 줘서 고마워.
 Jonas: Graag gedaan. Het is Valentijnsdag, weet je.

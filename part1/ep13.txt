@@ -70,11 +70,11 @@ Jonas: (eet) Mmm. Hij is hard, maar lekker. Een beetje zoet, een beetje pittig.
 Lotte: Kijk, daar. Dat meisje voor ons kan niets zien.
 보세요, 저기요. 우리 앞에 있는 저 여자아이는 아무것도 못 봐요.
 Meisje: (kijkt omhoog) Dag meneer. Ik kan ook niets zien.
-여자아이: (올려다보며) 안녕하세요, 아저씨. 아무것도 안 보여요.
+(올려다보며) 안녕하세요, 아저씨. 아무것도 안 보여요.
 Jonas: Hallo. Hoe heet je?
 안녕. 이름이 뭐니?
 Meisje: Mila. Ik ben vijf. En ik wil Sinterklaas zien.
-여자아이: 밀라예요. 다섯 살이에요. 사인터클라스를 보고 싶어요.
+밀라예요. 다섯 살이에요. 사인터클라스를 보고 싶어요.
 Jonas: Wil je op mijn schouders?
 내 어깨 위에 올라갈래?
 Meisje: Mag dat?
@@ -82,7 +82,7 @@ Meisje: Mag dat?
 Jonas: Als je mama het goed vindt.
 엄마가 괜찮다고 하시면.
 Moeder: (achter hen) Prima, hoor. Dank u wel!
-엄마: (뒤에서) 좋아요. 고마워요!
+(뒤에서) 좋아요. 고마워요!
 Jonas: (tilt Mila op zijn schouders) Zo. Zie je hem nu?
 (밀라를 어깨에 올리며) 자. 이제 보이니?
 Mila: Ja! Ik zie hem! Hij heeft een boek! Het grote boek!
@@ -130,7 +130,7 @@ Jonas: Goed. (zet haar neer) Tot ziens, Mila.
 Mila: Dag meneer! Dag mevrouw!
 밀라: 안녕히 계세요, 아저씨! 안녕히 계세요, 아줌마!
 Moeder: Hartelijk bedankt. Fijne dag nog!
-엄마: 정말 고마워요. 좋은 하루 보내세요!
+정말 고마워요. 좋은 하루 보내세요!
 Lotte: U bent goed met kinderen.
 요나스는 아이들을 잘 다루네요.
 Jonas: Ik heb een nichtje in Zweden. Ze is vier. Ze zegt ook zulke dingen.
@@ -152,7 +152,7 @@ Lotte: Dat zie ik. Daar is een kraampje. Kom.
 Jonas: (bij het kraampje) Twee chocolademelk, alstublieft.
 (가판대에서) 초콜릿 우유 두 잔 주세요.
 Verkoper: Alstublieft. Zes euro.
-판매원: 여기 있어요. 육 유로입니다.
+여기 있어요. 육 유로입니다.
 Lotte: Ik betaal. Dit is de tweede keer dat u de chocolademelk niet mag betalen.
 제가 낼게요. 요나스가 초콜릿 우유를 못 내게 하는 건 이번이 두 번째네요.
 Jonas: Dat klopt. U wint altijd.

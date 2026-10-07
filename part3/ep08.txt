@@ -30,11 +30,11 @@ Lotte: Echt niet. Vandaag is een dag voor oranje. En voor boeken. Morgen praten 
 Lotte: (zet een bordje neer: "Alle boeken € 2") Zo. Open voor zaken.
 ("모든 책 2유로"라는 팻말을 세우며) 자. 영업 시작이야.
 Passant: (blijft staan bij de tafel) Goedemorgen. Wat een leuke boeken. Hoeveel wil je ervoor hebben?
-행인: (탁자 앞에 멈춰 서며) 안녕하세요. 책이 정말 재미있네요. 얼마에 파실래요?
+(탁자 앞에 멈춰 서며) 안녕하세요. 책이 정말 재미있네요. 얼마에 파실래요?
 Lotte: Twee euro per stuk. Of vijf voor tien.
 한 권에 이 유로예요. 열 권에 오 유로요.
 Passant: Vijf voor tien? Dat is een goede deal. Kan het wat goedkoper?
-행인: 열 권에 오 유로요? 좋은 가격이네요. 조금 더 싸게 안 될까요?
+열 권에 오 유로요? 좋은 가격이네요. 조금 더 싸게 안 될까요?
 Jonas: (zachtjes, tegen Lotte) Is dat beleefd? Je kunt het toch niet zomaar vragen?
 (로터에게 조용히) 그게 예의 바른 거야? 그냥 그렇게 물어봐도 돼?
 Lotte: (zachtjes) Op Koningsdag mag alles. Het is een spel. Kijk maar.
@@ -42,11 +42,11 @@ Lotte: (zachtjes) Op Koningsdag mag alles. Het is een spel. Kijk maar.
 Lotte: (tegen de passant) Wat dacht u van vier euro voor tien?
 (행인에게) 열 권에 사 유로는 어떠세요?
 Passant: Drie vijftig.
-행인: 삼 유로 오십.
+삼 유로 오십.
 Lotte: Drie vijfenzeventig.
 삼 유로 칠십오요.
 Passant: Afgesproken. (pakt tien boeken) Dank je wel.
-행인: 좋아요. (책 열 권을 집으며) 감사합니다.
+좋아요. (책 열 권을 집으며) 감사합니다.
 Jonas: (kijkt verbaasd) Wat gebeurde er net?
 (놀라서 바라보며) 방금 무슨 일이 있었어?
 Lotte: Dat is onderhandelen. Het hoort erbij. De verkoper vraagt meer dan hij wil, en de koper biedt minder dan hij wil. Dan komen ze in het midden uit. Probeer het zelf maar eens: daar loopt een mevrouw met een grote tas.
@@ -54,23 +54,23 @@ Lotte: Dat is onderhandelen. Het hoort erbij. De verkoper vraagt meer dan hij wi
 Jonas: Goedemorgen, mevrouw! Wilt u een mooi boek? Eh… alle boeken zijn… twee euro.
 (손님에게) 안녕하세요, 부인! 좋은 책 사시겠어요? 어… 모든 책이 이 유로예요.
 Mevrouw: (kijkt naar de boeken) Twee euro per boek? Voor deze kookboeken? Dat is veel. Kan het wat goedkoper?
-부인: (책을 보며) 한 권에 이 유로요? 이 요리책들이요? 비싸네요. 조금 싸게 안 될까요?
+(책을 보며) 한 권에 이 유로요? 이 요리책들이요? 비싸네요. 조금 싸게 안 될까요?
 Jonas: (kijkt naar Lotte, panisch, dan terug) Eh… Anderhalve euro.
 (로터를 보고 당황해 다시 부인을 보며) 어… 일 유로 오십이요.
 Mevrouw: Eén euro.
-부인: 일 유로요.
+일 유로요.
 Jonas: Eén vijftig. Is dat goed?
 일 유로 오십이요. 괜찮으세요?
 Mevrouw: Eén vijfentwintig. En ik koop er vijf.
-부인: 일 유로 이십오요. 그리고 다섯 권 살게요.
+일 유로 이십오요. 그리고 다섯 권 살게요.
 Jonas: (kijkt naar Lotte, die knikt) Afgesproken!
 (고개를 끄덕이는 로터를 보며) 좋아요!
 Mevrouw: Dank je wel, jongeman. (betaalt) U bent erg beleefd voor een Nederlander.
-부인: 고마워요, 젊은이. (돈을 내며) 네덜란드 사람치고는 아주 예의 바르시네요.
+고마워요, 젊은이. (돈을 내며) 네덜란드 사람치고는 아주 예의 바르시네요.
 Jonas: Ik ben Zweed.
 저는 스웨덴 사람이에요.
 Mevrouw: Ah! Dan snap ik het. (loopt lachend door)
-부인: 아! 그럼 이해돼요. (웃으며 지나간다)
+아! 그럼 이해돼요. (웃으며 지나간다)
 Lotte: (lacht) Dat ging goed.
 (웃으며) 잘했어.
 Jonas: Ik voel me alsof ik een misdaad heb gepleegd.
@@ -82,11 +82,11 @@ Jonas: (lacht) Ik ben een natuurtalent.
 Lotte: Je bent een fatsoenlijke Zweed die zijn eerste afdingen heeft gedaan.
 넌 첫 흥정을 해 본 점잖은 스웨덴 사람이야.
 Pieter: (komt aanlopen met een speaker, in een oranje pak) Lotte! Jonas! Oranje boven!
-피터: (스피커를 들고 주황색 정장을 입은 채 다가오며) 로터! 요나스! 오렌지 만세!
+(스피커를 들고 주황색 정장을 입은 채 다가오며) 로터! 요나스! 오렌지 만세!
 Lotte: Pieter! Wat is dat voor een pak?
 피터! 그건 무슨 정장이야?
 Pieter: Mijn Koningsdag-pak. Ik heb het gehuurd. Het is verschrikkelijk. Ik ben DJ vandaag, voor de vrijmarkt.
-피터: 왕의 날 정장이에요. 빌렸어요. 끔찍하죠. 오늘 프레이마르크트의 DJ예요.
+왕의 날 정장이에요. 빌렸어요. 끔찍하죠. 오늘 프레이마르크트의 DJ예요.
 Jonas: Een DJ?
 DJ요?
 Pieter: Ik draai de hele dag Nederlandstalige hits. "Oranje boven" is de eerste.
@@ -104,11 +104,11 @@ Willem: (komt aan, in een oranje vest, met de kat in een draagtas) Goedemorgen! 
 Lotte: Meneer Willem! En Multatuli! Hij heeft een oranje strik!
 빌럼 씨! 그리고 물타툴리! 주황 리본을 달았네요!
 Willem: Hij heeft geprotesteerd. Maar hij is van mij, dus hij draagt hem.
-빌럼: 항의했어요. 하지만 내 고양이니까 달아야죠.
+항의했어요. 하지만 내 고양이니까 달아야죠.
 Jonas: (niest) Hatsjoe! Gezondheid voor mij.
 (재채기하며) 에취! 나한테 건강하라고 해 줘.
 Willem: Gezondheid. En ik neem hem even mee naar achteren. Dan is hij beschermd.
-빌럼: 건강해요. 그리고 얘를 잠깐 뒤로 데려갈게요. 보호받게요.
+건강해요. 그리고 얘를 잠깐 뒤로 데려갈게요. 보호받게요.
 Jonas: Dank u wel.
 고맙습니다.
 Willem: Hoe gaat de verkoop?
@@ -130,7 +130,7 @@ Lotte: (kijkt omhoog) Kijk, daar komt de optocht. De kinderen verkleed als prins
 Jonas: (kijkt) Wat schattig. Alle koningen en prinsessen.
 (바라보며) 정말 귀여워. 왕과 공주들이 가득해.
 Kind: (loopt voorbij) Lang leve de koning!
-아이: (지나가며) 왕 만세!
+(지나가며) 왕 만세!
 Jonas: (roept terug) Lang leve de koning!
 (되받아 외치며) 왕 만세!
 Lotte: (lacht) Je roept het al!
@@ -140,7 +140,7 @@ Jonas: Ik ben een gast in een land. Ik hoor mee te doen.
 Jonas: Maar ik begrijp één ding niet. Waarom viert een republiek van burgers het feest van een koning?
 하지만 하나 이해 안 가는 게 있어요. 왜 시민들의 공화국 같은 나라가 왕의 축제를 기념하죠?
 Willem: Nederland is geen republiek. Het is een constitutionele monarchie. Maar het is waar: wij hebben weinig respect voor autoriteit. En toch houden we van de koning.
-빌럼: 네덜란드는 공화국이 아니에요. 입헌 군주국이죠. 하지만 맞아요, 우리는 권위에 대한 존경심이 적어요. 그런데도 왕을 좋아해요.
+네덜란드는 공화국이 아니에요. 입헌 군주국이죠. 하지만 맞아요, 우리는 권위에 대한 존경심이 적어요. 그런데도 왕을 좋아해요.
 Jonas: Een mooie tegenstelling.
 아름다운 모순이네요.
 Willem: Het is de Nederlandse ziel. Jij wordt er langzaam deel van.
@@ -148,7 +148,7 @@ Willem: Het is de Nederlandse ziel. Jij wordt er langzaam deel van.
 Jonas: (kijkt naar Lotte) Daar ben ik voorzichtig mee.
 (로터를 바라보며) 그건 조심스러워요.
 Willem: Natuurlijk. (kijkt weg, wijs) Ik ga de kat brengen.
-빌럼: 물론이죠. (눈길을 돌리며 현명하게) 고양이를 데려다 놓을게요.
+물론이죠. (눈길을 돌리며 현명하게) 고양이를 데려다 놓을게요.
 Lotte: (zachtjes) Jonas?
 (조용히) 요나스?
 Jonas: Ja?
@@ -182,13 +182,13 @@ Lotte: Ik probeer het. Het is niet makkelijk.
 Jonas: (zacht) Ik weet het.
 (조용히) 알아.
 Pieter: (op de achtergrond) En nu een speciaal verzoeknummer voor Lotte en Jonas: "Zij gelooft in mij".
-피터: (멀리서) 이제 로터와 요나스를 위한 특별 신청곡입니다. "그녀는 나를 믿어".
+(멀리서) 이제 로터와 요나스를 위한 특별 신청곡입니다. "그녀는 나를 믿어".
 Lotte: (lacht, rood) Pieter!
 (웃으며 얼굴이 붉어져) 피터!
 Jonas: (lacht) Wie heeft dat aangevraagd?
 (웃으며) 누가 신청했어?
 Pieter: (roept) Iemand die verliefd is, dat is alles wat ik zeg!
-피터: (소리치며) 사랑에 빠진 사람이죠, 그게 제가 말할 전부예요!
+(소리치며) 사랑에 빠진 사람이죠, 그게 제가 말할 전부예요!
 Lotte: (kijkt naar Jonas) Wie was dat?
 (요나스를 바라보며) 누구야?
 Jonas: Ik heb er niets mee te maken. Misschien… Fleur.

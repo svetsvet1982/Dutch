@@ -6,13 +6,13 @@
 Lotte: (bij het loket) Twee keer schaatsen, alstublieft. En twee paar schaatsen om te huren.
 (매표소에서) 스케이트 이용권 두 장 주세요. 그리고 대여용 스케이트도 두 켤레요.
 Medewerker: Welke maat?
-직원: 사이즈가 어떻게 되세요?
+사이즈가 어떻게 되세요?
 Lotte: Ik zeven en dertig. En hij…
 저는 삼십칠이요. 그리고 이 사람은…
 Jonas: Tweeënveertig.
 사십이요.
 Medewerker: Alstublieft. Dat is dan veertien euro. Veel plezier!
-직원: 여기 있어요. 그럼 십사 유로입니다. 즐거운 시간 보내세요!
+여기 있어요. 그럼 십사 유로입니다. 즐거운 시간 보내세요!
 Lotte: Dank u wel. Kom, Jonas, we gaan ons omkleden.
 감사합니다. 가자, 요나스, 갈아입으러 가자.
 Jonas: (op een bankje, strikt zijn schaatsen) Oh, dit is een ouderwets model. Met leren veters.
@@ -148,7 +148,7 @@ Jonas: Nog een taal om te leren.
 Lotte: (lacht) Eén taal tegelijk.
 (웃으며) 한 번에 한 언어씩.
 Verkoper: Twee warme chocolademelk en twee koeken? Dat is acht euro.
-판매원: 따뜻한 코코아 두 잔과 과자 두 개요? 팔 유로입니다.
+따뜻한 코코아 두 잔과 과자 두 개요? 팔 유로입니다.
 Jonas: Ik betaal.
 내가 낼게.
 Lotte: Dit keer mag je betalen. Maar volgende keer ik.

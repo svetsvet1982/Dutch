@@ -26,19 +26,19 @@ Jonas: (strooit suiker) Zo? Veel of weinig?
 Lotte: Veel. Echt veel. Het hoort op je neus te zitten: dat is de traditie.
 많이. 진짜 많이. 코에 묻어야 제맛이야. 그게 전통이거든.
 Tariq: (komt binnen, met flesjes) Hé! Is dit het feest?
-타리크: (병을 들고 들어오며) 어이! 여기가 파티 장소야?
+(병을 들고 들어오며) 어이! 여기가 파티 장소야?
 Jonas: Tariq! Je bent er!
 타리크! 왔구나!
 Tariq: Natuurlijk. Ik heb alcoholvrije bubbels meegenomen. Voor de Zweed met zijn medicijnen.
 당연하지. 무알코올 스파클링을 가져왔어. 약 먹는 스웨덴 사람을 위해서.
 Fleur: (komt binnen, met Daan) Gelukkig nieuwjaar! Ik ben te vroeg, ik weet het!
-플뢰르: (다안과 함께 들어오며) 새해 복 많이 받아! 내가 일찍 온 건 알아!
+(다안과 함께 들어오며) 새해 복 많이 받아! 내가 일찍 온 건 알아!
 Lotte: Het is pas negen uur, Fleur. Het is nog geen nieuwjaar.
 아직 아홉 시야, 플뢰르. 새해는 아직 아니야.
 Fleur: Dan zeg ik het alvast. Dan hoef ik het straks niet te doen.
 그럼 미리 말하는 거야. 그러면 이따가는 안 해도 되잖아.
 Daan: Ik heb champagne meegenomen. En een kaartspel.
-다안: 샴페인을 가져왔어. 카드 게임도.
+샴페인을 가져왔어. 카드 게임도.
 Lotte: Prima. Zet de champagne maar in de koelkast.
 좋아. 샴페인은 냉장고에 넣어 둬.
 Fleur: Jonas, jij ook gelukkig nieuwjaar!
@@ -84,7 +84,7 @@ Jonas: (stil) Dank je.
 Fleur: (kijkt naar Daan, grijnst) Iemand heeft een nieuwe vriend.
 (다안을 바라보며 씩 웃고) 누군가에게 새 친구가 생겼네.
 Daan: Het is vijf voor twaalf. Nog vijf minuten! Iedereen naar het dek!
-다안: 열두 시 오 분 전이야. 이제 오 분 남았어! 모두 갑판으로!
+열두 시 오 분 전이야. 이제 오 분 남았어! 모두 갑판으로!
 Lotte: We hebben een dak. We gaan naar het dek. Pak je jas.
 우리 배에 갑판이 있어. 갑판으로 가자. 코트 챙겨.
 Jonas: (trekt zijn jas aan) Is het veilig? Met al dat vuurwerk?
@@ -120,15 +120,15 @@ Lotte: Ik weet het. Ik ben een beetje zenuwachtig.
 Jonas: Ik ook.
 나도.
 Daan: (van boven) Nog twee minuten! Waar blijven jullie?
-다안: (위에서) 이제 이 분 남았어! 어디 있는 거야?
+(위에서) 이제 이 분 남았어! 어디 있는 거야?
 Lotte: We komen!
 우리 간다!
 Lotte: (pakt zijn hand) Kom.
 (그의 손을 잡고) 가자.
 Fleur: (op het dek, met een glas) Daar zijn ze. Schiet op, het begint zo!
-플뢰르: (갑판에서 잔을 들고) 저기 왔다. 서둘러, 곧 시작해!
+(갑판에서 잔을 들고) 저기 왔다. 서둘러, 곧 시작해!
 Tariq: Iedereen een glas? Dan tellen we af.
-타리크: 다들 잔 있어? 그럼 카운트다운 하자.
+다들 잔 있어? 그럼 카운트다운 하자.
 Jonas: (staat naast Lotte, zachtjes) Ik hoor de klokken. Van de Westertoren.
 (로터 옆에 서서 조용히) 종소리가 들려. 웨스터르토런에서 나는 소리.
 Lotte: Dat is de eerste klok. Straks luiden ze allemaal tegelijk.
@@ -156,13 +156,13 @@ Jonas: (zachtjes, tegen Lotte) Gelukkig nieuwjaar.
 Lotte: (zachtjes) Gelukkig nieuwjaar, Jonas. (ze kussen elkaar)
 (조용히) 새해 복 많이 받아, 요나스. (둘이 입을 맞춘다)
 Fleur: (juichend) Yes! Eindelijk!
-플뢰르: (환호하며) 해냈다! 드디어!
+(환호하며) 해냈다! 드디어!
 Tariq: (juichend) Geef mij vijf euro!
-타리크: (환호하며) 오 유로 내놔!
+(환호하며) 오 유로 내놔!
 Daan: Wat? Jullie hebben gewed?
-다안: 뭐? 너희 내기했어?
+뭐? 너희 내기했어?
 Tariq: Sinds half november. Fleur zei: oud en nieuw. Ik zei: Valentijn. Ik verloor.
-타리크: 십일월 중순부터. 플뢰르는 새해라고 했고, 나는 발렌타인이라고 했어. 내가 졌지.
+십일월 중순부터. 플뢰르는 새해라고 했고, 나는 발렌타인이라고 했어. 내가 졌지.
 Lotte: (lacht, rood) Jullie hebben gewed op ons?
 (웃으며 얼굴이 붉어져) 우리를 두고 내기를 했다고?
 Fleur: Natuurlijk. Wat dacht je?
@@ -180,15 +180,15 @@ Jonas: Gelukkig nieuwjaar. Op ons?
 Lotte: Op ons. (ze proosten)
 우리를 위해. (둘이 잔을 부딪친다)
 Fleur: En nu: drie zoenen! Voor iedereen!
-플뢰르: 이제 세 번 뽀뽀! 모두에게!
+이제 세 번 뽀뽀! 모두에게!
 Jonas: Oh nee. Daar komen ze.
-요나스: 아, 안 돼. 시작이다.
+아, 안 돼. 시작이다.
 Tariq: (loopt op hem af) Links, rechts, links.
-타리크: (그에게 다가가며) 왼쪽, 오른쪽, 왼쪽.
+(그에게 다가가며) 왼쪽, 오른쪽, 왼쪽.
 Jonas: (probeert het, botst met zijn neus) Au!
 (시도하다가 코가 부딪히며) 아야!
 Tariq: Verkeerde kant! Opnieuw!
-타리크: 방향이 틀렸어! 다시!
+방향이 틀렸어! 다시!
 Lotte: (lacht, hartelijk) Je leert het wel. Het is een jaar vol oefening.
 (다정하게 웃으며) 차차 배울 거야. 한 해 동안 연습할 수 있어.
 Jonas: Beetje bij beetje.
@@ -196,7 +196,7 @@ Jonas: Beetje bij beetje.
 Lotte: Beetje bij beetje. Dat is mooi.
 조금씩 조금씩. 좋은 말이야.
 Fleur: (kijkt naar het vuurwerk) Wat een vuurwerk!
-플뢰르: (불꽃놀이를 보며) 정말 대단한 불꽃놀이야!
+(불꽃놀이를 보며) 정말 대단한 불꽃놀이야!
 Lotte: Ja, kijk! Alles is rood en goud.
 응, 봐! 온통 붉고 금빛이야.
 Jonas: Het is net alsof de hele stad danst.

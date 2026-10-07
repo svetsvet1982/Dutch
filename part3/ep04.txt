@@ -46,11 +46,11 @@ Lotte: Hoe sneller, hoe beter. Anders is hij misschien al ver weg.
 Jonas: In Amsterdam kan hij niet ver zijn. Alles is dichtbij.
 암스테르담에서는 멀리 못 가. 다 가깝잖아.
 Agent: (achter de balie, bij het politiebureau) Goedemiddag. Waarmee kan ik u helpen?
-경찰관: (경찰서 접수대 뒤에서) 안녕하세요. 무엇을 도와드릴까요?
+(경찰서 접수대 뒤에서) 안녕하세요. 무엇을 도와드릴까요?
 Jonas: Goedemiddag. Ik wil aangifte doen. Mijn fiets is gestolen.
 안녕하세요. 신고하고 싶어요. 제 자전거를 도둑맞았어요.
 Agent: Ik begrijp het. Gaat u zitten. Ik pak het formulier erbij. (pakt een formulier) Uw naam?
-경찰관: 알겠습니다. 앉으세요. 서식을 가져올게요. (서식을 꺼내며) 성함이요?
+알겠습니다. 앉으세요. 서식을 가져올게요. (서식을 꺼내며) 성함이요?
 Jonas: Jonas Lindqvist. L-I-N-D-Q-V-I-S-T.
 요나스 린드크비스트. L-I-N-D-Q-V-I-S-T입니다.
 Agent: Zweeds, hè? Uw geboortedatum?
@@ -78,7 +78,7 @@ Agent: Waar hebt u hem gekocht?
 Jonas: Bij een man op straat. Voor zestig euro.
 길에서 어떤 남자한테요. 육십 유로에요.
 Agent: (kijkt op) Op straat? Zestig euro?
-경찰관: (고개를 들며) 길에서요? 육십 유로요?
+(고개를 들며) 길에서요? 육십 유로요?
 Lotte: (zachtjes) Oei.
 (조용히) 어머.
 Jonas: Ja. Het was een goede deal, dacht ik.
@@ -98,67 +98,67 @@ Lotte: (zachtjes) Ik zei dat je altijd het nummer moest controleren.
 Jonas: (zachtjes) Ik weet het.
 (조용히) 알아.
 Agent: Dan wordt het lastig. Zonder framenummer kunnen wij de fiets niet zo makkelijk terugvinden.
-경찰관: 그럼 어렵겠네요. 프레임 번호 없이는 자전거를 쉽게 찾을 수 없어요.
+그럼 어렵겠네요. 프레임 번호 없이는 자전거를 쉽게 찾을 수 없어요.
 Jonas: Maar ik heb een foto. (pakt zijn telefoon) Kijk. Ik heb hem gefotografeerd, toen ik hem net had.
 하지만 사진이 있어요. (휴대폰을 꺼내며) 보세요. 막 샀을 때 찍어 뒀어요.
 Agent: Mag ik zien? (pakt de telefoon, kijkt) Hmm. Wacht. Dit is interessant.
-경찰관: 봐도 될까요? (휴대폰을 받아 보며) 음. 잠깐만요. 흥미롭군요.
+봐도 될까요? (휴대폰을 받아 보며) 음. 잠깐만요. 흥미롭군요.
 Jonas: Wat?
 뭐가요?
 Agent: Op de foto zie ik het framenummer. Het is nét zichtbaar. (zoomt in) Mag ik even iets controleren?
-경찰관: 사진에서 프레임 번호가 보여요. 간신히요. (확대하며) 뭘 잠깐 확인해 봐도 될까요?
+사진에서 프레임 번호가 보여요. 간신히요. (확대하며) 뭘 잠깐 확인해 봐도 될까요?
 Jonas: Natuurlijk.
 물론이죠.
 Agent: (typt op zijn computer) Ik zoek het nummer op in ons systeem.
-경찰관: (컴퓨터에 입력하며) 이 번호를 시스템에서 조회해 볼게요.
+(컴퓨터에 입력하며) 이 번호를 시스템에서 조회해 볼게요.
 Lotte: (zachtjes) Waarom kijkt hij zo?
 (조용히) 왜 저렇게 보는 거지?
 Jonas: (zachtjes) Ik weet het niet.
 (조용히) 모르겠어.
 Agent: (kijkt op, serieus) Meneer Lindqvist, uw fiets was al gestolen.
-경찰관: (고개를 들며 진지하게) 린드크비스트 씨, 이 자전거는 이미 도난 신고가 되어 있었어요.
+(고개를 들며 진지하게) 린드크비스트 씨, 이 자전거는 이미 도난 신고가 되어 있었어요.
 Jonas: Wat?
 뭐라고요?
 Agent: Dit framenummer staat in ons systeem. De fiets is twee jaar geleden gestolen bij een station in Utrecht.
-경찰관: 이 프레임 번호가 시스템에 있어요. 이 년 전 위트레흐트의 역에서 도난당한 자전거예요.
+이 프레임 번호가 시스템에 있어요. 이 년 전 위트레흐트의 역에서 도난당한 자전거예요.
 Jonas: (witte wangen) Dus… ik had een gestolen fiets?
 (얼굴이 하얗게 질려) 그러니까… 제가 훔친 자전거를 갖고 있었던 거예요?
 Agent: Ja. U hebt een gestolen fiets gekocht. Dat heet heling. Het is niet legaal.
-경찰관: 네. 도난 자전거를 사셨어요. 이걸 장물 취득이라고 해요. 불법이에요.
+네. 도난 자전거를 사셨어요. 이걸 장물 취득이라고 해요. 불법이에요.
 Jonas: Heling? Maar ik wist het niet!
 장물 취득이요? 하지만 전 몰랐어요!
 Agent: Dat geloof ik. U bent een buitenlander, u zocht een goedkope fiets, u hebt niets gecontroleerd. Dat gebeurt vaak.
-경찰관: 그건 믿어요. 외국인이시고, 싼 자전거를 찾으셨고, 확인을 안 하셨죠. 흔히 있는 일이에요.
+그건 믿어요. 외국인이시고, 싼 자전거를 찾으셨고, 확인을 안 하셨죠. 흔히 있는 일이에요.
 Lotte: (zacht) Is hij in de problemen?
 (조용히) 이 사람 곤란해지나요?
 Agent: Nee. Als u aangeeft dat u de fiets niet kende, krijgt u geen straf. Maar de fiets is niet meer van u. Hij is van de rechtmatige eigenaar.
-경찰관: 아니요. 이 자전거인 줄 몰랐다고 신고하시면 처벌은 없어요. 하지만 이 자전거는 더 이상 당신 것이 아니에요. 정당한 소유주의 것이에요.
+아니요. 이 자전거인 줄 몰랐다고 신고하시면 처벌은 없어요. 하지만 이 자전거는 더 이상 당신 것이 아니에요. 정당한 소유주의 것이에요.
 Jonas: Dus ik had hem nooit mogen houden.
 그러니까 처음부터 갖고 있으면 안 되는 거였네요.
 Agent: Dat klopt. Maar nu is hij weg. Dus het probleem is… opgelost. Op een bijzondere manier.
-경찰관: 맞습니다. 하지만 이제 없어졌죠. 그러니 문제가… 해결됐어요. 특이한 방식으로요.
+맞습니다. 하지만 이제 없어졌죠. 그러니 문제가… 해결됐어요. 특이한 방식으로요.
 Agent: (met een kleine glimlach) De echte dief heeft de gestolen fiets gestolen. Wij zeggen: "Gestolen goed gedijt niet."
-경찰관: (작은 미소를 띠고) 진짜 도둑이 훔친 자전거를 훔쳤어요. 우린 이렇게 말해요. "훔친 물건은 번창하지 않는다."
+(작은 미소를 띠고) 진짜 도둑이 훔친 자전거를 훔쳤어요. 우린 이렇게 말해요. "훔친 물건은 번창하지 않는다."
 Lotte: (kan haar lach niet houden) Sorry. Het is een serieus gesprek. Maar…
 (웃음을 참지 못하며) 죄송해요. 진지한 자리인데요. 하지만…
 Agent: (lacht) Het mag. Het gebeurt vaker dan u denkt.
-경찰관: (웃으며) 괜찮아요. 생각보다 자주 있는 일이에요.
+(웃으며) 괜찮아요. 생각보다 자주 있는 일이에요.
 Jonas: Wat moet ik nu doen?
 이제 어떻게 해야 하나요?
 Agent: Ik schrijf op dat uw fiets is gestolen. Maar ik schrijf ook op dat u onwetend was. Dat is belangrijk voor uw verzekering.
-경찰관: 자전거를 도난당했다고 적을게요. 하지만 모르고 샀다는 점도 적을게요. 보험에 중요한 부분이에요.
+자전거를 도난당했다고 적을게요. 하지만 모르고 샀다는 점도 적을게요. 보험에 중요한 부분이에요.
 Jonas: Dank u wel.
 감사합니다.
 Agent: En… een advies. Koop de volgende fiets bij een winkel, of via een betrouwbare site. En schrijf het framenummer op.
-경찰관: 그리고… 조언 하나. 다음 자전거는 가게에서 사거나 믿을 만한 사이트에서 사세요. 프레임 번호를 꼭 적어 두세요.
+그리고… 조언 하나. 다음 자전거는 가게에서 사거나 믿을 만한 사이트에서 사세요. 프레임 번호를 꼭 적어 두세요.
 Jonas: Dat zal ik doen. Twee sloten. En een nummer.
 그렇게 할게요. 자물쇠 두 개. 그리고 번호요.
 Agent: Dan heeft u de basis van het Nederlandse fietsleven.
-경찰관: 그럼 네덜란드 자전거 생활의 기본은 익히신 거예요.
+그럼 네덜란드 자전거 생활의 기본은 익히신 거예요.
 Lotte: (staat op) Dank u wel, agent.
 (일어서며) 감사합니다, 경찰관님.
 Agent: Graag gedaan. Veel succes met uw zoektocht naar een nieuwe fiets.
-경찰관: 천만에요. 새 자전거를 찾는 일 잘되시길 바랍니다.
+천만에요. 새 자전거를 찾는 일 잘되시길 바랍니다.
 Jonas: (buiten, op de stoep) Ik schaam me kapot.
 (밖 보도에서) 창피해 죽겠어.
 Lotte: (lacht, haar ogen vol tranen) Het was het mooiste verhaal ooit.

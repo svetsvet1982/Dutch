@@ -32,7 +32,7 @@ Jonas: Je ziet er… (zoekt) schitterend uit.
 Lotte: (rood) Dank je.
 (얼굴이 붉어져) 고마워.
 Willem: Gefeliciteerd, Lotte. Dertig jaar. Wat een leeftijd.
-빌럼: 생일 축하해요, 로터. 서른 살이라니. 멋진 나이예요.
+생일 축하해요, 로터. 서른 살이라니. 멋진 나이예요.
 Lotte: Dank u wel, meneer Willem. Ik voel me… precies hetzelfde als gisteren.
 고맙습니다, 빌럼 씨. 저는… 어제와 똑같다고 느껴요.
 Jonas: (komt dichterbij) Gefeliciteerd, Lotte. Ik wens je veel geluk, en veel gezondheid, en veel boeken.
@@ -44,7 +44,7 @@ Jonas: Ik heb het geoefend.
 Lotte: (kust hem op zijn wang) Dank je.
 (그의 뺨에 입을 맞추며) 고마워.
 Fleur: (komt binnen, met Daan, met een taart) Wie is er jarig? Wie is er jarig?
-플뢰르: (다안과 함께 케이크를 들고 들어오며) 누가 생일이야? 누가 생일이야?
+(다안과 함께 케이크를 들고 들어오며) 누가 생일이야? 누가 생일이야?
 Lotte: Ik, dat weet je.
 나잖아, 알면서.
 Fleur: Gefeliciteerd, zus! Gefeliciteerd met je dertigste! (omhelst haar) Gefeliciteerd met je zus!
@@ -54,25 +54,25 @@ Lotte: Gefeliciteerd met mijn zus! Dat zeggen we toch, hè?
 Fleur: Precies.
 맞아.
 Anneke: (komt binnen, met een tas vol cadeaus) Goedemiddag! Gefeliciteerd, mijn lieve kind! Dertig jaar!
-안네커: (선물 가득한 가방을 들고 들어오며) 안녕하세요! 생일 축하한다, 우리 딸! 서른 살이야!
+(선물 가득한 가방을 들고 들어오며) 안녕하세요! 생일 축하한다, 우리 딸! 서른 살이야!
 Lotte: Dank je, mam. (omhelst haar)
 고마워, 엄마. (그녀를 안으며)
 Anneke: En gefeliciteerd met je dochter, Anneke! Dat zeg ik tegen mezelf. (lacht)
-안네커: 그리고 딸 생일 축하해요, 안네커! 내가 나한테 하는 말이야. (웃으며)
+그리고 딸 생일 축하해요, 안네커! 내가 나한테 하는 말이야. (웃으며)
 Joris: (komt binnen, met Marit en Noor) Gefeliciteerd met je dertigste, zus!
-요리스: (마리트와 노오르와 함께 들어오며) 서른 번째 생일 축하해, 동생!
+(마리트와 노오르와 함께 들어오며) 서른 번째 생일 축하해, 동생!
 Noor: (tegen Lotte) Gefeliciteerd, tante Lotte!
-노오르: (로터에게) 생일 축하해, 로터 이모!
+(로터에게) 생일 축하해, 로터 이모!
 Lotte: Dank je, Noor. Dank je wel.
 고마워, 노오르. 정말 고마워.
 Mevrouw De Boer: (komt binnen, met Hendriks, Pieter) Goedemiddag allemaal. Gefeliciteerd, Lotte!
-더 부르 부인: (헨드릭스, 피터와 함께 들어오며) 모두 안녕하세요. 생일 축하해요, 로터!
+(헨드릭스, 피터와 함께 들어오며) 모두 안녕하세요. 생일 축하해요, 로터!
 Oma Tine: (komt binnen, aan de arm van Anneke) Wie is er jarig?
-티너 할머니: (안네커의 팔에 기대 들어오며) 누가 생일이니?
+(안네커의 팔에 기대 들어오며) 누가 생일이니?
 Lotte: Ik, oma. Het is mijn verjaardag.
 저예요, 할머니. 제 생일이에요.
 Oma Tine: Dertig! Je bent nog zo jong. Toen ik dertig was, had ik al drie kinderen.
-티너 할머니: 서른이라니! 아직 정말 젊구나. 내가 서른일 때는 이미 아이가 셋이었어.
+서른이라니! 아직 정말 젊구나. 내가 서른일 때는 이미 아이가 셋이었어.
 Lotte: Oma, dat is een andere tijd.
 할머니, 그건 다른 시대였어요.
 Oma Tine: Dat zeg ik. (kijkt naar Jonas) En wie is die jongeman?
@@ -80,7 +80,7 @@ Oma Tine: Dat zeg ik. (kijkt naar Jonas) En wie is die jongeman?
 Lotte: Dat is Jonas, oma. Mijn vriend.
 오마, 요나스예요. 제 남자 친구요.
 Oma Tine: Je vriend? Je vríend? Wat is dat voor een woord. Heet dat tegenwoordig vriend?
-티너 할머니: 네 남자 친구? 남자 친구라니? 그게 무슨 말이니. 요즘은 그렇게 부르니?
+네 남자 친구? 남자 친구라니? 그게 무슨 말이니. 요즘은 그렇게 부르니?
 Lotte: Ja, oma.
 네, 할머니.
 Oma Tine: Vroeger heette het verkering. Dat was een mooi woord.
@@ -88,27 +88,27 @@ Oma Tine: Vroeger heette het verkering. Dat was een mooi woord.
 Jonas: (glimlacht) Dat heb ik geleerd. Ik vind het ook mooi. Gefeliciteerd met uw kleindochter, mevrouw.
 (미소 지으며) 저도 배웠어요. 저도 예쁘다고 생각해요. 손녀 생일 축하드려요, 부인.
 Oma Tine: (blij verrast) Oh! Gefeliciteerd met mijn kleindochter! Dat zegt niet iedereen. Je hebt het goed geleerd.
-티너 할머니: (기쁘게 놀라며) 어머나! 손녀 생일 축하라니! 아무나 하는 말이 아니지. 잘 배웠구나.
+(기쁘게 놀라며) 어머나! 손녀 생일 축하라니! 아무나 하는 말이 아니지. 잘 배웠구나.
 Willem: (zachtjes, tegen Jonas) Zie je? Het werkt.
 (요나스에게 조용히) 보여요? 효과가 있죠.
 Anneke: (klapt in haar handen) Zo, iedereen zit? Dan beginnen we met de taart.
-안네커: (손뼉을 치며) 자, 다들 앉았나요? 그럼 케이크부터 시작해요.
+(손뼉을 치며) 자, 다들 앉았나요? 그럼 케이크부터 시작해요.
 Fleur: (zet de taart neer) Een slagroomtaart met aardbeien. Dertig kaarsjes.
-플뢰르: (케이크를 내려놓으며) 딸기 생크림 케이크예요. 초 서른 개 꽂았어요.
+(케이크를 내려놓으며) 딸기 생크림 케이크예요. 초 서른 개 꽂았어요.
 Lotte: Dertig kaarsjes? Dat wordt een brandend inferno.
 초 서른 개라니? 불바다가 되겠어.
 Daan: (steekt de kaarsjes aan) Het is veilig. Ik ben ervaren.
-다안: (초에 불을 붙이며) 안전해. 난 경험이 있어.
+(초에 불을 붙이며) 안전해. 난 경험이 있어.
 Joris: Hij is brandweerman, voor de zekerheid.
-요리스: 이 사람 소방관이야, 만약을 위해서.
+이 사람 소방관이야, 만약을 위해서.
 Jonas: Echt?
 정말요?
 Daan: Nee. Ik werk bij een bank. Maar ik heb een cursus gedaan.
-다안: 아니에요. 은행에서 일해요. 하지만 강습을 받았어요.
+아니에요. 은행에서 일해요. 하지만 강습을 받았어요.
 Alle: (lacht)
 모두: (웃는다)
 Anneke: Nu zingen we. "Lang zal ze leven."
-안네커: 이제 노래를 불러요. "랑 잘 제 레벤."
+이제 노래를 불러요. "랑 잘 제 레벤."
 Jonas: Wat is dat?
 그게 뭐예요?
 Lotte: Het Nederlandse verjaardagslied. "Lang zal ze leven, lang zal ze leven, lang zal ze leven in de gloria."
@@ -122,7 +122,7 @@ Jonas: (probeert mee te zingen) "Lang zal ze leven…"
 Alle: (zingen) "Lang zal ze leven, lang zal ze leven, lang zal ze leven in de gloria. In de gloria, in de gloria, lang zal ze leven in de gloria."
 모두: (노래하며) "랑 잘 제 레벤, 랑 잘 제 레벤, 랑 잘 제 레벤 인 더 흘로리아. 인 더 흘로리아, 인 더 흘로리아, 랑 잘 제 레벤 인 더 흘로리아."
 Fleur: En nu: "Ze leve hoch!"
-플뢰르: 이제 "제 레버 호흐!"
+이제 "제 레버 호흐!"
 Alle: Ze leve hoch! Ze leve hoch! Ze leve hoch! Hoera, hoera, hoera!
 모두: 제 레버 호흐! 제 레버 호흐! 제 레버 호흐! 후라, 후라, 후라!
 Lotte: (blaast de kaarsjes uit, vier keer) Zo. Ik heb een wens gedaan.
@@ -134,21 +134,21 @@ Lotte: Dat mag ik niet zeggen. Anders komt het niet uit.
 Jonas: Dat geloof ik. In Zweden zeggen we hetzelfde.
 그렇겠지. 스웨덴에서도 똑같이 말해.
 Anneke: (snijdt de taart) Wie wil er een stuk?
-안네커: (케이크를 자르며) 먹고 싶은 사람?
+(케이크를 자르며) 먹고 싶은 사람?
 Alle: Ik! Ik!
 모두: 저요! 저요!
 Oma Tine: Geef mij maar een groot stuk. Ik ben tevreden met een groot stuk.
-티너 할머니: 나한테는 큰 조각을 줘. 큰 조각이면 만족해.
+나한테는 큰 조각을 줘. 큰 조각이면 만족해.
 Anneke: Natuurlijk, mam.
 물론이죠, 엄마.
 Jonas: (met zijn bord) Dit is de lekkerste taart die ik ooit gehad heb.
 (접시를 들고) 지금까지 먹어 본 케이크 중 가장 맛있어요.
 Fleur: Dat zegt hij omdat het mijn taart is.
-플뢰르: 내가 만든 케이크라서 그렇게 말하는 거예요.
+내가 만든 케이크라서 그렇게 말하는 거예요.
 Jonas: Echt? Jij hebt hem gebakken?
 정말? 네가 구웠어?
 Fleur: Nee. Ik heb hem gekocht bij de bakker. Maar ik heb hem gedragen. Dat is ook werk.
-플뢰르: 아니. 빵집에서 샀어. 하지만 내가 들고 왔잖아. 그것도 일이야.
+아니. 빵집에서 샀어. 하지만 내가 들고 왔잖아. 그것도 일이야.
 Jonas: (lacht) Dat is waar.
 (웃으며) 맞아.
 Willem: (staat op, met een klein pakje) Lotte, ik heb iets voor je. Als je het wilt hebben.
@@ -190,7 +190,7 @@ Jonas: Gefeliciteerd, Lotte. Echt.
 Lotte: (omhelst hem) Dank je. Ik hou van je.
 (그를 껴안으며) 고마워. 사랑해.
 Oma Tine: (kijkt naar Anneke) Is dat verkering?
-티너 할머니: (안네커를 보며) 저게 verkering이니?
+(안네커를 보며) 저게 verkering이니?
 Anneke: Ja, mam. Dat is verkering.
 네, 엄마. 저게 verkering이에요.
 Jonas: (zachtjes, hoort zijn telefoon trillen, kijkt even) Hmm.

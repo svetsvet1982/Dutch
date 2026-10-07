@@ -16,11 +16,11 @@ Jonas: Hoe weet je dat?
 Lotte: Omdat ik het weet. (drukt op de bel)
 내가 아니까. (초인종을 누른다)
 Anneke: (doet de deur open, in een schort) Lotte! Mijn lieve kind! En dit is…
-안네커: (앞치마를 두르고 문을 열며) 로터! 우리 귀염둥이! 그리고 이쪽이…
+(앞치마를 두르고 문을 열며) 로터! 우리 귀염둥이! 그리고 이쪽이…
 Jonas: Jonas. Jonas Lindqvist. Gelukkig Pasen, mevrouw. Ik heb iets voor u meegenomen.
 요나스예요. 요나스 린드크비스트. 부활절 축하드려요, 부인. 드릴 걸 가져왔어요.
 Anneke: Gelukkig Pasen, Jonas. En zeg maar Anneke. "Mevrouw" is voor de bakker.
-안네커: 부활절 축하해요, 요나스. 그리고 그냥 안네커라고 불러요. "부인"은 빵집 사람한테나 쓰는 말이에요.
+부활절 축하해요, 요나스. 그리고 그냥 안네커라고 불러요. "부인"은 빵집 사람한테나 쓰는 말이에요.
 Jonas: Dank u wel, Anneke. Eh… dank je wel.
 고맙습니다, 안네커. 어… 고마워요.
 Anneke: (lacht) Dat gaat al goed. Kom binnen, kom binnen! Het ruikt naar koffie en versgebakken brood.
@@ -46,23 +46,23 @@ Jonas: (in de woonkamer) Wauw. Wat een tafel!
 Anneke: Paasbrood, gekookte eieren, kaas, ham, croissants, en mijn beroemde appeltaart.
 부활절 빵, 삶은 달걀, 치즈, 햄, 크루아상, 그리고 제 유명한 애플파이예요.
 Fleur: (komt binnen, met Daan) Hé! Daar is onze Zweed!
-플뢰르: (다안과 함께 들어오며) 어머! 우리 스웨덴 사람이다!
+(다안과 함께 들어오며) 어머! 우리 스웨덴 사람이다!
 Jonas: Hoi Fleur. Hoi Daan.
 안녕, 플뢰르. 안녕, 다안.
 Joris: (komt binnen, met een kind op zijn arm) Daar is hij! Mijn zus' vriend! Dit is Marit, mijn vrouw. En dit is Noor.
-요리스: (아이를 안고 들어오며) 왔구나! 내 동생의 남자 친구! 이쪽은 아내 마리트. 그리고 이 아이는 노오르야.
+(아이를 안고 들어오며) 왔구나! 내 동생의 남자 친구! 이쪽은 아내 마리트. 그리고 이 아이는 노오르야.
 Marit: Hallo Jonas. Leuk je te ontmoeten. Ik heb veel over je gehoord.
-마리트: 안녕, 요나스. 만나서 반가워요. 이야기 많이 들었어요.
+안녕, 요나스. 만나서 반가워요. 이야기 많이 들었어요.
 Jonas: Leuk jullie te ontmoeten. Hoe oud is Noor?
 만나서 반갑습니다. 노오르는 몇 살이에요?
 Marit: Twee en een half. En ze is een kleine tiran.
 두 살 반이에요. 그리고 작은 폭군이죠.
 Noor: (kijkt Jonas aan) Wie ben jij?
-노오르: (요나스를 쳐다보며) 아저씨는 누구야?
+(요나스를 쳐다보며) 아저씨는 누구야?
 Jonas: Ik ben Jonas. Ik kom uit Zweden.
 요나스야. 스웨덴에서 왔어.
 Anneke: Kom, we gaan zitten. Jonas, jij zit naast mij.
-안네커: 자, 앉아요. 요나스는 내 옆에 앉아요.
+자, 앉아요. 요나스는 내 옆에 앉아요.
 Lotte: Mam…
 엄마…
 Anneke: Wat? Ik wil hem leren kennen. Ga zitten, Jonas.
@@ -78,15 +78,15 @@ Anneke: Alsjeblieft. Neem een broodje. Er is boter, jam, hagelslag…
 Jonas: Hagelslag?
 하헬슬라흐요?
 Joris: Chocoladehagel op brood. Typisch Nederlands. Kinderen eten het elke dag.
-요리스: 빵에 올리는 초콜릿 스프링클이야. 전형적인 네덜란드 음식이지. 아이들이 매일 먹어.
+빵에 올리는 초콜릿 스프링클이야. 전형적인 네덜란드 음식이지. 아이들이 매일 먹어.
 Jonas: Chocolade op brood? Als ontbijt?
 빵에 초콜릿을요? 아침 식사로요?
 Anneke: Neem nog een kopje koffie, als je het lekker vindt. Of nog een broodje.
-안네커: 맛있으면 커피를 한 잔 더 해요. 아니면 빵을 하나 더요.
+맛있으면 커피를 한 잔 더 해요. 아니면 빵을 하나 더요.
 Jonas: Dank je. Ik neem graag nog koffie.
 고마워요. 커피 한 잔 더 주세요.
 Anneke: Zo, nu even praten. Wat doe je voor werk?
-안네커: 자, 이제 이야기를 좀 해 볼까요. 무슨 일을 해요?
+자, 이제 이야기를 좀 해 볼까요. 무슨 일을 해요?
 Jonas: Ik ben ingenieur. Ik werk bij een bureau dat adviseert over water. Over dijken, over waterpeil.
 엔지니어예요. 수자원 컨설팅 회사에서 일해요. 제방과 수위에 대한 자문을 해요.
 Anneke: Water! Dat is Nederlands. En ben je hier lang?
@@ -100,23 +100,23 @@ Jonas: Dat weet ik nog niet.
 Lotte: Mam, alsjeblieft.
 엄마, 제발.
 Anneke: Ik vraag het alleen. Dat mag toch? Een moeder mag vragen.
-안네커: 그냥 묻는 거야. 그래도 되잖아? 엄마는 물어볼 수 있어.
+그냥 묻는 거야. 그래도 되잖아? 엄마는 물어볼 수 있어.
 Jonas: Het is een goede vraag. Ik denk er zelf ook over na.
 좋은 질문이에요. 저도 생각하고 있어요.
 Anneke: Dat is eerlijk. Dat vind ik prettig.
 그렇게 말해 주니 솔직하네요. 마음에 들어요.
 Marit: Mam, mag Noor de eieren zoeken? Ze wordt onrustig.
-마리트: 어머니, 노오르가 달걀을 찾아도 돼요? 점점 안절부절못해요.
+어머니, 노오르가 달걀을 찾아도 돼요? 점점 안절부절못해요.
 Anneke: Natuurlijk. De eieren zijn verstopt in de tuin. Jonas, ga jij mee?
-안네커: 물론이지. 달걀은 정원에 숨겨 놨어. 요나스, 같이 갈래요?
+물론이지. 달걀은 정원에 숨겨 놨어. 요나스, 같이 갈래요?
 Jonas: Graag.
 네.
 Noor: (pakt zijn hand) Kom, Jonas! Je moet me helpen zoeken!
-노오르: (그의 손을 잡으며) 요나스, 와! 찾는 걸 도와줘야 해!
+(그의 손을 잡으며) 요나스, 와! 찾는 걸 도와줘야 해!
 Jonas: (vindt een rood ei onder een struik) Kijk! Hier. (geeft het ei) Voor jou.
 (덤불 아래에서 빨간 달걀을 찾으며) 봐! 여기. (달걀을 건네며) 네 거야.
 Noor: (kijkt naar hem, serieus) Je bent aardig. Mama zei dat je aardig bent.
-노오르: (진지하게 그를 보며) 아저씨는 착해. 엄마가 착하다고 했어.
+(진지하게 그를 보며) 아저씨는 착해. 엄마가 착하다고 했어.
 Jonas: (ontroerd) Dank je, Noor.
 (감동해서) 고마워, 노오르.
 Lotte: (komt de tuin in) Je bent een natuurtalent.
@@ -126,37 +126,37 @@ Jonas: Met kinderen? Ik heb alleen een nichtje.
 Lotte: Dan heb je veel talent.
 그럼 재능이 많은 거야.
 Anneke: (vanuit de deur) Kinderen, binnen! Nu gaan we eieren tikken!
-안네커: (문 앞에서) 얘들아, 안으로! 이제 달걀 부딪치기를 하자!
+(문 앞에서) 얘들아, 안으로! 이제 달걀 부딪치기를 하자!
 Jonas: Eieren tikken? Wat is dat?
 달걀 부딪치기요? 그게 뭐예요?
 Joris: Een spel met gekookte eieren. Je tikt je ei tegen het ei van een ander. Wie zijn ei heel houdt, wint.
-요리스: 삶은 달걀로 하는 게임이에요. 자기 달걀을 다른 사람 달걀에 부딪쳐요. 달걀이 깨지지 않은 사람이 이겨요.
+삶은 달걀로 하는 게임이에요. 자기 달걀을 다른 사람 달걀에 부딪쳐요. 달걀이 깨지지 않은 사람이 이겨요.
 Jonas: Dat is een gevaarlijk spel.
 위험한 게임이네요.
 Joris: Ik ben ongeslagen sinds mijn twaalfde.
-요리스: 열두 살 때부터 무패예요.
+열두 살 때부터 무패예요.
 Fleur: Dat komt omdat je valsspeelt.
-플뢰르: 그건 오빠가 반칙해서야.
+그건 오빠가 반칙해서야.
 Joris: Hoe kan ik valsspelen? Het is een ei!
-요리스: 달걀로 어떻게 반칙을 해?
+달걀로 어떻게 반칙을 해?
 Fleur: Je kookt je ei langer. Dan is de schaal harder.
-플뢰르: 오빠는 달걀을 더 오래 삶잖아. 그러면 껍데기가 단단해져.
+오빠는 달걀을 더 오래 삶잖아. 그러면 껍데기가 단단해져.
 Joris: Dat is strategie, geen valsspelen.
-요리스: 그건 전략이지 반칙이 아니야.
+그건 전략이지 반칙이 아니야.
 Anneke: (zet de eieren op tafel) Jonas, jij eerst. Neem een ei.
 (달걀을 탁자에 올리며) 요나스, 먼저 해요. 달걀 하나 골라요.
 Jonas: (kiest er een) Dit?
 (하나를 고르며) 이거요?
 Joris: Goede keuze. Ik pak deze. (houdt een ei omhoog) Klaar? Eén, twee, drie.
-요리스: 좋은 선택이에요. 나는 이걸로. (달걀을 들어 올리며) 준비됐죠? 하나, 둘, 셋.
+좋은 선택이에요. 나는 이걸로. (달걀을 들어 올리며) 준비됐죠? 하나, 둘, 셋.
 Jonas: (tikt zijn ei tegen dat van Joris) Au!
 (자기 달걀을 요리스 것에 부딪치며) 아야!
 Joris: Gebroken! Ha! Jouw ei is gebroken!
-요리스: 깨졌어! 하! 네 달걀이 깨졌어!
+깨졌어! 하! 네 달걀이 깨졌어!
 Jonas: (kijkt naar zijn ei) Het is… een scheur. Nee, hij is kapot.
 (달걀을 보며) 이건… 금이 갔어. 아니, 깨졌네.
 Anneke: Dat is jammer. Dan krijg je een tweede ei.
-안네커: 안타깝네요. 그럼 두 번째 달걀을 줄게요.
+안타깝네요. 그럼 두 번째 달걀을 줄게요.
 Jonas: Dank je. Ik probeer het nog een keer. Met een beter ei.
 고마워요. 한 번 더 해 볼게요. 더 좋은 달걀로요.
 Lotte: (zachtjes) Je hebt het goed gedaan. Mijn broer wint altijd.
@@ -166,7 +166,7 @@ Jonas: (zachtjes) Ik heb zijn ei bijna kapotgemaakt.
 Lotte: (lacht) Dat zeg je zelf.
 (웃으며) 네가 그렇게 말하는 거지.
 Anneke: Zo. (kijkt rond) Wat een mooie dag. Het huis is vol.
-안네커: 자. (주위를 둘러보며) 정말 좋은 날이야. 집이 꽉 찼어.
+자. (주위를 둘러보며) 정말 좋은 날이야. 집이 꽉 찼어.
 Jonas: Dank u… dank je, dat ik er mag zijn.
 고맙습니다… 고마워요, 제가 여기 있도록 해 줘서.
 Anneke: Je bent welkom. Ik wil je iets zeggen.
@@ -186,7 +186,7 @@ Anneke: Ja. En nu gaat die winkel dicht. Ik heb de petitie getekend. Drie keer.
 Jonas: Drie keer?
 세 번이요?
 Anneke: Eén keer online, één keer in de winkel, en één keer voor Henk.
-안네커: 온라인으로 한 번, 서점에서 한 번, 그리고 헹크를 위해서 한 번.
+온라인으로 한 번, 서점에서 한 번, 그리고 헹크를 위해서 한 번.
 Jonas: (ontroerd) Dat is… dat is heel mooi.
 (감동해서) 그건… 정말 아름다워요.
 Anneke: En jij helpt mijn dochter. Dat zie ik. Daarom ben ik blij met je.

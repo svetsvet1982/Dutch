@@ -102,7 +102,7 @@ Lotte: (kijkt haar aan, een kleine glimlach) Dank je, Fleur.
 Fleur: Daar is een zus voor. (steekt haar hand uit) Kom, ik trakteer. Thee met muntblaadjes.
 그러려고 있는 게 동생이야. (손을 내밀며) 가자, 내가 살게. 민트 차로.
 Tariq: (in een kroeg, tegen Jonas) Je zit al drie uur in dezelfde hoek, met hetzelfde biertje. Het is warm.
-타리크: (술집에서 요나스에게) 세 시간째 같은 구석에서 같은 맥주를 들고 앉아 있어. 미지근해졌겠다.
+(술집에서 요나스에게) 세 시간째 같은 구석에서 같은 맥주를 들고 앉아 있어. 미지근해졌겠다.
 Jonas: Dat maakt niet uit. Ik drink hem niet.
 상관없어. 안 마셔.
 Tariq: Waarom zit je hier dan?
@@ -166,7 +166,7 @@ Tariq: En jij haar. Alleen: jullie zijn allebei bang om het hardop te zeggen.
 Jonas: Bang? Wij?
 무서워한다고? 우리가?
 Tariq: Ja, jullie allebei. (lacht)
-타리크: 응, 둘 다. (웃으며)
+응, 둘 다. (웃으며)
 Jonas: (kleine lach) Je kent ons beter dan wij onszelf.
 (작게 웃으며) 우리보다 우리를 더 잘 아네.
 Tariq: Ik woon met een van jullie onder één dak. Dat is geen valsspelen, dat is onderzoek.
@@ -192,9 +192,9 @@ Jonas: (staat op) Mét mayonaise?
 Tariq: Natuurlijk. Wat dacht je?
 당연하지. 뭘 기대했어?
 Fleur: (typt in haar telefoon, in een appgroep "Plan A") Ze komt eraan. Ik heb haar zeven dagen gegeven.
-플뢰르: (휴대폰으로 "플랜 A" 단체방에 입력하며) 언니가 마음을 돌리고 있어. 이레를 줬어.
+(휴대폰으로 "플랜 A" 단체방에 입력하며) 언니가 마음을 돌리고 있어. 이레를 줬어.
 Tariq: (typt, in dezelfde appgroep) Hetzelfde hier. Zeven dagen. Wat doen we met de zes dagen ertussen?
-타리크: (같은 단체방에 입력하며) 여기도 똑같아. 이레야. 그 사이 엿새는 어떻게 하지?
+(같은 단체방에 입력하며) 여기도 똑같아. 이레야. 그 사이 엿새는 어떻게 하지?
 Fleur: (typt) Wachten. En… misschien een klein duwtje?
 (입력하며) 기다리자. 그리고… 어쩌면 살짝 도와줄까?
 Tariq: (typt) Niets doen. Dat is het moeilijkste.

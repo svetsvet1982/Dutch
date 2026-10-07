@@ -4,11 +4,11 @@
 
 ## 대화
 Directeur: (achter zijn bureau, tegen Jonas) Ga zitten, Jonas. Dank je dat je zo snel kon komen.
-국장: (책상 뒤에서 요나스에게) 앉아요, 요나스. 이렇게 빨리 와 줘서 고마워요.
+(책상 뒤에서 요나스에게) 앉아요, 요나스. 이렇게 빨리 와 줘서 고마워요.
 Jonas: Natuurlijk. Is er iets mis?
 물론이죠. 무슨 문제 있나요?
 Directeur: Integendeel. Het is goed nieuws. Of in ieder geval… interessant nieuws.
-국장: 오히려 반대예요. 좋은 소식이에요. 적어도… 흥미로운 소식이죠.
+오히려 반대예요. 좋은 소식이에요. 적어도… 흥미로운 소식이죠.
 Jonas: Ik luister.
 듣고 있어요.
 Directeur: Gisteren belde Anders Nilsson, het hoofd van ons kantoor in Stockholm. Hij zei dat hij een vacature heeft voor een senior projectleider.
@@ -56,7 +56,7 @@ Directeur: Ik zou je missen. Maar ik wil niet in je weg staan.
 Jonas: Dank u wel. Dat betekent veel.
 감사합니다. 큰 의미가 있어요.
 Marieke: (aan de koffieautomaat, kijkt op) Jonas! Je ziet er zo serieus uit. Is er iets?
-마리커: (커피 자판기 앞에서 고개를 들며) 요나스! 아주 심각해 보여요. 무슨 일 있어요?
+(커피 자판기 앞에서 고개를 들며) 요나스! 아주 심각해 보여요. 무슨 일 있어요?
 Jonas: Ik heb een aanbod gekregen. Uit Stockholm.
 저 제안을 받았어요. 스톡홀름에서요.
 Marieke: Stockholm! (zet haar kopje neer) Wat voor aanbod?
@@ -72,7 +72,7 @@ Marieke: Waarom niet? Het is je eigen land. Je familie is daar. En een betere ba
 Jonas: Maar Lotte is hier. En…
 하지만 로터가 여기 있어요. 그리고…
 Marieke: (zacht) Ah. Lotte.
-마리커: (조용히) 아. 로터.
+(조용히) 아. 로터.
 Jonas: Ja. Lotte.
 네. 로터요.
 Marieke: Heb je het haar verteld?
@@ -108,7 +108,7 @@ Marieke: Graag gedaan. En Jonas, het is een compliment dat ze je willen hebben.
 Jonas: Ik weet het. Dat maakt het juist moeilijk.
 알아요. 그래서 더 어려워요.
 Tariq: (aan tafel in de keuken, 's avonds, met een kom pasta) Je kijkt naar je bord, maar je eet niet.
-타리크: (저녁에 부엌 식탁에서 파스타 그릇을 앞에 두고) 접시를 보고만 있지 먹지는 않네.
+(저녁에 부엌 식탁에서 파스타 그릇을 앞에 두고) 접시를 보고만 있지 먹지는 않네.
 Jonas: Ik heb geen honger.
 배고프지 않아.
 Tariq: Dat is nieuw. Jij hebt altijd honger. Wat is er?
@@ -116,7 +116,7 @@ Tariq: Dat is nieuw. Jij hebt altijd honger. Wat is er?
 Jonas: Ik heb een aanbod gekregen. Voor een baan in Stockholm.
 스톡홀름에서 일자리 제안을 받았어.
 Tariq: (legt zijn vork neer) Wat? Echt?
-타리크: (포크를 내려놓으며) 뭐? 정말?
+(포크를 내려놓으며) 뭐? 정말?
 Jonas: Echt. Een betere functie. Meer geld. Op één augustus.
 정말이야. 더 나은 직책에 돈도 더 많아. 팔월 일일부터.
 Tariq: En je bent hier. Met Lotte.
@@ -192,7 +192,7 @@ Tariq: (staat op) Eet je pasta. Het is koud geworden.
 Jonas: Ik heb nog steeds geen honger.
 아직도 배고프지 않아.
 Tariq: Dan eet ik hem. (pakt zijn bord) Maar als je morgen niets zegt, zeg ik het.
-타리크: 그럼 내가 먹을게. (그의 접시를 가져가며) 하지만 내일도 아무 말 안 하면 내가 말할 거야.
+그럼 내가 먹을게. (그의 접시를 가져가며) 하지만 내일도 아무 말 안 하면 내가 말할 거야.
 Jonas: Tariq!
 타리크!
 Tariq: Grapje. Ik ben geen verrader. Maar vertel het snel.

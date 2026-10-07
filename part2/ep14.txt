@@ -86,7 +86,7 @@ Jonas: Graag. Dit paviljoen is open?
 Lotte: Ja. In de winter is het kleiner, maar het is open.
 응. 겨울엔 작지만 열려 있어.
 Ober: (in het paviljoen) Goedemiddag. Wat mag het zijn?
-웨이터: (카페에서) 안녕하세요. 뭘로 드릴까요?
+(카페에서) 안녕하세요. 뭘로 드릴까요?
 Lotte: Twee warme chocolademelk. En… (kijkt naar Jonas) wil je een broodje?
 핫초코 두 잔 주세요. 그리고… (요나스를 보며) 샌드위치 먹을래?
 Jonas: Een tosti. Met kaas.
@@ -104,7 +104,7 @@ Lotte: Je wordt Nederlander.
 Jonas: Beetje bij beetje.
 조금씩 조금씩.
 Ober: (brengt de bestelling) Alstublieft. Een tosti en twee chocolademelk.
-웨이터: (주문한 것을 가져오며) 여기 있습니다. 토스티 하나와 핫초코 두 잔이에요.
+(주문한 것을 가져오며) 여기 있습니다. 토스티 하나와 핫초코 두 잔이에요.
 Jonas: Dank u wel. Eet smakelijk, Lotte.
 감사합니다. 맛있게 먹어, 로터.
 Lotte: Eet smakelijk, Jonas. (neemt een slok) Mmm. Warm.
@@ -182,7 +182,7 @@ Jonas: Dan is dit de beste vertaling.
 Lotte: (lacht, huilt) Ja. Dit is de beste vertaling.
 (웃으며 운다) 응. 이게 최고의 번역이야.
 Ober: (komt langs) Is alles goed? Wilt u nog iets?
-웨이터: (지나가다) 괜찮으세요? 더 필요한 건 없으세요?
+(지나가다) 괜찮으세요? 더 필요한 건 없으세요?
 Jonas: Alles is perfect. Alleen nog een tosti, graag. Ik heb honger gekregen.
 모든 게 완벽해요. 토스티 하나만 더 부탁해요. 배가 고파졌어요.
 Lotte: (lacht) Echt? Net nu?

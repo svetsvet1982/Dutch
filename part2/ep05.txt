@@ -28,7 +28,7 @@ Jonas: Ongeveer. Alle Zweden drinken het in december. Meer dan Coca-Cola.
 Fleur: Wow. Dat moet ik proeven. Daan! Kom eens kijken!
 와. 맛봐야겠다. 다안! 와서 이것 좀 봐!
 Daan: (komt uit de keuken, met een schort) Hoi! Jij bent Jonas, hè? Ik ben Daan, de vriend van Fleur.
-다안: (앞치마를 두르고 부엌에서 나오며) 안녕! 요나스지? 플뢰르의 남자 친구 다안이야.
+(앞치마를 두르고 부엌에서 나오며) 안녕! 요나스지? 플뢰르의 남자 친구 다안이야.
 Jonas: Hoi, Daan. Leuk je te ontmoeten.
 안녕, 다안. 만나서 반가워.
 Daan: Welkom! Ik ben de kok van vanavond. We gaan gourmetten.
@@ -126,13 +126,13 @@ Jonas: Ja. Dat zei ze. En ze zei ook iets over een boot.
 Lotte: (kreunt) Oh nee. Dat verhaal.
 (신음하며) 아, 안 돼. 그 이야기.
 Daan: (roept uit de eetkamer) Eten is klaar! Aan tafel!
-다안: (식당에서 소리치며) 식사 준비 됐어! 식탁으로 와!
+(식당에서 소리치며) 식사 준비 됐어! 식탁으로 와!
 Fleur: Kom, dan gaan we gourmetten. Jonas, jij zit naast Lotte.
 자, 구르메 하자. 요나스는 로터 옆에 앉아.
 Jonas: Graag.
 좋아요.
 Daan: Eet smakelijk, allemaal!
-다안: 다들 맛있게 먹어!
+다들 맛있게 먹어!
 Lotte: Eet smakelijk!
 맛있게 먹어!
 Jonas: Eet smakelijk! Wat moet ik doen met dit pannetje?
