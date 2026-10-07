@@ -59,6 +59,9 @@ def episode(doc, path, last=False):
     head, rest = txt.split("## 대화", 1)
     dlg, rest = rest.split("## 주요 단어", 1)
     vocab, gram = rest.split("## 문법·표현 정리", 1)
+    epilogue = None
+    if "## 완결" in gram:
+        gram, epilogue = gram.split("## 완결", 1)
     lines = [l for l in head.strip().split("\n") if l.strip()]
     title = lines[0].lstrip("# ").strip()
     level, place, when = [x.strip() for x in lines[1].split("|")]
@@ -84,6 +87,12 @@ def episode(doc, path, last=False):
     h = doc.add_paragraph(style="Heading 2"); run(h, "📝 문법·표현 정리", 13, italic=True, font=KO)
     for n, l in enumerate([l for l in gram.strip().split("\n") if l.strip()], 1):
         p = doc.add_paragraph(); run(p, f"{n}. ", 10.5); rich(p, l)
+    if epilogue:
+        lines = [l for l in epilogue.strip().split("\n") if l.strip()]
+        doc.add_paragraph()
+        h = doc.add_paragraph(style="Heading 2"); run(h, lines[0], 13, italic=True, font=KO)
+        for l in lines[1:]:
+            p = doc.add_paragraph(); rich(p, l)
     if not last:
         doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
