@@ -120,7 +120,7 @@
 | 3 | Een cadeau voor mijn moeder (어머니 선물) | A1~A2 | 서점·금요일 아침 | 스웨덴 어머니 생신 선물을 로터가 같이 골라 줌 | Hoe oud is…? · duur / goedkoop · Gefeliciteerd! | 형용사, 소유사 |
 | 4 | Koffie bij 't Hoekje (카페에서) | A2 | 카페·월요일 오후 | 처음 단둘이 커피 | Wat mag het zijn? · Ik neem… · Mag ik afrekenen? · Samen of apart? | 주문, 모달 mogen |
 | 5 | Regen en een paraplu (비 오는 날) | A2 | 서점→웨스터마르크트 트램 정류장·수요일 저녁 | 우산 하나로 같이 걷기 | Het regent · Hoe laat is het? · Ik heb geen… · We gaan dezelfde kant op | geen/niet, 시간 |
-| 6 | Een zeldzame uitgave (희귀본) | A2 | 서점·금요일 | 요나스가 찾는 옛 지도첩(Blaeu)을 로터가 번역 일로 아는 경매 사이트에서 발견, 빌럼 씨가 주문 | Ik heb … gevonden · eerste druk · Het is niet dringend | 현재완료, 숫자(연도) |
+| 6 | Een zeldzame uitgave (희귀본) | A2 | 서점·금요일 | 요나스가 찾는 1865년판 옛 네덜란드 지도첩을 로터가 번역 일로 아는 고서점 사이트에서 발견, 빌럼 씨가 주문 | Ik heb … gevonden · eerste druk · Het is niet dringend | 현재완료, 숫자(연도) |
 | 7 | Poëzieavond (시 낭독의 밤) | A2 | 서점·금요일 저녁 | 번역가 로터의 번역 시 낭독(게스트), 요나스가 응원 | Wens me succes · Ik ben aan de beurt · Dat is dankzij u | 분리동사, dankzij |
 | 8 | Multatuli, de winkelkat (서점 고양이) | A2 | 서점·토요일 오전 | 서점 고양이 때문에 요나스 알레르기 소동 | Hoe ziet hij eruit? · Ik ben allergisch voor… · Dat is een lang verhaal | 묘사, 형용사 -e |
 | 9 | Een wandeling door de Jordaan (골목 산책) | A2 | 요르단 골목→노르더르마르크트→웨스터르케르크·월요일 | 길 안내와 골목 구경 | Eerst rechtdoor, dan links · Kijk rechts · Hoeveel minuten lopen? | 방향, 전치사 |
@@ -257,3 +257,15 @@
 | 5 | 화당 단어·문법 분량 | 단어 12~15개, 문법 8~13항목 | 첨부와 똑같이(단어 ~15, 문법 ~13) |
 | 6 | 한글 발음 | 7장 표기 원칙 | 간략히 한 줄만 |
 | 7 | 서점 이름·고양이 이름 | De Tweede Pagina / Multatuli | 변경 가능 |
+
+---
+
+## 10. 집필 현황
+
+| 부 | 상태 | 파일 |
+|---|---|---|
+| 1부 가을 (15화) | **완료** (각 화 100턴, 단어 15개, 문법 13~15항목) | `part1/ep01.txt` … `ep15.txt` → `part1/part1-herfst.docx` |
+| 2~4부 | 대기 | — |
+
+- 도구: `tools/check_ep.py`(100턴·번역·번호·표 개수 점검), `tools/build_docx.py`(docx 생성), `tools/template.docx`(첨부 양식 스타일)
+- 1부에서 새로 생긴 설정(이후 부에서 이어 쓸 것): 로터의 생일은 4월 12일, 요나스는 8월 2일 / 요나스의 형 에리크(예테보리), 어머니 잉그리드 / 로터의 오빠 요리스(로테르담, 결혼 6년차), 동생 플뢰르 / 빌럼 씨는 시인이던 아내를 먼저 떠나보냄(모든 사람에게 "u"를 씀) / 서점 고양이 물타툴리 / 로터의 하우스보트 이름 "Hoofdstuk Twee" / 요나스의 영어 계약은 2년 / 요나스의 사전 "유창한 발음 코치" 로터
