@@ -266,7 +266,7 @@
 |---|---|---|
 | 1부 가을 (15화) | **완료** (각 화 100턴, 단어 15개, 문법 13~15항목) | `part1/ep01.txt` … `ep15.txt` → `part1/part1-herfst.docx` |
 | 2부 겨울 (15화) | **완료** | `part2/ep01.txt` … `ep15.txt` → `part2/part2-winter.docx` |
-| 3부 봄 (1~7화) | **7화까지 완료**, 8~15화 대기 (8화 미완성 초안 `part3/draft/ep08.txt`) | `part3/ep01.txt` … `ep07.txt` → `part3/part3-lente_ep01-07.docx` |
+| 3부 봄 (1~8화) | **8화까지 완료**, 9~15화 대기 | `part3/ep01.txt` … `ep08.txt` → `part3/part3-lente_ep01-08.docx` |
 | 4부 | 대기 | — |
 
 - 도구: `tools/check_ep.py`(100턴·번역·번호·표 개수 점검), `tools/build_docx.py`(docx 생성), `tools/template.docx`(첨부 양식 스타일)
