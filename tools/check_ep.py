@@ -11,7 +11,7 @@ for path in sys.argv[1:]:
     errs = []
     if len(d) != 200: errs.append(f"turns={len(d)//2} (lines {len(d)})")
     for i in range(0, len(d) - 1, 2):
-        if not re.match(r"^[A-Z][a-z]+: ", d[i]): errs.append(f"speaker? {d[i][:40]}")
+        if not re.match(r"^[A-Z][A-Za-z ]+: ", d[i]): errs.append(f"speaker? {d[i][:40]}")
         if re.match(r"^\d+\.", d[i]): errs.append(f"numbered: {d[i][:30]}")
         if not re.search(r"[가-힣]", d[i + 1]): errs.append(f"no Korean: {d[i+1][:40]}")
     nv = len([l for l in vocab.strip().split("\n") if l.strip()])
