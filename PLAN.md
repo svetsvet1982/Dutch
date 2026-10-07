@@ -267,7 +267,7 @@
 | 1부 가을 (15화) | **완료** (각 화 100턴, 단어 15개, 문법 13~15항목) | `part1/ep01.txt` … `ep15.txt` → `part1/part1-herfst.docx` |
 | 2부 겨울 (15화) | **완료** | `part2/ep01.txt` … `ep15.txt` → `part2/part2-winter.docx` |
 | 3부 봄 (15화) | **완료** | `part3/ep01.txt` … `ep15.txt` → `part3/part3-lente.docx` |
-| 4부 여름 (15화) | 대기 | — |
+| 4부 여름 (15화) | **완료** (97쪽, 15화 × 100턴) | `part4/ep01.txt` … `ep15.txt` → `part4/part4-zomer.docx` |
 
 - 도구: `tools/check_ep.py`(100턴·번역·번호·표 개수 점검), `tools/build_docx.py`(docx 생성), `tools/template.docx`(첨부 양식 스타일)
 - 1부에서 새로 생긴 설정(이후 부에서 이어 쓸 것): 로터의 생일은 4월 12일, 요나스는 8월 2일 / 요나스의 형 에리크(예테보리), 어머니 잉그리드 / 로터의 오빠 요리스(로테르담, 결혼 6년차), 동생 플뢰르 / 빌럼 씨는 시인이던 아내를 먼저 떠나보냄(모든 사람에게 "u"를 씀) / 서점 고양이 물타툴리 / 로터의 하우스보트 이름 "Hoofdstuk Twee" / 요나스의 영어 계약은 2년 / 요나스의 사전 "유창한 발음 코치" 로터
@@ -278,3 +278,5 @@
 - 3부 9화에서 생긴 설정(4부 서점 구하기에 쓸 것): 서점 건물 다락방에 **전쟁 때 유대인 가족(라헬 일가)을 숨겨 준 은신처**가 있고, 빌럼 씨의 부모가 1940년대에 이 건물에서 서점을 했으며 빌럼과 한네커가 30년 전에 이어받음. 문화재(monument) 지정 가능성이 서점 구하기의 열쇠. 로터는 요나스의 스톡홀름 건을 이미 빌럼 씨에게 말해 둔 상태.
 - 3부 후반 설정(4부로 이어질 것): 요나스는 스톡홀름 답변을 **5월 31일까지 연기**함. 3부 10~15화에서 로터와 요나스는 서점 건물의 문화재 지정 신청 자료(1865년 지도첩, 다락방 은신 이야기, 라헬의 진술서)를 시청에 제출했고, 청원 서명 1,347개로 **임시 보호 절차**가 시작됨. 빌럼 씨는 **8월 1일** 밴쿠버로 떠나며 서점의 영업권·이름·재고·고양이를 로터에게 분할 상환 조건으로 넘기기로 함(건물 자체는 별개). 로터와 요나스는 7화(첫 위기)와 12화(큰 싸움)를 거쳐 «Wat doen wij?»(우리는 어떻게 할까?)로 화해. 한 가지 정정: 서점 건물 소유주는 아직 개발업자에게 팔 수 있는 상태.
 - 한글 해석 줄에 섞여 있던 화자 표기를 1~3부 전체에서 제거함(267곳).
+- 4부 순서(실제 집필): 1 Jonas' besluit · 2 Een ondernemingsplan · 3 De bank zegt nee · 4 De buurt helpt · 5 Een weekend op Texel · 6 Een zomeravond in de sloep(빌럼 출국 전날, 7/31) · 7 Moeder op bezoek · 8 Hittegolf · 9 Grachtenfestival(요나스가 «같이 집 구하자» 제안) · 10 De woningmarkt(집주인 보스 부인, 오우트베스트 1층, 월세 1,450) · 11 Verhuizen!(플뢰르·다안이 하우스보트 인수) · 12 De heropening(서점 재개장, 시 문화재 지정, 쿠이퍼 씨가 건물을 재단에 매각, 라헬 방문) · 13 Het examen(NT2 B2 합격) · 14 Een plan met Fleur en Tariq · 15 Een jaar later(청혼, 시리즈 완결)
+- 4부에서 생긴 설정: 로터의 성 Verbeek, 요나스의 성 Lindqvist, 서점명 «De Tweede Pagina», 재단 «Het Tweede Hoofdstuk»(이사장 일마즈 부인), 건물주 Kuiper, 시의원 Marianne Dekker, 라헬의 손녀 Miriam, 신규 외국인 손님 Jiwoo(한국인 유학생)
