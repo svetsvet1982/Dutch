@@ -24,11 +24,11 @@
 
 | | **Lotte van Dijk** (로터 판 데이크) | **Jonas Lindqvist** (요나스 린드크비스트) |
 |---|---|---|
-| 나이·직업 | 29세, 서점 〈De Tweede Pagina〉 점원 (헌책·희귀본 담당) | 31세, 스웨덴 출신 수자원 엔지니어. 수자원관리 회사(waterschap 협력사)에서 일하러 암스테르담에 막 이사 옴 |
+| 나이·직업 | 29세, 프리랜서 문학 번역가·편집자(영↔네덜란드어). 서점 〈De Tweede Pagina〉의 **단골 손님**으로, 집 대신 서점 독서 테이블에서 일하는 날이 많음 | 31세, 스웨덴 출신 수자원 엔지니어. 수자원관리 회사(waterschap 협력사)에서 일하러 암스테르담에 막 이사 옴 |
 | 언어 | 네덜란드어 원어민. 정확하고 직설적(네덜란드식 직접 화법), 농담은 건조함 | 영어는 능숙, 네덜란드어는 **초보**. 학습자라서 1부 대사가 단순해야 하는 이유가 자연스러움 → 부가 갈수록 실력이 늘어 B2에 도달 |
 | 성격 | 책벌레, 낯을 가리지만 친해지면 수다쟁이, 자전거로 어디든 감 | 조용하고 성실, 약속을 잘 지킴, 엉뚱한 실수를 자주 함 |
 | 사는 곳 | 요르단(Jordaan) 린덴흐라흐트의 **하우스보트(woonboot)** | 데 파이프(De Pijp)의 룸쉐어 아파트 |
-| 서사적 목표 | 은퇴하는 사장님에게서 서점을 이어받아 지키기 | 낯선 나라에서 자기 자리를 찾기. 스톡홀름 이직 제안과 사랑 사이에서 선택 |
+| 서사적 목표 | 은퇴하는 사장님에게서 서점을 이어받아 지키기 (**단골 손님 → 서점 주인**) | 낯선 나라에서 자기 자리를 찾기. 스톡홀름 이직 제안과 사랑 사이에서 선택 |
 
 > **언어 장치**: 이 설정 덕분에 *"네덜란드어를 배우는 사람(요나스)과 원어민(로터)"*의 대화가 되어, 학습자가 자연스럽게 따라 배우고, 로터가 요나스의 문장을 고쳐 주거나 풀어 설명하는 장면을 넣을 수 있음. 요나스의 실력이 부별로 올라가는 것이 곧 난이도 곡선.
 
@@ -36,7 +36,7 @@
 
 | 인물 | 설명 | 주 등장 |
 |---|---|---|
-| **Meneer Willem de Groot** (빌럼 씨) | 서점 주인, 74세. 말투가 고풍스럽고 격식체(B2) 표현의 보고. 서점을 팔려 함 | 1~4부 |
+| **Meneer Willem de Groot** (빌럼 씨) | 서점 **유일한 직원 겸 주인**, 74세. 카운터에서 둘을 지켜보는 눈치 빠른 중매쟁이. 말투가 고풍스럽고 격식체(B2) 표현의 보고. 서점을 팔려 함 | 1~4부 |
 | **Fleur** (플뢰르) | 로터의 여동생, 26세, 직설적·유쾌. 연애 조언 담당 | 1(10화)~4부 |
 | **Tariq** (타리크) | 요나스의 룸메이트, 네덜란드 태생 모로코계, 요리·농담 담당. 요나스의 네덜란드어 "생활 선생" | 2~4부 |
 | **Multatuli** (물타툴리) | 서점 고양이. 이름은 『Max Havelaar』 작가에서 따옴 (1부 8화) | 전 부 |
@@ -50,6 +50,13 @@
 - 실제 장소: 요르단 골목, 노르더르마르크트(Noordermarkt), 헤이르 마르크트, 레이크스뮤지엄, 폰덜파크, 데 파이프·알베르트 카위프 시장, 뮤지엄플레인 스케이트장, 담 광장, 하를럼, 키큰호프, 델타 웍스(제일란트), 텍셀, 헷 스히프(Het Schip)
 
 ---
+
+### 만남 장치: 둘 다 손님인 설정에서 계속 만나는 이유
+
+- 서점 안쪽의 **독서 테이블(leestafel)**: 커피 한 잔 값으로 앉아 읽을 수 있고, 로터는 거기서 번역 작업을 함. 요나스는 퇴근길에 네덜란드어 책을 읽으러 들름.
+- 매주 화요일 저녁 **Stille Leesavond**(조용히 읽는 밤): 둘 다 참석 → 정기적으로 마주칠 구실.
+- **빌럼 씨의 중매**: 일부러 같은 자리를 권하거나, 주문 도착 소식을 두 사람에게 같은 시간에 알려 줌.
+- 서점 밖 만남(카페, 산책, 행사)은 **1부 4화부터** 서서히 늘림 → 1~3화는 전부 서점 안.
 
 ## 3. 난이도 설계 (A1~B2 섞기)
 
@@ -87,10 +94,12 @@
 
 | 부 | 관계 단계 | 핵심 사건 | 마무리 장면 |
 |---|---|---|---|
-| **1부 가을** | 점원과 손님 → 서로 마음이 가는 사이 | 첫 만남, 단골, 오해, 편지, 첫눈 | 서로 **u → je** 로 말을 놓기로 함 |
+| **1부 가을** | 서점에서 마주치는 낯선 손님들 → 서로 마음이 가는 사이 | 첫 만남, 단골, 오해, 편지, 첫눈 | 서로 **u → je** 로 말을 놓기로 함 |
 | **2부 겨울** | 친구 → 연인 | 사인터클라스 시, 새해 첫 키스, 고백 | "**우리 사귀는 거 맞지?**" 공식 커플 선언 |
 | **3부 봄** | 연인 → 시험대 | 부모님 만남, 스톡홀름 이직 제안, 큰 싸움과 화해, 서점 인수 제안 | 둘 다 "방법을 찾자"고 약속 |
 | **4부 여름** | 시험대 → 함께 살기 | 창업 준비·대출 거절·동네의 도움, 요나스의 결정, 동거, 재개장, NT2 시험 | **1년 뒤 같은 서점**, 요나스가 새 외국인 손님을 맞고 청혼 |
+
+**1화의 우연**: 둘이 같은 책(『Max Havelaar』 쉬운 판본)에 동시에 손을 뻗어 만남. 로터가 요나스의 서툰 네덜란드어를 듣고 도와주면서 시작.
 
 **복선(전 부에 걸쳐 회수)**: 요나스가 1화에서 사는 『Max Havelaar』 쉬운 판본 → 3부 8화 재등장 / 책갈피(델프트 블루) → 4부 15화 반지 상자 / 고양이 Multatuli가 요나스 알레르기에도 불구하고 무릎에 앉는 일 / "약속은 지킨다(Beloofd is beloofd)" 말버릇.
 
@@ -102,19 +111,21 @@
 
 ### 1부 · Herfst (가을) — A1 → A2, u
 
+> 1~3화는 서점 안, 4화부터 서점 밖으로 확장. 빌럼 씨(카운터)가 짧게 등장해 둘을 이어 줌.
+
 | 화 | 제목 | 수준 | 장소·시간 | 줄거리 | 핵심 표현 | 문법 |
 |---|---|---|---|---|---|---|
-| 1 | Een eerste ontmoeting (첫 만남) | A1 | 서점·10월 오후 | 요나스가 쉬운 네덜란드어 소설을 찾으러 옴 | Goedemiddag · Dank u wel · Ik zoek… · Hoeveel kost…? | u, de/het, ik zoek |
-| 2 | Terug in de winkel (다시 찾아온 손님) | A1 | 서점·일주일 후 화요일 | 책을 읽고 감상을 말하러 돌아옴 | Ik heb … gelezen · Het was leuk · Wat raadt u aan? | 현재완료 입문 |
-| 3 | Een cadeau voor mijn moeder (어머니 선물) | A1~A2 | 서점·금요일 아침 | 스웨덴 어머니 생신 선물 고르기 | Hoe oud is…? · duur / goedkoop · Gefeliciteerd! | 형용사, 소유사 |
+| 1 | Een eerste ontmoeting (첫 만남) | A1 | 서점·10월 오후 | 둘 다 손님. 같은 책 앞에서 손이 겹치고, 로터가 요나스를 도움. 빌럼 씨가 계산대에서 힐끗 봄 | Pardon · Ik zoek… · Dank u wel · Hoeveel kost…? · Neemt u hem maar | u, de/het, ik zoek |
+| 2 | Terug in de winkel (다시 찾아온 손님) | A1 | 서점·일주일 후 화요일 | 독서 테이블에서 재회, 책 감상을 나눔 | Ik heb … gelezen · Het was leuk · Wat raadt u aan? | 현재완료 입문 |
+| 3 | Een cadeau voor mijn moeder (어머니 선물) | A1~A2 | 서점·금요일 아침 | 스웨덴 어머니 생신 선물을 로터가 같이 골라 줌 | Hoe oud is…? · duur / goedkoop · Gefeliciteerd! | 형용사, 소유사 |
 | 4 | Koffie bij 't Hoekje (카페에서) | A2 | 카페·월요일 오후 | 처음 단둘이 커피 | Wat mag het zijn? · Ik neem… · Mag ik afrekenen? · Samen of apart? | 주문, 모달 mogen |
 | 5 | Regen en een paraplu (비 오는 날) | A2 | 서점→웨스터마르크트 트램 정류장·수요일 저녁 | 우산 하나로 같이 걷기 | Het regent · Hoe laat is het? · Ik heb geen… · We gaan dezelfde kant op | geen/niet, 시간 |
-| 6 | Een zeldzame uitgave (희귀본) | A2 | 서점·금요일 | 요나스가 찾는 옛 지도첩(Blaeu)을 로터가 발견 | Ik heb … gevonden · eerste druk · Het is niet dringend | 현재완료, 숫자(연도) |
-| 7 | Poëzieavond (시 낭독의 밤) | A2 | 서점·금요일 저녁 | 로터의 낭독, 요나스가 응원 | Wens me succes · Ik ben aan de beurt · Dat is dankzij u | 분리동사, dankzij |
-| 8 | Multatuli, de winkelkat (서점 고양이) | A2 | 서점·토요일 오전 | 고양이 알레르기 소동 | Hoe ziet hij eruit? · Ik ben allergisch voor… · Dat is een lang verhaal | 묘사, 형용사 -e |
+| 6 | Een zeldzame uitgave (희귀본) | A2 | 서점·금요일 | 요나스가 찾는 옛 지도첩(Blaeu)을 로터가 번역 일로 아는 경매 사이트에서 발견, 빌럼 씨가 주문 | Ik heb … gevonden · eerste druk · Het is niet dringend | 현재완료, 숫자(연도) |
+| 7 | Poëzieavond (시 낭독의 밤) | A2 | 서점·금요일 저녁 | 번역가 로터의 번역 시 낭독(게스트), 요나스가 응원 | Wens me succes · Ik ben aan de beurt · Dat is dankzij u | 분리동사, dankzij |
+| 8 | Multatuli, de winkelkat (서점 고양이) | A2 | 서점·토요일 오전 | 서점 고양이 때문에 요나스 알레르기 소동 | Hoe ziet hij eruit? · Ik ben allergisch voor… · Dat is een lang verhaal | 묘사, 형용사 -e |
 | 9 | Een wandeling door de Jordaan (골목 산책) | A2 | 요르단 골목→노르더르마르크트→웨스터르케르크·월요일 | 길 안내와 골목 구경 | Eerst rechtdoor, dan links · Kijk rechts · Hoeveel minuten lopen? | 방향, 전치사 |
-| 10 | Het misverstand (오해) | A2 | 서점→전화→서점·목~금 | 요나스가 로터가 남자와 포옹하는 걸 봄(사실은 오빠 Joris) | Het is niet wat u denkt · Ik was dom · Ik vind u aardig | 과거형 was, 부정 |
-| 11 | De brief (편지) | A2 | 서점·화요일 오전 | 네덜란드어 선생님께 배운 대로 편지를 써 옴 | Geachte mevrouw · Met vriendelijke groet · Als u het niet erg vindt | 격식 서한 |
+| 10 | Het misverstand (오해) | A2 | 서점→전화→서점·목~금 | 요나스가 서점 앞에서 로터가 남자와 포옹하는 걸 봄(사실은 오빠 Joris) | Het is niet wat u denkt · Ik was dom · Ik vind u aardig | 과거형 was, 부정 |
+| 11 | De brief (편지) | A2 | 서점·화요일 오전 | 네덜란드어 선생님께 배운 대로 쓴 편지를 빌럼 씨 편에 로터에게 전달 | Geachte mevrouw · Met vriendelijke groet · Als u het niet erg vindt | 격식 서한 |
 | 12 | Museumnacht (뮤지엄 나이트) | A2 | 레이크스뮤지엄·11월 토요일 밤 | 밤샘 개관 데이트, 『야경』 앞 | Hoe laat sluit het? · Waar is de garderobe? · Dat vind ik prachtig | 비교·취향 |
 | 13 | Sinterklaas komt aan (사인터클라스 입성) | A2 | 운하 변·11월 중순 토요일 | 아이들 틈에서 입성 행렬 구경, 페퍼노텐 | Kijk, daar is hij! · pepernoten · Welke schoen zet jij? | 문화 설명, 의문사 |
 | 14 | De eerste sneeuw (첫눈) | A2 | 프린센흐라흐트→담 광장·토요일 저녁 | 첫눈 맞으며 산책, 손을 잡음 | Wat mooi! · Heb je het koud? · Zullen we…? | zullen, 감탄문 |
@@ -144,7 +155,7 @@
 
 | 화 | 제목 | 수준 | 장소·시간 | 줄거리 | 핵심 표현 | 문법 |
 |---|---|---|---|---|---|---|
-| 1 | Boekenweek (책 주간) | B1 | 서점·3월 | 『Boekenweekgeschenk』 증정 행사, 서점을 구할 아이디어 | Als je een boek koopt, krijg je… · Het zou leuk zijn als… | 조건 als, zou |
+| 1 | Boekenweek (책 주간) | B1 | 서점·3월 | 단골 로터가 자원해 『Boekenweekgeschenk』 증정 행사를 기획, 요나스가 돕기 시작 | Als je een boek koopt, krijg je… · Het zou leuk zijn als… | 조건 als, zou |
 | 2 | Keukenhof (튤립 정원) | B1 | 리서·4월 | 튤립 구경, 날씨 걱정 | Als het niet regent, gaan we… · Wat een kleuren! | 가정·조건 |
 | 3 | Mijn fiets is gestolen! (자전거 도난) | B1 | 경찰서·4월 | 중고 자전거 도난, 네덜란드의 "fietsdiefstal" 현실 | Ik wil aangifte doen · Het slot was kapot · Wanneer is het gebeurd? | 수동태 입문, 과거 |
 | 4 | Paasontbijt bij Lotte's ouders (부활절 아침) | B1 | 하를럼·4월 | 부모님 첫 만남, 네덜란드 가정 문화 | Dat is aardig van u · Neem nog een kopje koffie · Wat doe je voor werk? | u/je 혼용, 격식 |
@@ -158,7 +169,7 @@
 | 12 | De grote ruzie (큰 싸움) | B1~B2 | 하우스보트·5월 | "그냥 스톡홀름 가!" — 폭발과 후회 | Ik had het niet moeten zeggen · Het spijt me · Jij denkt alleen aan… | 감정·비난·사과 |
 | 13 | Stilte (침묵의 일주일) | B1 | 카페(Fleur–Lotte)·술집(Tariq–Jonas) | 병렬 장면: 각자의 친구가 조언 | Wat vind je zelf? · Praat met haar · Je moet jezelf niet… | 조언, moeten |
 | 14 | Een telefoontje (전화 한 통) | B1 | 웨스터토렌 앞·5월 | 먼저 연락, 화해 | Sorry dat ik zo lang niets zei · Ik heb je gemist · Kunnen we praten? | 화해 표현 |
-| 15 | Een nieuw aanbod (새 제안) | B1~B2 | 서점·5월 말 | 빌럼 씨가 로터에게 서점 인수 제안 | Ik wil de winkel aan jou overdragen · Overdenk het rustig · We vinden wel een weg | 제안, 양보절 |
+| 15 | Een nieuw aanbod (새 제안) | B1~B2 | 서점·5월 말 | 빌럼 씨가 단골 로터에게 서점 인수 제안("당신만큼 이 서점을 아는 손님은 없어요") | Ik wil de winkel aan jou overdragen · Overdenk het rustig · We vinden wel een weg | 제안, 양보절 |
 
 ### 4부 · Zomer (여름) — B1 → B2
 
@@ -178,7 +189,7 @@
 | 12 | De heropening (재개장) | B2 | 서점·9월 말 | 개점 연설, 빌럼 씨의 작별 인사 | Dames en heren · Het is mij een eer · Ik hef het glas | 격식 연설 |
 | 13 | Het examen (NT2 시험) | B1~B2 | 시험장→카페·10월 초 | 요나스의 B2 시험, 합격 소식 | Ik ben geslaagd! · Ik heb er hard voor geleerd · Jij hebt me geholpen | 시험 어휘, 자부심 |
 | 14 | Een plan met Fleur en Tariq (비밀 작전) | B2 | 카페·10월 | 요나스의 청혼 준비, 관용구 대잔치 | Dat blijft onder ons · Dat is een goed idee, hoor · Het zit zo… | 속담·관용구 |
-| 15 | Een jaar later (1년 뒤) | B2 | 서점·10월 오후 | 1화와 같은 장면, 이번엔 요나스가 새 외국인 손님을 응대하고 청혼 | Goedemiddag, kan ik u helpen? · Wil je met me trouwen? · Ja, natuurlijk! | 1화 거울 구조, 전체 총정리 |
+| 15 | Een jaar later (1년 뒤) | B2 | 서점·10월 오후 | 1화와 같은 장면, 이번엔 서점 주인 로터가 새 외국인 손님을 응대하고 요나스가 청혼 | Goedemiddag, kan ik u helpen? · Wil je met me trouwen? · Ja, natuurlijk! | 1화 거울 구조, 전체 총정리 |
 
 ---
 
@@ -241,6 +252,7 @@
 | 1 | 남주 설정 | 스웨덴 출신 네덜란드어 학습자 | 한국인 교환 엔지니어 등 |
 | 2 | 남주 직업 | 수자원 엔지니어(네덜란드다운 직업) | 건축가·번역가 등 |
 | 3 | 1부 말미에 u → je 전환 | 1부 15화 | 2부 1화로 미루기 |
+| 8 | 둘 다 손님 설정 | 확정(로터=번역가 단골, 서점 직원은 빌럼 씨뿐) | — |
 | 4 | 시간 흐름 | 1년(10월~10월) | 계절만 구분하고 날짜는 느슨히 |
 | 5 | 화당 단어·문법 분량 | 단어 12~15개, 문법 8~13항목 | 첨부와 똑같이(단어 ~15, 문법 ~13) |
 | 6 | 한글 발음 | 7장 표기 원칙 | 간략히 한 줄만 |
