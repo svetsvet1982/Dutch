@@ -1,0 +1,341 @@
+# 8부 6화. L'offre de rachat (인수 제안)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국 → 편집국장실 → 편집국 옥상 | 시간: 7월 13일 월요일
+핵심 표현: Nous vous proposons une porte de sortie · une prise de contrôle · Le Phare n'est pas à vendre · Il faudrait que…
+
+## 대화
+Gilles: (lundi, huit heures ; dans le bureau d'Hélène ; il étale des feuilles sur la table, les mains tremblantes) Trois lettres. Arrivées ce matin. (un silence) À la même heure. Par le même coursier.
+(월요일 아침 여덟 시. 엘렌 사무실. 떨리는 손으로 탁자에 종이들을 펼친다) 편지 세 통. 오늘 아침에 왔어. (침묵) 같은 시각에. 같은 퀵 기사로.
+Hélène: (elle prend la première) L'imprimerie. (elle lit) « Nous avons le regret de vous informer que nous mettons fin à notre contrat d'impression, à compter du trois août. » (un silence) Vingt jours.
+(첫 번째를 집는다) 인쇄소. (읽는다) «유감스럽게도 팔월 삼일부로 인쇄 계약을 종료함을 알려 드립니다.» (침묵) 이십 일.
+Gilles: L'imprimerie appartient à une filiale du groupe Marcellin depuis l'année dernière. (un silence) Je ne le savais pas. Personne ne le savait.
+그 인쇄소는 작년부터 마르셀랭 그룹 자회사 소유야. (침묵) 몰랐어. 아무도 몰랐지.
+Hélène: (la deuxième) L'hébergeur du site. (elle lit) « En raison de risques juridiques liés à certains contenus publiés, nous ne sommes plus en mesure d'assurer l'hébergement de vos services au-delà du trente et un juillet. »
+(두 번째) 사이트 호스팅 업체. (읽는다) «게시된 일부 콘텐츠와 관련된 법적 위험으로 인해 칠월 삼십일일 이후로는 귀사 서비스의 호스팅을 보장할 수 없습니다.»
+Karim: (depuis la porte, il serre les poings) « Risques juridiques. » (un silence) Ça veut dire : quelqu'un leur a téléphoné.
+(문가에서 주먹을 쥔다) «법적 위험.» (침묵) 누가 그 사람들한테 전화했다는 뜻이지.
+Hélène: (la troisième, plus lentement) Les annonceurs. (un silence) Quatre. Une banque, un constructeur automobile, une compagnie d'assurances, une chaîne de magasins. (elle lit) « Compte tenu du contexte, nous suspendons nos campagnes publicitaires. »
+(세 번째, 더 천천히) 광고주들. (침묵) 네 곳. 은행 하나, 자동차 회사 하나, 보험사 하나, 유통 체인 하나. (읽는다) «현 상황을 고려하여 광고 캠페인을 중단합니다.»
+Gilles: (il s'assoit lourdement) La publicité, c'est vingt pour cent de nos recettes. (un silence) Sans imprimerie, plus de journal papier. Sans hébergeur, plus de site. Sans publicité… (un silence) On a trois semaines. Peut-être moins.
+(털썩 앉는다) 광고가 우리 수입의 이십 퍼센트야. (침묵) 인쇄소 없으면 종이 신문 끝. 호스팅 없으면 사이트 끝. 광고 없으면… (침묵) 삼 주 남았어. 어쩌면 그보다 적게.
+Julien: (il entre, un café à la main) La saisie, puis l'imprimerie, puis l'hébergeur, puis les annonceurs. (un silence) Tout en une semaine.
+(커피를 들고 들어온다) 압류, 그다음 인쇄소, 그다음 호스팅, 그다음 광고주. (침묵) 전부 일주일 만에.
+Aubry: (il est assis dans un coin, il lit les lettres une par une) Ce n'est pas un hasard. C'est une stratégie. (un silence) On ne vous attaque pas de face. On vous coupe l'eau, l'électricité et le gaz. Puis on frappe à la porte avec une bouteille d'eau.
+(구석에 앉아 편지를 한 통씩 읽는다) 우연이 아니야. 전략이지. (침묵) 정면으로 공격하지 않아. 물, 전기, 가스를 끊지. 그러고 나서 물 한 병 들고 문을 두드리는 거야.
+Hélène: (elle regarde l'heure) Et la bouteille d'eau arrive à dix heures. (un silence) Charles Marcellin a demandé à venir ici. En personne.
+(시계를 본다) 그리고 그 물 한 병이 열 시에 도착하지. (침묵) 샤를 마르셀랭이 여기 오겠다고 했어. 직접.
+Léa: (surprise) Ici ? Dans notre rédaction ?
+(놀라서) 여기요? 우리 편집국에?
+Hélène: Il a dit : « Je veux voir le Phare de l'intérieur. » (un silence) Il veut voir ce qu'il achète.
+그러더라. «르 파르를 안에서 보고 싶습니다.» (침묵) 자기가 살 걸 보고 싶은 거지.
+Gilles: (il se lève, nerveux) Il y a autre chose, Hélène. (un silence) Une chose que je dois te dire avant qu'il arrive.
+(초조하게 일어선다) 또 있어, 엘렌. (침묵) 그 사람이 오기 전에 말해야 할 게 하나 있어.
+Hélène: (elle le regarde) Quoi ?
+(그를 본다) 뭔데?
+Gilles: (il sort un document) Le capital du Phare. Toi, trente pour cent. Moi, trente. La société des journalistes, quinze. La société des lecteurs, dix. Et les petits actionnaires, quinze. (un silence) Les amis du début. Ceux qui nous ont prêté de l'argent en 2014.
+(서류 한 장을 꺼낸다) 르 파르 자본 구성. 너 삼십 퍼센트. 나 삼십. 기자 협회 십오. 독자 협회 십. 그리고 소액 주주 십오. (침묵) 초창기 친구들. 2014년에 돈 빌려준 사람들.
+Hélène: Je sais tout ça.
+그건 다 알지.
+Gilles: (un silence) Depuis vendredi, les quinze pour cent des petits actionnaires ont été rachetés. Tous. (un silence) À trois fois leur valeur. Par une société qui s'appelle « Phare Avenir ».
+(침묵) 금요일부터 소액 주주 십오 퍼센트가 다 팔렸어. 전부. (침묵) 가치의 세 배로. «파르 아브니르»라는 회사가 샀어.
+Hélène: (elle pâlit) Phare Avenir.
+(창백해진다) 파르 아브니르.
+Karim: (il tape sur son téléphone) Créée il y a dix jours. (un silence) Actionnaire unique : une filiale du groupe Marcellin.
+(휴대폰을 두드린다) 열흘 전에 설립됐어요. (침묵) 단독 주주: 마르셀랭 그룹 자회사.
+Hélène: (un long silence) Les amis du début. (un silence) Ils ont vendu.
+(긴 침묵) 초창기 친구들. (침묵) 팔았구나.
+Gilles: (doucement) Ils ont soixante, soixante-dix ans. Certains ont des petits-enfants à aider. Des maisons de retraite à payer. (un silence) Trois fois la valeur, Hélène. Je ne peux pas leur en vouloir.
+(조용히) 다들 예순, 일흔이야. 손주를 도와야 하는 사람도 있고. 요양원 비용을 내야 하는 사람도 있고. (침묵) 가치의 세 배야, 엘렌. 원망할 수가 없어.
+Hélène: (elle ferme les yeux) Moi non plus. (un silence) Quinze pour cent. Il lui en faut trente-six de plus pour avoir la majorité.
+(눈을 감는다) 나도 못 해. (침묵) 십오 퍼센트. 과반이 되려면 삼십육이 더 필요하지.
+Aubry: (il lève les yeux) Ou trente pour cent. Et la société des lecteurs. (un silence) Ou trente pour cent… et toi.
+(고개를 든다) 아니면 삼십 퍼센트. 그리고 독자 협회. (침묵) 아니면 삼십 퍼센트… 그리고 너.
+Gilles: (il secoue la tête violemment) Jamais. (un silence) Jamais, Pierre.
+(세차게 고개를 젓는다) 절대. (침묵) 절대 안 해, 피에르.
+Camille: (neuf heures et demie ; elle range frénétiquement les piles de journaux sur le bureau de Léa) Il faut ranger. Il va tout regarder.
+(아침 아홉 시 반. 레아 책상의 신문 더미를 정신없이 정리한다) 치워야 해. 다 볼 거야.
+Léa: (elle l'arrête) Non. (un silence) On ne range rien. Qu'il voie comment on travaille. Les piles, les flèches, les tasses sales. (un silence) C'est ça, Le Phare.
+(그녀를 말린다) 아니. (침묵) 아무것도 치우지 마. 우리가 어떻게 일하는지 보라고 해. 더미들, 화살표들, 더러운 잔들. (침묵) 그게 르 파르야.
+Camille: (elle repose les journaux, puis sourit) Tu as raison. (un silence) À la tour Argos, tout était rangé. Toujours. (un silence) Les gens qui cachent quelque chose rangent beaucoup.
+(신문을 다시 내려놓고 웃는다) 네 말이 맞아. (침묵) 아르고스 빌딩에선 늘 다 정돈돼 있었어. 늘. (침묵) 뭔가 숨기는 사람들은 정리를 많이 하지.
+Hélène: (elle sort de son bureau ; elle a mis une veste noire) Comment je suis ?
+(사무실에서 나온다. 검은 재킷을 입었다) 나 어때?
+Julien: (il la regarde) Comme quelqu'un qui va dire non. (un silence) Très élégante.
+(그녀를 본다) 거절하러 가는 사람 같아요. (침묵) 아주 우아하고.
+Hélène: (un petit sourire) C'est la veste de 2013. (un silence) Je l'ai gardée pour le jour où je pourrais la porter en gagnant.
+(작게 웃으며) 2013년 재킷이야. (침묵) 이기면서 입을 수 있는 날을 위해 간직했지.
+Momo: (dix heures moins cinq ; il monte l'escalier en courant) Il arrive ! (un silence) Une voiture noire. Un chauffeur. Deux hommes en costume. (un silence) Je leur offre un café ?
+(열 시 오 분 전. 계단을 뛰어 올라온다) 온다! (침묵) 검은 차. 운전기사. 정장 입은 남자 둘. (침묵) 커피 드릴까?
+Hélène: (elle se lève et lisse sa veste) Offre-lui un café, Momo. (un silence) Le même que d'habitude. Gratuit.
+(일어나 재킷을 매만진다) 커피 드려, 모모. (침묵) 평소랑 똑같은 걸로. 공짜로.
+Marcellin: (dix heures ; il entre dans la rédaction ; un homme de soixante-huit ans, grand, cheveux blancs coiffés en arrière, costume bleu marine, sourire calme ; derrière lui, un jeune homme avec une serviette en cuir) Madame Vasseur. (un silence) Enfin.
+(오전 열 시. 편집국에 들어선다. 키가 크고, 흰머리를 뒤로 빗어 넘겼으며, 남색 정장에 차분한 미소를 띤 예순여덟 살 남자. 뒤에 가죽 서류 가방을 든 젊은 남자) 바쇠르 씨. (침묵) 드디어.
+Hélène: (elle lui serre la main, sans sourire) Monsieur Marcellin.
+(웃지 않고 그와 악수한다) 마르셀랭 씨.
+Assistant: (le jeune homme à la serviette s'approche de Léa pendant que Marcellin enlève son manteau) C'est vous, la stagiaire de la chaussette ? (un silence) J'ai vu la vidéo. Tout le monde l'a vue, chez nous.
+(가방 든 젊은 남자가 마르셀랭이 외투를 벗는 동안 레아에게 다가온다) 양말 인턴이 당신이에요? (침묵) 영상 봤어요. 우리 회사 사람들 다 봤어요.
+Léa: (froidement) Et qu'est-ce qu'on en pense, chez vous ?
+(차갑게) 그래서 거기선 뭐라고 생각하는데요?
+Assistant: (il baisse la voix, gêné) Officiellement, rien. (un silence) Officieusement… on a tous acheté des chaussettes.
+(민망한 얼굴로 목소리를 낮춘다) 공식적으로는 아무 생각도 없어요. (침묵) 비공식적으로는… 다들 양말을 샀죠.
+Léa: (malgré elle, elle sourit) Dites-leur de prendre aussi deux cartes mémoire.
+(자기도 모르게 웃는다) 메모리 카드도 두 장 사라고 전해 주세요.
+Marcellin: (il regarde autour de lui : les bureaux en désordre, les piles de journaux, le tableau blanc couvert de flèches, la petite flèche faîtière sur le bureau de Julien) Charmant. (un silence) Vraiment charmant. On se croirait dans une rédaction des années quatre-vingt.
+(주위를 둘러본다. 어질러진 책상, 신문 더미, 화살표로 뒤덮인 화이트보드, 쥘리앵 책상 위의 작은 지붕 화살) 매력적이군요. (침묵) 정말 매력적이에요. 팔십 년대 편집국에 온 것 같군요.
+Julien: (de son bureau, sans se lever) C'est parce que nous faisons du journalisme des années quatre-vingt, monsieur. On vérifie avant de publier.
+(자기 책상에서 일어나지도 않고) 우리가 팔십 년대식 저널리즘을 하니까요. 보도하기 전에 확인하죠.
+Marcellin: (il se tourne vers lui, avec un sourire) Monsieur Marchetti. (un silence) Nous nous sommes rencontrés au Cercle. Vous m'aviez dit que vous étiez consultant. Antoine… Ferrand, je crois ?
+(웃으며 그를 향해 돌아선다) 마르케티 씨. (침묵) 르 세르클에서 만났죠. 컨설턴트라고 하셨던가요. 앙투안… 페랑이었던 것 같은데?
+Julien: (un silence) Vous avez une bonne mémoire.
+(침묵) 기억력이 좋으시네요.
+Marcellin: (aimablement) C'est mon métier de me souvenir des gens qui me mentent. (un silence) Je ne vous en veux pas. Chacun son métier.
+(다정하게) 나한테 거짓말한 사람들을 기억하는 게 내 일이죠. (침묵) 원망하진 않아요. 다들 자기 일이 있으니까.
+Marcellin: (il s'arrête devant le bureau de Mira ; elle lève les yeux) Madame Askarova. (un silence) La journaliste de Kharzan. Félicitations pour votre statut de réfugiée.
+(미라의 책상 앞에 멈춘다. 그녀가 고개를 든다) 아스카로바 씨. (침묵) 하르잔 기자. 난민 지위 축하합니다.
+Mira: (elle le regarde, sans sourire) Merci. (un silence) Vous êtes bien informé.
+(웃지 않고 그를 본다) 고맙습니다. (침묵) 잘 아시네요.
+Marcellin: (aimablement) Mes journaux ont parlé de vous. Avec beaucoup de respect. (un silence) Ma chaîne de télévision a même fait un reportage sur votre courage.
+(다정하게) 내 신문사들이 당신 얘기를 했어요. 아주 정중하게. (침묵) 내 방송국은 당신의 용기에 대해 르포까지 했죠.
+Mira: (un long silence) Votre chaîne a aussi diffusé, en février, un débat où un invité disait que les réfugiés de Kharzan étaient « des agents déguisés ». (un silence) Je l'ai regardé dans ma chambre de bonne. Avec ma valise encore faite.
+(긴 침묵) 당신 방송국은 이월에 하르잔 난민들이 «위장한 요원들»이라고 말하는 출연자가 나온 토론도 내보냈죠. (침묵) 하녀 방에서 봤어요. 아직 싸 둔 가방이랑.
+Marcellin: (son sourire reste, mais plus mince) Mes rédactions sont libres, madame. (un silence) Libres de se tromper.
+(미소는 남아 있지만 더 얇아진다) 내 편집국들은 자유로워요, 부인. (침묵) 틀릴 자유도 있죠.
+Mira: (elle retourne à son écran) Alors moi aussi, je suis libre. (un silence) Libre de ne pas vous croire.
+(자기 화면으로 돌아간다) 그럼 나도 자유롭네요. (침묵) 당신을 믿지 않을 자유.
+Momo: (il pose un café devant Marcellin) Café. (un silence) C'est gratuit. Ici, tout le monde a le même.
+(마르셀랭 앞에 커피를 놓는다) 커피요. (침묵) 공짜예요. 여기선 다들 같은 걸 마셔요.
+Marcellin: (il regarde Momo, puis la tasse ; il la goûte) Il est excellent. (un silence) Vous êtes le monsieur du croissant ? À la télévision ?
+(모모를 보고, 잔을 본다. 맛을 본다) 훌륭하군요. (침묵) 텔레비전에 나온 그 크루아상 아저씨인가요?
+Momo: (les bras croisés) Le croissant de la liberté. (un silence) Lui, il n'est pas à vendre non plus.
+(팔짱을 끼고) 자유의 크루아상. (침묵) 그것도 팔지 않아요.
+Hélène: (dix heures quinze ; dans son bureau, porte fermée ; Gilles et Aubry sont avec elle ; Marcellin et son assistant en face) Je vous écoute, monsieur Marcellin.
+(오전 열 시 십오 분. 문을 닫은 그녀의 사무실. 질과 오브리가 함께 있다. 맞은편에 마르셀랭과 그의 비서) 말씀하세요, 마르셀랭 씨.
+Marcellin: (il croise les mains) Je vais être direct. Je n'aime pas perdre de temps. Le vôtre est compté. (un silence) Vos comptes sont en partie gelés. Votre imprimeur vous quitte. Votre hébergeur aussi. Vos annonceurs partent. (un silence) Dans trois semaines, Le Phare n'existe plus.
+(손을 깍지 낀다) 직설적으로 말하죠. 시간 낭비를 싫어해서. 당신 시간은 얼마 안 남았고요. (침묵) 계좌는 일부 동결됐고. 인쇄소는 떠나고. 호스팅 업체도. 광고주들도 떠나죠. (침묵) 삼 주 뒤면 르 파르는 존재하지 않아요.
+Gilles: (froidement) Vous êtes bien renseigné.
+(차갑게) 잘 알고 계시네요.
+Marcellin: Je suis propriétaire de votre imprimeur, monsieur Ravel. (un silence) Je suis très bien renseigné.
+난 당신네 인쇄소 소유주예요, 라벨 씨. (침묵) 아주 잘 알고 있죠.
+Marcellin: (il regarde par la fenêtre du bureau) Vous savez, madame Vasseur, mon père avait un journal. Un petit hebdomadaire, en Normandie. Quatre pages. Deux mille lecteurs. (un silence) Il est mort ruiné. À soixante ans. Parce qu'il refusait toute publicité.
+(사무실 창밖을 본다) 아시겠지만, 바쇠르 씨, 우리 아버지도 신문사가 있었어요. 노르망디의 작은 주간지. 네 쪽. 독자 이천 명. (침묵) 파산해서 돌아가셨죠. 예순에. 광고를 전부 거절해서.
+Hélène: (doucement) Je suis désolée.
+(조용히) 유감이에요.
+Marcellin: Ne le soyez pas. (un silence) Le jour de son enterrement, j'avais vingt-trois ans. Je me suis promis de ne jamais être pauvre et libre. (un silence) J'ai choisi d'être riche. Et de rendre libres ceux qui le méritent.
+유감스러워할 거 없어요. (침묵) 아버지 장례식 날 난 스물셋이었죠. 가난하면서 자유롭지는 않겠다고 다짐했어요. (침묵) 부자가 되기로 했죠. 그리고 그럴 자격이 있는 사람들을 자유롭게 만들어 주기로.
+Hélène: (après un silence) Et c'est vous qui décidez qui le mérite.
+(침묵 끝에) 그리고 누가 자격이 있는지는 당신이 정하고요.
+Marcellin: (un petit sourire) Quelqu'un doit décider. (un silence) Mieux vaut quelqu'un qui paie que quelqu'un qui menace.
+(작게 웃으며) 누군가는 정해야죠. (침묵) 협박하는 사람보단 돈 내는 사람이 낫잖아요.
+Aubry: (calmement) Et quand c'est le même homme qui paie et qui menace, monsieur Marcellin ?
+(차분하게) 그럼 돈 내는 사람과 협박하는 사람이 같은 사람이면요, 마르셀랭 씨?
+Marcellin: (il le regarde longtemps, puis se tourne vers Hélène, sans répondre) Parlons chiffres.
+(그를 오래 바라보다가 대답 없이 엘렌 쪽으로 돌아선다) 숫자 얘기를 하죠.
+Marcellin: (il fait un signe à son assistant, qui pose un dossier sur la table) Nous vous proposons une porte de sortie. (un silence) Trois millions d'euros. Immédiatement. Pour payer vos salaires, votre avocat, vos dettes. (un silence) Un nouvel imprimeur. Un nouvel hébergeur. De la publicité. Tout.
+(비서에게 신호하자, 비서가 탁자에 서류철을 놓는다) 출구를 제안하겠습니다. (침묵) 삼백만 유로. 즉시. 월급, 변호사 비용, 빚을 갚을 수 있게. (침묵) 새 인쇄소. 새 호스팅 업체. 광고. 전부.
+Hélène: (sans toucher le dossier) En échange de quoi ?
+(서류철을 건드리지 않고) 그 대가로 뭘요?
+Marcellin: (un sourire) De cinquante et un pour cent du capital. (un silence) Une prise de contrôle. Amicale. Vous restez directrice. Vos journalistes restent. Le nom reste. (un silence) Rien ne change. Sauf que vous survivez.
+(웃으며) 자본의 51퍼센트. (침묵) 경영권 인수. 우호적인. 당신은 국장으로 남고. 기자들도 남고. 이름도 남죠. (침묵) 아무것도 바뀌지 않아요. 살아남는다는 것만 빼고.
+Aubry: (calmement) Et la ligne éditoriale ?
+(차분하게) 그럼 편집 방침은요?
+Marcellin: (il fait un geste de la main) Une charte d'indépendance sera signée. Je n'interviens jamais dans le contenu de mes journaux. (un silence) Demandez au Courrier de Paris.
+(손짓을 한다) 독립 헌장에 서명할 겁니다. 난 내 신문사 콘텐츠에 절대 개입하지 않아요. (침묵) 「쿠리에 드 파리」에 물어보시죠.
+Gilles: (un rire amer) Le Courrier de Paris a publié un article non signé, il y a trois semaines. Sur « une campagne de dénigrement contre une forge bourguignonne ». (un silence) Cinq heures avant notre enquête.
+(씁쓸하게 웃는다) 「쿠리에 드 파리」는 삼 주 전에 서명 없는 기사를 냈죠. «부르고뉴 단조 공장에 대한 비방 캠페인»에 관한. (침묵) 우리 탐사 보도 다섯 시간 전에.
+Marcellin: (sans perdre son sourire) Mes rédactions sont libres, monsieur Ravel. Libres de se tromper aussi.
+(미소를 잃지 않고) 내 편집국들은 자유로워요, 라벨 씨. 틀릴 자유도 있죠.
+Hélène: (elle se penche en avant) Monsieur Marcellin. (un silence) Il faudrait que vous m'expliquiez une chose. Pourquoi voulez-vous racheter un journal qui vous coûte trois millions, qui est poursuivi pour dix millions, et qui écrit des choses que vos amis n'aiment pas ?
+(몸을 앞으로 숙인다) 마르셀랭 씨. (침묵) 한 가지 설명해 주셔야겠어요. 삼백만 유로가 들고, 천만 유로 소송에 걸려 있고, 당신 친구들이 싫어하는 걸 쓰는 신문사를 왜 사고 싶으신 거죠?
+Marcellin: (un long silence ; il boit son café) Parce que j'aime la presse, madame Vasseur. (un silence) Et parce qu'un journal mort devient un martyr. Un journal vivant… peut devenir raisonnable.
+(긴 침묵. 커피를 마신다) 언론을 사랑하니까요, 바쇠르 씨. (침묵) 그리고 죽은 신문사는 순교자가 되죠. 살아 있는 신문사는… 합리적이 될 수 있고요.
+Aubry: (doucement) « Raisonnable. » (un silence) Le mot que Harmel utilisait avec le député Sorel. « Tant que vous restez raisonnable. »
+(부드럽게) «합리적.» (침묵) 아르멜이 소렐 의원한테 쓰던 단어군요. «당신이 합리적으로 남아 있는 한.»
+Marcellin: (son sourire se fige une seconde) Je ne connais pas ce monsieur Harmel.
+(미소가 일 초 굳는다) 그 아르멜이라는 사람은 모릅니다.
+Hélène: (calmement) Vous avez dîné avec lui. Au Cercle. Le vingt-six mars. (un silence) Mon journaliste était à la table d'à côté.
+(차분하게) 그 사람이랑 저녁을 드셨죠. 르 세르클에서. 삼월 이십육일. (침묵) 우리 기자가 옆 테이블에 있었어요.
+Marcellin: (un silence ; il pose sa tasse) Vous voyez ? C'est exactement ce que je veux dire. (un silence) Vos journalistes s'assoient à côté des gens. Ils écoutent. Ils notent. Ils publient. (un silence) Un jour, ils écouteront la mauvaise table. Et ce jour-là, personne ne vous sauvera.
+(침묵. 잔을 내려놓는다) 보세요? 바로 그게 내가 하려는 말이에요. (침묵) 당신 기자들은 사람들 옆에 앉죠. 듣고. 적고. 보도하고. (침묵) 언젠가 엉뚱한 테이블의 말을 듣게 될 거예요. 그날엔 아무도 당신들을 구해 주지 않을 거고요.
+Gilles: (il se lève, rouge de colère) C'est une menace ?
+(분노로 얼굴이 빨개져 일어선다) 그거 협박입니까?
+Marcellin: (il lève les mains, calme) C'est une observation, monsieur Ravel. (un silence) Je vous propose la sécurité. Trois millions. Un avenir. (un silence) La seule chose que je vous demande, c'est de devenir… prudents.
+(차분하게 두 손을 든다) 관찰이죠, 라벨 씨. (침묵) 안전을 제안하는 겁니다. 삼백만. 미래. (침묵) 내가 요구하는 건 단 하나, 당신들이… 신중해지는 거예요.
+Aubry: (il prend le dossier, le feuillette lentement, puis le pose) Page quatorze. Article neuf. (il lit) « Le nouvel actionnaire majoritaire disposera d'un droit de regard sur les enquêtes impliquant des partenaires industriels stratégiques du groupe. » (un silence) Un droit de regard.
+(서류철을 집어 천천히 넘기다가 내려놓는다) 십사 쪽. 제9조. (읽는다) «신규 대주주는 그룹의 전략적 산업 파트너와 관련된 탐사 보도에 대해 열람권을 갖는다.» (침묵) 열람권이라.
+Marcellin: (aimablement) Une simple formalité. (un silence) Pour éviter les procès. Pour vous protéger.
+(다정하게) 단순한 형식이죠. (침묵) 소송을 피하려고. 당신들을 보호하려고.
+Aubry: (il retire ses lunettes) Les « partenaires industriels stratégiques » du groupe Marcellin. (un silence) Orsenne en fait partie, je suppose ?
+(안경을 벗는다) 마르셀랭 그룹의 «전략적 산업 파트너». (침묵) 오르센도 거기 포함되겠군요?
+Marcellin: (un silence) Parmi d'autres.
+(침묵) 여럿 중 하나죠.
+Aubry: Donc, si Le Phare enquête sur Orsenne, vous lisez l'enquête avant publication. (un silence) Et Orsenne la lit aussi, peut-être.
+그러니까 르 파르가 오르센을 취재하면 보도 전에 당신이 그걸 읽는다는 거군요. (침묵) 그리고 어쩌면 오르센도 읽고요.
+Marcellin: (il se lève, boutonne sa veste) Je vous laisse réfléchir. (un silence) Jusqu'à vendredi. Dix-huit heures. (un silence) Après vendredi, l'offre n'existe plus. Et dans trois semaines, vous non plus.
+(일어나 재킷 단추를 채운다) 생각해 보시죠. (침묵) 금요일까지. 저녁 여섯 시. (침묵) 금요일 이후엔 제안은 없습니다. 그리고 삼 주 뒤엔 당신들도 없고요.
+Hélène: (elle se lève à son tour ; un long silence ; elle le regarde droit dans les yeux) Je n'ai pas besoin de vendredi, monsieur Marcellin.
+(그녀도 일어선다. 긴 침묵. 그의 눈을 똑바로 본다) 금요일까지 필요 없어요, 마르셀랭 씨.
+Marcellin: (il hausse un sourcil) Pardon ?
+(한쪽 눈썹을 올린다) 뭐라고요?
+Hélène: (calmement) Le Phare n'est pas à vendre. (un silence) Ni à trois millions. Ni à trente. Ni avec un droit de regard. Ni sans. (un silence) Le Phare n'est pas à vendre.
+(차분하게) 르 파르는 팔지 않습니다. (침묵) 삼백만에도. 삼천만에도. 열람권이 있든. 없든. (침묵) 르 파르는 팔지 않습니다.
+Marcellin: (un long silence ; il sourit, mais ses yeux ne sourient plus) Vous me décevez, madame Vasseur. (un silence) Je pensais que vous aviez appris quelque chose en 2013.
+(긴 침묵. 웃지만 눈은 더 이상 웃지 않는다) 실망이군요, 바쇠르 씨. (침묵) 2013년에 뭔가를 배웠을 줄 알았는데.
+Hélène: (sans ciller) J'ai appris beaucoup en 2013. (un silence) J'ai appris qu'un seul mot de trop peut tout détruire. (un silence) Et j'ai appris qu'un seul mot juste peut tout sauver. (un silence) Aujourd'hui, le mot juste, c'est « non ».
+(눈 하나 깜박이지 않고) 2013년에 많은 걸 배웠죠. (침묵) 단어 하나가 지나치면 모든 걸 무너뜨릴 수 있다는 걸 배웠어요. (침묵) 그리고 정확한 단어 하나가 모든 걸 구할 수 있다는 것도 배웠고요. (침묵) 오늘 그 정확한 단어는 «아니요»예요.
+Marcellin: (il se tourne vers Gilles) Monsieur Ravel ? (un silence) Vous avez trente pour cent. Vous aussi, vous refusez trois millions ?
+(질 쪽으로 돌아선다) 라벨 씨? (침묵) 당신도 삼십 퍼센트가 있죠. 당신도 삼백만을 거절합니까?
+Gilles: (un silence ; il regarde Hélène, puis Marcellin) Ma mère était notre première abonnée. En 2014. Elle a payé un an d'avance. (un silence) Elle disait : « Je fais un placement sur mon fils. »
+(침묵. 엘렌을 보고, 마르셀랭을 본다) 우리 어머니가 첫 번째 구독자였어요. 2014년에. 일 년 치를 선불로 내셨죠. (침묵) 그러셨어요. «아들한테 투자하는 거야.»
+Gilles: (il se lève) Je ne vendrai pas le placement de ma mère. (un silence) La porte est là, monsieur Marcellin. (un silence) Momo vous raccompagne.
+(일어선다) 어머니의 투자를 팔지 않겠습니다. (침묵) 문은 저쪽입니다, 마르셀랭 씨. (침묵) 모모가 배웅해 드릴 겁니다.
+Marcellin: (il prend son dossier ; à la porte, il se retourne) Une dernière chose. (un silence) La société des lecteurs. Dix pour cent. Ce sont des milliers de petits porteurs. (un silence) Beaucoup ont plus de soixante-dix ans. Ils ont besoin d'argent, eux aussi.
+(서류철을 챙긴다. 문 앞에서 돌아선다) 마지막으로 하나. (침묵) 독자 협회. 십 퍼센트. 수천 명의 소액 주주들이죠. (침묵) 많은 사람이 일흔이 넘었어요. 그 사람들도 돈이 필요하죠.
+Hélène: (froidement) La société des lecteurs ne vend que si son assemblée générale le décide. À la majorité. (un silence) Allez leur demander. Un par un. (un silence) Vous serez surpris.
+(차갑게) 독자 협회는 총회가 과반으로 결정할 때만 팔아요. (침묵) 가서 물어보세요. 한 명씩. (침묵) 놀라실 거예요.
+Marcellin: (un petit sourire) Nous verrons. (un silence) Au revoir, madame Vasseur. (un silence) Profitez de vos trois semaines.
+(작게 웃는다) 두고 보죠. (침묵) 안녕히 계세요, 바쇠르 씨. (침묵) 삼 주를 즐기시길.
+Momo: (dans l'escalier, il raccompagne Marcellin jusqu'à la porte ; il lui ouvre la porte de la rue) Monsieur. (un silence) Le café, c'était gratuit. (un silence) Mais vous ne reviendrez pas en boire un autre.
+(계단에서 마르셀랭을 문까지 배웅한다. 거리 쪽 문을 열어 준다) 손님. (침묵) 커피는 공짜였어요. (침묵) 하지만 다시 마시러 오진 마세요.
+Marcellin: (il le regarde, un peu surpris, puis presque amusé) Vous êtes un homme de principes, monsieur. (un silence) C'est rare. Et ça coûte cher.
+(조금 놀라서 그를 보다가 거의 재미있다는 듯) 원칙이 있는 분이군요. (침묵) 드문 일이죠. 그리고 비싸고.
+Momo: (il hausse les épaules) Les principes, c'est comme le café. (un silence) Chez moi, c'est gratuit.
+(어깨를 으쓱한다) 원칙은 커피 같은 거예요. (침묵) 우리 집에선 공짜죠.
+Aubry: (dans le bureau, après le départ de Marcellin, il relit l'article neuf) Un droit de regard sur les enquêtes. (un silence) S'il obtient cinquante et un pour cent, aucune charte ne pourra l'arrêter. Il pourra changer le directeur. Changer les statuts. Fermer le journal s'il le veut.
+(마르셀랭이 떠난 뒤 사무실에서 제9조를 다시 읽는다) 탐사 보도에 대한 열람권. (침묵) 51퍼센트를 얻으면 어떤 헌장도 그를 못 막아. 국장을 바꿀 수 있고. 정관을 바꿀 수 있고. 원하면 신문사를 닫을 수도 있지.
+Gilles: Fermer le journal ? Après avoir payé trois millions ?
+신문사를 닫는다고? 삼백만을 내고 나서?
+Aubry: (il hoche la tête) Trois millions pour faire disparaître une enquête qui en coûte des centaines à Orsenne. (un silence) C'est le meilleur investissement de sa vie.
+(고개를 끄덕인다) 오르센에 수억을 물게 할 탐사 보도를 없애는 데 삼백만. (침묵) 그 사람 인생 최고의 투자지.
+Hélène: (elle s'assoit) Et légalement ? On peut faire quelque chose ?
+(앉는다) 법적으로는? 뭘 할 수 있어?
+Aubry: Les quinze pour cent sont vendus. Légalement. (un silence) Mais il y a une chose. La société des journalistes a un droit de veto sur le changement de directeur. C'est dans vos statuts de 2014. (un silence) Gilles, tu avais insisté.
+십오 퍼센트는 팔렸어. 합법적으로. (침묵) 하지만 하나 있어. 기자 협회는 국장 교체에 대해 거부권이 있지. 2014년 정관에 있어. (침묵) 질, 네가 고집했잖아.
+Gilles: (surpris, puis il sourit faiblement) J'avais lu un livre sur Le Monde. Les journalistes qui avaient défendu leur journal contre les actionnaires. (un silence) Je ne pensais jamais en avoir besoin.
+(놀랐다가 희미하게 웃는다) 르몽드에 관한 책을 읽었거든. 주주들에 맞서 자기 신문을 지킨 기자들. (침묵) 그게 필요할 날이 올 줄은 몰랐지.
+Léa: (onze heures ; toute la rédaction attend devant la porte du bureau d'Hélène ; quand elle sort, personne ne parle) …
+(오전 열한 시. 편집국 전원이 엘렌 사무실 문 앞에서 기다린다. 그녀가 나오자 아무도 말하지 않는다) …
+Hélène: (elle regarde son équipe, un par un) J'ai dit non. (un silence) Gilles aussi.
+(팀원 한 명 한 명을 바라본다) 거절했어. (침묵) 질도.
+Karim: (un silence, puis il applaudit, seul ; puis Léa ; puis tout le monde)
+(침묵. 그러고는 혼자 박수를 친다. 이어 레아가. 이어 모두가)
+Hélène: (elle lève la main ; les applaudissements s'arrêtent) Ne m'applaudissez pas. (un silence) Dans trois semaines, on n'aura plus d'imprimeur. Plus de site. Plus de publicité. Et trois cent mille euros pour quinze salaires. (un silence) J'ai dit non. Maintenant, il faut que nous trouvions comment survivre à ce non.
+(손을 든다. 박수가 멈춘다) 박수 치지 마. (침묵) 삼 주 뒤면 인쇄소도 없어. 사이트도 없고. 광고도 없고. 그리고 열다섯 명 월급에 삼십만 유로. (침묵) 거절했어. 이제 그 거절에서 살아남을 방법을 찾아야 해.
+Mira: (elle s'avance) Il faut demander aux lecteurs. (un silence) Maintenant. Pas dans un mois.
+(앞으로 나선다) 독자들한테 부탁해야 해요. (침묵) 지금. 한 달 뒤가 아니라.
+Hélène: (après un silence) Pas encore. (un silence) D'abord, la société des lecteurs. Marcellin va aller les voir. Un par un. Il faut qu'on y aille avant lui.
+(침묵 끝에) 아직은. (침묵) 먼저 독자 협회야. 마르셀랭이 한 명씩 찾아갈 거야. 우리가 먼저 가야 해.
+Karim: (il ouvre son ordinateur) Dix pour cent. Trois mille deux cents membres. (un silence) Je peux avoir la liste dans une heure.
+(노트북을 연다) 십 퍼센트. 회원 삼천이백 명. (침묵) 한 시간 안에 명단 뽑을 수 있어요.
+Hélène: Alors on les appelle. (un silence) Tous. Un par un. Pas pour leur demander de l'argent. Pour leur dire la vérité. Et leur demander de ne pas vendre.
+그럼 전화하자. (침묵) 전부. 한 명씩. 돈 달라고가 아니라. 사실을 말하고. 팔지 말아 달라고 부탁하려고.
+Léa: (elle prend son téléphone) Trois mille deux cents appels. (un silence) On est quinze. Ça fait… deux cent treize appels chacun.
+(휴대폰을 집는다) 전화 삼천이백 통. (침묵) 우린 열다섯 명이야. 그럼… 한 사람당 이백십삼 통.
+Momo: (il remonte avec un plateau) Seize. (un silence) Je sais téléphoner aussi.
+(쟁반을 들고 다시 올라온다) 열여섯. (침묵) 나도 전화할 줄 알아.
+Daria: (elle lève la main timidement, à côté de Fatou) Dix-sept. (un silence) Je parle mal français. Mais je peux dire « merci » et « ne vendez pas ».
+(파투 옆에서 수줍게 손을 든다) 열일곱. (침묵) 프랑스어를 잘 못해요. 그래도 «고맙습니다»랑 «팔지 마세요»는 말할 수 있어요.
+Léa: (quinze heures ; au téléphone, une liste devant elle, la vingt-troisième croix sur la feuille) Bonjour, madame Picard ? Léa Morel, du Phare. (un silence) Oui, la stagiaire de la chaussette. (un silence ; elle rit) Oui, c'est moi.
+(오후 세 시. 앞에 명단을 놓고 통화한다. 종이에 스물세 번째 체크 표시) 안녕하세요, 피카르 부인? 르 파르의 레아 모렐이에요. (침묵) 네, 양말 인턴이요. (침묵. 웃는다) 네, 저예요.
+Lectrice: (au téléphone, une vieille voix joyeuse) Ma petite ! Je vous ai vue à la télévision ! (un silence) J'étais institutrice pendant quarante ans. Je reconnais une élève qui ne lâche rien.
+(전화로, 나이 들었지만 명랑한 목소리) 아가씨! 텔레비전에서 봤어요! (침묵) 사십 년 동안 초등학교 선생을 했어요. 포기 안 하는 학생은 알아보죠.
+Léa: Madame Picard, un homme va peut-être vous proposer d'acheter votre part de la société des lecteurs. Pour beaucoup d'argent. (un silence) Je ne vous demande pas d'argent. Je vous demande seulement de ne pas vendre.
+피카르 부인, 어떤 남자가 독자 협회 지분을 사겠다고 제안할지도 몰라요. 큰돈으로. (침묵) 돈을 달라는 게 아니에요. 그냥 팔지 말아 달라는 거예요.
+Lectrice: (un silence) Il a déjà appelé. Ce matin. Un jeune homme très poli. Huit cents euros pour ma part de cinquante. (un silence) Je lui ai dit que j'allais réfléchir.
+(침묵) 벌써 전화 왔어요. 오늘 아침에. 아주 예의 바른 젊은 남자가. 오십 유로짜리 지분에 팔백 유로. (침묵) 생각해 보겠다고 했죠.
+Léa: (elle retient son souffle) Et vous avez réfléchi ?
+(숨을 죽인다) 그래서 생각해 보셨어요?
+Lectrice: (un petit rire) Pendant trente secondes. (un silence) Ma petite, je n'ai jamais vendu mes élèves. Je ne vais pas vendre mon journal.
+(작게 웃는다) 삼십 초 동안. (침묵) 아가씨, 난 내 학생들을 판 적이 없어요. 내 신문도 안 팔 거예요.
+Karim: (au bureau d'à côté, au téléphone, il couvre le micro et se tourne vers Léa) Un agriculteur du Gers. (un silence) Il dit que si quelqu'un vient acheter sa part, il le reçoit avec ses chiens.
+(옆 책상에서 통화하다 수화기를 막고 레아 쪽으로 돌아선다) 제르 지방 농부야. (침묵) 누가 지분 사러 오면 개들이랑 맞이하겠대.
+Camille: (de l'autre côté, elle raccroche, émue) Une infirmière de Lille. De nuit. Elle a pris un abonnement de soutien en plus. (un silence) Elle a dit : « Vous êtes les seuls à écrire sur les gens qui travaillent la nuit. »
+(반대편에서 감동한 얼굴로 전화를 끊는다) 릴의 간호사. 야간 근무. 후원 구독까지 추가로 했어. (침묵) 그러더라. «밤에 일하는 사람들 얘기를 쓰는 건 당신들뿐이에요.»
+Mira: (au téléphone, en français lent et appliqué) Bonjour, monsieur. Je m'appelle Mira Askarova. Je suis journaliste au Phare. (un silence) Je suis réfugiée. Ce journal m'a sauvé la vie. (un silence) S'il vous plaît, ne vendez pas.
+(전화로, 천천히 또박또박한 프랑스어로) 안녕하세요. 미라 아스카로바예요. 르 파르 기자예요. (침묵) 난민이에요. 이 신문사가 제 목숨을 구했어요. (침묵) 제발 팔지 마세요.
+Mira: (elle écoute ; ses yeux se remplissent de larmes ; elle raccroche) Il a dit : « Madame, j'avais l'intention de vendre. Maintenant, je vais acheter une deuxième part. »
+(듣는다. 눈에 눈물이 고인다. 전화를 끊는다) 그러셨어요. «부인, 팔 생각이었어요. 이젠 지분을 하나 더 사겠어요.»
+Daria: (à côté de Fatou, elle lit un petit papier préparé, avec un fort accent) Bonjour. Je suis Daria. Le Phare m'a aidée à sortir d'une agence. (un silence) Merci. Ne vendez pas. (un silence ; elle écoute, puis sourit, perdue) Elle parle très vite.
+(파투 옆에서 미리 준비한 작은 종이를 강한 억양으로 읽는다) 안녕하세요. 저는 다리아예요. 르 파르가 에이전시에서 빠져나오게 도와줬어요. (침묵) 고맙습니다. 팔지 마세요. (침묵. 듣다가 당황한 채 웃는다) 엄청 빨리 말해요.
+Fatou: (elle prend le téléphone, écoute, puis rit) Elle dit qu'elle ne vend pas. (un silence) Et elle demande si Daria peut lui coudre un sac. Avec le logo.
+(전화를 받아 듣다가 웃는다) 안 팔 거래. (침묵) 그리고 다리아가 로고 달린 가방을 만들어 줄 수 있냐고 물어봐.
+Momo: (au comptoir du café, en bas, le téléphone coincé contre l'épaule, il essuie des verres) Oui, madame. C'est Momo. Le café du Phare. (un silence) Non, je ne suis pas journaliste. Je fais les croissants. (un silence) Oui, celui de la télévision.
+(아래층 카페 카운터. 휴대폰을 어깨에 끼우고 잔을 닦는다) 네, 부인. 모모예요. 르 파르 카페. (침묵) 아니요, 기자 아니에요. 크루아상 만들어요. (침묵) 네, 텔레비전에 나온 그 사람이요.
+Momo: (il écoute, puis éclate de rire) Elle dit qu'elle ne vend pas si je lui envoie la recette des croissants. (un silence) Madame, la recette, c'est un secret des sources.
+(듣다가 폭소한다) 크루아상 레시피를 보내 주면 안 판대. (침묵) 부인, 레시피는 취재원 비밀이에요.
+Hélène: (dans son bureau, au téléphone, la porte ouverte) Monsieur Dubreuil ? Hélène Vasseur. (un silence) Oui, la directrice. (un silence) Vous étiez à notre première assemblée générale, en 2015. Vous aviez apporté une tarte aux pommes. (un silence ; elle sourit) Oui. Je m'en souviens.
+(문을 열어 둔 사무실에서 통화한다) 뒤브뢰유 씨? 엘렌 바쇠르예요. (침묵) 네, 국장이요. (침묵) 2015년 첫 총회에 오셨죠. 사과 타르트를 가져오셨고요. (침묵. 웃는다) 네. 기억해요.
+Julien: (vingt-deux heures ; sur le toit de la rédaction ; il a la voix fatiguée et le téléphone chaud dans la main ; Camille est assise à côté de lui) Cent quarante appels. (un silence) Cent trente-huit ont dit qu'ils ne vendraient pas.
+(밤 열 시. 편집국 옥상. 지친 목소리에 손에 든 휴대폰이 뜨겁다. 카미유가 옆에 앉아 있다) 전화 백사십 통. (침묵) 백삼십팔 명이 안 팔겠대.
+Camille: Et les deux autres ?
+나머지 두 명은?
+Julien: (un petit sourire) Une dame de quatre-vingt-onze ans qui croyait que j'étais son petit-fils. (un silence) Et un monsieur qui a dit : « Je vends si vous publiez enfin un article sur les pigeons de mon quartier. »
+(작게 웃으며) 날 손자로 착각한 아흔한 살 할머니 한 분. (침묵) 그리고 이렇게 말한 아저씨 한 분. «우리 동네 비둘기에 대한 기사를 드디어 써 주면 팔겠소.»
+Camille: (elle rit) Karim va écrire sur les pigeons.
+(웃는다) 카림이 비둘기 기사 쓰겠네.
+Julien: (il regarde Paris) Tu sais ce qu'une dame m'a dit, ce soir ? Elle a quatre-vingts ans. Elle habite à Rennes. (un silence) Elle a dit : « Monsieur, j'ai acheté une part de votre journal en 2015 pour vingt euros. Monsieur Marcellin m'en propose six cents. (un silence) Je refuse. Parce que mes vingt euros ont acheté quelque chose qui vaut plus que six cents. »
+(파리를 바라본다) 오늘 밤 어떤 할머니가 나한테 뭐라고 했는지 알아? 여든 살. 렌에 사셔. (침묵) 그러시더라. «2015년에 당신네 신문사 지분을 이십 유로에 샀어요. 마르셀랭 씨가 육백 유로를 제안하네요. (침묵) 거절해요. 내 이십 유로로 산 건 육백 유로보다 값진 거니까요.»
+Camille: (doucement) Quoi ?
+(조용히) 뭐를?
+Julien: (un silence) Elle a dit : « Le droit de savoir. »
+(침묵) 그러셨어. «알 권리.»
+Gilles: (il arrive sur le toit avec deux bières, s'assoit lourdement) Mille quatre cents appels. (un silence) Mille trois cent soixante-dix « non ». Douze « je réfléchis ». Dix-huit messageries.
+(맥주 두 병을 들고 옥상에 올라와 털썩 앉는다) 전화 천사백 통. (침묵) «안 팔아» 천삼백칠십. «생각해 볼게» 열둘. 음성 사서함 열여덟.
+Julien: (il prend une bière) Et Marcellin ?
+(맥주를 받는다) 그럼 마르셀랭은?
+Gilles: Ses jeunes gens polis ont appelé deux cents personnes. (un silence) Ils ont acheté trois parts. Trois. (un silence ; un petit rire, presque un sanglot) Ma mère serait fière.
+그 사람 쪽 예의 바른 젊은이들이 이백 명한테 전화했대. (침묵) 지분 세 개를 샀어. 세 개. (침묵. 거의 흐느낌 같은 작은 웃음) 우리 엄마가 자랑스러워하셨을 거야.
+Camille: (elle lui prend la main) Trois parts sur trois mille deux cents membres. (un silence) Il lui faudrait des années.
+(그의 손을 잡는다) 회원 삼천이백 명 중 지분 세 개. (침묵) 몇 년은 걸리겠네.
+Julien: (il lève sa bière vers Paris) Et nous, il nous faut trois semaines. (un silence) Pour trouver une imprimerie, un hébergeur, et trois cent mille euros de plus.
+(파리를 향해 맥주를 든다) 그리고 우리한텐 삼 주가 필요하지. (침묵) 인쇄소, 호스팅 업체, 그리고 삼십만 유로를 더 찾으려면.
+Gilles: (il trinque avec lui) Trois semaines. (un silence) On a survécu à pire. (un silence ; un petit rire) Non, on n'a jamais survécu à pire. Mais on va essayer.
+(그와 건배한다) 삼 주. (침묵) 더 나쁜 것도 살아남았잖아. (침묵. 작게 웃는다) 아니, 이보다 나쁜 건 살아남아 본 적 없어. 그래도 해 보는 거지.
+Camille: (elle pose la tête sur son épaule ; un long silence) Demain, c'est le quatorze juillet.
+(그의 어깨에 머리를 기댄다. 긴 침묵) 내일은 칠월 십사일이야.
+Julien: (il hoche la tête) Ma mère arrive à la gare de Lyon. À dix heures. (un silence) Elle a pris le bateau de Bastia hier soir. Avec un sac. (un silence) Elle a dit au téléphone : « J'apporte les carnets. Je ne veux plus attendre août. »
+(고개를 끄덕인다) 우리 엄마가 리옹역에 도착해. 열 시에. (침묵) 어젯밤 바스티아에서 배를 탔대. 가방 하나 들고. (침묵) 전화로 그러시더라. «공책 가져간다. 팔월까지 더는 못 기다리겠다.»
+Camille: (surprise) Les carnets de ton père ?
+(놀라서) 너희 아버지 공책?
+Julien: (un long silence ; il regarde les toits de Paris) Elle a vu ma tête à la télévision. Devant la DGSI. (un silence) Elle a dit : « Ton père aussi avait cette tête-là. La veille de mourir. » (un silence) Alors elle vient.
+(긴 침묵. 파리의 지붕들을 바라본다) 텔레비전에서 내 얼굴을 보셨대. DGSI 앞에서. (침묵) 그러시더라. «너희 아버지도 그런 얼굴이었다. 죽기 전날.» (침묵) 그래서 오시는 거야.
+Camille: (elle lui prend la main) Alors demain, on va la chercher. Ensemble.
+(그의 손을 잡는다) 그럼 내일 같이 마중 가자. 함께.
+Julien: (il sourit, enfin) Ensemble. (un silence) Elle va t'adorer. Elle adore les gens qui font trop à manger.
+(마침내 웃는다) 함께. (침묵) 엄마가 널 엄청 좋아할 거야. 음식을 너무 많이 만드는 사람들을 좋아하시거든.
+Camille: (elle rit doucement) Alors je fais des pâtes. (un silence) Beaucoup trop. Pour le quatorze juillet.
+(조용히 웃는다) 그럼 파스타 만들게. (침묵) 엄청 많이. 칠월 십사일을 위해.
+
+## 주요 단어
+l'imprimerie (f.) | 랭프리므리 | 인쇄소 (B1)
+mettre fin à | 메트르 팽 아 | ~을 끝내다 (B2)
+à compter du | 아 꽁떼 뒤 | ~부로 (C1)
+l'hébergeur (m.) | 레베르죄르 | 호스팅 업체 (B2)
+l'annonceur (m.) | 라농쇠르 | 광고주 (B2)
+les recettes (f. pl.) | 레 르세뜨 | 수입 (B2)
+le capital | 르 까삐딸 | 자본 (B2)
+l'actionnaire (m./f.) | 락시오네르 | 주주 (B2)
+racheter | 라슈떼 | 사들이다, 인수하다 (B2)
+la prise de contrôle | 라 프리즈 드 꽁트롤 | 경영권 인수 (C1)
+la charte | 라 샤르뜨 | 헌장 (B2)
+le martyr | 르 마르띠르 | 순교자 (C1)
+le droit de regard | 르 드루아 드 르가르 | 열람권, 감독권 (C1)
+la formalité | 라 포르말리떼 | 형식, 절차 (B2)
+décevoir | 데스부아르 | 실망시키다 (B1)
+raccompagner | 라꽁빠녜 | 배웅하다 (B1)
+l'assemblée générale (f.) | 라상블레 제네랄 | 총회 (B2)
+le petit porteur | 르 쁘띠 뽀르뙤르 | 소액 주주 (C1)
+
+## 문법·표현 정리
+**Nous vous proposons une porte de sortie (B2):** proposer quelque chose à quelqu'un. une porte de sortie = 출구, 탈출구(비유). 협상의 완곡한 제안 화법.
+**une prise de contrôle (C1):** 경영권 인수. prendre le contrôle de → la prise de contrôle. 명사화.
+**Le Phare n'est pas à vendre (A2):** être à vendre = 팔려고 내놓다. 반복으로 거절을 강조. Ni à trois millions. Ni à trente.
+**Il faudrait que + 접속법 (B2):** 조건법으로 완곡해진 당위. Il faudrait que vous m'expliquiez une chose.
+**il faut que + 접속법 (B1):** Il faut que nous trouvions comment survivre. / Il faut qu'on y aille avant lui.
+**협상 표현 (B2):** Je vais être direct. / En échange de quoi ? / Je vous laisse réfléchir. / Une simple formalité. / L'offre n'existe plus.
+**거절 표현 (B2):** Je n'ai pas besoin de vendredi. / Le mot juste, c'est « non ». / La porte est là.
+**ne… que si (B2):** La société ne vend que si son assemblée générale le décide.
+**en vouloir à quelqu'un (B2):** Je ne vous en veux pas. / Je ne peux pas leur en vouloir.
+**On se croirait dans… (B2):** On se croirait dans une rédaction des années quatre-vingt.
+**compte tenu de / en raison de (C1):** 공문서의 이유 표현. En raison de risques juridiques.
+**ni… ni… (B1):** Ni avec un droit de regard. Ni sans.
+**단순미래 vs 조건법 (B2):** Je ne vendrai pas le placement de ma mère. (단호) / Je vends si vous publiez… (현재로 조건)
+**profiter de (B1):** ~을 즐기다, 이용하다. Profitez de vos trois semaines. (반어)
