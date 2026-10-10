@@ -21,7 +21,7 @@ Jesse : Goedemorgen! Eindelijk. Sorry. Mijn naam is Jesse van Dijk. Mijn contrac
 UWV-medewerker : Dat is goed, meneer Van Dijk. Mag ik eerst uw burgerservicenummer?
 Jesse : (leest voor van een papier) Ja. Dat is... (mompelt cijfers)
 UWV-medewerker : Dank u. En uw geboortedatum?
-Jesse : Zeventien maart 1997.
+Jesse : Zeventien maart 1999.
 UWV-medewerker : Dank u. Ik zie u. Wat is uw vraag?
 Jesse : Eerste vraag. Heb ik eigenlijk recht op WW? Ik had een tijdelijk contract. Van een jaar. Het is gewoon niet verlengd.
 UWV-medewerker : Als uw tijdelijke contract niet is verlengd, bent u niet verwijtbaar werkloos. Dat is belangrijk. Dan heeft u in principe recht op WW. Als u ook aan de wekeneis voldoet.
@@ -173,7 +173,7 @@ UWV 상담원 : 안녕하세요, UWV의 미르얌입니다. 무엇을 도와드�
 UWV 상담원 : 네, 판 데이크 씨. 먼저 시민 번호를 알려 주시겠어요?
 예서 : (종이를 보며 읽는다) 네. 그게... (숫자를 웅얼거린다)
 UWV 상담원 : 감사합니다. 생년월일은요?
-예서 : 1997년 3월 17일이요.
+예서 : 1999년 3월 17일이요.
 UWV 상담원 : 감사합니다. 확인됐습니다. 질문이 뭐세요?
 예서 : 첫 번째 질문이요. 제가 실업 급여를 받을 자격이 되긴 하나요? 기간제 계약이었어요. 1년짜리요. 그냥 연장이 안 된 거예요.
 UWV 상담원 : 기간제 계약이 연장되지 않은 거라면 본인 귀책 실직이 아니에요. 그게 중요해요. 그러면 원칙적으로 실업 급여를 받을 자격이 있어요. 근무 주수 요건도 충족하시면요.
