@@ -120,7 +120,7 @@
 | **M. Rabier / Edmond Chan** | 은퇴한 보르도 셀러 마스터 / 가짜 와인을 산 홍콩 수집가 (1부) |
 | **Moussa** (무사) · **Nathalie Girard** (나탈리 지라르) | 브라스리 주방의 미등록 노동자 · 해고된 전 지점장, 매출 누락 소프트웨어를 제보 (1부) |
 | **M. Gauthier / Fabrice** | 은퇴한 시청 도시계획과 공무원 / Valmont 측이 보낸 가짜 제보자 (2부) |
-| **Sandrine Vautrin** | Source Valcroze 전 품질관리 직원, 해고된 내부고발자 (2부) |
+| **Mathilde Vautrin** | Source Valcroze 전 품질관리 직원, 해고된 내부고발자 (2부) |
 | **Jacqueline Morand** | 「Musée Valois」 관장 (3부) |
 | **Fatou** (파투) | 레아의 대학 친구 동생, 오베르빌리에 하청 공장의 재봉사 (3부) |
 | **Pierre-Yves / Anne Lemaire** | 칸다라 주재 1등서기관과 아내. 4부 1화 납치, 15화 석방 |
@@ -280,7 +280,7 @@
 | 9 | Premier jour (첫 위장 출근) | B1 | 하청업체 사무실 | 레아의 첫 위장 출근, 이어폰 교신, 첫 실수 | Je suis la nouvelle stagiaire · Respire. | 장소 표현, y·en |
 | 10 | Les factures (송장) | B2 | 하청업체 사무실·밤 | 이중 송장과 「Vinalux」 송금 기록 발견 | J'ai trouvé quelque chose · des fausses factures | venir de + inf., 사역 |
 | 11 | L'eau qui dort (고인 물) | A2 | 편집국 | 레아가 「Source Valcroze」 소문을 꺼냄. 처음으로 자기 사건을 맡음 | J'ai une idée · C'est ton sujet | futur proche |
-| 12 | La source (수원지) | B1 | 보주 산골 마을 | 해고된 품질관리 직원 상드린 인터뷰. 지방 보건당국의 묵인 | On nous a dit de nous taire · Vous avez des preuves ? | 간접화법, 수동태 |
+| 12 | La source (수원지) | B1 | 보주 산골 마을 | 해고된 품질관리 직원 마틸드 인터뷰. 지방 보건당국의 묵인 | On nous a dit de nous taire · Vous avez des preuves ? | 간접화법, 수동태 |
 | 13 | La pression (압력) | C1 | 편집국장실·오브리 사무실 | 양측 변호인의 경고, 반론권 절차 | le droit de réponse · le contradictoire | 법률 프랑스어, 명사화 |
 | 14 | En ligne ! (동시 보도) | B2 | 편집국·새벽 | 재개발·생수 기사 동시 공개, 퓨졸 사임 | Il a démissionné · Des perquisitions ont eu lieu | 수동태 |
 | 15 | Le fil rouge (붉은 실) | C1 | 센 강변·10월 말 밤 → 다음 날 아침 | 아리안: 세 사건의 돈이 모두 Orsenne 재단으로. 다음 날 아침 속보 — 「Musée Valois」에서 왕실 보석 도난 | Ce n'est que le début · Or, … · Flash spécial | 논리 접속사, 헤드라인 문체 |
