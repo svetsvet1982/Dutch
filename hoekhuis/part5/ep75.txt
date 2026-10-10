@@ -1,5 +1,5 @@
 # 5부 75화. De doorstroomtoets (진급 시험)
-난이도: B2~C1 | 장소: 2층 야스민의 부엌 → 8학년 교실 → 3층 오파 케이스의 부엌 | 시간: 2월 9일 화요일 아침 → 3월 22일 월요일 오후 → 4월 14일 수요일 오후 (앞선 두 달을 되돌아보는 화)
+난이도: B2~C1 | 장소: 2층 야스민의 부엌 → 8학년 교실 → 2층 오파 케이스의 부엌 | 시간: 2월 9일 화요일 아침 → 3월 22일 월요일 오후 → 4월 14일 수요일 오후 (앞선 두 달을 되돌아보는 화)
 등장인물: Opa Kees, Emre, Yasmin, Meester Jeroen
 학습 포인트: 시험 어휘 · 응원과 안심시키기 · 결과 해석하기 · 기쁨의 폭발
 
@@ -78,7 +78,7 @@ Meester Jeroen : Ik heb in januari gehoord wat u vertelde. Over 1998. (pauze) He
 Yasmin : (knikt, kan even niets zeggen) Dank u. (pauze) Het is goed. Het is nu goed.
 Emre : Meester Jeroen, mag ik het aan Kees vertellen? Vandaag nog?
 Meester Jeroen : Je mag het aan iedereen vertellen. Zeg tegen Kees dat de methode-Kees werkt.
-(Drie weken later. Woensdag 14 april, vijf uur 's middags. De keuken van Opa Kees, drie hoog. Op de tafel ligt een witte envelop met het logo van de gemeente. Emre zit ervoor. Yasmin staat achter hem. Opa Kees zit tegenover hem, met zijn ijsdagboek.)
+(Drie weken later. Woensdag 14 april, vijf uur 's middags. De keuken van Opa Kees, twee hoog. Op de tafel ligt een witte envelop met het logo van de gemeente. Emre zit ervoor. Yasmin staat achter hem. Opa Kees zit tegenover hem, met zijn ijsdagboek.)
 Emre : Ik durf hem niet open te maken.
 Opa Kees : Waarom heb je hem dan hier mee naartoe genomen?
 Emre : Omdat ik hem bij jou open wil maken. Maar ik durf niet.
@@ -232,7 +232,7 @@ Opa Kees : Dan oefen ik vandaag alvast.
 야스민 : (고개를 끄덕이며 잠시 말을 잇지 못한다) 감사합니다. (잠시 뒤) 괜찮아요. 이제는 괜찮아요.
 에므레 : 예룬 선생님, 케이스한테 말해도 돼요? 오늘 당장?
 예룬 선생님 : 누구한테든 말해도 돼. 케이스한테 케이스식 독해법이 통했다고 전해.
-(3주 뒤. 4월 14일 수요일, 오후 5시. 3층 오파 케이스의 부엌. 식탁 위에 시청 로고가 찍힌 하얀 봉투가 놓여 있다. 에므레가 그 앞에 앉아 있다. 야스민은 그 뒤에 서 있다. 오파 케이스는 얼음 일기를 들고 맞은편에 앉아 있다.)
+(3주 뒤. 4월 14일 수요일, 오후 5시. 2층 오파 케이스의 부엌. 식탁 위에 시청 로고가 찍힌 하얀 봉투가 놓여 있다. 에므레가 그 앞에 앉아 있다. 야스민은 그 뒤에 서 있다. 오파 케이스는 얼음 일기를 들고 맞은편에 앉아 있다.)
 에므레 : 못 열겠어.
 오파 케이스 : 그럼 왜 여기까지 들고 왔어?
 에므레 : 케이스 앞에서 열고 싶어서. 근데 무서워.
