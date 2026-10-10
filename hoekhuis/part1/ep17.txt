@@ -129,7 +129,7 @@ Bram : (heft zijn kopje) Op twintig jaar 't Hoekje. En op de volgende twintig. A
 
 ## 낭독 포인트
 - g/ch: gegraveerd, gemiddeld, gierig, groot, genoeg, geldig, gelijk, gek → g[ɣ] / achtduizend, achtentwintigduizend, achthonderd → ch[x]. 숫자 acht의 ch를 매번 또렷하게.
-- ui: duizend(achtduizend, negenduizend, tweeduizend, drieduizend …), huis, buiten, bruin → ui[œy]. 큰 숫자가 많은 화라 "-duizend"를 수십 번 말한다 — huur, uur의 uu[y]와 섞이지 않게.
+- ui: -duizend(achtduizend, negenduizend, tweeduizend, drieduizend …), huis, buiten, bruin → ui[œy]. 큰 숫자가 많은 화라 "-duizend"를 수십 번 말한다 — huur, uur의 uu[y]와 섞이지 않게.
 - ij/ei: cijfers, stijgt, wijn, tijd, kwijt, blijft, vijftig, vijfhonderd, zwartkijken(ij) / eigenaar, kleiner, kleine, mei, allebei(ei) → 같은 소리 '에이'. 어미 -lijk는 [lək]: eigenlijk, moeilijk, natuurlijk, gelijk.
 - eu: euro, gebeurt → eu[øː]. "Wat gebeurt er als het huis verkocht wordt?"를 천천히. jubileum의 eu는 e+u[jybiˈleːjʏm].
 - oe/uu: boekhouding, boekhouder, schoenendoos, smoesjes, koelkasten, bloeddruk, pensioen, voetbal, toelaat(oe[u]) / huur, huurcontract, uur(uu[yː]). "boekhouding"과 "huur"를 번갈아 읽어 oe와 uu를 구별한다.

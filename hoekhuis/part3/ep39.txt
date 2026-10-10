@@ -136,7 +136,7 @@ Yasmin : Op allebei.
 - ui: vierhonderdduizend, achteruit, uitzoeken, uitrekenen, huidige, ruimte, overtuigen — [œy]. 숫자 속 -duizend가 반복되니 매번 같은 [œy]로.
 - ij/ei: eigen, eigenaar, overheid, weinig / mijn, prijs, spijt, cijfers, zakelijke — 모두 [ɛi]. -lijk(e)(zakelijke, persoonlijk, eerlijk)는 [lək(ə)]로 약하게.
 - eu: euro, deur, kieskeurig, goedkeuren, teleurstelling — [øː]. 'teleurstelling'은 te-LEUR-stel-ling, eu에 강세.
-- oe/uu: oe [u] goedemorgen, boekhouding, koelinstallatie, kroegbaas, toezegging / uu [y] huur, huurcontract, buurt. 'huur'와 'hoor'를 구별해서.
+- oe/uu: oe [u] goedemorgen, boekhouding, koelinstallatie, kroegbaas, toezegging / uu [y] huur, huurcontract, buurt. (huur와 hoor를 구별해서.)
 - sch: schatten, schenk, schoon, schoonste, belastingschuld, misschien — [sχ]. 'waarschijnlijk'에서는 r 다음 sch를 또렷하게.
 - 격식 화법 억양: 바커르 씨의 문장("Ik zal eerlijk tegen u zijn", "Het spijt me oprecht")은 친절하지만 단정하게, 문장 끝을 내리며. 브람은 처음엔 공손하게 굳은 톤, 거절 뒤에는 느리고 낮게.
 - 숫자 읽기: vierhonderdduizend, vijfenveertigduizend, honderdtwintigduizend, driehonderdtwaalf, tweeduizend vierhonderd — 긴 숫자는 덩어리별로 끊지 말고 한 단어로 읽는다.

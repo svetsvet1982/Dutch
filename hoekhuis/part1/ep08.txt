@@ -133,10 +133,10 @@ Opa Kees : Drink je koffie. Het wordt koud. (glimlacht, maar zijn ogen glimlache
 ## 낭독 포인트
 - 숫자 읽기: 1.250 → twaalfhonderdvijftig (또는 duizend tweehonderdvijftig) / 1.318,75 → dertienhonderdachttien euro vijfenzeventig / 5,5% → vijf komma vijf procent (또는 vijf en een half procent) / 520 → vijfhonderdtwintig / 540,80 → vijfhonderdveertig euro tachtig / 1976 → negentienhonderdzesenzeventig. 네덜란드어는 소수점에 쉼표(komma), 천 단위에 마침표를 쓴다. 일상에서 1.250은 "twaalfhonderdvijftig"처럼 백 단위로 읽는 일이 많다.
 - g/ch: gang, gekregen, gelden, geld, gulden, gerust, gebeurt, gewonnen, Groen, groeit / zorgen, achtenzestig, vroeg, vroeger, echt, recht → g[ɣ]·ch[x]. "Groen"의 첫 g는 목 안쪽에서 길게.
-- ui: huis, uit, uitreken(en), vooruit, duizend, suiker, bedrijfsruimte → ui[œy]. "duizend"(천)과 "huur"(월세)를 번갈아 읽어 ui와 uu를 구별한다.
+- ui: huis, uit, vooruit, duizend, suiker, bedrijfsruimte → ui[œy]. "duizend"(천)과 "huur"(월세)를 번갈아 읽어 ui와 uu를 구별한다.
 - ij/ei: tijd, tijdelijk, lijst, rij, cijfers, schrijven, blijven, vijftig, vijfenzeventig(ij) / eigenaar, klein, groeit, allebei, scheidsrechter(ei) → 같은 소리 '에이'. 어미 -lijk는 [lək]: eerlijk, eigenlijk, hopelijk, tegelijk, nauwelijks, natuurlijk.
 - eu: euro, leuk, gebeurt, adviseur → eu[øː]. "euro"는 네덜란드어로 [ˈøːroː] — 영어식 '유로'가 아니라 '외로'에 가깝다.
-- oe/uu: hoeveel, moeten, goed, boekhouder, schoenen, zoek, groen, toen, vroeger(oe[u]) / huur, huurverhoging, huurcommissie, huurder, duurder, uur(uu[yː]). "huur"는 이 화에서 가장 많이 나오는 단어 — 입술을 오므린 [y]를 길게.
+- oe/uu: hoeveel, moeten, goed, boekhouder, schoenen, zoek, groen, toen, vroeger(oe[u]) / huur, huurverhoging, huurcommissie, huurders, duurder, uur(uu[yː]). "huur"는 이 화에서 가장 많이 나오는 단어 — 입술을 오므린 [y]를 길게.
 - sch: schrijven, schoenen, scheidsrechter, bescherming, misschien → s+ch[sx].
 - 억양: 숫자를 말하는 대사는 또박또박 끊어서. 걱정하는 문장(Ik maak me zorgen. / Ik ben er niet gerust op.)은 낮고 느리게. 마지막 케이스의 대사는 미소 짓지만 무거운 톤으로.
 

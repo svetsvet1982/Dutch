@@ -132,7 +132,7 @@ Opa Kees : (lacht) Ga eerst zitten, jongen. Er staat een stoel voor je klaar. Da
 Hatice : En eet! Je bent te dun!
 
 ## 낭독 포인트
-- g/ch: goedemiddag, gegroeid, gastvrijheid, gewend, gelijk, genoeg, graag, geld, gezellig, gegaan / achttien, vlakbij, lacht → g[ɣ]·ch[x]. "gastvrijheid"는 g + ij + h가 이어지니 천천히.
+- g/ch: goedemiddag, gegroeid, gastvrijheid, gewend, gelijk, genoeg, graag, geld, gezellig / achttien, vlakbij, lacht → g[ɣ]·ch[x]. "gastvrijheid"는 g + ij + h가 이어지니 천천히.
 - ui: huis, thuis, uit, bruine, suiker, druivenbladeren, ruiken, luistert → ui[œy]. "bruine suiker"를 한 덩어리로 — ui가 두 번 나온다. huur, duur, buurman의 uu[y]와 대비.
 - ij/ei: vrij, vrijheid, gastvrijheid, Bevrijdingsdag, rijst, lijn, rijden, tijd, Turkije, vijftig(ij) / mei, weinig, kleinzoon, allebei, dorpsplein, gegroeid(ei) → 같은 소리 '에이'. 어미 -lijk는 [lək]: smakelijk, moeilijk, natuurlijk.
 - eu: deur, Zeeuwse → deur의 eu[øː]. Zeeuwse는 eu가 아니라 ee+uw[eːu]: [ˈzeːusə].
