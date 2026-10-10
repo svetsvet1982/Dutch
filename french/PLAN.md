@@ -251,7 +251,7 @@
 | 2 | Le certificat (감정서) | B2 | 편집국·카페 Le Zinc | 카림이 문서 메타데이터를 검증. 가짜를 산 홍콩 수집가 에드몽 찬과의 짧은 통화, 오브리의 익명 제보 경고 | Ça ne colle pas · J'ai été berné · Rien ne prouve que… | 접속법(의심), 기사용 conditionnel |
 | 3 | Bordeaux (보르도) | A2 | 생테밀리옹 포도밭 | 쥘리앵·레아가 수확 현장으로. 포도 따는 사람들, 와인 기초 어휘. 저녁엔 비스트로에서 은퇴한 셀러 마스터 라비에 씨가 "탱크로리가 밤에만 온다"고 귀띔 | les vendanges · un cépage · Vous travaillez ici depuis quand ? · C'est off ? | depuis/il y a, imparfait(B1) |
 | 4 | Les chiffres parlent (숫자는 말한다) | B2 | 카림의 작업 공간 | 면적 × 법정 수확량 vs 판매 병 수 — 생산 가능량의 세 배. 남는 병의 절반은 아시아, 나머지는 파리의 「Brasseries Maréchal」 체인 40곳으로 | le rendement à l'hectare · trois fois plus · Et le reste, il va où ? | 숫자·비율, 비교급, 관계대명사 |
-| 5 | Vendangeuse (포도 따는 여자) | B1 | 「Château Belcastel」 포도밭 | 카미유가 「Sarah Dumas」로 수확 일꾼 위장. 일꾼들과 수다, 이어폰 교신 | Je suis la nouvelle · On commence à quelle heure ? · Tu peux m'expliquer ? | y·en, 명령형(A2) |
+| 5 | Vendangeuse (포도 따는 여자) | B1 | 「Château Belcastel」 포도밭 | 카미유가 중간 이름 「Sarah」로 수확 일꾼 위장(서류는 실명). 일꾼들과 수다, 이어폰 교신 | Je suis la nouvelle · On commence à quelle heure ? · Tu peux m'expliquer ? | y·en, 명령형(A2) |
 | 6 | Les camions-citernes (탱크로리) | B1 | 스페인 국경 르페르튀스 휴게소·밤 | 쥘리앵·카림이 스페인 번호판 탱크로리를 「Belcastel」 창고까지 추적, 운전사와 짧은 대화 | Ils viennent d'Espagne · On les suit ? · Tu as vu la plaque ? | 진행 표현, gérondif |
 | 7 | Le chai (와인 저장고) | A2 | 「Belcastel」 저장고·밤 | 카미유가 벌크 와인에 그랑크뤼 라벨을 붙이는 현장 촬영. 상자에 「Maréchal」 납품 스티커. 들킬 뻔 | Vite ! · Qu'est-ce que vous faites là ? · J'ai oublié mon téléphone | 짧은 명령, passé récent |
 | 8 | Le comte (백작) | C1 | 「Belcastel」 응접실 | 백작 반론 인터뷰. 우아한 회피와 은근한 협박. 벽에 걸린 사냥 사진 속 백작 옆에 마레샬 | Je ne vous permets pas · Mon nom est synonyme de… · Vous n'avez pas répondu | 상류층 격식어, 반어 |
