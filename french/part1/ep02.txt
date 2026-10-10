@@ -1,0 +1,341 @@
+# 1부 2화. Le certificat (감정서)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국 «Le Phare»·카페 «Le Zinc» | 시간: 9월 첫째 주 화요일
+핵심 표현: Ça ne colle pas · J'ai été berné · Rien ne prouve que… · D'où ça vient ?
+
+## 대화
+Léa: (à huit heures) Bonjour, Julien ! Tu es déjà là ?
+(여덟 시에) 안녕, 쥘리앵! 벌써 와 있었어?
+Julien: Je ne suis pas vraiment parti. J'ai dormi trois heures sur le canapé de la salle de réunion.
+사실 집에 안 갔어. 회의실 소파에서 세 시간 잤어.
+Léa: Trois heures ? À cause du certificat ?
+세 시간? 감정서 때문에?
+Julien: À cause du message d'Ariane. « Comptez les bouteilles. » Ça m'a empêché de dormir.
+아리안의 메시지 때문에. «병을 세어 보세요.» 그것 때문에 잠이 안 왔어.
+Léa: Moi aussi, j'y ai pensé toute la nuit. J'ai fait mes deux colonnes, regarde.
+나도 밤새 그 생각 했어. 칸 두 개 만들어 왔어, 봐.
+Julien: Montre. « Ce que l'on sait : le laboratoire existe, le lot 47 existe, il a été vendu cinq mille euros. Ce que l'on croit : les bouteilles sont fausses. »
+보여 줘. «아는 것: 연구소가 실재함, 로트 47번이 실재함, 5천 유로에 팔림. 믿는 것: 병들이 가짜임.»
+Léa: C'est bien ?
+괜찮아?
+Julien: C'est très bien. Mais tu as oublié une ligne importante dans la deuxième colonne.
+아주 좋아. 그런데 두 번째 칸에 중요한 줄 하나를 빠뜨렸어.
+Léa: Laquelle ?
+어떤 거?
+Julien: « Le certificat est authentique. » Pour l'instant, on le croit. On ne le sait pas.
+«감정서는 진짜다.» 지금은 그렇게 믿는 거지. 아는 게 아니야.
+Léa: Ah oui… Je l'avais mis dans la première colonne sans réfléchir.
+아, 그렇네… 생각 없이 첫 번째 칸에 넣었어.
+Julien: C'est l'erreur la plus fréquente. On a envie que ce soit vrai, alors on le range avec les faits.
+가장 흔한 실수야. 사실이었으면 하니까 사실 쪽에 넣어 버리는 거지.
+Karim: (arrivant avec trois cafés) Livraison du Zinc ! Momo vous salue. Il dit que vous avez des têtes de zombies.
+(커피 세 잔을 들고 오며) 르 쟁에서 배달 왔습니다! 모모가 안부 전하래. 너희 얼굴이 좀비 같대.
+Léa: Merci, Karim. Tu as dormi, toi ?
+고마워, 카림. 너는 잤어?
+Karim: Huit heures, comme un bébé. Mais avant, j'ai passé la soirée sur notre certificat. Et j'ai des nouvelles.
+여덟 시간, 아기처럼. 그런데 그 전에 저녁 내내 그 감정서를 봤어. 소식이 있어.
+Julien: Bonnes ou mauvaises ?
+좋은 소식이야, 나쁜 소식이야?
+Karim: Les deux. Venez voir mon écran.
+둘 다. 내 화면 보러 와.
+Léa: Qu'est-ce que tu as trouvé ?
+뭘 찾았는데?
+Karim: D'abord, le laboratoire Œnotest publie des rapports sur son site : des analyses pour des salons, des concours, des études. J'en ai téléchargé une vingtaine.
+먼저, 외노테스트 연구소는 웹사이트에 보고서를 올려. 박람회, 대회, 연구용 분석 같은 거. 스무 개쯤 내려받았어.
+Julien: Et tu les as comparés avec notre document.
+그리고 우리 문서랑 비교해 봤겠지.
+Karim: Évidemment. La mise en page est identique. Même police de caractères, mêmes marges, même logo en haut à gauche.
+당연하지. 레이아웃이 똑같아. 글꼴도, 여백도, 왼쪽 위 로고도 똑같아.
+Léa: Donc c'est un vrai !
+그럼 진짜네!
+Karim: Pas si vite. Un faussaire un peu sérieux aurait fait la même chose. Il aurait copié un vrai rapport et changé le texte.
+그렇게 빨리 결론 내지 마. 좀 꼼꼼한 위조범이었어도 똑같이 했을 거야. 진짜 보고서를 베끼고 내용만 바꿨겠지.
+Léa: Alors comment on fait la différence ?
+그럼 어떻게 구별해?
+Karim: On cherche les détails qu'un faussaire ne connaît pas. Par exemple, le numéro de référence. Regarde : « OT-2025-0713-B ».
+위조범이 모를 만한 세부 사항을 찾는 거야. 예를 들면 참조 번호. 봐. «OT-2025-0713-B».
+Julien: OT pour Œnotest, 2025 pour l'année… et le reste ?
+OT는 외노테스트, 2025는 연도… 나머지는?
+Karim: Dans tous les rapports publics, le chiffre après l'année correspond à la date de l'analyse, et la lettre au technicien. Ici, 0713 : le treize juillet. Un mois après la vente.
+공개된 보고서들에서는 연도 다음 숫자가 분석 날짜고, 마지막 알파벳은 분석 담당자야. 여기선 0713, 7월 13일. 경매 한 달 뒤지.
+Léa: C'est logique ! L'acheteur a d'abord acheté, ensuite il a fait analyser le vin.
+말이 되네! 산 사람이 먼저 사고, 그다음에 와인을 분석시킨 거야.
+Karim: Exactement. Et la lettre B correspond à une technicienne qui signe d'autres rapports publics la même semaine. Un faussaire aurait dû étudier tout ça en détail.
+맞아. 그리고 B는 같은 주에 다른 공개 보고서에도 서명한 분석 담당자야. 위조범이라면 이걸 전부 꼼꼼히 연구했어야 했을 거야.
+Julien: C'est possible, mais peu probable. Bon. C'était la bonne nouvelle. Et la mauvaise ?
+가능은 하지만 가능성은 낮지. 좋아. 그게 좋은 소식이었고. 나쁜 소식은?
+Karim: La mauvaise, c'est le catalogue de la vente. Lisez la ligne sous la photo du lot 47.
+나쁜 소식은 경매 카탈로그야. 로트 47번 사진 아래 줄을 읽어 봐.
+Léa: (elle lit) « Provenance : directement du château. Stockage en cave d'origine. »
+(읽는다) «출처: 샤토에서 직접. 원래 저장고에서 보관.»
+Julien: Attends. Ça ne colle pas.
+잠깐. 앞뒤가 안 맞아.
+Léa: Pourquoi ? Qu'est-ce qui ne colle pas ?
+왜? 뭐가 안 맞아?
+Julien: Si les bouteilles viennent directement du château, il n'y a que deux possibilités. Soit le certificat est faux, soit c'est le château lui-même qui a vendu du faux vin.
+병이 샤토에서 직접 나왔다면 가능성은 두 가지뿐이야. 감정서가 가짜이거나, 아니면 샤토 자신이 가짜 와인을 팔았거나.
+Karim: Voilà pourquoi j'ai dit « mauvaise nouvelle ». Ce n'est pas une petite fraude d'un revendeur. Si c'est vrai, c'est un château célèbre qui triche.
+그래서 "나쁜 소식"이라고 한 거야. 중간 판매상의 작은 사기가 아니라는 거지. 사실이라면 유명한 샤토가 속이고 있는 거야.
+Léa: Mais c'est une bonne nouvelle pour nous, non ? C'est une plus grande histoire.
+그래도 우리한테는 좋은 소식 아니야? 더 큰 이야기잖아.
+Julien: C'est une plus grande histoire, et un plus grand risque. Un château comme ça a des avocats, des amis, de l'argent. S'il est innocent et qu'on se trompe, on est morts.
+더 큰 이야기이면서 더 큰 위험이야. 그런 샤토엔 변호사도, 인맥도, 돈도 있어. 그쪽이 결백한데 우리가 틀리면, 우린 끝장이야.
+Karim: Et il y a encore une chose. D'où ça vient ? Je veux dire : qui a donné ce certificat à Ariane ?
+그리고 하나 더 있어. 이게 어디서 나왔을까? 그러니까, 누가 이 감정서를 아리안한테 줬냐는 거지.
+Léa: Peut-être que c'est l'acheteur lui-même ? Il est furieux, il veut se venger ?
+산 사람 본인일 수도 있지 않을까? 화가 나서 복수하고 싶은 거야.
+Julien: Possible. Il faut trouver cet acheteur. Karim, une idée ?
+그럴 수도. 그 구매자를 찾아야 해. 카림, 생각 있어?
+Karim: J'ai déjà une piste. Les grands collectionneurs de vin parlent beaucoup sur un forum privé. En juillet, quelqu'un a écrit : « Lot 47, Hong Kong : je me suis fait avoir. Méfiez-vous. »
+이미 실마리가 있어. 큰손 와인 수집가들은 비공개 포럼에서 말이 많거든. 7월에 누가 이렇게 썼어. «홍콩 로트 47번, 당했습니다. 조심하세요.»
+Léa: Il a signé avec son nom ?
+자기 이름으로 썼어?
+Karim: Non, avec un pseudo : « Edmond_HK ». Mais il a mis le même pseudo sur un réseau professionnel. Edmond Chan, homme d'affaires à Hong Kong, francophone, ancien élève d'une grande école à Paris.
+아니, 닉네임으로. «Edmond_HK». 그런데 같은 닉네임을 비즈니스 SNS에도 썼더라고. 에드몽 찬, 홍콩 사업가, 프랑스어 가능, 파리 그랑제콜 출신.
+Julien: Tu as un numéro ?
+번호 있어?
+Karim: J'ai mieux : une adresse e-mail. Je lui ai écrit hier soir, en disant seulement qu'on est journalistes et qu'on s'intéresse au lot 47.
+더 좋은 거. 이메일 주소. 어젯밤에 메일 보냈어. 우리가 기자고 로트 47번에 관심이 있다고만 했어.
+Léa: Et il a répondu ?
+답장 왔어?
+Karim: Il y a une heure. Il est d'accord pour un appel vidéo. À dix heures, heure de Paris. Seize heures chez lui.
+한 시간 전에. 화상통화 하겠대. 파리 시간으로 열 시. 거기는 오후 네 시.
+Julien: Parfait. Léa, tu prends des notes. Moi, je pose les questions. Karim, tu enregistres, s'il est d'accord.
+완벽해. 레아, 넌 필기해. 질문은 내가 할게. 카림, 상대가 동의하면 녹음해.
+Léa: Pourquoi « s'il est d'accord » ? On n'a pas le droit d'enregistrer sans demander ?
+왜 «상대가 동의하면»이야? 묻지 않고 녹음하면 안 돼?
+Julien: Légalement, c'est compliqué. Et moralement, c'est mal. On demande toujours. Une source qui se sent trahie ne parle plus jamais.
+법적으로 복잡해. 그리고 도덕적으로 나쁘지. 항상 물어봐야 해. 배신당했다고 느낀 취재원은 다시는 입을 안 열어.
+Chan: (à l'écran) Bonjour, messieurs, madame. Edmond Chan. Je vous prie d'excuser la qualité de l'image, je suis dans mon bureau de Kowloon.
+(화면 속에서) 안녕하십니까, 여러분. 에드몽 찬입니다. 화질이 좋지 않은 점 양해 바랍니다. 지금 주룽에 있는 제 사무실이라서요.
+Julien: Bonjour, monsieur Chan. Merci d'avoir accepté. Je suis Julien Marchetti, du Phare. Avec moi, Léa Morel et Karim Benali. Vous acceptez qu'on enregistre la conversation ?
+안녕하세요, 찬 선생님. 응해 주셔서 감사합니다. 〈Le Phare〉의 쥘리앵 마르케티입니다. 레아 모렐, 카림 벤알리와 함께 있습니다. 대화를 녹음해도 괜찮으시겠습니까?
+Chan: Je l'accepte, à une condition : que mon nom ne soit pas publié sans mon accord écrit. Dans mon milieu, la réputation est tout.
+받아들이겠습니다. 단, 조건이 하나 있습니다. 제 서면 동의 없이 제 이름이 실리지 않을 것. 제가 있는 세계에선 평판이 전부라서요.
+Julien: C'est entendu. Vous avez notre parole.
+알겠습니다. 약속드리겠습니다.
+Chan: Bien. Que voulez-vous savoir ?
+좋습니다. 무엇을 알고 싶으십니까?
+Julien: Vous avez acheté le lot 47 à Hong Kong, en juin. Pouvez-vous nous raconter ce qui s'est passé ensuite ?
+6월에 홍콩에서 로트 47번을 사셨지요. 그 뒤에 무슨 일이 있었는지 말씀해 주시겠습니까?
+Chan: J'ai ouvert une bouteille pour l'anniversaire de mon épouse. Dès la première gorgée, j'ai su que quelque chose clochait. Un Belcastel 2015 devrait être puissant, profond. Celui-ci était plat, presque banal.
+아내 생일에 한 병을 땄습니다. 첫 모금부터 뭔가 잘못됐다는 걸 알았지요. 벨카스텔 2015라면 힘 있고 깊어야 합니다. 그건 밋밋하고 거의 평범했어요.
+Léa: Plat ? Ça veut dire qu'il n'avait pas de goût ?
+밋밋하다고요? 맛이 없었다는 뜻인가요?
+Chan: Disons qu'il avait le goût d'un vin honnête à dix euros. Ce qui, pour une bouteille payée près de mille, est une insulte.
+10유로짜리 정직한 와인 맛이었다고 해 두지요. 거의 천 유로를 주고 산 병이라면, 그건 모욕입니다.
+Julien: Et vous avez fait analyser les autres bouteilles.
+그래서 나머지 병들을 분석에 맡기셨군요.
+Chan: Deux d'entre elles, oui, par le laboratoire Œnotest, à Bordeaux. On me l'avait recommandé comme le plus sérieux. Le résultat est sans appel : le vin ne correspond ni au millésime, ni à l'appellation.
+그중 두 병을요, 보르도의 외노테스트 연구소에. 가장 믿을 만한 곳이라고 추천받았지요. 결과는 반박의 여지가 없었습니다. 와인이 빈티지와도, 원산지 명칭과도 맞지 않았습니다.
+Karim: Le certificat que nous avons reçu porte la référence OT-2025-0713-B. C'est bien le vôtre ?
+저희가 받은 감정서에는 OT-2025-0713-B라는 참조 번호가 있습니다. 선생님 것이 맞습니까?
+Chan: (il vérifie) Treize juillet, oui. C'est le mien. Puis-je vous demander comment il est arrivé entre vos mains ?
+(확인하며) 7월 13일, 네. 제 것이 맞습니다. 그게 어떻게 여러분 손에 들어갔는지 여쭤봐도 되겠습니까?
+Julien: Je suis désolé, je ne peux pas vous le dire. Nous protégeons toujours nos sources.
+죄송하지만 말씀드릴 수 없습니다. 저희는 늘 취재원을 보호합니다.
+Chan: Je comprends. Et je respecte cela. Ce qui me rassure, d'ailleurs : vous protégerez aussi mon nom.
+이해합니다. 그리고 존중합니다. 오히려 안심이 되는군요. 제 이름도 지켜 주실 테니까요.
+Léa: Monsieur Chan, à qui avez-vous envoyé ce certificat ?
+찬 선생님, 이 감정서를 누구에게 보내셨나요?
+Chan: À trois destinataires. À la maison de ventes, d'abord, pour demander le remboursement. Ensuite à mon avocat. Et enfin au château lui-même, au comte de Belcastel en personne.
+세 군데입니다. 먼저 경매 회사에, 환불을 요구하려고요. 그다음엔 제 변호사에게. 그리고 마지막으로 샤토, 벨카스텔 백작 본인에게요.
+Julien: Et quelles réponses avez-vous reçues ?
+어떤 답을 받으셨습니까?
+Chan: La maison de ventes m'a répondu que le lot avait été vendu « en l'état » et qu'elle déclinait toute responsabilité. Quant au château… rien. Pas une ligne. Pas un appel.
+경매 회사는 그 로트가 «현 상태 그대로» 팔렸으니 일절 책임이 없다고 답했습니다. 샤토는… 아무것도요. 한 줄도, 전화 한 통도 없었습니다.
+Léa: Rien du tout ? C'est bizarre, non ? S'ils étaient innocents, ils voudraient comprendre, non ?
+아무것도요? 이상하지 않아요? 결백하다면 무슨 일인지 알고 싶어 할 텐데요?
+Chan: Mademoiselle a le sens de la logique. C'est exactement ce que je me suis dit.
+아가씨가 논리적이시군요. 제가 생각한 것도 바로 그겁니다.
+Julien: Vous vous sentez trompé, monsieur Chan ?
+속았다고 느끼십니까, 찬 선생님?
+Chan: J'ai été berné, monsieur Marchetti. Comme un débutant. Moi qui collectionne les grands bordeaux depuis trente ans. C'est cela qui me blesse le plus : non pas l'argent, mais l'orgueil.
+저는 속았습니다, 마르케티 씨. 초보자처럼요. 30년 동안 보르도 명품 와인을 모아 온 제가 말입니다. 가장 아픈 건 그겁니다. 돈이 아니라 자존심이요.
+Julien: Avez-vous l'intention de porter plainte ?
+고소하실 생각이 있으십니까?
+Chan: Mon avocat me le conseille. Mais un procès en France, contre un comte, pour six bouteilles… On me prendrait pour un original. À moins que d'autres victimes ne se manifestent.
+제 변호사는 그러라고 권합니다. 하지만 프랑스에서, 백작을 상대로, 여섯 병 때문에 소송이라니… 다들 저를 괴짜로 볼 겁니다. 다른 피해자들이 나타난다면 모를까요.
+Léa: D'autres victimes ? Vous pensez qu'il y en a d'autres ?
+다른 피해자요? 다른 피해자가 있다고 생각하세요?
+Chan: Mademoiselle, un faussaire ne fabrique pas six bouteilles. Il en fabrique des milliers. Je ne suis sans doute que la seule victime qui s'en soit aperçue.
+아가씨, 위조범은 여섯 병만 만들지 않습니다. 수천 병을 만들지요. 저는 아마 그걸 알아챈 유일한 피해자일 뿐일 겁니다.
+Julien: Merci, monsieur Chan. Nous vous tiendrons au courant. Et nous ne publierons rien sur vous sans votre accord.
+감사합니다, 찬 선생님. 계속 소식 전하겠습니다. 그리고 동의 없이 선생님에 대해서는 아무것도 싣지 않겠습니다.
+Chan: Je vous fais confiance. Au revoir, et… bonne chasse.
+믿겠습니다. 안녕히 계십시오, 그리고… 사냥에 행운을 빕니다.
+Léa: (après l'appel) Waouh. Il parle un français magnifique.
+(통화가 끝난 뒤) 와. 프랑스어를 정말 멋지게 하시네.
+Karim: Mieux que moi, en tout cas. « Je ne suis sans doute que la seule victime qui s'en soit aperçue »… Je ne parle jamais comme ça.
+어쨌든 나보다 잘해. «저는 아마 그걸 알아챈 유일한 피해자일 뿐일 겁니다»라니… 난 절대 그렇게 말 안 해.
+Julien: Bon. Faisons le point. Léa, tes colonnes.
+좋아. 정리해 보자. 레아, 네 칸.
+Léa: « Ce que l'on sait » : le certificat est authentique, l'acheteur le confirme. Le catalogue dit que le vin vient directement du château. Le château n'a jamais répondu.
+«아는 것»: 감정서는 진짜, 구매자가 확인함. 카탈로그에 와인이 샤토에서 직접 나왔다고 적혀 있음. 샤토는 한 번도 답하지 않음.
+Julien: Très bien. Et « ce que l'on croit » ?
+아주 좋아. «믿는 것»은?
+Léa: Le château vend du faux vin. Et il y a des milliers de bouteilles.
+샤토가 가짜 와인을 판다. 그리고 그런 병이 수천 병 있다.
+Julien: Exactement. Et rien ne prouve que le château soit coupable. Pas encore.
+정확해. 그리고 샤토가 유죄라는 증거는 아무것도 없어. 아직은.
+Léa: « Rien ne prouve que le château soit coupable »… Pourquoi « soit » et pas « est » ?
+«샤토가 유죄라는 증거는 없다»… 왜 «est»가 아니라 «soit»야?
+Aubry: (entrant, une serviette à la main) Parce qu'après « rien ne prouve que », le doute appelle le subjonctif, chère Léa. Le subjonctif est le mode de l'incertain.
+(서류 가방을 들고 들어오며) «rien ne prouve que» 다음에는 의심이 접속법을 부르기 때문이지요, 레아. 접속법은 불확실함의 서법입니다.
+Léa: Bonjour, Maître ! Vous êtes là le mardi aussi ?
+안녕하세요, 변호사님! 화요일에도 오세요?
+Aubry: Hélène m'a appelé hier soir. Elle m'a dit, je cite : « Julien a trouvé un os, et il ne va pas le lâcher. »
+엘렌이 어젯밤에 전화했지요. 그대로 옮기자면 이렇게 말하더군요. «쥘리앵이 뼈다귀를 물었으니, 놓지 않을 거예요.»
+Julien: Elle me compare à un chien, maintenant ?
+이제 날 개에 비유하는 거야?
+Aubry: À un chien de chasse, ce qui est un compliment. Bien. Où en êtes-vous ?
+사냥개에 비유하는 거니 칭찬이지요. 자. 어디까지 왔습니까?
+Julien: Le certificat est authentique. L'acheteur le confirme, il a été berné. Et le catalogue indique que les bouteilles venaient directement du château.
+감정서는 진짜예요. 구매자가 확인했고, 그는 속았어요. 그리고 카탈로그에는 병들이 샤토에서 바로 나왔다고 적혀 있어요.
+Aubry: Voilà qui change la nature de l'affaire. Permettez-moi de vous mettre en garde sur deux points.
+그렇다면 사건의 성격이 달라지는군요. 두 가지를 경고해 두겠습니다.
+Léa: Lesquels ?
+어떤 거요?
+Aubry: Premièrement, la source anonyme. Vous ignorez qui est Ariane et quelles sont ses intentions. Il n'est pas exclu qu'elle cherche à nuire au château pour des raisons qui n'ont rien à voir avec la vérité.
+첫째, 익명 제보자입니다. 여러분은 아리안이 누구인지, 의도가 무엇인지 모릅니다. 진실과는 아무 상관 없는 이유로 샤토에 해를 끼치려는 것일 가능성도 배제할 수 없지요.
+Julien: Un concurrent, par exemple.
+예를 들면 경쟁자.
+Aubry: Un concurrent, un ancien employé licencié, un héritier déçu… Bordeaux n'en manque pas. Peu importe d'ailleurs, si les faits sont vrais. Mais il faut le garder à l'esprit.
+경쟁자, 해고된 전 직원, 실망한 상속인… 보르도엔 그런 사람이 넘쳐나지요. 사실이 진실이라면 그건 아무래도 상관없습니다. 하지만 염두에는 둬야 합니다.
+Léa: Et le deuxième point ?
+두 번째는요?
+Aubry: Le second point, c'est votre témoin. Monsieur Chan a été lésé, il est donc partie prenante. Son témoignage est précieux, mais il ne suffit pas. Il vous faudra des preuves matérielles venant de Bordeaux même.
+두 번째는 여러분의 증인입니다. 찬 씨는 피해를 입었으니 당사자이지요. 그의 증언은 소중하지만 그것만으로는 부족합니다. 보르도 현지에서 나온 물적 증거가 필요할 겁니다.
+Léa: Des preuves matérielles… Comme quoi ?
+물적 증거라면… 어떤 거요?
+Julien: Des chiffres, des photos, des documents internes. Et des gens qui parlent.
+수치, 사진, 내부 문서. 그리고 말해 줄 사람들.
+Aubry: Et surtout, la version du château. Avant toute publication, vous devrez lui poser vos questions. C'est le principe du contradictoire.
+그리고 무엇보다 샤토 측의 입장이지요. 기사를 내기 전에 반드시 그쪽에 질문해야 합니다. 그게 반론권 보장의 원칙입니다.
+Léa: Même s'ils mentent ?
+거짓말을 하더라도요?
+Aubry: Surtout s'ils mentent. Un mensonge publié avec votre question devient, très souvent, la meilleure preuve de votre bonne foi.
+거짓말을 할수록 더더욱요. 여러분의 질문과 함께 실린 거짓말은, 아주 자주, 여러분의 선의를 보여 주는 가장 좋은 증거가 됩니다.
+Hélène: (à la porte) Alors ? Mon chien de chasse a trouvé quelque chose ?
+(문간에서) 그래서? 내 사냥개가 뭘 좀 찾았어?
+Julien: Tu vois, Bernard ? Elle recommence.
+봐요, 베르나르. 또 시작이야.
+Karim: On a un certificat authentique, un acheteur furieux et un château qui ne répond pas.
+진짜 감정서 하나, 화난 구매자 한 명, 그리고 대답 없는 샤토가 있어.
+Hélène: Hum. Ça devient sérieux. Qu'est-ce que tu proposes, Julien ?
+흠. 진지해지네. 뭘 제안할 거야, 쥘리앵?
+Julien: Deux choses. Karim compte les bouteilles, comme le dit Ariane : production possible du château, ventes réelles. Et moi, je descends à Bordeaux jeudi avec Léa.
+두 가지. 카림은 아리안 말대로 병을 세는 거야. 샤토가 생산할 수 있는 양과 실제 판매량. 그리고 나는 목요일에 레아랑 보르도로 내려갈게.
+Léa: À Bordeaux ? Moi ?
+보르도에? 나도?
+Hélène: Le train, pas l'avion. Deuxième classe. Et vous dormez dans un hôtel à moins de quatre-vingts euros.
+비행기 말고 기차. 2등석. 그리고 80유로 안 되는 호텔에서 자.
+Julien: Comme d'habitude.
+늘 그렇듯이.
+Hélène: Comme d'habitude. Et vous ne vous approchez pas du château. Pas encore. Vous parlez aux gens autour : vignerons, cavistes, ouvriers.
+늘 그렇듯이. 그리고 샤토 근처엔 가지 마. 아직은. 주변 사람들이랑 얘기해. 포도 재배자, 와인 가게 주인, 일꾼들.
+Léa: Pendant les vendanges, il y aura beaucoup de monde dans les vignes. C'est le bon moment.
+수확철이면 포도밭에 사람이 많을 거예요. 딱 좋은 때네요.
+Hélène: (à Julien) Elle apprend vite, ta stagiaire.
+(쥘리앵에게) 네 인턴, 빨리 배우네.
+Julien: Elle pose les bonnes questions. C'est déjà beaucoup.
+좋은 질문을 해. 그것만 해도 대단한 거지.
+Serveur: (à midi, au Zinc) Alors, la petite équipe ! Qu'est-ce que je vous sers pour le déjeuner ?
+(정오, 르 쟁에서) 자, 우리 팀! 점심은 뭘로 드릴까?
+Léa: Qu'est-ce que vous avez comme plat du jour ?
+오늘의 요리는 뭐가 있어요?
+Serveur: Aujourd'hui, c'est bœuf bourguignon avec des pommes de terre. Ou une salade de chèvre chaud.
+오늘은 감자를 곁들인 뵈프 부르기뇽이에요. 아니면 따뜻한 염소 치즈 샐러드.
+Léa: Je vais prendre le bœuf bourguignon, s'il vous plaît.
+뵈프 부르기뇽으로 할게요.
+Karim: Pareil pour moi. Et une carafe d'eau.
+나도 같은 걸로. 그리고 물 한 병.
+Camille: Une salade pour moi. Julien ?
+나는 샐러드. 쥘리앵은?
+Julien: Juste un sandwich jambon-beurre. Et un café.
+잠봉뵈르 샌드위치만. 그리고 커피.
+Serveur: Et avec ça, un petit verre de vin ? J'ai un bordeaux très correct.
+거기에 와인 한 잔 어때? 꽤 괜찮은 보르도가 있는데.
+Karim: (rit) Surtout pas de bordeaux, Momo ! Pas cette semaine.
+(웃으며) 보르도는 절대 안 돼, 모모! 이번 주는 안 돼.
+Serveur: Pourquoi ? Il est très bon, mon bordeaux. Huit euros la bouteille.
+왜? 내 보르도 맛있는데. 한 병에 8유로야.
+Léa: Huit euros… Et le vin de monsieur Chan coûtait presque mille euros la bouteille.
+8유로… 찬 씨의 와인은 한 병에 거의 천 유로였는데.
+Julien: Et c'était peut-être le même vin. C'est ça, le problème.
+그리고 어쩌면 같은 와인이었을지도 몰라. 그게 문제야.
+Camille: Alors, vous descendez à Bordeaux jeudi ?
+그래서 목요일에 보르도 내려가?
+Julien: Oui, avec Léa. Et toi, tu penses toujours aux vendanges ?
+응, 레아랑. 너는 아직도 포도 수확 생각해?
+Camille: J'ai regardé les annonces ce matin. Le Château Belcastel cherche vingt vendangeurs pour la fin du mois. Nourris, logés.
+오늘 아침에 구인 광고를 봤어. 샤토 벨카스텔이 이달 말에 일할 포도 따는 사람 스무 명을 구한대. 숙식 제공이야.
+Léa: Tu vas vraiment postuler ?
+정말 지원할 거야?
+Camille: Si Hélène et Maître Aubry sont d'accord. Et si vous trouvez assez d'éléments à Bordeaux.
+엘렌이랑 오브리 변호사님이 동의하면. 그리고 너희가 보르도에서 근거를 충분히 찾으면.
+Léa: Mais tu n'as pas peur ? S'ils découvrent qui tu es ?
+그런데 무섭지 않아? 네가 누군지 들키면?
+Camille: Un peu. La peur, c'est utile. Elle t'oblige à faire attention.
+조금. 두려움은 쓸모가 있어. 조심하게 만들거든.
+Léa: Julien, et toi, comment tu as commencé le journalisme ?
+쥘리앵, 너는 어떻게 기자 일을 시작했어?
+Julien: (après un silence) Mon père était journaliste. En Corse. Dans un petit journal local.
+(잠시 침묵한 뒤) 우리 아버지가 기자였어. 코르시카에서. 작은 지역 신문.
+Léa: Ah bon ? Et il travaille toujours ?
+아 그래? 아직 일하셔?
+Julien: Non. Il est mort quand j'avais quinze ans.
+아니. 내가 열다섯 살 때 돌아가셨어.
+Léa: Oh… pardon. Je ne savais pas.
+아… 미안해. 몰랐어.
+Julien: Tu ne pouvais pas savoir. (il sourit un peu) Une autre fois, je te raconterai. Mange ton bœuf, il va refroidir.
+알 리가 없지. (살짝 웃으며) 다음에 얘기해 줄게. 고기 먹어, 식겠다.
+Karim: (à voix basse, à Léa) Il n'en parle jamais. Tu as de la chance qu'il t'ait répondu.
+(레아에게 작은 목소리로) 저 얘기 절대 안 해. 대답해 준 것만 해도 운 좋은 거야.
+Serveur: Et voilà ! Deux bourguignons, une salade, un jambon-beurre. Bon appétit !
+여기 있습니다! 부르기뇽 둘, 샐러드 하나, 잠봉뵈르 하나. 맛있게 드세요!
+Karim: (regardant son téléphone) Euh… Julien ? Monsieur Chan vient de me renvoyer un e-mail.
+(휴대폰을 보며) 어… 쥘리앵? 찬 씨가 방금 다시 메일을 보냈어.
+Julien: Déjà ? Qu'est-ce qu'il dit ?
+벌써? 뭐래?
+Karim: (il lit) « Monsieur Benali, une heure après notre conversation, mon avocat a reçu un appel de Paris. Un homme a proposé de me racheter les quatre bouteilles restantes, au double du prix. »
+(읽는다) «벤알리 씨, 우리가 통화하고 한 시간 뒤에 제 변호사가 파리에서 전화를 받았습니다. 어떤 남자가 남은 네 병을 두 배 가격에 되사겠다고 했답니다.»
+Léa: Au double du prix ? Une heure après notre appel ?
+두 배 가격에? 우리 통화하고 한 시간 뒤에?
+Julien: (lentement) Quelqu'un veut faire disparaître les preuves. Et quelqu'un sait déjà que nous cherchons.
+(천천히) 누군가 증거를 없애고 싶어 해. 그리고 누군가는 우리가 뒤를 캐고 있다는 걸 벌써 알고 있어.
+
+## 주요 단어
+le faussaire | 르 포쎄르 | 위조범 (B2)
+la police de caractères | 라 뽈리스 드 까락떼르 | 글꼴, 서체 (B2)
+la mise en page | 라 미장 빠쥬 | 레이아웃, 편집 배치 (B2)
+le numéro de référence | 르 뉘메로 드 레페랑스 | 참조 번호 (B1)
+la provenance | 라 쁘로브낭스 | 출처, 원산 (B2)
+le millésime | 르 밀레짐 | 빈티지, (와인의) 생산 연도 (B2)
+l'appellation (f.) | 라뻴라시옹 | 원산지 명칭 (B2)
+le collectionneur | 르 꼴렉시오뇌르 | 수집가 (B1)
+la maison de ventes | 라 메종 드 방뜨 | 경매 회사 (B2)
+le remboursement | 르 랑부르스망 | 환불 (B1)
+porter plainte | 뽀르떼 쁠랭뜨 | 고소하다 (B1)
+berner → berné | 베르네 → 베르네 | 속이다 (C1)
+la victime | 라 빅띰 | 피해자 (A2)
+enregistrer → enregistré | 앙르지스트레 → 앙르지스트레 | 녹음하다, 기록하다 (A2)
+le contradictoire | 르 꽁트라딕뚜아르 | 반론권 보장 원칙, 양측 진술 원칙 (C1)
+la bonne foi | 라 본 푸아 | 선의 (C1)
+le caviste | 르 까비스뜨 | 와인 가게 주인 (B1)
+
+## 문법·표현 정리
+**Ça ne colle pas (B2, 구어):** "앞뒤가 안 맞아, 말이 안 돼". coller는 원래 "붙다"라는 뜻으로, 이야기가 서로 잘 붙지 않는다는 이미지입니다. 반대는 Ça colle.(맞아떨어진다) 비슷한 말: Ça ne tient pas debout.(말도 안 된다)
+**D'où ça vient ? (A2):** "이게 어디서 왔어?" venir de(~에서 오다)의 의문문. d'où = de + où. 기자가 정보를 받으면 가장 먼저 묻는 질문입니다. (D'où venez-vous ? 어디서 오셨어요?)
+**J'ai été berné (C1):** "나는 속았다". être + 과거분사 = 수동태. berner는 문어적이고 품위 있는 말로, 구어에서는 Je me suis fait avoir.(당했다)라고 합니다. 포럼 글과 찬 씨의 말을 비교해 보세요.
+**se faire + 동사원형 (B2):** "(남에게) ~당하다, ~시키다". Je me suis fait avoir.(당했다) · faire analyser le vin(와인을 분석시키다) · Il a fait analyser deux bouteilles.(두 병을 분석시켰다)
+**Rien ne prouve que + 접속법 (B2):** 의심·부정이 들어간 표현 뒤에는 접속법을 씁니다. Rien ne prouve que le château soit coupable. 비교: Il est prouvé que le château est coupable.(입증되었다 → 직설법) 비슷한 말: Je doute que… / Il n'est pas certain que…
+**soit… soit… (B1):** "~이거나 ~이거나". Soit le certificat est faux, soit c'est le château qui a vendu du faux vin. (둘 중 하나)
+**강조 구문 c'est… qui (B2):** 강조하고 싶은 말을 c'est와 qui 사이에 넣습니다. C'est le château lui-même qui a vendu du faux vin.(가짜 와인을 판 건 바로 샤토 자신이다) · C'est cela qui me blesse le plus.(가장 아픈 건 그것이다)
+**조건법 과거: "~했을 것이다" (B2):** 일어나지 않은 과거를 가정합니다. Un faussaire aurait fait la même chose.(위조범이었어도 똑같이 했을 것이다) · Il aurait dû étudier tout ça.(그걸 다 연구했어야 했을 것이다)
+**ne… que + 접속법 과거 (C1):** Je ne suis sans doute que la seule victime qui s'en soit aperçue. 최상급·유일함(la seule) 뒤의 관계절에는 접속법을 쓰는 경우가 많습니다. s'apercevoir de = 알아차리다, en = 그것(사기)을.
+**à moins que + (ne) + 접속법 (C1):** "~하지 않는 한, ~라면 모를까". À moins que d'autres victimes ne se manifestent.(다른 피해자들이 나타난다면 모를까) 이 ne는 부정이 아니라 문어적 장식(허사 ne)입니다.
+**의문대명사 lequel / laquelle / lesquels (B1):** "어느 것?" 앞에 나온 명사의 성·수에 맞춥니다. une ligne → Laquelle ? / deux points → Lesquels ?
+**공손한 요청: Puis-je… ? / Je vous prie de… (C1):** Puis-je vous demander… ?(여쭤봐도 될까요?)는 pouvoir의 도치 의문문 Je peux → Puis-je. Je vous prie d'excuser…(~을 양해해 주시기 바랍니다)는 편지·공식 화법에서 자주 씁니다.
+**quant à (B2):** "~에 관해서는, ~로 말하자면". Quant au château… rien.(샤토로 말하자면… 아무것도 없었다) 앞의 내용과 대조할 때 씁니다.
+**Je vais prendre… / Pareil pour moi (A2):** 식당 주문 표현. Je vais prendre le plat du jour.(오늘의 요리로 할게요) · Pareil pour moi.(저도 같은 걸로요) · Qu'est-ce que vous avez comme… ?(~로는 뭐가 있어요?) 가격은 Huit euros la bouteille.(한 병에 8유로)처럼 정관사로 단위를 나타냅니다.
+**faire le point (B1):** "상황을 정리하다, 중간 점검을 하다". Faisons le point.(정리해 보자) 회의나 취재 중간에 자주 쓰는 표현입니다.
