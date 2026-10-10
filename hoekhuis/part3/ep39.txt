@@ -55,9 +55,9 @@ Yasmin : Dat klopt. Maar we wilden eerst weten of de financiering mogelijk is. V
 Mevrouw Bakker : Dat is verstandig. Maar zonder koopovereenkomst en zonder taxatierapport kan ik geen toezegging doen. Punt vier... (aarzelt)
 Bram : Zeg het maar.
 Mevrouw Bakker : De looptijd. Een lening van twintig jaar. Hoe oud bent u, meneer De Wit?
-Bram : Zesenvijftig.
-Mevrouw Bakker : Dan bent u zesenzeventig aan het einde van de lening. De bank wil weten: wie neemt het café over als u stopt? Is er een opvolger?
-Bram : (stil) Nee. Er is geen opvolger. We hebben geen kinderen.
+Bram : Achtenvijftig.
+Mevrouw Bakker : Dan bent u achtenzeventig aan het einde van de lening. De bank wil weten: wie neemt het café over als u stopt? Is er een opvolger?
+Bram : (stil) Ik heb een dochter. Marieke. Maar ze werkt in de IT. Ze heeft nooit achter de bar gestaan. Een opvolger... nee. Die is er niet.
 Mevrouw Bakker : Het spijt me. Dat is een vervelende vraag. Maar ik moet hem stellen.
 Bram : Het is geen vervelende vraag. Het is een eerlijke vraag. (pauze) Dus het antwoord is nee.
 Mevrouw Bakker : Het antwoord is: in deze vorm, nee. Ik kan deze aanvraag niet goedkeuren. Het spijt me oprecht.
@@ -87,17 +87,17 @@ Yasmin : Het was heel nuttig. Meer dan u denkt.
 (Op de stoep van de Rozengracht. Het motregent. Bram trekt zijn colbert uit en gooit het over zijn schouder.)
 Bram : Dat ding knelt al twintig jaar. Net als die bank.
 Yasmin : Bram. Gaat het?
-Bram : Nee. Het gaat niet. Ik ben zesenvijftig. Ik heb geen opvolger. Ik heb geen geld. En de horeca is een risicosector.
+Bram : Nee. Het gaat niet. Ik ben achtenvijftig. Ik heb geen opvolger. Ik heb geen geld. En de horeca is een risicosector.
 Yasmin : Je hebt wel honderd vaste gasten.
 Bram : Ik heb honderd mensen die bier drinken. Dat is iets anders dan investeerders.
 Yasmin : Weet je dat zeker?
 (Dinsdagavond, negen uur. 't Hoekje. Het is rustig. Marieke zit aan de bar met een thee. Bram poetst glazen die al schoon zijn.)
 Marieke : Je poetst dat glas nu voor de derde keer.
 Bram : Het is nog niet schoon.
-Marieke : Het is het schoonste glas van Amsterdam. Vertel. Wat zei de bank?
+Marieke : Het is het schoonste glas van Amsterdam. Vertel, pap. Wat zei de bank?
 Bram : Nee. De bank zei nee.
 Marieke : Dat dacht ik al. Je stuurde geen berichtje. Als het goed nieuws was, had je gebeld.
-Bram : Dertig procent eigen geld. Dat is honderdtwintigduizend euro. En ik ben te oud. En we hebben geen kinderen. Dat vroeg ze. Wie neemt het over?
+Bram : Dertig procent eigen geld. Dat is honderdtwintigduizend euro. En ik ben te oud. En er is geen opvolger. Dat vroeg ze. Wie neemt het over?
 Marieke : (stil) Dat vroeg ze?
 Bram : Ze moest het vragen. Het was geen kwade bedoeling. Maar het deed pijn.
 Marieke : (pakt zijn hand over de bar) Het doet mij ook pijn.
@@ -108,7 +108,7 @@ Bram : Ze was geen computer. Ze was aardig. Dat maakte het erger.
 Yasmin : Mag ik storen? Ik heb iets uitgerekend.
 Bram : Nog meer cijfers? Ik heb vandaag genoeg cijfers gehad.
 Yasmin : Deze zijn anders. Geef me vijf minuten.
-Marieke : Ga zitten, Yasmin. Bram, schenk haar een thee in.
+Marieke : Ga zitten, Yasmin. Pap, schenk haar een thee in.
 Yasmin : (opent haar laptop) Ik heb vanmiddag de klantenlijst bekeken. Van de spaarkaart. En de handtekeningen onder "'t Hoekje blijft". Weet je hoeveel mensen er hebben getekend?
 Bram : Geen idee. Veel.
 Yasmin : Driehonderdtwaalf. In zes weken.
@@ -207,9 +207,9 @@ Yasmin : Op allebei.
 바커르 씨 : 현명하네요. 하지만 매매 계약과 감정 평가서 없이는 확약을 드릴 수 없어요. 넷째... (망설인다)
 브람 : 말씀하세요.
 바커르 씨 : 대출 기간이요. 20년짜리 대출입니다. 연세가 어떻게 되시죠, 더 윗 씨?
-브람 : 쉰여섯입니다.
-바커르 씨 : 그럼 대출이 끝날 때 일흔여섯이세요. 은행은 알고 싶어 합니다. 그만두시면 누가 카페를 넘겨받나요? 후계자가 있나요?
-브람 : (조용히) 아니요. 후계자는 없어요. 우린 아이가 없습니다.
+브람 : 쉰여덟입니다.
+바커르 씨 : 그럼 대출이 끝날 때 일흔여덟이세요. 은행은 알고 싶어 합니다. 그만두시면 누가 카페를 넘겨받나요? 후계자가 있나요?
+브람 : (조용히) 딸이 하나 있어요. 마리커요. 그런데 IT 회사에 다녀요. 바 뒤에 서 본 적이 한 번도 없어요. 후계자라... 아니요. 없습니다.
 바커르 씨 : 죄송합니다. 불편한 질문이죠. 하지만 여쭤봐야 해서요.
 브람 : 불편한 질문 아닙니다. 정직한 질문이죠. (잠시 뒤) 그러니까 대답은 '안 된다'군요.
 바커르 씨 : 대답은 이 형태로는 안 된다는 겁니다. 이 신청은 승인해 드릴 수 없어요. 진심으로 죄송합니다.
@@ -239,17 +239,17 @@ Yasmin : Op allebei.
 (로제흐라흐트의 보도. 이슬비가 내린다. 브람이 재킷을 벗어 어깨에 걸친다.)
 브람 : 이 옷은 20년째 조여. 저 은행처럼.
 야스민 : 브람. 괜찮아요?
-브람 : 아니. 안 괜찮아. 난 쉰여섯이야. 후계자도 없어. 돈도 없어. 그리고 요식업은 위험 업종이고.
+브람 : 아니. 안 괜찮아. 난 쉰여덟이야. 후계자도 없어. 돈도 없어. 그리고 요식업은 위험 업종이고.
 야스민 : 그래도 단골손님이 백 명 있잖아요.
 브람 : 맥주 마시는 사람이 백 명 있는 거지. 투자자랑은 다른 얘기야.
 야스민 : 정말 확실해요?
 (화요일 저녁 9시. 't 훅여. 한산하다. 마리커가 바에 앉아 차를 마시고 있다. 브람은 이미 깨끗한 잔을 닦고 있다.)
 마리커 : 그 잔 지금 세 번째 닦고 있어.
 브람 : 아직 안 깨끗해.
-마리커 : 암스테르담에서 제일 깨끗한 잔이야. 말해 봐. 은행에서 뭐래?
+마리커 : 암스테르담에서 제일 깨끗한 잔이야. 말해 봐, 아빠. 은행에서 뭐래?
 브람 : 안 된대. 은행이 안 된다고 했어.
 마리커 : 그럴 줄 알았어. 문자를 안 보냈잖아. 좋은 소식이었으면 전화했을 거고.
-브람 : 자기 돈 30퍼센트. 12만 유로야. 그리고 난 너무 늙었고. 그리고 우린 아이가 없고. 그걸 묻더라. 누가 넘겨받냐고.
+브람 : 자기 돈 30퍼센트. 12만 유로야. 그리고 난 너무 늙었고. 그리고 후계자가 없고. 그걸 묻더라. 누가 넘겨받냐고.
 마리커 : (조용히) 그걸 물었어?
 브람 : 물어봐야 하는 거였어. 나쁜 뜻은 아니었어. 그래도 아팠어.
 마리커 : (바 너머로 그의 손을 잡는다) 나도 아파.
@@ -260,7 +260,7 @@ Yasmin : Op allebei.
 야스민 : 방해해도 돼요? 뭘 좀 계산해 봤어요.
 브람 : 숫자 또? 오늘 숫자는 충분히 봤어.
 야스민 : 이건 달라요. 5분만 줘요.
-마리커 : 앉아, 야스민. 브람, 야스민한테 차 한 잔 따라 줘.
+마리커 : 앉아, 야스민. 아빠, 야스민한테 차 한 잔 따라 줘.
 야스민 : (노트북을 연다) 오늘 오후에 손님 명단을 봤어요. 스탬프 카드요. 그리고 "'t 훅여는 남는다" 아래 서명들도요. 몇 명이 서명했는지 알아요?
 브람 : 모르겠어. 많이.
 야스민 : 312명이요. 6주 만에요.
