@@ -1,0 +1,340 @@
+# 8부 11화. Menaces (위협)
+수준: A2~C1 혼합 (중심 A2) | 장소: 편집국 → 벨빌의 쥘리앵 원룸 → 20구 경찰서 → 바티뇰의 카미유 원룸 | 시간: 7월 20일 월요일 ~ 22일 수요일
+핵심 표현: On a forcé la porte · Ne touche à rien · Je ne pars pas · Qui est là ?
+
+## 대화
+Aubry: (lundi, neuf heures pile ; dans la petite salle de réunion ; il pose un téléphone sur la table, en haut-parleur) Monsieur Guérin. (un silence) Je vous écoute. Et je prends des notes.
+(월요일 오전 아홉 시 정각. 작은 회의실. 탁자 위에 스피커폰을 놓는다) 게랭 씨. (침묵) 듣고 있어요. 그리고 메모하고 있어요.
+Thomas: (la voix fatiguée) Bonjour, maître. (un silence) Je ne sais pas par où commencer.
+(지친 목소리) 안녕하세요, 변호사님. (침묵) 어디서부터 시작해야 할지 모르겠어요.
+Aubry: Par le début. Par la première fois que quelqu'un d'Argos vous a contacté. (un silence) La date. Le lieu. Le nom.
+처음부터요. 아르고스 사람이 처음 연락한 때부터. (침묵) 날짜. 장소. 이름.
+Thomas: (un long silence) Octobre. Il y a deux ans. Un café près de la gare Saint-Lazare. (un silence) Un homme qui s'appelait Dorval. Marc Dorval. Il avait une cicatrice au menton.
+(긴 침묵) 시월이요. 이 년 전. 생라자르역 근처 카페. (침묵) 도르발이라는 남자였어요. 마르크 도르발. 턱에 흉터가 있었어요.
+Julien: (assis dans un coin, il serre les poings sans rien dire)
+(구석에 앉아 아무 말 없이 주먹을 쥔다)
+Aubry: (il écrit) Vous avez gardé des traces ? Des messages ? Des virements ?
+(적는다) 흔적을 남겨 두셨어요? 메시지? 송금 기록?
+Thomas: Tout. (un silence) Je n'avais pas confiance en eux. Alors j'ai tout gardé. Les mails. Les relevés de banque. Les messages de Dorval. (un silence) Sur un disque dur. Chez ma sœur. À Rennes.
+전부요. (침묵) 그 사람들을 믿지 않았어요. 그래서 전부 보관했죠. 메일. 은행 거래 내역. 도르발 메시지. (침묵) 외장 하드에. 누나 집에. 렌에.
+Aubry: (il lève les yeux vers Julien) Monsieur Guérin. (un silence) Si vous témoignez, Argos peut vous attaquer. Vous aurez peut-être des problèmes avec la justice, vous aussi.
+(쥘리앵 쪽으로 눈을 든다) 게랭 씨. (침묵) 증언하시면 아르고스가 당신을 공격할 수 있어요. 당신도 법적 문제가 생길 수 있고요.
+Thomas: (un silence) Je sais. J'ai un avocat. (un silence) Il m'a dit la même chose. Je lui ai dit la même chose qu'à vous. (un silence) Je veux témoigner.
+(침묵) 알아요. 변호사가 있어요. (침묵) 똑같이 말하더라고요. 그분한테도 똑같이 대답했어요. (침묵) 증언하고 싶다고.
+Aubry: Bien. (un silence) Envoyez-moi une copie du disque dur. Par votre avocat. Pas par mail. (un silence) Je vous rappelle dans une semaine.
+좋아요. (침묵) 외장 하드 사본을 보내 주세요. 당신 변호사를 통해서. 메일 말고. (침묵) 일주일 뒤에 다시 연락드릴게요.
+Thomas: (un silence) Julien est là ?
+(침묵) 쥘리앵 거기 있어요?
+Aubry: (il regarde Julien ; Julien secoue la tête) Non.
+(쥘리앵을 본다. 쥘리앵이 고개를 젓는다) 아니요.
+Thomas: (un silence) Dites-lui… (un silence) Non. Rien. Je lui dirai moi-même. Un jour.
+(침묵) 그 사람한테… (침묵) 아니에요. 아무것도. 내가 직접 말할게요. 언젠가.
+Aubry: (il raccroche ; un long silence) Il dit la vérité. Ou alors c'est un très bon menteur. (un silence) Les deux sont possibles. On vérifiera le disque dur.
+(전화를 끊는다. 긴 침묵) 진실을 말하고 있어. 아니면 아주 훌륭한 거짓말쟁이거나. (침묵) 둘 다 가능해. 외장 하드를 확인해 보자.
+Julien: (il se lève) Il a dit « Dorval ». (un silence) Le même homme qui suivait Camille en février.
+(일어선다) «도르발»이라고 했어요. (침묵) 이월에 카미유를 미행하던 그 남자.
+Camille: (elle entre avec deux cafés ; elle s'arrête) Qui suivait qui ?
+(커피 두 잔을 들고 들어온다. 멈춘다) 누가 누구를 미행했다고?
+Julien: (il prend un café) Rien. (un silence) De l'histoire ancienne.
+(커피를 받는다) 아무것도 아니야. (침묵) 지난 일이야.
+Camille: (elle pose son café ; elle ne bouge pas) Julien. (un silence) Je travaillais au vingt-sixième étage. Je sais reconnaître quand quelqu'un me cache quelque chose.
+(커피를 내려놓는다. 움직이지 않는다) 쥘리앵. (침묵) 나 26층에서 일했어. 누가 뭘 숨기면 알아봐.
+Julien: (un silence) C'était Thomas. Au téléphone. (un silence) Il veut témoigner au procès. Contre Argos.
+(침묵) 토마였어. 전화로. (침묵) 재판에서 증언하고 싶대. 아르고스에 불리하게.
+Camille: (un long silence) Thomas. (un silence) Celui qui est parti en février avec une clé USB. Celui qui travaillait pour eux pendant qu'il travaillait avec nous.
+(긴 침묵) 토마. (침묵) 이월에 USB 들고 떠난 사람. 우리랑 일하면서 그 사람들을 위해 일한 사람.
+Aubry: Celui-là. (un silence) Il dit qu'il a gardé toutes les preuves. Et il dit que Dorval l'a recruté.
+그 사람. (침묵) 증거를 전부 보관했대. 그리고 도르발이 자기를 포섭했대.
+Camille: (elle s'assoit lentement) Dorval… (un silence) À Argos, il passait devant mon bureau tous les soirs. Il prenait des photos des écrans. Il me disait « bonsoir » en souriant.
+(천천히 앉는다) 도르발… (침묵) 아르고스에서 매일 저녁 내 책상 앞을 지나갔어. 화면 사진을 찍었지. 웃으면서 «안녕히 가세요»라고 했어.
+Julien: Je ne voulais pas que tu entendes ce nom. Pas aujourd'hui.
+네가 그 이름 듣는 게 싫었어. 오늘은.
+Camille: (elle le regarde) Je préfère l'entendre de toi. (un silence) Pas d'un policier. Pas d'un juge. De toi.
+(그를 본다) 너한테서 듣는 게 나아. (침묵) 경찰한테서 말고. 판사한테서 말고. 너한테서.
+Julien: (il hoche la tête) D'accord. (un silence) Plus de secrets.
+(고개를 끄덕인다) 알았어. (침묵) 이제 비밀은 없어.
+Marie: (lundi, onze heures ; Julien répond au téléphone ; on entend le vent et des mouettes) Julien ! (un silence) Je suis devant les archives de Bastia depuis huit heures et quart.
+(월요일 오전 열한 시. 쥘리앵이 전화를 받는다. 바람 소리와 갈매기 소리가 들린다) 쥘리앵! (침묵) 여덟 시 십오 분부터 바스티아 기록 보관소 앞에 있었어.
+Julien: (il sourit) Je sais, maman.
+(웃는다) 알아, 엄마.
+Marie: (excitée) La dame m'a aidée. Une gentille dame. Elle a trouvé le carton de la préfecture. 1997. (un silence) Il y a une copie de la lettre au jeune homme de Paris. Et il y a autre chose.
+(흥분해서) 직원분이 도와줬어. 친절한 분이야. 도청 상자를 찾아 줬어. 1997년. (침묵) 파리 젊은 남자한테 보낸 편지 사본이 있어. 그리고 다른 것도 있어.
+Julien: Quoi ?
+뭐?
+Marie: Un petit papier. Écrit à la main. Par le préfet, je crois. Agrafé à la copie. (un silence) « M. Saint-Clair a rappelé deux fois. Il insiste. »
+작은 종이. 손으로 쓴 거. 도지사가 쓴 것 같아. 사본에 스테이플러로 붙어 있었어. (침묵) «생클레르 씨가 두 번 다시 전화함. 강력히 요구함.»
+Julien: (un long silence) Il insiste.
+(긴 침묵) 강력히 요구함.
+Marie: J'ai fait une photo. Sans flash. (un silence) Et j'ai noté la cote. Comme la dame de Paris a dit.
+사진 찍었어. 플래시 없이. (침묵) 그리고 분류 번호도 적었어. 파리 그 직원분이 말한 대로.
+Julien: (ému) Maman… Tu es la meilleure documentaliste de France.
+(뭉클해서) 엄마… 엄마가 프랑스 최고의 자료 조사원이야.
+Marie: (fière) Je sais. (un silence) Maintenant, je vais manger. Il est onze heures et je n'ai rien mangé. À cause de toi.
+(뿌듯하게) 알아. (침묵) 이제 밥 먹을래. 열한 시인데 아무것도 못 먹었어. 너 때문에.
+Aubry: (il a écouté l'appel par-dessus l'épaule de Julien) « Il insiste. » (un silence) Ça, c'est un deuxième document. Indépendant du premier. Conservé par une autre administration.
+(쥘리앵 어깨 너머로 통화를 들었다) «강력히 요구함.» (침묵) 그건 두 번째 문서야. 첫 번째와 독립적인. 다른 행정 기관이 보관한.
+Julien: Une lettre à Paris. Un papier à Bastia. (un silence) Les deux disent la même chose.
+파리의 편지. 바스티아의 메모. (침묵) 둘 다 같은 말을 해요.
+Aubry: Et aucun des deux ne vient d'une fuite. Aucun des deux n'a été volé. (un silence) N'importe quel lecteur peut aller les voir. À Pierrefitte. À Bastia.
+그리고 둘 다 유출된 게 아니야. 둘 다 훔친 게 아니고. (침묵) 어떤 독자든 가서 볼 수 있어. 피에르피트에서. 바스티아에서.
+Hélène: (elle est arrivée derrière eux) Et ta mère a fait ça toute seule ? À soixante-dix ans ?
+(그들 뒤로 왔다) 그리고 어머님이 그걸 혼자 하셨어? 일흔 살에?
+Julien: (il sourit) Elle est arrivée avant l'ouverture. (un silence) Elle a dit bonjour à tout le monde. Et elle a demandé le carton.
+(웃는다) 문 열기 전에 가 계셨대요. (침묵) 모두한테 인사하고. 상자를 달라고 하셨대요.
+Hélène: (un petit rire) Il faut l'embaucher.
+(작게 웃는다) 채용해야겠네.
+Hélène: (mardi, dix-huit heures ; à la rédaction ; elle regarde son écran) Toujours pas de réponse de Saint-Clair. (un silence) Le délai finit lundi.
+(화요일 저녁 여섯 시. 편집국. 화면을 본다) 생클레르한테서 아직 답이 없어. (침묵) 기한은 월요일에 끝나.
+Julien: Il ne répondra pas. (un silence) Il n'a pas répondu à mon père.
+대답 안 할 거예요. (침묵) 우리 아빠한테도 대답 안 했어요.
+Hélène: Peut-être. (un silence) Rentre chez toi, Julien. Tu travailles depuis six heures du matin. (un silence) C'est un ordre.
+그럴지도. (침묵) 집에 가, 쥘리앵. 아침 여섯 시부터 일했잖아. (침묵) 명령이야.
+Camille: (elle prend son sac) Je viens avec toi. (un silence) Je fais des pâtes. Pas beaucoup trop. Juste trop.
+(가방을 든다) 같이 갈게. (침묵) 파스타 할게. 엄청 많이는 말고. 그냥 많이.
+Julien: (mardi, vingt-deux heures ; dans l'escalier de son immeuble, rue de Belleville ; il monte au cinquième étage avec Camille ; il s'arrête sur le palier) Attends.
+(화요일 밤 열 시. 벨빌 거리 그의 건물 계단. 카미유와 함께 오층으로 올라간다. 층계참에서 멈춘다) 잠깐.
+Camille: Quoi ?
+왜?
+Julien: (il regarde sa porte ; elle est entrouverte ; le bois est abîmé près de la serrure) La porte. (un silence) Je l'ai fermée à clé ce matin.
+(자기 집 문을 본다. 살짝 열려 있다. 자물쇠 근처 나무가 망가져 있다) 문. (침묵) 오늘 아침에 잠그고 나갔어.
+Camille: (elle lui prend le bras ; elle chuchote) On a forcé la porte.
+(그의 팔을 잡는다. 속삭인다) 누가 문을 따고 들어왔어.
+Julien: (il pousse doucement la porte ; à voix haute) Qui est là ?
+(문을 살짝 민다. 큰 소리로) 거기 누구야?
+Camille: (un silence ; rien ; seulement le bruit d'un frigo ; elle tremble) Julien… N'entre pas. (un silence) S'il y a encore quelqu'un…
+(침묵. 아무것도 없다. 냉장고 소리뿐. 그녀가 떤다) 쥘리앵… 들어가지 마. (침묵) 아직 누가 있으면…
+Julien: (il allume la lumière depuis la porte ; il regarde ; un long silence) Il n'y a personne.
+(문간에서 불을 켠다. 둘러본다. 긴 침묵) 아무도 없어.
+Camille: (elle regarde par-dessus son épaule ; elle porte la main à sa bouche) Oh non…
+(그의 어깨 너머로 본다. 손으로 입을 가린다) 아, 안 돼…
+Julien: (le studio est en désordre : les tiroirs ouverts, les livres par terre, le matelas retourné, les papiers partout ; il ne bouge pas) Ils ont tout ouvert. (un silence) Tout.
+(원룸이 엉망이다. 열린 서랍들, 바닥에 떨어진 책들, 뒤집힌 매트리스, 사방에 흩어진 종이들. 그는 움직이지 않는다) 전부 열었어. (침묵) 전부.
+Camille: (elle fait un pas vers l'intérieur) Ton ordinateur ? Ta télé ?
+(안쪽으로 한 발 내딛는다) 네 컴퓨터는? 텔레비전은?
+Julien: (il tend le bras pour l'arrêter) Ne touche à rien. (un silence) Rien. La police doit tout voir comme ça.
+(팔을 뻗어 그녀를 막는다) 아무것도 만지지 마. (침묵) 아무것도. 경찰이 이대로 다 봐야 해.
+Camille: (elle recule) D'accord. (un silence) D'accord.
+(뒤로 물러선다) 알았어. (침묵) 알았어.
+Julien: (il regarde depuis la porte ; il parle lentement, comme pour faire une liste) L'ordinateur est là. Sur le bureau. (un silence) La télé est là. (un silence) Le vélo est là.
+(문간에서 본다. 목록을 만들듯 천천히 말한다) 컴퓨터는 있어. 책상 위에. (침묵) 텔레비전도 있고. (침묵) 자전거도 있어.
+Camille: Ils n'ont rien pris ?
+아무것도 안 가져갔어?
+Julien: (un silence) Ce n'étaient pas des voleurs. (un silence) Ils cherchaient quelque chose.
+(침묵) 도둑이 아니었어. (침묵) 뭔가를 찾고 있었던 거야.
+Camille: (à voix très basse) Les carnets.
+(아주 낮은 목소리로) 수첩.
+Julien: (il hoche la tête) Les carnets sont dans le coffre de la rédaction. Depuis samedi. (un silence) Aubry a insisté. « Pas chez vous. Jamais chez vous. »
+(고개를 끄덕인다) 수첩은 편집국 금고에 있어. 토요일부터. (침묵) 오브리가 고집했지. «당신 집엔 안 돼요. 절대 집엔 안 돼요.»
+Camille: (elle ferme les yeux) Merci, Aubry.
+(눈을 감는다) 고마워요, 오브리.
+Julien: (il s'arrête ; il regarde la petite table près de la fenêtre ; il pâlit) Camille. (un silence) Regarde la table.
+(멈춘다. 창가의 작은 탁자를 본다. 창백해진다) 카미유. (침묵) 탁자 봐.
+Camille: (elle regarde ; sur la table, au milieu du désordre, une seule chose est bien rangée : un cadre photo, posé face contre la table ; à côté, une vieille page de journal, jaunie, pliée en quatre) Qu'est-ce que c'est ?
+(본다. 엉망인 와중에 탁자 위에 딱 하나만 가지런히 놓여 있다. 엎어 놓은 사진 액자. 그 옆에 넷으로 접힌 누렇게 바랜 신문 한 장) 저게 뭐야?
+Julien: (sa voix tremble) La photo de mon père. (un silence) Elle était sur l'étagère. Quelqu'un l'a mise là. Face contre la table.
+(목소리가 떨린다) 우리 아빠 사진. (침묵) 선반 위에 있었어. 누가 저기 갖다 놨어. 엎어서.
+Camille: Et le journal ?
+그럼 신문은?
+Julien: (il ne touche pas ; il se penche ; il lit le titre à voix basse) « Accident mortel sur la route de Corte. Un journaliste bastiais perd la vie. » (un silence) Novembre 2003.
+(만지지 않는다. 몸을 숙인다. 낮은 목소리로 제목을 읽는다) «코르트 도로에서 사망 사고. 바스티아 기자 숨져.» (침묵) 2003년 11월.
+Camille: (un long silence ; elle prend sa main ; sa main est glacée) Ce n'est pas un cambriolage. (un silence) C'est un message.
+(긴 침묵. 그의 손을 잡는다. 손이 얼음장 같다) 이건 도둑질이 아니야. (침묵) 메시지야.
+Julien: (il ne répond pas ; il regarde le cadre retourné)
+(대답하지 않는다. 엎어진 액자를 본다)
+Camille: (elle sort son téléphone) J'appelle la police. (un silence) Et Hélène. Et Aubry.
+(휴대폰을 꺼낸다) 경찰 부를게. (침묵) 그리고 엘렌이랑. 오브리도.
+Bakary: (il monte l'escalier en courant, en pantoufles ; le gardien de l'immeuble, grand, en tee-shirt) Monsieur Julien ? (un silence) J'ai entendu madame crier. Ça va ?
+(실내화 차림으로 계단을 뛰어 올라온다. 키가 큰 건물 관리인, 티셔츠 차림) 쥘리앵 씨? (침묵) 아가씨가 소리 지르는 걸 들었어요. 괜찮아요?
+Julien: On a forcé ma porte, Bakary.
+누가 우리 집 문을 땄어요, 바카리.
+Bakary: (il regarde la porte ; il se tait ; puis il se frappe le front) Les deux hommes ! (un silence) Cet après-midi. Vers trois heures. Deux hommes avec des gilets orange. Ils ont dit : « Contrôle du gaz. »
+(문을 본다. 말이 없다. 그러다 이마를 친다) 그 두 남자! (침묵) 오늘 오후. 세 시쯤. 주황색 조끼 입은 남자 둘. «가스 점검»이라고 했어요.
+Camille: Vous les avez vus ?
+그 사람들을 보셨어요?
+Bakary: Je leur ai ouvert la porte de l'immeuble ! (un silence ; il secoue la tête) Ils avaient des badges. Une mallette. Ils étaient polis. (un silence) Je suis désolé, monsieur Julien. Vraiment désolé.
+제가 건물 문을 열어 줬어요! (침묵. 고개를 젓는다) 배지도 있었고. 가방도 있었고. 예의 발랐어요. (침묵) 죄송해요, 쥘리앵 씨. 정말 죄송해요.
+Julien: (il pose la main sur son épaule) Ce n'est pas votre faute, Bakary. (un silence) Vous pourriez les reconnaître ?
+(그의 어깨에 손을 얹는다) 바카리 잘못이 아니에요. (침묵) 그 사람들 알아볼 수 있겠어요?
+Bakary: Le grand, oui. (un silence) Il avait une cicatrice. Là. (il montre son menton)
+키 큰 사람은요, 네. (침묵) 흉터가 있었어요. 여기. (자기 턱을 가리킨다)
+Camille: (elle devient toute blanche ; un long silence) Dorval.
+(새하얗게 질린다. 긴 침묵) 도르발.
+Hélène: (vingt-deux heures quarante ; elle monte l'escalier en courant, Aubry derrière elle, essoufflé) Julien ! (un silence ; elle le serre dans ses bras, très fort) Tu n'es pas blessé ?
+(밤 열 시 사십 분. 계단을 뛰어 올라온다. 뒤에서 오브리가 숨을 헐떡인다) 쥘리앵! (침묵. 아주 꽉 안는다) 다친 데 없어?
+Julien: Non. (un silence) Je n'étais pas là. C'est ça qu'ils voulaient. Que je ne sois pas là. Et que je trouve en rentrant.
+아니요. (침묵) 전 없었어요. 그게 그 사람들이 원한 거예요. 내가 없는 거. 그리고 돌아와서 발견하는 거.
+Aubry: (il regarde depuis le palier, sans entrer ; il voit le cadre retourné, la page de journal) Personne n'a touché à rien ?
+(들어가지 않고 층계참에서 본다. 엎어진 액자, 신문을 본다) 아무도 아무것도 안 만졌죠?
+Camille: Rien. (un silence) Julien me l'a interdit.
+아무것도요. (침묵) 쥘리앵이 못 하게 했어요.
+Aubry: (il hoche la tête) Bien. (un silence) Demain, la plainte. Avec moi. (un silence) Et ce soir, monsieur Marchetti, vous ne dormez pas ici.
+(고개를 끄덕인다) 좋아. (침묵) 내일 고소장. 나랑 같이. (침묵) 그리고 오늘 밤은, 마르케티 씨, 여기서 자면 안 돼요.
+Hélène: (elle regarde la page de journal ; son visage se ferme) Ils ont lu ses carnets avant nous ? (un silence) Comment ils savent ?
+(신문을 본다. 얼굴이 굳는다) 그 사람들이 우리보다 먼저 수첩을 읽었나? (침묵) 어떻게 알았지?
+Julien: Ils n'ont pas besoin des carnets. (un silence) La mort de mon père, c'était dans le journal. En 2003. (un silence) Ils ont seulement cherché. Comme nous, aux archives.
+수첩이 필요 없어요. (침묵) 우리 아빠 죽음은 신문에 났어요. 2003년에. (침묵) 그냥 찾아본 거예요. 우리가 기록 보관소에서 한 것처럼.
+Aubry: (froidement) Les mêmes archives. (un silence) Mais pas pour la même raison.
+(차갑게) 같은 기록. (침묵) 하지만 같은 이유는 아니지.
+Policière: (vingt-trois heures ; deux policiers sont arrivés ; une jeune femme en uniforme prend des photos du studio) Vous êtes journaliste, c'est ça ? (un silence) Le Phare ? (un silence) Ma mère a donné vingt euros ce week-end.
+(밤 열한 시. 경찰 두 명이 도착했다. 제복 입은 젊은 여자가 원룸 사진을 찍는다) 기자시죠? (침묵) 르 파르? (침묵) 저희 엄마가 이번 주말에 이십 유로 냈어요.
+Julien: (surpris, un petit sourire fatigué) Remerciez-la pour nous.
+(놀라서, 지친 얼굴로 작게 웃는다) 저희 대신 감사하다고 전해 주세요.
+Policière: (elle reprend son sérieux) On va relever les empreintes sur la porte et sur le cadre. (un silence) Demain matin, vous venez au commissariat porter plainte. Avec la liste de ce qui a été touché.
+(다시 진지해진다) 문이랑 액자에서 지문을 채취할게요. (침묵) 내일 아침에 경찰서에 와서 고소장 내세요. 손댄 물건 목록 가지고요.
+Camille: Et cette nuit ? (un silence) Il ne peut pas dormir ici.
+그럼 오늘 밤은요? (침묵) 여기서 잘 수 없잖아요.
+Policière: Non. (un silence) Vous avez un autre endroit ?
+안 되죠. (침묵) 다른 데 있으세요?
+Camille: (sans hésiter) Chez moi. Aux Batignolles. (un silence) Il vient chez moi.
+(망설임 없이) 우리 집이요. 바티뇰. (침묵) 우리 집으로 와요.
+Julien: (il regarde le cadre, la photo de son père, que la policière a mise dans un sachet en plastique) Je peux la garder ? Après ?
+(경찰이 비닐봉지에 넣은 액자, 아버지 사진을 본다) 나중에 돌려받을 수 있어요?
+Policière: (doucement) Après les empreintes, oui. (un silence) Dans quelques jours. Je vous le promets.
+(부드럽게) 지문 채취 끝나면요, 네. (침묵) 며칠 뒤에요. 약속할게요.
+Camille: (mercredi, une heure du matin ; dans son petit studio des Batignolles ; un canapé-lit, des livres en piles, une plante ; elle pose une tasse de tisane devant Julien) Bois. (un silence) C'est de la verveine. Ma grand-mère disait que ça calme.
+(수요일 새벽 한 시. 바티뇰의 작은 원룸. 소파 베드, 쌓아 올린 책들, 화분 하나. 쥘리앵 앞에 허브차 한 잔을 놓는다) 마셔. (침묵) 버베나야. 할머니가 마음을 가라앉혀 준다고 하셨어.
+Julien: (il tient la tasse sans boire) Ils sont entrés chez moi. (un silence) Ils ont touché mes livres. Mes vêtements. Mon lit.
+(마시지 않고 잔을 든다) 그 사람들이 우리 집에 들어왔어. (침묵) 내 책을 만졌어. 내 옷을. 내 침대를.
+Camille: Je sais.
+알아.
+Julien: Et ils ont pris la photo de mon père. (un silence) Ils l'ont retournée. (un silence) Comme pour dire : « On sait. On sait qui il était. On sait comment il est mort. »
+그리고 우리 아빠 사진을 집었어. (침묵) 뒤집어 놨어. (침묵) 이렇게 말하는 것처럼. «우린 안다. 그가 누구였는지 안다. 그가 어떻게 죽었는지 안다.»
+Camille: (elle s'assoit à côté de lui) Ou comme pour dire : « Tu vas finir comme lui. »
+(그의 옆에 앉는다) 아니면 이렇게 말하는 것처럼. «너도 그처럼 될 거다.»
+Julien: (un long silence) Oui. (un silence) C'est ça qu'ils veulent dire.
+(긴 침묵) 응. (침묵) 그게 그 사람들이 하려는 말이야.
+Camille: (elle prend la tasse de ses mains et la pose ; elle le regarde droit dans les yeux) Julien. (un silence) J'ai peur.
+(그의 손에서 잔을 받아 내려놓는다. 그의 눈을 똑바로 본다) 쥘리앵. (침묵) 나 무서워.
+Julien: (un petit sourire triste) Moi aussi. (un silence) Ma mère t'a appris à dire ça.
+(슬프게 작게 웃는다) 나도. (침묵) 우리 엄마가 그 말 가르쳐 줬지.
+Camille: Non. (un silence) Cette fois, c'est vrai. Ce n'est pas une leçon. (un silence) J'ai vraiment peur. Pour toi.
+아니. (침묵) 이번엔 진짜야. 배운 대로 하는 게 아니야. (침묵) 진짜 무서워. 너 때문에.
+Julien: (il prend son visage dans ses mains) Camille…
+(그녀의 얼굴을 두 손으로 감싼다) 카미유…
+Camille: (les larmes aux yeux) En février, Dorval me suivait. Jusqu'à cette porte. (un silence) Maintenant, il entre chez toi. (un silence) La prochaine fois, il fait quoi ?
+(눈물을 글썽이며) 이월에 도르발이 날 미행했어. 바로 이 문까지. (침묵) 이제는 너희 집에 들어가. (침묵) 다음엔 뭘 할까?
+Julien: (un long silence) Tu veux que j'arrête ?
+(긴 침묵) 내가 그만뒀으면 좋겠어?
+Camille: (elle le regarde longtemps ; puis elle secoue la tête) Non. (un silence) Je veux que tu dormes ici. Ce soir. Demain. Après-demain. (un silence) Jusqu'à ce que ce soit fini.
+(그를 오래 본다. 그러고는 고개를 젓는다) 아니. (침묵) 여기서 잤으면 좋겠어. 오늘 밤. 내일. 모레. (침묵) 이게 끝날 때까지.
+Julien: Ton studio est tout petit.
+네 원룸 엄청 작잖아.
+Camille: (elle rit à travers ses larmes) Ton studio n'existe plus. Il a été visité. (un silence) Le mien, personne n'y entre. Sauf toi.
+(눈물 너머로 웃는다) 네 원룸은 이제 없어. 털렸잖아. (침묵) 우리 집엔 아무도 못 들어와. 너 빼고.
+Julien: (un silence ; il la prend dans ses bras) D'accord. (un silence) Jusqu'à ce que ce soit fini.
+(침묵. 그녀를 안는다) 알았어. (침묵) 이게 끝날 때까지.
+Camille: (mercredi, sept heures ; elle se réveille ; Julien est assis à la petite table, un crayon à la main, une feuille devant lui) Tu n'as pas dormi.
+(수요일 오전 일곱 시. 깨어난다. 쥘리앵이 작은 탁자에 앉아 연필을 들고 종이를 앞에 두고 있다) 안 잤구나.
+Julien: Deux heures. (un silence) Après, j'ai fait une liste.
+두 시간. (침묵) 그다음엔 목록을 만들었어.
+Camille: Une liste de quoi ?
+무슨 목록?
+Julien: (il lit) « Ce qu'ils ont touché. » Les tiroirs. Les livres. Le matelas. La photo. (un silence) Et en bas : « Ce qu'ils n'ont pas touché. » Mon courage.
+(읽는다) «그들이 만진 것.» 서랍. 책. 매트리스. 사진. (침묵) 그리고 맨 아래. «그들이 만지지 못한 것.» 내 용기.
+Camille: (elle se lève, vient derrière lui, pose le menton sur son épaule) C'est un peu prétentieux, non ?
+(일어나 그의 뒤로 와서 어깨에 턱을 올린다) 좀 잘난 척 아니야?
+Julien: (un petit sourire) Je l'efface avant d'aller au commissariat. (un silence) Le policier va croire que je suis poète.
+(작게 웃으며) 경찰서 가기 전에 지울게. (침묵) 경찰이 나 시인인 줄 알겠다.
+Policier: (mercredi, neuf heures ; commissariat du vingtième ; un homme d'une cinquantaine d'années tape la plainte à l'ordinateur) Rien n'a été volé ? (un silence) Rien du tout ?
+(수요일 오전 아홉 시. 20구 경찰서. 오십 대 남자가 컴퓨터로 고소장을 작성한다) 도난당한 건 없다고요? (침묵) 하나도요?
+Julien: Rien. (un silence) Ils ont seulement déplacé une photo. Et laissé un vieil article.
+없어요. (침묵) 사진 하나만 옮겨 놨어요. 그리고 오래된 기사 하나를 두고 갔고요.
+Policier: (il arrête de taper ; il regarde Julien) Monsieur Marchetti. (un silence) Je fais ce métier depuis vingt-six ans. (un silence) Quand des cambrioleurs ne volent rien, ce n'est pas parce qu'ils sont gentils.
+(타이핑을 멈춘다. 쥘리앵을 본다) 마르케티 씨. (침묵) 이 일 이십육 년 했어요. (침묵) 도둑이 아무것도 안 훔칠 땐, 착해서 그런 게 아니에요.
+Julien: Je sais.
+알아요.
+Policier: (il reprend la frappe) « Intimidation. » (un silence) Je l'écris comme ça. Et j'ajoute : « Le gardien a décrit un homme avec une cicatrice au menton. »
+(다시 타이핑한다) «협박.» (침묵) 이렇게 쓸게요. 그리고 덧붙이죠. «관리인이 턱에 흉터가 있는 남자를 묘사함.»
+Aubry: (assis à côté de Julien, en costume, sa sacoche sur les genoux) Et vous ajoutez, s'il vous plaît, que le restaurant d'en face a une caméra sur la rue. (un silence) Madame Chen. Restaurant « Le Jardin de Jade ». Elle garde les images sept jours.
+(쥘리앵 옆에 정장 차림으로 가방을 무릎에 올려놓고 앉아 있다) 그리고 맞은편 식당에 길 쪽 카메라가 있다는 것도 덧붙여 주세요. (침묵) 첸 부인. 식당 «비취 정원». 영상을 칠 일 보관해요.
+Policier: (il lève les yeux) Vous avez déjà regardé les images, maître ?
+(눈을 든다) 영상을 벌써 보셨어요, 변호사님?
+Aubry: (calmement) Non. (un silence) Ce n'est pas mon rôle. C'est le vôtre. Avec une réquisition. (un silence) Moi, je vous dis seulement qu'elles existent. Et qu'elles disparaissent lundi.
+(침착하게) 아니요. (침묵) 그건 제 역할이 아니에요. 당신 역할이죠. 영상 제출 요구서를 가지고. (침묵) 저는 그게 존재한다고만 말씀드리는 거예요. 그리고 월요일에 사라진다는 것도.
+Policier: (il note ; un petit sourire) Vous êtes un avocat rare, maître. (un silence) La plupart veulent faire notre travail à notre place.
+(적는다. 작게 웃는다) 드문 변호사시네요. (침묵) 대부분은 우리 일을 대신하려고 하거든요.
+Aubry: La plupart ne sont pas jugés en septembre devant un tribunal qui demandera d'où viennent leurs preuves.
+대부분은 구월에 증거가 어디서 났는지 묻는 법정에 서지 않으니까요.
+Hélène: (mercredi, onze heures ; à la rédaction ; toute l'équipe est réunie ; elle parle lentement) On a forcé la porte de Julien hier. (un silence) Rien n'a été volé. On a laissé un article sur la mort de son père.
+(수요일 오전 열한 시. 편집국. 팀 전원이 모였다. 천천히 말한다) 어제 누가 쥘리앵 집 문을 땄어. (침묵) 도난당한 건 없어. 그의 아버지 죽음에 관한 기사를 두고 갔어.
+Léa: (elle est revenue du Jura ce matin ; elle a encore de la boue sur ses chaussures ; elle pâlit) Non…
+(오늘 아침 쥐라에서 돌아왔다. 신발에 아직 진흙이 묻어 있다. 창백해진다) 안 돼…
+Hélène: (un silence) Je vais dire une chose. Une seule fois. (un silence) Si quelqu'un veut prendre des vacances, maintenant, en août, loin de Paris… je comprendrai. Sans questions. Sans reproches.
+(침묵) 한 가지만 말할게. 딱 한 번만. (침묵) 누구든 지금, 팔월에, 파리에서 멀리 휴가를 가고 싶으면… 이해할게. 아무것도 묻지 않고. 탓하지도 않고.
+Karim: (immédiatement) Je ne pars pas.
+(즉시) 난 안 가요.
+Mira: (calmement) Je ne pars pas. (un silence) J'ai déjà fui une fois. C'est assez pour une vie.
+(차분하게) 난 안 가요. (침묵) 이미 한 번 도망쳤어요. 평생 한 번이면 충분해요.
+Léa: (elle essuie ses chaussures sur le tapis) Je viens de rentrer. (un silence) Je ne pars pas.
+(매트에 신발을 닦는다) 방금 돌아왔어요. (침묵) 안 가요.
+Gilles: (il soupire) Moi, je suis trop vieux pour partir. (un silence) Et trop têtu.
+(한숨 쉰다) 난 떠나기엔 너무 늙었어. (침묵) 그리고 너무 고집이 세고.
+Camille: (elle regarde Julien) On ne part pas.
+(쥘리앵을 본다) 우린 안 가요.
+Julien: (il se lève ; un long silence) Merci. (un silence) Ils ont retourné la photo de mon père. (un silence) Lundi, je vais lui demander pourquoi. En face.
+(일어선다. 긴 침묵) 고마워요. (침묵) 그 사람들이 우리 아빠 사진을 뒤집어 놨어요. (침묵) 월요일에 그 사람한테 이유를 물어볼 거예요. 얼굴을 보고.
+Hélène: À qui ?
+누구한테?
+Julien: (il montre son téléphone ; un mail est arrivé il y a dix minutes) Le secrétariat d'Édouard Saint-Clair. (un silence) « M. Saint-Clair a bien reçu votre courrier. Il accepte de vous recevoir. Lundi vingt-sept juillet, seize heures. Avenue Foch. »
+(휴대폰을 보여 준다. 십 분 전에 메일이 왔다) 에두아르 생클레르 비서실. (침묵) «생클레르 씨께서 귀하의 서신을 잘 받으셨습니다. 귀하를 만나기로 하셨습니다. 7월 27일 월요일 오후 네 시. 포슈 대로.»
+Aubry: (un long silence) Le jour où le délai finit. (un silence) Il a choisi la date. Il a choisi l'heure. Il a choisi le lieu.
+(긴 침묵) 기한이 끝나는 날. (침묵) 날짜도 그 사람이 정했고. 시간도 정했고. 장소도 정했어.
+Julien: (il range son téléphone) Et moi, je choisis les questions.
+(휴대폰을 집어넣는다) 그리고 질문은 내가 정해요.
+Gilles: (inquiet) Seul ? Avenue Foch ? Chez l'homme qui fait retourner les photos ?
+(걱정스럽게) 혼자? 포슈 대로? 사진을 뒤집게 시키는 남자 집에?
+Aubry: Pas seul. (un silence) Je viens avec lui. Je ne parlerai pas. Je prendrai des notes.
+혼자가 아니야. (침묵) 내가 같이 가. 말은 안 할 거야. 메모만 할 거야.
+Léa: Et l'enregistrement ? (un silence) On a le droit d'enregistrer une interview ?
+그럼 녹음은요? (침묵) 인터뷰를 녹음해도 돼요?
+Aubry: Si on le dit au début. À voix haute. (un silence) « Monsieur Saint-Clair, cet entretien est enregistré. » S'il refuse, on prend des notes. S'il accepte, on enregistre.
+처음에 말하면. 큰 소리로. (침묵) «생클레르 씨, 이 인터뷰는 녹음됩니다.» 거절하면 메모하고. 수락하면 녹음해.
+Julien: (il regarde le coffre-fort au fond de la salle, où sont les carnets) Mon père avait un magnétophone. Un vieux. À cassettes. (un silence) Ma mère l'a mis dans le sac avec les carnets.
+(사무실 안쪽, 수첩이 든 금고를 본다) 우리 아빠한테 녹음기가 있었어요. 오래된 거. 카세트. (침묵) 엄마가 수첩이랑 같이 가방에 넣어 주셨어요.
+Hélène: (un long silence) Alors lundi, Ange vient avec toi.
+(긴 침묵) 그럼 월요일엔 앙주도 너랑 같이 가는 거네.
+Camille: (mercredi soir ; aux Batignolles ; elle pose une deuxième brosse à dents dans le verre de la salle de bain, à côté de la sienne ; elle la regarde longtemps) Bon. (un silence) Voilà.
+(수요일 저녁. 바티뇰. 욕실 컵에 자기 칫솔 옆에 두 번째 칫솔을 꽂는다. 그걸 오래 바라본다) 자. (침묵) 됐다.
+Julien: (depuis le canapé-lit) Qu'est-ce que tu fais ?
+(소파 베드에서) 뭐 해?
+Camille: (elle sort de la salle de bain) Je fais de la place. (un silence) Jusqu'à ce que ce soit fini.
+(욕실에서 나온다) 자리 만드는 중. (침묵) 이게 끝날 때까지.
+Julien: (un petit sourire) Et après ?
+(작게 웃으며) 그다음엔?
+Camille: (elle éteint la lumière) Après, on verra. (un silence) Dors. Lundi, tu as un rendez-vous avenue Foch.
+(불을 끈다) 그다음은 그때 보자. (침묵) 자. 월요일에 포슈 대로에서 약속 있잖아.
+
+## 주요 단어
+la menace | 라 므나스 | 위협 (B1)
+forcer une porte | 포르세 윈 뽀르뜨 | 문을 강제로 열다 (B1)
+la serrure | 라 쎄뤼르 | 자물쇠 (A2)
+entrouvert(e) | 앙트루베르 | 살짝 열린 (B2)
+le palier | 르 빨리에 | 층계참 (B1)
+le tiroir | 르 띠루아르 | 서랍 (A2)
+le cadre | 르 까드르 | 액자 (A2)
+le cambriolage | 르 깡브리올라주 | 빈집털이, 절도 (B1)
+le gardien / la gardienne | 르 가르디앵 | (건물) 관리인 (A2)
+le gilet | 르 질레 | 조끼 (A2)
+la cicatrice | 라 시까트리스 | 흉터 (B1)
+les empreintes (f.) | 레 장프랭뜨 | 지문 (B1)
+porter plainte | 뽀르떼 쁠랭뜨 | 고소하다, 신고하다 (A2)
+le commissariat | 르 꼬미사리아 | 경찰서 (A2)
+la tisane | 라 띠잔 | 허브차 (A2)
+l'intimidation (f.) | 랭띠미다시옹 | 협박, 위협 (B2)
+la réquisition | 라 레끼지시옹 | (수사기관의) 제출 요구 (C1)
+le disque dur | 르 디스끄 뒤르 | 하드 디스크 (A2)
+
+## 문법·표현 정리
+**On a forcé la porte (A2):** on = 막연한 주어 "누군가". 범인을 모를 때. On a volé mon vélo.
+**Ne touche à rien (A2):** 부정 명령법. toucher à + 물건. N'entre pas. / Ne bouge pas.
+**Je ne pars pas (A2):** 현재형으로 강한 결심. ≈ Je ne vais pas partir.
+**Qui est là ? (A2):** 문 앞·어둠 속에서 하는 질문. 대답: C'est moi.
+**être 조동사 복합과거 (A2):** Ils sont entrés chez moi. / Elle est revenue du Jura. / Il est mort.
+**ne… rien / ne… personne (A2):** Ils n'ont rien pris. / Il n'y a personne. / Rien n'a été volé.
+**rien du tout (A2):** 전혀 아무것도. 강조.
+**jusqu'à ce que + 접속법 (B2):** Jusqu'à ce que ce soit fini. "끝날 때까지".
+**venir de + 동사원형 (A2):** 가까운 과거. Je viens de rentrer.
+**faire la liste / comme pour dire (B1):** comme pour dire « On sait » = "~라고 말하려는 듯이".
+**depuis + 기간 (A2):** Je fais ce métier depuis vingt-six ans. / depuis huit heures et quart.
+**à cause de / grâce à (A2):** à cause de toi (부정적) ↔ grâce à toi (긍정적).
+**Après, on verra (A2):** 그다음은 그때 보자. voir의 단순미래.
