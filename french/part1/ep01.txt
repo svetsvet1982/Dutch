@@ -1,0 +1,341 @@
+# 1부 1화. La rentrée (첫 출근)
+수준: A2~C1 혼합 (중심 B1) | 장소: 카페 «Le Zinc»·편집국 «Le Phare» | 시간: 9월 첫 월요일, 아침~저녁
+핵심 표현: Je vous présente… · On se tutoie ? · C'est quoi, ce dossier ? · On vérifie.
+
+## 대화
+Serveur: Bonjour, madame ! Qu'est-ce que je vous sers ?
+안녕하세요, 손님! 뭘 드릴까요?
+Léa: Bonjour ! Un café, s'il vous plaît. Un petit café.
+안녕하세요! 커피 한 잔 주세요. 작은 걸로요.
+Serveur: Un expresso, tout de suite. Vous êtes nouvelle dans le quartier ?
+에스프레소 한 잔, 바로 드릴게요. 이 동네는 처음이세요?
+Léa: Oui, c'est mon premier jour. Je commence au journal, juste au-dessus.
+네, 오늘이 첫날이에요. 바로 위층 신문사에서 일을 시작해요.
+Serveur: Au Phare ? Ah, ce sont des clients fidèles ! Ils boivent beaucoup de café.
+〈Le Phare〉요? 아, 그 사람들 단골이에요! 커피를 엄청 마시죠.
+Karim: (en entrant) Salut, Momo ! Comme d'habitude, s'il te plaît. Un double et un croissant.
+(들어오며) 안녕, 모모! 늘 먹던 걸로 부탁해. 더블 하나랑 크루아상 하나.
+Serveur: Salut, Karim. Tiens, justement, la jeune femme commence chez vous aujourd'hui.
+안녕, 카림. 마침 잘 왔네, 이 아가씨가 오늘부터 너희 회사에서 일한대.
+Karim: C'est vrai ? Tu es la nouvelle stagiaire ? Léa, c'est ça ?
+정말? 네가 새로 온 인턴이야? 레아, 맞지?
+Léa: Oui, Léa Morel. Bonjour… Vous travaillez au Phare ?
+네, 레아 모렐이에요. 안녕하세요… 〈Le Phare〉에서 일하세요?
+Karim: Ouais, Karim Benali, je m'occupe des données. Et ici, on ne dit pas « vous », hein. Enfin, pas entre nous.
+응, 카림 벤알리야, 데이터 담당이고. 그리고 여기선 «vous» 안 써. 적어도 우리끼리는.
+Léa: D'accord… Alors, tu travailles là depuis longtemps ?
+알겠어요… 아니, 알겠어. 그럼 거기서 일한 지 오래됐어?
+Karim: Depuis trois ans. Depuis la création de la cellule d'enquête, en fait.
+3년 됐어. 사실 탐사팀이 생겼을 때부터야.
+Léa: La cellule d'enquête ? C'est l'équipe de Julien Marchetti, non ?
+탐사팀? 쥘리앵 마르케티 팀 맞지?
+Karim: Exactement. Tu le connais ?
+맞아. 그 사람 알아?
+Léa: J'ai lu tous ses articles à l'école de journalisme. Il est… impressionnant.
+언론대학원 다닐 때 그 사람 기사는 다 읽었어. 정말… 대단한 사람이야.
+Karim: (rit) Ne lui dis surtout pas ça. Il va prendre la grosse tête. Allez, finis ton café, la conférence de rédaction commence à neuf heures.
+(웃으며) 그 말은 절대 하지 마. 잘난 척할 거야. 자, 커피 마셔. 편집회의가 아홉 시에 시작해.
+Léa: La conférence de rédaction ? C'est une réunion ?
+편집회의? 그게 회의야?
+Karim: C'est LA réunion. Tous les lundis, on décide des sujets de la semaine. Tu verras, c'est parfois un peu… animé.
+가장 중요한 회의지. 매주 월요일에 그 주에 다룰 주제를 정해. 보면 알겠지만, 가끔 좀… 시끄러워.
+Serveur: Voilà, un expresso et un double. Ça fait quatre euros quarante.
+여기 에스프레소 하나랑 더블 하나요. 4유로 40센트입니다.
+Karim: Laisse, c'est pour moi. Bienvenue au Phare, Léa.
+놔둬, 내가 낼게. 〈Le Phare〉에 온 걸 환영해, 레아.
+Léa: Merci ! Oh, c'est grand ici. Il y a des journaux partout !
+고마워! 와, 여기 넓다. 사방에 신문이 있네!
+Karim: C'était une imprimerie, avant. Hélène a gardé les vieilles machines. Regarde, là-bas, au fond.
+예전엔 인쇄소였어. 엘렌이 옛날 기계들을 그대로 뒀어. 저기 안쪽 봐.
+Julien: (sans lever les yeux de son écran) Karim, tu as les chiffres de la préfecture ?
+(화면에서 눈을 떼지 않고) 카림, 경찰청 수치 받았어?
+Karim: Bonjour à toi aussi, Julien. Je te présente Léa, notre stagiaire.
+너도 안녕, 쥘리앵. 레아야, 우리 인턴.
+Julien: (il se lève) Ah, oui. Pardon. Bonjour, Léa. Julien Marchetti. Bienvenue.
+(일어나며) 아, 맞다. 미안해요. 안녕하세요, 레아. 쥘리앵 마르케티예요. 환영해요.
+Léa: Bonjour, monsieur Marchetti. Je suis très contente d'être ici.
+안녕하세요, 마르케티 씨. 여기 오게 돼서 정말 기뻐요.
+Julien: « Monsieur Marchetti »… On se tutoie ? Ici, tout le monde se tutoie, sauf avec Maître Aubry.
+«마르케티 씨»라니… 말 놓을까? 여기선 다들 말을 놓아. 오브리 변호사님만 빼고.
+Léa: Maître Aubry ?
+오브리 변호사님?
+Julien: Notre avocat. Il a soixante-deux ans, il porte des cravates en soie et il dit « vous » même à son chat.
+우리 변호사. 예순두 살이고, 실크 넥타이를 매고, 자기 고양이한테도 «vous»라고 해.
+Karim: Et il a toujours raison. C'est ça, le pire.
+그리고 그분 말이 늘 맞아. 그게 제일 짜증 나지.
+Léa: D'accord. Alors… bonjour, Julien. On se tutoie.
+알겠어. 그럼… 안녕, 쥘리앵. 말 놓을게.
+Julien: Parfait. Tu as fait quelle école ?
+좋아. 어느 학교 나왔어?
+Léa: L'école de journalisme de Lille. J'ai fini en juin. Avant, j'ai fait une licence d'histoire à Lyon.
+릴에 있는 언론대학원. 6월에 졸업했어. 그 전에는 리옹에서 역사학 학사를 했고.
+Julien: Lyon… Tu es lyonnaise ?
+리옹… 리옹 사람이야?
+Léa: Oui, née à la Croix-Rousse. Mes parents y habitent toujours.
+응, 크루아루스에서 태어났어. 부모님은 아직 거기 사셔.
+Julien: Bon. Ici, il y a une seule règle. Tu veux la connaître ?
+좋아. 여기엔 규칙이 딱 하나 있어. 알고 싶어?
+Léa: Bien sûr.
+물론이지.
+Julien: On ne publie rien sans preuve. Une info, un document, un témoignage : avant tout, on vérifie. Toujours.
+증거 없이는 아무것도 안 낸다. 정보든, 문서든, 증언이든, 무엇보다 먼저 확인해. 언제나.
+Karim: C'est sa phrase préférée. « On vérifie. » Tu vas l'entendre dix fois par jour.
+쥘리앵이 제일 좋아하는 말이야. «확인부터 하자.» 하루에 열 번은 듣게 될걸.
+Julien: Vingt fois. Et c'est pour ça que personne ne nous a jamais fait condamner.
+스무 번이지. 그리고 그 덕분에 아무도 우리한테 유죄 판결을 받아 낸 적이 없어.
+Camille: (en arrivant avec un casque de vélo) Pas encore, tu veux dire. Salut, tout le monde !
+(자전거 헬멧을 들고 들어오며) "아직은"이겠지. 다들 안녕!
+Julien: Camille, voici Léa. Léa, Camille Roche. Elle fait le terrain. Elle peut devenir n'importe qui.
+카미유, 이쪽은 레아. 레아, 이쪽은 카미유 로슈. 현장 담당이야. 누구로든 변신할 수 있지.
+Léa: N'importe qui ? Comment ça ?
+누구로든? 무슨 뜻이야?
+Camille: Disons que parfois, pour une enquête, je change de nom, de métier, de coiffure… On appelle ça l'infiltration.
+가끔 취재를 위해 이름도, 직업도, 머리 모양도 바꾼다고 해 둘까… 그걸 위장잠입이라고 해.
+Léa: Comme une espionne ?
+스파이처럼?
+Camille: Non. Une espionne travaille pour un État. Moi, je travaille pour les lecteurs. Et je n'ai pas de pistolet, seulement un téléphone qui filme.
+아니. 스파이는 국가를 위해 일하지. 나는 독자를 위해 일해. 그리고 총은 없어, 동영상 찍는 휴대폰만 있지.
+Léa: C'est légal, ça ?
+그게 합법이야?
+Camille: Quand le sujet est d'intérêt public et qu'il n'y a pas d'autre moyen, oui. Mais Maître Aubry vérifie tout avant.
+공익이 걸린 주제이고 다른 방법이 없을 때는, 응. 하지만 오브리 변호사님이 미리 다 검토해.
+Hélène: (depuis la porte de son bureau) Tout le monde dans la salle de réunion, s'il vous plaît ! Il est neuf heures.
+(자기 사무실 문간에서) 다들 회의실로 오세요! 아홉 시예요.
+Karim: Et voilà la patronne. Hélène Vasseur, la rédactrice en chef.
+보스 등장이다. 편집국장 엘렌 바쇠르.
+Léa: Elle a l'air sévère…
+엄격해 보이네…
+Camille: Elle est sévère. Mais elle est juste. Et c'est elle qui a créé le journal, il y a huit ans.
+엄격해. 그래도 공정해. 그리고 8년 전에 이 신문을 만든 사람이 바로 엘렌이야.
+Hélène: Bonjour à tous. Avant de commencer, je vous présente Léa Morel, qui nous rejoint pour six mois de stage.
+모두 안녕하세요. 시작하기 전에 레아 모렐을 소개할게요. 6개월 동안 인턴으로 함께할 사람이에요.
+Léa: Bonjour à tous. Merci de m'accueillir.
+안녕하세요, 여러분. 받아 주셔서 감사합니다.
+Hélène: Léa, vous… pardon, tu verras que nous sommes une petite rédaction. Douze journalistes, aucun actionnaire, aucune publicité qui dicte nos choix. Notre indépendance est notre seule richesse.
+레아, 당신도… 아니, 너도 곧 알게 되겠지만 우리는 작은 편집국이야. 기자 열두 명, 주주는 없고, 우리 선택을 좌우하는 광고도 없어. 독립성이 우리의 유일한 재산이지.
+Léa: C'est pour ça que j'ai voulu venir ici.
+그래서 여기 오고 싶었어요.
+Hélène: Tant mieux. Mais l'indépendance a un prix. Si nous nous trompons, personne ne viendra nous sauver. D'où l'exigence de rigueur que Julien a déjà dû te rabâcher.
+다행이네. 하지만 독립에는 대가가 따라. 우리가 틀리면 아무도 구해 주러 오지 않아. 그래서 엄격함이 필요한 거고, 쥘리앵이 벌써 귀에 못이 박히도록 말했을 거야.
+Julien: Je ne rabâche pas, j'insiste.
+귀에 못이 박히게 하는 게 아니라, 강조하는 거야.
+Hélène: Bien. Les sujets de la semaine. Karim ?
+좋아. 이번 주 주제. 카림?
+Karim: J'ai fini l'analyse des chiffres de la préfecture sur les contrôles d'hygiène dans les restaurants. Il manque des données pour 2024, je relance demain.
+경찰청의 식당 위생 점검 수치 분석은 끝냈어. 2024년 자료가 빠져 있어서 내일 다시 요청할 거야.
+Hélène: Camille ?
+카미유?
+Camille: Je travaille toujours sur les loyers abusifs dans le dix-huitième. J'ai deux nouveaux témoins.
+18구 바가지 월세 건은 계속 취재 중이야. 새 증인이 두 명 생겼어.
+Hélène: Julien ?
+쥘리앵?
+Julien: Rien de solide pour l'instant. J'attends des documents.
+지금은 확실한 게 없어. 문서를 기다리는 중이야.
+Hélène: Tu attends toujours des documents, Julien. Un jour, ils arriveront peut-être.
+넌 늘 문서를 기다리지, 쥘리앵. 언젠가는 오겠지.
+Sophie: (frappe à la porte) Excusez-moi. Julien, il y a une enveloppe pour toi. Pas de timbre, pas d'expéditeur. Quelqu'un l'a glissée dans la boîte aux lettres cette nuit.
+(문을 두드리며) 실례합니다. 쥘리앵, 너한테 봉투가 왔어. 우표도 없고 보낸 사람도 없어. 누가 밤사이에 우편함에 넣고 갔나 봐.
+Julien: Une enveloppe sans expéditeur ? Montre.
+보낸 사람 없는 봉투? 줘 봐.
+Hélène: (sourit) Eh bien, voilà tes documents.
+(웃으며) 거봐, 네 문서가 왔네.
+Karim: Attends, Julien. Ne l'ouvre pas comme ça. Il pourrait y avoir n'importe quoi dedans.
+잠깐, 쥘리앵. 그렇게 막 열지 마. 안에 뭐가 들었을지 몰라.
+Julien: C'est du papier, Karim. Je sens des feuilles. (il l'ouvre avec un coupe-papier)
+종이야, 카림. 종이 몇 장이 만져져. (종이칼로 연다)
+Léa: Qu'est-ce que c'est ?
+뭐야?
+Julien: Un document de quatre pages, avec un tampon. Et une petite carte. Il n'y a qu'un mot dessus : « Ariane ».
+도장이 찍힌 네 쪽짜리 문서. 그리고 작은 카드 한 장. 위에 딱 한 단어만 적혀 있어. «아리안».
+Camille: Ariane ? Comme dans la mythologie ? Celle qui donne le fil à Thésée pour sortir du labyrinthe ?
+아리안? 신화에 나오는? 테세우스한테 미궁을 빠져나올 실을 준 그 여자?
+Léa: Oui ! Le fil d'Ariane. On l'a étudié au lycée.
+맞아! 아리아드네의 실. 고등학교 때 배웠어.
+Hélène: Une source qui se prend pour une héroïne grecque. Ça commence bien.
+자기가 그리스 신화 여주인공인 줄 아는 제보자라. 시작이 좋네.
+Léa: (à Julien, à voix basse) C'est quoi, ce dossier ?
+(쥘리앵에게 작은 목소리로) 이 서류, 뭐야?
+Julien: Un certificat d'expertise. Écoute. (il lit) « Le laboratoire certifie que les six bouteilles de Château Belcastel 2015, lot numéro 47, présentées à la vente aux enchères de Hong Kong du 12 juin, ne sauraient être considérées comme authentiques. »
+감정서야. 들어 봐. (읽는다) «본 연구소는 6월 12일 홍콩 경매에 출품된 로트 번호 47번, 샤토 벨카스텔 2015 여섯 병을 진품으로 볼 수 없음을 증명한다.»
+Léa: « Ne sauraient être considérées »… Ça veut dire qu'elles sont fausses ?
+«진품으로 볼 수 없음을»… 그러니까 가짜라는 뜻이야?
+Julien: Exactement. C'est une façon très élégante de dire « ce vin est faux ».
+정확해. «이 와인은 가짜다»를 아주 우아하게 말하는 방식이지.
+Aubry: (en entrant) Pardonnez mon retard. J'entends le mot « faux ». Voilà qui m'intéresse.
+(들어오며) 늦어서 미안합니다. «가짜»라는 말이 들리는군요. 흥미롭습니다.
+Hélène: Maître Aubry, vous tombez bien. Je vous présente Léa, notre stagiaire.
+오브리 변호사님, 마침 잘 오셨어요. 우리 인턴 레아를 소개할게요.
+Aubry: Madame, enchanté. Bernard Aubry. Je veille à ce que ces brillants esprits ne finissent pas au tribunal.
+반갑습니다. 베르나르 오브리입니다. 이 똑똑한 사람들이 법정에 서는 일이 없도록 지키는 사람이지요.
+Léa: Enchantée, Maître.
+반갑습니다, 변호사님.
+Aubry: Puis-je voir ce document ? (il lit) Hum. Un certificat d'expertise œnologique, en bonne et due forme. Encore faut-il qu'il émane bien du laboratoire dont il porte l'en-tête.
+그 문서를 좀 볼 수 있을까요? (읽는다) 흠. 형식을 제대로 갖춘 와인 감정서로군요. 다만 이 문서가 머리글에 찍힌 그 연구소에서 실제로 나온 것인지는 따져 봐야겠지요.
+Léa: Pardon, je n'ai pas tout compris…
+죄송해요, 다 알아듣지는 못했어요…
+Julien: Il dit : le document a l'air officiel, mais il faut vérifier qu'il vient vraiment de ce laboratoire.
+문서가 공식 문서처럼 보이지만, 정말 그 연구소에서 나온 건지 확인해야 한다는 말이야.
+Aubry: C'est exactement ce que j'ai dit, en moins de mots et avec moins d'élégance.
+제가 한 말 그대로군요. 더 적은 단어로, 덜 우아하게.
+Karim: Château Belcastel… Ça me dit quelque chose. C'est un grand cru, non ?
+샤토 벨카스텔… 들어 본 것 같은데. 그랑크뤼 아니야?
+Camille: Un saint-émilion. Très cher. Mon oncle en a une bouteille qu'il garde pour sa retraite.
+생테밀리옹 와인이야. 엄청 비싸. 우리 삼촌이 은퇴할 때 따려고 한 병 갖고 있어.
+Léa: Combien ça coûte, une bouteille comme ça ?
+그런 와인은 한 병에 얼마야?
+Karim: (tape sur son téléphone) Pour un 2015… entre trois cents et cinq cents euros. Aux enchères, encore plus.
+(휴대폰을 두드리며) 2015년산이면… 300에서 500유로 사이. 경매에선 그보다 더 비싸고.
+Léa: Cinq cents euros ! Pour une bouteille de vin ?
+500유로! 와인 한 병에?
+Julien: Et si les bouteilles sont fausses, quelqu'un a gagné beaucoup d'argent en vendant du vin ordinaire.
+그리고 그 병들이 가짜라면, 누군가는 평범한 와인을 팔아서 큰돈을 번 거지.
+Hélène: « Si »… Le mot important, c'est « si ». Nous ne savons rien. Une enveloppe anonyme, ça peut être un règlement de comptes, un concurrent jaloux, ou un piège.
+«만약»… 중요한 건 그 «만약»이야. 우리는 아무것도 몰라. 익명의 봉투는 개인적인 앙갚음일 수도, 질투하는 경쟁자일 수도, 함정일 수도 있어.
+Julien: Ou une vraie source qui a peur.
+아니면 겁먹은 진짜 제보자일 수도 있지.
+Hélène: Peut-être. Mais je ne mets pas un seul journaliste sur une histoire de vin sans un minimum de preuves.
+그럴 수도. 하지만 최소한의 증거도 없이 와인 이야기에 기자 한 명도 붙일 수 없어.
+Julien: Donne-moi une semaine. Une semaine pour vérifier le certificat. Si c'est faux, on oublie.
+일주일만 줘. 감정서를 확인할 일주일. 가짜면 잊어버리자.
+Aubry: Permettez-moi une remarque. Une source anonyme n'est pas, en soi, un obstacle juridique. Encore faut-il que les faits soient établis par d'autres moyens. Le document seul ne vaut rien devant un juge.
+한마디 덧붙여도 될까요. 익명 제보 자체가 법적인 걸림돌은 아닙니다. 다만 사실관계가 다른 방법으로 입증되어야 하지요. 판사 앞에서 이 문서 하나만으로는 아무 가치가 없습니다.
+Léa: Donc on ne peut pas écrire : « Le Château Belcastel vend du faux vin » ?
+그럼 «샤토 벨카스텔이 가짜 와인을 판다»라고 쓸 수는 없는 거예요?
+Aubry: Surtout pas, malheureuse ! Ce serait de la diffamation pure et simple. On écrirait plutôt : « Selon un document consulté par Le Phare, des bouteilles auraient été contrefaites. » Et encore, après vérification.
+절대 안 됩니다, 큰일 날 소리! 그건 명백한 명예훼손이에요. 차라리 이렇게 쓰겠지요. «〈Le Phare〉가 입수한 문서에 따르면, 일부 병이 위조되었을 수 있다.» 그것도 확인을 거친 다음에요.
+Léa: « Auraient été »… C'est le conditionnel ?
+«위조되었을 수 있다»… 그게 조건법이에요?
+Aubry: Le conditionnel journalistique, oui. Il signale une information que l'on n'a pas encore confirmée. C'est le meilleur ami du journaliste prudent.
+그래요, 기사용 조건법이지요. 아직 확인되지 않은 정보라는 표시입니다. 신중한 기자의 가장 좋은 친구랍니다.
+Julien: Et le pire ennemi du journaliste paresseux. Parce qu'on finit toujours par devoir le remplacer par l'indicatif. Avec des preuves.
+그리고 게으른 기자의 최악의 적이지. 결국엔 언제나 직설법으로 바꿔야 하거든. 증거를 갖고.
+Hélène: (soupire) Une semaine, Julien. Pas un jour de plus. Et tu prends Léa avec toi.
+(한숨을 쉬며) 일주일이야, 쥘리앵. 하루도 더는 안 돼. 그리고 레아를 데리고 해.
+Julien: Léa ? Elle est arrivée il y a une heure !
+레아를? 온 지 한 시간밖에 안 됐는데!
+Hélène: Justement. Il faut bien commencer quelque part. Et elle aura des yeux neufs.
+그러니까. 어디선가는 시작해야지. 게다가 레아는 새로운 눈으로 볼 거야.
+Léa: Je… je suis d'accord ! Enfin, si Julien est d'accord.
+저… 저는 좋아요! 그러니까, 쥘리앵만 괜찮다면요.
+Julien: (après un silence) D'accord. Mais tu poses toutes les questions que tu veux. Toutes. Même les questions bêtes.
+(잠시 침묵한 뒤) 좋아. 대신 궁금한 건 다 물어봐. 전부 다. 바보 같은 질문이라도.
+Léa: Il n'y a pas de questions bêtes ?
+바보 같은 질문은 없다는 거야?
+Julien: Si, il y en a. Mais elles sont moins dangereuses que les réponses qu'on n'a pas vérifiées.
+아니, 있어. 하지만 확인 안 한 대답보다는 덜 위험해.
+Karim: Bon. Montre-moi ce certificat. Je vais regarder le laboratoire. (il tape) Laboratoire Œnotest, Bordeaux. Il existe : il a un site internet, une adresse, un numéro de téléphone.
+자. 그 감정서 보여 줘. 연구소부터 찾아볼게. (두드린다) 외노테스트 연구소, 보르도. 실제로 있네. 웹사이트, 주소, 전화번호까지.
+Léa: Alors c'est vrai !
+그럼 진짜네!
+Karim: Doucement. Ça prouve que le laboratoire existe. Ça ne prouve pas que ce document vient de chez eux. N'importe qui peut copier un logo.
+천천히. 그건 연구소가 있다는 증거일 뿐이야. 이 문서가 거기서 나왔다는 증거는 아니지. 로고는 누구나 베낄 수 있어.
+Léa: Ah… oui. On pourrait les appeler ?
+아… 그렇네. 거기 전화해 볼까?
+Julien: Pas encore. Si on appelle maintenant et si le laboratoire a un lien avec le château, ils vont prévenir tout le monde. On perdrait l'effet de surprise.
+아직은 안 돼. 지금 전화했는데 연구소가 샤토랑 관련이 있으면, 다들 미리 알게 될 거야. 기습 효과를 잃게 되지.
+Léa: D'accord. Alors qu'est-ce qu'on fait en premier ?
+알겠어. 그럼 뭐부터 해?
+Julien: Tu as entendu « lot numéro 47 ». Qu'est-ce que tu ferais avec ça ?
+«로트 번호 47번» 들었지. 너라면 그걸로 뭘 하겠어?
+Léa: Euh… Je chercherais le catalogue de la vente aux enchères ? Les maisons de vente publient leurs catalogues en ligne, non ?
+음… 경매 카탈로그를 찾아볼 것 같아. 경매 회사들은 카탈로그를 온라인에 올리잖아, 그렇지?
+Julien: Voilà. Tu vois, tu n'as pas besoin de moi.
+바로 그거야. 봐, 나 없어도 되잖아.
+Karim: (tape) Hong Kong, douze juin… Voilà, la vente « Fine Wines of Bordeaux ». Lot 47 : six bouteilles de Château Belcastel 2015. Vendu… quarante-deux mille dollars de Hong Kong.
+(두드리며) 홍콩, 6월 12일… 여기 있다, «보르도 고급 와인» 경매. 로트 47번, 샤토 벨카스텔 2015 여섯 병. 낙찰가는… 4만 2천 홍콩달러.
+Léa: Ça fait combien en euros ?
+유로로는 얼마야?
+Karim: À peu près cinq mille euros. Pour six bouteilles.
+대략 5천 유로. 여섯 병에.
+Léa: Et l'acheteur ? Son nom est dans le catalogue ?
+산 사람은? 이름이 카탈로그에 나와?
+Karim: Non, jamais. Mais il y a autre chose. Regarde la photo du lot.
+아니, 절대 안 나와. 그런데 다른 게 있어. 로트 사진 좀 봐.
+Julien: Les étiquettes… Il y a quelque chose de bizarre.
+라벨이… 뭔가 이상한데.
+Léa: Moi, je ne vois rien. Elles sont belles, les étiquettes.
+난 아무것도 모르겠어. 라벨이 예쁜데.
+Karim: Justement. Elles sont trop belles. Un vin de 2015, gardé dans une cave pendant dix ans, a souvent des étiquettes un peu abîmées. Là, on dirait qu'elles ont été imprimées hier.
+그러니까. 너무 예뻐. 2015년 와인을 10년 동안 저장고에 뒀으면 라벨이 좀 상해 있는 경우가 많아. 이건 어제 인쇄한 것 같잖아.
+Julien: Ce n'est pas une preuve. Mais c'est un indice. Note-le, Léa.
+증거는 아니야. 하지만 단서지. 적어 둬, 레아.
+Léa: (écrit) « Étiquettes trop neuves. » Je note aussi « le laboratoire existe, document à vérifier » ?
+(적으며) «라벨이 지나치게 새것.» «연구소는 실재, 문서는 확인 필요»도 적을까?
+Julien: Oui. Et fais toujours deux colonnes : ce que l'on sait, et ce que l'on croit.
+응. 그리고 항상 칸을 두 개로 나눠. 우리가 아는 것, 그리고 우리가 믿는 것.
+Léa: Ce que l'on sait… et ce que l'on croit. D'accord.
+아는 것… 그리고 믿는 것. 알겠어.
+Camille: (en passant derrière eux) Vous avez l'air de trois enfants devant un jeu vidéo.
+(셋 뒤를 지나가며) 비디오 게임 앞에 앉은 애들 셋 같네.
+Karim: C'est mieux qu'un jeu vidéo. C'est du vin à cinq cents euros.
+비디오 게임보다 낫지. 500유로짜리 와인이라고.
+Camille: Si vous avez besoin de quelqu'un à Bordeaux, dites-le-moi. Ce sont bientôt les vendanges. Les châteaux cherchent toujours des bras.
+보르도에 사람이 필요하면 말해. 곧 포도 수확철이야. 샤토들은 늘 일손을 구하거든.
+Julien: Tu penses à quoi ?
+무슨 생각 하는 거야?
+Camille: À rien. Pour l'instant. (elle sourit) Mais je n'ai jamais fait les vendanges.
+아무 생각도. 지금은. (웃으며) 그런데 나 포도 따기는 한 번도 안 해 봤거든.
+Léa: (à Julien) Elle veut se faire embaucher dans le château ?
+(쥘리앵에게) 저 샤토에 취직하려는 거야?
+Julien: Peut-être. Mais pas avant qu'on ait vérifié le certificat. Une chose à la fois.
+아마도. 하지만 감정서를 확인하기 전에는 안 돼. 한 번에 하나씩.
+Hélène: (en passant) Et à six heures, tout le monde rentre chez soi. C'est lundi, pas la veille d'une élection.
+(지나가며) 그리고 여섯 시엔 다들 집에 가. 월요일이지, 선거 전날이 아니야.
+Julien: Oui, chef.
+네, 국장님.
+Léa: (le soir, en mettant sa veste) Julien, je peux te poser une question bête ?
+(저녁, 재킷을 입으며) 쥘리앵, 바보 같은 질문 하나 해도 돼?
+Julien: Je t'ai dit que oui.
+된다고 했잖아.
+Léa: Pourquoi cette personne, Ariane, a envoyé l'enveloppe à toi ? Et pas à la police ?
+왜 그 아리안이라는 사람은 봉투를 너한테 보냈을까? 경찰이 아니라?
+Julien: Bonne question. Pas bête du tout. Peut-être parce qu'elle ne fait pas confiance à la police. Ou parce qu'elle veut que tout le monde sache, pas seulement un juge.
+좋은 질문이야. 전혀 바보 같지 않아. 경찰을 못 믿어서일 수도 있고. 아니면 판사 한 명이 아니라 모든 사람이 알기를 바라서일 수도 있지.
+Léa: Ou parce qu'elle a lu tes articles, comme moi.
+아니면 나처럼 네 기사를 읽어서일 수도 있고.
+Julien: (sourit) Ne commence pas. (son téléphone vibre) Attends… Un message. Numéro masqué.
+(웃으며) 그런 말 하지 마. (휴대폰이 울린다) 잠깐… 메시지야. 발신자 번호가 없어.
+Léa: Qu'est-ce qu'il dit ?
+뭐라고 왔어?
+Julien: (il lit) « Vous avez reçu le premier verre. Comptez les bouteilles. Ariane. »
+(읽는다) «첫 잔은 받으셨군요. 병을 세어 보세요. 아리안.»
+Léa: Compter les bouteilles ? Ça veut dire quoi ?
+병을 세어 보라고? 무슨 뜻이야?
+Julien: Ça veut dire que demain, on vérifie ce certificat. Et après, on comptera les bouteilles. Rentre bien, Léa. Et bienvenue au Phare.
+내일은 이 감정서를 확인하고, 그다음엔 병을 세어 보게 될 거라는 뜻이지. 조심히 들어가, 레아. 그리고 〈Le Phare〉에 온 걸 환영해.
+
+## 주요 단어
+la rédaction | 라 레닥시옹 | 편집국, 편집부 (B1)
+la conférence de rédaction | 라 꽁페랑스 드 레닥시옹 | 편집회의 (B1)
+le/la stagiaire | 르/라 스따지에르 | 인턴, 실습생 (A2)
+tutoyer → tutoyé | 뛰뚜아예 → 뛰뚜아예 | tu로 말하다, 말을 놓다 (B1)
+vouvoyer → vouvoyé | 부부아예 → 부부아예 | vous로 말하다, 존댓말을 쓰다 (B1)
+l'enveloppe (f.) | 랑블로쁘 | 봉투 (A2)
+l'expéditeur (m.) | 렉스뻬디뙤르 | 보낸 사람, 발신인 (B1)
+la source | 라 쑤르스 | 취재원, 제보자 (B1)
+vérifier → vérifié | 베리피에 → 베리피에 | 확인하다, 검증하다 (A2)
+la preuve | 라 쁘뢰브 | 증거 (B1)
+le certificat d'expertise | 르 쎄르띠피까 덱스뻬르띠즈 | 감정서 (C1)
+la vente aux enchères | 라 방뜨 오장셰르 | 경매 (B2)
+le lot | 르 로 | (경매) 출품 단위, 로트 (B2)
+l'étiquette (f.) | 레띠께뜨 | 라벨, 상표 (A2)
+contrefait(e) | 꽁트르페(뜨) | 위조된, 가짜의 (B2)
+l'indice (m.) | 랭디스 | 단서, 실마리 (B2)
+la diffamation | 라 디파마시옹 | 명예훼손 (C1)
+l'infiltration (f.) | 랭필트라시옹 | 위장잠입 (B2)
+
+## 문법·표현 정리
+**tu와 vous (A2):** 처음 만난 사이, 손님, 나이 많은 사람에게는 vous, 친구·가족·동료끼리는 tu를 씁니다. 〈Le Phare〉처럼 기자끼리는 첫날부터 tu를 쓰는 곳이 많고, 변호사·취재원·공무원에게는 vous를 씁니다. 레아가 "Vous travaillez…?"에서 "tu travailles…?"로 바꾸는 장면을 보세요.
+**On se tutoie ? (B1):** "말 놓을까요?" 재귀동사 se tutoyer(서로 tu로 말하다) / se vouvoyer(서로 vous로 말하다). 구어에서는 on이 nous(우리) 대신 자주 쓰입니다. (On se voit demain ? 내일 볼까?)
+**Je vous présente… / Je te présente… (A2):** 사람을 소개할 때 씁니다. 여러 사람에게 또는 정중하게는 vous, 한 사람에게 편하게는 te. 답은 Enchanté(e)(반갑습니다). 여자가 말할 때는 enchantée로 씁니다(발음은 같음).
+**C'est quoi, ce dossier ? (A2, 구어):** 표준어로는 Qu'est-ce que c'est, ce dossier ? 구어에서는 의문사를 뒤로 보내 C'est quoi ? / Tu fais quoi ? 처럼 말합니다. 쉼표 뒤의 ce dossier는 무엇을 가리키는지 덧붙여 강조하는 말입니다.
+**depuis + 기간/시점 (A2):** 지금까지 계속되는 일은 현재형 + depuis. Je travaille là depuis trois ans.(3년째 일하고 있다) · depuis la création de la cellule(팀이 생겼을 때부터). 한국어 "~한 지 3년 됐다"에 해당합니다.
+**부정 표현 (A2~B1):** ne… pas(아니다) · ne… rien(아무것도) · ne… jamais(결코) · personne ne…(아무도). On ne publie rien sans preuve. / Personne ne nous a jamais fait condamner.(아무도 우리를 유죄 판결 받게 한 적이 없다) 구어에서는 ne가 자주 빠집니다.
+**ne… que = seulement (B1):** "~밖에 없다". Il n'y a qu'un mot dessus.(위에는 단어가 하나밖에 없다) · Il n'y a qu'une règle. 부정처럼 보이지만 뜻은 "오직 ~만"입니다.
+**Si (A2):** 부정 질문에 "아니, 그렇지 않아(=있어)"라고 반박할 때는 oui 대신 si를 씁니다. Il n'y a pas de questions bêtes ? — Si, il y en a.(아니, 있어) 한국어 대답과 반대 방향이라 헷갈리기 쉽습니다.
+**en: "그것을, 그중에서" (B1):** 앞에 나온 명사(부분관사·수량)를 받습니다. Il y en a.(그런 게 있다) · Mon oncle en a une bouteille.(삼촌은 그것을 한 병 갖고 있다)
+**si + 현재형 → 현재·미래 (B1):** 실제로 일어날 수 있는 조건. Si c'est faux, on oublie. / Si on appelle maintenant, ils vont prévenir tout le monde. 비교: Qu'est-ce que tu ferais ?(너라면 뭘 하겠어?) — 조건법으로 가정·공손함을 나타냅니다.
+**기사용 조건법 (B2):** 확인되지 않은 정보를 전할 때 기자는 조건법을 씁니다. Des bouteilles auraient été contrefaites.(병들이 위조되었을 수 있다/위조되었다고 한다) 조건법 과거 = avoir/être의 조건법 + 과거분사. 확인되면 직설법(ont été contrefaites)으로 바꿉니다.
+**ne sauraient être… (C1, 문어):** savoir의 조건법 + 부정(pas 생략)은 공문서에서 "~할 수 없다"는 단정적 뜻입니다. Les bouteilles ne sauraient être considérées comme authentiques.(진품으로 볼 수 없다) = ne peuvent pas être.
+**Encore faut-il que + 접속법 (C1):** "다만 ~해야 한다, 그래도 ~이라는 조건이 붙는다". 문장 맨 앞에 encore가 오면 주어와 동사가 도치됩니다. Encore faut-il que les faits soient établis.(다만 사실관계가 입증되어야 한다)
+**공식 화법 vs 쉬운 말 (B2~C1):** 오브리의 말 "Encore faut-il qu'il émane bien du laboratoire dont il porte l'en-tête"를 쥘리앵이 "il faut vérifier qu'il vient vraiment de ce laboratoire"로 풀어 줍니다. émaner de = venir de(~에서 나오다), dont = de qui/de quoi(그것의).
