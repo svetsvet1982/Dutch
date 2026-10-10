@@ -1,0 +1,340 @@
+# 1부 12화. L'inspection (위생 점검)
+수준: A2~C1 혼합 (중심 C1) | 장소: 경찰서·뷔트쇼몽 공원·경찰청 위생 담당 부서·마레샬 그룹 본사 | 시간: 9월 마지막 주 화요일~수요일
+핵심 표현: Ce rapport n'a jamais été transmis · Nous respectons scrupuleusement… · Il appartient à l'administration de… · porter plainte
+
+## 대화
+Léa: (au commissariat, le mardi matin) Ça va, Nathalie ? Vous avez dormi un peu ?
+(화요일 아침, 경찰서에서) 괜찮으세요, 나탈리? 조금이라도 주무셨어요?
+Nathalie: Deux heures, peut-être. Chez ma sœur. Les enfants ne savent rien. Je leur ai dit que l'appartement avait une fuite d'eau.
+두 시간쯤요. 언니 집에서요. 아이들은 아무것도 몰라요. 집에 물이 샌다고 했어요.
+Policier: (au guichet) Bonjour, mesdames. C'est pour quoi ?
+(창구에서) 안녕하세요. 무슨 일로 오셨어요?
+Nathalie: Bonjour. Je viens porter plainte. Pour un cambriolage. Hier, dans mon appartement.
+안녕하세요. 고소하러 왔어요. 절도 사건이요. 어제, 제 아파트에서요.
+Policier: Vous avez votre pièce d'identité ?
+신분증 있으세요?
+Nathalie: Oui, voilà.
+네, 여기요.
+Policier: Asseyez-vous, un collègue va prendre votre déposition. Qu'est-ce qui a été volé ?
+앉으세요, 동료가 진술을 받을 거예요. 뭘 도난당하셨어요?
+Nathalie: Des classeurs. Des documents de travail.
+서류철이요. 업무 서류들이요.
+Policier: Des classeurs ? Pas de bijoux, pas d'ordinateur, pas d'argent ?
+서류철이요? 보석, 컴퓨터, 돈은요?
+Nathalie: Non. L'ordinateur a été ouvert, mais il est toujours là. Ils ont seulement pris les classeurs.
+아니요. 컴퓨터는 열어 봤지만 그대로 있어요. 서류철만 가져갔어요.
+Policier: (il lève les yeux) C'est rare, ça. Des cambrioleurs qui volent des papiers et qui laissent un ordinateur. Vous avez une idée de qui a pu faire ça ?
+(고개를 들며) 드문 일이네요. 컴퓨터는 두고 서류만 훔쳐 가는 도둑이라니. 누가 그랬을지 짐작 가는 데 있으세요?
+Nathalie: (elle regarde Léa) Peut-être. Mais je n'ai pas de preuve.
+(레아를 보며) 어쩌면요. 하지만 증거가 없어요.
+Léa: Elle a été témoin de choses graves dans son ancien travail. Elle a des raisons de penser que c'est lié.
+이분은 예전 직장에서 심각한 일들을 목격하셨어요. 그것과 관련이 있다고 생각할 만한 이유가 있어요.
+Policier: Et vous êtes qui, vous, madame ? Une avocate ?
+그쪽은 누구세요? 변호사예요?
+Léa: Non. Une amie. Journaliste.
+아니요. 친구예요. 기자고요.
+Policier: (il soupire) Journaliste… Bon. Madame Girard, vous direz tout ça à mon collègue. Tout ce que vous savez. Même ce qui vous semble sans importance.
+(한숨 쉬며) 기자라… 좋아요. 지라르 씨, 그 얘기 다 제 동료한테 하세요. 아시는 건 전부요. 별로 중요하지 않아 보이는 것까지.
+Enquêteur: (un autre policier arrive avec un ordinateur) Madame Girard ? Venez avec moi. On va commencer. Vous êtes rentrée chez vous à quelle heure, hier ?
+(다른 경찰관이 컴퓨터를 들고 오며) 지라르 씨? 저랑 같이 가시죠. 시작하겠습니다. 어제 몇 시에 귀가하셨어요?
+Nathalie: Vers dix-sept heures trente.
+오후 다섯 시 반쯤이요.
+Enquêteur: Et la porte ? Elle était fermée à clé quand vous êtes partie le matin ?
+문은요? 아침에 나가실 때 잠그셨어요?
+Nathalie: Oui. Deux tours de clé. Comme toujours.
+네. 두 번 돌려서요. 늘 그렇듯이요.
+Enquêteur: La serrure est cassée ?
+자물쇠가 부서졌나요?
+Nathalie: Non. C'est ça qui est bizarre. La porte était simplement ouverte. Pas de trace.
+아니요. 그게 이상한 거예요. 문이 그냥 열려 있었어요. 흔적도 없이요.
+Enquêteur: (il tape) Pas d'effraction visible… Ce sont des professionnels, ou quelqu'un qui avait une clé. Vos voisins ont vu quelque chose ?
+(입력하며) 침입 흔적 없음… 전문가들이거나, 열쇠를 가진 사람이네요. 이웃들이 뭘 봤나요?
+Nathalie: La voisine du dessous dit qu'elle a entendu des pas vers quatorze heures. Elle a cru que c'était moi.
+아래층 이웃이 오후 두 시쯤 발소리를 들었대요. 저인 줄 알았대요.
+Enquêteur: Je note. On interrogera vos voisins. Et on demandera les images des caméras de la rue.
+적어 두겠습니다. 이웃들을 조사하고, 길거리 카메라 영상도 요청하겠습니다.
+Nathalie: D'accord. Merci.
+알겠어요. 감사합니다.
+Léa: (pendant qu'elles attendent) Vos documents originaux, ils sont toujours chez votre sœur ?
+(기다리는 동안) 원본 서류는 아직 언니 댁에 있어요?
+Nathalie: Toujours. Les classeurs volés contenaient seulement de vieilles plannings, des menus, des contrats de fournisseurs. Ils n'ont rien trouvé d'important.
+그대로요. 도둑맞은 서류철엔 옛날 근무표, 메뉴, 공급업체 계약서밖에 없었어요. 중요한 건 하나도 못 찾았을 거예요.
+Léa: Ils ne savent pas que vous avez gardé des copies des tickets Z ?
+지라르 씨가 Z 리포트 사본을 보관하고 있다는 건 모르는 거죠?
+Nathalie: Maintenant, ils se doutent. Sinon, pourquoi chercher chez moi ? (elle serre son sac) J'ai peur, Léa. Pour la première fois, j'ai vraiment peur.
+이제는 짐작하겠죠. 그게 아니면 왜 우리 집을 뒤졌겠어요? (가방을 꼭 쥐며) 무서워요, 레아. 처음으로 정말 무서워요.
+Léa: (elle prend sa main) Vous n'êtes plus seule. On est là.
+(그녀의 손을 잡으며) 이제 혼자가 아니에요. 저희가 있잖아요.
+Julien: (au parc des Buttes-Chaumont, l'après-midi) Il a dit qu'il viendrait à quinze heures. Près du pont suspendu.
+(오후, 뷔트쇼몽 공원에서) 세 시에 온다고 했어. 현수교 근처로.
+Léa: Qui est-ce ?
+누구야?
+Julien: Un inspecteur de l'hygiène. Il travaille au service qui contrôle les restaurants parisiens. Il m'a écrit hier soir, après la demande officielle que tu as envoyée à la préfecture.
+위생 점검관이야. 파리 식당들을 점검하는 부서에서 일해. 네가 경찰청에 공식 요청서를 보낸 뒤로 어젯밤에 나한테 연락이 왔어.
+Léa: Il a vu ma demande ?
+내 요청서를 봤대?
+Julien: Ta demande a fait le tour du service. Apparemment, tout le monde en parle. Et quelqu'un a décidé de nous parler.
+네 요청서가 부서 안에 쫙 돌았나 봐. 다들 그 얘기를 한대. 그리고 누군가 우리한테 얘기하기로 마음먹은 거지.
+Inspecteur: (un homme en imperméable, il s'assoit sur le banc à côté d'eux sans les regarder) Monsieur Marchetti ?
+(트렌치코트를 입은 남자가 둘을 쳐다보지 않고 옆 벤치에 앉으며) 마르케티 씨?
+Julien: C'est moi. Et voici Léa Morel, qui a envoyé la demande.
+접니다. 그리고 이쪽은 요청서를 보낸 레아 모렐이에요.
+Inspecteur: Pas de nom. Pas d'enregistrement. Je vous dis ce que je sais, et je pars. D'accord ?
+이름은 안 됩니다. 녹음도 안 되고요. 아는 걸 말하고 가겠습니다. 괜찮습니까?
+Julien: D'accord. C'est off.
+좋습니다. 오프더레코드입니다.
+Inspecteur: En 2024, nous avons contrôlé onze établissements du groupe Maréchal. Dont la cuisine centrale de Rungis. J'ai participé à trois de ces contrôles.
+2024년에 우리는 마레샬 그룹 시설 열한 곳을 점검했습니다. 룅지스 중앙 주방도 포함해서요. 저는 그중 세 곳의 점검에 참여했고요.
+Léa: Et qu'est-ce que vous avez trouvé ?
+그래서 뭘 발견하셨어요?
+Inspecteur: À Rungis, une chambre froide à moins huit degrés au lieu de moins dix-huit. Des produits décongelés et recongelés. Des sacs sans date de fabrication. Et des traces de rongeurs dans l'entrepôt.
+룅지스에선 영하 18도여야 할 냉동실이 영하 8도였습니다. 해동했다가 다시 얼린 식품들. 제조일이 없는 봉지들. 그리고 창고엔 설치류 흔적이 있었고요.
+Léa: Des rongeurs ? Des rats ?
+설치류요? 쥐요?
+Inspecteur: Des souris, plus exactement. Mais oui. Dans deux brasseries, des problèmes de température et d'hygiène dans les cuisines. Rien de dramatique isolément. Mais l'ensemble justifiait une fermeture administrative temporaire de la cuisine centrale.
+정확히는 생쥐요. 그래도 맞습니다. 브라스리 두 곳에선 주방의 온도와 위생 문제가 있었고요. 하나하나는 심각하지 않아요. 하지만 다 합치면 중앙 주방을 일시적으로 행정 폐쇄할 만한 사유였습니다.
+Julien: Une fermeture administrative ? Pour la cuisine qui nourrit quarante restaurants ?
+행정 폐쇄요? 식당 40곳에 음식을 대는 주방을요?
+Inspecteur: C'est ce que j'ai proposé dans mon rapport. Avis défavorable. Avec mon chef de service, nous l'avons signé et transmis à la direction.
+제가 보고서에 그렇게 제안했습니다. 부적합 판정. 과장님과 함께 서명해서 상부에 올렸고요.
+Léa: Et ensuite ?
+그다음엔요?
+Inspecteur: Ensuite, rien. Le rapport n'a jamais été publié. La fermeture n'a jamais eu lieu. Et les huit autres rapports sur les restaurants Maréchal ont disparu du site public. Tous.
+그다음엔 아무 일도 없었습니다. 보고서는 공개되지 않았어요. 폐쇄도 이뤄지지 않았고요. 그리고 마레샬 식당들에 대한 다른 보고서 여덟 건도 공개 사이트에서 사라졌습니다. 전부요.
+Julien: Vous savez pourquoi ?
+이유를 아십니까?
+Inspecteur: Je sais ce que mon chef de service m'a dit, à voix basse, à la machine à café. Il y a eu « une intervention en haut lieu ».
+과장님이 커피 자판기 앞에서 작은 목소리로 해 준 말은 압니다. «높은 곳에서의 개입»이 있었다고요.
+Léa: En haut lieu ? Ça veut dire quoi ?
+높은 곳이요? 그게 무슨 뜻이에요?
+Julien: Quelqu'un de puissant. Un élu, un haut fonctionnaire.
+힘 있는 사람. 선출직 공무원이나 고위 관료.
+Inspecteur: Un appel du cabinet d'un adjoint au maire de Paris. Celui qui s'occupe de l'urbanisme. Il a appelé ma direction pour demander « un peu de souplesse avec un acteur majeur de la gastronomie parisienne ».
+파리 부시장실에서 온 전화였습니다. 도시계획을 맡은 부시장이요. 우리 국장한테 전화해서 «파리 미식계의 주요 인사에게 약간의 융통성을 발휘해 달라»고 했답니다.
+Julien: L'adjoint à l'urbanisme ? Pourquoi l'urbanisme s'occuperait d'hygiène ?
+도시계획 담당 부시장이요? 도시계획 쪽에서 왜 위생 문제에 신경을 쓰죠?
+Inspecteur: C'est exactement la question que je me pose depuis un an. (il se lève) Je n'ai rien d'autre. Je vous ai dit ce que je sais. Je ne peux pas vous donner les rapports. Ce serait la fin de ma carrière.
+제가 1년째 묻고 있는 질문이 바로 그겁니다. (일어나며) 더는 없습니다. 아는 걸 말씀드렸어요. 보고서를 드릴 수는 없습니다. 그러면 제 경력은 끝이니까요.
+Léa: Pourquoi vous nous parlez, alors ?
+그런데 왜 저희한테 말씀해 주시는 거예요?
+Inspecteur: (il s'arrête) Parce que ma fille mange dans ces brasseries. Et parce que je suis entré dans ce métier pour protéger les gens. Pas pour protéger les amis des élus.
+(멈춰 서서) 우리 딸이 그 브라스리에서 밥을 먹으니까요. 그리고 제가 이 일을 시작한 건 사람들을 지키기 위해서였지, 정치인 친구들을 지키기 위해서가 아니었으니까요.
+Julien: Merci.
+감사합니다.
+Inspecteur: Faites votre demande à la direction. Officiellement. Posez la question de la fermeture de Rungis. Vous verrez leur réaction. (il s'éloigne) Bonne chance.
+국장실에 요청하세요. 공식적으로요. 룅지스 폐쇄 건을 물어보세요. 반응을 보면 알 겁니다. (멀어지며) 행운을 빕니다.
+Léa: (elle souffle) Une chambre froide à moins huit… Et c'est là que Bruno cache les sans-papiers quand il y a une alerte.
+(숨을 내쉬며) 영하 8도짜리 냉동실… 그리고 거기가 경보가 울리면 브뤼노가 서류 없는 사람들을 숨기는 곳이야.
+Julien: Et un adjoint au maire qui protège une chaîne de restaurants. (il note) Gérard Pujol. Adjoint à l'urbanisme.
+그리고 식당 체인을 감싸는 부시장. (적으며) 제라르 퓌졸. 도시계획 담당 부시장.
+Léa: Tu le connais ?
+그 사람 알아?
+Julien: De nom. Il signe tous les grands projets immobiliers de Paris. Pourquoi il prendrait des risques pour Maréchal ?
+이름만. 파리의 대형 부동산 사업은 전부 그 사람이 서명해. 그런 사람이 왜 마레샬을 위해 위험을 감수할까?
+Léa: Karim pourrait chercher, non ?
+카림이 찾아볼 수 있지 않을까?
+Julien: (il appelle) Karim ? Tu peux chercher un lien entre Gérard Pujol, l'adjoint à l'urbanisme, et Jean-Claude Maréchal ?
+(전화를 건다) 카림? 도시계획 담당 부시장 제라르 퓌졸이랑 장클로드 마레샬 사이의 연결 고리 좀 찾아 줄래?
+Karim: (au téléphone) Pujol… Attends. (on l'entend taper) J'ai déjà quelque chose. Photo de 2023 : inauguration de la brasserie Maréchal du Pavillon du Canal. Pujol coupe le ruban avec Maréchal.
+(전화로) 퓌졸… 잠깐만. (두드리는 소리가 들린다) 벌써 하나 있어. 2023년 사진. 파비용 뒤 카날에 있는 마레샬 브라스리 개업식. 퓌졸이 마레샬이랑 같이 테이프를 자르고 있어.
+Léa: Le Pavillon du Canal ? C'est un bâtiment de la Ville de Paris, non ?
+파비용 뒤 카날? 그거 파리시 건물 아니야?
+Karim: Exactement. Un bâtiment public, au bord du canal. La Ville l'a loué à Maréchal pour trente ans. Le loyer est… attends… très bas. Trois fois moins que le prix du marché.
+맞아. 운하 옆에 있는 공공건물. 시가 그걸 마레샬한테 30년 동안 임대했어. 임대료가… 잠깐… 아주 싸. 시세의 3분의 1이야.
+Julien: Et qui a signé ce bail ?
+그럼 그 임대 계약에 누가 서명했어?
+Karim: L'adjoint à l'urbanisme. Gérard Pujol. En 2022.
+도시계획 담당 부시장. 제라르 퓌졸. 2022년에.
+Léa: Donc Pujol fait un cadeau à Maréchal en 2022. Et en 2024, il protège ses restaurants des inspecteurs.
+그러니까 퓌졸이 2022년에 마레샬한테 선물을 주고, 2024년엔 위생 점검관들로부터 그 식당들을 보호해 준 거네.
+Julien: Ce qu'on croit. Pas ce qu'on sait.
+그건 우리가 믿는 거지. 아는 게 아니야.
+Karim: Il y a autre chose de bizarre. Le Pavillon du Canal est juste à côté d'un énorme projet de la Ville. Un projet de rénovation de tout le quartier. Il s'appelle « Canal-Nord ».
+이상한 게 하나 더 있어. 파비용 뒤 카날 바로 옆에 시의 거대한 사업이 있어. 동네 전체를 재개발하는 사업. 이름이 «카날노르»야.
+Julien: (il s'arrête de marcher) Canal-Nord…
+(걸음을 멈추며) 카날노르…
+Léa: Tu connais ?
+알아?
+Julien: Non. Mais je n'aime pas les coïncidences. Note-le, Léa. Pour plus tard.
+아니. 그런데 난 우연을 안 좋아해. 적어 둬, 레아. 나중을 위해서.
+Aubry: (au téléphone, le mercredi matin, dans le hall de la préfecture) Rappelez-vous une chose : votre inspecteur doit rester invisible. Ne citez jamais un détail que lui seul pourrait connaître.
+(수요일 아침, 경찰청 로비에서 전화로) 한 가지를 기억하세요. 그 점검관은 보이지 않아야 합니다. 그 사람만 알 수 있는 세부 사항은 절대 언급하지 마세요.
+Léa: Comme la température de la chambre froide ?
+냉동실 온도 같은 거요?
+Aubry: Exactement. Moins huit degrés, c'est une signature. Si vous le dites, ils sauront en une heure qui a parlé. Parlez seulement de la « proposition de fermeture ». Plusieurs personnes ont signé ce rapport.
+바로 그겁니다. 영하 8도는 서명이나 마찬가지예요. 그 말을 하면 한 시간 안에 누가 말했는지 알아낼 겁니다. «폐쇄 제안»에 대해서만 말하세요. 그 보고서엔 여러 사람이 서명했으니까요.
+Julien: Compris. Et l'appel du cabinet de Pujol ?
+알겠습니다. 퓌졸 비서실의 전화는요?
+Aubry: Posez la question sans citer de nom. « Un adjoint au maire. » Laissez-les nommer eux-mêmes, s'ils le veulent. Ils ne le voudront pas, bien entendu.
+이름을 대지 말고 물으세요. «부시장»이라고만요. 원한다면 그쪽에서 이름을 말하게 두세요. 물론 원하지 않겠지만요.
+Léa: Et s'ils nous mentent ?
+그 사람들이 거짓말을 하면요?
+Aubry: Un fonctionnaire ment rarement. Il préfère les phrases qui ne veulent rien dire. Notez-les toutes. Elles en disent souvent plus long qu'un mensonge.
+공무원은 거짓말을 잘 안 합니다. 아무 뜻도 없는 문장을 더 좋아하지요. 그걸 전부 적으세요. 거짓말보다 더 많은 걸 말해 주는 경우가 많으니까요.
+Julien: Merci, Bernard.
+고마워요, 베르나르.
+Aubry: Et Julien… soyez poli.
+그리고 쥘리앵… 예의 바르게.
+Julien: Je suis toujours poli.
+저는 늘 예의 바른데요.
+Fonctionnaire: (le mercredi matin, dans un bureau de la préfecture) Monsieur Marchetti, madame Morel. Je suis la directrice adjointe du service. Vous avez souhaité nous rencontrer au sujet des contrôles sanitaires du groupe Maréchal.
+(수요일 아침, 경찰청 사무실에서) 마르케티 씨, 모렐 씨. 저는 이 부서의 부국장입니다. 마레샬 그룹의 위생 점검에 관해 만나고 싶어 하셨지요.
+Julien: Merci de nous recevoir, madame. Nous avons constaté que trente-huit restaurants du groupe n'ont aucun rapport d'inspection publié pour 2024. Pouvez-vous nous l'expliquer ?
+만나 주셔서 감사합니다. 마레샬 그룹 식당 38곳의 2024년 점검 보고서가 하나도 공개되지 않았다는 걸 확인했습니다. 설명해 주실 수 있습니까?
+Fonctionnaire: La publication des résultats des contrôles relève d'un dispositif de transparence qui n'a pas vocation à l'exhaustivité. Certains contrôles font l'objet d'une procédure contradictoire en cours, ce qui en diffère la publication.
+점검 결과 공개는 투명성 제도에 따른 것으로, 모든 결과를 빠짐없이 공개하는 것을 목적으로 하지는 않습니다. 일부 점검은 현재 이의 제기 절차가 진행 중이라 공개가 미뤄지고 있습니다.
+Léa: Pardon, je n'ai pas bien compris. Les rapports existent, mais vous ne les publiez pas ?
+죄송한데, 잘 이해를 못 했어요. 보고서는 있는데 공개를 안 하신다는 건가요?
+Fonctionnaire: Je n'ai pas dit cela, madame. J'ai dit que la publication n'est pas systématique.
+그렇게 말씀드리지 않았습니다. 공개가 일률적이지는 않다고 말씀드렸지요.
+Julien: Une procédure contradictoire qui dure depuis plus d'un an pour trente-huit restaurants ?
+식당 38곳에 대한 이의 제기 절차가 1년 넘게 계속되고 있다는 겁니까?
+Fonctionnaire: Les délais administratifs sont ce qu'ils sont, monsieur. Nos effectifs sont limités.
+행정 처리 기간이란 원래 그런 겁니다. 저희 인력은 한정돼 있으니까요.
+Julien: Madame, selon nos informations, un contrôle de la cuisine centrale de Rungis a conduit, en 2024, à une proposition de fermeture administrative. Est-ce exact ?
+부국장님, 저희가 입수한 정보에 따르면, 2024년 룅지스 중앙 주방 점검 결과 행정 폐쇄가 제안되었습니다. 사실입니까?
+Fonctionnaire: (un silence) Je ne peux ni confirmer ni infirmer le contenu d'un rapport non publié.
+(침묵) 공개되지 않은 보고서의 내용은 확인해 드릴 수도, 부인해 드릴 수도 없습니다.
+Julien: Mais ce rapport existe ?
+그래도 그 보고서는 존재하는 거죠?
+Fonctionnaire: Ce rapport n'a jamais été transmis à ma connaissance.
+제가 아는 한 그 보고서는 한 번도 전달된 적이 없습니다.
+Léa: « À votre connaissance »… Ça veut dire que vous ne savez pas, ou que vous ne voulez pas savoir ?
+«아는 한»이라… 모르신다는 건가요, 아니면 알고 싶지 않으시다는 건가요?
+Fonctionnaire: (froidement) Cela veut dire ce que cela veut dire, madame.
+(차갑게) 말 그대로의 뜻입니다.
+Julien: Une dernière question. Votre direction a-t-elle reçu, en 2024, un appel du cabinet d'un adjoint au maire de Paris au sujet du groupe Maréchal ?
+마지막 질문입니다. 귀 부서에서 2024년에 마레샬 그룹과 관련해 파리 부시장실의 전화를 받은 적이 있습니까?
+Fonctionnaire: (elle referme son dossier) Les services de l'État agissent en toute indépendance. Il appartient à l'administration de mener ses contrôles sans considération des personnes. Je pense que nous avons fait le tour de la question.
+(서류철을 덮으며) 국가 기관은 완전히 독립적으로 활동합니다. 행정 기관은 사람에 따라 차별 없이 점검을 수행할 책임이 있지요. 이 문제는 다 다룬 것 같군요.
+Julien: Vous n'avez pas répondu à ma question, madame.
+제 질문에 답하지 않으셨습니다.
+Fonctionnaire: J'y ai répondu de la seule manière que me permettent mes fonctions. Au revoir, monsieur Marchetti.
+제 직무가 허락하는 유일한 방식으로 답했습니다. 안녕히 가십시오, 마르케티 씨.
+Léa: (dans le couloir) Elle n'a rien dit. Mais elle a tout dit, non ?
+(복도에서) 아무 말도 안 했어. 그런데 다 말한 거지, 그렇지?
+Julien: Elle n'a jamais dit « non ». Pas une seule fois. Elle a refusé de confirmer, mais elle n'a pas démenti.
+한 번도 «아니요»라고 하지 않았어. 단 한 번도. 확인은 거부했지만 부인하지도 않았지.
+Léa: Elle avait peur, je crois. Elle aussi.
+그 사람도 무서웠던 것 같아.
+Julien: Ou elle était en colère. Quand quelqu'un d'en haut vous oblige à enterrer un rapport, on n'en est pas forcément fier.
+아니면 화가 났거나. 위에서 보고서를 덮으라고 강요하면, 꼭 자랑스럽지는 않을 테니까.
+Léa: (dans le métro) Julien, on fait un jeu ? Je te dis une phrase de la directrice, et tu me la traduis en français normal.
+(지하철에서) 쥘리앵, 게임 할래? 내가 부국장 말을 하면 네가 그걸 보통 프랑스어로 옮겨 주는 거야.
+Julien: (il sourit) Vas-y.
+(웃으며) 해 봐.
+Léa: « La publication relève d'un dispositif qui n'a pas vocation à l'exhaustivité. »
+«공개는 모든 것을 망라하는 것을 목적으로 하지 않는 제도에 속합니다.»
+Julien: « On ne publie pas tout. »
+«우린 다 공개하진 않아요.»
+Léa: « Certains contrôles font l'objet d'une procédure contradictoire en cours. »
+«일부 점검은 현재 이의 제기 절차가 진행 중입니다.»
+Julien: « Maréchal conteste, alors on attend. »
+«마레샬이 이의를 제기해서 기다리는 중이에요.»
+Léa: « Les délais administratifs sont ce qu'ils sont. »
+«행정 처리 기간이란 원래 그런 겁니다.»
+Julien: « On est lents, et ça nous arrange. »
+«우리가 느린데, 그게 우리한테 편해요.»
+Léa: (elle rit) Et « Cela veut dire ce que cela veut dire » ?
+(웃으며) 그럼 «말 그대로의 뜻입니다»는?
+Julien: « Arrêtez de me poser des questions, s'il vous plaît. »
+«제발 그만 물어보세요.»
+Léa: Tu es très fort à ce jeu.
+너 이 게임 진짜 잘한다.
+Julien: Quinze ans de conférences de presse. On apprend à traduire.
+15년 동안 기자회견을 다녔으니까. 통역하는 법을 배우게 되지.
+Directrice com: (l'après-midi, au siège du groupe Maréchal, boulevard Haussmann) Monsieur Marchetti. Madame Morel. Claire Dubreuil, directrice de la communication. Monsieur Maréchal vous accorde quinze minutes.
+(오후, 오스만 대로의 마레샬 그룹 본사에서) 마르케티 씨. 모렐 씨. 홍보 이사 클레르 뒤브뢰유입니다. 마레샬 씨가 15분을 내주셨습니다.
+Maréchal: (assis derrière un grand bureau, il ne se lève pas) Encore vous. Vous avez aimé la blanquette, j'espère ?
+(큰 책상 뒤에 앉아 일어나지도 않으며) 또 당신들이군. 블랑케트는 맛있었기를 바랍니다.
+Léa: Elle était très régulière. Comme je vous l'ai dit.
+아주 균일했어요. 말씀드렸던 대로요.
+Maréchal: (froid) Quinze minutes. Allez-y.
+(차갑게) 15분. 시작하시지요.
+Julien: Monsieur Maréchal, nous disposons d'éléments indiquant que la quasi-totalité des plats servis dans vos restaurants sont préparés à la cuisine centrale de Rungis, congelés, puis réchauffés sur place. Or, vos cartes affichent la mention « fait maison ». Comment le justifiez-vous ?
+마레샬 씨, 저희는 당신 식당에서 나오는 요리의 거의 전부가 룅지스 중앙 주방에서 만들어져 냉동된 뒤 매장에서 데워진다는 자료를 갖고 있습니다. 그런데 메뉴판에는 «수제» 표시가 붙어 있지요. 이를 어떻게 정당화하시겠습니까?
+Directrice com: Monsieur Maréchal n'a pas à se justifier. Nous respectons scrupuleusement la réglementation en vigueur. La cuisine centrale est un simple atelier de préparation, comme il en existe dans de nombreux groupes.
+마레샬 씨가 정당화할 필요는 없습니다. 저희는 현행 규정을 철저히 지키고 있습니다. 중앙 주방은 여러 그룹에 흔히 있는 단순한 준비 작업장일 뿐입니다.
+Julien: Un « simple atelier » qui produit quarante mille repas par semaine, avec du fond de veau en poudre et des champignons en conserve ?
+육수 분말과 통조림 버섯으로 일주일에 4만 끼를 만드는 «단순한 작업장» 말입니까?
+Maréchal: (il se penche en avant) Qui vous a raconté ça ?
+(몸을 앞으로 숙이며) 누가 그런 얘기를 했습니까?
+Julien: Je ne m'exprime pas sur nos sources.
+저희 취재원에 대해서는 말씀드리지 않습니다.
+Maréchal: Vos sources… Laissez-moi deviner. Une ancienne employée, licenciée pour vol, qui veut se venger ? Madame Girard a été condamnée par les prud'hommes, vous savez. Elle volait dans la caisse.
+취재원이라… 맞혀 볼까요. 절도로 해고되어 복수하고 싶어 하는 전 직원? 지라르 씨는 노동 법원에서 패소했어요, 아시죠. 계산대에서 돈을 훔쳤으니까.
+Léa: (calmement) Nous n'avons cité aucun nom, monsieur Maréchal. C'est vous qui parlez de madame Girard.
+(침착하게) 저희는 어떤 이름도 말하지 않았어요, 마레샬 씨. 지라르 씨 얘기를 꺼낸 건 당신이에요.
+Directrice com: (elle pose la main sur le bras de Maréchal) Jean-Claude…
+(마레샬의 팔에 손을 얹으며) 장클로드…
+Julien: Deuxième question. Le logiciel de caisse utilisé dans vos restaurants permet-il, à votre connaissance, de supprimer des ventes réglées en espèces ? Et pourquoi un utilisateur nommé « admin_finance » se connecte-t-il chaque nuit à trois heures du matin depuis ce bâtiment ?
+두 번째 질문입니다. 당신 식당에서 쓰는 계산대 소프트웨어로 현금 판매 기록을 지울 수 있다는 걸 알고 계십니까? 그리고 왜 «admin_finance»라는 사용자가 매일 밤 새벽 세 시에 이 건물에서 접속합니까?
+Maréchal: (un long silence) C'est de la calomnie. Une pure calomnie.
+(긴 침묵) 그건 중상모략이오. 순전한 중상모략.
+Julien: Alors vous pouvez démentir ? Clairement ?
+그럼 부인하실 수 있습니까? 분명하게요?
+Directrice com: Le groupe ne commentera pas des allégations fondées sur des documents volés ou falsifiés. Toute publication en ce sens fera l'objet de poursuites.
+그룹은 도난당했거나 위조된 문서에 근거한 주장에 대해서는 논평하지 않겠습니다. 그런 취지로 보도한다면 법적 조치가 따를 겁니다.
+Julien: Dernière question. Que représente pour vous la société Vinalux, au Luxembourg ?
+마지막 질문입니다. 룩셈부르크의 비날룩스라는 회사는 당신에게 어떤 의미입니까?
+Maréchal: (il pâlit, une seconde) Vinalux ? Je… Je ne connais pas.
+(1초간 창백해지며) 비날룩스? 나… 나는 모르오.
+Directrice com: (elle se lève) L'entretien est terminé. Je vous raccompagne.
+(일어나며) 인터뷰는 끝났습니다. 배웅해 드리지요.
+Maréchal: (alors qu'ils sortent) Monsieur Marchetti. Une dernière chose. Gérard Pujol est un ami. Un très bon ami. Je vous conseille de vous en souvenir.
+(그들이 나가는 동안) 마르케티 씨. 마지막으로 하나. 제라르 퓌졸은 친구요. 아주 좋은 친구지. 그걸 기억해 두라고 권하고 싶군요.
+Léa: (dans l'ascenseur, à voix basse) Il a dit le nom. Pujol. Nous, on ne l'a même pas prononcé.
+(엘리베이터 안에서 작은 목소리로) 그 이름을 말했어. 퓌졸. 우리는 꺼내지도 않았는데.
+Julien: Il voulait nous faire peur. Il nous a aidés.
+우리를 겁주고 싶었던 거지. 그런데 오히려 우리를 도와준 거야.
+Hélène: (le soir, à la rédaction, deux lettres à la main) Bon. Je ne vais pas tourner autour du pot. Deux mises en demeure. Arrivées cet après-midi, par coursier.
+(저녁, 편집국에서 편지 두 통을 들고) 좋아. 돌려 말하지 않을게. 최고장이 두 통 왔어. 오늘 오후에 특송으로.
+Karim: De qui ?
+누구한테서?
+Hélène: Une de l'avocat du Château Belcastel, Maître Fabre. Une de l'avocat du groupe Maréchal. Même ton, même menace : si nous publions, plainte en diffamation. Et ils demandent des dommages et intérêts de deux millions d'euros chacun.
+하나는 샤토 벨카스텔 변호사 파브르. 하나는 마레샬 그룹 변호사. 같은 어조, 같은 협박이야. 보도하면 명예훼손으로 고소하겠대. 그리고 각각 200만 유로씩 손해배상을 청구하겠대.
+Léa: Quatre millions d'euros ?
+400만 유로요?
+Camille: Le Phare tout entier ne vaut pas quatre millions d'euros.
+〈Le Phare〉를 통째로 팔아도 400만 유로는 안 돼.
+Hélène: Exactement. Ils le savent. C'est pour ça qu'ils écrivent ce chiffre. (elle pose les lettres) Demain matin, Bernard vient ici. On décide ensemble si on publie. Ou pas.
+그러니까. 그 사람들도 알아. 그래서 그 숫자를 쓴 거고. (편지들을 내려놓으며) 내일 아침에 베르나르가 여기 와. 보도할지 말지 같이 정하자.
+Julien: (il regarde la fenêtre) On publie, Hélène.
+(창밖을 보며) 보도할 거야, 엘렌.
+Hélène: Demain matin, Julien. On décide demain matin.
+내일 아침에, 쥘리앵. 내일 아침에 정하자고.
+
+## 주요 단어
+porter plainte | 뽀르떼 쁠랭뜨 | 고소하다, 신고하다 (B1)
+la déposition | 라 데뽀지시옹 | 진술 (B2)
+le cambriolage | 르 깡브리올라쥬 | 절도, 빈집털이 (B1)
+l'inspecteur de l'hygiène | 랭스뻭뙤르 드 리지엔 | 위생 점검관 (B2)
+la chambre froide | 라 샹브르 프루아드 | 냉동실, 저온 창고 (B1)
+le rongeur | 르 롱죄르 | 설치류 (B2)
+la fermeture administrative | 라 페르메뛰르 아드미니스트라띠브 | 행정 폐쇄 (C1)
+l'avis défavorable (m.) | 라비 데파보라블 | 부적합 판정 (C1)
+en haut lieu | 앙 오 리외 | 고위층에서 (C1)
+le cabinet | 르 까비네 | (장관·시장의) 비서실 (C1)
+l'adjoint au maire | 라주앵 오 메르 | 부시장 (B2)
+infirmer → infirmé | 앵피르메 → 앵피르메 | 부인하다, 무효로 하다 (C1)
+démentir → démenti | 데망띠르 → 데망띠 | 부인하다, 반박하다 (B2)
+la calomnie | 라 깔롬니 | 중상모략 (C1)
+l'allégation (f.) | 랄레가시옹 | (근거 없는) 주장 (C1)
+les dommages et intérêts | 레 도마쥬 에 앵떼레 | 손해배상금 (C1)
+tourner autour du pot | 뚜르네 오뚜르 뒤 뽀 | 빙빙 돌려 말하다 (B2)
+
+## 문법·표현 정리
+**porter plainte (pour / contre) (B1):** "고소하다, 신고하다". porter plainte pour cambriolage(절도로 신고하다) · porter plainte contre quelqu'un(~을 고소하다). 경찰서에서: Je viens porter plainte.
+**Ce rapport n'a jamais été transmis (B2):** 수동태 passé composé = avoir été + 과거분사. 행위자를 숨기고 싶을 때 관료들이 즐겨 쓰는 구조입니다. "누가" 전달하지 않았는지 말하지 않지요.
+**à ma connaissance (C1):** "제가 아는 한". 책임을 피하는 공식 표현. 레아는 이를 정확히 짚어 «아는 한»이 무슨 뜻이냐고 반문합니다.
+**Il appartient à … de + 동사원형 (C1):** "~할 책임은 ~에게 있다". Il appartient à l'administration de mener ses contrôles.(점검을 수행하는 것은 행정 기관의 몫이다)
+**ne… ni confirmer ni infirmer (C1):** "확인도 부인도 하지 않다". Je ne peux ni confirmer ni infirmer. 공식 답변의 전형입니다. infirmer(무효화하다, 부인하다)는 confirmer의 반대말.
+**Nous respectons scrupuleusement… (C1):** 기업 홍보 담당자의 단골 문장. scrupuleusement(철저히, 꼼꼼히). 뒤에 la réglementation en vigueur(현행 규정)가 자주 따라옵니다.
+**relever de / avoir vocation à (C1):** relever de = "~에 속하다, ~의 소관이다". avoir vocation à = "~을 목적으로 하다". La publication relève d'un dispositif qui n'a pas vocation à l'exhaustivité.(공개는 모든 것을 망라하는 것을 목적으로 하지 않는 제도에 속한다) — 전형적인 관료 문장.
+**faire l'objet de (C1):** "~의 대상이 되다". Certains contrôles font l'objet d'une procédure.(일부 점검은 절차의 대상이다) · Toute publication fera l'objet de poursuites.(모든 보도는 법적 조치의 대상이 될 것이다)
+**Cela veut dire ce que cela veut dire (B2):** "말 그대로의 뜻이다". 더 설명하기를 거부하는 차가운 대답입니다.
+**faire le tour de (B2):** "~을 한 바퀴 돌다; 빠짐없이 다루다". Ta demande a fait le tour du service.(네 요청서가 부서를 한 바퀴 돌았다) · Nous avons fait le tour de la question.(이 문제는 다 다뤘다)
+**강조: C'est vous qui… (B1):** C'est vous qui parlez de madame Girard.(지라르 씨 얘기를 꺼낸 건 당신이다) qui 뒤의 동사는 vous에 맞춰 parlez.
+**ne pas forcément (B2):** "반드시 ~인 것은 아니다". On n'en est pas forcément fier.(꼭 자랑스러운 것은 아니다) en = de cela(그것에 대해).
+**tourner autour du pot (B2, 관용구):** "빙빙 돌려 말하다". Je ne vais pas tourner autour du pot.(돌려 말하지 않을게) 반대: aller droit au but(곧바로 핵심으로 가다)
+**조건법의 의문 (B2):** Pourquoi l'urbanisme s'occuperait d'hygiène ?(도시계획 쪽에서 왜 위생에 신경을 쓰겠어?) · Pourquoi il prendrait des risques ?(왜 위험을 감수하겠어?) 의심·놀라움을 담은 질문입니다.
