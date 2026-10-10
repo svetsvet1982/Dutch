@@ -1,0 +1,339 @@
+# 4부 9화. Le piège (함정)
+수준: A2~C1 혼합 (중심 C1) | 장소: 신문사 옥상·편집국·생마르탱 운하 카페 | 시간: 1월 19일 월요일~20일 화요일
+핵심 표현: On verra bien qui mord · Quand bien même · Quand ils auront mordu · si tant est qu'il
+
+## 대화
+Hélène: (lundi, à sept heures et demie, sur le toit du journal, emmitouflée dans un manteau, deux cafés à la main) Tu es en retard.
+(월요일 아침 일곱 시 반, 신문사 옥상에서 외투로 몸을 꽁꽁 싸맨 채 커피 두 잔을 들고) 늦었어.
+Julien: (il sort de la petite porte métallique, essoufflé) Sept heures trente-deux. Deux minutes.
+(작은 철문으로 나오며 숨을 헐떡인다) 7시 32분. 2분이요.
+Hélène: (elle lui tend un café) Deux minutes, c'est assez pour qu'un otage change de cachette. Bois.
+(커피를 건네며) 2분이면 인질이 은신처를 옮기기에 충분해. 마셔.
+Julien: (il regarde autour d'eux : les toits gris de Paris, les cheminées, le ciel blanc) Personne ne monte jamais ici ?
+(주위를 둘러본다. 파리의 회색 지붕들, 굴뚝들, 하얀 하늘) 여긴 아무도 안 올라와요?
+Hélène: Le gardien, une fois par an, pour vérifier l'antenne. Et moi, quand je veux réfléchir sans qu'un ordinateur m'écoute. (elle sourit) Ça fait douze ans.
+관리인이 일 년에 한 번 안테나 점검하러. 그리고 나, 컴퓨터가 엿듣지 않는 데서 생각하고 싶을 때. (웃으며) 12년째야.
+Aubry: (la porte s'ouvre de nouveau, il apparaît, un bonnet de laine sur la tête) Bonjour. Je précise que je n'ai pas grimpé six étages depuis 1998. Si je meurs ici, vous témoignerez que c'était pour la liberté de la presse.
+(문이 다시 열리고 털모자를 쓴 그가 나타난다) 안녕하세요. 참고로 1998년 이후로 6층을 걸어 올라온 적이 없어요. 여기서 죽으면 언론 자유를 위해서였다고 증언해 주세요.
+Hélène: (elle lui tend le deuxième café) Pour vous, Bernard. Avec sucre.
+(두 번째 커피를 건네며) 베르나르 거예요. 설탕 넣어서.
+Aubry: Vous me connaissez trop bien. (il s'assoit sur un rebord de pierre) Alors. Ce canari.
+날 너무 잘 아네요. (돌 턱에 앉으며) 자. 그 카나리아.
+Julien: (il sort un carnet) Le principe est simple. Trois fausses informations. Une pour chaque personne : Thomas, Léa, Camille. Chacune doit être assez précise pour être reconnaissable, et assez intéressante pour qu'Orsenne ait envie de réagir.
+(수첩을 꺼내며) 원리는 간단해요. 가짜 정보 세 개. 한 사람에 하나씩. 토마, 레아, 카미유. 각각 알아볼 수 있을 만큼 구체적이어야 하고, 오르센이 반응하고 싶을 만큼 흥미로워야 해요.
+Hélène: Et rien qui puisse mettre Lemaire en danger. C'est la condition de Bernard.
+그리고 르메르를 위험하게 할 수 있는 건 아무것도 안 돼. 베르나르의 조건이야.
+Aubry: Ni lui, ni personne. Pas de faux nom de témoin réel. Pas de fausse accusation contre une personne identifiable. Quand bien même ces informations ne sortiraient jamais de la rédaction, je veux qu'elles soient sans danger si elles sortaient.
+그도, 다른 누구도요. 실존 증인의 가짜 이름은 안 돼요. 신원 확인이 가능한 사람에 대한 가짜 고발도 안 되고요. 설령 이 정보가 편집국 밖으로 절대 나가지 않는다 해도, 나갔을 때 위험하지 않기를 바라요.
+Julien: (il note) Sans danger si elles sortent. Bien. (il réfléchit) Première information. Pour Léa.
+(메모하며) 나가도 위험하지 않게. 좋아요. (생각하며) 첫 번째 정보. 레아용.
+Hélène: Elle doit être en lien avec ce qu'elle fait. Les photos, les hélicoptères.
+레아가 하는 일과 관련이 있어야 해. 사진, 헬기.
+Julien: « Le Phare aurait obtenu le témoignage d'un mécanicien kandarais, selon lequel les hélicoptères Faucon auraient été livrés équipés de missiles non déclarés dans le contrat. »
+«르 파르가 칸다라 정비사의 증언을 확보했는데, 그에 따르면 팔콘 헬기들이 계약서에 신고되지 않은 미사일을 장착한 채 인도됐다고 한다.»
+Aubry: Un mécanicien anonyme, non identifiable. Aucun nom. (il hoche la tête) Acceptable. Et si Orsenne entend parler de « missiles non déclarés », elle se précipitera pour démentir.
+익명의 정비사, 신원 확인 불가. 이름 없음. (고개를 끄덕이며) 괜찮아요. 그리고 오르센이 «신고되지 않은 미사일» 얘기를 들으면 서둘러 부인하겠죠.
+Hélène: Le mot-clé, c'est « missiles ». Information A.
+핵심 단어는 «미사일». 정보 A.
+Julien: Deuxième information. Pour Thomas. (il hésite) Elle doit concerner Malaurie. Puisqu'il le connaît.
+두 번째 정보. 토마용. (망설이며) 말로리에 관한 거여야 해요. 그를 아니까.
+Hélène: Et l'argent. Thomas connaît le circuit des commissions.
+그리고 돈. 토마는 커미션 흐름을 알아.
+Julien: « Le Phare aurait obtenu un relevé bancaire montrant qu'une société liée à Serge Malaurie a reçu quatre millions deux cent mille euros sur un compte à Chypre, à Limassol, trois jours après la signature du contrat kandarais. »
+«르 파르가 은행 거래 내역서를 확보했는데, 그에 따르면 세르주 말로리와 연관된 한 회사가 칸다라 계약 서명 사흘 뒤 키프로스 리마솔의 계좌로 420만 유로를 받았다고 한다.»
+Aubry: (il fronce les sourcils) Celle-là vise Malaurie directement. C'est une personne identifiable.
+(눈썹을 찌푸리며) 그건 말로리를 직접 겨냥하네요. 신원 확인이 가능한 사람이에요.
+Julien: « Une société liée à. » Pas lui. Et si l'information sortait, Malaurie n'aurait qu'à démentir. Ce qu'il fera de toute façon.
+«~와 연관된 회사.» 그 사람이 아니라. 그리고 그 정보가 나가도 말로리는 부인하기만 하면 돼요. 어차피 그럴 거고요.
+Aubry: (un silence) Encore qu'on puisse discuter. Mais soit. Le mot-clé ?
+(침묵) 논쟁의 여지가 없진 않지만. 좋아요. 핵심 단어는?
+Hélène: « Chypre ». Et le chiffre : quatre millions deux. Information B.
+«키프로스». 그리고 숫자: 420만. 정보 B.
+Julien: Troisième information. (il s'arrête, longtemps) Pour Camille.
+세 번째 정보. (오랫동안 멈춘다) 카미유용.
+Hélène: (doucement) Je sais que c'est difficile.
+(조용히) 어려운 거 알아.
+Julien: Ce n'est pas difficile. C'est absurde. (il soupire) Mais d'accord. Elle doit concerner les avocats. Puisque c'est par là qu'on la soupçonne.
+어려운 게 아니라 터무니없는 거죠. (한숨 쉬며) 그래도 알겠어요. 변호사들에 관한 거여야 해요. 그쪽으로 의심받는 거니까.
+Aubry: Prudence. Je ne veux rien qui concerne un cabinet d'avocats réel. Ni Delacroix-Ferrand, ni un autre.
+조심하세요. 실존 법무법인에 관한 건 아무것도 원치 않아요. 들라크루아페랑이든 다른 데든.
+Julien: Alors un ancien d'Orsenne. Fictif. « Le Phare aurait pris contact avec un ancien directeur commercial d'Orsenne, aujourd'hui installé à Abou Dhabi, prêt à témoigner sur le rôle de l'état-major kandarais dans le choix du Faucon. »
+그럼 오르센 출신. 가공의 인물로. «르 파르가 현재 아부다비에 거주하는 오르센 전 영업 이사와 접촉했는데, 그는 팔콘 선정 과정에서 칸다라 참모본부의 역할에 대해 증언할 의향이 있다고 한다.»
+Aubry: Un homme qui n'existe pas. Dans une ville où vivent cinquante anciens commerciaux de l'armement. (il sourit) Parfait. Personne ne pourra jamais le retrouver, puisqu'il n'existe pas.
+존재하지 않는 사람. 무기 업계 전직 영업 사원이 쉰 명은 사는 도시에서. (웃으며) 완벽해요. 존재하지 않으니 아무도 찾아낼 수 없겠죠.
+Hélène: Le mot-clé : « Abou Dhabi ». Information C.
+핵심 단어: «아부다비». 정보 C.
+Julien: (il relit ses notes) A, missiles, Léa. B, Chypre, Thomas. C, Abou Dhabi, Camille.
+(메모를 다시 읽으며) A, 미사일, 레아. B, 키프로스, 토마. C, 아부다비, 카미유.
+Aubry: Et maintenant, la question la plus importante. Comment leur donnez-vous ces informations sans qu'ils se doutent de rien ?
+그리고 이제 가장 중요한 질문. 그들이 아무것도 눈치채지 못하게 이 정보를 어떻게 줄 거예요?
+Hélène: Naturellement. En confidence. Chacun séparément. Chacun avec l'impression d'être le seul à savoir.
+자연스럽게. 비밀이라며. 각자 따로. 각자 자기만 안다는 인상을 받게.
+Julien: Et chacun avec une raison crédible de le savoir. Léa travaille sur les photos et les hélicoptères. Thomas, sur Malaurie. Camille, sur les anciens d'Orsenne.
+그리고 각자 그걸 알 만한 그럴듯한 이유가 있어야 해요. 레아는 사진과 헬기를 맡고 있고. 토마는 말로리. 카미유는 오르센 출신들.
+Aubry: Et qui leur parle ?
+그럼 누가 그들에게 말하죠?
+Hélène: Julien parle à Léa et à Camille. Moi, je parle à Thomas. Il a l'habitude que je lui parle seule. Depuis le premier jour, il cherche à être dans mon bureau.
+쥘리앵이 레아랑 카미유한테 말하고. 내가 토마한테 말할게. 내가 따로 얘기하는 데 익숙하거든. 첫날부터 내 사무실에 들어오려고 애썼으니까.
+Julien: (un silence) Hélène… Si c'est Thomas, il va comprendre très vite. Il est intelligent.
+(침묵) 엘렌… 토마라면 금방 눈치챌 거예요. 똑똑하잖아요.
+Hélène: Si tant est qu'il soit coupable. (elle boit son café) Et s'il est intelligent et coupable, il aura besoin de prouver sa valeur à ceux qui le paient. Une information sur Chypre et quatre millions, c'est exactement ce qu'un homme qui doit de l'argent ne peut pas garder pour lui.
+그가 유죄라면 말이지. (커피를 마시며) 그리고 똑똑하면서 유죄라면, 자기한테 돈을 대는 사람들한테 자기 가치를 증명해야 할 거야. 키프로스와 400만이라는 정보는 빚진 사람이 혼자 간직할 수 없는 바로 그런 정보지.
+Aubry: (il la regarde) Vous avez réfléchi à tout.
+(그녀를 바라보며) 다 생각해 두셨군요.
+Hélène: J'ai eu toute la nuit. Je n'ai pas dormi.
+밤새 시간이 있었어요. 못 잤거든요.
+Julien: Et combien de temps on attend ?
+그럼 얼마나 기다려요?
+Hélène: Dix jours. Pas plus. Lemaire n'a pas dix ans devant lui. (elle regarde Paris) Quand ils auront mordu, nous saurons. Et quand nous saurons, nous aurons perdu beaucoup moins de temps qu'à nous soupçonner les uns les autres.
+열흘. 더는 안 돼. 르메르에겐 10년이 있는 게 아니니까. (파리를 바라보며) 그들이 미끼를 물고 나면 우린 알게 될 거야. 그리고 알게 되면, 서로를 의심하는 것보다 훨씬 적은 시간을 잃은 셈이 되겠지.
+Aubry: Et si personne ne mord ?
+그런데 아무도 안 물면요?
+Hélène: Alors, dans dix jours, nous aurons appris quelque chose aussi. Que la fuite est ailleurs. Ou qu'elle s'est arrêtée. (un silence) Ou que la taupe est plus prudente que nous.
+그럼 열흘 뒤에 우리도 뭔가를 배우게 되겠죠. 유출이 다른 데 있다는 걸. 아니면 멈췄다는 걸. (침묵) 아니면 두더지가 우리보다 더 신중하다는 걸.
+Julien: (il range son carnet) On verra bien qui mord.
+(수첩을 집어넣으며) 누가 무는지 두고 보죠.
+Julien: (il regarde les toits, longtemps) Tu sais ce qui me gêne, Hélène ? On va mentir à trois personnes qui nous font confiance. Pour trouver celle qui nous ment.
+(오랫동안 지붕들을 바라보며) 뭐가 마음에 걸리는지 알아요, 엘렌? 우리를 믿는 세 사람한테 거짓말을 하게 돼요. 우리한테 거짓말하는 한 사람을 찾으려고.
+Hélène: Je sais. (elle serre sa tasse entre ses mains) Deux d'entre elles, au moins, ne méritent pas qu'on leur mente.
+알아. (잔을 두 손으로 감싸 쥐며) 적어도 그중 둘은 거짓말을 들을 이유가 없지.
+Aubry: Le mensonge défensif, disaient les philosophes. Mentir pour protéger. (il boit) Kant aurait refusé. Benjamin Constant aurait accepté. Je suis avocat, je choisis toujours la thèse qui protège mon client.
+방어적 거짓말이라고 철학자들은 말했죠. 지키기 위해 거짓말하는 것. (마시며) 칸트라면 거부했을 테고. 뱅자맹 콩스탕이라면 받아들였겠죠. 난 변호사니까 늘 내 의뢰인을 보호하는 쪽을 택해요.
+Julien: Et qui est votre client, ici ?
+그럼 여기서 의뢰인은 누구예요?
+Aubry: (il regarde vers l'horizon, vers le sud) Un homme assis devant un drap noir, quelque part au Kandara.
+(지평선 너머 남쪽을 바라보며) 칸다라 어딘가에서 검은 천 앞에 앉아 있는 한 남자.
+Hélène: (un long silence) Il y a douze ans, quand mon journal a fermé… on avait perdu un procès. Mais avant le procès, quelqu'un avait donné nos sources à l'avocat d'en face. On n'a jamais su qui. On s'est séparés en se soupçonnant tous.
+(긴 침묵) 12년 전 내가 있던 신문사가 문 닫았을 때… 소송에서 졌었지. 그런데 소송 전에 누군가 우리 취재원을 상대편 변호사한테 넘겼어. 끝내 누군지 몰랐어. 서로를 의심하면서 뿔뿔이 흩어졌지.
+Julien: (il se tourne vers elle) Tu ne me l'avais jamais dit.
+(그녀 쪽으로 돌아서며) 한 번도 말한 적 없잖아요.
+Hélène: Je ne l'ai jamais dit à personne. (elle sourit tristement) Je me suis promis que ça ne m'arriverait plus jamais. Que si un jour il y avait une taupe dans mon journal, je la trouverais. Vite. Avant qu'elle détruise tout.
+아무한테도 말한 적 없어. (슬프게 웃으며) 다시는 그런 일이 없게 하겠다고 나 자신한테 약속했어. 언젠가 내 신문사에 두더지가 생기면 찾아내겠다고. 빨리. 그게 모든 걸 무너뜨리기 전에.
+Aubry: Et c'est pour ça que vous êtes montée sur ce toit à sept heures du matin.
+그래서 아침 일곱 시에 이 옥상에 올라오신 거군요.
+Hélène: C'est pour ça. (elle regarde Julien) Et c'est pour ça que, quand tout sera fini, je m'excuserai auprès de chacun. Les coupables comme les innocents.
+그래서야. (쥘리앵을 바라보며) 그리고 그래서 다 끝나면 한 명 한 명한테 사과할 거야. 죄가 있는 사람이든 없는 사람이든.
+Julien: Même auprès du coupable ?
+죄 있는 사람한테까지요?
+Hélène: Surtout auprès du coupable. Il aura sûrement ses raisons. Elles ne l'excuseront pas. Mais je voudrai les entendre.
+특히 죄 있는 사람한테. 분명 나름의 이유가 있겠지. 그 이유가 그를 용서해 주진 않겠지만. 그래도 듣고 싶을 거야.
+Karim: (la porte s'ouvre, il apparaît, essoufflé, son ordinateur portable sous le bras) Pardon ! Je sais que je ne devais pas monter. Mais j'ai les résultats. L'ordinateur de Léa.
+(문이 열리고 노트북을 끼고 숨을 헐떡이며 나타난다) 죄송해요! 올라오면 안 되는 거 알아요. 그런데 결과가 나왔어요. 레아 컴퓨터.
+Hélène: (elle se lève) Et ?
+(일어서며) 그래서?
+Karim: Elle me l'a donné hier soir, sans poser de question. Sans hésiter. (il ouvre l'ordinateur) J'ai tout analysé. Cette nuit. Aucun logiciel espion. Aucune connexion suspecte. Aucun transfert de fichier mardi soir. Elle a ouvert le document, elle l'a lu pendant six minutes, elle l'a fermé. C'est tout.
+어젯밤에 저한테 줬어요. 아무것도 묻지 않고. 망설임도 없이. (노트북을 열며) 다 분석했어요. 밤새. 스파이웨어 없음. 수상한 접속 없음. 화요일 밤 파일 전송 없음. 문서를 열어서 6분 동안 읽고 닫았어요. 그게 다예요.
+Julien: (il ferme les yeux une seconde, soulagé) Six minutes.
+(안도하며 잠깐 눈을 감는다) 6분.
+Karim: Six minutes. Elle relisait. Trois fois, je pense. (il sourit faiblement) Comme toujours.
+6분. 다시 읽고 있었던 거죠. 세 번은 읽었을 거예요. (희미하게 웃으며) 늘 그렇듯이.
+Aubry: Cela ne prouve pas son innocence. Elle aurait pu parler. De vive voix. Après avoir lu.
+그게 그녀의 무죄를 증명하는 건 아니에요. 말로 했을 수도 있으니까. 읽고 난 다음에.
+Karim: (sa voix se durcit) À Nicolas ? Qui dormait ?
+(목소리가 딱딱해지며) 니콜라한테요? 자고 있던?
+Aubry: (doucement) Je ne dis pas qu'elle l'a fait, Karim. Je dis qu'un ordinateur propre ne prouve pas qu'une bouche est restée fermée. C'est pour ça qu'on a besoin du canari.
+(조용히) 그녀가 그랬다는 게 아니에요, 카림. 깨끗한 컴퓨터가 입이 닫혀 있었다는 걸 증명하진 않는다는 거죠. 그래서 카나리아가 필요한 거고요.
+Karim: (il baisse les yeux) Le canari. (un silence) Je veux en faire partie. Le mettre en place. Les trois versions. Les mots-clés. La surveillance de ce qui sort.
+(눈을 내리깔며) 카나리아. (침묵) 저도 참여하고 싶어요. 설치하는 거요. 세 버전. 핵심 단어들. 밖으로 나오는 걸 감시하는 거.
+Hélène: (elle le regarde) Tu en fais partie. Tu surveilles tout : les communiqués d'Orsenne, les articles des concurrents, les réseaux sociaux, les lettres d'avocats. Si « missiles », « Chypre » ou « Abou Dhabi » apparaît quelque part, je veux le savoir dans l'heure.
+(그를 바라보며) 넌 참여해. 모든 걸 감시해. 오르센 보도자료, 경쟁지 기사, 소셜 미디어, 변호사 서한. «미사일», «키프로스», «아부다비»가 어디든 나타나면 한 시간 안에 알고 싶어.
+Karim: Dans l'heure.
+한 시간 안에.
+Julien: (le soir, au bord du canal Saint-Martin, dans un petit café, avec Léa) Je dois te dire quelque chose. En confidence. Personne d'autre ne le sait, à part Hélène et moi.
+(저녁, 생마르탱 운하 근처 작은 카페에서 레아와 함께) 말해 줄 게 있어. 비밀로. 엘렌이랑 나 말고는 아무도 몰라.
+Léa: (elle pose sa tasse) Je t'écoute.
+(잔을 내려놓으며) 듣고 있어요.
+Julien: (il baisse la voix) Hier, j'ai reçu un message d'un contact au Kandara. Un mécanicien de l'armée de l'air. Il dit que les hélicoptères Faucon ont été livrés avec des missiles. Des missiles qui ne sont pas dans le contrat.
+(목소리를 낮추며) 어제 칸다라의 연락처한테서 메시지를 받았어. 공군 정비사야. 팔콘 헬기들이 미사일을 달고 인도됐대. 계약서에 없는 미사일을.
+Léa: (elle ouvre de grands yeux) Des missiles non déclarés ?
+(눈을 크게 뜨며) 신고되지 않은 미사일이요?
+Julien: Il a peur. Il ne veut pas donner son nom. On n'a pas encore de preuve. Juste son témoignage.
+겁을 먹고 있어. 이름을 밝히고 싶어 하지 않아. 아직 증거는 없어. 그 사람 증언뿐이야.
+Léa: (elle prend son carnet, puis elle s'arrête) Je ne l'écris pas ?
+(수첩을 집다가 멈추며) 안 적어요?
+Julien: (un très court silence) Non. Tu ne l'écris nulle part. Tu ne le dis à personne. Ni à Camille, ni à Karim, ni à Thomas. Pas encore.
+(아주 짧은 침묵) 응. 어디에도 적지 마. 아무한테도 말하지 마. 카미유한테도, 카림한테도, 토마한테도. 아직은.
+Léa: (elle range son carnet) Pourquoi tu me le dis à moi ?
+(수첩을 집어넣으며) 왜 저한테 말해요?
+Julien: Parce que tu as pris les photos du salon. Les hélicoptères, le général Koné. Si un jour on a la preuve, c'est toi qui feras le lien entre les photos et le témoignage.
+네가 전시회 사진을 찍었으니까. 헬기, 코네 장군. 언젠가 증거가 생기면, 사진과 증언을 연결하는 건 네가 될 거야.
+Léa: (elle hoche la tête, sérieuse) Je ne dirai rien. Promis.
+(진지하게 고개를 끄덕이며) 아무 말도 안 할게요. 약속해요.
+Julien: (il la regarde, et il se déteste un peu) Merci, Léa.
+(그녀를 바라보며 자신이 조금 싫어진다) 고마워, 레아.
+Hélène: (au même moment, dans son bureau, porte fermée, avec Thomas) Assieds-toi, Thomas. Je dois te parler de Malaurie.
+(같은 시각, 문을 닫은 사무실에서 토마와 함께) 앉아요, 토마. 말로리에 대해 얘기해야겠어요.
+Thomas: (il s'assoit, attentif) Je t'écoute.
+(주의 깊게 앉으며) 듣고 있어요.
+Hélène: Une source m'a fait parvenir un document. Un relevé bancaire. Une société liée à Malaurie a reçu quatre millions deux cent mille euros sur un compte à Chypre. À Limassol. Trois jours après la signature du contrat.
+한 취재원이 서류를 하나 보내왔어요. 은행 거래 내역서. 말로리와 연관된 회사가 키프로스 리마솔의 계좌로 420만 유로를 받았어요. 계약 서명 사흘 뒤에.
+Thomas: (un silence ; son visage ne bouge pas, mais ses doigts se serrent sur l'accoudoir) Chypre… Quatre millions deux. C'est énorme.
+(침묵. 얼굴은 그대로지만 팔걸이 위의 손가락에 힘이 들어간다) 키프로스… 420만. 엄청나네요.
+Hélène: Tu connais le circuit de Malaurie mieux que nous. Je veux que tu vérifies si cette société existe. Discrètement. Sans en parler à personne. Ni à Julien, ni aux autres. Pour l'instant, c'est entre toi et moi.
+말로리의 흐름은 우리보다 당신이 더 잘 알잖아요. 그 회사가 존재하는지 확인해 줬으면 해요. 조용히. 아무한테도 말하지 말고. 쥘리앵한테도, 다른 사람들한테도. 지금은 당신과 나 사이의 일이에요.
+Thomas: (il hoche la tête) Entre toi et moi. (il sourit) Merci de ta confiance, Hélène.
+(고개를 끄덕이며) 당신과 나 사이. (웃으며) 믿어 줘서 고마워요, 엘렌.
+Hélène: (elle le regarde droit dans les yeux) La confiance, c'est la seule chose qu'on ne peut pas acheter, Thomas.
+(그의 눈을 똑바로 보며) 신뢰는 돈으로 살 수 없는 유일한 거예요, 토마.
+Thomas: (un très court silence) Je sais.
+(아주 짧은 침묵) 알아요.
+Léa: (dix minutes plus tard, à la fenêtre de la rédaction, elle regarde la rue) Thomas est sorti. Il est au coin de la rue. Au téléphone.
+(10분 뒤, 편집국 창가에서 거리를 바라보며) 토마가 나갔어요. 길모퉁이에 있어요. 통화 중이에요.
+Karim: (sans lever les yeux de son écran) Il est sorti fumer, peut-être.
+(화면에서 눈을 떼지 않고) 담배 피우러 나간 거겠지.
+Léa: Il ne fume pas.
+그 사람 담배 안 피워요.
+Karim: (il lève les yeux, il la regarde) Tu as raison. Il ne fume pas.
+(눈을 들어 그녀를 바라보며) 맞네. 안 피우지.
+Léa: (elle regarde Thomas qui raccroche, qui regarde autour de lui, puis qui rentre) Trois minutes. Il a parlé trois minutes.
+(전화를 끊고 주위를 둘러본 뒤 다시 들어오는 토마를 바라보며) 3분. 3분 통화했어요.
+Karim: (doucement) Ne conclus rien, Léa. Il peut appeler sa mère. Ou son banquier.
+(조용히) 결론 내리지 마, 레아. 엄마한테 전화했을 수도 있고. 은행원한테 했을 수도 있고.
+Léa: (elle retourne à son bureau) Je ne conclus rien. Je note l'heure.
+(자기 책상으로 돌아가며) 결론 안 내요. 시간만 적어 둬요.
+Karim: (un petit sourire) Tu deviens dangereuse, toi.
+(옅은 미소를 지으며) 너 점점 위험해진다.
+Julien: (mardi, à dix heures, sur le trottoir devant le journal, avec Camille qui fume une cigarette) Tu fumes, maintenant ?
+(화요일 오전 열 시, 신문사 앞 인도에서 담배를 피우는 카미유와 함께) 이제 담배 피워?
+Camille: Depuis la semaine dernière. Depuis Malaurie. (elle souffle la fumée) C'est temporaire. Comme toutes les mauvaises habitudes.
+지난주부터. 말로리 이후로. (연기를 내뿜으며) 잠깐이야. 모든 나쁜 습관이 그렇듯이.
+Julien: (il regarde la rue) Camille… J'ai une piste. Un ancien directeur commercial d'Orsenne. Il vit à Abou Dhabi maintenant. Il serait prêt à témoigner sur le rôle de l'état-major kandarais.
+(거리를 바라보며) 카미유… 단서가 하나 있어. 오르센 전 영업 이사. 지금 아부다비에 살아. 칸다라 참모본부의 역할에 대해 증언할 의향이 있대.
+Camille: (elle le regarde) Abou Dhabi ? Tu l'as trouvé comment ?
+(그를 바라보며) 아부다비? 어떻게 찾았어?
+Julien: Un vieux contact. Je ne peux pas t'en dire plus. Mais si ça se fait, c'est toi qui iras le voir. Personne d'autre ne sait. Garde-le pour toi.
+옛날 연락처. 더는 말해 줄 수 없어. 그런데 일이 성사되면 네가 그를 만나러 가게 될 거야. 아무도 몰라. 너만 알고 있어.
+Camille: (un long silence, elle écrase sa cigarette) Julien. Regarde-moi.
+(긴 침묵 후 담배를 비벼 끄며) 쥘리앵. 날 봐.
+Julien: (il la regarde)
+(그녀를 바라본다) …
+Camille: (doucement) Tu me mens.
+(조용히) 거짓말하고 있네.
+Julien: (il ne répond pas)
+(대답하지 않는다) …
+Camille: (elle sourit tristement) Quinze ans que je te connais. Quand tu mens, tu regardes ma bouche. Pas mes yeux. (un silence) C'est un canari, c'est ça ?
+(슬프게 웃으며) 15년째 너를 알아. 넌 거짓말할 때 내 눈이 아니라 입을 봐. (침묵) 카나리아지, 그렇지?
+Julien: (un très long silence) Je ne peux pas te répondre.
+(아주 긴 침묵) 대답할 수 없어.
+Camille: (elle hoche la tête, lentement) Tu viens de me répondre. (elle remonte le col de son manteau) D'accord. Je garde Abou Dhabi pour moi. Je ne le dirai à personne. Et quand tout sera fini, tu m'offriras un très bon dîner. Et tu me diras pourquoi j'étais sur la liste.
+(천천히 고개를 끄덕이며) 방금 대답했네. (외투 깃을 세우며) 알았어. 아부다비는 나만 알고 있을게. 아무한테도 말하지 않을게. 그리고 다 끝나면 아주 좋은 저녁을 사 줘. 그리고 내가 왜 명단에 있었는지 말해 줘.
+Julien: (la voix serrée) Camille…
+(목이 메어) 카미유…
+Camille: Ne dis rien. Tu fais ton travail. Moi aussi, à ta place, je l'aurais fait. (elle ouvre la porte du journal) Mais ça fait mal quand même.
+아무 말도 하지 마. 넌 네 일을 하는 거야. 나라도 네 입장이었으면 그렇게 했을 거야. (신문사 문을 열며) 그래도 아프긴 하네.
+Julien: (seul sur le trottoir, il regarde la porte se refermer) …
+(혼자 인도에 서서 문이 닫히는 걸 바라본다) …
+Karim: (à midi, devant ses trois écrans, il installe des alertes : trois mots en rouge sur l'écran central) « Missiles ». « Chypre ». « Abou Dhabi ». (il appuie sur une touche) C'est parti.
+(정오, 화면 세 대 앞에서 알림을 설정한다. 가운데 화면에 빨간 글씨로 세 단어) «미사일». «키프로스». «아부다비». (키를 누르며) 시작.
+Hélène: (derrière lui, à voix basse) Les trois canaris sont dans leurs cages. Maintenant, on attend qu'un des trois chante.
+(그 뒤에서 작게) 카나리아 세 마리가 새장에 들어갔어. 이제 셋 중 하나가 노래하기를 기다리는 거야.
+Thomas: (à seize heures, il frappe à la porte d'Hélène, il entre) Pour la société de Chypre… J'ai cherché. Je n'ai encore rien trouvé. Les registres chypriotes sont très opaques.
+(오후 네 시, 엘렌의 문을 두드리고 들어오며) 키프로스 회사 건… 찾아봤어요. 아직 아무것도 못 찾았어요. 키프로스 등기부는 아주 불투명해서요.
+Hélène: (calme) Prends ton temps.
+(침착하게) 천천히 해요.
+Thomas: Tu peux me montrer le relevé ? Le document original ? Ça m'aiderait. Le nom de la banque, le numéro de compte…
+그 내역서 보여 줄 수 있어요? 원본 서류요? 도움이 될 텐데. 은행 이름, 계좌 번호…
+Hélène: (un très court silence) Non. La source m'a demandé de ne le montrer à personne. Même à toi. Tu comprends ?
+(아주 짧은 침묵) 안 돼요. 취재원이 아무한테도 보여 주지 말라고 했어요. 당신한테도요. 이해하죠?
+Thomas: (il sourit) Bien sûr. La règle. (il se lève) Je continue à chercher.
+(웃으며) 물론이죠. 규칙이죠. (일어서며) 계속 찾아볼게요.
+Hélène: (quand il est parti, elle écrit dans son carnet) « Seize heures deux. Demande le document original. »
+(그가 나가자 수첩에 적는다) «16시 2분. 원본 서류를 요구함.»
+Nicolas: (à dix-neuf heures, chez Léa, il enlève son manteau) Je reviens du café avec Thomas.
+(저녁 일곱 시, 레아의 집에서 외투를 벗으며) 토마랑 커피 마시고 왔어.
+Léa: (elle se lève du canapé) Alors ? Raconte. Tout.
+(소파에서 일어서며) 그래서? 얘기해 봐. 전부.
+Nicolas: (il s'assoit) Il est très sympathique. Il m'a parlé du Sahel, de la Libye. Il m'a raconté des histoires incroyables. Une heure et demie.
+(앉으며) 아주 호감 가는 사람이야. 사헬, 리비아 얘기를 해 줬어. 믿기지 않는 이야기들. 한 시간 반 동안.
+Léa: Et sur moi ? Il a posé des questions ?
+그럼 나에 대해선? 질문했어?
+Nicolas: (il réfléchit) Quelques-unes. Comme ça, en passant. Si tu travaillais beaucoup le soir. Si tu travaillais à la maison. Si tu me parlais de ton travail.
+(생각하며) 몇 개. 그냥 지나가는 말로. 네가 저녁에 일을 많이 하는지. 집에서 일하는지. 나한테 일 얘기를 하는지.
+Léa: Et tu as répondu quoi ?
+그래서 뭐라고 했어?
+Nicolas: La vérité. Que tu ne me dis jamais rien. (il sourit) Il a ri. Il a dit : « Elle a raison. Dans notre métier, il vaut mieux ne rien dire à personne. »
+사실대로. 넌 나한테 아무 말도 안 한다고. (웃으며) 웃더라. «레아가 옳아. 우리 일에선 아무한테도 아무 말 안 하는 게 낫지.»라고 했어.
+Léa: (elle s'assoit à côté de lui) Rien d'autre ?
+(그의 옆에 앉으며) 다른 건 없어?
+Nicolas: (un silence) Si. Une chose bizarre. Il m'a demandé si tu travaillais « sur les hélicoptères ». Il a dit : « Elle a pris de très belles photos d'hélicoptères au salon. Elle doit être passionnée. »
+(침묵) 있어. 이상한 거 하나. 네가 «헬기 건»을 하고 있냐고 물었어. «전시회에서 헬기 사진을 아주 멋지게 찍었던데. 열정이 대단한가 봐»라고 했어.
+Léa: (elle se fige) Les hélicoptères ?
+(얼어붙으며) 헬기요?
+Nicolas: J'ai dit que je ne savais pas. Que tu ne me parlais pas des hélicoptères. (il la regarde) C'est vrai, d'ailleurs. Tu ne m'en as jamais parlé.
+모른다고 했어. 넌 나한테 헬기 얘기 안 한다고. (그녀를 바라보며) 사실이기도 하고. 한 번도 얘기한 적 없잖아.
+Léa: (très bas) Hier soir, Julien m'a parlé d'hélicoptères. En confidence. Et ce soir, Thomas te demande si je travaille sur les hélicoptères.
+(아주 작게) 어젯밤에 쥘리앵이 나한테 헬기 얘기를 했어. 비밀이라며. 그런데 오늘 저녁 토마가 너한테 내가 헬기 건을 하냐고 묻고.
+Nicolas: (il fronce les sourcils) C'est une coïncidence ?
+(눈썹을 찌푸리며) 우연이야?
+Léa: (elle prend son téléphone, puis elle le repose) Je ne sais pas. (un long silence) Et autre chose ? Il a parlé de samedi ?
+(휴대폰을 집었다가 다시 내려놓으며) 모르겠어. (긴 침묵) 다른 건? 토요일 얘기 했어?
+Nicolas: (il sourit) Oui. Ta fête d'anniversaire. Samedi soir. Il a dit qu'il viendrait. Avec du champagne. Il a dit : « Je ne raterais ça pour rien au monde. »
+(웃으며) 응. 네 생일 파티. 토요일 저녁. 온대. 샴페인 들고. «무슨 일이 있어도 놓치지 않을 거야»라고 했어.
+Léa: (elle regarde la fenêtre, la nuit sur Paris) Pour rien au monde.
+(창밖, 파리의 밤을 바라보며) 무슨 일이 있어도.
+Camille: (à vingt-trois heures, sur le toit du journal, elle rejoint Julien, qui regarde la ville) Je savais que tu serais là.
+(밤 열한 시, 신문사 옥상에서 도시를 바라보는 쥘리앵에게 다가가며) 여기 있을 줄 알았어.
+Julien: (il ne se retourne pas) Comment tu as su ?
+(돌아보지 않고) 어떻게 알았어?
+Camille: Hélène m'a dit un jour que c'était l'endroit où on réfléchit sans qu'un ordinateur nous écoute. (elle s'accoude à côté de lui) Et toi, tu as beaucoup à réfléchir.
+엘렌이 언젠가 그러더라. 컴퓨터가 엿듣지 않는 데서 생각하는 곳이라고. (그의 옆에 팔꿈치를 괴며) 그리고 넌 생각할 게 많잖아.
+Julien: Camille, ce matin…
+카미유, 오늘 아침…
+Camille: Ne t'excuse pas. (un silence) Abou Dhabi est en sécurité. Je ne l'ai dit à personne. Je ne le dirai à personne. Même pas à Juliette.
+사과하지 마. (침묵) 아부다비는 안전해. 아무한테도 말 안 했어. 앞으로도 안 할 거고. 쥘리에트한테도.
+Julien: (il se tourne vers elle, surpris) Juliette ?
+(놀라서 그녀 쪽으로 돌아서며) 쥘리에트?
+Camille: (elle sourit tristement) Je ne suis pas idiote, Julien. Juliette travaille chez Delacroix-Ferrand. Le cabinet qui défend Orsenne. Je l'ai vu hier, sur le site, quand Karim a parlé de la lettre. (elle regarde Paris) J'ai compris pourquoi j'étais sur la liste.
+(슬프게 웃으며) 나 바보 아니야, 쥘리앵. 쥘리에트는 들라크루아페랑에서 일해. 오르센을 변호하는 법인. 어제 카림이 편지 얘기를 했을 때 사이트에서 봤어. (파리를 바라보며) 내가 왜 명단에 있었는지 알겠더라.
+Julien: (un long silence) Tu ne nous avais jamais dit où elle travaillait.
+(긴 침묵) 언니가 어디서 일하는지 한 번도 말한 적 없잖아.
+Camille: Parce que vous ne me l'aviez jamais demandé. Et parce que Juliette et moi, on a une règle : jamais un mot sur nos dossiers. Jamais. Depuis quinze ans. (elle se tourne vers lui) Je te le jure sur la tête de ma sœur.
+너희가 한 번도 안 물어봤으니까. 그리고 쥘리에트랑 나한텐 규칙이 있어. 서로의 사건에 대해선 절대 한 마디도 안 하기. 절대로. 15년째. (그를 향해 돌아서며) 우리 언니를 걸고 맹세해.
+Julien: (il la regarde longtemps) Je te crois.
+(한참 그녀를 바라보며) 믿어.
+Camille: Non. Tu veux me croire. Ce n'est pas la même chose. (un petit sourire) C'est pour ça que tu as besoin du canari. Et c'est pour ça que je ne t'en veux pas. (elle remonte son col) Bonne nuit, Julien.
+아니. 믿고 싶은 거지. 그건 같은 게 아니야. (옅은 미소를 지으며) 그래서 카나리아가 필요한 거고. 그래서 내가 너한테 화가 안 나는 거고. (깃을 세우며) 잘 자, 쥘리앵.
+Julien: Camille ?
+카미유?
+Camille: (elle s'arrête devant la petite porte) Oui ?
+(작은 문 앞에서 멈춰 서며) 응?
+Julien: Le dîner. Je te l'offrirai. Le meilleur de Paris.
+그 저녁. 살게. 파리 최고로.
+Camille: (elle rit doucement) Tu n'as pas les moyens.
+(조용히 웃으며) 그럴 돈 없잖아.
+Julien: (il sourit enfin) Alors le meilleur de Belleville.
+(마침내 웃으며) 그럼 벨빌 최고로.
+
+## 주요 단어
+emmitouflé(e) | 앙미뚜플레 | (옷으로) 꽁꽁 싸맨 (C1)
+la cachette | 라 까셰뜨 | 은신처 (B1)
+le rebord | 르 르보르 | 턱, 가장자리 (B2)
+se précipiter | 스 프레시삐떼 | 서두르다, 달려들다 (B2)
+démentir | 데망띠르 | 부인하다 (B2)
+mordre (à l'hameçon) | 모르드르 | (미끼를) 물다 (B1)
+non déclaré(e) | 농 데끌라레 | 신고되지 않은 (B2)
+le relevé bancaire | 르 를르베 방께르 | 은행 거래 내역서 (B2)
+fictif / fictive | 픽띠프 / 픽띠브 | 가공의, 허구의 (B2)
+se douter de | 스 두떼 드 | 눈치채다, 짐작하다 (B2)
+crédible | 크레디블 | 그럴듯한, 믿을 만한 (B2)
+le logiciel espion | 르 로지시엘 에스삐옹 | 스파이웨어 (B2)
+l'accoudoir (m.) | 라꾸두아르 | 팔걸이 (B2)
+écraser (une cigarette) | 에크라제 | (담배를) 비벼 끄다 (B1)
+le col | 르 꼴 | 깃, 칼라 (A2)
+la cage | 라 까주 | 새장 (A2)
+
+## 문법·표현 정리
+**On verra bien qui mord (B1):** voir의 미래 verra. "누가 무는지 두고 보자". mordre(물다)는 미끼를 무는 것에서 함정에 걸리는 것을 뜻합니다. mordre à l'hameçon(낚싯바늘을 물다).
+**Quand bien même + 조건법 (C1):** "설령 ~라 할지라도". Quand bien même ces informations ne sortiraient jamais, je veux qu'elles soient sans danger. 3부 12화 복습.
+**Quand ils auront mordu, nous saurons (C1):** 전미래(futur antérieur) = avoir/être 미래 + 과거분사. 미래의 한 시점보다 먼저 완료될 일. "그들이 물고 나면 우리는 알 것이다".
+**전미래의 다른 예 (C1):** Dans dix jours, nous aurons appris quelque chose.(열흘 뒤엔 뭔가를 배웠을 것이다) / Nous aurons perdu beaucoup moins de temps.(훨씬 적은 시간을 잃은 셈이 될 것이다) / Quand tout sera fini, tu m'offriras un dîner.
+**si tant est que + 접속법 (C1):** "~라고 가정한다면, ~라면 말이지만". Si tant est qu'il soit coupable.(그가 유죄라면 말이지만) 의심을 남겨 두는 양보 표현.
+**encore que + 접속법 (C1):** "~이긴 하지만". Encore qu'on puisse discuter.(논쟁의 여지가 없진 않지만) 앞 말을 살짝 뒤집는 문어체.
+**soit (C1):** "좋아요, 그렇다 치죠". 마지못한 동의. Mais soit.
+**selon lequel (C1):** 전치사 + lequel. le témoignage d'un mécanicien, selon lequel…(정비사의 증언, 그에 따르면…)
+**n'avoir qu'à + 동사원형 (B2):** "~하기만 하면 된다". Malaurie n'aurait qu'à démentir.(말로리는 부인하기만 하면 될 것이다)
+**sans qu'ils se doutent de rien (B2):** sans que + 접속법. "그들이 아무것도 눈치채지 못하게". se douter de qch.
+**les uns les autres (B2):** "서로". se soupçonner les uns les autres(서로를 의심하다)
+**faire parvenir (C1):** "보내다, 전달하다". Une source m'a fait parvenir un document.
+**à ta place, je l'aurais fait (B2):** 조건법 과거. "네 입장이었다면 나도 그렇게 했을 거야".
+**dans l'heure (B2):** "한 시간 안에". Je veux le savoir dans l'heure.
