@@ -9,8 +9,8 @@ Karim: (il ne lève pas les yeux de son écran) La première neige de l'hiver. E
 (화면에서 눈도 떼지 않고) 올겨울 첫눈. 그리고 우린 토요일 밤에 일하고.
 Léa: (elle secoue son bonnet) Où sont les autres ?
 (비니를 털며) 다른 사람들은요?
-Karim: Hélène et Bernard sont dans le bureau. Camille et Julien relisent l'article. (un silence) Thomas devait venir à dix-huit heures.
-엘렌이랑 베르나르는 사무실에. 카미유랑 쥘리앵은 기사 교정 중. (침묵) 토마는 여섯 시에 오기로 했었어.
+Karim: Hélène et Gilles sont dans le bureau. Camille et Julien relisent l'article. (un silence) Thomas devait venir à dix-huit heures.
+엘렌이랑 질는 사무실에. 카미유랑 쥘리앵은 기사 교정 중. (침묵) 토마는 여섯 시에 오기로 했었어.
 Léa: (elle regarde le bureau vide de Thomas ; la couronne en papier n'est plus sur son écran) Il est en retard ?
 (토마의 빈 책상을 본다. 모니터 위의 종이 왕관이 없다) 늦는 거예요?
 Karim: Son téléphone est éteint depuis seize heures. Son badge n'a pas été utilisé aujourd'hui.
@@ -39,17 +39,17 @@ Léa: La libération.
 석방이요.
 Hélène: La libération. Nous avons promis à Anne Lemaire. Pas une ligne tant qu'il est là-bas.
 석방. 안 르메르한테 약속했지. 그가 거기 있는 동안엔 한 줄도 안 쓴다고.
-Bernard: (derrière elle) Et Harmel croit que nous attendons fin février. Grâce au message de Thomas.
+Gilles: (derrière elle) Et Harmel croit que nous attendons fin février. Grâce au message de Thomas.
 (그녀 뒤에서) 그리고 아르멜은 우리가 2월 말까지 기다린다고 믿고 있고. 토마의 메시지 덕분에.
 Karim: (à voix basse) Si Thomas est encore avec nous.
 (작게) 토마가 아직 우리 편이라면요.
-Bernard: (il se tourne vers lui) Qu'est-ce que tu veux dire ?
+Gilles: (il se tourne vers lui) Qu'est-ce que tu veux dire ?
 (그에게 돌아서며) 무슨 뜻이야?
 Karim: Son téléphone est éteint depuis seize heures. Il n'est pas venu. Il n'a prévenu personne.
 네 시부터 휴대폰이 꺼져 있어요. 안 왔어요. 아무한테도 연락 안 했어요.
 Hélène: (elle sort son téléphone, elle appelle ; elle écoute) « Le numéro que vous demandez n'est pas disponible. » (elle raccroche) L'avocat à Londres ?
 (휴대폰을 꺼내 전화를 걸고 듣는다) «거신 번호는 연결할 수 없습니다.» (끊으며) 런던 변호사는?
-Bernard: Je l'ai eu à quinze heures. Thomas devait prendre l'Eurostar demain matin pour porter plainte lundi. Tout était prêt.
+Gilles: Je l'ai eu à quinze heures. Thomas devait prendre l'Eurostar demain matin pour porter plainte lundi. Tout était prêt.
 세 시에 통화했어. 토마가 월요일에 고소하려고 내일 아침 유로스타를 타기로 돼 있었어. 다 준비돼 있었고.
 Camille: (elle prend son manteau) Je vais chez lui. Julien, tu viens ?
 (외투를 집으며) 그 집에 가 볼게. 쥘리앵, 같이 가?
@@ -95,7 +95,7 @@ Hélène: (elle prend le téléphone) Ne l'ouvre pas. Rapporte-la. Tout de suite
 (전화를 받으며) 열지 마. 가져와. 당장.
 Julien: (au téléphone) On a déjà le taxi. Vingt minutes, avec la neige.
 (전화로) 이미 택시 잡았어요. 눈 때문에 20분.
-Bernard: (il regarde par la fenêtre, la neige tombe sur le boulevard vide) Il est parti à seize heures. Son téléphone s'est éteint à seize heures.
+Gilles: (il regarde par la fenêtre, la neige tombe sur le boulevard vide) Il est parti à seize heures. Son téléphone s'est éteint à seize heures.
 (창밖을 본다. 텅 빈 대로에 눈이 내린다) 네 시에 떠났어. 휴대폰도 네 시에 꺼졌고.
 Hélène: (elle reste debout, immobile) Quelque chose s'est passé à seize heures.
 (꼼짝 않고 선 채로) 네 시에 무슨 일이 있었어.
@@ -119,7 +119,7 @@ Hélène: (sa voix baisse) « Dites à Léa que je n'aurais jamais dû. Elle le 
 (목소리가 낮아지며) «레아에게 절대 그러지 말았어야 했다고 전해 주세요. 이미 알겠지만. 언젠가 저보다 나은 기자가 될 거라고 전해 주세요. 어렵지 않을 거예요. — 토마.»
 Léa: (elle détourne la tête vers la fenêtre ; elle ne dit rien ; la neige tombe) …
 (창문 쪽으로 고개를 돌린다. 아무 말도 하지 않는다. 눈이 내린다) …
-Bernard: (un long silence) Il ne demande pas pardon.
+Gilles: (un long silence) Il ne demande pas pardon.
 (긴 침묵) 용서를 구하진 않네.
 Hélène: (elle replie la lettre) Il sait que ça ne s'achète pas. (elle met la main dans sa poche ; la couronne en papier est toujours là) Je ne pourrai pas la lui rendre.
 (편지를 다시 접으며) 그건 살 수 없다는 걸 아는 거지. (주머니에 손을 넣는다. 종이 왕관은 아직 거기 있다) 그에게 돌려줄 수 없겠네.
@@ -195,7 +195,7 @@ Léa: (elle répond par un message vocal, en souriant) « Merci, Aminata. Merci 
 (웃으며 음성 메시지로 답한다) «고마워요, 아미나타. 다 고마워요. 몸조심해요.»
 Hélène: (elle raccroche, elle se tourne vers la rédaction) On publie à minuit.
 (전화를 끊고 편집국을 향해 돌아선다) 자정에 보도한다.
-Bernard: (il regarde l'heure) Une heure et quart. Aubry ?
+Gilles: (il regarde l'heure) Une heure et quart. Aubry ?
 (시계를 보며) 한 시간 십오 분. 오브리는?
 Aubry: (au haut-parleur, la voix endormie, puis réveillée) Je suis là. Je relis une dernière fois. Envoyez-moi le texte final. (un silence) Et mettez « selon nos informations » partout où vous n'avez qu'un témoin.
 (스피커로, 잠긴 목소리였다가 깨어나며) 여기 있어요. 마지막으로 한 번 더 읽을게요. 최종본 보내 주세요. (침묵) 그리고 증인이 한 명뿐인 곳엔 전부 «본지 취재에 따르면»을 넣으세요.
@@ -205,11 +205,11 @@ Julien: Et le titre ?
 그럼 제목은?
 Hélène: (elle réfléchit, debout devant la fenêtre ; la neige tombe toujours) « Un otage contre des armes. »
 (창문 앞에 서서 생각한다. 여전히 눈이 내린다) «무기와 맞바꾼 인질.»
-Bernard: (il répète lentement) « Un otage contre des armes. » (un silence) C'est fort. C'est vrai ?
+Gilles: (il répète lentement) « Un otage contre des armes. » (un silence) C'est fort. C'est vrai ?
 (천천히 따라 하며) «무기와 맞바꾼 인질.» (침묵) 강하네. 사실이야?
 Julien: Les lance-missiles ont été livrés au Front du Nord le 19 janvier. Les premières discussions ont commencé le 21. Lemaire a été libéré le 31. Malaurie était là à chaque étape. Les caisses portaient le nom d'Orsenne.
 미사일 발사대가 1월 19일에 북부전선에 인도됐어요. 첫 논의는 21일에 시작됐고요. 르메르는 31일에 석방됐어요. 말로리는 모든 단계에 있었고요. 상자엔 오르센 이름이 있었어요.
-Bernard: (un long silence) Alors c'est vrai. On le met avec un point d'interrogation ?
+Gilles: (un long silence) Alors c'est vrai. On le met avec un point d'interrogation ?
 (긴 침묵) 그럼 사실이네. 물음표를 붙일까?
 Hélène: Non. Sans point d'interrogation. Mais avec un sous-titre prudent. « Selon nos informations, la libération du diplomate a été précédée d'une livraison d'armes françaises au groupe qui le détenait. »
 아니요. 물음표 없이. 하지만 신중한 부제목을 달아서. «본지 취재에 따르면, 외교관 석방에 앞서 그를 억류한 단체에 프랑스산 무기가 인도되었다.»
@@ -219,13 +219,13 @@ Léa: (elle relit le chapô, elle s'arrête) Et la France ? Le gouvernement sava
 (리드문을 다시 읽다가 멈추며) 그럼 프랑스는요? 정부는 알았을까요?
 Hélène: (un silence) C'est la question que tout le monde va poser demain matin. Ce n'est pas à nous d'y répondre ce soir. (un silence) C'est à eux.
 (침묵) 내일 아침 모두가 던질 질문이지. 오늘 밤 우리가 답할 문제가 아니야. (침묵) 그들이 답해야지.
-Bernard: (au téléphone, vingt-trois heures quarante) Le porte-parole du Quai d'Orsay. Je lui ai lu nos trois questions. (il raccroche) Sa réponse : « La France ne commente pas les conditions d'une libération. La France ne paie pas de rançon. »
+Gilles: (au téléphone, vingt-trois heures quarante) Le porte-parole du Quai d'Orsay. Je lui ai lu nos trois questions. (il raccroche) Sa réponse : « La France ne commente pas les conditions d'une libération. La France ne paie pas de rançon. »
 (밤 열한 시 사십 분, 전화로) 외무부 대변인. 우리 질문 세 개를 읽어 줬어. (전화를 끊으며) 답변: «프랑스는 석방 조건에 대해 논평하지 않는다. 프랑스는 몸값을 지불하지 않는다.»
 Julien: (un sourire amer) Pas de rançon. Juste des missiles.
 (씁쓸하게 웃으며) 몸값은 없다. 미사일만 있을 뿐.
 Camille: Et Orsenne ? Et Malaurie ?
 그럼 오르센은요? 말로리는요?
-Bernard: Orsenne : « aucun commentaire à cette heure ». Malaurie : son avocat a raccroché avant la fin de ma première question.
+Gilles: Orsenne : « aucun commentaire à cette heure ». Malaurie : son avocat a raccroché avant la fin de ma première question.
 오르센: «현시점에선 논평하지 않음». 말로리: 변호사가 첫 질문이 끝나기도 전에 전화를 끊었어.
 Hélène: On met tout. Leurs réponses. Leurs silences. C'est leur droit. C'est notre devoir.
 다 넣어. 그들의 답변. 그들의 침묵. 그건 그들의 권리야. 그리고 우리 의무지.
@@ -245,7 +245,7 @@ Léa: Et j'ai porté le chapeau pendant trois jours.
 그리고 사흘 동안 누명도 썼고요.
 Camille: (un petit sourire) Ça aussi, ça compte.
 (작게 웃으며) 그것도 쳐줘야지.
-Bernard: (il sort une bouteille de son bureau, des gobelets en plastique) Je la gardais pour une grande occasion. Un homme libre, c'est une grande occasion.
+Gilles: (il sort une bouteille de son bureau, des gobelets en plastique) Je la gardais pour une grande occasion. Un homme libre, c'est une grande occasion.
 (사무실에서 병 하나와 플라스틱 컵들을 꺼내며) 큰일 있을 때 쓰려고 아껴 둔 거야. 한 사람이 자유를 찾았으니, 큰일이지.
 Momo: (il tend son gobelet) Pour moi, juste un fond. Je dois encore rentrer à pied dans la neige.
 (컵을 내밀며) 나는 조금만. 아직 눈길을 걸어서 집에 가야 하거든.
@@ -265,7 +265,7 @@ Karim: (il lit) « Bravo. Le premier pas est fait. Maintenant, regardez qui prot
 (읽으며) «축하해요. 첫걸음을 뗐네요. 이제 오르센을 지키는 자들을 누가 지키는지 보세요. 그들의 이름은 아르고스예요. 그들은 여러분에 대해 다 알아요. 이제 여러분이 그들에 대해 다 알 때예요.»
 Julien: (un silence) Argos. Encore.
 (침묵) 아르고스. 또.
-Bernard: (il regarde la clé USB posée sur la vieille machine) Une société qui achète des journalistes. Qui photographie nos mères. Qui sait à quelle heure Momo ouvre son café.
+Gilles: (il regarde la clé USB posée sur la vieille machine) Une société qui achète des journalistes. Qui photographie nos mères. Qui sait à quelle heure Momo ouvre son café.
 (낡은 컴퓨터 위에 놓인 USB를 바라보며) 기자를 사들이는 회사. 우리 어머니들 사진을 찍는 회사. 모모가 몇 시에 카페를 여는지 아는 회사.
 Karim: Et qui n'a presque rien sur internet. Pas de site. Pas de visage. Juste une phrase : « Nous protégeons ce qui compte. »
 그리고 인터넷엔 거의 아무것도 없는. 웹사이트도 없고. 얼굴도 없고. 문장 하나뿐: «우리는 중요한 것을 지킵니다.»
@@ -281,7 +281,7 @@ Camille: (elle croise les bras, un sourire lent) Ils ont sûrement besoin d'une 
 (팔짱을 끼며 천천히 웃는다) 분명 비서가 필요할 거야. 비서는 다 봐. 그리고 아무도 비서를 안 보지.
 Julien: (il la regarde) Et d'un consultant. Un consultant qui a des clients. Et des secrets à vendre.
 (그녀를 바라보며) 그리고 컨설턴트도. 고객도 있고. 팔 비밀도 있는 컨설턴트.
-Bernard: (il lève les mains) Pas ce soir. Pas cette nuit. (un silence) Ce soir, un homme est libre. Ce soir, on a publié. Ce soir, on mange la soupe de Momo.
+Gilles: (il lève les mains) Pas ce soir. Pas cette nuit. (un silence) Ce soir, un homme est libre. Ce soir, on a publié. Ce soir, on mange la soupe de Momo.
 (두 손을 들며) 오늘 밤은 안 돼. 오늘 밤은. (침묵) 오늘 밤 한 사람이 자유를 찾았어. 오늘 밤 우리는 보도했어. 오늘 밤엔 모모 수프를 먹자.
 Momo: (il soulève le couvercle de la marmite) Elle est encore chaude. Comme vous.
 (냄비 뚜껑을 들어 올리며) 아직 따뜻해. 당신들처럼.

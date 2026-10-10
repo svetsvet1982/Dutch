@@ -21,8 +21,8 @@ Hélène: Pourquoi chez toi ?
 왜 너희 집이야?
 Karim: Parce que si Argos nous surveille, ils regardent la rédaction. Pas un sixième étage sans ascenseur dans le vingtième.
 아르고스가 우릴 감시한다면 편집국을 보겠죠. 20구 엘리베이터 없는 6층이 아니라.
-Hélène: (elle hoche la tête) Léa, tu y vas aussi. Moi, je reste ici avec Bernard. Si ça sort, je veux que notre réponse soit en ligne avant midi.
-(고개를 끄덕이며) 레아, 너도 가. 난 베르나르랑 여기 있을게. 그게 나오면 정오 전에 우리 반박이 올라가 있었으면 해.
+Hélène: (elle hoche la tête) Léa, tu y vas aussi. Moi, je reste ici avec Gilles. Si ça sort, je veux que notre réponse soit en ligne avant midi.
+(고개를 끄덕이며) 레아, 너도 가. 난 질랑 여기 있을게. 그게 나오면 정오 전에 우리 반박이 올라가 있었으면 해.
 Karim: (samedi, six heures quarante, dans son appartement du sixième étage ; trois écrans allumés, une cafetière pleine) Ils sont où ? Il est presque sept heures.
 (토요일 오전 여섯 시 사십 분, 6층 아파트. 화면 세 대가 켜져 있고 커피포트가 가득하다) 다들 어디야? 거의 일곱 시인데.
 Léa: (elle entre, essoufflée, deux sacs de croissants à la main) Six étages à six heures du matin. Tu es un monstre, Karim.
@@ -239,14 +239,14 @@ Julien: « Nos preuves ». C'est bien. Les gens ne veulent plus qu'on leur dise 
 «우리의 증거». 좋네. 사람들은 이제 뭘 믿으라고 말해 주는 걸 원하지 않아. 직접 보고 싶어 하지.
 Karim: Alors on met les deux spectrogrammes. L'un sur l'autre. Et les deux extraits audio. Les gens écouteront eux-mêmes.
 그럼 스펙트로그램 두 개를 넣자. 위아래로. 그리고 오디오 두 개도. 사람들이 직접 들을 거야.
-Bernard: (au même moment, à la rédaction, devant la télévision, au téléphone avec Karim) Le Courrier de Paris vient de publier l'audio. Sans aucune précaution. « Écoutez Nadia Saïdi accepter cinquante mille euros. »
+Gilles: (au même moment, à la rédaction, devant la télévision, au téléphone avec Karim) Le Courrier de Paris vient de publier l'audio. Sans aucune précaution. « Écoutez Nadia Saïdi accepter cinquante mille euros. »
 (같은 시각, 편집국 TV 앞에서 카림과 통화하며) 쿠리에 드 파리가 방금 오디오를 올렸어. 아무 주의도 없이. «나디아 사이디가 5만 유로를 받는 걸 들어 보세요.»
 Karim: (au téléphone) Le Courrier de Paris. Celui qui a « un ami » chez Argos.
 (전화로) 쿠리에 드 파리. 아르고스에 «친구»가 있는 데.
-Bernard: (un silence) Dans une heure, ils devront retirer leur article. Ou ajouter un correctif. (un silence) J'espère qu'ils choisiront le correctif. Ça se verra davantage.
+Gilles: (un silence) Dans une heure, ils devront retirer leur article. Ou ajouter un correctif. (un silence) J'espère qu'ils choisiront le correctif. Ça se verra davantage.
 (침묵) 한 시간 뒤면 기사를 내리든가 정정문을 붙여야 할 거야. (침묵) 정정문을 고르길 바라. 그게 더 눈에 띌 테니까.
-Hélène: (elle prend le téléphone des mains de Bernard) Karim. Envoie-moi le texte. Je relis en dix minutes. Aubry est en ligne.
-(베르나르 손에서 전화를 받으며) 카림. 글 보내. 10분 안에 읽을게. 오브리도 연결돼 있어.
+Hélène: (elle prend le téléphone des mains de Gilles) Karim. Envoie-moi le texte. Je relis en dix minutes. Aubry est en ligne.
+(질 손에서 전화를 받으며) 카림. 글 보내. 10분 안에 읽을게. 오브리도 연결돼 있어.
 Aubry: (au haut-parleur) Et surtout, ne prononcez aucun nom de société. Les faits. Rien que les faits.
 (스피커로) 그리고 무엇보다 회사 이름은 하나도 언급하지 마세요. 사실만. 오직 사실만.
 Karim: (dix heures quarante-huit) Hélène a relu. Aubry a relu. (il regarde Léa) Tu veux appuyer ?
