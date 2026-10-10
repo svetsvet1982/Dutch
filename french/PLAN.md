@@ -368,11 +368,11 @@
 | 8 | L'argent de Kharzan (하르잔의 돈) | B2 | 카림의 작업 공간 | 하르잔계 은행 → 키프로스 → 당 대출. 에이전시의 "행사비"가 중간 통로, 중개 수수료는 Argos | un prêt à taux zéro · Le montage passe par Chypre · Ils auraient financé… | 기사용 conditionnel, plus-que-parfait |
 | 9 | Les assistants fantômes (유령 보좌관) | B1 | 편집국·전화 | 레아가 소렐 의원 보좌관으로 등록된 사람들에게 전화 — 의회에서 일한 적 없는 당 직원들 | Vous êtes bien assistant parlementaire ? · Je n'y ai jamais mis les pieds · Qui vous paie ? | 전화 표현, 부정 |
 | 10 | Au Palais-Bourbon (국회에서) | C1 | 국회 의원실 | 소렐 의원 인터뷰. 국회 화법과 정치적 공세 — 파티 사진을 내밀자 무너지는 표정. 그는 하르잔에 약점을 잡혀 있었음 | une cabale médiatique · l'enveloppe parlementaire · Je n'ai de leçons à recevoir de personne | 국회 화법, 명사화 |
-| 11 | La clé USB (USB 한 개) | B2 | Argos 서버실·밤 | 카미유가 서버 데이터를 복사하는 숨 막히는 10분 | Plus que deux minutes · Quand tu auras fini, … · Si quelqu'un entrait maintenant, … | futur antérieur, si + imparfait |
+| 11 | Avant minuit (자정 전에) | B2 | 라데팡스 빌딩 아래·편집국·밤 | 서버 «영구 삭제» 예정일 밤. 카미유는 지시대로 아홉 시 전에 퇴근하고, 팀은 루셀의 연락처를 통해 알린 수사 당국이 자정 전에 서버를 압수하는지 숨죽여 기다림. 아르고스가 삭제를 앞당기려 하자 수사관들이 도착 | Plus que deux heures · Quand ils seront arrivés, … · Si la police arrivait trop tard, … | futur antérieur, si + imparfait |
 | 12 | La chasse est ouverte (사냥 개시) | C1 | Argos 긴급 회의 | Argos가 "우리 안의 두더지"를 찾기 시작. 하르멜의 차가운 연설 | Il y a une fuite chez nous · avant qu'il ne soit trop tard | ne explétif, 격식 연설 |
 | 13 | Démasquée (발각) | A2 | Argos 지하주차장·추격 | 카미유 정체 발각, 쥘리앵·카림의 구출 | Montez ! · Démarre ! · Je sais qui tu es | 짧은 명령, vous→tu 전환 |
 | 14 | Mira (미라) | B2 | 샤를드골 공항 | 하르잔 요원들이 미라를 강제로 비행기에 태우려 함. 팀이 경찰과 함께 저지. 미라의 통역사가 하르잔 정보원이었음이 드러남. 두 거점·극우 지원·유령 보좌관 기사 공개, 에이전시 폐쇄와 다리아 보호 | Elle ne montera pas dans cet avion · C'était lui, l'informateur · Les diplomates ont été expulsés | 수동태, 강조 구문 |
-| 15 | Les Argos Files (아르고스 파일) | C1 | 노르망디 해변 안전가옥 → 편집국 밀실·4월 말 | 바닷가에서 카미유와 쥘리앵의 진솔한 대화로 시작. 이어 50만 개 파일 분석: 하르잔 계약, 마약 조직 위장기업, Orsenne Métaux, 생클레르의 메모. 마르세유 회사 직원 목록에 카림의 동생 야니스 | Ça aurait pu mal finir · Il en ressort que… · C'est mon frère. | conditionnel passé, 명사화 |
+| 15 | Les Argos Files (아르고스 파일) | C1 | 노르망디 해변 안전가옥 → 편집국 밀실·4월 말 | 바닷가에서 카미유와 쥘리앵의 진솔한 대화로 시작. 내부고발자 «아리안»(오르센 준법감시 책임자)이 직무상 접근 가능한 아르고스–오르센 계약 자료를 직접 건넴(서버는 수사 당국이 압수). 분석: 하르잔 계약, 마약 조직 위장기업, Orsenne Métaux, 생클레르의 메모. 마르세유 회사 직원 목록에 카림의 동생 야니스 | Ça aurait pu mal finir · Il en ressort que… · C'est mon frère. | conditionnel passé, 명사화 |
 
 ### 7부 · Métal (금속) — 5월~6월 초
 
