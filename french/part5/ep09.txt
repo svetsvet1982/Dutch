@@ -1,0 +1,340 @@
+# 5부 9화. La fuite (유출)
+수준: A2~C1 혼합 (중심 B1) | 장소: 편집국·모모의 카페 «Le Zinc»·라데팡스 Argos 사무실 | 시간: 3월 2일 월요일
+핵심 표현: Vos données ont peut-être été volées · Combien de personnes sont concernées ? · On a prévenu la CNIL · Qui a eu accès à… ?
+
+## 대화
+Léa: (lundi, huit heures, à la rédaction, elle regarde son téléphone, les sourcils froncés) Karim… j'ai reçu un e-mail bizarre.
+(월요일 오전 여덟 시, 편집국에서 인상을 쓰고 휴대폰을 보며) 카림… 이상한 이메일을 받았어요.
+Karim: (il arrive avec son café) Bizarre comment ?
+(커피를 들고 오며) 어떻게 이상한데?
+Léa: (elle lit) « Madame, nous vous informons qu'un incident de cybersécurité a touché nos services. Vos données ont peut-être été volées : nom, adresse, téléphone, adresse e-mail, numéro de sécurité sociale. » (elle lève les yeux) C'est signé « Office national de l'emploi ».
+(읽으며) «고객님, 저희 서비스에 사이버 보안 사고가 발생했음을 알려 드립니다. 고객님의 데이터가 도난당했을 수 있습니다: 이름, 주소, 전화번호, 이메일 주소, 사회보장번호.» (눈을 들며) «국가고용청» 명의예요.
+Karim: (il pose son café) Fais voir. (il regarde l'adresse de l'expéditeur, le lien, le texte) Ce n'est pas une arnaque. C'est le vrai site. Et il n'y a pas de lien pour « vérifier ton compte ». (un silence) Un vrai message, ça ne te demande jamais ton mot de passe.
+(커피를 내려놓으며) 보여 줘. (보낸 사람 주소, 링크, 본문을 본다) 사기 아니야. 진짜 사이트야. 그리고 «계정 확인» 링크도 없어. (침묵) 진짜 메시지는 절대 비밀번호를 묻지 않아.
+Léa: Alors c'est vrai ? Mes données ont été volées ?
+그럼 진짜예요? 제 데이터가 도난당했어요?
+Karim: (il ouvre le site de l'agence) Regarde. Un communiqué. Publié à sept heures. (il lit) « Des comptes de conseillers ont été utilisés frauduleusement pour accéder à notre base. Combien de personnes sont concernées ? Jusqu'à quarante-trois millions. »
+(기관 사이트를 열며) 봐. 보도자료. 일곱 시에 올라왔어. (읽으며) «상담원 계정들이 부정하게 사용되어 데이터베이스에 접근했습니다. 영향받는 사람은 몇 명인가? 최대 4,300만 명.»
+Léa: (elle répète, très bas) Quarante-trois millions.
+(아주 작게 따라 하며) 4,300만.
+Karim: Tous ceux qui se sont inscrits pour chercher un travail depuis vingt ans. (un silence) Toi. Moi. Ma mère. Nicolas, sûrement.
+20년 동안 일자리를 찾으려고 등록한 모든 사람. (침묵) 너. 나. 우리 엄마. 니콜라도 분명히.
+Léa: (elle s'assoit) J'ai cherché un stage l'année dernière. Je me suis inscrite pour une aide. Deux mois. (un silence) Et maintenant, quelqu'un sait où j'habite.
+(앉으며) 작년에 인턴 자리 찾았잖아요. 지원금 받으려고 등록했어요. 두 달. (침묵) 그리고 이제 누군가 제가 어디 사는지 알아요.
+Hélène: (elle sort de son bureau, son téléphone à la main) Vous avez vu ?
+(휴대폰을 들고 사무실에서 나오며) 봤어?
+Karim: On a vu. Léa a reçu le message.
+봤어요. 레아가 메시지 받았어요.
+Hélène: Moi aussi. En 2013, j'étais au chômage pendant six mois, quand mon journal a fermé. (un silence) Je n'y avais plus pensé depuis dix ans. Eux, ils ont gardé mon dossier.
+나도. 2013년에 신문사가 문을 닫았을 때 여섯 달 실업자였어. (침묵) 10년 동안 생각도 안 했는데. 그쪽은 내 서류를 보관하고 있었네.
+Léa: (elle regarde Hélène) Quarante millions. Brac a dit « plus de quarante millions de lignes ». « Arrivé lundi. »
+(엘렌을 바라보며) 4천만. 브락이 «4천만 줄 이상»이라고 했잖아요. «월요일에 도착.»
+Hélène: (un long silence) Lundi seize février. Et l'agence le découvre seulement aujourd'hui.
+(긴 침묵) 2월 16일 월요일. 그리고 기관은 오늘에서야 알게 된 거고.
+Karim: Ou elle le dit seulement aujourd'hui.
+아니면 오늘에서야 말하는 거거나요.
+Hélène: (elle réfléchit) Bon. Trois choses. Un : on écrit un article pour nos lecteurs. Pas un article qui fait peur. Un article qui aide. Qu'est-ce qui a été volé, quels sont les risques, comment se protéger.
+(생각하며) 좋아. 세 가지. 하나: 독자를 위한 기사를 쓴다. 겁주는 기사 말고. 도움이 되는 기사. 뭐가 도난당했는지, 위험은 뭔지, 어떻게 자신을 보호하는지.
+Léa: D'accord.
+알겠어요.
+Hélène: Deux : on appelle la CNIL. Officiellement. On veut savoir depuis quand ils sont au courant, et ce qu'ils vont faire.
+둘: CNIL에 전화한다. 공식적으로. 언제부터 알고 있었는지, 뭘 할 건지 알고 싶어.
+Karim: Et trois ?
+그럼 셋은요?
+Hélène: (elle baisse la voix) Trois : on ne cherche pas le fichier. On ne le regarde pas. On ne s'approche de personne qui prétend le vendre. (un silence) Aubry a été très clair. Ce fichier, c'est la vie privée de quarante-trois millions de personnes. Nous ne sommes pas des acheteurs. Nous sommes des journalistes.
+(목소리를 낮추며) 셋: 그 파일을 찾지 않는다. 보지도 않는다. 그걸 판다고 주장하는 누구에게도 접근하지 않는다. (침묵) 오브리가 아주 분명하게 말했어. 그 파일은 4,300만 명의 사생활이야. 우린 구매자가 아니야. 기자야.
+Karim: (il hoche la tête) De toute façon, ce n'est pas le fichier qui m'intéresse. C'est ce qu'on en fait. (un silence) Et qui.
+(고개를 끄덕이며) 어차피 제가 관심 있는 건 파일이 아니에요. 그걸로 뭘 하느냐죠. (침묵) 그리고 누가.
+Camille: (au même moment, à La Défense, vingt-sixième étage ; elle ouvre le placard de la petite cuisine ; il reste une seule tasse : la bleue) …
+(같은 시각, 라데팡스 26층. 작은 부엌 찬장을 연다. 컵이 하나만 남아 있다. 파란 컵) …
+Chloé: (elle entre derrière elle) Oh non. Il ne reste que la tasse de Margaux ?
+(그녀 뒤로 들어오며) 아 안 돼. 마르고 컵밖에 안 남았어?
+Camille: (avec la voix d'Inès) Il a cassé la dernière blanche, samedi.
+(이네스의 목소리로) 토요일에 마지막 하얀 컵을 깨뜨리셨어.
+Chloé: (elle ouvre de grands yeux) Samedi ? Tu étais là, samedi ?
+(눈을 크게 뜨며) 토요일? 너 토요일에 여기 있었어?
+Camille: Il m'a appelée à six heures. (elle hausse les épaules) Une urgence.
+여섯 시에 전화하셨어. (어깨를 으쓱하며) 급한 일이라고.
+Chloé: (à voix basse) À cause de l'enregistrement de la candidate ? Tout le monde en parle. Jordan dit que c'était « notre » enregistrement. (elle se mord la lèvre) Enfin… je n'ai rien dit.
+(작게) 그 후보 녹음 때문에? 다들 그 얘기야. 조르당은 그게 «우리» 녹음이었대. (입술을 깨물며) 아니… 나 아무 말도 안 했어.
+Camille: (elle prend la tasse bleue, calmement) Tu n'as rien dit.
+(차분하게 파란 컵을 집으며) 넌 아무 말도 안 했어.
+Harmel: (dans son bureau, quand Camille pose le café ; il regarde la tasse bleue, longtemps) …
+(사무실에서, 카미유가 커피를 내려놓자 파란 컵을 오래 바라본다) …
+Camille: Je suis désolée, monsieur. C'est la seule qui reste. J'ai commandé des tasses blanches. Elles arrivent mercredi.
+죄송합니다. 이것밖에 안 남았어요. 하얀 컵을 주문했어요. 수요일에 와요.
+Harmel: (il ne touche pas le café) Ce n'est pas grave, Inès. (un silence) Les choses cassées se remplacent. (il lève les yeux vers elle) Les gens aussi.
+(커피에 손대지 않고) 괜찮아요, 이네스. (침묵) 깨진 건 바꾸면 돼요. (그녀를 올려다보며) 사람도 마찬가지고.
+Camille: (elle soutient son regard une seconde, puis elle baisse les yeux, comme une assistante polie) Bien, monsieur.
+(1초간 시선을 피하지 않다가, 공손한 비서처럼 눈을 내리깐다) 알겠습니다.
+Harmel: Fermez la porte. Et pas d'appels jusqu'à midi. Stéphane arrive.
+문 닫아요. 그리고 정오까지 전화 연결하지 마요. 스테판이 와요.
+Brac: (onze heures moins dix, il passe devant le bureau de Camille, pressé, un ordinateur sous le bras ; il frappe à la porte de Harmel et entre sans attendre) Victor, les messages personnalisés sont partis ce matin. Le 19e d'abord. Les plus de soixante-cinq ans.
+(열한 시 십 분 전, 노트북을 옆구리에 끼고 급히 카미유 책상 앞을 지나간다. 아르멜 문을 두드리고 기다리지 않고 들어간다) 빅토르, 맞춤형 메시지들이 오늘 아침 나갔어요. 19구 먼저. 65세 이상.
+Harmel: (sa voix, avant que la porte se referme) Stéphane. La porte.
+(문이 닫히기 전, 그의 목소리) 스테판. 문.
+Camille: (la porte se ferme ; elle reste assise, les mains sur le clavier ; elle tape un courrier ordinaire, lettre par lettre, pour que ses mains aient quelque chose à faire) …
+(문이 닫힌다. 그녀는 키보드에 손을 올린 채 앉아 있다. 손이 할 일이 있도록 평범한 서신을 한 글자씩 친다) …
+Camille: (en elle-même) « Les messages personnalisés. Le 19e d'abord. Les plus de soixante-cinq ans. » (un silence) Je n'ai rien demandé. Je n'ai rien cherché. J'ai entendu. C'est tout.
+(속으로) «맞춤형 메시지. 19구 먼저. 65세 이상.» (침묵) 아무것도 묻지 않았어. 아무것도 찾지 않았어. 들었을 뿐이야. 그게 다야.
+Mme Kessler: (elle passe avec un dossier, elle s'arrête) Tout va bien, Inès ? Vous êtes pâle.
+(서류를 들고 지나가다 멈춘다) 괜찮아요, 이네스? 창백하네요.
+Camille: (un petit sourire) Le RER A, Sabine. Quarante minutes de retard ce matin. Je n'ai pas pris de petit-déjeuner.
+(작게 웃으며) RER A요, 사빈. 오늘 아침 40분 늦었어요. 아침을 못 먹었어요.
+Mme Kessler: (elle sort une barre de céréales de sa poche, elle la pose sur le bureau) Mangez. Monsieur Harmel n'aime pas les assistantes qui s'évanouissent.
+(주머니에서 시리얼바를 꺼내 책상에 놓으며) 드세요. 아르멜 씨는 기절하는 비서를 싫어하세요.
+Momo: (dix heures, à la rédaction, il entre sans frapper, son téléphone à la main, très en colère) Karim ! Karim, regarde ça !
+(오전 열 시, 편집국에 노크도 없이 들어온다. 휴대폰을 들고 몹시 화가 나 있다) 카림! 카림, 이거 봐!
+Karim: Qu'est-ce qui se passe, Momo ?
+무슨 일이에요, 모모?
+Momo: (il lui tend le téléphone) Un SMS. Ce matin. Lis.
+(휴대폰을 건네며) 문자. 오늘 아침. 읽어 봐.
+Karim: (il lit à voix haute) « Bonjour Mohamed Haddad, votre dossier n° 4417… est incomplet. Votre aide sera suspendue. Pour la conserver, appelez ce numéro avant ce soir. » (il lève les yeux) Tu as eu une aide de l'Office ?
+(소리 내어 읽으며) «하다드 무함마드 님, 고객님의 서류 번호 4417…이 미비합니다. 지원금이 중단될 예정입니다. 유지하시려면 오늘 저녁 전까지 이 번호로 전화하십시오.» (눈을 들며) 고용청에서 지원금 받았었어요?
+Momo: En 2009. Quand j'ai acheté le café, avant de l'ouvrir. Trois mois. (il tape sur la table) Ils ont mon vrai nom ! Mohamed ! Personne ne m'appelle Mohamed, sauf ma mère et les impôts ! Et mon vrai numéro de dossier !
+2009년에. 카페를 사고 문 열기 전에. 석 달. (탁자를 치며) 내 진짜 이름을 알아! 무함마드! 우리 엄마랑 세무서 말고는 아무도 날 무함마드라고 안 불러! 그리고 진짜 서류 번호까지!
+Léa: Vous avez appelé ?
+전화하셨어요?
+Momo: (un silence, gêné) J'ai failli. J'avais déjà le doigt sur le numéro. Et puis j'ai pensé : l'Office ne m'a jamais envoyé un SMS en quinze ans. Pourquoi aujourd'hui ?
+(침묵, 민망해하며) 할 뻔했지. 벌써 번호에 손가락을 댔어. 그러다 생각했지. 고용청이 15년 동안 문자를 보낸 적이 한 번도 없는데. 왜 오늘?
+Karim: (il pose une main sur son épaule) Tu as eu le bon réflexe. C'est une arnaque. Ils utilisent les vraies données volées pour avoir l'air vrais. Ton vrai nom, ton vrai numéro. Comme ça, tu fais confiance.
+(그의 어깨에 손을 얹으며) 반응 잘하셨어요. 사기예요. 진짜처럼 보이려고 훔친 진짜 데이터를 쓰는 거예요. 진짜 이름, 진짜 번호. 그래야 믿으니까요.
+Léa: (elle écrit dans son carnet) C'est exactement ce qu'il faut expliquer dans l'article. Les arnaqueurs connaissent votre nom. Ça ne prouve pas qu'ils sont honnêtes.
+(수첩에 적으며) 이게 바로 기사에서 설명해야 할 거예요. 사기꾼은 당신 이름을 안다. 그게 그들이 정직하다는 증거는 아니다.
+Momo: (il se calme un peu) Mettez mon histoire. Avec mon prénom. Mohamed. (un petit sourire) Ma mère sera contente de le lire dans un journal.
+(조금 진정하며) 내 얘기 넣어. 내 이름으로. 무함마드. (작게 웃으며) 우리 엄마가 신문에서 그 이름 보면 좋아하실 거야.
+Karim: (il tape sur son ordinateur) Je signale ton SMS sur la plateforme officielle. Avec le numéro. (il clique) Voilà. Et on a prévenu la CNIL aussi, ce matin, pour les arnaques qui utilisent la fuite.
+(컴퓨터를 두드리며) 문자를 공식 플랫폼에 신고할게요. 번호까지. (클릭하며) 됐어요. 그리고 유출 정보를 이용한 사기에 대해서도 오늘 아침 CNIL에 알렸어요.
+Momo: (il soupire) On a prévenu la CNIL. (un silence) Bon. Je me sens mieux. Un peu.
+(한숨을 쉬며) CNIL에 알렸다. (침묵) 좋아. 기분이 나아졌어. 조금.
+Karim: Et bloque ce numéro. Et si tu as un doute, tu appelles l'Office toi-même, avec le numéro de leur site. Jamais celui du SMS.
+그리고 그 번호 차단하세요. 의심이 들면 사이트에 있는 번호로 직접 고용청에 전화하시고요. 절대 문자에 있는 번호 말고.
+Momo: (il range son téléphone) Tu sais quoi, Karim ? Ce midi, je fais un panneau dans mon café. « Si on vous appelle Mohamed par SMS, ce n'est pas moi. »
+(휴대폰을 넣으며) 그거 알아, 카림? 오늘 점심에 카페에 안내판을 붙일 거야. «문자로 무함마드라고 부르면, 그건 내가 아니다.»
+Léa: (elle rit) Tout le quartier va comprendre.
+(웃으며) 동네 사람들 다 알아듣겠네요.
+Léa: (son téléphone vibre ; c'est Nicolas) Allô ?
+(휴대폰이 진동한다. 니콜라다) 여보세요?
+Nicolas: (au téléphone, dans le bruit d'une cour de récréation) Léa ? Les parents de l'école sont en panique. Trois mères ont reçu le même SMS. Avec leurs vrais noms. Une a déjà donné son numéro de carte bancaire.
+(전화로, 운동장 소음 속에서) 레아? 학교 학부모들이 난리야. 엄마 셋이 같은 문자를 받았대. 진짜 이름으로. 한 명은 벌써 카드 번호를 알려 줬대.
+Léa: (elle ferme les yeux) Dis-lui d'appeler sa banque. Tout de suite. Pour bloquer la carte.
+(눈을 감으며) 은행에 전화하라고 해. 당장. 카드 정지하라고.
+Nicolas: C'est fait. (un silence) Elle pleurait dans le couloir. Elle disait : « Ils savaient le prénom de mes enfants. »
+했어. (침묵) 복도에서 울더라. «애들 이름까지 알더라고요» 하면서.
+Léa: (très bas) Cet après-midi, il y aura un article avec des conseils simples. Envoie-le dans le groupe des parents.
+(아주 작게) 오늘 오후에 간단한 조언을 담은 기사가 나갈 거야. 학부모 단체방에 보내 줘.
+Nicolas: Promis. (un silence) Cette fois, je saurai qui l'a écrit.
+약속해. (침묵) 이번엔 누가 썼는지 알겠네.
+Hélène: (onze heures, au téléphone, haut-parleur) Bonjour, Hélène Vasseur, rédactrice en chef du Phare. Je voudrais parler au service de presse de la CNIL.
+(오전 열한 시, 스피커폰으로) 안녕하세요, 르 파르 편집국장 엘렌 바쇠르입니다. CNIL 언론 담당과 통화하고 싶습니다.
+La chargée de presse: (au haut-parleur) Bonjour, madame. C'est moi. Vous appelez pour l'Office national de l'emploi, je suppose ?
+(스피커로) 안녕하세요. 제가 담당이에요. 국가고용청 건으로 전화하신 거죠?
+Hélène: Exactement. Quand avez-vous été informés de l'incident ?
+맞아요. 사고 통보는 언제 받으셨나요?
+La chargée de presse: L'Office nous a notifié la violation de données jeudi dernier, le vingt-six février. Comme la loi l'exige, dans les soixante-douze heures après en avoir eu connaissance.
+고용청이 지난 목요일, 2월 26일에 개인정보 침해를 통보했어요. 법이 요구하는 대로, 인지 후 72시간 이내에요.
+Léa: (elle écrit, puis elle lève la tête) Le vingt-six ? Mais les données ont été… (Hélène lui fait signe de se taire)
+(적다가 고개를 들며) 26일요? 하지만 데이터는… (엘렌이 조용히 하라고 손짓한다)
+Hélène: Qui a eu accès à la base, selon vos premières informations ?
+1차 정보에 따르면 누가 데이터베이스에 접근했나요?
+La chargée de presse: Des personnes qui ont utilisé les identifiants de plusieurs conseillers. Le mode opératoire est en cours d'analyse. Une plainte a été déposée. Nous allons mener un contrôle.
+여러 상담원의 로그인 정보를 사용한 사람들이요. 수법은 분석 중이에요. 고소가 접수됐고요. 저희가 조사를 진행할 예정이에요.
+Hélène: Et que conseillez-vous aux personnes concernées ?
+그럼 영향받은 분들께 어떤 조언을 하시나요?
+La chargée de presse: Une extrême vigilance. Ne jamais communiquer de mot de passe ni de coordonnées bancaires par téléphone ou par SMS. Vérifier ses comptes. Et signaler toute tentative d'arnaque. (un silence) Les gens doivent savoir que les escrocs connaissent leur nom.
+극도의 경계요. 전화나 문자로 절대 비밀번호나 은행 정보를 알려 주지 말 것. 계좌를 확인할 것. 그리고 모든 사기 시도를 신고할 것. (침묵) 사기꾼들이 자기 이름을 안다는 걸 사람들이 알아야 해요.
+Hélène: Une dernière question. Avez-vous des éléments sur l'utilisation de ces données à d'autres fins ? Politiques, par exemple ?
+마지막 질문이에요. 이 데이터가 다른 목적으로, 예를 들어 정치적으로 쓰였다는 정황이 있나요?
+La chargée de presse: (un silence) Je n'ai aucune information sur ce point. (un silence) Pourquoi cette question ?
+(침묵) 그 점에 대해선 아무 정보가 없어요. (침묵) 왜 그런 질문을 하시죠?
+Hélène: (doucement) Parce que nous sommes à treize jours d'une élection. Merci, madame.
+(조용히) 선거가 13일 남았으니까요. 감사합니다.
+Karim: (il raccroche un autre téléphone) Et l'Office ? J'ai eu leur service de presse. Ils répètent le communiqué. Ils disent qu'ils ont découvert l'incident « le 24 février, grâce à une alerte interne ».
+(다른 전화를 끊으며) 그리고 고용청요? 언론 담당과 통화했어요. 보도자료를 되풀이하네요. 사고는 «2월 24일 내부 경보 덕분에» 발견했대요.
+Hélène: Le vingt-quatre. Et notifié à la CNIL le vingt-six. Dans les délais.
+24일. 그리고 26일에 CNIL에 통보. 기한 안이네.
+Karim: Je leur ai demandé si les comptes des conseillers avaient été protégés par une double authentification. (un silence) Ils ont dit : « Nous ne communiquons pas sur nos dispositifs de sécurité. »
+상담원 계정이 2단계 인증으로 보호돼 있었는지 물어봤어요. (침묵) «저희는 보안 장치에 대해 말씀드리지 않습니다»래요.
+Hélène: (un petit sourire amer) Ça veut dire non.
+(작고 씁쓸한 미소로) 그건 아니라는 뜻이지.
+Léa: (quand Hélène raccroche) Le vingt-six février. Mais Brac l'avait le seize. Dix jours avant.
+(엘렌이 전화를 끊자) 2월 26일. 하지만 브락은 16일에 가지고 있었어요. 열흘 전에.
+Hélène: (elle hoche la tête) Ça veut dire que le fichier a été volé avant que l'Office s'en rende compte. Et qu'il était déjà entre les mains de quelqu'un… quand personne ne savait encore rien.
+(고개를 끄덕이며) 그건 고용청이 알아채기 전에 파일이 도난당했다는 뜻이야. 그리고 아무도 아무것도 모를 때… 이미 누군가의 손에 있었다는 거고.
+Karim: Et on ne peut pas l'écrire.
+그리고 그걸 쓸 수 없죠.
+Hélène: Pas encore. La seule personne qui l'a entendu, c'est Camille. Derrière une porte vitrée. (un silence) On écrit ce qu'on peut prouver : l'incident, les dates officielles, les arnaques, les conseils. Le reste attend.
+아직은. 그걸 들은 사람은 카미유뿐이야. 유리문 뒤에서. (침묵) 증명할 수 있는 걸 쓰자. 사고, 공식 날짜, 사기, 조언. 나머진 기다려.
+Jordan: (à la cantine d'Argos, midi trente, il pose son plateau à côté de Camille ; il a l'air épuisé) Salut, Inès.
+(낮 열두 시 반, 아르고스 구내식당. 카미유 옆에 쟁반을 내려놓는다. 녹초가 된 얼굴이다) 안녕, 이네스.
+Camille: Salut. Tu as une tête… Tu as dormi ?
+안녕. 얼굴이… 잤어?
+Jordan: Trois heures. On m'a mis sur un truc relou pour Stéphane. (il baisse la voix) Trier des listes. Par arrondissement. Par âge. Par situation.
+세 시간. 스테판 일 때문에 지겨운 걸 맡았어. (목소리를 낮추며) 목록 정리. 구별로. 나이별로. 상황별로.
+Camille: (elle coupe sa viande lentement) Quelles listes ?
+(고기를 천천히 자르며) 무슨 목록?
+Jordan: (il hésite) Des gens. Des millions de gens. Je ne sais pas d'où ça vient. On ne m'a pas dit. (un silence) Mais ce matin, j'ai vu aux infos que l'Office national de l'emploi s'était fait voler ses données. Quarante-trois millions. (il repose sa fourchette) Et ma liste a exactement les mêmes colonnes que celles qu'ils décrivent dans le communiqué.
+(망설이며) 사람들. 수백만 명. 어디서 온 건지 몰라. 안 알려 줬어. (침묵) 근데 오늘 아침 뉴스에서 국가고용청 데이터가 털렸다는 걸 봤어. 4,300만. (포크를 내려놓으며) 그리고 내 목록이 보도자료에서 설명하는 거랑 열이 똑같아.
+Camille: (elle ne lève pas les yeux) C'est chelou.
+(눈을 들지 않고) 셸루하네.
+Jordan: (très bas) C'est plus que chelou, Inès. (un silence) Stéphane veut savoir qui, à Paris, vient de perdre son travail. Qui vit seul. Qui a plus de soixante-cinq ans. Pour leur envoyer des articles « adaptés ». (il rit, mais sans joie) À chacun sa peur.
+(아주 작게) 셸루한 정도가 아니야, 이네스. (침묵) 스테판은 파리에서 누가 막 실직했는지 알고 싶어 해. 누가 혼자 사는지. 누가 65세 이상인지. 그 사람들한테 «맞춤형» 기사를 보내려고. (웃지만 즐겁지 않다) 각자에게 각자의 공포를.
+Camille: (en elle-même) À chacun sa peur. Le 16e reçoit les cambriolages. Le 19e reçoit l'insécurité. Et maintenant, chaque personne reçoit la sienne.
+(속으로) 각자에게 각자의 공포. 16구엔 빈집털이. 19구엔 치안. 그리고 이제 한 사람 한 사람이 자기 공포를 받는 거야.
+Jordan: (il la regarde) Pourquoi je te raconte ça, à toi ? (un silence) Tu ne poses jamais de questions. C'est peut-être pour ça. On a envie de te parler.
+(그녀를 바라보며) 내가 왜 너한테 이런 얘길 하지? (침묵) 넌 절대 질문을 안 하잖아. 그래서인가 봐. 너한테 말하고 싶어져.
+Camille: (doucement, avec la voix d'Inès) Tu as le droit de dire non, Jordan. À Stéphane. À n'importe qui.
+(이네스의 목소리로 조용히) 넌 거절할 권리가 있어, 조르당. 스테판한테. 누구한테든.
+Jordan: (un rire triste) Margaux a dit non. Tu as vu où elle est, Margaux ? (il se lève avec son plateau) Oublie. Je dis ça, je dis rien.
+(슬프게 웃으며) 마르고가 거절했지. 마르고 지금 어디 있는지 봤어? (쟁반을 들고 일어서며) 잊어. 그냥 하는 말이야.
+Léa: (quinze heures, à la rédaction, elle tape) « Fuite de données à l'Office national de l'emploi : ce qu'il faut savoir et comment vous protéger. » (elle se tourne vers Karim) Ça va, comme titre ?
+(오후 세 시, 편집국에서 타이핑하며) «국가고용청 데이터 유출: 알아야 할 것과 자신을 보호하는 법.» (카림에게 돌아서며) 제목 괜찮아요?
+Karim: C'est bien. Clair. Utile. (il lit par-dessus son épaule) Mets les conseils en liste. Les gens lisent les listes.
+좋아. 명확하고. 유용하고. (어깨 너머로 읽으며) 조언은 목록으로 넣어. 사람들은 목록을 읽어.
+Léa: (elle écrit et lit à voix haute) « Un : l'Office ne vous demandera jamais votre mot de passe ou vos coordonnées bancaires par SMS ou par téléphone. Deux : si un message connaît votre nom et votre numéro de dossier, cela ne prouve pas qu'il est authentique. Trois : ne rappelez jamais un numéro reçu par SMS ; passez par le site officiel. Quatre : surveillez vos comptes bancaires. Cinq : signalez les tentatives sur la plateforme officielle de signalement. »
+(쓰면서 소리 내어 읽는다) «하나: 고용청은 문자나 전화로 비밀번호나 은행 정보를 절대 묻지 않는다. 둘: 메시지가 당신의 이름과 서류 번호를 안다고 해서 진짜라는 증거는 아니다. 셋: 문자로 받은 번호로 절대 다시 전화하지 말고 공식 사이트를 이용하라. 넷: 은행 계좌를 확인하라. 다섯: 사기 시도는 공식 신고 플랫폼에 신고하라.»
+Karim: Et Momo ?
+그럼 모모는?
+Léa: (elle sourit) « Mohamed Haddad, 58 ans, patron d'un café du 10e arrondissement, a reçu ce lundi un SMS l'appelant par son prénom officiel, que seuls "sa mère et les impôts" utilisent… »
+(웃으며) «10구 카페 주인 무함마드 하다드(58)는 이번 월요일, "어머니와 세무서만" 쓰는 자신의 공식 이름으로 부르는 문자를 받았다…»
+Karim: (il rit) Il va encadrer l'article.
+(웃으며) 기사를 액자에 넣겠네.
+Hélène: (elle relit sur l'écran de Léa) C'est bien, Léa. Simple. Pas de panique. Des faits et des gestes utiles. (un silence) Ajoute une dernière phrase. « Le Phare a choisi de ne pas chercher à consulter ces données. »
+(레아의 화면으로 다시 읽으며) 좋아, 레아. 단순하고. 공포 조장 없이. 사실과 유용한 행동. (침묵) 마지막 문장 하나 추가해. «르 파르는 이 데이터를 열람하려 하지 않기로 했다.»
+Léa: Pourquoi ?
+왜요?
+Hélène: Parce que d'autres médias vont dire qu'ils ont « eu accès au fichier ». Pour faire un titre. (un silence) Nos lecteurs doivent savoir qu'on ne se sert pas de leur vie privée pour vendre un article. Même la leur. Surtout la leur.
+다른 매체들은 제목 장사하려고 «파일에 접근했다»고 할 테니까. (침묵) 우리 독자들은 우리가 기사를 팔려고 그들의 사생활을 이용하지 않는다는 걸 알아야 해. 그들 것이라도. 특히 그들 것은.
+Léa: (elle tape la phrase) « Le Phare a choisi de ne pas chercher à consulter ces données. »
+(문장을 친다) «르 파르는 이 데이터를 열람하려 하지 않기로 했다.»
+Paul: (seize heures, au téléphone, haut-parleur) Léa ? C'est Paul Ndiaye. (sa voix est tendue) Depuis ce matin, des électeurs âgés du 19e reçoivent des messages. Pas des arnaques. Des messages politiques. Avec leur prénom.
+(오후 네 시, 스피커폰으로) 레아? 폴 은디아예예요. (목소리가 긴장돼 있다) 오늘 아침부터 19구 노인 유권자들이 메시지를 받고 있어요. 사기가 아니라. 정치 메시지. 이름까지 넣어서.
+Léa: Quel genre de messages ?
+어떤 메시지요?
+Paul: (il lit) « Madame Josette Lambert, à 70 ans, vous savez ce qu'est la sécurité. Saviez-vous que Nadia Saïdi veut fermer le commissariat de votre quartier ? » (un silence) C'est faux. Et c'est envoyé à Josette. À Josette !
+(읽으며) «조제트 랑베르 님, 일흔이신 당신은 안전이 뭔지 아십니다. 나디아 사이디가 당신 동네 경찰서를 닫으려 한다는 걸 아셨습니까?» (침묵) 거짓말이에요. 그리고 조제트한테 보냈어요. 조제트한테!
+Karim: (il se penche vers le téléphone) Josette a été inscrite à l'Office ?
+(전화기 쪽으로 몸을 숙이며) 조제트 할머니가 고용청에 등록됐었어요?
+Paul: (un silence) Dans les années quatre-vingt-dix. Avant sa retraite. Elle me l'a dit tout à l'heure. (un silence) Pourquoi ?
+(침묵) 90년대에. 은퇴 전에. 아까 말씀하셨어요. (침묵) 왜요?
+Karim: (il échange un regard avec Léa) Pour rien. Gardez une capture de chaque message. Avec la date et le numéro d'envoi.
+(레아와 눈빛을 주고받으며) 아무것도 아니에요. 메시지마다 캡처해 두세요. 날짜랑 발신 번호까지.
+Paul: (un silence) Et Josette vous fait dire une chose. « Le prochain qui m'écrit par mon prénom sans me connaître, je lui donne un coup de parapluie. »
+(침묵) 그리고 조제트가 전해 달래요. «날 모르면서 내 이름으로 문자 보내는 다음 놈은 우산으로 한 대 맞을 거야.»
+Bernard: (dix-sept heures, il arrive avec une tablette) Votre article a été lu deux cent mille fois en deux heures. (un silence) Et regardez ce qu'a publié le Courrier de Paris.
+(오후 다섯 시, 태블릿을 들고 와서) 기사가 두 시간 만에 20만 번 읽혔어. (침묵) 그리고 쿠리에 드 파리가 뭘 올렸는지 봐.
+Karim: (il lit) « EXCLUSIF : nous avons pu consulter un extrait du fichier volé. » (il ferme les yeux) Avec des initiales. Des villes. Des âges.
+(읽으며) «단독: 우리는 도난당한 파일의 일부를 열람할 수 있었다.» (눈을 감으며) 이니셜. 도시. 나이까지.
+Hélène: (froidement) Le même journal qui a publié le faux enregistrement samedi. Sans vérifier. (un silence) « Notre ami au Courrier de Paris. »
+(차갑게) 토요일에 가짜 녹음을 확인도 없이 올린 바로 그 신문이네. (침묵) «쿠리에 드 파리의 우리 친구.»
+Léa: Vous croyez que c'est Argos qui leur a donné l'extrait ?
+아르고스가 그 일부를 줬다고 생각하세요?
+Hélène: Je crois qu'on ne le sait pas. Et qu'on n'écrira pas ce qu'on ne sait pas. (un silence) Mais je le note.
+모른다고 생각해. 그리고 모르는 건 쓰지 않을 거야. (침묵) 하지만 적어는 둘게.
+Aubry: (dix-huit heures, au haut-parleur) J'ai lu votre article. Rien à redire. (un silence) Et j'ai lu celui du Courrier de Paris. Je ne serais pas surpris que la CNIL leur pose des questions demain.
+(저녁 여섯 시, 스피커로) 기사 읽었어요. 지적할 게 없네요. (침묵) 쿠리에 드 파리 기사도 읽었어요. 내일 CNIL이 그쪽에 질문을 해도 놀랍지 않겠네요.
+Hélène: Maître… si nous apprenions, par quelqu'un de l'intérieur, qu'une société privée utilise ce fichier pour une campagne électorale…
+변호사님… 만약 우리가 내부 사람을 통해 어떤 민간 회사가 이 파일을 선거 운동에 쓰고 있다는 걸 알게 된다면…
+Aubry: (un silence) Alors vous auriez une histoire énorme. Et un témoin en danger. (un silence) Le jour où vous l'écrirez, il faudra que votre témoin soit dehors. Et qu'une autre personne, pas seulement elle, puisse confirmer.
+(침묵) 그럼 엄청난 이야기를 갖게 되는 거죠. 그리고 위험에 처한 증인도요. (침묵) 그걸 쓰는 날엔 그 증인이 밖에 나와 있어야 해요. 그리고 그녀 말고 다른 누군가도 확인해 줄 수 있어야 하고요.
+Léa: (très bas, à Karim) Une autre personne. Jordan ? Margaux ?
+(카림에게 아주 작게) 다른 누군가. 조르당? 마르고?
+Karim: (très bas) Margaux.
+(아주 작게) 마르고.
+Léa: (vingt et une heures trente, seule à son bureau, elle compose le numéro que Sophie avait noté le douze février ; ça sonne ; une voix de jeune femme répond, méfiante) …
+(밤 아홉 시 반, 혼자 자기 자리에서 2월 12일에 소피가 적어 둔 번호를 누른다. 신호가 간다. 경계하는 젊은 여자 목소리가 받는다) …
+Margaux: (au téléphone) Allô ?
+(전화로) 여보세요?
+Léa: Bonsoir. Je m'appelle Léa. Je travaille au Phare. (un silence) Vous avez appelé notre rédaction le douze février. Vous avez demandé le journaliste qui avait écrit sur l'otage.
+안녕하세요. 레아라고 해요. 르 파르에서 일해요. (침묵) 2월 12일에 저희 편집국에 전화하셨죠. 인질 기사를 쓴 기자를 찾으셨고요.
+Margaux: (un long silence) Comment vous avez mon numéro ?
+(긴 침묵) 제 번호를 어떻게 아세요?
+Léa: Notre standard l'a noté quand vous avez appelé. C'est tout. (un silence) Vous n'êtes pas obligée de me parler. Je voulais juste vous dire qu'on a reçu votre appel. Et qu'on ne vous a pas oubliée.
+대표 전화에서 전화하셨을 때 적어 뒀어요. 그게 다예요. (침묵) 저랑 얘기하실 의무는 없어요. 그냥 전화를 받았다는 것, 그리고 잊지 않았다는 걸 말씀드리고 싶었어요.
+Margaux: (sa voix tremble) Ils ont trouvé le post-it. Le lendemain matin. Dorval l'avait photographié. (un silence) Je ne peux pas vous parler au téléphone.
+(목소리가 떨리며) 그 사람들이 포스트잇을 찾았어요. 다음 날 아침에. 도르발이 사진을 찍어 놨더라고요. (침묵) 전화로는 얘기 못 해요.
+Léa: (doucement) Je comprends. Où vous voulez. Quand vous voulez. Un endroit plein de monde.
+(조용히) 이해해요. 원하시는 곳에서. 원하실 때. 사람 많은 곳에서요.
+Margaux: (un silence) Samedi. Le Salon de l'agriculture. Le dernier week-end. Il y a des milliers de gens. (un silence) Devant les vaches normandes. À onze heures.
+(침묵) 토요일. 농업 박람회. 마지막 주말. 수천 명이 있어요. (침묵) 노르망디 소들 앞. 열한 시에.
+Léa: Devant les vaches normandes. Onze heures. (un silence) Merci, Margaux.
+노르망디 소들 앞. 열한 시. (침묵) 고마워요, 마르고.
+Margaux: Ne me remerciez pas encore. (elle raccroche)
+아직 고마워하지 마세요. (끊는다)
+Julien: (vingt heures, il passe à la rédaction par la porte de derrière, sans cravate, un bonnet sur la tête) J'ai lu ton article, Léa. Deux fois. (un silence) Ma mère m'a appelé. Elle a reçu le SMS aussi. À Bastia.
+(저녁 여덟 시, 넥타이 없이 비니를 쓰고 뒷문으로 편집국에 들른다) 네 기사 읽었어, 레아. 두 번. (침묵) 엄마가 전화했어. 그 문자 받았대. 바스티아에서.
+Léa: Elle n'a pas appelé le numéro ?
+그 번호로 전화 안 하셨죠?
+Julien: (un petit sourire) Ma mère ne répond même pas aux numéros qu'elle connaît. (il redevient sérieux) Demain, je déjeune chez Saint-Clair. Avenue Foch. (un silence) Après ce que Jordan a dit à Camille… je crois que je sais de quel « projet » il veut me parler.
+(작게 웃으며) 우리 엄마는 아는 번호도 안 받으셔. (다시 진지해지며) 내일 생클레르 집에서 점심 먹어. 포슈 대로. (침묵) 조르당이 카미유한테 한 말을 듣고 나니… 그가 무슨 «프로젝트» 얘기를 하려는지 알 것 같아.
+Hélène: (derrière lui) Tu n'achètes rien. Tu ne promets rien. Et tu ne touches à aucun fichier, même si on te le tend sur un plateau d'argent.
+(그의 뒤에서) 아무것도 사지 마. 아무것도 약속하지 마. 그리고 은쟁반에 담아 내밀어도 어떤 파일에도 손대지 마.
+Julien: (il hoche la tête) Antoine Ferrand écoute. Antoine Ferrand sourit. Antoine Ferrand dit qu'il doit consulter ses clients.
+(고개를 끄덕이며) 앙투안 페랑은 듣는다. 앙투안 페랑은 웃는다. 앙투안 페랑은 고객들과 상의해 봐야 한다고 말한다.
+Léa: Et s'il te demande de répondre tout de suite ?
+그런데 당장 대답하라고 하면?
+Julien: Alors Antoine aura un rendez-vous urgent. (un petit sourire) Les gens importants ont toujours un rendez-vous urgent.
+그럼 앙투안은 급한 약속이 생기겠지. (작게 웃으며) 중요한 사람들은 항상 급한 약속이 있거든.
+Hélène: (elle s'arrête près du bureau de Léa, son manteau sur le bras) Tu l'as eue ?
+(외투를 팔에 걸고 레아 책상 옆에 멈춰 서며) 통화했어?
+Léa: Samedi. Onze heures. Au Salon de l'agriculture. Devant les vaches normandes.
+토요일. 열한 시. 농업 박람회. 노르망디 소들 앞에서.
+Hélène: (elle réfléchit) Tu n'y vas pas seule. Karim sera à vingt mètres. Il ne te parle pas, il te regarde. Et tu ne lui donnes rien d'Argos. Tu écoutes.
+(생각하며) 혼자 가지 마. 카림이 20미터 떨어진 데 있을 거야. 말은 안 걸고 지켜보기만 해. 그리고 아르고스에 관해선 아무것도 주지 마. 듣기만 해.
+Léa: Et si elle a peur et qu'elle part ?
+그런데 겁먹고 가 버리면요?
+Hélène: Alors tu la laisses partir. (un silence) Elle a déjà perdu son travail parce qu'elle voulait parler. On ne va pas lui faire perdre autre chose.
+그럼 가게 둬. (침묵) 말하고 싶어 했다는 이유로 이미 일자리를 잃었어. 다른 것까지 잃게 하진 않을 거야.
+Léa: (elle hoche la tête) Je la laisse partir.
+(고개를 끄덕이며) 가게 둘게요.
+Léa: (vingt-deux heures, le téléphone prépayé sonne) Allô ?
+(밤 열 시, 선불폰이 울린다) 여보세요?
+Camille: (au téléphone) Neige. (un silence) Jordan trie des listes. Par arrondissement, par âge, par situation. Il a vu le communiqué ce matin. Il dit que ses colonnes sont les mêmes. Il a peur.
+(전화로) 눈. (침묵) 조르당이 목록을 정리하고 있어. 구별로, 나이별로, 상황별로. 오늘 아침 보도자료를 봤대. 열이 똑같다고. 겁먹었어.
+Léa: (elle écrit) Jordan. Listes. Mêmes colonnes. (un silence) Et moi, j'ai parlé à Margaux. Samedi, onze heures. Le Salon de l'agriculture.
+(적으며) 조르당. 목록. 같은 열. (침묵) 그리고 저는 마르고랑 통화했어요. 토요일 열한 시. 농업 박람회.
+Camille: (un long silence) Margaux. (un silence) Fais attention, Léa. Elle a été suivie. Peut-être encore.
+(긴 침묵) 마르고. (침묵) 조심해, 레아. 그녀는 미행당했었어. 아마 지금도.
+Léa: Je sais. Je ferai attention. (un silence) Et toi ? La tasse bleue ?
+알아요. 조심할게요. (침묵) 그럼 카미유는요? 파란 컵은요?
+Camille: (un petit rire fatigué) Il n'a pas bu son café. Il a dit : « Les choses cassées se remplacent. Les gens aussi. » (un silence) Je crois que c'était pour Margaux. J'espère que c'était pour Margaux.
+(작고 지친 웃음) 커피를 안 마셨어. «깨진 건 바꾸면 돼요. 사람도 마찬가지고.» 그러더라. (침묵) 마르고 얘기였던 것 같아. 마르고 얘기였길 바라.
+Léa: (doucement) Neige ?
+(조용히) 눈이에요?
+Camille: (un silence) Neige. Mais je compte les jours. Treize jours avant le vote.
+(침묵) 눈. 하지만 날짜를 세고 있어. 투표까지 13일.
+
+## 주요 단어
+la fuite (de données) | 라 퓌뜨 | (데이터) 유출 (B1)
+les données (f. pl.) | 레 도네 | 데이터 (B1)
+la cybersécurité | 라 시베르세뀌리떼 | 사이버 보안 (B2)
+concerné(e) | 꽁세르네 | 해당되는, 영향받는 (B1)
+le numéro de sécurité sociale | 르 뉘메로 드 세뀌리떼 소시알 | 사회보장번호 (B1)
+l'arnaque (f.) | 라르나끄 | (구어) 사기 (B1)
+l'escroc (m.) | 레스크로 | 사기꾼 (B2)
+frauduleusement | 프로뒬뢰즈망 | 부정하게 (C1)
+l'identifiant (m.) | 리당띠피앙 | 로그인 아이디, 식별자 (B2)
+notifier | 노띠피에 | 통보하다 (C1)
+la violation de données | 라 비올라시옹 드 도네 | 개인정보 침해 (C1)
+la vigilance | 라 비질랑스 | 경계, 주의 (B2)
+les coordonnées bancaires (f. pl.) | 레 꼬오르도네 방께르 | 은행 정보 (B1)
+signaler | 시냘레 | 신고하다, 알리다 (B1)
+la vie privée | 라 비 프리베 | 사생활 (B1)
+trier | 트리에 | 분류하다, 정리하다 (B1)
+la CNIL | 라 끄닐 | 프랑스 개인정보보호위원회 (B2)
+
+## 문법·표현 정리
+**Vos données ont peut-être été volées (B1):** 수동태 복합과거 + peut-être. 주어(données, 여성 복수)와 과거분사 일치: volées.
+**Combien de personnes sont concernées ? (A2):** combien de + 무관사 명사. Combien de temps ? / Combien de lignes ?
+**On a prévenu la CNIL (A2):** prévenir quelqu'un = ~에게 알리다. prévenir quelqu'un de quelque chose.
+**Qui a eu accès à… ? (B1):** avoir accès à = ~에 접근하다. Qui a eu accès à la base ?
+**se rendre compte de / que (B1):** 알아차리다. avant que l'Office s'en rende compte(고용청이 알아채기 전에) en = de cela.
+**avant que + 접속법 (B1):** avant que l'Office s'en rende compte.
+**faillir + inf. (B2):** J'ai failli appeler.(전화할 뻔했다)
+**cela ne prouve pas que… (B2):** 논리 표현. Cela ne prouve pas qu'il est authentique.
+**ne… jamais… ni… (B2):** Ne jamais communiquer de mot de passe ni de coordonnées bancaires.
+**부정사 명령 (B1):** 공식 안내문에서 동사원형으로 지시. Ne jamais communiquer… / Vérifier ses comptes. / Signaler toute tentative.
+**dans les + 시간 + après (B2):** dans les soixante-douze heures après en avoir eu connaissance(인지 후 72시간 이내에).
+**se faire + inf. (B2):** l'Office s'était fait voler ses données(고용청이 데이터를 도난당했다).
+**À chacun sa peur (B2):** "각자에게 각자의 ~". À chacun son goût. / À chacun sa vérité.
+**ne… pas encore (A2):** Ne me remerciez pas encore. / On ne peut pas l'écrire, pas encore.
