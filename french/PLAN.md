@@ -307,24 +307,24 @@
 | 14 | Le défilé (패션쇼) | B1 | 패션쇼장 앞·편집국 | 브랜드 행사 날 기사 공개. 노동자 단체 시위, 브랜드의 해명 성명. 무대 뒤에서 레아는 「Étoile Models」 소속의 겁먹은 하르잔 출신 모델 다리아와 마주침 — "Aidez-moi…"라는 한마디만 남기고 사라짐(6부 복선) | Le défilé est annulé · Les ouvriers seront régularisés ? · Aidez-moi… | futur simple, 수동태 |
 | 15 | L'hiver arrive (겨울이 온다) | C1 | 편집국장실·11월 말 | 아리안: "다음은 무기다." 엘렌은 탐사팀 확대를 위해 경쟁지 스타 기자 영입을 결정 | La prochaine étape, ce sont les armes · Il nous faut du renfort · un recrutement | 명사화, 강조 구문 |
 
-### 4부 · La Taupe (두더지) — 12월~1월
+### 4부 · La Taupe (두더지) — 1월
 
 > 사건 ⑧ 외교관 납치와 ⑦ Orsenne 무기 커미션이 얽힘. 인질 협상 정보가 새어 나가면서 내부 첩자 공포, "보도하면 인질이 위험하다"는 딜레마.
 
 | 화 | 제목 | 중심 | 장소·시간 | 줄거리 | 핵심 표현 | 문법 |
 |---|---|---|---|---|---|---|
-| 1 | Un nouveau collègue (새 동료) | A2 | 편집국·12월 초 | 토마 게랭 합류. 환영 자리 도중 속보: 칸다라 주재 외교관 르메르 납치 | Bienvenue ! · Il a été enlevé | passé composé, 수동태 |
+| 1 | Un nouveau collègue (새 동료) | A2 | 편집국·1월 5일 | 토마 게랭 합류. 환영 자리 도중 속보: 칸다라 주재 외교관 르메르 납치 | Bienvenue ! · Il a été enlevé | passé composé, 수동태 |
 | 2 | Le Quai d'Orsay (외무부) | C1 | 외무부 기자 브리핑 | 대변인의 외교 화법: "몸값은 없다". 익명 외교관의 귀띔 | La France ne paie pas de rançon · une source diplomatique | 외교 화법, 명사화 |
 | 3 | Le salon de l'armement (방산 전시회) | B2 | 빌팽트 방산 전시장 | 쥘리앵·토마가 Orsenne과 탐색전. 홍보팀 직원 클레르 퐁텐과 스쳐 지나감(복선) | un contrat juteux · Ce système a été conçu pour… | 수동태, lequel |
 | 4 | L'intermédiaire (중개인) | C1 | 8구 호텔 바 | 카미유가 중개인 말로리에게 접근. 무기 거래와 인질 협상 양쪽에 손을 댐 | Je ne fais que rendre service · un monde dont on ne parle pas | dont, 완곡어법 |
 | 5 | Fuite (유출) | B1 | 편집국 | 증인이 갑자기 취소. Orsenne이 질문 목록을 이미 알고 있었음 | Comment ils ont su ? · Quelqu'un a parlé | plus-que-parfait |
-| 6 | Noël à la rédaction (편집국 크리스마스) ⟨쉬어가는 화⟩ | A2 | 편집국 송년회 | 시크릿 산타. TV의 인질 영상에 얼어붙는 분위기. 노트북 근처를 서성이는 토마 | Joyeux Noël ! · Tu fais quoi pour les fêtes ? | 복습, 감탄 표현 |
+| 6 | Les vœux (신년 하례) ⟨쉬어가는 화⟩ | A2 | 편집국 신년 하례회·1월 둘째 주 | 새해 덕담과 선물 교환. 레아의 남자친구 니콜라 첫 등장. TV의 인질 영상에 얼어붙는 분위기. 노트북 근처를 서성이는 토마 | Bonne année ! · Meilleurs vœux ! · Tu as pris des résolutions ? | 복습, 감탄 표현 |
 | 7 | La femme du diplomate (외교관의 아내) | B2 | 뱅센 르메르 부부의 집 | 안 르메르: "정부가 남편을 버렸다." 보도를 둘러싼 첫 딜레마 | Je ne voudrais pas mettre sa vie en danger | 접속법, conditionnel |
 | 8 | Les soupçons (의심) | B1 | 쥘리앵의 아파트 | 비밀 회의. 용의자: 레아, 토마, 카미유 | Il faut que ça reste entre nous · Et si c'était… ? | il faut que + subj. |
 | 9 | Le piège (함정) | C1 | 편집국 옥상 | 용의자마다 다른 가짜 정보를 흘리는 카나리아 함정 설계 | On verra bien qui mord · Quand bien même… | 양보, futur antérieur |
-| 10 | Réveillon (새해 전야) | A2 | 몽마르트르 계단·12월 31일 | 레아가 가짜 정보 A를 남자친구에게 말해 버림 → 의심 집중 | Je te jure · Ce n'est pas ce que tu crois | 부정, 간접화법 |
+| 10 | L'anniversaire (생일 파티) | A2 | 몽마르트르 계단·1월 중순 | 레아의 25번째 생일. 레아가 가짜 정보 A를 남자친구 니콜라에게 말해 버림 → 의심 집중 | Je te jure · Ce n'est pas ce que tu crois | 부정, 간접화법 |
 | 11 | Allô, Kandara ? (칸다라와의 통화) | B2 | 화상통화 | 아미나타: 납치 세력이 Orsenne 무기를 씀, 몸값 대신 무기를 넘기는 거래 정황 | La ligne coupe · En échange d'armes | gérondif, 시제 일치 |
-| 12 | La galette des rois (갈레트 데 루아) | B1 | 편집국·1월 6일 | 함정 결과: 토마에게만 준 정보 B가 Orsenne 반박문에 등장. 레아 누명 벗음 | Qui a la fève ? · Je le lui ai dit, à lui seul | 이중 대명사 |
+| 12 | La galette des rois (갈레트 데 루아) | B1 | 편집국·1월 하순(1월 내내 먹는 갈레트) | 함정 결과: 토마에게만 준 정보 B가 Orsenne 반박문에 등장. 레아 누명 벗음 | Qui a la fève ? · Je le lui ai dit, à lui seul | 이중 대명사 |
 | 13 | Filature (미행) | B1 | 생제르맹 거리 | 토마가 Argos의 하르멜과 접선하는 장면 촬영 | Ne le perds pas ! · Il est entré dans… | 명령형 + 대명사 |
 | 14 | Confrontation (대면) | C1 | 편집국 회의실 | 토마의 부인과 자백: 빚, 협박, Argos. 그를 역이용하기로 | Je n'aurais jamais dû · En échange de… | conditionnel passé |
 | 15 | Libération (석방) | B2 | 편집국·1월 말 눈 오는 밤 | 르메르 석방 뒤 "인질과 무기의 맞교환" 보도. 토마 실종. "그들 안으로 들어가자" | Il est libre · Il faut entrer chez eux | 결심 표현, 수동태 |
