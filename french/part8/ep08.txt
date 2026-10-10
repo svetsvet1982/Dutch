@@ -1,0 +1,340 @@
+# 8부 8화. Le faux confrère (가짜 동료)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국 → 화상회의 → 몽파르나스역 카페 | 시간: 7월 15일 수요일 ~ 16일 목요일
+핵심 표현: Les métadonnées ne mentent pas · Vous n'êtes pas journaliste · Lequel des deux ? · auquel
+
+## 대화
+Julien: (mercredi, sept heures ; la rédaction est vide ; la table de réunion est couverte de carnets noirs ouverts, de post-it jaunes et de tasses vides ; sa mère dort encore sur le canapé, sous une veste) Mille neuf cent quatre-vingt-dix-sept. Huit fois « S.C. ». (un silence) Mille neuf cent quatre-vingt-dix-huit. Quatorze fois.
+(수요일 오전 일곱 시. 편집국은 비어 있다. 회의 탁자는 펼쳐진 검은 수첩, 노란 포스트잇, 빈 잔으로 덮여 있다. 어머니는 아직 소파에서 재킷을 덮고 잔다) 1997년. «S.C.» 여덟 번. (침묵) 1998년. 열네 번.
+Karim: (il entre avec deux cafés de chez Momo ; il en pose un devant Julien) Tu as dormi ?
+(모모 가게 커피 두 잔을 들고 들어온다. 한 잔을 쥘리앵 앞에 놓는다) 잤어?
+Julien: Trois heures. (un silence) Sur le toit. Camille m'a ramené à deux heures.
+세 시간. (침묵) 옥상에서. 카미유가 두 시에 데리고 내려왔어.
+Karim: (il s'assoit) Les carnets, ça attendra une heure. (un silence) J'ai trouvé quelque chose cette nuit. Sur l'Italien.
+(앉는다) 수첩은 한 시간 기다려도 돼. (침묵) 어젯밤에 뭘 찾았어. 그 이탈리아인에 대해.
+Julien: (il lève la tête) Luca ?
+(고개를 든다) 루카?
+Karim: (il ouvre son ordinateur) Tu te souviens des documents qu'il a envoyés au consortium ? En juin. Avant de disparaître. (un silence) Trois PDF sur les filiales italiennes d'Orsenne. Et quatre photos d'une usine près de Brescia.
+(노트북을 연다) 그 사람이 컨소시엄에 보낸 문서들 기억나? 유월에. 사라지기 전에. (침묵) 오르센 이탈리아 자회사에 관한 PDF 세 개. 그리고 브레시아 근처 공장 사진 네 장.
+Julien: Des documents sans intérêt. On ne les a jamais utilisés.
+쓸모없는 문서들이었잖아. 한 번도 안 썼어.
+Karim: Sans intérêt pour l'enquête. (un silence) Mais très intéressants pour savoir qui les a fabriqués.
+취재엔 쓸모없었지. (침묵) 근데 누가 만들었는지 알기엔 아주 흥미로워.
+Karim: (il tourne l'écran vers Julien) Un fichier, ce n'est pas seulement ce qu'on voit. Il y a aussi ce qu'on ne voit pas. L'auteur. Le logiciel. La date de création. Le nom de l'ordinateur. (un silence) Ça s'appelle les métadonnées.
+(화면을 쥘리앵 쪽으로 돌린다) 파일은 눈에 보이는 게 다가 아니야. 안 보이는 것도 있어. 작성자. 프로그램. 생성 날짜. 컴퓨터 이름. (침묵) 그걸 메타데이터라고 해.
+Julien: Je sais ce que sont les métadonnées, Karim.
+메타데이터가 뭔지는 알아, 카림.
+Karim: (sans s'arrêter) Alors regarde. (un silence) Premier PDF. Auteur : « LF ». Normal. Logiciel : une version d'entreprise, licence au nom d'une société. (un silence) Le nom de la licence : « SNTL-TECH ».
+(멈추지 않고) 그럼 봐. (침묵) 첫 번째 PDF. 작성자: «LF». 정상이지. 프로그램: 기업용 버전, 회사 명의 라이선스. (침묵) 라이선스 이름: «SNTL-TECH».
+Julien: (il fronce les sourcils) SNTL…
+(눈살을 찌푸린다) SNTL…
+Karim: Sentinelle Technologies. (un silence) La société qui fabrique Panoptès. Celle qui partage le vingt-sixième étage avec Argos.
+상티넬 테크놀로지. (침묵) 판옵테스를 만드는 회사. 아르고스랑 26층을 같이 쓰는 회사.
+Julien: (un long silence) Un journaliste italien qui écrit ses PDF avec un logiciel payé par une société de surveillance française.
+(긴 침묵) 이탈리아 기자가 프랑스 감시 회사가 돈 낸 프로그램으로 PDF를 만든다.
+Karim: Attends. Ce n'est pas tout. (un silence) Les photos de l'usine de Brescia. Les fichiers originaux, ceux qu'il a envoyés par la plateforme du consortium. (un silence) Les données de l'appareil sont encore dedans.
+기다려. 그게 다가 아니야. (침묵) 브레시아 공장 사진들. 그 사람이 컨소시엄 플랫폼으로 보낸 원본 파일. (침묵) 카메라 데이터가 아직 안에 남아 있어.
+Julien: Et ?
+그래서?
+Karim: (il clique) Date : vingt-huit mai, quatorze heures douze. (un silence) Coordonnées GPS : quarante-huit degrés cinquante-trois nord, deux degrés quatorze est.
+(클릭한다) 날짜: 5월 28일, 14시 12분. (침묵) GPS 좌표: 북위 48도 53분, 동경 2도 14분.
+Julien: Ce n'est pas Brescia.
+브레시아가 아니네.
+Karim: (il ouvre une carte) Non. C'est La Défense. (un silence ; il zoome) Un parking. Au pied d'une tour. (un silence) La tour dans laquelle Argos a ses bureaux.
+(지도를 연다) 아니. 라데팡스야. (침묵. 확대한다) 주차장. 타워 바로 밑. (침묵) 아르고스 사무실이 있는 그 타워.
+Julien: (il se lève) Il a photographié une usine italienne… depuis un parking à La Défense ?
+(일어선다) 이탈리아 공장을 찍었다고… 라데팡스 주차장에서?
+Karim: Non. (un silence) Il a photographié un écran. Une photo d'une photo. Regarde, on voit les pixels. Et là, dans le coin, le reflet d'un néon.
+아니. (침묵) 화면을 찍은 거야. 사진의 사진. 봐, 픽셀이 보이잖아. 그리고 여기 구석에, 형광등 반사.
+Julien: (il se penche ; un long silence) Il n'est jamais allé à Brescia.
+(몸을 숙인다. 긴 침묵) 브레시아에 간 적이 없구나.
+Karim: Jamais. (un silence) Les gens oublient. Ils font attention à ce qu'ils disent. À ce qu'ils écrivent. Mais pas à ce que le fichier dit pour eux. (un silence) Les métadonnées ne mentent pas.
+한 번도. (침묵) 사람들은 잊어버려. 자기가 하는 말엔 조심하지. 자기가 쓰는 글에도. 근데 파일이 자기 대신 하는 말엔 신경 안 써. (침묵) 메타데이터는 거짓말 안 해.
+Aubry: (huit heures ; il arrive, voit l'écran, pose sa sacoche) Avant que vous soyez trop contents. (un silence) D'où viennent ces fichiers ?
+(여덟 시. 도착해서 화면을 보고 가방을 내려놓는다) 너무 기뻐하기 전에. (침묵) 이 파일들 어디서 났어?
+Karim: De la plateforme sécurisée du consortium. Luca les a déposés lui-même, en juin, pour tous les partenaires. (un silence) On ne les a pas volés. On ne les a pas piratés. Il nous les a donnés.
+컨소시엄 보안 플랫폼에서. 루카가 유월에 모든 파트너한테 직접 올린 거야. (침묵) 훔친 것도 아니고. 해킹한 것도 아니야. 그 사람이 우리한테 준 거야.
+Aubry: (il hoche la tête lentement) Bien. (un silence) Un document qu'on vous remet volontairement, vous avez le droit de l'analyser. Entièrement. Y compris ce qu'il cache.
+(천천히 고개를 끄덕인다) 좋아. (침묵) 자발적으로 넘겨받은 문서는 분석할 권리가 있어. 전부 다. 숨겨진 것까지 포함해서.
+Aubry: (un silence) Mais une licence de logiciel, ce n'est pas une preuve. Une licence, ça se prête. Ça se pirate. Ça se partage entre amis. (un silence) Il me faut une deuxième source. Indépendante.
+(침묵) 하지만 프로그램 라이선스는 증거가 아니야. 라이선스는 빌려줄 수 있어. 불법 복제할 수도 있고. 친구끼리 나눠 쓸 수도 있어. (침묵) 두 번째 출처가 필요해. 독립적인 걸로.
+Julien: Benedetti Consulting. (un silence) Claire nous a dit que dans les factures d'Orsenne, Luca apparaissait sous ce nom. Une société de conseil à Lugano.
+베네데티 컨설팅. (침묵) 클레르가 오르센 청구서에 루카가 그 이름으로 나온다고 했어. 루가노의 컨설팅 회사.
+Karim: (il tape déjà) La Suisse a un registre du commerce public. En ligne. Gratuit. (un silence) N'importe qui peut savoir qui dirige une société.
+(벌써 타이핑 중이다) 스위스엔 공개 상업 등기부가 있어. 온라인으로. 무료로. (침묵) 누구나 회사를 누가 운영하는지 알 수 있어.
+Aubry: (il s'assoit) Ça, c'est une source. Une source publique, à laquelle tout citoyen a accès. (un silence) Allez-y.
+(앉는다) 그건 출처지. 모든 시민이 접근할 수 있는 공개 출처. (침묵) 해 봐.
+Karim: (un silence ; il lit) Benedetti Consulting SA. Lugano. Créée il y a quatre ans. (un silence) Administrateur unique : maître Paolo Rinaldi. Avocat.
+(침묵. 읽는다) 베네데티 컨설팅 주식회사. 루가노. 사 년 전 설립. (침묵) 단독 이사: 파올로 리날디 변호사.
+Julien: Un avocat suisse. Ça ne veut rien dire. Les avocats suisses dirigent des milliers de sociétés.
+스위스 변호사. 그건 아무 의미 없어. 스위스 변호사들은 회사 수천 개를 운영해.
+Karim: (il tape encore) Je cherche les autres sociétés auxquelles maître Rinaldi est lié. (un silence) Onze sociétés. (un silence ; il s'arrête) Et la dixième…
+(또 타이핑한다) 리날디 변호사가 연결된 다른 회사들을 찾아볼게. (침묵) 회사 열한 곳. (침묵. 멈춘다) 그리고 열 번째가…
+Julien: Laquelle ?
+어느 거?
+Karim: « Argos Strategic Advisory Suisse SA ». (un silence) Même adresse. Même avocat. Même étage.
+«아르고스 전략 자문 스위스 주식회사». (침묵) 같은 주소. 같은 변호사. 같은 층.
+Aubry: (un long silence ; il enlève ses lunettes) Ça, c'est une deuxième source.
+(긴 침묵. 안경을 벗는다) 그게 두 번째 출처야.
+Hélène: (neuf heures ; elle écoute, debout, son café à la main) Résumez-moi. En trois phrases. Je n'ai pas dormi non plus.
+(아홉 시. 커피를 들고 선 채로 듣는다) 요약해 줘. 세 문장으로. 나도 못 잤어.
+Karim: Un. Les fichiers de Luca ont été créés avec un logiciel de Sentinelle Technologies. (un silence) Deux. Ses photos « de Brescia » ont été prises à La Défense, au pied de la tour d'Argos. (un silence) Trois. La société qui le payait à Lugano a le même administrateur que la filiale suisse d'Argos.
+하나. 루카의 파일들은 상티넬 테크놀로지 프로그램으로 만들어졌어요. (침묵) 둘. «브레시아» 사진들은 라데팡스, 아르고스 타워 밑에서 찍혔어요. (침묵) 셋. 루가노에서 그 사람한테 돈을 준 회사가 아르고스 스위스 자회사랑 이사가 같아요.
+Hélène: (elle pose son café) Donc Luca Ferri n'est pas un journaliste italien qui a été trompé par Argos. (un silence) C'est un homme d'Argos qui s'est fait passer pour un journaliste.
+(커피를 내려놓는다) 그러니까 루카 페리는 아르고스한테 속은 이탈리아 기자가 아니야. (침묵) 기자 행세를 한 아르고스 사람이야.
+Julien: Comme Thomas. (un silence) Mais en mieux. Thomas, on l'a recruté. Luca, il s'est invité.
+토마처럼. (침묵) 근데 더 잘했지. 토마는 우리가 뽑았어. 루카는 스스로 끼어들었고.
+Hélène: Qu'est-ce qu'il a vu, pendant les deux semaines où il était dans le consortium ?
+컨소시엄에 있던 이 주 동안 그 사람이 뭘 봤지?
+Karim: (il consulte un fichier) La plateforme garde un journal des connexions. Je l'ai demandé à Jonas hier soir. (un silence) Luca s'est connecté quarante-trois fois. Il a ouvert les dossiers belge et allemand. Et un document qui n'est pas à nous… (un silence) La liste des partenaires. Avec leurs numéros de téléphone.
+(파일을 확인한다) 플랫폼엔 접속 기록이 남아. 어젯밤 요나스한테 요청했어. (침묵) 루카는 마흔세 번 접속했어. 벨기에랑 독일 자료를 열었고. 그리고 우리 것이 아닌 문서 하나… (침묵) 파트너 명단. 전화번호까지.
+Hélène: (elle ferme les yeux) Les numéros de tout le monde.
+(눈을 감는다) 모두의 전화번호.
+Léa: (elle a posé son sac sans bruit ; elle est pâle) Le numéro de Julien était sur cette liste ?
+(소리 없이 가방을 내려놓았다. 창백하다) 쥘리앵 번호도 그 명단에 있었어요?
+Karim: (un silence) Oui. Et le mien. Et celui de Marie Lambrechts. Et celui de Jonas.
+(침묵) 응. 내 것도. 마리 랑브레히츠 것도. 요나스 것도.
+Léa: (elle s'assoit) Le van de Panoptès… sur l'écran, il y avait le nom de Sami. (un silence) Je me demandais d'où venaient les noms. (un silence) Peut-être pas seulement de la fuite de mars.
+(앉는다) 판옵테스 차량… 화면에 사미 이름이 있었어요. (침묵) 이름들이 어디서 왔는지 궁금했거든요. (침묵) 삼월 유출에서만 온 게 아닐지도 몰라요.
+Aubry: (immédiatement) Ça, c'est une hypothèse. (un silence) Vous n'avez aucun lien entre cette liste et le van. Aucun. On ne l'écrit pas.
+(즉시) 그건 가설이야. (침묵) 그 명단이랑 그 차량 사이에 아무 연결 고리가 없어. 하나도. 그건 안 써.
+Léa: Je sais. (un silence) Je le note. Dans mon carnet. Pas dans l'article.
+알아요. (침묵) 적어 둘게요. 내 수첩에. 기사엔 말고.
+Mira: (elle est arrivée pendant la discussion ; elle regarde l'écran, très calme) Dans mon pays, on appelait ça « les cousins ». (un silence) Des hommes qui venaient aux conférences de presse avec un carnet. Ils posaient de bonnes questions. Ils payaient les cafés.
+(이야기 도중에 도착했다. 아주 차분하게 화면을 본다) 우리나라에선 그런 사람들을 «사촌들»이라고 불렀어요. (침묵) 수첩 들고 기자회견에 오는 남자들. 좋은 질문을 했어요. 커피값도 냈고요.
+Karim: Et ?
+그래서요?
+Mira: (un silence) Et trois semaines plus tard, les journalistes qui avaient bu ces cafés recevaient une convocation. (un silence) Les cousins ne prenaient pas de notes pour écrire. Ils prenaient des notes pour la police.
+(침묵) 그리고 삼 주 뒤에 그 커피를 마신 기자들이 소환장을 받았죠. (침묵) 사촌들은 기사를 쓰려고 메모한 게 아니에요. 경찰한테 주려고 메모했죠.
+Léa: (doucement) Comment vous les reconnaissiez ?
+(조용히) 어떻게 알아봤어요?
+Mira: Ils ne publiaient jamais rien. (un silence) Un vrai journaliste, tu peux lire ce qu'il écrit. Un cousin, tu cherches, tu cherches… et il n'y a rien. Seulement un sourire.
+아무것도 발표하지 않았어요. (침묵) 진짜 기자는 그 사람이 쓴 걸 읽을 수 있어요. 사촌은 찾고 또 찾아도… 아무것도 없어요. 미소만 있죠.
+Julien: (un silence) Jonas l'avait dit en juin. « Je n'ai jamais lu un article de Luca Ferri. »
+(침묵) 요나스가 유월에 말했었지. «루카 페리 기사를 한 번도 읽은 적이 없다.»
+Julien: (il la regarde, un petit sourire) Ton père écrivait tout, dirait ma mère.
+(그녀를 보며 작게 웃는다) 우리 엄마라면 «너희 아버지는 다 적었어»라고 하겠네.
+Lambrechts: (dix heures ; en visioconférence, ses lunettes rouges sur le nez, elle ne sourit pas) Il n'est pas midi. Je ne souris pas. (un silence) Mais je vous écoute.
+(열 시. 화상회의. 빨간 안경을 코에 걸고, 웃지 않는다) 아직 정오가 아니에요. 난 안 웃어요. (침묵) 하지만 듣고 있어요.
+Jonas: (dans une autre fenêtre, à Cologne ; il a les cheveux en désordre) Karim m'a envoyé les registres suisses à six heures. (un silence) J'ai vérifié. Tout est exact.
+(다른 창, 쾰른. 머리가 헝클어져 있다) 카림이 여섯 시에 스위스 등기부를 보내 줬어요. (침묵) 확인했어요. 전부 정확해요.
+Lambrechts: (un long silence) J'ai invité cet homme. (un silence) Il m'a écrit en mai. Un mail parfait. Des références. Un numéro de carte de presse. (un silence) Je n'ai pas vérifié le numéro. Parce qu'il était charmant.
+(긴 침묵) 내가 그 남자를 초대했어요. (침묵) 오월에 연락이 왔죠. 완벽한 메일이었어요. 추천인들. 기자증 번호. (침묵) 번호는 확인 안 했어요. 매력적이었으니까.
+Karim: Il était charmant avec tout le monde.
+그 사람은 모두한테 매력적이었어요.
+Lambrechts: (sèchement) Je ne suis pas tout le monde. (un silence) J'ai vingt ans de métier. On m'a eue comme une stagiaire.
+(딱딱하게) 난 모두가 아니에요. (침묵) 이 일 이십 년 했어요. 인턴처럼 당했네요.
+Léa: (doucement) Les stagiaires vérifient, madame.
+(조용히) 인턴들은 확인하는데요, 부인.
+Lambrechts: (elle la regarde à travers l'écran ; un long silence ; puis, pour la première fois, l'ombre d'un sourire) Il est dix heures dix. (un silence) Vous avez de la chance.
+(화면 너머로 그녀를 본다. 긴 침묵. 그러고는 처음으로 미소 비슷한 것) 열 시 십 분이네요. (침묵) 운이 좋네요.
+Jonas: (il consulte une feuille) J'ai rappelé Il Corriere Lombardo ce matin. Le rédacteur en chef, cette fois. (un silence) Le journal auquel Luca disait appartenir n'a publié que deux brèves signées de son nom. Il y a cinq ans. Sur des courses de vélo.
+(종이를 본다) 오늘 아침 일 코리에레 롬바르도에 다시 전화했어요. 이번엔 편집장한테. (침묵) 루카가 소속이라고 한 신문사는 그 이름으로 단신 두 개만 실었어요. 오 년 전에. 자전거 경주에 관한.
+Karim: Des courses de vélo… (un silence) Pour se fabriquer un nom. Une trace. Juste assez pour qu'on le trouve sur internet.
+자전거 경주라… (침묵) 이름을 만들려고. 흔적을. 인터넷에서 검색될 만큼만.
+Lambrechts: Et la carte de presse ? (un silence) Le numéro qu'il m'a donné en mai. Je l'ai gardé.
+그럼 기자증은요? (침묵) 오월에 나한테 준 번호. 보관해 뒀어요.
+Jonas: En Italie, le registre des journalistes est public. Comme le registre suisse. (un silence) Donnez-moi le numéro.
+이탈리아에선 기자 명부가 공개돼요. 스위스 등기부처럼. (침묵) 번호 주세요.
+Lambrechts: (elle lit un carnet) Zéro-quatre-sept-un-neuf-deux.
+(수첩을 읽는다) 영사칠일구이.
+Jonas: (un silence ; il tape ; un long silence) Ce numéro existe. (un silence) Il appartient à un photographe de Turin. Mort en deux mille dix-neuf.
+(침묵. 타이핑한다. 긴 침묵) 이 번호는 존재해요. (침묵) 토리노의 사진기자 거예요. 2019년에 사망한.
+Hélène: (un silence glacé) Il a pris le numéro d'un mort.
+(얼어붙은 침묵) 죽은 사람 번호를 쓴 거야.
+Aubry: (il écrit) Trois sources publiques. Indépendantes. Vérifiables par n'importe quel lecteur. (un silence) Maintenant, je suis presque content.
+(적는다) 공개 출처 세 개. 서로 독립적이고. 어떤 독자든 확인할 수 있는. (침묵) 이제 거의 만족스럽네.
+Jonas: Ce qui m'inquiète, c'est la suite. (un silence) Luca sait que nous avons exclu son nom. Il sait que nous enquêtons sur Saint-Clair. (un silence) Lequel des deux va-t-il protéger ? Argos ou Saint-Clair ?
+내가 걱정되는 건 그다음이에요. (침묵) 루카는 우리가 자기를 뺀 걸 알아요. 우리가 생클레르를 취재하는 것도 알고요. (침묵) 둘 중 누구를 지킬까요? 아르고스? 생클레르?
+Hélène: Les deux. (un silence) Argos travaille pour Saint-Clair depuis le début.
+둘 다. (침묵) 아르고스는 처음부터 생클레르를 위해 일했어요.
+Lambrechts: Alors on publie. (un silence) Un faux journaliste dans un consortium européen. C'est une histoire. Une vraie.
+그럼 보도해요. (침묵) 유럽 컨소시엄 안의 가짜 기자. 그건 기사예요. 진짜 기사.
+Aubry: (il se penche vers l'écran) Pas encore. (un silence) Avant d'écrire qu'un homme n'est pas ce qu'il dit, on lui pose la question. C'est la règle. Le contradictoire.
+(화면 쪽으로 몸을 숙인다) 아직은 안 돼요. (침묵) 누군가가 자기 말과 다른 사람이라고 쓰기 전에, 그 사람한테 질문을 해요. 그게 규칙이에요. 반론권.
+Lambrechts: Il ne répond plus depuis trois semaines.
+삼 주째 연락이 안 되는데요.
+Julien: (son téléphone vibre sur la table ; il regarde l'écran ; tout le monde se tait) Il répond maintenant.
+(탁자 위에서 휴대폰이 진동한다. 화면을 본다. 모두 입을 다문다) 이제 연락하네.
+Julien: (il lit à voix haute) « Ciao Julien. Désolé pour mon silence. Des problèmes personnels. (un silence) J'ai des documents sur Saint-Clair. Les années quatre-vingt-dix. La Corse. Je pense que ça vous intéresse. Demain, onze heures, gare Montparnasse ? Le café en haut. Luca. »
+(소리 내어 읽는다) «차오, 쥘리앵. 연락 못 해서 미안해요. 개인적인 문제가 있었어요. (침묵) 생클레르에 관한 문서가 있어요. 구십 년대. 코르시카. 관심 있을 거예요. 내일 열한 시, 몽파르나스역? 위층 카페. 루카.»
+Karim: (un silence glacé) La Corse. Les années quatre-vingt-dix. (un silence) Le jour où ta mère arrive avec les carnets.
+(얼어붙은 침묵) 코르시카. 구십 년대. (침묵) 너희 엄마가 수첩 들고 오신 바로 다음 날.
+Julien: (il regarde le canapé où sa mère vient de se réveiller) Comment il sait ?
+(어머니가 막 깨어난 소파를 본다) 어떻게 알았지?
+Aubry: Il ne sait peut-être rien. (un silence) Votre mère est arrivée à la gare de Lyon avec un sac. Votre visage est passé à la télévision. Votre père a un nom. (un silence) Quelqu'un qui surveille peut deviner le reste.
+아무것도 모를 수도 있어요. (침묵) 어머님은 가방 하나 들고 리옹역에 도착하셨어요. 당신 얼굴은 텔레비전에 나왔고. 당신 아버지는 이름이 있어요. (침묵) 감시하는 사람이면 나머진 짐작할 수 있죠.
+Marie: (elle s'est levée ; elle s'approche, en chaussons, le visage sévère) Qui est-ce ?
+(일어났다. 실내화 차림으로 다가온다. 얼굴이 엄하다) 누구니?
+Julien: (un silence) Un homme qui dit qu'il est journaliste, maman.
+(침묵) 자기가 기자라는 남자예요, 엄마.
+Marie: (elle regarde l'écran du téléphone, puis son fils) Après la mort de ton père, l'homme qui est venu à la maison… (un silence) Il disait aussi qu'il était journaliste. Il voulait « aider ». Il voulait les carnets.
+(휴대폰 화면을 보고, 아들을 본다) 너희 아버지 죽고 나서 집에 왔던 남자… (침묵) 그 사람도 자기가 기자라고 했어. «도와주고» 싶다고. 수첩을 원했지.
+Hélène: (un long silence) Les méthodes ne changent pas. (un silence) Seulement les vestes.
+(긴 침묵) 수법은 안 바뀌어. (침묵) 재킷만 바뀌지.
+Julien: (il pose le téléphone) J'y vais.
+(휴대폰을 내려놓는다) 갈게요.
+Camille: (elle vient d'arriver ; elle a entendu la fin) Non.
+(방금 도착했다. 끝부분을 들었다) 안 돼.
+Julien: Camille. (un silence) C'est un café. Dans une gare. À onze heures du matin. Avec des centaines de gens. (un silence) Et c'est notre seule chance de lui poser la question.
+카미유. (침묵) 카페야. 역 안에 있는. 오전 열한 시에. 사람들 수백 명이랑. (침묵) 그리고 그 사람한테 질문할 유일한 기회야.
+Aubry: Il a raison. (un silence) Mais il n'y va pas seul. Et il ne prend aucun document. Ni carnet. Ni clé. Rien. (un silence) S'il vous donne quelque chose, vous ne le touchez pas.
+쥘리앵 말이 맞아. (침묵) 하지만 혼자 가지 않아. 그리고 서류는 아무것도 안 가져가. 수첩도. 열쇠도. 아무것도. (침묵) 그 사람이 뭘 주면 손대지 마요.
+Julien: Pourquoi ?
+왜요?
+Aubry: (calmement) Parce qu'un journaliste qui accepte des documents d'Argos devant une caméra de gare… (un silence) C'est le titre dont Argos rêve depuis six mois. « Le Phare reçoit des documents volés. »
+(침착하게) 아르고스한테서 서류를 받는 기자가 역 카메라 앞에 있으면… (침묵) 그게 아르고스가 여섯 달째 꿈꾸는 헤드라인이니까. «르 파르, 도난 문서 수령.»
+Karim: Je viens avec toi. (un silence) Je m'assois deux tables plus loin. Avec un croissant. Comme un touriste marseillais.
+같이 갈게. (침묵) 두 테이블 떨어져 앉을게. 크루아상 하나 들고. 마르세유 관광객처럼.
+Camille: (vingt-deux heures ; dans le studio de Belleville ; Marie dort dans le lit ; Julien et Camille sont assis sur le matelas, par terre) Tu vas avoir peur, demain.
+(밤 열 시. 벨빌 원룸. 마리는 침대에서 잔다. 쥘리앵과 카미유는 바닥 매트리스에 앉아 있다) 내일 무서울 거야.
+Julien: (un silence) Oui.
+(침묵) 응.
+Camille: (elle lui prend la main) Moi aussi. (un silence) Voilà. On a peur à deux.
+(그의 손을 잡는다) 나도. (침묵) 됐어. 둘이 같이 무서운 거야.
+Julien: (un petit sourire) Ma mère t'a appris ça.
+(작게 웃으며) 우리 엄마가 그거 가르쳐 줬지.
+Camille: (elle prend son téléphone et active le partage de position) Et ça, c'est moi qui l'ai inventé. (un silence) Je vois où tu es. Tout le temps. Jusqu'à midi.
+(휴대폰을 집어 위치 공유를 켠다) 그리고 이건 내가 생각해 낸 거야. (침묵) 네가 어디 있는지 보여. 계속. 정오까지.
+Julien: Comme une mère corse.
+코르시카 엄마처럼.
+Marie: (depuis le lit, les yeux fermés) J'entends tout, Julien. (un silence) Et elle a raison.
+(침대에서 눈을 감은 채) 다 들려, 쥘리앵. (침묵) 그리고 저 애 말이 맞아.
+Camille: (elle rit doucement, la tête sur son épaule) Dors. (un silence) Demain, tu poses tes questions. Et tu reviens.
+(그의 어깨에 머리를 기대고 조용히 웃는다) 자. (침묵) 내일 질문하고. 그리고 돌아와.
+Julien: (vingt heures ; il prépare ses questions sur une feuille ; Léa relit par-dessus son épaule) Première question : « Pour quel journal travaillez-vous ? » (un silence) Deuxième : « Qui vous paie ? »
+(밤 여덟 시. 종이에 질문을 준비한다. 레아가 어깨 너머로 다시 읽는다) 첫 번째 질문: «어느 신문사에서 일하세요?» (침묵) 두 번째: «누가 돈을 줍니까?»
+Léa: Trop direct. Il va partir. (un silence) Commence par ce qu'il connaît. Les filiales italiennes. Laisse-le parler.
+너무 직접적이에요. 가 버릴 거예요. (침묵) 그 사람이 아는 걸로 시작해요. 이탈리아 자회사. 말하게 놔둬요.
+Julien: (il la regarde) Depuis quand tu me donnes des conseils d'interview ?
+(그녀를 본다) 언제부터 나한테 인터뷰 조언을 했어?
+Léa: Depuis que j'ai passé vingt-six heures en garde à vue. (un silence) Le commandant Vidal ne m'a jamais posé une question directe. Il me laissait parler. Et il écoutait ce que je ne disais pas.
+유치장에서 스물여섯 시간 보낸 뒤로요. (침묵) 비달 경감은 한 번도 직접적인 질문을 안 했어요. 날 말하게 했죠. 그리고 내가 말하지 않는 걸 들었어요.
+Julien: (un silence ; il barre ses deux questions) Tu as raison. (un silence) On garde la question directe pour la fin. Celle à laquelle il ne pourra pas répondre.
+(침묵. 질문 두 개에 줄을 긋는다) 네 말이 맞아. (침묵) 직접적인 질문은 마지막에 하자. 그 사람이 대답할 수 없는 질문.
+Julien: (jeudi, onze heures moins cinq ; gare Montparnasse ; le café au premier étage ; des voyageurs avec des valises, des annonces de trains ; il s'assoit près de la fenêtre) Un café, s'il vous plaît.
+(목요일, 열한 시 오 분 전. 몽파르나스역. 이층 카페. 가방 든 여행객들, 기차 안내 방송. 창가에 앉는다) 커피 한 잔 주세요.
+Karim: (deux tables plus loin, une casquette de l'OM sur la tête, un croissant à la main, un guide touristique ouvert ; à voix basse, dans son téléphone) Je suis en position. (un silence) Le croissant est sec. C'est un crime.
+(두 테이블 떨어져서, OM 모자를 쓰고, 크루아상을 들고, 관광 안내 책자를 펼쳐 놓고. 전화기에 대고 낮은 목소리로) 자리 잡았어. (침묵) 크루아상이 말라 비틀어졌어. 범죄야.
+Julien: (il regarde autour de lui : une caméra de surveillance au plafond, une famille avec trois enfants, un homme qui lit le journal ; à voix basse, dans son téléphone) Il y a une caméra au-dessus de la caisse.
+(주위를 둘러본다. 천장의 감시 카메라, 아이 셋 데리고 온 가족, 신문 읽는 남자. 전화기에 대고 낮은 목소리로) 계산대 위에 카메라가 있어.
+Karim: (dans l'oreillette) Tant mieux. (un silence) Elle filme ce qu'Aubry veut qu'elle filme. Tes mains vides.
+(이어폰으로) 잘됐네. (침묵) 오브리가 원하는 걸 찍을 거야. 네 빈손.
+Julien: (il pose ses mains à plat sur la table) Pas de carnet. Pas de clé. Pas de document. (un silence) Juste une feuille avec trois questions.
+(두 손을 탁자에 평평하게 올려놓는다) 수첩 없음. 열쇠 없음. 서류 없음. (침묵) 질문 세 개 적힌 종이 한 장뿐.
+Karim: Et un café. (un silence) Bois-le. Tu as l'air d'un homme qui attend un rendez-vous amoureux qui a mal tourné.
+그리고 커피 한 잔. (침묵) 마셔. 꼬인 데이트 기다리는 남자 같아.
+Julien: (il boit une gorgée) Camille me voit sur son téléphone. (un silence) Elle m'a envoyé un cœur. Et un couteau.
+(한 모금 마신다) 카미유가 휴대폰으로 날 보고 있어. (침묵) 하트를 보냈어. 그리고 칼도.
+Karim: (il rit dans son croissant) Une vraie Bretonne.
+(크루아상 먹다가 웃는다) 진짜 브르타뉴 사람이네.
+Luca: (onze heures pile ; un homme souriant, veste en lin beige, lunettes de soleil sur la tête, une enveloppe kraft sous le bras) Julien ! (il lui serre la main chaleureusement) Che piacere. Quel plaisir de vous revoir.
+(정각 열한 시. 웃는 얼굴의 남자. 베이지색 리넨 재킷, 머리 위에 선글라스, 겨드랑이에 갈색 봉투) 쥘리앵! (따뜻하게 악수한다) 케 피아체레. 다시 만나서 반가워요.
+Julien: (il ne se lève pas) Bonjour, Luca. (un silence) Asseyez-vous.
+(일어나지 않는다) 안녕하세요, 루카. (침묵) 앉으세요.
+Luca: (il s'assoit, pose l'enveloppe sur la table entre eux) Vous avez l'air fatigué. (un silence) La garde à vue de votre stagiaire… Terrible. J'ai lu.
+(앉는다. 둘 사이 탁자에 봉투를 놓는다) 피곤해 보이네요. (침묵) 인턴의 구금 건… 끔찍해요. 읽었어요.
+Julien: (il ne regarde pas l'enveloppe) Parlez-moi de Brescia. (un silence) L'usine. Vos photos. Vous y êtes allé quand ?
+(봉투를 보지 않는다) 브레시아 얘기 좀 해 주세요. (침묵) 그 공장. 당신 사진들. 언제 갔어요?
+Luca: (un sourire) Fin mai. Une journée magnifique. Il faisait chaud. (un silence) Le gardien m'a laissé entrer pour un café. Les Italiens, vous savez…
+(미소) 오월 말에요. 멋진 날이었죠. 더웠어요. (침묵) 경비원이 커피 한 잔 하라고 들여보내 줬어요. 이탈리아 사람들이란, 알잖아요…
+Julien: Le vingt-huit mai ?
+5월 28일?
+Luca: (un très léger temps d'arrêt) Peut-être. Je ne me souviens plus exactement.
+(아주 살짝 멈칫한다) 아마도요. 정확히 기억은 안 나요.
+Julien: (calmement) Le vingt-huit mai, à quatorze heures douze, votre appareil était dans un parking de La Défense. (un silence) Au pied de la tour dans laquelle travaille Argos.
+(침착하게) 5월 28일 14시 12분에 당신 카메라는 라데팡스 주차장에 있었어요. (침묵) 아르고스가 일하는 타워 밑에요.
+Luca: (le sourire reste ; les yeux changent) Vous avez beaucoup d'imagination, Julien.
+(미소는 그대로다. 눈빛이 변한다) 상상력이 풍부하시네요, 쥘리앵.
+Julien: Non. J'ai vos fichiers. (un silence) Ceux que vous avez déposés vous-même sur la plateforme du consortium. Avec un logiciel dont la licence appartient à Sentinelle Technologies.
+아니요. 당신 파일이 있어요. (침묵) 당신이 직접 컨소시엄 플랫폼에 올린 파일들. 상티넬 테크놀로지 소유 라이선스 프로그램으로 만든.
+Luca: (un long silence ; il regarde par la fenêtre, les trains, les quais) Un logiciel… Tout le monde utilise des logiciels empruntés.
+(긴 침묵. 창밖의 기차들, 승강장을 본다) 프로그램이라… 다들 빌린 프로그램 써요.
+Julien: Et Benedetti Consulting, à Lugano ? (un silence) Maître Rinaldi. Qui dirige aussi la filiale suisse d'Argos. (un silence) Lequel des deux vous paie, Luca ? Benedetti ou Argos ?
+그럼 루가노의 베네데티 컨설팅은요? (침묵) 리날디 변호사. 아르고스 스위스 자회사도 운영하는. (침묵) 둘 중 누가 돈을 줘요, 루카? 베네데티? 아르고스?
+Luca: (il retire ses lunettes de soleil de sa tête et les pose sur l'enveloppe ; il ne sourit plus) C'est la même chose. Vous le savez.
+(머리 위 선글라스를 벗어 봉투 위에 놓는다. 더는 웃지 않는다) 같은 거잖아요. 알면서.
+Julien: (un silence) Alors voici ma dernière question. (un silence) Je vous la pose officiellement, pour notre article, et votre réponse sera publiée. (un silence) Pour quel journal travaillez-vous ?
+(침묵) 그럼 마지막 질문이에요. (침묵) 공식적으로 묻는 거고, 우리 기사에 쓸 거고, 당신 대답은 실릴 거예요. (침묵) 어느 신문사에서 일하세요?
+Luca: (un long silence ; il le regarde, presque avec respect) Pour aucun.
+(긴 침묵. 거의 존경하는 듯한 눈으로 그를 본다) 아무 데도요.
+Julien: Vous n'êtes pas journaliste.
+당신은 기자가 아니군요.
+Luca: (il se lève lentement, reboutonne sa veste en lin) Je suis quelqu'un qui écoute les journalistes. (un silence) C'est un métier aussi. Mieux payé que le vôtre.
+(천천히 일어나 리넨 재킷 단추를 다시 채운다) 난 기자들 말을 듣는 사람이에요. (침묵) 그것도 직업이죠. 당신 직업보다 보수가 좋고.
+Julien: (il montre l'enveloppe sans la toucher) Et ça ?
+(봉투를 건드리지 않고 가리킨다) 그럼 이건요?
+Luca: (un petit sourire) Gardez-la. Un cadeau. (un silence) Des documents sur la Corse. Très intéressants. Personne ne saura d'où ils viennent.
+(작은 미소) 가지세요. 선물이에요. (침묵) 코르시카에 관한 문서들. 아주 흥미로워요. 어디서 왔는지 아무도 모를 거예요.
+Julien: (il ne bouge pas) Nous, on saura. (un silence) Reprenez-la.
+(움직이지 않는다) 우린 알 거예요. (침묵) 다시 가져가세요.
+Luca: (il le regarde longtemps ; puis il prend l'enveloppe et la remet sous son bras) Votre père aussi refusait les enveloppes. (un silence) C'est ce qu'on m'a raconté.
+(그를 오래 본다. 그러고는 봉투를 집어 다시 겨드랑이에 낀다) 당신 아버지도 봉투를 거절했다더군요. (침묵) 그렇게 들었어요.
+Julien: (il se lève d'un coup ; sa chaise grince) Qui vous a raconté ça ?
+(벌떡 일어선다. 의자가 삐걱거린다) 누가 그런 말을 해 줬죠?
+Luca: (il met ses lunettes de soleil) Bonne journée, Julien. (un silence) Saluez votre mère. Elle fait de très bons canistrelli, paraît-il.
+(선글라스를 쓴다) 좋은 하루 보내요, 쥘리앵. (침묵) 어머님께 안부 전해 줘요. 카니스트렐리를 아주 잘 만드신다면서요.
+Karim: (Luca est parti dans la foule ; Karim s'approche, la casquette à la main) Il a dit quoi, à la fin ? Tu es tout blanc.
+(루카가 인파 속으로 사라졌다. 카림이 모자를 손에 들고 다가온다) 마지막에 뭐래? 너 하얗게 질렸어.
+Julien: (il se rassoit lentement) Il connaît les canistrelli. (un silence) Il sait que ma mère est à Paris. (un silence) Et quelqu'un lui a parlé de mon père.
+(천천히 다시 앉는다) 카니스트렐리를 알아. (침묵) 우리 엄마가 파리에 있는 걸 알아. (침묵) 그리고 누가 우리 아빠 얘기를 해 줬어.
+Karim: (il s'assoit à côté de lui) Il veut te faire peur.
+(그 옆에 앉는다) 널 겁주려는 거야.
+Julien: (un long silence) Ça marche. (un silence) Mais il a fait une erreur.
+(긴 침묵) 효과 있네. (침묵) 근데 실수를 했어.
+Karim: Laquelle ?
+뭔데?
+Julien: Il a dit « on m'a raconté ». (un silence) Quelqu'un qui connaissait mon père. Il y a vingt-cinq ans. Et qui parle encore à Argos aujourd'hui.
+«그렇게 들었다»고 했어. (침묵) 우리 아빠를 알았던 누군가. 이십오 년 전에. 그리고 지금도 아르고스랑 얘기하는 누군가.
+Karim: (un silence) S.C.
+(침묵) S.C.
+Julien: (il sort son téléphone) J'appelle ma mère. (un silence) Et après, on écrit l'article. Avec sa réponse. « Pour aucun. »
+(휴대폰을 꺼낸다) 엄마한테 전화할게. (침묵) 그리고 그다음에 기사 쓰자. 그 사람 대답 넣어서. «아무 데도요.»
+Marie: (au téléphone ; on entend Momo rire derrière elle) Allô ? Julien ? (un silence) Je suis chez le Tunisien. Il fait mon omelette. Avec de la menthe. (un silence) Elle est presque bonne.
+(전화 너머. 뒤에서 모모가 웃는 소리가 들린다) 여보세요? 쥘리앵? (침묵) 그 튀니지 사람 가게야. 내 식 오믈렛을 만들고 있어. 민트 넣어서. (침묵) 거의 맛있어.
+Julien: (il ferme les yeux, soulagé) Reste là-bas, maman. (un silence) Ne bouge pas. J'arrive.
+(안도하며 눈을 감는다) 거기 있어, 엄마. (침묵) 움직이지 마. 금방 갈게.
+Hélène: (dix-neuf heures ; à la rédaction ; elle relit l'article sur son écran, Aubry à côté d'elle) « Un faux journaliste lié à Argos a infiltré un consortium européen d'investigation. » (un silence) Trois sources publiques. Sa propre réponse. Pas un mot de trop.
+(저녁 일곱 시. 편집국. 오브리를 옆에 두고 화면으로 기사를 다시 읽는다) «아르고스와 연관된 가짜 기자가 유럽 탐사 보도 컨소시엄에 잠입.» (침묵) 공개 출처 세 개. 본인 답변. 군더더기 하나 없고.
+Aubry: (il hoche la tête) Et pas une ligne sur le van. Pas une ligne sur la liste des numéros. (un silence) Ça, c'est pour le jour où vous aurez la preuve.
+(고개를 끄덕인다) 그리고 차량 얘긴 한 줄도 없고. 번호 명단 얘기도 한 줄도 없어. (침묵) 그건 증거를 찾는 날을 위한 거야.
+Julien: (il regarde par la fenêtre ; sa mère est assise en bas, à la terrasse du Zinc, avec Momo) Il a dit « on m'a raconté ». (un silence) Demain, je vais aux Archives nationales. Avec les carnets de mon père.
+(창밖을 본다. 어머니가 아래 르 쟁 테라스에 모모와 앉아 있다) 그 사람이 «그렇게 들었다»고 했어요. (침묵) 내일 국립 기록 보관소에 갈 거예요. 아빠 수첩 들고.
+Hélène: Pour chercher quoi ?
+뭘 찾으려고?
+Julien: (un silence) Un jeune homme de Paris. Très poli. Très bien habillé. (un silence) Qui ne signait jamais rien. Mais qui gardait des copies.
+(침묵) 파리에서 온 젊은 남자. 아주 예의 바르고. 옷을 아주 잘 입은. (침묵) 절대 서명하지 않았지만. 사본은 챙긴 사람.
+
+## 주요 단어
+le confrère | 르 꽁프레르 | (같은 직업의) 동료 (B2)
+les métadonnées (f.) | 레 메타도네 | 메타데이터 (B2)
+le logiciel | 르 로지시엘 | 소프트웨어, 프로그램 (B1)
+la licence | 라 리상스 | 라이선스, 사용권 (B2)
+les coordonnées GPS (f.) | 레 꼬오르도네 제뻬에스 | GPS 좌표 (B1)
+le reflet | 르 르플레 | 반사, 비친 모습 (B1)
+le registre du commerce | 르 르지스트르 뒤 꼬메르스 | 상업 등기부 (C1)
+l'administrateur (m.) | 라드미니스트라뙤르 | 이사, 관리자 (B2)
+la filiale | 라 필리알 | 자회사 (B2)
+le journal des connexions | 르 주르날 데 꼬넥시옹 | 접속 기록 (B2)
+l'hypothèse (f.) | 리뽀떼즈 | 가설 (B1)
+la carte de presse | 라 까르뜨 드 프레스 | 기자증 (B1)
+le contradictoire | 르 꽁트라딕뚜아르 | 반론 절차, 대심 원칙 (C1)
+se faire passer pour | 스 페르 빠세 뿌르 | ~행세를 하다 (B2)
+l'enveloppe kraft (f.) | 랑블로쁘 크라프트 | 갈색 서류 봉투 (B1)
+le pigiste | 르 삐지스뜨 | 프리랜서 기자 (C1)
+grincer | 그랭세 | 삐걱거리다 (B2)
+soulagé(e) | 술라제 | 안도한 (B1)
+
+## 문법·표현 정리
+**Les métadonnées ne mentent pas (B2):** ne… pas 현재형 = 일반적 진리. Les chiffres ne mentent pas.
+**Vous n'êtes pas journaliste (A2):** 직업 앞 무관사. Il est avocat. / Elle est journaliste. (형용사 붙으면 C'est un bon journaliste.)
+**Lequel des deux ? (B2):** 의문대명사 lequel/laquelle/lesquels/lesquelles = 어느 것. Laquelle ? (= quelle société / quelle erreur)
+**전치사 + lequel (B2):** la tour dans laquelle Argos a ses bureaux / la plateforme sur laquelle il a déposé les fichiers.
+**auquel / à laquelle / auxquels (B2):** à + lequel 축약. une source publique à laquelle tout citoyen a accès / les sociétés auxquelles il est lié / la question à laquelle il ne pourra pas répondre.
+**duquel / de laquelle (C1):** de + lequel. le dossier duquel il a parlé (보통은 dont을 더 씀).
+**se faire passer pour (B2):** ~인 척하다. Il s'est fait passer pour un journaliste.
+**ça se prête / ça se partage (B2):** 대명동사의 수동적 의미. Une licence, ça se prête.
+**avant que + 접속법 (B2):** Avant que vous soyez trop contents…
+**avoir l'air + 형용사 (A2):** Vous avez l'air fatigué.
+**paraît-il (B2):** ~라던데. 도치된 삽입절. Elle fait de bons canistrelli, paraît-il.
+**c'est ce qu'on m'a raconté (B1):** 강조 구문 c'est ce que. on = 막연한 주어 (누군가).
+**dont vs lequel (C1):** le titre dont Argos rêve (rêver de → dont). 전치사가 de가 아니면 lequel 계열.
