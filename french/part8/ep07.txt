@@ -221,8 +221,8 @@ Marie: (elle ouvre le vieux sac de cuir et sort un paquet enveloppé dans un tis
 (낡은 가죽 가방을 열어 자수 놓인 천에 싼 꾸러미를 꺼낸다. 매듭을 푼다. 고무줄로 묶은 낡은 검은 수첩 스물세 권) 너희 아버지는 다 적었어. (침묵) 전부 여기 있어.
 Julien: (il ne bouge pas ; il regarde les carnets) Vingt-trois ans. (un silence) Tu les as gardés vingt-trois ans.
 (움직이지 않는다. 수첩들을 바라본다) 이십삼 년. (침묵) 이십삼 년 동안 간직했구나.
-Marie: Dans l'armoire. Sous les draps de mon mariage. (un silence) Après sa mort, des hommes sont venus. Ils ont demandé s'il avait laissé des papiers. (un silence) J'ai dit non. J'ai menti. Pour la première fois de ma vie.
-장롱 안에. 내 결혼식 이불 밑에. (침묵) 그 사람 죽고 나서 남자들이 왔어. 서류를 남겼냐고 묻더라. (침묵) 아니라고 했지. 거짓말했어. 평생 처음으로.
+Marie: Dans une boîte, au grenier. Sous les draps de mon mariage. (un silence) Après sa mort, des hommes sont venus. Ils ont demandé s'il avait laissé des papiers. (un silence) J'ai dit non. J'ai menti. Pour la première fois de ma vie.
+다락방 상자 속에. 내 결혼식 이불 밑에. (침묵) 그 사람 죽고 나서 남자들이 왔어. 서류를 남겼냐고 묻더라. (침묵) 아니라고 했지. 거짓말했어. 평생 처음으로.
 Julien: (sa voix se brise) Pourquoi tu ne me les as jamais donnés ?
 (목소리가 갈라진다) 왜 한 번도 나한테 안 줬어?
 Marie: (doucement) Parce que tu avais quinze ans. (un silence) Parce que j'avais peur. Peur que tu fasses comme lui. Peur qu'on vienne frapper à ta porte aussi.
@@ -237,10 +237,10 @@ Julien: (il tourne les pages ; il s'arrête ; il fronce les sourcils) Il y a des
 (쪽을 넘긴다. 멈춘다. 눈살을 찌푸린다) 이니셜이 있어. 사방에. (침묵) «S.C.» (침묵) «S.C.가 도지사에게 전화.» «S.C.가 점심 자리에 있었음.» «S.C. — 파리.»
 Camille: (elle se penche) S.C. ?
 (몸을 숙인다) S.C.?
-Marie: (un silence) Ange ne m'a jamais dit qui c'était. (un silence) Il disait seulement : « Un jeune homme de Paris. Très poli. Très bien habillé. Il connaît tout le monde. » (un silence) Et il disait : « Ça remonte jusqu'à Paris. »
-(침묵) 앙주는 그게 누군지 한 번도 말 안 했어. (침묵) 이렇게만 말했지. «파리에서 온 젊은 남자. 아주 예의 바르고. 옷을 아주 잘 입고. 모두를 알아.» (침묵) 그리고 그랬어. «파리까지 올라간다.»
-Aubry: (il s'est approché sans bruit ; il regarde la page par-dessus l'épaule de Julien ; un long silence) Un jeune homme de Paris. En 1997. (un silence) Qui connaissait tout le monde.
-(소리 없이 다가왔다. 쥘리앵의 어깨 너머로 그 쪽을 본다. 긴 침묵) 파리에서 온 젊은 남자. 1997년에. (침묵) 모두를 아는.
+Marie: (un silence) Ange ne m'a jamais dit qui c'était. (un silence) Il disait seulement : « Un homme de Paris. Très poli. Très bien habillé. Il connaît tout le monde. » (un silence) Et il disait : « Ça remonte jusqu'à Paris. »
+(침묵) 앙주는 그게 누군지 한 번도 말 안 했어. (침묵) 이렇게만 말했지. «파리에서 온 남자. 아주 예의 바르고. 옷을 아주 잘 입고. 모두를 알아.» (침묵) 그리고 그랬어. «파리까지 올라간다.»
+Aubry: (il s'est approché sans bruit ; il regarde la page par-dessus l'épaule de Julien ; un long silence) Un homme de Paris. En 1997. (un silence) Qui connaissait tout le monde.
+(소리 없이 다가왔다. 쥘리앵의 어깨 너머로 그 쪽을 본다. 긴 침묵) 파리에서 온 남자. 1997년에. (침묵) 모두를 아는.
 Julien: (il lève les yeux vers Aubry ; ils se regardent sans rien dire)
 (오브리를 올려다본다. 둘은 아무 말 없이 서로를 본다)
 Hélène: (doucement) Pas ce soir, Julien. (un silence) Ce soir, c'est le quatorze juillet. Ta mère est là. (un silence) Demain, on lira. Ensemble. Avec un crayon. Et beaucoup de café.

@@ -23,8 +23,8 @@ Julien: (il hoche la tête, sans pouvoir parler)
 (말을 잇지 못하고 고개를 끄덕인다)
 Ange: (sur la cassette) « Est-ce que vous connaissez la société Sud-Bâtiment Insulaire ? Créée il y a deux mois. Et qui semble très bien placée pour le lot numéro deux. »
 (카세트에서) «쉬드바티망 앵쉴레르라는 회사를 아십니까? 두 달 전에 설립된. 그런데 2번 구역에 아주 유리한 위치에 있는 것 같은데요.»
-Saint-Clair: (sur la cassette ; une voix jeune, douce, très parisienne) « Monsieur… Marchetti, n'est-ce pas ? (un silence) Je ne connais pas cette société. Le ministère ne connaît que des dossiers. Pas des entreprises. »
-(카세트에서. 젊고 부드럽고 아주 파리다운 목소리) «선생님… 마르케티 씨, 맞죠? (침묵) 저는 그 회사를 모릅니다. 부처는 서류만 알지. 회사는 모릅니다.»
+Saint-Clair: (sur la cassette ; une voix plus jeune, douce, très parisienne) « Monsieur… Marchetti, n'est-ce pas ? (un silence) Je ne connais pas cette société. Le ministère ne connaît que des dossiers. Pas des entreprises. »
+(카세트에서. 더 젊고 부드럽고 아주 파리다운 목소리) «선생님… 마르케티 씨, 맞죠? (침묵) 저는 그 회사를 모릅니다. 부처는 서류만 알지. 회사는 모릅니다.»
 Ange: (sur la cassette) « Vous en êtes sûr, monsieur Saint-Clair ? »
 (카세트에서) «확실합니까, 생클레르 씨?»
 Saint-Clair: (sur la cassette ; un petit rire) « Tout à fait sûr. (un silence) Vous écrivez beaucoup, monsieur Marchetti. On me l'a dit. (un silence) C'est une qualité. Tant qu'on écrit juste. »
@@ -67,10 +67,10 @@ Julien: Appelle-la. (un silence) Demande-lui si elle se souvient du vingt et un 
 전화해 봐. (침묵) 1997년 3월 21일을 기억하시는지 여쭤봐.
 Léa: (dimanche, onze heures ; au téléphone, en haut-parleur) Madame Santoni ? Léa Morel, du Phare. (un silence) Je voudrais vous parler d'une conférence de presse. Au port de Bastia. En mars 1997.
 (일요일 오전 열한 시. 스피커폰으로 통화한다) 상토니 선생님? 르 파르의 레아 모렐이에요. (침묵) 기자회견에 대해 여쭙고 싶어요. 바스티아 항구에서. 1997년 3월에.
-Santoni: (une voix âgée, vive, amusée) Le jeune homme de Paris ? Celui qui était trop bien habillé pour un port ? (un silence) Ma petite, je me souviens de tout. C'est le présent que j'oublie.
-(나이 들었지만 생기 있고 재미있어하는 목소리) 파리 젊은 남자? 항구엔 어울리지 않게 너무 잘 차려입은? (침묵) 아가씨, 난 다 기억해. 잊어버리는 건 현재야.
-Santoni: (un silence) Ange avait posé une question qui avait gelé la salle. Le jeune homme avait souri. Il avait dit qu'il ne connaissait pas la société. (un silence) Après, sur le parking, il était allé voir Ange. Je l'ai vu. Il lui a parlé à l'oreille. Ange est devenu tout blanc.
-(침묵) 앙주가 장내를 얼어붙게 만든 질문을 했지. 젊은 남자는 웃었어. 그 회사를 모른다고 했고. (침묵) 그다음 주차장에서 그 남자가 앙주한테 갔어. 내가 봤어. 귀에 대고 뭐라고 했지. 앙주가 하얗게 질렸어.
+Santoni: (une voix âgée, vive, amusée) Le monsieur de Paris ? Celui qui était trop bien habillé pour un port ? (un silence) Ma petite, je me souviens de tout. C'est le présent que j'oublie.
+(나이 들었지만 생기 있고 재미있어하는 목소리) 파리 양반? 항구엔 어울리지 않게 너무 잘 차려입은? (침묵) 아가씨, 난 다 기억해. 잊어버리는 건 현재야.
+Santoni: (un silence) Ange avait posé une question qui avait gelé la salle. Le Parisien avait souri. Il avait dit qu'il ne connaissait pas la société. (un silence) Après, sur le parking, il était allé voir Ange. Je l'ai vu. Il lui a parlé à l'oreille. Ange est devenu tout blanc.
+(침묵) 앙주가 장내를 얼어붙게 만든 질문을 했지. 그 파리 사람은 웃었어. 그 회사를 모른다고 했고. (침묵) 그다음 주차장에서 그 남자가 앙주한테 갔어. 내가 봤어. 귀에 대고 뭐라고 했지. 앙주가 하얗게 질렸어.
 Léa: Vous savez ce qu'il a dit ?
 뭐라고 했는지 아세요?
 Santoni: (un long silence) Non. Ange ne me l'a jamais dit. (un silence) Mais je peux témoigner de ce que j'ai vu. Par écrit. Avec ma signature. (un silence) Ange était un ami. Et je suis trop vieille pour avoir peur.
@@ -99,8 +99,8 @@ Hélène: (elle regarde Julien) Et demain, tu ne l'accuses de rien. (un silence)
 (쥘리앵을 본다) 그리고 내일, 넌 그 사람을 아무것도 비난하지 마. (침묵) 질문하고. 대답하게 놔두고. 들어.
 Julien: Comme mon père.
 아빠처럼요.
-Hélène: (un silence) Comme ton père. (un silence) Et quoi qu'il dise sur la route de Corte… tu ne réponds pas. Tu notes.
-(침묵) 아빠처럼. (침묵) 그리고 그 사람이 코르트 도로에 대해 무슨 말을 하든… 대꾸하지 마. 적어.
+Hélène: (un silence) Comme ton père. (un silence) Et quoi qu'il dise sur la mort de ton père… tu ne réponds pas. Tu notes.
+(침묵) 아빠처럼. (침묵) 그리고 그 사람이 너희 아버지 죽음에 대해 무슨 말을 하든… 대꾸하지 마. 적어.
 Marie: (lundi, midi ; au téléphone ; on entend la radio corse derrière elle) Tu as mangé ?
 (월요일 정오. 전화. 뒤에서 코르시카 라디오 소리가 들린다) 밥 먹었니?
 Julien: (il sourit) Oui, maman. Momo m'a fait une omelette. Avec de la menthe.
@@ -161,8 +161,8 @@ Saint-Clair: (aimablement) Orsenne a racheté beaucoup de sociétés. C'est ce q
 (상냥하게) 오르센은 많은 회사를 인수했어요. 대기업이 하는 일이죠. (침묵) 이건 나에 관한 기사입니까, 경제학 강의입니까?
 Julien: (il regarde Aubry ; Aubry écrit sans lever les yeux ; Julien pose la main sur le vieux magnétophone) Et mon père ? (un silence) Ange Marchetti. Vous le connaissiez ?
 (오브리를 본다. 오브리는 눈도 들지 않고 적는다. 쥘리앵이 낡은 녹음기에 손을 얹는다) 그럼 저희 아버지는요? (침묵) 앙주 마르케티. 아셨습니까?
-Saint-Clair: (un très léger silence ; il croise les jambes) Je ne crois pas avoir eu ce plaisir. (un silence) Je suis désolé pour votre perte. J'ai lu qu'il était mort dans un accident. Il y a longtemps.
-(아주 약간의 침묵. 다리를 꼰다) 그런 기쁨을 누린 적은 없는 것 같군요. (침묵) 상심이 크셨겠어요. 사고로 돌아가셨다고 읽었어요. 오래전에.
+Saint-Clair: (un très léger silence ; il croise les jambes) Je ne crois pas avoir eu ce plaisir. (un silence) Je suis désolé pour votre perte. J'ai lu qu'il était mort jeune. Le cœur, je crois. Il y a longtemps.
+(아주 약간의 침묵. 다리를 꼰다) 그런 기쁨을 누린 적은 없는 것 같군요. (침묵) 상심이 크셨겠어요. 젊어서 돌아가셨다고 읽었어요. 심장이었던 것 같은데. 오래전에.
 Julien: (un silence) Permettez-moi de vous rafraîchir la mémoire.
 (침묵) 기억을 되살려 드리겠습니다.
 Julien: (il appuie sur « lecture » ; le magnétophone grésille ; des chaises, des mouettes ; puis la voix d'Ange, grave, avec l'accent) « Ange Marchetti, pour l'hebdomadaire. Est-ce que vous connaissez la société Sud-Bâtiment Insulaire ? »
