@@ -1,0 +1,341 @@
+# 8부 2화. La procédure-bâillon (입막음 소송)
+수준: A2~C1 혼합 (중심 B2) | 장소: 오브리의 사무실 → 파리 법원 → 편집국 | 시간: 7월 7일 화요일 ~ 8일 수요일
+핵심 표현: la bonne foi · Les comptes sont gelés · On tiendra combien de temps ? · d'une part… d'autre part…
+
+## 대화
+Momo: (mardi, sept heures et demie ; au café ; il pose le journal du jour sur le comptoir, ouvert à la page trois) Regardez. (un silence) Une photo de Julien. Avec mon croissant.
+(화요일 아침 일곱 시 반. 카페. 오늘 자 신문을 삼 면을 펼쳐 카운터에 놓는다) 봐. (침묵) 쥘리앵 사진. 내 크루아상이랑.
+Julien: (il regarde la photo, gêné) « Le croissant de la liberté ». (un silence) Ils ont mis ça en légende.
+(민망한 얼굴로 사진을 본다) «자유의 크루아상». (침묵) 그걸 사진 설명으로 달았네.
+Camille: (elle rit) Tu es célèbre. (un silence) Pour un croissant.
+(웃는다) 유명해졌네. (침묵) 크루아상으로.
+Momo: (fier) Depuis hier soir, j'ai fait trois cents croissants. Il y a une file d'attente jusqu'au coin de la rue. (un silence) Des gens que je n'ai jamais vus. Ils disent : « Un croissant de la liberté, s'il vous plaît. »
+(뿌듯하게) 어젯밤부터 크루아상 삼백 개를 만들었어. 길모퉁이까지 줄이 섰어. (침묵) 한 번도 본 적 없는 사람들. «자유의 크루아상 하나 주세요» 그래.
+Mira: (elle entre, son téléphone à la main) Ma mère a vu la photo. Sur internet. (un silence) Elle demande si c'est le monsieur qui nourrit tout le monde.
+(휴대폰을 들고 들어온다) 우리 엄마가 그 사진 봤대요. 인터넷에서. (침묵) 다들 먹여 주는 그 아저씨냐고 물어요.
+Momo: (il pose la main sur son cœur) Dis-lui que oui. (un silence) Et que si elle vient à Paris, son croissant est gratuit. À vie.
+(가슴에 손을 얹는다) 그렇다고 전해. (침묵) 그리고 파리에 오시면 크루아상은 평생 공짜라고.
+Aubry: (mardi, neuf heures ; dans son cabinet de la rue du Cherche-Midi ; il a posé sur la table quatre grandes chemises de couleurs différentes) La diffamation, en France, c'est simple. (un silence) On vous accuse d'avoir porté atteinte à l'honneur de quelqu'un. Vous avez deux façons de vous défendre.
+(화요일 아침 아홉 시. 셰르슈미디 거리 사무실. 탁자에 색깔이 다른 커다란 서류철 네 개를 놓았다) 프랑스에서 명예훼손은 간단해. (침묵) 누군가의 명예를 훼손했다고 고발당하는 거지. 방어하는 방법은 두 가지야.
+Léa: (elle prend des notes) Lesquelles ?
+(메모한다) 어떤 거요?
+Aubry: D'une part, prouver que ce que vous avez écrit est vrai. Entièrement vrai. C'est « l'exception de vérité ». (un silence) D'autre part, si vous ne pouvez pas tout prouver, montrer que vous avez travaillé de bonne foi.
+하나는 쓴 게 사실이라는 걸 증명하는 거야. 전부 사실이라는 걸. 그게 «진실의 항변»이지. (침묵) 다른 하나는, 전부 증명할 수 없다면 선의로 일했다는 걸 보여 주는 거고.
+Karim: La bonne foi. (un silence) Comment on prouve qu'on est de bonne foi ? On ne peut pas montrer l'intérieur de sa tête.
+선의라. (침묵) 선의였다는 걸 어떻게 증명해요? 머릿속을 보여 줄 수는 없잖아요.
+Aubry: (il ouvre la première chemise, bleue) Les juges ont inventé quatre critères. (un silence) Un : la légitimité du but. Est-ce que le sujet intéresse le public ? Des réacteurs nucléaires, un port, une mine… Oui.
+(첫 번째 파란 서류철을 연다) 판사들이 기준 네 가지를 만들었어. (침묵) 하나: 목적의 정당성. 그 주제가 공공의 관심사냐? 원자로, 항구, 광산… 그렇지.
+Aubry: (la deuxième, verte) Deux : l'absence d'animosité personnelle. Est-ce que vous détestez Orsenne ? Est-ce que vous avez un compte à régler ? (un silence) Non. Nous n'avions jamais écrit sur eux avant l'année dernière.
+(두 번째 초록 서류철) 둘: 개인적 적의의 부재. 오르센을 미워하느냐? 갚아야 할 원한이 있느냐? (침묵) 아니. 작년 전엔 그들에 대해 쓴 적도 없어.
+Aubry: (la troisième, jaune) Trois : la prudence et la mesure dans l'expression. Est-ce que vous avez écrit « catastrophe » ? Est-ce que vous avez écrit « criminels » ? (un silence ; il sourit) Non. Nous avons écrit « des pièces dont la documentation a été modifiée ». Et « aurait reçu ». Au conditionnel.
+(세 번째 노란 서류철) 셋: 표현의 신중함과 절제. «재앙»이라고 썼느냐? «범죄자들»이라고 썼느냐? (침묵. 웃는다) 아니. «서류가 수정된 부품»이라고 썼지. 그리고 «받은 것으로 보인다». 조건법으로.
+Julien: (doucement) C'est pour ça que vous rayiez nos mots au crayon bleu.
+(조용히) 그래서 파란 연필로 우리 단어에 줄을 그으셨던 거네요.
+Aubry: Pour aujourd'hui. Exactement. (un silence) Chaque mot que j'ai rayé, c'est un mot qu'Orsenne ne pourra pas utiliser contre vous.
+바로 오늘을 위해서. 정확히. (침묵) 내가 줄 그은 단어 하나하나가 오르센이 너희한테 쓸 수 없는 단어야.
+Aubry: (la quatrième, rouge, très épaisse) Quatre : le sérieux de l'enquête. (un silence) Les sources. Les documents. Les droits de réponse. Les experts. (il tapote la chemise) Celle-là, c'est la plus lourde. Huit cents pages.
+(네 번째 빨간 서류철, 아주 두툼하다) 넷: 취재의 성실성. (침묵) 출처. 문서. 반론권. 전문가. (서류철을 두드린다) 이게 제일 무거워. 팔백 쪽.
+Léa: Huit cents pages ?
+팔백 쪽이요?
+Aubry: Chaque courriel envoyé à Orsenne. Chaque réponse. Chaque date. L'expert Lévêque. La directrice Delmas. Le registre du port de Nouméa. La vidéo de Marseille. (un silence) Tout ce que vous avez fait correctement depuis un an. Et vous avez tout fait correctement.
+오르센에 보낸 이메일 하나하나. 답변 하나하나. 날짜 하나하나. 레베크 전문가. 델마 국장. 누메아 항 장부. 마르세유 영상. (침묵) 일 년 동안 너희가 올바르게 한 모든 것. 그리고 너흰 다 올바르게 했어.
+Hélène: (elle regarde la chemise jaune) En 2013, j'ai perdu sur celle-là. (un silence) La prudence. Un seul mot. J'avais écrit qu'un promoteur était « un escroc ». (un silence) J'avais toutes les preuves. Mais j'avais écrit « escroc ». Pas « soupçonné d'escroquerie ».
+(노란 서류철을 본다) 2013년에 난 그 기준에서 졌어. (침묵) 신중함. 단어 하나. 어떤 부동산 개발업자를 «사기꾼»이라고 썼거든. (침묵) 증거는 다 있었어. 근데 «사기꾼»이라고 썼지. «사기 혐의를 받는»이 아니라.
+Léa: (doucement) Un seul mot.
+(조용히) 단어 하나.
+Hélène: Un seul mot m'a coûté mon premier journal. Mon associé. Et deux ans de ma vie. (un silence) Depuis, Pierre relit tout. Chaque virgule. Et je le remercie tous les jours.
+단어 하나 때문에 내 첫 신문사를 잃었어. 동업자도. 그리고 내 인생 이 년도. (침묵) 그 뒤로 피에르가 다 다시 읽어. 쉼표 하나하나. 그리고 난 매일 고마워하고.
+Aubry: (sans lever les yeux) Tu ne me remercies jamais, Hélène.
+(눈도 들지 않고) 넌 한 번도 고맙다고 안 했어, 엘렌.
+Hélène: (un petit sourire) Je te remercie dans ma tête. (un silence) C'est plus prudent.
+(작게 웃으며) 머릿속으로 고마워하지. (침묵) 그게 더 신중하잖아.
+Julien: (il rit doucement) La prudence et la mesure dans l'expression.
+(조용히 웃는다) 표현의 신중함과 절제라.
+Gilles: (il est assis dans un coin, pâle) Le procès, c'est en septembre. (un silence) Mais demain, c'est la saisie.
+(구석에 창백한 얼굴로 앉아 있다) 재판은 구월이야. (침묵) 하지만 내일은 압류 심리야.
+Aubry: (il referme les chemises) Demain, c'est autre chose. (un silence) Demain, le juge ne décidera pas si nous avons raison. Il décidera si Orsenne a le droit de bloquer notre argent en attendant de savoir qui a raison.
+(서류철을 덮는다) 내일은 다른 문제야. (침묵) 내일 판사는 우리가 옳은지를 정하지 않아. 누가 옳은지 알 때까지 오르센이 우리 돈을 묶어 둘 권리가 있는지를 정하지.
+Hélène: Et Orsenne demande combien ?
+그럼 오르센은 얼마를 요구해요?
+Aubry: Tout. (un silence) Une saisie conservatoire sur la totalité de nos comptes. À hauteur de dix millions. (un silence) Or nous n'avons pas dix millions. Donc, en pratique, ils demandent que nous n'ayons plus rien.
+전부. (침묵) 우리 계좌 전체에 대한 보전 압류. 천만 유로 한도로. (침묵) 그런데 우린 천만 유로가 없지. 그러니까 사실상 우리한테 아무것도 남지 않게 해 달라는 거야.
+Gilles: (il sort une feuille) Sur le compte, ce matin : un million huit cent mille euros. (un silence) Grâce aux nouveaux abonnés. Il y a un mois, nous avions quatre cent mille.
+(종이 한 장을 꺼낸다) 오늘 아침 계좌에: 백팔십만 유로. (침묵) 신규 구독자들 덕분이지. 한 달 전엔 사십만이었어.
+Karim: (amer) Plus nos lecteurs nous donnent d'argent, plus Orsenne peut en bloquer.
+(씁쓸하게) 독자들이 돈을 많이 줄수록 오르센이 더 많이 묶을 수 있는 거네.
+Aubry: C'est le principe de la procédure-bâillon. (un silence) Le but n'est pas de gagner le procès. Le but est de vous épuiser avant. Financièrement. Moralement. (un silence) Un journal qui ne peut plus payer ses journalistes ne peut plus enquêter. Et un journal qui n'enquête plus n'a plus besoin d'être poursuivi.
+그게 입막음 소송의 원리야. (침묵) 목적은 재판에서 이기는 게 아니야. 그 전에 지치게 만드는 거지. 재정적으로. 정신적으로. (침묵) 기자들에게 월급을 줄 수 없는 신문사는 더 이상 취재를 못 해. 그리고 취재를 안 하는 신문사는 더 이상 고소할 필요도 없지.
+Léa: (à voix basse) « Décourager durablement. »
+(낮은 목소리로) «오랫동안 단념시킨다.»
+Aubry: (il hoche la tête) La note de Saint-Clair. (un silence) Et c'est elle qui va nous sauver demain.
+(고개를 끄덕인다) 생클레르의 메모. (침묵) 그리고 내일 우릴 구할 게 바로 그거야.
+Karim: Et si le juge pense que la note vient d'un vol ? (un silence) Leur avocat va le dire.
+그런데 판사가 그 메모가 훔친 데서 나왔다고 생각하면요? (침묵) 상대 변호사가 그렇게 말할 텐데요.
+Aubry: Il le dira. (un silence) Et je répondrai qu'elle a été remise par une lanceuse d'alerte, dans le respect de la loi, après un signalement resté sans réponse. (un silence) Et que je ne dirai rien de plus sur elle.
+그렇게 말하겠지. (침묵) 그럼 난 그 메모가 응답 없는 신고 이후 법을 지키며 한 내부고발자를 통해 전달됐다고 대답할 거야. (침묵) 그리고 그 사람에 대해선 더는 아무 말도 하지 않겠다고.
+Karim: (doucement) Une lanceuse. (un silence) Vous avez dit « une lanceuse ». Au féminin.
+(조용히) 내부고발자라. (침묵) «여성 내부고발자»라고 하셨어요. 여성형으로.
+Aubry: (il le regarde par-dessus ses lunettes ; un silence) J'ai soixante-deux ans, Karim. Ma grammaire est fatiguée. (un silence) Oublie ce que tu as entendu.
+(안경 너머로 그를 본다. 침묵) 난 예순두 살이야, 카림. 문법이 지쳤어. (침묵) 들은 건 잊어.
+Julien: (surpris) La note ? Mais elle vient des documents d'Ariane. On ne peut pas la montrer.
+(놀라서) 그 메모요? 그건 아리안 서류에서 나온 거잖아요. 보여 줄 수 없어요.
+Aubry: Nous ne la montrerons pas. (un silence) Mais nous l'avons publiée. Le vingt-deux juin. Un paragraphe entier. Avec la phrase « décourager durablement leurs lecteurs, leurs annonceurs et leur banque ». (un silence) Elle est dans le domaine public, maintenant. Orsenne ne l'a jamais démentie.
+보여 주진 않을 거야. (침묵) 하지만 우리가 보도했잖아. 유월 이십이일에. 한 문단 전체를. «그들의 독자, 광고주, 은행을 오랫동안 단념시키겠다»는 문장까지. (침묵) 이제 공공 영역에 있는 거야. 오르센은 한 번도 그걸 부인한 적이 없고.
+Hélène: (lentement) Donc le juge pourra lire, dans notre article, que l'objectif d'Orsenne est de nous faire taire.
+(천천히) 그러니까 판사는 우리 기사에서 오르센의 목적이 우리 입을 막는 거라는 걸 읽을 수 있겠네요.
+Aubry: Et il verra Orsenne lui demander exactement ce que la note annonçait. (un silence) Un juge n'aime pas qu'on l'utilise comme un outil.
+그리고 오르센이 그 메모가 예고한 걸 그대로 자기한테 요구하는 걸 보게 되겠지. (침묵) 판사는 자기가 도구로 이용당하는 걸 좋아하지 않아.
+Gilles: (mardi, midi ; seul avec Hélène sur le trottoir devant le cabinet d'Aubry) Tu te souviens du sous-sol ? (un silence) Rue Saint-Maur. 2014. Une table de cuisine, deux ordinateurs, une imprimante qui faisait un bruit de tracteur.
+(화요일 정오. 오브리 사무실 앞 인도에서 엘렌과 단둘이) 지하실 기억나? (침묵) 생모르 거리. 2014년. 부엌 식탁 하나, 컴퓨터 두 대, 트랙터 소리 나던 프린터 하나.
+Hélène: Et un abonné. (un silence) Ta mère.
+그리고 구독자 한 명. (침묵) 너희 어머니.
+Gilles: (il rit) Elle a payé un an d'avance. Elle disait : « Je fais un placement sur mon fils. » (un silence) Elle est morte l'année dernière. Abonnée jusqu'au bout.
+(웃는다) 일 년 치를 선불로 내셨지. «아들한테 투자하는 거야» 그러셨어. (침묵) 작년에 돌아가셨어. 끝까지 구독자셨지.
+Hélène: (elle lui prend le bras) Gilles. (un silence) Si on ferme…
+(그의 팔을 잡는다) 질. (침묵) 만약 문을 닫게 되면…
+Gilles: (il secoue la tête) Ne dis pas ça. (un silence) Douze ans. Quinze personnes. Quarante mille abonnés, maintenant. (un silence) Je refuse que trois avocats et un vieil homme avenue Foch décident qu'on n'existe plus.
+(고개를 젓는다) 그 말 하지 마. (침묵) 십이 년. 열다섯 명. 이제 구독자 사만 명. (침묵) 변호사 셋이랑 포슈 거리의 노인 한 명이 우리가 더 이상 존재하지 않는다고 결정하는 건 받아들일 수 없어.
+Hélène: (après un silence) Alors on ne ferme pas.
+(침묵 끝에) 그럼 문 닫지 않는 거야.
+Gilles: (il sourit, fatigué) C'est une décision ou une prière ?
+(지친 얼굴로 웃는다) 그건 결정이야, 기도야?
+Hélène: (elle réfléchit) Les deux. (un silence) Comme toujours, chez nous.
+(생각한다) 둘 다. (침묵) 우리 쪽은 늘 그렇잖아.
+Momo: (mardi, quatorze heures ; au café, en bas de la rédaction ; il pose des cafés devant toute l'équipe) Alors ? Demain, on gagne ?
+(화요일 오후 두 시. 편집국 아래 카페. 팀 전원 앞에 커피를 놓는다) 그래서? 내일 이겨?
+Gilles: (il fait tourner sa cuillère) Demain, on ne gagne pas, Momo. On perd moins. Ou on perd tout.
+(숟가락을 빙빙 돌린다) 내일은 이기는 게 아니야, 모모. 덜 지거나. 다 지거나.
+Momo: (il s'assoit avec eux, ce qu'il ne fait jamais) Combien vous payez par mois ? Pour tout le monde ?
+(평소엔 절대 안 그러는데 그들과 함께 앉는다) 한 달에 얼마 줘? 전부 다 해서?
+Gilles: Salaires, charges, loyer, serveur, imprimerie… (un silence) Cent quatre-vingt mille euros par mois.
+월급, 사회보험료, 임대료, 서버, 인쇄소… (침묵) 한 달에 십팔만 유로.
+Momo: (il siffle) Cent quatre-vingt mille. (un silence) Je gagne ça en… (il compte sur ses doigts) en douze ans. À peu près.
+(휘파람을 분다) 십팔만이라. (침묵) 난 그거 버는 데… (손가락으로 센다) 십이 년. 대충.
+Fatou: (inquiète) Et si les comptes sont gelés… les salaires de juillet ?
+(걱정스럽게) 그런데 계좌가 동결되면… 칠월 월급은요?
+Gilles: (après un silence) Les salaires de juillet sont payés le trente et un. (un silence) S'ils gèlent tout demain, je ne pourrai pas les payer.
+(침묵 끝에) 칠월 월급은 삼십일일에 나가. (침묵) 내일 전부 동결되면 못 줘.
+Fatou: (elle baisse les yeux) Moi, j'envoie la moitié de mon salaire à ma mère. À Dakar. (un silence) Le premier du mois.
+(눈을 내리깐다) 전 월급 절반을 엄마한테 보내요. 다카르로. (침묵) 매달 일일에.
+Hélène: (elle pose la main sur celle de Fatou) Fatou. (un silence) Quoi qu'il arrive demain, tu seras payée. La première. Avant moi. Avant Gilles. Avant tout le monde.
+(파투의 손 위에 자기 손을 얹는다) 파투. (침묵) 내일 무슨 일이 있어도 넌 월급 받을 거야. 제일 먼저. 나보다 먼저. 질보다 먼저. 누구보다 먼저.
+Gilles: (il hoche la tête) Les plus petits salaires d'abord. (un silence) C'est écrit dans nos statuts depuis le sous-sol.
+(고개를 끄덕인다) 가장 낮은 월급부터. (침묵) 지하실 시절부터 정관에 적혀 있어.
+Julien: (il pose sa tasse) Moi, je peux attendre. Un mois. Deux. (un silence) J'ai des économies. Pas beaucoup. Mais assez.
+(잔을 내려놓는다) 전 기다릴 수 있어요. 한 달. 두 달. (침묵) 저축이 있어요. 많진 않지만. 충분해요.
+Camille: Moi aussi.
+나도.
+Karim: Moi… (un silence) Moi, j'ai six kilos de panisses congelées. Je peux tenir trois semaines.
+나는… (침묵) 나는 냉동 파니스 육 킬로가 있어. 삼 주는 버틸 수 있어.
+Momo: (il rit, puis redevient sérieux) Et le café reste gratuit. (un silence) Et le déjeuner aussi. Pour tout le monde. Jusqu'à la fin.
+(웃다가 다시 진지해진다) 그리고 커피는 계속 공짜야. (침묵) 점심도. 다들. 끝까지.
+Gilles: (ému) Momo… tu ne peux pas nourrir quinze personnes gratuitement.
+(감동해서) 모모… 열다섯 명을 공짜로 먹일 순 없잖아.
+Momo: (il hausse les épaules) Pendant le confinement, j'ai nourri tout l'immeuble pendant deux mois. (un silence) Je sais faire. Il faut juste beaucoup de lentilles.
+(어깨를 으쓱한다) 봉쇄 때 두 달 동안 건물 전체를 먹였어. (침묵) 할 줄 알아. 렌틸콩만 많으면 돼.
+Léa: (mardi, dix-huit heures ; elle frappe à la porte du bureau d'Hélène, entre, et ferme derrière elle) Hélène. (un silence) Je dois vous dire quelque chose. À vous seulement. Et à Aubry.
+(화요일 저녁 여섯 시. 엘렌 사무실 문을 두드리고 들어가 문을 닫는다) 엘렌. (침묵) 드릴 말씀이 있어요. 엘렌한테만요. 그리고 오브리 변호사님한테.
+Hélène: (elle lève les yeux, voit son visage, pose son stylo) Assieds-toi.
+(고개를 들어 그녀 얼굴을 보고 펜을 내려놓는다) 앉아.
+Léa: (elle s'assoit ; à voix très basse) Ariane m'a écrit. Hier soir. (un silence) Elle veut me voir. Jeudi matin. Seule.
+(앉는다. 아주 낮은 목소리로) 아리안이 저한테 연락했어요. 어젯밤에. (침묵) 저를 만나고 싶대요. 목요일 아침에. 혼자.
+Hélène: (un très long silence) Toi.
+(아주 긴 침묵) 너를.
+Léa: Elle dit que c'est à moi qu'elle a parlé la première. En janvier. Au salon de l'armement. (un silence) Une femme en tailleur gris m'a frôlée. Elle m'a dit : « Faites bon usage des photos. » Je l'ai retrouvée sur mes photos hier soir. (un silence) Et elle était devant la DGSI, hier matin.
+처음 말을 건 사람이 저였대요. 일월에. 방산 전시회에서. (침묵) 회색 정장 차림의 여자가 저를 스치고 지나갔어요. «사진 잘 쓰세요»라고 했어요. 어젯밤 제 사진에서 그 사람을 찾았어요. (침묵) 그리고 어제 아침 DGSI 앞에도 있었어요.
+Hélène: (elle se lève, va à la fenêtre) La DGSI cherche une femme du service de conformité d'Orsenne. Ils ont pris son ordinateur. (un silence) Si tu la rencontres jeudi, et qu'ils la suivent…
+(일어나 창가로 간다) DGSI는 오르센 준법감시 부서의 여자를 찾고 있어. 그 사람 컴퓨터를 가져갔고. (침묵) 네가 목요일에 그 사람을 만나는데, 그들이 그 사람을 미행하고 있으면…
+Léa: Je sais. (un silence) Alors je ne prendrai rien. Pas un papier. Pas une clé USB. Pas une photo. (un silence) Je vais seulement l'écouter. Et lui dire merci.
+알아요. (침묵) 그래서 아무것도 안 받을 거예요. 종이 한 장도. USB도. 사진도. (침묵) 그냥 얘기를 들을 거예요. 그리고 고맙다고 할 거예요.
+Hélène: (elle se retourne) Et si elle te donne son nom ?
+(돌아선다) 그런데 그 사람이 이름을 말해 주면?
+Léa: (un silence) Alors je le garderai. (un silence) Comme Julien a gardé son silence.
+(침묵) 그럼 간직할 거예요. (침묵) 쥘리앵이 침묵을 지킨 것처럼.
+Hélène: (après un temps) J'appelle Aubry. (un silence) Et Léa… tu ne dis rien à personne. Ni à Karim. Ni à Julien. Ni à Nicolas. (un silence) Moins on sait, moins on peut nous obliger à dire.
+(잠시 뒤) 오브리한테 전화할게. (침묵) 그리고 레아… 아무한테도 말하지 마. 카림한테도. 쥘리앵한테도. 니콜라한테도. (침묵) 적게 알수록 말하라고 강요당할 것도 적어.
+Aubry: (mardi, dix-neuf heures ; au téléphone avec Hélène et Léa, en haut-parleur, dans le bureau fermé) Trois règles pour jeudi. (un silence) Un : ton téléphone reste chez toi. Éteint. Deux : tu prends le métro, puis un bus, puis tu marches. Trois : si tu vois quelqu'un qui te suit, tu ne vas pas à la fontaine. Tu vas acheter des croissants. Et tu rentres.
+(화요일 저녁 일곱 시. 닫힌 사무실에서 엘렌, 레아와 스피커폰으로 통화) 목요일 규칙 세 가지. (침묵) 하나: 휴대폰은 집에 둬. 꺼서. 둘: 지하철 타고, 버스 타고, 걸어. 셋: 누가 따라오는 것 같으면 분수로 가지 마. 크루아상 사러 가. 그리고 집에 가.
+Léa: Et si elle me donne un document ?
+그런데 그 사람이 문서를 주면요?
+Aubry: Tu refuses. Poliment. (un silence) Si la DGSI la suit et te voit prendre un papier, tu deviens complice. Si tu ne prends rien, tu es une journaliste qui a parlé à quelqu'un dans un jardin public. Ce n'est pas un délit. Pas encore.
+거절해. 정중하게. (침묵) DGSI가 그 사람을 미행하다가 네가 종이를 받는 걸 보면 넌 공범이 돼. 아무것도 안 받으면 넌 공원에서 누군가와 얘기한 기자일 뿐이야. 그건 범죄가 아니야. 아직은.
+Léa: (un silence) « Pas encore. »
+(침묵) «아직은.»
+Aubry: (un petit rire triste) C'est l'humour d'un vieil avocat, Léa. (un silence) Fais attention à toi. Et à elle.
+(슬프게 작게 웃는다) 늙은 변호사의 유머야, 레아. (침묵) 몸조심해. 그리고 그 사람도.
+Camille: (mercredi, neuf heures ; devant le grand tribunal de verre des Batignolles ; elle lève les yeux vers la tour) Les Batignolles. (un silence) Mon studio d'Inès est à deux rues d'ici. (un silence) Je n'y suis jamais retournée.
+(수요일 아침 아홉 시. 바티뇰의 커다란 유리 법원 앞. 건물을 올려다본다) 바티뇰. (침묵) 이네스 시절 내 원룸이 여기서 두 블록이야. (침묵) 한 번도 다시 안 갔어.
+Julien: (il lui prend la main) Tu veux y passer, après ?
+(그녀의 손을 잡는다) 끝나고 들러 볼래?
+Camille: (elle secoue la tête) Non. (un silence) Inès habite là-bas. Moi, j'habite à Belleville. Avec un vélo moche dans le couloir.
+(고개를 젓는다) 아니. (침묵) 이네스는 거기 살아. 난 벨빌에 살고. 복도에 못생긴 자전거 있는 데.
+Julien: (il sourit) Tu as déménagé ?
+(웃는다) 이사 왔어?
+Camille: (elle rit) Pas officiellement. (un silence) Mais Madame Lucienne m'a déjà donné une clé de la cave.
+(웃는다) 공식적으로는 아니고. (침묵) 근데 뤼시엔 할머니가 벌써 지하실 열쇠를 줬어.
+Greffière: (mercredi, neuf heures trente ; dans une petite salle d'audience du tribunal judiciaire de Paris, aux Batignolles ; une jeune femme en robe noire) Affaire Orsenne contre Société éditrice du Phare. Requête en saisie conservatoire.
+(수요일 오전 아홉 시 반. 바티뇰의 파리 법원 작은 법정. 검은 법복을 입은 젊은 여성) 오르센 대 르 파르 발행 회사 사건. 보전 압류 신청.
+Juge: (une femme de soixante ans, lunettes, voix sèche) Maître Dumont-Laval, pour Orsenne. Vous avez la parole. Dix minutes.
+(안경을 쓴 육십 대 여성, 메마른 목소리) 오르센 측 뒤몽라발 변호사. 발언하세요. 십 분.
+Dumont-Laval: (un homme de cinquante ans, robe impeccable, voix douce) Madame la présidente. (un silence) Mon client, un groupe industriel européen employant quarante mille personnes, a été victime, le vingt-deux juin, d'une campagne médiatique d'une violence inouïe.
+(흠잡을 데 없는 법복에 부드러운 목소리의 쉰 살 남자) 재판장님. (침묵) 제 의뢰인은 사만 명을 고용한 유럽 산업 그룹으로, 유월 이십이일 전례 없이 폭력적인 언론 캠페인의 피해자가 되었습니다.
+Dumont-Laval: En une matinée, l'action a perdu dix-huit pour cent. Deux réacteurs ont été arrêtés. Des contrats sont menacés. Des emplois aussi. (un silence) Le préjudice est considérable. Et il est dû à des allégations non vérifiées.
+한나절 만에 주가가 십팔 퍼센트 떨어졌습니다. 원자로 두 기가 멈췄습니다. 계약들이 위협받고 있습니다. 일자리도요. (침묵) 손해가 막대합니다. 그리고 그건 검증되지 않은 주장 때문입니다.
+Dumont-Laval: (un silence) Or la société éditrice du Phare est une petite structure. Fragile. Si mon client obtient gain de cause en septembre, rien ne garantit qu'il pourra récupérer les sommes dues. (un silence) C'est pourquoi nous demandons une saisie conservatoire. À titre de simple précaution.
+(침묵) 그런데 르 파르 발행 회사는 작은 조직입니다. 취약하죠. 제 의뢰인이 구월에 승소하더라도 배상금을 회수할 수 있다는 보장이 없습니다. (침묵) 그래서 보전 압류를 신청하는 것입니다. 단순한 예방 차원에서.
+Gilles: (dans la salle, à voix très basse, à Hélène) « À titre de simple précaution. » (un silence) Comme les réacteurs.
+(법정 안에서 아주 낮은 목소리로 엘렌에게) «단순한 예방 차원에서.» (침묵) 원자로처럼.
+Dumont-Laval: (il continue, plus fort) Mon confrère invoquera certainement la liberté de la presse. (un silence) La liberté de la presse n'est pas la liberté de détruire une entreprise avec des documents volés.
+(더 크게 계속한다) 제 상대 변호인께서는 틀림없이 언론의 자유를 내세우실 겁니다. (침묵) 언론의 자유는 훔친 문서로 기업을 파괴할 자유가 아닙니다.
+Julien: (dans la salle, il serre les poings ; Camille pose la main sur son genou)
+(법정 안에서 주먹을 쥔다. 카미유가 그의 무릎에 손을 얹는다)
+Dumont-Laval: Un journaliste de ce journal est d'ailleurs, en ce moment même, visé par une enquête pour compromission du secret de la défense nationale. (un silence) Voilà le sérieux de leur travail.
+게다가 이 신문사 기자 한 명은 바로 지금 국가 방위 비밀 누설 혐의로 수사 대상이 되어 있습니다. (침묵) 그게 그들 작업의 성실성입니다.
+Juge: (sans lever les yeux) Maître, je statue sur une saisie conservatoire. Pas sur une enquête pénale en cours. (un silence) Restez dans votre dossier.
+(눈도 들지 않고) 변호사님, 저는 보전 압류에 대해 결정하는 겁니다. 진행 중인 형사 수사가 아니라. (침묵) 사건 범위 안에서 말씀하세요.
+Dumont-Laval: (il s'incline légèrement) Bien sûr, madame la présidente. (un silence) J'ai terminé.
+(가볍게 고개를 숙인다) 물론입니다, 재판장님. (침묵) 이상입니다.
+Juge: (elle regarde Aubry) Maître Aubry. Pour Le Phare.
+(오브리를 본다) 오브리 변호사. 르 파르 측.
+Aubry: (il se lève lentement ; il ne prend aucune note) Madame la présidente. (un silence) Mon confrère a parlé de précaution. Je vais vous parler de proportion.
+(천천히 일어선다. 메모를 하나도 들지 않았다) 재판장님. (침묵) 제 상대 변호인께서 예방을 말씀하셨습니다. 저는 비례를 말씀드리겠습니다.
+Aubry: Orsenne réclame dix millions d'euros. Le chiffre d'affaires annuel du Phare est de deux millions et demi. (un silence) Orsenne ne demande pas réparation. Elle demande l'équivalent de quatre années de vie d'un journal. D'une part, c'est disproportionné. D'autre part, c'est volontaire.
+오르센은 천만 유로를 청구합니다. 르 파르의 연 매출은 이백오십만 유로입니다. (침묵) 오르센은 배상을 요구하는 게 아닙니다. 한 신문사의 사 년 치 삶에 해당하는 금액을 요구하는 겁니다. 한편으로 그건 불비례하고, 다른 한편으로 그건 의도적입니다.
+Aubry: (il prend un exemplaire du journal sur la table) Volontaire, parce que nous avons publié, le vingt-deux juin, une note interne de la Fondation Orsenne, datée du douze avril. Une note qu'Orsenne n'a jamais démentie. (un silence ; il lit) « Je propose d'engager à l'automne une action en diffamation d'un montant suffisant pour décourager durablement leurs lecteurs, leurs annonceurs et leur banque. »
+(탁자 위 신문 한 부를 집는다) 의도적이라는 건, 우리가 유월 이십이일에 사월 십이일 자 오르센 재단 내부 메모를 보도했기 때문입니다. 오르센이 한 번도 부인하지 않은 메모죠. (침묵. 읽는다) «가을에 그들의 독자, 광고주, 은행을 오랫동안 단념시킬 만한 금액의 명예훼손 소송을 제기할 것을 제안하네.»
+Dumont-Laval: (il se lève) Madame la présidente, ce document n'a aucune valeur. Il provient de sources illégales…
+(일어선다) 재판장님, 이 문서는 아무 가치가 없습니다. 불법적인 출처에서…
+Juge: (sèchement) Asseyez-vous, maître. (un silence) Votre client a-t-il démenti l'authenticité de cette note, depuis le vingt-deux juin ?
+(딱딱하게) 앉으세요, 변호사님. (침묵) 귀하의 의뢰인은 유월 이십이일 이후 이 메모의 진위를 부인한 적이 있습니까?
+Dumont-Laval: (un silence) Mon client n'a pas à commenter des documents dont l'origine…
+(침묵) 제 의뢰인은 출처가… 불분명한 문서에 대해 논평할 의무가…
+Juge: Oui ou non, maître ?
+예입니까, 아니오입니까, 변호사님?
+Dumont-Laval: (un long silence) Non, madame la présidente.
+(긴 침묵) 아니오, 재판장님.
+Aubry: (calmement) Alors, madame la présidente, on vous demande aujourd'hui d'exécuter un plan annoncé par écrit. (un silence) Une saisie totale, c'est la mort du journal avant le procès. Ce n'est plus une précaution. C'est une condamnation sans jugement.
+(침착하게) 그렇다면, 재판장님, 오늘 재판부께 요구되는 건 서면으로 예고된 계획을 실행하는 겁니다. (침묵) 전부 압류하면 재판 전에 신문사가 죽습니다. 그건 더 이상 예방이 아닙니다. 판결 없는 유죄 선고입니다.
+Aubry: (un silence) Le Phare ne refuse pas d'être jugé. Il demande seulement d'être vivant le jour de son procès.
+(침묵) 르 파르는 재판받기를 거부하지 않습니다. 다만 자기 재판 날 살아 있기를 요청할 뿐입니다.
+Juge: (elle note quelque chose ; un silence) La décision sera rendue cet après-midi. Dix-sept heures. (un silence) L'audience est levée.
+(뭔가를 적는다. 침묵) 결정은 오늘 오후에 내리겠습니다. 다섯 시. (침묵) 폐정합니다.
+Hélène: (dans le couloir du tribunal) Pierre… (un silence) « Être vivant le jour de son procès. » Tu l'avais préparée, celle-là ?
+(법원 복도에서) 피에르… (침묵) «자기 재판 날 살아 있기를.» 그 말 준비했던 거야?
+Aubry: (il enlève sa robe, épuisé) Depuis 1998. (un silence) Je n'avais jamais eu l'occasion de la dire.
+(지친 얼굴로 법복을 벗는다) 1998년부터. (침묵) 말할 기회가 한 번도 없었지.
+Karim: (midi ; dans le parc Martin-Luther-King, en face du tribunal ; toute l'équipe est assise sur l'herbe avec les sandwichs de Momo) Cinq heures à attendre. (un silence) Comme devant la DGSI.
+(정오. 법원 맞은편 마르틴 루터 킹 공원. 팀 전원이 모모의 샌드위치를 들고 잔디에 앉아 있다) 다섯 시간 기다려야 해. (침묵) DGSI 앞에서처럼.
+Léa: (elle regarde les enfants qui jouent) Tu sais à quoi je pense ? (un silence) À Daria, dans le square, en mars. Elle attendait aussi. Elle ne savait pas si elle pourrait partir.
+(노는 아이들을 바라본다) 내가 무슨 생각하는지 알아? (침묵) 삼월에 광장의 다리아. 그 애도 기다렸지. 떠날 수 있을지 모르면서.
+Julien: (il s'assoit à côté d'elle) Tu es bizarre depuis hier, Léa. (un silence) Tu regardes ton téléphone toutes les cinq minutes. Et tu ne réponds à personne.
+(그녀 옆에 앉는다) 너 어제부터 이상해, 레아. (침묵) 오 분마다 휴대폰을 보고. 아무한테도 답을 안 해.
+Léa: (elle range son téléphone) Je suis fatiguée. C'est tout.
+(휴대폰을 집어넣는다) 피곤해서 그래. 그게 다야.
+Julien: (il la regarde longtemps, puis hoche la tête) D'accord. (un silence) Si un jour tu as besoin de parler… de quelque chose que tu n'as pas le droit de dire… je sais écouter sans poser de questions. J'ai appris lundi.
+(그녀를 오래 바라보다가 고개를 끄덕인다) 알았어. (침묵) 언젠가 얘기가 필요하면… 말하면 안 되는 거라도… 질문 안 하고 들을 줄 알아. 월요일에 배웠거든.
+Léa: (elle sourit, émue) Je sais. (un silence) Merci, Julien.
+(감동해서 웃는다) 알아. (침묵) 고마워, 쥘리앵.
+Hélène: (elle les observe de loin ; elle ne dit rien ; elle mange son sandwich)
+(멀리서 그들을 지켜본다. 아무 말 없이 샌드위치를 먹는다)
+Gilles: (dix-sept heures ; dans le couloir, il lit la décision que la greffière vient de lui donner ; ses mains tremblent) « Ordonne la saisie conservatoire… à hauteur d'un million cinq cent mille euros… » (un silence) Un million cinq.
+(오후 다섯 시. 복도에서 서기가 막 건넨 결정문을 읽는다. 손이 떨린다) «보전 압류를 명한다… 백오십만 유로 한도로…» (침묵) 백오십만.
+Hélène: (elle ferme les yeux) Sur un million huit.
+(눈을 감는다) 백팔십만 중에서.
+Gilles: (il fait le calcul à voix haute) Un million huit moins un million cinq… trois cent mille euros. (un silence) Les comptes sont gelés. Pas tous. Mais presque.
+(소리 내어 계산한다) 백팔십만 빼기 백오십만… 삼십만 유로. (침묵) 계좌가 동결됐어. 전부는 아니야. 하지만 거의.
+Aubry: (il lit la suite par-dessus l'épaule de Gilles) « …considérant que la mesure sollicitée à hauteur de dix millions d'euros apparaît manifestement disproportionnée au regard de la situation financière de la défenderesse… » (un silence) Elle a refusé les dix millions. Elle a coupé la poire.
+(질의 어깨 너머로 뒷부분을 읽는다) «…천만 유로 한도의 신청 조치는 피신청인의 재정 상황에 비추어 명백히 불비례한 것으로 보이므로…» (침묵) 천만은 기각했어. 절충한 거지.
+Gilles: (il s'assoit sur un banc) Couper la poire… (un silence) Il nous reste trois cent mille euros. Cent quatre-vingt mille par mois. (un silence) On tiendra combien de temps ?
+(벤치에 앉는다) 절충이라… (침묵) 우리한테 삼십만 유로가 남았어. 한 달에 십팔만. (침묵) 얼마나 버틸 수 있을까?
+Karim: (il calcule) Un mois et demi. (un silence) Jusqu'à la mi-août. Si personne ne s'abonne plus. Si personne ne se désabonne.
+(계산한다) 한 달 반. (침묵) 팔월 중순까지. 더 이상 아무도 구독하지 않고. 아무도 해지하지 않는다면.
+Aubry: Nous ferons appel. (un silence) Mais l'appel prendra trois mois. Et le procès est en septembre.
+항소할 거야. (침묵) 하지만 항소는 석 달 걸려. 그리고 재판은 구월이야.
+Hélène: (après un long silence) Alors on a six semaines pour trouver une solution. (un silence) Ou pour mourir.
+(긴 침묵 끝에) 그럼 해결책을 찾을 시간이 육 주 있는 거네. (침묵) 아니면 죽을 시간이거나.
+Karim: (dix-huit heures ; dans le métro du retour ; il lit son téléphone) Les gens ont appris la décision. (un silence) Six cents nouveaux abonnés depuis dix-sept heures. (il lit un message) « Ils gèlent vos comptes ? Je réchauffe le mien. Abonnement de soutien, cent euros. »
+(저녁 여섯 시. 돌아가는 지하철 안. 휴대폰을 읽는다) 사람들이 결정 소식을 들었어. (침묵) 다섯 시 이후로 신규 구독자 육백 명. (메시지 하나를 읽는다) «계좌를 얼린다고요? 그럼 제 계좌를 녹이죠. 후원 구독, 백 유로.»
+Léa: (elle rit malgré elle) « Je réchauffe le mien. »
+(자기도 모르게 웃는다) «제 계좌를 녹이죠.»
+Gilles: (il regarde par-dessus l'épaule de Karim) Six cents. (un silence) Ce n'est pas assez. Mais c'est quelque chose.
+(카림의 어깨 너머로 본다) 육백 명. (침묵) 충분하진 않아. 그래도 뭔가는 되지.
+Daria: (dans le métro, elle s'approche de Gilles, timide) Monsieur… (un silence) Je n'ai pas beaucoup d'argent. Mais je sais coudre. (un silence) Si vous voulez, je fais des sacs. Avec le logo du Phare. Vous les vendez.
+(지하철 안에서 수줍게 질에게 다가온다) 아저씨… (침묵) 저 돈은 별로 없어요. 근데 바느질은 할 줄 알아요. (침묵) 원하시면 가방을 만들게요. 르 파르 로고 달린. 그걸 파세요.
+Gilles: (il la regarde, la gorge serrée) Des sacs ?
+(목이 메어 그녀를 본다) 가방?
+Daria: (elle hoche la tête) Fatou m'aide. On peut en faire cinquante par semaine. (un silence) Page deux cent onze. « Solidarité. »
+(고개를 끄덕인다) 파투가 도와줘요. 일주일에 쉰 개 만들 수 있어요. (침묵) 이백십일 쪽. «연대.»
+Gilles: (il lui serre la main, très fort) Mademoiselle Daria. (un silence) Vous êtes engagée. Directrice de la maroquinerie du Phare.
+(그녀의 손을 아주 세게 잡는다) 다리아 양. (침묵) 채용됐습니다. 르 파르 가죽 소품 부장으로.
+Daria: (elle rit, puis devient sérieuse) Pas de salaire. (un silence) Vous m'avez donné un nom. Je vous donne des sacs.
+(웃다가 진지해진다) 월급은 필요 없어요. (침묵) 당신들이 나한테 이름을 줬잖아요. 난 가방을 드릴게요.
+Fatou: (elle prend la main de Daria) Cinquante par semaine. (un silence) Et cent si Momo nous apporte du café.
+(다리아의 손을 잡는다) 일주일에 쉰 개. (침묵) 모모가 커피를 가져다주면 백 개.
+Julien: (mercredi, vingt heures ; à la rédaction ; tout le monde est là, même Momo, même Mira et Daria) Six semaines. (un silence) Le Phare a survécu au sous-sol. À trois ministres. À un évêque. (un silence) Il peut survivre à six semaines.
+(수요일 밤 여덟 시. 편집국. 모두 있다. 모모도, 미라와 다리아도) 육 주. (침묵) 르 파르는 지하실도 살아남았어. 장관 셋도. 주교 하나도. (침묵) 육 주쯤은 살아남을 수 있어.
+Gilles: (il secoue la tête) Avec quoi ? (un silence) Les salaires de juillet, oui. Ceux d'août, à moitié. Septembre… rien.
+(고개를 젓는다) 뭐로? (침묵) 칠월 월급은 돼. 팔월은 반. 구월은… 아무것도.
+Mira: (doucement) Chez moi, quand un journal était menacé, il disparaissait. On ne demandait l'avis de personne. (un silence) Ici, vous avez des lecteurs. Quatorze mille nouveaux en un mois. (un silence) Demandez-leur.
+(조용히) 우리나라에선 신문사가 위협받으면 사라졌어요. 아무한테도 의견을 묻지 않았죠. (침묵) 여기엔 독자들이 있잖아요. 한 달 만에 새 독자 만 사천 명. (침묵) 그 사람들한테 물어보세요.
+Hélène: (elle la regarde) Demander de l'argent à nos lecteurs ? (un silence) On ne l'a jamais fait. En douze ans.
+(그녀를 본다) 독자들한테 돈을 달라고? (침묵) 그런 적 없어. 십이 년 동안.
+Momo: (il croise les bras) En douze ans, personne ne vous a jamais réclamé dix millions non plus.
+(팔짱을 낀다) 십이 년 동안 아무도 천만 유로를 청구한 적도 없잖아.
+Aubry: (un petit sourire) Momo a raison. (un silence) Et un appel à nos lecteurs, c'est aussi une réponse au juge. Il montre que Le Phare n'est pas « une petite structure fragile ». Il montre qu'il a des milliers de gens derrière lui.
+(작게 웃으며) 모모 말이 맞아. (침묵) 그리고 독자들에게 호소하는 건 판사에 대한 답변이기도 해. 르 파르가 «작고 취약한 조직»이 아니라는 걸 보여 주지. 뒤에 수천 명이 있다는 걸 보여 주는 거야.
+Hélène: (un long silence ; elle regarde toute son équipe) Pas encore. (un silence) D'abord, on termine ce qu'on a commencé. On a une source à protéger. Un procès à préparer. (un silence) Et quand on demandera de l'aide, on la demandera debout. Pas à genoux.
+(긴 침묵. 팀 전원을 바라본다) 아직은 아니야. (침묵) 먼저 시작한 걸 끝내자. 지켜야 할 출처가 있고. 준비할 재판이 있어. (침묵) 그리고 도움을 청할 땐 서서 청할 거야. 무릎 꿇고가 아니라.
+Julien: (vingt et une heures ; il se lève) Je propose une chose. (un silence) Ceux qui le peuvent renoncent à leur salaire d'août. Pas tous. Ceux qui ont des économies. Ça fait un mois de plus pour le journal.
+(밤 아홉 시. 일어선다) 하나 제안할게요. (침묵) 할 수 있는 사람은 팔월 월급을 포기하는 거예요. 다는 아니고. 저축이 있는 사람들만. 그럼 신문사가 한 달 더 버틸 수 있어요.
+Camille: D'accord.
+좋아.
+Karim: (il soupire) D'accord. (un silence) Je mangerai les panisses.
+(한숨을 쉰다) 좋아. (침묵) 파니스 먹지 뭐.
+Fatou: (elle lève la main) Moi aussi, je…
+(손을 든다) 저도요, 저…
+Hélène: (fermement) Non, Fatou. (un silence) Toi, non. Ni Momo, qui n'est même pas salarié. Ni Mira, qui commence à peine. (un silence) Les plus petits salaires d'abord. Ça veut dire aussi : les plus petits salaires ne sacrifient rien.
+(단호하게) 안 돼, 파투. (침묵) 넌 안 돼. 직원도 아닌 모모도. 이제 막 시작한 미라도. (침묵) 가장 낮은 월급부터. 그건 가장 낮은 월급은 아무것도 희생하지 않는다는 뜻이기도 해.
+Fatou: (les larmes aux yeux) Mais je veux aider…
+(눈물을 글썽이며) 그래도 돕고 싶어요…
+Hélène: (doucement) Tu aides déjà. Tu distribues le journal devant la DGSI. Tu fais des sacs avec Daria. (un silence) Et tu envoies la moitié de ton salaire à ta mère. Ça, personne ne te le prendra. Pas Orsenne. Pas moi.
+(부드럽게) 넌 이미 돕고 있어. DGSI 앞에서 신문을 나눠 주고. 다리아랑 가방을 만들고. (침묵) 그리고 월급 절반을 어머니한테 보내잖아. 그건 아무도 못 빼앗아. 오르센도. 나도.
+Léa: (vingt-trois heures ; dans sa cuisine à Montreuil ; Nicolas dort ; elle met son réveil à cinq heures et demie ; elle écrit sur un papier, puis le déchire) « Jeudi. Sept heures. Médicis. »
+(밤 열한 시. 몽트뢰유의 부엌. 니콜라는 자고 있다. 알람을 다섯 시 반에 맞춘다. 종이에 뭔가를 적었다가 찢는다) «목요일. 일곱 시. 메디치.»
+Léa: (elle jette les morceaux dans la poubelle, puis les reprend et les met dans sa poche ; à voix basse) Rien d'écrit. (un silence) Rien à oublier.
+(조각들을 쓰레기통에 버렸다가 다시 꺼내 주머니에 넣는다. 낮은 목소리로) 아무것도 적지 않기. (침묵) 잊을 것도 없게.
+
+## 주요 단어
+la procédure-bâillon | 라 프로세뒤르 바이용 | 입막음 소송 (C1)
+porter atteinte à l'honneur | 뽀르떼 아땡뜨 아 로뇌르 | 명예를 훼손하다 (C1)
+l'exception de vérité (f.) | 렉셉시옹 드 베리떼 | 진실의 항변 (C1)
+la bonne foi | 라 본 푸아 | 선의 (B2)
+l'animosité (f.) | 라니모지떼 | 적의 (C1)
+avoir un compte à régler | 아부아르 엉 꽁뜨 아 레글레 | 갚을 원한이 있다 (B2)
+la saisie conservatoire | 라 세지 꽁세르바뚜아르 | 보전 압류 (C1)
+démentir | 데망띠르 | 부인하다 (B2)
+les statuts (m. pl.) | 레 스따뛰 | 정관 (C1)
+le confinement | 르 꽁핀느망 | (방역) 봉쇄 (B1)
+la requête | 라 르께뜨 | 신청 (C1)
+inouï(e) | 이누이 | 전례 없는 (C1)
+le préjudice | 르 프레쥐디스 | 손해 (C1)
+obtenir gain de cause | 옵뜨니르 갱 드 꼬즈 | 승소하다 (C1)
+disproportionné(e) | 디스프로뽀르시오네 | 불비례한, 지나친 (C1)
+couper la poire en deux | 꾸뻬 라 쁘와르 앙 되 | 절충하다 (B2)
+faire appel | 페르 아뻴 | 항소하다 (B2)
+à genoux | 아 즈누 | 무릎 꿇고 (B1)
+
+## 문법·표현 정리
+**la bonne foi (B2):** 명예훼손 소송의 핵심 방어. 네 가지 기준: légitimité du but / absence d'animosité personnelle / prudence et mesure dans l'expression / sérieux de l'enquête.
+**Les comptes sont gelés (B2):** être + 과거분사 = 상태. geler(얼리다) → 동결하다. Les comptes ont été gelés. (행위, 수동태)
+**On tiendra combien de temps ? (B1):** tenir = 버티다. 단순미래 의문. 구어 어순(의문사 뒤로). = Combien de temps tiendrons-nous ?
+**d'une part… d'autre part… (B2):** 논리 접속사. "한편으로는… 다른 한편으로는…". D'une part, c'est disproportionné. D'autre part, c'est volontaire.
+**or (C1):** "그런데"(논증에서 새 전제 제시). Or nous n'avons pas dix millions. Donc…
+**donc / c'est pourquoi (B1):** 결론. C'est pourquoi nous demandons une saisie.
+**plus… plus… (B1):** Plus nos lecteurs nous donnent d'argent, plus Orsenne peut en bloquer.
+**quoi qu'il arrive (B2):** 무슨 일이 있어도. Quoi qu'il arrive demain, tu seras payée.
+**단순미래 (B1):** Nous ferons appel. / L'appel prendra trois mois. / Je ne pourrai pas les payer. / Je le garderai.
+**ne… plus (A2):** Un journal qui n'enquête plus n'a plus besoin d'être poursuivi.
+**rien ne garantit que + 접속법 (C1):** rien ne garantit qu'il pourra (구어에선 직설법도) récupérer les sommes.
+**au regard de (C1):** ~에 비추어. au regard de la situation financière.
+**법정 화법 (C1):** Vous avez la parole. / L'audience est levée. / La décision sera rendue. / Oui ou non, maître ?
+**moins… moins… (B1):** Moins on sait, moins on peut nous obliger à dire.
