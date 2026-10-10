@@ -1,0 +1,340 @@
+# 1부 11화. La caisse (계산대)
+수준: A2~C1 혼합 (중심 B2) | 장소: 레퓌블리크 광장의 카페·편집국 | 시간: 9월 마지막 주 월요일
+핵심 표현: Le logiciel efface les ventes en espèces · Le siège savait · Si on m'avait écoutée, … · Je n'en reviens pas
+
+## 대화
+Léa: (le lundi matin, à la rédaction) Karim ! Tu as dormi ? Tu as une tête de zombie.
+(월요일 아침, 편집국에서) 카림! 잤어? 좀비 같은 얼굴이야.
+Karim: Trois nuits à Rungis en quatre jours. J'ai lavé environ mille casseroles. Je rêve de blanquette.
+나흘 동안 룅지스에서 사흘 밤. 냄비를 천 개쯤 씻었어. 꿈에 블랑케트가 나와.
+Léa: À propos de blanquette… Julien m'a dit pour le « J plus trois ». J'ai mangé une blanquette de trois jours.
+블랑케트 말이 나와서… 쥘리앵이 «D+3» 얘기 해 줬어. 내가 사흘 된 블랑케트를 먹었다니.
+Karim: Et congelée. Et faite avec du fond de veau en poudre. Désolé.
+그것도 냉동이었지. 육수 분말로 만든 거고. 미안.
+Léa: Ma grand-mère ne doit jamais savoir.
+우리 할머니는 절대 아시면 안 돼.
+Julien: (il arrive) Bonjour. Bonne nouvelle : Nathalie a accepté de nous voir. Aujourd'hui, à onze heures. Dans un café, place de la République.
+(들어오며) 안녕. 좋은 소식이야. 나탈리가 만나 주겠대. 오늘 열한 시. 레퓌블리크 광장의 카페에서.
+Karim: Elle a accepté tout de suite ?
+바로 승낙했어?
+Julien: Non. Elle a d'abord raccroché. Puis elle a rappelé une heure plus tard. Elle a juste demandé : « Vous connaissez Moussa ? » J'ai dit oui. Elle a dit : « Alors d'accord. »
+아니. 처음엔 전화를 끊었어. 그러고 한 시간 뒤에 다시 전화했지. 딱 이렇게 묻더라. «무사를 아세요?» 그렇다고 했더니 «그럼 좋아요»래.
+Léa: Moussa lui fait confiance. Et elle fait confiance à Moussa.
+무사가 그 사람을 믿고, 그 사람도 무사를 믿는 거네.
+Julien: C'est souvent comme ça. Les sources ne nous font pas confiance à nous. Elles font confiance aux gens qui nous envoient.
+흔히 그래. 취재원들은 우리를 믿는 게 아니야. 우리를 보낸 사람을 믿는 거지.
+Karim: Je viens avec vous ?
+나도 같이 가?
+Julien: Oui. Tu connais la cuisine centrale de l'intérieur. Elle connaît les restaurants de l'intérieur. Vous allez vous comprendre.
+응. 넌 중앙 주방을 안에서 봤고, 그 사람은 식당을 안에서 봤어. 서로 통할 거야.
+Léa: Et moi ?
+나는?
+Julien: Toi, tu prends des notes. Et tu poses les questions simples. Celles que les spécialistes oublient de poser.
+넌 필기해. 그리고 쉬운 질문을 해. 전문가들이 깜빡하고 안 하는 질문들.
+Léa: Les questions bêtes, quoi.
+바보 같은 질문 말이지.
+Julien: Les questions essentielles.
+핵심 질문이지.
+Nathalie: (au café, elle se lève, nerveuse) Monsieur Marchetti ? Nathalie Girard. Asseyez-vous. Ici, au fond. On ne nous voit pas de la rue.
+(카페에서 긴장한 채 일어나며) 마르케티 씨? 나탈리 지라르예요. 앉으세요. 여기, 안쪽에요. 길에서는 안 보여요.
+Julien: Bonjour, madame Girard. Merci d'être venue. Voici Léa Morel et Karim Benali.
+안녕하세요, 지라르 씨. 나와 주셔서 감사합니다. 레아 모렐과 카림 벤알리입니다.
+Nathalie: (elle regarde Karim) C'est vous, le plongeur ? Moussa m'a parlé de vous. Il dit que vous avez les mains trop douces.
+(카림을 보며) 당신이 그 설거지 직원이군요? 무사가 얘기했어요. 손이 너무 부드럽다고.
+Karim: (il rit) Elles le sont moins maintenant. Mille casseroles.
+(웃으며) 지금은 덜해요. 냄비를 천 개나 씻었거든요.
+Nathalie: Moussa est un garçon formidable. Il travaille plus que n'importe qui. Et on le paie sept euros de l'heure, en liquide, dans une enveloppe. C'est une honte.
+무사는 정말 훌륭한 청년이에요. 누구보다 열심히 일하죠. 그런데 봉투에 넣은 현금으로 시간당 7유로를 받아요. 수치스러운 일이에요.
+Julien: Madame Girard, avant tout : vous acceptez qu'on enregistre ? Et vous voulez qu'on utilise votre nom, ou pas ?
+지라르 씨, 먼저 여쭙겠습니다. 녹음해도 될까요? 그리고 실명을 쓰길 원하세요, 아니면 원하지 않으세요?
+Nathalie: Enregistrez. Pour le nom… je ne sais pas encore. Pour l'instant, non. J'ai deux enfants. Et je cherche du travail. Dans la restauration, Maréchal connaît tout le monde.
+녹음하세요. 이름은… 아직 모르겠어요. 지금은 안 돼요. 아이가 둘이고, 일자리를 찾고 있거든요. 외식업계에선 마레샬이 모르는 사람이 없어요.
+Julien: C'est entendu. Pour l'instant, vous êtes « une ancienne directrice de restaurant ». Rien de plus.
+알겠습니다. 지금은 «전직 식당 지점장»으로만 하겠습니다. 그 이상은 아무것도요.
+Nathalie: Merci.
+고마워요.
+Léa: Vous avez travaillé longtemps chez Maréchal ?
+마레샬에서 오래 일하셨어요?
+Nathalie: Six ans. D'abord serveuse, puis responsable de salle, puis directrice du restaurant de la Bastille. J'adorais ce métier. Vraiment.
+6년이요. 처음엔 서빙, 그다음엔 홀 매니저, 그다음엔 바스티유점 지점장. 이 일을 정말 사랑했어요. 진심으로요.
+Léa: Et qu'est-ce qui s'est passé ?
+그런데 무슨 일이 있었어요?
+Nathalie: La caisse. (elle boit un peu de café) Vous savez comment fonctionne une caisse enregistreuse moderne ?
+계산대요. (커피를 조금 마시며) 요즘 금전 등록기가 어떻게 돌아가는지 아세요?
+Karim: Un logiciel, un écran tactile, et chaque vente est enregistrée.
+소프트웨어랑 터치스크린이 있고, 판매가 하나하나 기록되죠.
+Nathalie: Exactement. Et depuis 2018, la loi oblige les restaurants à utiliser un logiciel certifié. Un logiciel qui ne peut pas effacer les ventes. Pour lutter contre la fraude à la TVA.
+맞아요. 그리고 2018년부터 법으로 식당은 인증된 소프트웨어를 써야 해요. 판매 기록을 지울 수 없는 소프트웨어요. 부가가치세 사기를 막으려고요.
+Léa: La TVA, c'est l'impôt sur ce qu'on achète ?
+부가가치세는 물건을 살 때 내는 세금이에요?
+Nathalie: Oui. Dans un restaurant, sur chaque addition, il y a dix pour cent de TVA. Le restaurant la reçoit du client et doit la reverser à l'État.
+네. 식당에선 계산서마다 10퍼센트의 부가가치세가 붙어요. 식당은 손님한테 그걸 받아서 국가에 다시 내야 하죠.
+Karim: Donc si une vente disparaît de la caisse…
+그러니까 판매 기록이 계산대에서 사라지면…
+Nathalie: … la TVA disparaît aussi. Et l'impôt sur les bénéfices. Et les cotisations sociales. Tout disparaît.
+…부가가치세도 사라지죠. 그리고 법인세도. 사회보장 분담금도. 전부 사라져요.
+Julien: Et vous avez découvert que des ventes disparaissaient.
+그리고 판매 기록이 사라지고 있다는 걸 알게 되셨군요.
+Nathalie: Il y a deux ans. Un soir, j'ai compté l'argent liquide dans la caisse. Mille huit cents euros. Puis j'ai imprimé le ticket Z.
+2년 전에요. 어느 날 밤, 계산대의 현금을 셌어요. 1,800유로. 그리고 Z 리포트를 출력했죠.
+Léa: Le ticket Z ? C'est quoi ?
+Z 리포트요? 그게 뭐예요?
+Nathalie: Le résumé de la journée. Le total de toutes les ventes, par carte et en espèces. Normalement, le chiffre en espèces doit être égal à l'argent dans la caisse.
+하루 요약이에요. 카드랑 현금으로 받은 모든 판매의 합계. 원래는 현금 수치가 계산대에 든 현금과 같아야 해요.
+Karim: Et ce n'était pas le cas.
+그런데 같지 않았군요.
+Nathalie: Le ticket Z disait mille huit cents euros. Parfait. Mais le lendemain matin, j'ai regardé le rapport sur l'ordinateur du bureau. Et là, pour la même journée, il y avait mille quatre cents euros en espèces.
+Z 리포트엔 1,800유로라고 나와 있었어요. 완벽했죠. 그런데 다음 날 아침 사무실 컴퓨터로 보고서를 봤는데, 같은 날 현금이 1,400유로로 돼 있었어요.
+Léa: Quatre cents euros de moins ? Pendant la nuit ?
+400유로가 줄었다고요? 밤사이에요?
+Nathalie: Quatre cents euros de moins. Pendant la nuit. Personne n'avait touché à la caisse. Le restaurant était fermé.
+400유로가 줄었어요. 밤사이에요. 아무도 계산대를 건드리지 않았어요. 식당은 문을 닫았고요.
+Julien: Comment c'est possible ?
+어떻게 그럴 수 있죠?
+Nathalie: C'est ce que je me suis demandé. J'ai regardé dans les détails. Des additions entières avaient disparu. Seulement des additions payées en espèces. Jamais par carte.
+저도 그게 궁금했어요. 자세히 봤죠. 계산서 몇 장이 통째로 사라졌더라고요. 현금으로 계산한 것만요. 카드 결제는 절대 아니고요.
+Karim: Parce que les paiements par carte laissent une trace à la banque.
+카드 결제는 은행에 흔적이 남으니까요.
+Nathalie: Exactement. Les espèces, elles, ne laissent aucune trace. Si l'addition disparaît du logiciel, l'argent n'a jamais existé. Officiellement.
+바로 그거예요. 현금은 흔적이 안 남아요. 소프트웨어에서 계산서가 사라지면 그 돈은 존재한 적이 없는 거죠. 공식적으로는요.
+Léa: Mais vous avez dit que le logiciel ne pouvait pas effacer les ventes. C'est la loi.
+그런데 소프트웨어는 판매 기록을 지울 수 없다고 하셨잖아요. 법이라면서요.
+Nathalie: Le logiciel efface les ventes en espèces. Officiellement, il est certifié. Mais il y a une fonction cachée. Un menu secret, qu'on ouvre avec un code. Et chaque nuit, à trois heures du matin, quelqu'un se connecte à distance, depuis le siège.
+그 소프트웨어는 현금 판매 기록을 지워요. 공식적으로는 인증을 받았죠. 그런데 숨은 기능이 있어요. 코드로 여는 비밀 메뉴요. 그리고 매일 밤 새벽 세 시에 본사에서 누군가 원격으로 접속해요.
+Karim: Un « zapper ». J'ai lu des articles là-dessus. Des logiciels qui suppriment automatiquement une partie des ventes. Environ vingt pour cent, souvent.
+«재퍼»군요. 그거에 관한 기사를 읽은 적 있어요. 판매 기록 일부를 자동으로 지우는 소프트웨어요. 대개 20퍼센트쯤.
+Nathalie: Chez nous, c'était vingt-deux pour cent des espèces. Chaque nuit. Dans chaque restaurant.
+우리 쪽은 현금의 22퍼센트였어요. 매일 밤. 모든 식당에서요.
+Julien: Comment savez-vous que ça venait du siège ?
+그게 본사에서 했다는 건 어떻게 아세요?
+Nathalie: L'historique des connexions. Le logiciel garde une trace de chaque connexion. Un utilisateur appelé « admin_finance », depuis une adresse du siège, boulevard Haussmann. Chaque nuit, entre trois heures et trois heures dix.
+접속 기록이요. 소프트웨어는 접속할 때마다 흔적을 남겨요. «admin_finance»라는 사용자가 오스만 대로에 있는 본사 주소에서 접속했어요. 매일 밤 세 시에서 세 시 10분 사이에요.
+Léa: Et vous avez fait quoi ?
+그래서 어떻게 하셨어요?
+Nathalie: Ce que tout directeur honnête aurait fait. J'ai écrit au directeur financier. Un e-mail poli. « J'ai constaté des écarts entre les tickets Z et les rapports. Pouvez-vous m'expliquer ? »
+정직한 지점장이라면 누구나 했을 일을 했죠. 재무 이사한테 메일을 썼어요. 정중하게요. «Z 리포트와 보고서 사이에 차이가 있는 것을 확인했습니다. 설명해 주실 수 있을까요?»
+Julien: Et il a répondu ?
+답장이 왔어요?
+Nathalie: Pas par écrit. Il m'a appelée. Il m'a dit : « Nathalie, c'est un bug informatique. Ne vous en occupez pas. Occupez-vous de vos clients. »
+글로는 안 왔어요. 전화가 왔죠. 이렇게 말했어요. «나탈리, 그건 전산 오류예요. 신경 쓰지 마세요. 손님들한테나 신경 쓰세요.»
+Karim: Un bug qui efface vingt-deux pour cent des espèces chaque nuit, à la même heure, depuis le siège. Bizarre, comme bug.
+매일 밤 같은 시간에 본사에서 현금의 22퍼센트를 지우는 오류라. 이상한 오류네요.
+Nathalie: C'est ce que j'ai pensé. Alors j'ai continué à noter les écarts. Pendant trois mois. Chaque jour. Dans un petit carnet. Et j'ai fait des copies des tickets Z.
+저도 그렇게 생각했어요. 그래서 계속 차이를 적었어요. 석 달 동안. 매일. 작은 수첩에요. 그리고 Z 리포트를 복사해 뒀죠.
+Julien: Vous en avez parlé à d'autres directeurs de restaurant ?
+다른 식당 지점장들한테도 얘기해 보셨어요?
+Nathalie: À deux collègues, en qui j'avais confiance. L'un m'a dit : « Ne cherche pas. Ça ne te regarde pas. » L'autre est devenu tout blanc et a changé de sujet.
+믿을 만한 동료 두 명한테요. 한 명은 «알려고 하지 마. 네 일 아니야»라고 했어요. 다른 한 명은 얼굴이 하얘지더니 화제를 돌렸고요.
+Léa: Ils savaient, eux aussi ?
+그 사람들도 알고 있었던 거예요?
+Nathalie: Ils se doutaient. Tout le monde se doutait. Mais personne ne voulait savoir vraiment. Quand on sait, on doit choisir. Et choisir, ça coûte cher.
+짐작은 했죠. 다들 짐작했어요. 그런데 아무도 진짜로 알고 싶어 하지 않았어요. 알게 되면 선택을 해야 하니까요. 그리고 선택에는 큰 대가가 따르죠.
+Karim: Et le siège ?
+그럼 본사는요?
+Nathalie: Le siège savait. Évidemment que le siège savait. C'est le siège qui se connectait chaque nuit. Ce n'est pas un employé de cuisine qui a inventé ce système.
+본사는 알고 있었어요. 당연히 알았죠. 매일 밤 접속한 게 본사였으니까요. 주방 직원이 이런 시스템을 만들어 낸 게 아니에요.
+Julien: Vous pensez que Jean-Claude Maréchal lui-même était au courant ?
+장클로드 마레샬 본인도 알고 있었다고 생각하세요?
+Nathalie: (elle rit amèrement) Monsieur Maréchal connaît le prix de chaque fourchette dans ses quarante restaurants. Il sait combien de café on sert chaque matin à la Bastille. Et il ne saurait pas où passent cinq millions d'euros par an ?
+(씁쓸하게 웃으며) 마레샬 씨는 식당 40곳의 포크 하나 가격까지 알아요. 바스티유점에서 매일 아침 커피가 몇 잔 나가는지도 알고요. 그런 사람이 1년에 500만 유로가 어디로 가는지 모른다고요?
+Léa: « Je suis cuisinier, pas comptable. » C'est ce qu'il nous a dit.
+«저는 요리사지, 회계사가 아니에요.» 저희한테 그렇게 말했어요.
+Nathalie: C'est sa phrase préférée. Il la dit à la télévision aussi. C'est un excellent comédien.
+그게 그 사람이 제일 좋아하는 말이에요. 텔레비전에서도 하죠. 대단한 배우예요.
+Julien: Avec tout le respect que je vous dois, madame Girard, ce que vous pensez de lui, ce n'est pas une preuve.
+실례지만 지라르 씨, 그분에 대한 생각은 증거가 아닙니다.
+Nathalie: Je sais. C'est pour ça que j'ai gardé les documents.
+알아요. 그래서 문서를 보관한 거예요.
+Léa: Vous avez gardé tout ça ?
+그걸 다 갖고 계세요?
+Nathalie: (elle sort une enveloppe de son sac) Tout. Le carnet, les copies des tickets, et les captures d'écran de l'historique des connexions.
+(가방에서 봉투를 꺼내며) 전부요. 수첩, Z 리포트 사본, 그리고 접속 기록 화면 캡처까지.
+Julien: (il ne touche pas l'enveloppe) Pourquoi vous ne l'avez pas donnée à la police ? Ou aux impôts ?
+(봉투에 손대지 않고) 왜 경찰이나 세무서에 내지 않으셨어요?
+Nathalie: Parce qu'une semaine après mon dernier e-mail, on m'a licenciée. Pour « faute grave ». Ils ont dit que j'avais volé dans la caisse.
+마지막 메일을 보내고 일주일 뒤에 해고당했거든요. «중대한 과실»로요. 제가 계산대에서 돈을 훔쳤다고 하더라고요.
+Léa: Quoi ? Mais c'est eux qui volaient !
+뭐라고요? 훔친 건 그 사람들이잖아요!
+Nathalie: Bien sûr. Mais devant le tribunal des prud'hommes, c'était ma parole contre la leur. Avec leurs avocats. J'ai perdu. Et après ça, qui croirait une directrice licenciée pour vol ?
+물론이죠. 그런데 노동 법원에선 제 말과 그 사람들 말의 싸움이었어요. 그쪽엔 변호사들이 있었고. 졌어요. 그 뒤로 절도로 해고된 지점장 말을 누가 믿겠어요?
+Julien: Nous. Si les documents sont authentiques.
+저희요. 문서가 진짜라면요.
+Nathalie: Ils le sont. Vérifiez. Vous verrez.
+진짜예요. 확인해 보세요. 보시면 알 거예요.
+Julien: On vérifiera. Toujours.
+확인할 겁니다. 언제나요.
+Karim: Madame Girard, vous savez où va l'argent ? Les vingt-deux pour cent qui disparaissent ?
+지라르 씨, 그 돈이 어디로 가는지 아세요? 사라지는 22퍼센트 말이에요.
+Nathalie: Pas exactement. Mais chaque semaine, un convoyeur passait récupérer les espèces. Pas une société de transport de fonds normale. Un homme seul, en voiture. Il venait de la part du siège.
+정확히는 몰라요. 그런데 매주 한 번 운반책이 현금을 가지러 왔어요. 정식 현금 수송 업체가 아니라, 차를 몰고 오는 남자 혼자요. 본사에서 보냈다고 했어요.
+Julien: Et l'argent déclaré, lui, allait à la banque.
+그리고 신고된 돈은 은행으로 갔고요.
+Nathalie: Oui. L'argent déclaré allait à la banque. L'argent effacé partait avec l'homme en voiture. (elle hésite) Et une fois, j'ai vu une enveloppe sur son siège passager. Il y avait un mot écrit dessus.
+네. 신고된 돈은 은행으로 갔어요. 지워진 돈은 차를 모는 그 남자랑 같이 사라졌고요. (망설이다가) 그리고 한번은 그 남자 조수석에 있는 봉투를 봤어요. 위에 단어 하나가 적혀 있었어요.
+Léa: Lequel ?
+어떤 단어요?
+Nathalie: « Vinalux ».
+«비날룩스».
+Karim: (il tape sur son téléphone) Vinalux… Une société au Luxembourg. Créée en 2017. Activité : « commerce de vins et spiritueux ». Siège : une adresse avec… cinquante autres sociétés.
+(휴대폰을 두드리며) 비날룩스… 룩셈부르크 회사야. 2017년 설립. 업종: «와인 및 주류 무역». 본사: 다른 회사 50개랑 같은 주소.
+Julien: Une société-écran.
+페이퍼컴퍼니네.
+Nathalie: Je ne sais pas ce que c'est. Mais je n'ai jamais oublié ce nom. Parce que le même mot était sur les factures de vin. Les factures de Belcastel Négoce.
+그게 뭔지는 몰라요. 그런데 그 이름은 한 번도 잊은 적이 없어요. 와인 송장에도 같은 단어가 있었거든요. 벨카스텔 네고스 송장에요.
+Léa: (elle arrête d'écrire) Le vin et l'argent liquide… vont au même endroit ?
+(필기를 멈추며) 와인이랑 현금이… 같은 곳으로 간다고요?
+Julien: (lentement) Si c'est vrai, ce n'est plus seulement une fraude au vin. C'est un système.
+(천천히) 그게 사실이라면 이건 더 이상 와인 사기만이 아니야. 하나의 시스템이지.
+Nathalie: Je vous l'ai dit. Si on m'avait écoutée il y a deux ans, tout ça serait déjà fini.
+말씀드렸잖아요. 2년 전에 누가 제 말을 들어 줬다면 이 모든 게 이미 끝났을 거예요.
+Julien: Madame Girard, on va prendre une copie de vos documents. Les originaux, vous les gardez. Dans un endroit sûr. Pas chez vous.
+지라르 씨, 문서 사본을 가져가겠습니다. 원본은 계속 갖고 계세요. 안전한 곳에요. 댁 말고요.
+Nathalie: Chez ma sœur, à Créteil. Personne ne la connaît.
+크레테유에 있는 언니 집에요. 아무도 언니를 몰라요.
+Léa: Madame Girard… pourquoi vous nous aidez maintenant ? Après deux ans ?
+지라르 씨… 왜 지금 저희를 도와주시는 거예요? 2년이나 지나서요?
+Nathalie: (elle regarde dehors) À cause de Moussa. La semaine dernière, il m'a appelée. Il m'a dit : « Il y a un plongeur qui pose des questions. Il n'est pas comme les autres. » Et j'ai pensé : c'est peut-être la dernière chance.
+(밖을 보며) 무사 때문이에요. 지난주에 전화가 왔어요. «질문을 하는 설거지 직원이 있어요. 다른 사람들이랑 달라요.» 그래서 생각했죠. 어쩌면 이게 마지막 기회일지도 모른다고.
+Karim: (doucement) Merci.
+(부드럽게) 고맙습니다.
+Nathalie: Ne me remerciez pas. Publiez. Et faites en sorte que Moussa ait des papiers un jour.
+고마워하지 말고 보도하세요. 그리고 언젠가 무사가 체류증을 받을 수 있게 해 주세요.
+Léa: (dans la rue, après le café) Le siège savait. Elle l'a dit clairement.
+(카페를 나와 길에서) 본사는 알고 있었다. 그 사람이 분명히 말했어.
+Julien: Elle l'a dit. Maintenant, il faut le prouver. Les connexions de « admin_finance » depuis le boulevard Haussmann, c'est une bonne piste.
+말은 했지. 이제 증명해야 해. 오스만 대로에서 접속한 «admin_finance» 기록이 좋은 단서야.
+Karim: Je peux vérifier l'adresse IP. Si elle appartient bien au siège de Maréchal, c'est très difficile à contester.
+IP 주소를 확인할 수 있어. 정말 마레샬 본사 것이라면 반박하기 아주 어려워.
+Léa: Karim, ça va ? Tu ne dis rien depuis tout à l'heure.
+카림, 괜찮아? 아까부터 아무 말도 안 하네.
+Karim: Je pense à Moussa. Il a pris un risque énorme pour nous. S'ils découvrent qu'il m'a donné le numéro de Nathalie…
+무사 생각을 하고 있어. 우리를 위해 엄청난 위험을 감수했잖아. 나탈리 번호를 나한테 준 게 들키면…
+Julien: Personne ne le saura. Nathalie ne dira rien. Et nous non plus.
+아무도 모를 거야. 나탈리는 말 안 할 거고, 우리도 마찬가지야.
+Karim: Et s'ils ont lu ses messages ? Son téléphone ? Elle a parlé de Moussa au téléphone, la semaine dernière.
+그 사람 메시지를 읽었다면? 휴대폰을? 지난주에 전화로 무사 얘기를 했잖아.
+Julien: (il s'arrête) Tu as raison. Il faut être plus prudents. À partir de maintenant, avec Nathalie et Moussa, on communique seulement par messagerie chiffrée.
+(멈춰 서며) 네 말이 맞아. 더 조심해야 해. 지금부터 나탈리랑 무사하고는 암호화 메신저로만 연락하자.
+Léa: Messagerie chiffrée ? Comme Ariane avec nous ?
+암호화 메신저? 아리안이 우리한테 하는 것처럼?
+Julien: Comme Ariane. Elle a compris avant nous à quel point c'est dangereux.
+아리안처럼. 그 사람은 우리보다 먼저 이게 얼마나 위험한지 알았던 거지.
+Karim: Je m'en occupe ce soir. Je leur installe l'application et je leur explique comment l'utiliser.
+오늘 저녁에 내가 처리할게. 앱을 깔아 주고 쓰는 법을 알려 줄게.
+Léa: Et Moussa ? Il travaille ce soir, à Rungis ?
+그럼 무사는? 오늘 밤 룅지스에서 일해?
+Karim: Ce soir et demain. Et moi aussi, normalement. Je retourne à la plonge dimanche.
+오늘 밤이랑 내일. 원래는 나도. 일요일에 다시 설거지하러 가.
+Julien: Non. Tu n'y retournes pas. C'est devenu trop risqué. Tu as ce qu'il faut. Et les plongeurs de nuit partent sans prévenir, tu te souviens ? C'est la responsable qui te l'a dit.
+아니. 다시 가지 마. 이제 너무 위험해졌어. 필요한 건 다 얻었잖아. 그리고 야간 설거지 직원들은 말없이 그만둔다며, 기억나? 책임자가 직접 그랬잖아.
+Karim: (l'après-midi, à son bureau) Léa, viens voir. Je compare les tickets Z de Nathalie avec les rapports du siège.
+(오후, 자기 책상에서) 레아, 와서 봐. 나탈리의 Z 리포트를 본사 보고서랑 비교하고 있어.
+Léa: Qu'est-ce que tu cherches ?
+뭘 찾는 거야?
+Karim: Des incohérences. Si Nathalie a inventé ces documents, il y aura des erreurs. Une date qui tombe un dimanche, un jour où le restaurant était fermé, un prix qui ne correspond pas à la carte de l'époque.
+앞뒤가 안 맞는 부분. 나탈리가 이 문서들을 지어냈다면 실수가 있을 거야. 일요일에 해당하는 날짜라든가, 식당이 문 닫은 날이라든가, 그 당시 메뉴 가격과 안 맞는 가격 같은 거.
+Léa: Et tu as trouvé des erreurs ?
+그래서 실수를 찾았어?
+Karim: Aucune. Les dates correspondent aux jours d'ouverture. Les prix correspondent aux anciennes cartes, que j'ai retrouvées sur internet. Les numéros de ticket se suivent parfaitement.
+하나도. 날짜는 영업일과 맞아. 가격은 내가 인터넷에서 찾은 옛날 메뉴판과 맞고. 영수증 번호도 완벽하게 이어져.
+Léa: Donc les documents sont authentiques ?
+그럼 문서는 진짜야?
+Karim: Ils sont cohérents. C'est un très bon signe. Et ce n'est pas tout. J'ai vérifié l'adresse IP de « admin_finance ».
+앞뒤가 맞아. 아주 좋은 신호지. 그게 다가 아니야. «admin_finance»의 IP 주소를 확인했어.
+Léa: Et alors ?
+그래서?
+Karim: Elle appartient à un bloc d'adresses enregistré au nom de « Groupe Maréchal SAS ». Boulevard Haussmann. Exactement comme Nathalie l'a dit.
+«마레샬 그룹 주식회사» 명의로 등록된 주소 블록에 속해 있어. 오스만 대로. 나탈리 말 그대로야.
+Léa: Donc le siège savait. Et maintenant, on peut le prouver.
+그러니까 본사는 알고 있었고, 이제 증명할 수 있다는 거네.
+Karim: On peut prouver que les connexions venaient du siège. Pas encore qui était derrière l'écran. Mais c'est déjà énorme.
+접속이 본사에서 왔다는 건 증명할 수 있어. 화면 뒤에 누가 있었는지는 아직 아니고. 그래도 그것만으로도 엄청난 거야.
+Camille: (elle se penche sur l'écran) Et l'homme en voiture qui récupère les espèces ? On pourrait le suivre, un jour de collecte.
+(화면 쪽으로 몸을 숙이며) 그럼 현금을 가지러 오는 차 탄 남자는? 수거하는 날에 따라가 볼 수 있을 텐데.
+Karim: Camille, tu viens de passer une semaine dans les vignes. Repose-toi un peu.
+카미유, 넌 방금 포도밭에서 일주일을 보냈잖아. 좀 쉬어.
+Hélène: (l'après-midi, à la rédaction, devant les copies) Je n'en reviens pas. Vingt-deux pour cent des espèces. Chaque nuit. Dans quarante restaurants.
+(오후, 편집국에서 사본을 앞에 두고) 믿을 수가 없네. 현금의 22퍼센트. 매일 밤. 식당 40곳에서.
+Karim: J'ai fait le calcul. Un restaurant Maréchal fait environ trois millions d'euros de chiffre d'affaires par an. Disons vingt pour cent en espèces. Ça fait six cent mille euros.
+계산해 봤어. 마레샬 식당 한 곳의 매출이 1년에 약 300만 유로야. 현금이 20퍼센트라고 치면 60만 유로.
+Léa: Et vingt-deux pour cent de six cent mille…
+그리고 60만의 22퍼센트면…
+Karim: … environ cent trente mille euros effacés par restaurant et par an. Multiplié par quarante restaurants : plus de cinq millions d'euros par an. Qui n'existent pas pour l'État.
+…식당 한 곳당 1년에 약 13만 유로가 지워져. 식당 40곳을 곱하면 1년에 500만 유로가 넘어. 국가 입장에선 존재하지 않는 돈이지.
+Camille: Cinq millions par an… Depuis combien de temps ?
+1년에 500만… 언제부터?
+Karim: Si ça a commencé en 2018, avec la loi sur les logiciels, ça fait sept ans. Plus de trente-cinq millions d'euros.
+2018년 소프트웨어 법이 생겼을 때부터라면 7년이야. 3,500만 유로가 넘어.
+Hélène: (elle s'assoit) Ce n'est plus une histoire de vin. C'est une affaire de fraude fiscale. Massive.
+(앉으며) 이건 더 이상 와인 이야기가 아니야. 조세 포탈 사건이지. 대규모의.
+Julien: Et le vin et l'argent liquide finissent tous les deux chez Vinalux, au Luxembourg.
+그리고 와인 돈이랑 현금이 둘 다 룩셈부르크의 비날룩스로 흘러가지.
+Aubry: (au haut-parleur) Prudence, mes amis. Une enveloppe vue sur un siège de voiture n'est pas une preuve de blanchiment. Il vous faudra des documents bancaires, ou au moins des factures.
+(스피커폰으로) 신중하세요, 여러분. 차 좌석에서 본 봉투 하나는 돈세탁의 증거가 아닙니다. 은행 서류나, 적어도 송장이 필요할 겁니다.
+Julien: Nathalie parle aussi des factures de vin de Belcastel Négoce, qui mentionnent Vinalux.
+나탈리는 비날룩스가 적힌 벨카스텔 네고스 와인 송장 얘기도 했어요.
+Aubry: Alors il vous faut une de ces factures. Une seule suffira. Et la version de Maréchal, bien entendu. Le contradictoire, toujours.
+그럼 그 송장이 하나 필요하겠군요. 한 장이면 충분합니다. 그리고 물론 마레샬 측의 입장도요. 반론권 보장, 언제나요.
+Léa: On a déjà sa version. « Je suis cuisinier, pas comptable. »
+그 사람 입장은 이미 들었어요. «저는 요리사지, 회계사가 아니에요.»
+Aubry: (on l'entend rire) Une excellente réponse, pour un tribunal. Très mauvaise, pour un lecteur.
+(웃음소리가 들린다) 법정에선 아주 훌륭한 대답이지요. 독자에겐 아주 형편없고요.
+Hélène: Bon. Karim, tu vérifies les documents de Nathalie : les dates, les montants, les connexions. Julien, tu cherches une facture Vinalux. Léa, tu prépares une demande officielle à la préfecture.
+좋아. 카림, 나탈리 문서를 확인해. 날짜, 금액, 접속 기록. 쥘리앵은 비날룩스 송장을 찾고. 레아는 경찰청에 보낼 공식 요청서를 준비해.
+Léa: À la préfecture ? Pour quoi ?
+경찰청이요? 뭘 위해서요?
+Hélène: Pour les rapports d'inspection d'hygiène des restaurants Maréchal. Karim a trouvé il y a trois semaines qu'il manquait des données pour 2024. Je veux savoir pourquoi.
+마레샬 식당들의 위생 점검 보고서. 카림이 3주 전에 2024년 자료가 빠져 있다는 걸 찾아냈잖아. 이유를 알고 싶어.
+Karim: Les données manquantes… J'avais complètement oublié. C'étaient les restaurants Maréchal ?
+빠진 자료… 완전히 잊고 있었네. 그게 마레샬 식당들이었어?
+Hélène: Je viens de vérifier. Sur les quarante restaurants, trente-huit n'ont aucun rapport publié pour 2024. Aucun.
+방금 확인했어. 식당 40곳 중 38곳이 2024년 보고서가 하나도 공개되지 않았어. 단 하나도.
+Julien: Trente-huit sur quarante. Ce n'est pas un hasard.
+40곳 중 38곳. 우연이 아니야.
+Léa: (son téléphone sonne, elle regarde l'écran) C'est Nathalie. (elle décroche) Allô, madame Girard ? … Quoi ? … Vous êtes sûre ? … D'accord. Restez chez votre sœur. Ne rentrez pas chez vous.
+(휴대폰이 울리자 화면을 보며) 나탈리예요. (받는다) 여보세요, 지라르 씨? … 네? … 확실해요? … 알겠어요. 언니 집에 계세요. 댁으로 돌아가지 마세요.
+Julien: Qu'est-ce qui se passe ?
+무슨 일이야?
+Léa: (elle raccroche, pâle) Elle est passée chez elle prendre des affaires. La porte était ouverte. Tout était retourné. Les tiroirs, les armoires, son ordinateur…
+(창백한 얼굴로 전화를 끊으며) 짐 가지러 집에 들렀대요. 문이 열려 있었대요. 다 뒤집혀 있었고요. 서랍, 옷장, 컴퓨터까지…
+Hélène: Ils ont volé quelque chose ?
+뭘 훔쳐 갔어?
+Léa: Rien. Ni bijoux, ni argent. Seulement… les vieux classeurs de son travail chez Maréchal.
+아무것도요. 보석도, 돈도 안 가져갔대요. 오직… 마레샬에서 일할 때 쓰던 옛날 서류철만요.
+Julien: (lentement) Quelqu'un savait qu'elle nous voyait aujourd'hui.
+(천천히) 누군가 그 사람이 오늘 우리를 만난다는 걸 알고 있었어.
+
+## 주요 단어
+la caisse enregistreuse | 라 께스 앙르지스트뢰즈 | 금전 등록기 (B1)
+le logiciel | 르 로지시엘 | 소프트웨어 (B1)
+les espèces (f. pl.) | 레제스뻬스 | 현금 (B1)
+la TVA | 라 떼베아 | 부가가치세 (B1)
+reverser → reversé | 르베르쎄 → 르베르쎄 | (받은 돈을) 납부하다, 넘겨주다 (B2)
+les cotisations sociales | 레 꼬띠자시옹 쏘시알 | 사회보장 분담금 (C1)
+le ticket Z | 르 띠께 제드 | (계산대) 일일 마감 보고서 (B2)
+l'écart (m.) | 레까르 | 차이, 격차 (B2)
+à distance | 아 디스땅스 | 원격으로 (B1)
+l'historique (m.) des connexions | 리스또리끄 데 꼬넥시옹 | 접속 기록 (B2)
+le siège (social) | 르 씨에쥬 | 본사 (B1)
+la faute grave | 라 포뜨 그라브 | 중대한 과실 (B2)
+le tribunal des prud'hommes | 르 트리뷔날 데 쁘뤼돔 | 노동 법원 (C1)
+le convoyeur | 르 꽁부아예르 | 운반책, 수송원 (B2)
+la fraude fiscale | 라 프로드 피스깔 | 조세 포탈 (B2)
+le blanchiment (d'argent) | 르 블랑시망 | 돈세탁 (C1)
+retourner → retourné | 르뚜르네 → 르뚜르네 | 뒤집다, 뒤지다 (B1)
+
+## 문법·표현 정리
+**Le logiciel efface les ventes en espèces (B1):** en espèces = 현금으로 (= en liquide). 반대는 par carte(카드로), par chèque(수표로). Vous payez comment ? — En espèces.
+**Le siège savait (B1):** imparfait는 과거의 지속적 상태를 나타냅니다. Le siège savait.(본사는 알고 있었다) 한 번의 행위가 아니라 계속된 앎이므로 passé composé가 아니라 imparfait.
+**Si on m'avait écoutée, … (B2):** si + plus-que-parfait → conditionnel présent/passé. 과거 사실과 반대되는 가정. Si on m'avait écoutée il y a deux ans, tout ça serait déjà fini.(2년 전에 누가 내 말을 들어 줬다면 이 모든 게 이미 끝났을 것이다) écoutée는 me(나탈리, 여성)에 일치.
+**Je n'en reviens pas (B2, 구어):** "믿을 수가 없다, 기가 막히다". revenir de = ~에서 (놀람에서) 회복하다. 직역하면 "거기서 돌아오지 못하겠다".
+**faire en sorte que + 접속법 (B2):** "~하도록 하다, ~이 되게 하다". Faites en sorte que Moussa ait des papiers un jour.(언젠가 무사가 체류증을 받도록 해 주세요)
+**obliger quelqu'un à + 동사원형 (B1):** "~에게 ~하도록 의무를 지우다". La loi oblige les restaurants à utiliser un logiciel certifié.
+**ne… aucun(e) (B1):** "어떤 ~도 없다". Les espèces ne laissent aucune trace. · Trente-huit n'ont aucun rapport publié. 단독으로도: Aucun.(하나도 없어)
+**plus-que-parfait (B2):** 과거의 어느 시점보다 더 이전의 일. Des additions entières avaient disparu.(계산서들이 통째로 사라져 있었다) · Personne n'avait touché à la caisse.(아무도 계산대를 건드리지 않았었다)
+**조건법 과거: "~했을 것이다" (B2):** Ce que tout directeur honnête aurait fait.(정직한 지점장이라면 누구나 했을 일) 과거에 대한 가정·추측입니다.
+**C'est eux qui… (A2~B1, 구어):** 강조 구문. 문법적으로는 Ce sont eux qui… 이지만 구어에서는 C'est eux가 일반적입니다. C'est eux qui volaient !(훔친 건 바로 그들이었다!)
+**de la part de (B1):** "~의 대리로, ~이 보내서". Il venait de la part du siège.(본사에서 보내서 왔다) 전화에서: C'est de la part de qui ?(누구시라고 전할까요?)
+**ni… ni… (B1):** "~도 ~도 아니다". Ni bijoux, ni argent.(보석도 돈도 아니다) 동사와 함께: Ils n'ont pris ni les bijoux ni l'argent.
+**곱셈·백분율 표현 (B1):** vingt-deux pour cent de six cent mille(60만의 22%) · multiplié par quarante(40을 곱하면) · plus de cinq millions d'euros par an(연간 500만 유로 이상)
+**bien entendu (B2):** "물론, 당연히" (= bien sûr). 약간 격식 있는 표현. Et la version de Maréchal, bien entendu.
