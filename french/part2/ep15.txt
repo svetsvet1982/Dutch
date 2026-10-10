@@ -1,0 +1,347 @@
+# 2부 15화. Le fil rouge (붉은 실)
+수준: A2~C1 혼합 (중심 C1) | 장소: 엔캥 은행 지점·편집국·퐁데자르(밤)·다음 날 아침 쥘리앵의 원룸 | 시간: 11월 둘째 주 금요일 밤 → 토요일 아침
+핵심 표현: Ce n'est que le début · Or, … · Flash spécial · Ne vous retournez pas
+
+## 대화
+Banquier: (vendredi, à neuf heures, dans un bureau feutré de la Banque Hennequin) Madame Vasseur, merci d'être venue. Un café ?
+(금요일 아침 아홉 시, 엔캥 은행의 조용한 사무실에서) 바쇠르 씨, 와 주셔서 감사합니다. 커피 하시겠어요?
+Hélène: Volontiers. Et venons-en directement au fait, si vous le permettez. Vous souhaitiez « réexaminer notre ligne de crédit ».
+좋습니다. 그리고 괜찮으시다면 바로 본론으로 들어가죠. 저희 신용 한도를 «재검토»하고 싶으시다고요.
+Banquier: (il ouvre un dossier, mal à l'aise) C'est-à-dire… Notre comité des risques s'interroge sur l'exposition juridique de votre journal. Plusieurs procédures sont annoncées. Cinq millions d'euros réclamés par une seule société…
+(서류를 펼치며 불편한 기색으로) 그러니까… 저희 리스크 위원회에서 귀사의 법적 리스크 노출을 우려하고 있습니다. 여러 소송이 예고돼 있고요. 한 회사가 청구한 금액만 500만 유로라…
+Hélène: Une procédure-bâillon, annoncée par lettre, jamais déposée. Rien de plus. Et votre comité s'est réuni quand, exactement ?
+편지로 예고만 하고 실제로 제기된 적은 없는 재갈 소송이죠. 그 이상은 아무것도 아니에요. 그런데 위원회는 정확히 언제 열렸나요?
+Banquier: Mardi.
+화요일이요.
+Hélène: Mardi. Soit le lendemain de l'envoi de nos questions à Valmont, qui est également votre client. Et deux jours avant notre publication.
+화요일. 그러니까 저희가 발몽에 질문지를 보낸 다음 날이네요. 발몽도 이 은행 고객이고요. 그리고 저희 보도 이틀 전이죠.
+Banquier: (il rougit) Je ne vois pas le rapport.
+(얼굴을 붉히며) 무슨 관련이 있는지 모르겠습니다.
+Hélène: Moi, je le vois. Et nos lecteurs le verraient aussi, si nous écrivions qu'une banque dont un administrateur siège au conseil de la fondation Orsenne a menacé de couper le crédit d'un journal au moment précis où celui-ci enquêtait sur l'un de ses clients.
+저는 보여요. 그리고 저희 독자들도 보겠죠. 이사 한 명이 오르센 재단 이사회에 있는 은행이, 한 언론사가 자기 고객을 취재하던 바로 그 순간에 그 언론사의 신용을 끊겠다고 위협했다고 저희가 쓴다면요.
+Banquier: (un long silence, il referme le dossier) Je pense… qu'il y a eu un malentendu. Votre ligne de crédit est maintenue. Aux mêmes conditions.
+(긴 침묵 후 서류를 덮으며) 제 생각엔… 오해가 있었던 것 같습니다. 귀사의 신용 한도는 유지됩니다. 같은 조건으로요.
+Hélène: (elle se lève) Je n'en doutais pas. Merci pour le café.
+(일어서며) 그럴 줄 알았어요. 커피 잘 마셨습니다.
+Hélène: (dans le taxi, au téléphone) Bernard ? C'est Hélène. La banque a reculé.
+(택시 안에서 전화로) 베르나르? 엘렌이에요. 은행이 물러섰어요.
+Aubry: (au téléphone) Je n'en attendais pas moins. De mon côté, la plainte contre X pour accès frauduleux à votre système informatique a été déposée ce matin.
+(전화로) 그 정도는 예상했죠. 제 쪽에서는 오늘 아침 정보 시스템 무단 접속 건으로 성명 불상자 상대 고소장을 접수했어요.
+Hélène: Contre X ? Pas contre Argos ?
+성명 불상자요? 아르고스가 아니라?
+Aubry: Une adresse IP ne suffit pas à désigner un coupable. Laissons les enquêteurs remonter jusqu'à eux. S'ils y arrivent, l'accusation viendra de l'État, pas de nous. C'est beaucoup plus solide.
+IP 주소만으로는 범인을 특정할 수 없어요. 수사관들이 그들까지 거슬러 올라가게 둡시다. 성공하면 혐의는 우리가 아니라 국가가 제기하는 거죠. 훨씬 탄탄하고요.
+Hélène: Et beaucoup plus long.
+그리고 훨씬 오래 걸리겠죠.
+Aubry: La justice est lente, Hélène. Mais elle a de la mémoire. (un silence) Et ce soir ? Ce rendez-vous dont vous ne m'avez rien dit ?
+사법은 느려요, 엘렌. 하지만 기억력이 좋죠. (침묵) 그런데 오늘 밤은요? 저한테 아무 말도 안 한 그 약속은?
+Hélène: (elle sourit) Vous voyez ? Même à vous, je ne dis rien. Les mesures de sécurité fonctionnent.
+(웃으며) 보셨죠? 변호사님한테도 아무 말 안 하잖아요. 보안 조치가 효과가 있네요.
+Aubry: (il rit) Touché. Soyez prudents.
+(웃으며) 한 방 먹었네요. 조심들 하세요.
+Karim: (à la rédaction, à onze heures, quand Hélène revient) Alors ?
+(오전 열한 시, 엘렌이 돌아오자 편집국에서) 어떻게 됐어요?
+Hélène: Maintenue. Aux mêmes conditions. Il a parlé de « malentendu ».
+유지. 같은 조건으로. «오해»였대.
+Camille: (elle rit) Le malentendu le plus rapide de l'histoire bancaire.
+(웃으며) 은행 역사상 가장 빨리 풀린 오해네.
+Karim: Et j'ai des nouvelles. Roux et Vidal ont été présentés à un juge d'instruction ce matin. Mis en examen tous les deux. Roux pour corruption passive. Vidal pour corruption active et abus de biens sociaux.
+그리고 소식이 있어요. 루와 비달이 오늘 아침 예심 판사 앞에 섰어요. 둘 다 피의자로 입건됐어요. 루는 수뢰, 비달은 증뢰와 회사 자산 남용 혐의로요.
+Léa: Mis en examen… Ça veut dire coupables ?
+피의자 입건… 그럼 유죄라는 뜻이에요?
+Julien: Non. Ça veut dire qu'il existe des indices graves ou concordants qu'ils aient participé aux faits. Ils restent présumés innocents. Mais un juge d'instruction a estimé que nos documents valaient une enquête judiciaire.
+아니. 그 범행에 가담했다는 중대하거나 일치하는 정황이 있다는 뜻이야. 여전히 무죄 추정이고. 하지만 예심 판사가 우리 문서가 사법 수사를 할 가치가 있다고 판단한 거지.
+Karim: Et Masson, dans les Vosges ? Convoqué par les gendarmes lundi. Leclerc aussi.
+그리고 보주의 마송은요? 월요일에 헌병대 소환이래요. 르클레르도요.
+Hélène: Bien. Maintenant, écoutez-moi. Ce soir, Julien et Léa vont au rendez-vous d'Ariane. Camille assure la sécurité à distance. Personne d'autre ne doit savoir où ni quand. Rien dans le calendrier. Rien par mail.
+좋아. 이제 내 말 들어. 오늘 밤 쥘리앵과 레아가 아리안과의 약속에 간다. 카미유는 멀리서 경호를 맡고. 그 밖에 아무도 장소와 시간을 알아선 안 돼. 캘린더에도, 메일에도 아무것도 남기지 마.
+Léa: Pourquoi moi ? Ariane a toujours écrit à Julien.
+왜 저예요? 아리안은 늘 쥘리앵한테 썼잖아요.
+Julien: Parce que sa lettre sur Canal-Nord t'était adressée. À toi, pas à moi. Tu te souviens ?
+카날노르에 관한 그 편지는 너한테 온 거였잖아. 내가 아니라 너한테. 기억나?
+Léa: (elle hoche la tête) Je ne l'oublierai jamais.
+(고개를 끄덕이며) 절대 못 잊죠.
+Julien: Elle t'a choisie très tôt. Je ne sais pas pourquoi. Ce soir, on va peut-être le découvrir.
+아주 일찍부터 널 골랐어. 이유는 모르겠고. 오늘 밤 알게 될지도 모르지.
+Patricia: (à treize heures, chez Ahmet, elle fait signe à Léa) Marie ! Pardon… Léa ! Ici !
+(오후 한 시, 아흐메트네 가게에서 레아에게 손짓하며) 마리! 아니… 레아! 여기!
+Léa: (elle s'assoit en face d'elle) Bonjour, Patricia. J'ai tenu ma promesse.
+(그녀 맞은편에 앉으며) 안녕하세요, 파트리시아. 약속 지켰어요.
+Ahmet: (il arrive avec son carnet, il regarde Léa, il fronce les sourcils) Toi… Tu es venue ici avec le journaliste. Et avec Rachid. Il y a un mois.
+(수첩을 들고 와서 레아를 보며 눈썹을 찌푸린다) 너… 기자랑 같이 여기 왔었지. 라시드랑도. 한 달 전에.
+Léa: (elle rougit) Oui. C'est moi.
+(얼굴을 붉히며) 네. 저예요.
+Ahmet: (il éclate de rire) C'est toi, la petite des journaux ! Les ouvriers de Rapid'Œuvre ont été payés ce matin ! Ils ont remboursé tout mon carnet de crédit ! Tout !
+(웃음을 터뜨리며) 네가 그 신문에 나온 아가씨구나! 라피드 외브르 일꾼들이 오늘 아침 돈을 받았어! 내 외상 장부를 전부 갚았다고! 전부!
+Patricia: (elle rit) Tu vois ? Tout le quartier te connaît, maintenant.
+(웃으며) 봤지? 이제 온 동네가 널 알아.
+Ahmet: Aujourd'hui, c'est la maison qui offre. Deux kebabs, deux thés. Et je ne veux pas entendre « non ».
+오늘은 가게에서 쏜다. 케밥 둘, 차 둘. 그리고 «아니요»는 듣고 싶지 않아.
+Léa: Merci, Ahmet.
+고마워요, 아흐메트 씨.
+Patricia: (quand il est parti) J'ai reçu un appel d'une entreprise de BTP. Une petite. Honnête, apparemment. Ils cherchent une assistante qui connaît bien les situations de travaux. (elle sourit) Les vraies.
+(그가 가자) 건설 회사에서 전화가 왔어. 작은 회사. 정직한 데라나 봐. 기성 청구서를 잘 아는 보조원을 찾는대. (웃으며) 진짜 기성 청구서.
+Léa: C'est merveilleux !
+정말 잘됐네요!
+Patricia: C'est Mehdi, le syndicaliste, qui leur a donné mon nom. Il a dit : « Elle a dit la vérité à la police. Ce genre de personne est rare. »
+노조원 메디가 내 이름을 알려 줬대. «경찰한테 진실을 말한 사람이다. 그런 사람은 드물다»라고 했대.
+Léa: Il a raison.
+그분 말이 맞아요.
+Patricia: (elle prend sa main) Et toi, Léa ? Tu vas faire quoi, maintenant ?
+(그녀의 손을 잡으며) 그럼 너는, 레아? 이제 뭐 할 거야?
+Léa: (elle regarde par la fenêtre, vers la grue immobile) Continuer. Je crois que je ne sais faire que ça.
+(창밖으로 멈춰 선 크레인을 바라보며) 계속해야죠. 그것밖에 할 줄 모르는 것 같아요.
+Patricia: Alors continue. Mais mange bien. Et dors un peu.
+그럼 계속해. 대신 잘 챙겨 먹고. 잠도 좀 자고.
+Léa: (elle rit) Promis. Encore une promesse.
+(웃으며) 약속해요. 또 약속이네요.
+Camille: (à vingt et une heures quarante-cinq, dans sa voiture, quai de Conti) Je vous vois tous les deux. Je reste ici. Si quelque chose ne va pas, vous dites « Il pleut à Lyon ». Je suis là en trente secondes.
+(밤 아홉 시 사십오 분, 콩티 강변의 차 안에서) 두 사람 다 보여. 난 여기 있을게. 뭔가 이상하면 «리옹에 비가 와»라고 해. 30초 안에 갈게.
+Léa: (dans son oreillette) Encore Lyon.
+(이어폰에 대고) 또 리옹이네.
+Camille: Ça a porté chance la dernière fois.
+지난번에 행운을 가져다줬잖아.
+Léa: (à vingt et une heures cinquante, ils marchent sur le quai vers le pont) Julien… Mercredi, sur le toit, tu as parlé de ton père. Son plus grand article.
+(밤 아홉 시 오십 분, 다리를 향해 강변을 걸으며) 쥘리앵… 수요일에 옥상에서 아버님 얘기를 했잖아요. 인생 최고의 기사요.
+Julien: (il marche un moment sans répondre) C'était à Bastia. J'avais quinze ans. Il enquêtait sur des marchés publics truqués. Le port, les routes, un nouvel hôpital.
+(한동안 대답 없이 걷다가) 바스티아에서였어. 난 열다섯 살이었고. 아버지는 조작된 공공 계약을 취재하고 계셨어. 항구, 도로, 새 병원.
+Léa: Comme Canal-Nord.
+카날노르처럼요.
+Julien: Comme Canal-Nord. En plus petit. Ou peut-être pas. (un silence) Un soir, il est rentré et il a dit à ma mère : « Cette fois, ça remonte très haut. Jusqu'à Paris. »
+카날노르처럼. 규모는 작았지만. 아니면 아니었을지도. (침묵) 어느 날 저녁 집에 와서 어머니한테 그러셨어. «이번엔 아주 높은 데까지 올라가. 파리까지.»
+Léa: Et ensuite ?
+그다음엔요?
+Julien: Son journal a refusé de publier. Trois semaines plus tard, il est mort. Crise cardiaque, à quarante-six ans. C'est ce que dit le certificat.
+신문사가 보도를 거부했어. 3주 뒤에 돌아가셨지. 마흔여섯에 심장마비. 사망 진단서에는 그렇게 적혀 있어.
+Léa: (doucement) « C'est ce que dit le certificat »… Tu n'y crois pas ?
+(조용히) «사망 진단서에는 그렇게 적혀 있다»… 안 믿어요?
+Julien: Je ne sais pas. Je n'ai jamais pu vérifier. Ses carnets ont disparu. Ma mère ne veut pas en parler. (il s'arrête au début du pont) C'est pour ça que je vérifie tout, Léa. Toujours. Parce que la seule chose que je n'ai jamais pu vérifier, c'est celle qui compte le plus pour moi.
+모르겠어. 한 번도 확인할 수가 없었어. 아버지 수첩은 사라졌고. 어머니는 그 얘기를 하려 하지 않으셔. (다리 입구에서 멈춰 서며) 그래서 난 모든 걸 확인하는 거야, 레아. 언제나. 내가 끝내 확인하지 못한 단 하나가 나한테 가장 중요한 거니까.
+Léa: (elle pose la main sur son bras) Un jour, tu vérifieras. Et je t'aiderai.
+(그의 팔에 손을 얹으며) 언젠가 확인하게 될 거예요. 그리고 제가 도울게요.
+Julien: (il sourit, ému) Allez. Ariane nous attend. Elle n'aime pas les retards.
+(감동한 듯 웃으며) 가자. 아리안이 기다려. 늦는 거 싫어할 거야.
+Léa: (sur le pont des Arts, le vent est froid, la Seine est noire) Il n'y a personne. Juste un homme qui promène son chien.
+(퐁데자르 위. 바람이 차갑고 센강은 검다) 아무도 없어요. 개 산책시키는 남자 한 명뿐이에요.
+Julien: Il est vingt-deux heures moins deux. Elle viendra. Elle n'a jamais été en retard d'une seule enveloppe.
+열 시 이 분 전이야. 올 거야. 봉투 하나 늦은 적이 없잖아.
+Léa: (elle regarde le Louvre, tout illuminé) C'est beau, Paris, la nuit. On oublie que derrière la beauté, il y a…
+(불이 환하게 켜진 루브르를 바라보며) 밤의 파리는 아름답네요. 그 아름다움 뒤에 뭐가 있는지 잊게 돼요…
+Julien: Des factures. Toujours des factures.
+송장이지. 언제나 송장.
+Ariane: (une voix de femme, derrière eux, calme) Ne vous retournez pas.
+(뒤에서 들려오는 차분한 여자 목소리) 돌아보지 마세요.
+Léa: (elle se fige)
+(얼어붙는다) …!
+Ariane: Je suis assise sur le banc, derrière vous. Restez face à la Seine. Si vous vous retournez, je pars, et vous n'entendrez plus jamais parler de moi.
+당신들 뒤 벤치에 앉아 있어요. 센강 쪽을 보고 계세요. 돌아보면 전 떠나고, 다시는 제 소식을 듣지 못할 거예요.
+Julien: (calme, sans bouger) Nous ne nous retournerons pas. Bonsoir, Ariane.
+(움직이지 않고 침착하게) 돌아보지 않을게요. 안녕하세요, 아리안.
+Ariane: Bonsoir, monsieur Marchetti. Bonsoir, Léa. (un silence) Vous avez bien travaillé. Mieux que je ne l'espérais.
+안녕하세요, 마르케티 씨. 안녕, 레아. (침묵) 잘해 주셨어요. 기대보다 훨씬 더요.
+Léa: (la voix tremblante) Pourquoi moi ? Votre lettre sur Canal-Nord… pourquoi elle m'était adressée ?
+(떨리는 목소리로) 왜 저예요? 카날노르에 관한 편지… 왜 저한테 보내셨어요?
+Ariane: Parce que les gens comme Julien, ils les connaissent. Ils les surveillent depuis des années. Une stagiaire de vingt-quatre ans, personne ne la surveille. Personne ne la prend au sérieux. Et c'est précisément ce qui la rend dangereuse.
+쥘리앵 같은 사람들은 그들이 알고 있으니까요. 몇 년째 감시하고 있죠. 스물네 살 수습기자는 아무도 감시하지 않아요. 아무도 진지하게 여기지 않죠. 그리고 바로 그게 그 사람을 위험하게 만들어요.
+Léa: Ils me surveillent, maintenant. Ils ont glissé une photo sous ma porte.
+이제는 저를 감시해요. 제 집 문 밑에 사진을 밀어 넣었어요.
+Ariane: Je sais. C'était Argos. (un silence) Je suis désolée. C'est le prix. Je le paie aussi, d'une autre façon.
+알아요. 아르고스였어요. (침묵) 미안해요. 그게 대가예요. 저도 다른 방식으로 치르고 있어요.
+Julien: Vous avez dit dans votre message que Pujol n'était qu'un pion. Et que Vinalux n'était qu'un tuyau.
+메시지에서 퓌졸은 졸에 불과하고, 비날룩스는 파이프에 불과하다고 했죠.
+Ariane: Vous avez suivi l'argent jusqu'à Luxembourg, puis jusqu'à Zoug, en Suisse. Fiducie Alpina AG. Et là, vous vous êtes arrêtés. Pas par manque de courage, mais parce que le droit suisse ne vous permettait pas d'aller plus loin.
+돈을 룩셈부르크까지, 그다음 스위스 추크까지 따라갔죠. 피뒤시 알피나 AG. 그리고 거기서 멈췄어요. 용기가 없어서가 아니라 스위스 법 때문에 더 갈 수 없었으니까요.
+Julien: C'est exact.
+맞아요.
+Ariane: (on entend un bruit de papier) Il y a une enveloppe sur le banc. Je vais partir. Vous la prendrez quand je serai au bout du pont. Pas avant. Mais d'abord, écoutez. Retenez bien, parce que je ne le répéterai pas.
+(종이 소리가 들린다) 벤치 위에 봉투가 있어요. 전 이제 떠날 거예요. 제가 다리 끝에 도착하면 가져가세요. 그 전엔 안 돼요. 하지만 먼저 들어요. 잘 기억하세요, 두 번 말하지 않을 테니까.
+Léa: (elle sort son carnet) J'écoute.
+(수첩을 꺼내며) 듣고 있어요.
+Ariane: Le vin de Belcastel. Les cuisines de Maréchal. Le chantier de Canal-Nord. Trois affaires, trois secteurs, trois régions. En apparence, rien de commun. Or, l'argent de ces trois affaires a emprunté le même chemin : Vinalux, puis Alpina.
+벨카스텔의 와인. 마레샬의 주방. 카날노르의 공사장. 사건 셋, 업종 셋, 지역 셋. 겉보기엔 공통점이 없죠. 그런데 이 세 사건의 돈은 같은 길을 거쳤어요. 비날룩스, 그다음 알피나.
+Julien: Ça, nous le savions déjà.
+그건 우리도 이미 알고 있었어요.
+Ariane: Certes. Mais ce que vous ne saviez pas, c'est qu'Alpina n'a qu'un seul bénéficiaire. Depuis cinq ans, chaque franc qui entre dans Alpina en ressort, quelques jours plus tard, vers une seule destination.
+그렇죠. 하지만 몰랐던 건, 알피나의 수익자가 단 하나라는 거예요. 5년 동안 알피나에 들어간 돈은 한 푼도 빠짐없이 며칠 뒤 단 한 곳으로 빠져나갔어요.
+Léa: Laquelle ?
+어디로요?
+Ariane: La Fondation Orsenne pour l'art et le patrimoine. Plus précisément, son fonds d'acquisition d'œuvres d'art.
+오르센 예술·문화유산 재단. 더 정확히는, 그 재단의 미술품 매입 기금이요.
+Julien: (un silence) Orsenne.
+(침묵) 오르센.
+Ariane: Vous avez déjà croisé ce nom. Au conseil de la banque Hennequin, ce matin. Ce n'est pas un hasard. Rien n'est un hasard avec eux.
+이 이름 이미 마주쳤죠. 오늘 아침 엔캥 은행 이사회에서. 우연이 아니에요. 그들에겐 우연이란 없어요.
+Léa: Une fondation pour l'art… Pourquoi une fondation achète-t-elle des œuvres avec de l'argent sale ?
+예술 재단이라… 왜 재단이 더러운 돈으로 작품을 사요?
+Ariane: Parce qu'une œuvre d'art est le coffre-fort idéal. Son prix est subjectif. Elle voyage sans douane dans des ports francs. Elle peut être achetée dix millions et revendue trente, sans que personne puisse dire si c'est raisonnable. Dès lors, l'argent sale entre sous forme de tableau et ressort sous forme de plus-value. Propre. Et défiscalisé, puisqu'il s'agit d'une fondation.
+예술 작품은 이상적인 금고니까요. 가격은 주관적이고. 자유항에서 관세 없이 이동하고. 천만에 사서 삼천만에 되팔아도 그게 합리적인지 아무도 말할 수 없어요. 그러니 더러운 돈은 그림의 형태로 들어가서 시세 차익의 형태로 나와요. 깨끗하게. 게다가 재단이니까 세금 혜택까지 받고요.
+Julien: Combien ?
+얼마나요?
+Ariane: Soixante-deux millions d'euros en cinq ans. Rien que par Alpina. Les relevés sont dans l'enveloppe.
+5년 동안 6,200만 유로. 알피나를 통한 것만요. 거래 내역은 봉투 안에 있어요.
+Léa: (elle écrit) Soixante-deux millions…
+(적으며) 6,200만…
+Ariane: Et ce n'est qu'une partie. La fondation reçoit aussi de l'argent d'ailleurs. D'autres tuyaux, d'autres affaires. Certaines bien plus graves que du vin espagnol ou du béton mal coulé.
+그리고 그건 일부에 불과해요. 재단은 다른 데서도 돈을 받아요. 다른 파이프, 다른 사건들. 그중 몇몇은 스페인산 와인이나 부실하게 부은 콘크리트보다 훨씬 심각하죠.
+Julien: Plus graves comment ?
+얼마나 심각한데요?
+Ariane: (un silence) Pas ce soir. Une chose à la fois. Vous n'êtes pas prêts. Et moi non plus.
+(침묵) 오늘 밤은 아니에요. 한 번에 하나씩. 당신들은 준비가 안 됐어요. 저도 마찬가지고요.
+Léa: Qui dirige la fondation ?
+재단은 누가 이끌어요?
+Ariane: Son président s'appelle Édouard Saint-Clair. Ancien directeur de cabinet au ministère de la Défense. Un homme très cultivé, très courtois, qui connaît tous les ministres depuis trente ans. (un silence) N'écrivez pas encore ce nom. Il est beaucoup trop tôt. Si vous l'attaquez maintenant, sans preuves directes, il vous écrasera. Légalement, financièrement, et autrement.
+이사장 이름은 에두아르 생클레르예요. 국방부 비서실장 출신. 교양 있고, 예의 바르고, 30년 동안 모든 장관을 알고 지낸 사람이에요. (침묵) 아직 이 이름은 쓰지 마세요. 너무 일러요. 직접적인 증거 없이 지금 공격하면 당신들을 짓밟을 거예요. 법적으로, 재정적으로, 그리고 다른 방식으로도.
+Julien: Autrement ?
+다른 방식으로요?
+Ariane: Argos. Et d'autres, plus dangereux qu'Argos.
+아르고스요. 그리고 아르고스보다 더 위험한 자들도요.
+Léa: Pourquoi vous nous aidez ? Qu'est-ce que vous risquez ?
+왜 저희를 돕는 거예요? 당신은 뭘 걸고 있는 거예요?
+Ariane: (un long silence) Tout. Mon travail. Ma liberté. Peut-être plus. (sa voix devient plus douce) Un jour, j'ai lu un document que je n'aurais jamais dû lire. Et depuis, je ne dors plus. Vous, vous pouvez faire ce que je ne peux pas faire : le dire au monde.
+(긴 침묵) 전부요. 제 일. 제 자유. 어쩌면 그 이상도. (목소리가 부드러워지며) 어느 날 절대 읽지 말았어야 할 문서를 읽었어요. 그 뒤로 잠을 못 자요. 당신들은 제가 할 수 없는 일을 할 수 있어요. 세상에 알리는 거요.
+Julien: Nous le ferons. Quand les preuves seront solides.
+알릴 거예요. 증거가 탄탄해지면.
+Ariane: Je sais. C'est pour ça que je vous ai choisis. Vous vérifiez. Toujours. (on entend qu'elle se lève) Une dernière chose. Surveillez le monde de l'art. Les musées, les ventes aux enchères. Très bientôt. Plus tôt que vous ne le pensez.
+알아요. 그래서 당신들을 고른 거예요. 늘 확인하니까. (일어서는 소리가 들린다) 마지막으로 하나. 미술계를 주시하세요. 박물관, 경매. 아주 곧. 생각보다 더 빨리요.
+Léa: Pourquoi ? Qu'est-ce qui va se passer ?
+왜요? 무슨 일이 일어나는데요?
+Ariane: (sa voix s'éloigne) Ce n'est que le début, Léa. Ce n'est que le début.
+(목소리가 멀어지며) 이건 시작에 불과해요, 레아. 시작에 불과해요.
+Léa: (elle entend des pas qui s'éloignent sur les planches du pont, elle serre les poings pour ne pas se retourner)
+(다리 나무판 위로 멀어지는 발소리를 들으며, 돌아보지 않으려고 주먹을 꽉 쥔다) …
+Julien: (à voix basse) Ne te retourne pas. Pas encore.
+(작은 목소리로) 돌아보지 마. 아직.
+Camille: (dans l'oreillette) Une femme quitte le pont. Côté Institut. Manteau long, capuche. Taille moyenne. Elle marche vite. Je ne vois pas son visage.
+(이어폰에서) 여자 한 명이 다리를 떠나고 있어. 학사원 쪽으로. 긴 코트에 후드. 중간 키. 빨리 걷고 있어. 얼굴은 안 보여.
+Julien: Tu la suis ?
+따라갈 거야?
+Camille: Non. On a promis. (un silence) Elle a tourné dans la rue de Seine. Elle est partie.
+아니. 약속했잖아. (침묵) 센 거리로 꺾었어. 사라졌어.
+Julien: (il se retourne enfin, il prend l'enveloppe sur le banc) Elle est épaisse.
+(마침내 돌아서서 벤치 위의 봉투를 집으며) 두툼하네.
+Léa: (elle se retourne aussi, elle regarde le banc vide) Julien… Elle a laissé quelque chose. Par terre. Sous le banc.
+(그녀도 돌아서서 빈 벤치를 바라보며) 쥘리앵… 뭔가 떨어뜨렸어요. 바닥에. 벤치 밑에.
+Julien: (il se penche) Un cordon de badge. Bleu marine. Il a dû tomber de sa poche.
+(몸을 숙이며) 사원증 목걸이 줄이네. 남색. 주머니에서 떨어졌나 봐.
+Léa: (elle le prend avec un mouchoir) Il y a des lettres dessus. Mais le cordon est coupé. On ne lit que la fin : « …ENNE ».
+(손수건으로 집어 들며) 글자가 있어요. 그런데 줄이 잘렸어요. 끝부분만 보여요. «…엔».
+Julien: (un silence) « …enne ». Comme dans « Hennequin ». Ou dans « Orsenne ».
+(침묵) «…엔». «엔캥»처럼. 아니면 «오르센»처럼.
+Léa: Elle travaille pour eux ? À l'intérieur ?
+그들 밑에서 일하는 거예요? 내부에서?
+Julien: (il regarde la rue de Seine, déserte) Ou elle veut qu'on le croie. Avec Ariane, on ne sait jamais. (il met le cordon dans un sachet) On le garde. Mais on ne cherche pas. Pas tant qu'elle nous fait confiance.
+(텅 빈 센 거리를 바라보며) 아니면 우리가 그렇게 믿기를 바라는 거거나. 아리안은 알 수가 없어. (줄을 봉지에 넣으며) 보관하자. 하지만 찾지는 말자. 그녀가 우리를 믿는 동안은.
+Camille: (dans l'oreillette) Les amoureux, vous avez fini ? Il fait trois degrés et j'ai faim.
+(이어폰에서) 연인 여러분, 다 끝났어? 3도야, 그리고 나 배고파.
+Léa: (elle rit nerveusement) On arrive.
+(긴장한 채 웃으며) 가요.
+Karim: (à minuit, à la rédaction, devant les relevés étalés sur la table) C'est authentique. Les numéros de compte correspondent à ceux de Sophie Kremer. Les dates correspondent aux virements de Vinalux. Et le dernier destinataire… Fondation Orsenne, fonds d'acquisition, Paris huitième.
+(자정, 편집국에서 탁자에 펼쳐진 거래 내역서를 앞에 두고) 진본이에요. 계좌 번호가 소피 크레메르 것과 일치해요. 날짜도 비날룩스 송금과 일치하고요. 그리고 최종 수취인… 오르센 재단, 매입 기금, 파리 8구.
+Hélène: (elle enlève ses lunettes) Soixante-deux millions. Pour une fondation qui organise des expositions et des dîners de gala.
+(안경을 벗으며) 6,200만. 전시회와 자선 만찬을 여는 재단에.
+Julien: Et qui prête des œuvres à des musées.
+그리고 박물관에 작품을 빌려주는.
+Karim: (il tape) Attendez. La Fondation Orsenne… Elle est le premier mécène du Musée Valois. Depuis douze ans. Une salle porte son nom. La « salle Orsenne ». C'est là que sont exposés les joyaux de la couronne.
+(타이핑하며) 잠깐만요. 오르센 재단… 발루아 박물관의 최대 후원자예요. 12년째. 전시실 하나에 재단 이름이 붙어 있어요. «오르센 전시실». 왕실 보석이 전시된 곳이에요.
+Léa: « Surveillez le monde de l'art. Les musées. Très bientôt. »
+«미술계를 주시하세요. 박물관. 아주 곧.»
+Hélène: (un long silence) Bon. On ne publie rien. Ni sur Orsenne, ni sur Saint-Clair. Ariane a raison : on n'a que des flux d'argent, pas d'intention, pas de responsable. Un nom pareil, on ne l'écrit qu'une fois. Et on ne se trompe pas.
+(긴 침묵) 좋아. 아무것도 보도하지 않는다. 오르센도, 생클레르도. 아리안 말이 맞아. 우리가 가진 건 돈의 흐름뿐이야. 의도도, 책임자도 없어. 그런 이름은 단 한 번만 쓰는 거야. 그리고 틀려선 안 돼.
+Julien: Alors on fait quoi ?
+그럼 뭘 해요?
+Hélène: On dort. Il est minuit et quart. Demain, c'est samedi. Personne ne travaille demain. C'est un ordre.
+잔다. 자정 십오 분이야. 내일은 토요일이고. 내일은 아무도 일하지 않는다. 명령이야.
+Camille: (elle bâille) Enfin un ordre qui me plaît.
+(하품하며) 드디어 마음에 드는 명령이네.
+Léa: (à minuit vingt, son téléphone vibre, elle lit) Un message de Mathilde. « Masson convoqué lundi. Jérôme m'a appelée ce soir. Il dit merci. Et il dit qu'il n'a plus peur. »
+(자정 이십 분, 전화가 진동하자 읽으며) 마틸드 메시지예요. «마송 월요일 소환. 제롬이 오늘 밤 전화했어요. 고맙대요. 그리고 이제 무섭지 않대요.»
+Julien: (il sourit) Tu as rendu la vérité moins effrayante que le silence.
+(웃으며) 네가 침묵보다 진실을 덜 무섭게 만든 거야.
+Léa: (elle tape une réponse) « Merci à vous. Prenez soin de vous. Et achetez de l'eau du robinet. »
+(답장을 치며) «저야말로 감사해요. 몸조심하세요. 그리고 수돗물 드세요.»
+Camille: (elle lit par-dessus son épaule) Une vraie journaliste. Même à minuit, elle vérifie la qualité de l'eau.
+(어깨 너머로 읽으며) 진짜 기자네. 자정에도 물 품질을 챙겨.
+Léa: (dans le métro, seule, elle relit son carnet) « Ce n'est que le début. » (elle regarde son reflet dans la vitre) Le début de quoi ?
+(지하철에서 혼자 수첩을 다시 읽으며) «이건 시작에 불과해요.» (차창에 비친 자기 모습을 보며) 무엇의 시작일까?
+Julien: (samedi, à sept heures douze, dans son studio de Belleville, son téléphone sonne) Mmh… Allô ?
+(토요일 아침 일곱 시 십이 분, 벨빌의 원룸에서 전화가 울린다) 음… 여보세요?
+Karim: (au téléphone, essoufflé) Julien ! Allume la télé ! Tout de suite ! N'importe quelle chaîne !
+(전화로, 숨을 헐떡이며) 쥘리앵! 텔레비전 켜! 지금 당장! 아무 채널이나!
+Julien: (il cherche la télécommande) Karim, il est sept heures du matin, c'est samedi, Hélène a dit…
+(리모컨을 찾으며) 카림, 아침 일곱 시야, 토요일이고, 엘렌이…
+Karim: Allume !
+켜라고!
+Présentatrice: (à la télévision, bandeau rouge « FLASH SPÉCIAL ») Flash spécial. Nous interrompons nos programmes pour une information exceptionnelle.
+(텔레비전, 빨간 띠 «속보») 속보입니다. 긴급 소식으로 방송을 중단하고 전해 드립니다.
+Julien: (il s'assoit sur son lit)
+(침대에 앉으며) …
+Présentatrice: Un vol spectaculaire a eu lieu ce matin au Musée Valois, quai Malaquais, à Paris. Peu après l'ouverture des portes au personnel, un commando de quatre individus casqués a pénétré dans le musée.
+오늘 아침 파리 말라케 강변의 발루아 박물관에서 대담한 절도 사건이 발생했습니다. 직원 출입문이 열린 직후, 헬멧을 쓴 4인조 특공대가 박물관에 침입했습니다.
+Julien: Le Musée Valois…
+발루아 박물관…
+Présentatrice: Selon les premières informations, les malfaiteurs se sont dirigés directement vers la salle Orsenne, où sont exposés les joyaux de la couronne de France. Ils ont brisé deux vitrines et se sont enfuis à moto. L'ensemble de l'opération aurait duré moins de sept minutes.
+초기 정보에 따르면 범인들은 프랑스 왕실 보석이 전시된 오르센 전시실로 곧장 향했습니다. 진열장 두 개를 깨고 오토바이로 달아났습니다. 범행 전체에 걸린 시간은 7분이 채 되지 않은 것으로 보입니다.
+Karim: (au téléphone) Tu as entendu ? La salle Orsenne. La salle Orsenne, Julien !
+(전화로) 들었어? 오르센 전시실. 오르센 전시실이라고, 쥘리앵!
+Julien: (il se lève, il cherche ses vêtements) J'ai entendu.
+(일어나서 옷을 찾으며) 들었어.
+Présentatrice: La ministre de la Culture se rend sur place. Le préjudice est encore inestimable. Le musée restera fermé jusqu'à nouvel ordre.
+문화부 장관이 현장으로 향하고 있습니다. 피해 규모는 아직 산정이 불가능합니다. 박물관은 추후 공지가 있을 때까지 폐쇄됩니다.
+Julien: (au téléphone) Appelle Léa. Et Camille. On se retrouve devant le musée dans quarante minutes.
+(전화로) 레아한테 전화해. 카미유한테도. 40분 뒤에 박물관 앞에서 만나.
+Karim: Et Hélène ? Elle a dit que personne ne travaillait aujourd'hui.
+엘렌은? 오늘은 아무도 일하지 않는다고 했잖아.
+Julien: (son téléphone vibre : un message d'Hélène) Trop tard. (il lit) « Oubliez ce que j'ai dit hier. Tout le monde au Musée Valois. »
+(전화가 진동한다. 엘렌의 메시지) 너무 늦었어. (읽으며) «어제 내가 한 말은 잊어. 전원 발루아 박물관으로.»
+Léa: (au même moment, chez elle, devant la télévision, en pyjama, son carnet ouvert sur la page d'hier soir)
+(같은 시각, 집에서 잠옷 차림으로 텔레비전 앞에 앉아, 어젯밤 쪽이 펼쳐진 수첩을 든 채) …
+Léa: (elle lit à voix basse) « Surveillez le monde de l'art. Les musées. Très bientôt. Plus tôt que vous ne le pensez. »
+(작게 읽으며) «미술계를 주시하세요. 박물관. 아주 곧. 생각보다 더 빨리요.»
+Léa: (son téléphone sonne, c'est Karim, elle décroche, déjà debout) J'ai vu. J'arrive.
+(전화가 울린다. 카림이다. 이미 일어선 채 받으며) 봤어요. 갈게요.
+Karim: (au téléphone) Comment tu as su que j'allais t'appeler pour ça ?
+(전화로) 내가 그것 때문에 전화할 줄 어떻게 알았어?
+Léa: (elle attrape sa veste et son carnet, elle regarde une dernière fois l'écran où passent les images des vitrines brisées) Parce qu'Ariane nous l'avait dit. Ce n'est que le début.
+(재킷과 수첩을 집어 들고, 깨진 진열장 영상이 흐르는 화면을 마지막으로 바라보며) 아리안이 말해 줬으니까요. 이건 시작에 불과하다고.
+
+## 주요 단어
+feutré(e) | 프떼 | (분위기가) 조용하고 차분한, 아늑한 (C1)
+l'exposition juridique (f.) | 렉스뽀지시옹 쥐리디끄 | 법적 리스크 노출 (C1)
+le malentendu | 르 말랑땅뒤 | 오해 (B1)
+mis(e) en examen | 미(즈) 앙 에그자맹 | (예심 판사에 의해) 피의자로 입건된 (C1)
+le juge d'instruction | 르 쥐주 댕스트뤽시옹 | 예심 판사 (C1)
+l'abus de biens sociaux (m.) | 라뷔 드 비앵 소시오 | 회사 자산 남용(배임) (C1)
+l'oreillette (f.) | 로레이에뜨 | 이어폰, 이어피스 (B2)
+le bénéficiaire | 르 베네피시에르 | 수익자, 수혜자 (B2)
+le fonds d'acquisition | 르 퐁 다끼지시옹 | 매입 기금 (C1)
+le coffre-fort | 르 꼬프르포르 | 금고 (B1)
+le port franc | 르 뽀르 프랑 | 자유항(면세 보관 구역) (C1)
+la plus-value | 라 쁠뤼발뤼 | 시세 차익, 양도 차익 (C1)
+défiscalisé(e) | 데피스깔리제 | 세금 감면을 받은 (C1)
+le cordon (de badge) | 르 꼬르동 | (사원증) 목걸이 줄 (B1)
+le mécène | 르 메센 | (예술) 후원자, 메세나 (B2)
+le bandeau | 르 방도 | (화면 하단) 자막 띠 (B2)
+le malfaiteur | 르 말페뙤르 | 범죄자, 악당 (B2)
+inestimable | 이네스띠마블 | 값을 매길 수 없는, 산정 불가능한 (B2)
+
+## 문법·표현 정리
+**Ce n'est que le début (B1):** "이건 시작에 불과하다". ne… que = seulement. 2부 전체를 닫고 3부를 여는 문장. Ce n'est qu'une partie.(일부에 불과하다)
+**Or, … (C1):** 논리 접속사 "그런데(바로 그 점에서)". 앞 문장에 새로운 결정적 사실을 덧붙여 결론으로 이끕니다. En apparence, rien de commun. Or, l'argent a emprunté le même chemin. 금(or)과 혼동 주의.
+**Certes… mais… (C1):** "물론 ~이지만, ~". 상대 주장을 인정한 뒤 반박. Certes. Mais ce que vous ne saviez pas, c'est que…
+**Dès lors (C1):** "그러므로, 그때부터". 논리적 귀결. Dès lors, l'argent sale entre sous forme de tableau et ressort sous forme de plus-value.
+**Soit… (C1):** "즉, 다시 말해". 날짜·수치의 환산. Mardi. Soit le lendemain de l'envoi de nos questions.(화요일. 즉 질문지 발송 다음 날)
+**Flash spécial (B1):** "속보". 방송 헤드라인 문체: 명사 중심, 동사 생략. Vol spectaculaire au Musée Valois. 뉴스 본문은 aurait duré(조건법: 확인되지 않은 정보).
+**Ne vous retournez pas (A2):** 대명동사 se retourner의 부정 명령. Ne te retourne pas.(tu) 긍정: Retournez-vous !
+**venons-en au fait (B2):** "본론으로 들어가죠". en venir à(~에 이르다)의 nous 명령형. 비슷한 말: Allons droit au but.
+**plus tôt que vous ne le pensez (C1):** 비교 구문의 허사 ne와 중성 대명사 le. "생각하는 것보다 더 빨리". Mieux que je ne l'espérais.(기대한 것보다 더 잘)
+**sans que + 접속법 (B2):** sans que personne puisse dire si c'est raisonnable.(아무도 그것이 합리적인지 말할 수 없이) pouvoir → puisse.
+**il existe des indices… qu'ils aient participé (C1):** 사법 용어 indices graves ou concordants. 의심을 나타내는 맥락에서 que + 접속법 과거.
+**Pourquoi une fondation achète-t-elle… ? (B2):** 명사 주어 복합 도치. 명사 주어 + 동사-t-대명사. 격식 있는 의문문.
+**Je n'en doutais pas (B2):** "그럴 줄 알았어요". douter de qch → en douter. 상대가 물러설 때 쓰는 우아한 승리의 한마디.
+**pas tant que (B2):** "~하는 한은 아니다". On ne cherche pas. Pas tant qu'elle nous fait confiance.(그녀가 우리를 믿는 한 찾지 않는다)
+**jusqu'à nouvel ordre (B2):** "추후 공지가 있을 때까지". 공식 발표 문체. Le musée restera fermé jusqu'à nouvel ordre.
+
+## 완결
+🎉 2부 완결
+15화에 걸쳐 〈Le Phare〉 탐사팀은 룩셈부르크에서 날아온 봉투 한 장에서 출발해 3억 4천만 유로짜리 재개발 사업 「Canal-Nord」의 입찰 서류, 시청 앞 비스트로, 몽마르트르 노인의 『레 미제라블』 속 명단, 포르투갈 노동자들의 공사장, 코르시카의 별장, 그리고 보주 산골의 숲속 예배당까지 따라갔습니다. 가짜 제보자 파브리스의 위조 문서를 간파했고, 부시장 퓌졸과 마주 앉아 회피 화법을 끝까지 파고들었습니다. 인턴 레아는 «마리»라는 이름으로 공사 현장 사무실에 닷새간 위장 출근해 이중 기성 청구서와 「Vinalux」 송금 기록을 찾아냈고, 그곳에서 만난 파트리시아를 통해 생수 브랜드 「Source Valcroze」의 은폐를 자기 첫 기사로 터뜨렸습니다. 두 기사가 같은 날 새벽에 공개되자 압수 수색과 구금이 이어졌고, 퓌졸은 사임했습니다. 그리고 퐁데자르의 밤, 처음으로 모습을 드러낸(그러나 얼굴은 보이지 않은) 아리안은 모든 돈이 「Orsenne 재단」의 미술품 매입 기금으로 흘러갔다고 알려 주었습니다.
+3부 «Le Casse»에서는 바로 다음 날 아침, 오르센 재단이 후원하는 「Musée Valois」에서 왕실 보석이 7분 만에 사라집니다. 장물아비와 제네바 자유항, 드루오 경매장, 그리고 은퇴한 위작 화가를 따라가며 탐사팀은 "사치품 뒤의 어둠"으로 들어갑니다.
