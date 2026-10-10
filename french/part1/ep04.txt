@@ -1,0 +1,341 @@
+# 1부 4화. Les chiffres parlent (숫자는 말한다)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국 «Le Phare»·카림의 작업 공간 | 시간: 9월 둘째 주 금요일
+핵심 표현: le rendement à l'hectare · trois fois plus · Et le reste, il va où ? · Ça ne tient pas debout
+
+## 대화
+Léa: (le vendredi matin) Bonjour tout le monde ! J'ai apporté des macarons de Saint-Émilion !
+(금요일 아침) 모두 안녕! 생테밀리옹 마카롱 사 왔어!
+Camille: Des macarons ? Tu es la meilleure stagiaire de l'histoire du Phare.
+마카롱? 넌 〈Le Phare〉 역사상 최고의 인턴이야.
+Karim: Pose-les ici, sur mon bureau. Non, attends, pas sur les graphiques !
+여기 내 책상에 놔. 아니, 잠깐, 그래프 위에는 말고!
+Léa: Waouh… C'est quoi, tout ça ? Il y a des feuilles partout sur le mur !
+와… 이게 다 뭐야? 벽에 종이가 잔뜩이야!
+Karim: Mon mur de la vérité. J'ai passé deux jours dessus. Julien, viens voir. Tu vas aimer.
+내 진실의 벽이야. 이틀 동안 붙들고 있었어. 쥘리앵, 와서 봐. 마음에 들 거야.
+Julien: (il pose son café) Je t'écoute.
+(커피를 내려놓으며) 들어 보자.
+Karim: Ariane nous a dit : « Comptez les bouteilles. » Alors j'ai compté. D'un côté, ce que le château peut produire. De l'autre, ce qu'il vend vraiment.
+아리안이 그랬지. «병을 세어 보세요.» 그래서 셌어. 한쪽은 샤토가 생산할 수 있는 양. 다른 쪽은 실제로 파는 양.
+Léa: Comment on sait ce qu'un château peut produire ? On ne peut pas entrer dans la cave.
+샤토가 얼마나 생산할 수 있는지 어떻게 알아? 저장고에 들어갈 수도 없는데.
+Karim: Pas besoin. Tout est public. Il suffit de connaître deux chiffres : la surface des vignes, et le rendement à l'hectare.
+그럴 필요 없어. 다 공개돼 있거든. 숫자 두 개만 알면 돼. 포도밭 면적, 그리고 헥타르당 수확량.
+Léa: Le rendement à l'hectare… c'est la quantité de vin par hectare ?
+헥타르당 수확량… 1헥타르에서 나오는 와인의 양이야?
+Karim: Exactement. Et pour une appellation comme Saint-Émilion grand cru, ce rendement est limité par la loi. On n'a pas le droit de produire autant qu'on veut.
+맞아. 그리고 생테밀리옹 그랑크뤼 같은 원산지 명칭은 그 수확량이 법으로 제한돼. 원하는 만큼 생산할 수 없는 거지.
+Léa: Pourquoi ? Plus de vin, c'est plus d'argent, non ?
+왜? 와인이 많으면 돈도 많이 벌잖아?
+Julien: Plus de vin, c'est souvent moins de qualité. Si une vigne produit trop de raisin, le raisin est moins concentré. La limite protège la réputation de l'appellation.
+와인이 많으면 품질이 떨어지는 경우가 많아. 포도나무가 포도를 너무 많이 맺으면 포도 맛이 덜 진해지거든. 그 제한이 원산지 명칭의 평판을 지켜 주는 거야.
+Karim: Voilà. Donc : le Château Belcastel a huit hectares de vignes. C'est écrit dans le cadastre viticole et sur son propre site.
+그렇지. 자, 샤토 벨카스텔은 포도밭이 8헥타르야. 포도밭 대장에도, 샤토 웹사이트에도 나와 있어.
+Léa: Huit hectares, c'est ce que le caviste nous a dit !
+8헥타르, 와인 가게 주인이 말한 거랑 같네!
+Karim: Bien. Et le rendement maximum autorisé est d'environ quarante hectolitres par hectare. Léa, à toi. Huit fois quarante ?
+좋아. 그리고 허용되는 최대 수확량은 헥타르당 약 40헥토리터야. 레아, 네 차례. 8 곱하기 40은?
+Léa: Trois cent vingt. Trois cent vingt hectolitres.
+320. 320헥토리터.
+Karim: Parfait. Un hectolitre, c'est cent litres. Donc ?
+완벽해. 1헥토리터는 100리터야. 그럼?
+Léa: Trente-deux mille litres.
+3만 2천 리터.
+Karim: Et une bouteille fait soixante-quinze centilitres. Combien de bouteilles ?
+그리고 병 하나는 75센티리터야. 몇 병이야?
+Léa: Euh… attends. Trente-deux mille divisé par zéro virgule soixante-quinze… Environ quarante-deux mille ?
+음… 잠깐. 3만 2천 나누기 0.75… 4만 2천 병쯤?
+Karim: Quarante-deux mille six cents, pour être précis. C'est le maximum absolu. Dans une année parfaite, sans grêle, sans maladie, sans perte.
+정확히는 4만 2천6백 병. 그게 절대 최대치야. 우박도, 병충해도, 손실도 없는 완벽한 해에.
+Julien: En réalité, c'est moins. Il y a toujours des pertes. Et un grand cru garde souvent une partie de son vin pour un deuxième vin, moins cher.
+실제로는 그보다 적어. 손실은 늘 있으니까. 그리고 그랑크뤼는 와인 일부를 더 싼 세컨드 와인용으로 따로 빼 두는 경우가 많고.
+Léa: Un deuxième vin ?
+세컨드 와인?
+Julien: Le vin des jeunes vignes ou des barriques un peu moins réussies. On le vend sous un autre nom. Pour garder le nom principal pour le meilleur.
+어린 포도나무에서 나온 와인이나 조금 덜 잘된 오크통의 와인이야. 다른 이름으로 팔지. 대표 이름은 가장 좋은 와인에만 쓰려고.
+Karim: Donc disons, de façon réaliste, entre trente et trente-cinq mille bouteilles de Belcastel par an.
+그러니까 현실적으로 말하면, 벨카스텔은 1년에 3만에서 3만 5천 병 사이야.
+Léa: C'est exactement ce que le caviste a dit ! Trente, trente-cinq mille.
+와인 가게 주인이 한 말이랑 정확히 같네! 3만, 3만 5천.
+Julien: Deux sources indépendantes qui donnent le même chiffre. Ça, c'est solide. Colonne de gauche, Léa.
+서로 무관한 두 출처가 같은 수치를 대고 있어. 그건 탄탄하지. 왼쪽 칸이야, 레아.
+Léa: (elle écrit) « Production maximale : environ trente-cinq mille bouteilles par an. » Ce que l'on sait !
+(적으며) «최대 생산량: 연간 약 3만 5천 병.» 아는 것!
+Hélène: (en arrivant) Il y a des macarons et personne ne m'a prévenue ?
+(들어오며) 마카롱이 있는데 아무도 나한테 안 알려 줬어?
+Camille: On t'en a gardé deux. Enfin, un et demi.
+두 개 남겨 뒀어. 그러니까, 한 개 반.
+Hélène: Merci de ta générosité. Alors, Karim, ton mur de la vérité dit quoi ?
+너그럽기도 하지. 그래서 카림, 네 진실의 벽은 뭐라고 해?
+Karim: J'y arrive. On a la production. Maintenant, les ventes. Et là, ça devient intéressant.
+지금 말하려던 참이야. 생산량은 나왔어. 이제 판매량. 그리고 여기서부터 흥미로워져.
+Léa: Comment on peut savoir combien de bouteilles un château vend ? Ce n'est pas secret ?
+샤토가 몇 병을 파는지는 어떻게 알아? 그건 비밀 아니야?
+Karim: En partie. Mais on peut reconstituer le puzzle. J'ai utilisé trois sources.
+일부는 그렇지. 하지만 퍼즐을 다시 맞출 수는 있어. 출처 세 개를 썼어.
+Hélène: Vas-y. Lentement, pour la stagiaire. Et pour moi, avant mon deuxième café.
+해 봐. 천천히, 인턴을 위해서. 그리고 두 번째 커피 마시기 전인 나를 위해서.
+Karim: Première source : les statistiques des douanes. Quand on exporte du vin hors d'Europe, on déclare la quantité. Les données sont publiques, par produit et par pays, mais pas par château.
+첫 번째 출처: 세관 통계. 유럽 밖으로 와인을 수출할 때는 양을 신고해. 자료는 공개돼 있는데, 제품별·국가별로 나오지 샤토별로는 안 나와.
+Léa: Alors ça ne sert à rien ?
+그럼 소용없는 거야?
+Karim: Si, combiné avec la deuxième source : les registres d'importation en Asie. À Hong Kong, à Singapour, en Chine, les importateurs déclarent souvent le nom du vin. Et là, Belcastel apparaît partout.
+아니, 두 번째 출처랑 합치면 쓸모가 있어. 아시아의 수입 기록이야. 홍콩, 싱가포르, 중국에선 수입업자들이 와인 이름까지 신고하는 경우가 많거든. 그런데 거기 벨카스텔이 사방에 나와.
+Julien: Combien ?
+얼마나?
+Karim: Pour l'année dernière, j'arrive à environ soixante mille bouteilles importées en Asie sous le nom de Château Belcastel.
+작년 기준으로, 샤토 벨카스텔이라는 이름으로 아시아에 수입된 병이 대략 6만 병이야.
+Léa: Soixante mille ? Mais il ne peut en produire que trente-cinq mille !
+6만 병? 그런데 생산할 수 있는 건 3만 5천 병뿐이잖아!
+Karim: Attends, ce n'est pas fini. Troisième source : les ventes aux enchères. J'ai trouvé encore trois mille bouteilles vendues dans des enchères en Asie et aux États-Unis.
+잠깐, 아직 안 끝났어. 세 번째 출처: 경매. 아시아와 미국 경매에서 팔린 병을 3천 병 더 찾았어.
+Hélène: Ça fait déjà soixante-trois mille. Presque le double de la production.
+벌써 6만 3천 병이네. 생산량의 거의 두 배.
+Karim: Et ce n'est que ce qu'on peut voir. Il y a forcément des ventes qu'on ne voit pas : la France, l'Europe, les restaurants, les particuliers.
+그리고 그건 우리 눈에 보이는 것뿐이야. 안 보이는 판매도 분명히 있어. 프랑스, 유럽, 식당, 개인.
+Julien: Tu as une estimation totale ?
+전체 추정치 있어?
+Karim: Avec une méthode prudente, je dirais au moins cent mille bouteilles par an. Peut-être plus.
+보수적으로 잡아도 1년에 최소 10만 병. 어쩌면 그 이상.
+Léa: Cent mille… pour trente-cinq mille possibles. C'est presque trois fois plus !
+10만 병… 가능한 건 3만 5천 병인데. 거의 세 배야!
+Karim: Trois fois plus. Voilà ce que voulait dire Ariane.
+세 배. 아리안이 말하려던 게 바로 그거야.
+Hélène: (elle s'assoit lentement) Attendez. Il y a peut-être une explication légale. Le château peut acheter des vignes ailleurs, louer des parcelles…
+(천천히 앉으며) 잠깐. 합법적인 설명이 있을 수도 있어. 샤토가 다른 곳에 포도밭을 사거나 땅을 빌렸을 수도 있잖아…
+Karim: J'y ai pensé. J'ai vérifié le cadastre et les déclarations de récolte. Huit hectares, depuis dix ans. Pas un mètre de plus.
+그것도 생각했어. 포도밭 대장이랑 수확 신고서를 확인했어. 10년째 8헥타르야. 1미터도 더 없어.
+Julien: Et s'il avait des stocks ? Des vieilles bouteilles gardées pendant des années ?
+그럼 재고가 있었다면? 몇 년 동안 쌓아 둔 오래된 병들 말이야.
+Karim: Pour un ou deux ans, peut-être. Mais ça fait six ans que les ventes sont au même niveau. Aucune cave au monde ne peut tenir ce rythme.
+1~2년이라면 몰라도. 판매량이 6년째 같은 수준이야. 세상 어떤 저장고도 그런 속도를 버틸 수 없어.
+Hélène: Donc tu dis qu'il n'y a aucune explication honnête.
+그러니까 정직한 설명은 하나도 없다는 거네.
+Karim: Je dis que je n'en trouve pas. C'est différent.
+내가 찾지 못했다는 거지. 그건 다른 얘기야.
+Julien: (il sourit) Tu vois, Léa ? Même Karim fait la différence entre ce qu'on sait et ce qu'on croit.
+(웃으며) 봤지, 레아? 카림도 아는 것과 믿는 것을 구분하잖아.
+Léa: Mais ça ne tient pas debout ! Comment un château aussi célèbre peut faire ça pendant six ans sans que personne ne remarque rien ?
+그래도 말이 안 되잖아! 그렇게 유명한 샤토가 어떻게 6년 동안 아무도 눈치 못 채게 그럴 수 있어?
+Hélène: Parce que personne ne compte, ma chère. Les acheteurs en Asie voient une belle étiquette. Les contrôleurs voient des papiers en règle. Personne ne fait l'addition.
+아무도 세어 보지 않으니까. 아시아의 구매자들은 멋진 라벨만 보지. 단속 공무원들은 서류가 제대로 됐는지만 보고. 아무도 더해 보지 않아.
+Julien: Sauf quelqu'un. Quelqu'un qui a fait l'addition et qui nous a envoyé le résultat.
+한 사람만 빼고. 더해 보고서 우리한테 결과를 보낸 누군가.
+Camille: Ariane.
+아리안.
+Julien: Ariane.
+아리안.
+Léa: Il reste une question. Si le château vend cent mille bouteilles et que soixante-trois mille vont en Asie et aux enchères… Et le reste, il va où ?
+질문이 하나 남았어. 샤토가 10만 병을 팔고 그중 6만 3천 병이 아시아랑 경매로 간다면… 나머지는 어디로 가?
+Karim: (il sourit) Excellente question. C'est exactement celle que je me suis posée cette nuit.
+(웃으며) 훌륭한 질문이야. 내가 어젯밤에 한 질문이 바로 그거야.
+Hélène: Et tu as une réponse ?
+그래서 답이 있어?
+Karim: Une piste. Je me suis dit : une partie doit rester en France. Mais les cavistes de Saint-Émilion n'en vendent pas. Alors qui ?
+실마리가 있어. 일부는 프랑스에 남아야 한다고 생각했지. 그런데 생테밀리옹 와인 가게들은 그걸 안 팔아. 그럼 누가?
+Camille: Les restaurants ?
+식당?
+Karim: Bingo. J'ai écrit un petit programme qui lit les cartes des vins publiées en ligne par les restaurants parisiens. Des milliers de cartes.
+빙고. 파리 식당들이 온라인에 올린 와인 리스트를 읽는 작은 프로그램을 짰어. 수천 개야.
+Léa: Tu peux faire ça ? C'est légal ?
+그런 게 돼? 합법이야?
+Karim: Ce sont des informations publiques, sur leurs propres sites. Je ne pirate rien, je lis ce que tout le monde peut lire. Juste plus vite.
+자기네 웹사이트에 올린 공개 정보야. 해킹하는 게 아니라, 누구나 읽을 수 있는 걸 읽는 거지. 더 빨리 읽을 뿐이야.
+Julien: Et tu as trouvé quoi ?
+그래서 뭘 찾았는데?
+Karim: Château Belcastel apparaît sur très peu de cartes. Sauf dans une chaîne. Les quarante restaurants des Brasseries Maréchal. Tous. Sans exception.
+샤토 벨카스텔은 와인 리스트에 거의 안 나와. 한 체인만 빼고. 브라스리 마레샬 식당 40곳. 전부 다. 예외 없이.
+Hélène: Maréchal ? Jean-Claude Maréchal ? Le roi de la brasserie parisienne ?
+마레샬? 장클로드 마레샬? 파리 브라스리의 왕?
+Léa: Tu le connais ?
+그 사람 알아?
+Hélène: Tout Paris le connaît. Il passe à la télévision, il sert des ministres, il a écrit trois livres sur « la vraie cuisine française ».
+파리 사람이면 다 알지. 텔레비전에도 나오고, 장관들한테 음식을 내고, «진짜 프랑스 요리»에 대한 책도 세 권 썼어.
+Karim: Et il vend du Belcastel 2015 à quatre-vingt-neuf euros la bouteille. Dans un restaurant.
+그리고 벨카스텔 2015를 한 병에 89유로에 팔아. 식당에서.
+Julien: Quatre-vingt-neuf ? Mais le prix officiel est de trois cents euros chez le caviste !
+89유로? 와인 가게 공식 가격이 300유로인데!
+Karim: Et dans un restaurant, le vin coûte normalement deux ou trois fois plus que chez le caviste. Donc on devrait être à six cents, neuf cents euros.
+게다가 식당에선 와인이 보통 와인 가게보다 두세 배 비싸. 그러니까 600에서 900유로는 돼야 정상이지.
+Léa: Donc, soit Maréchal perd de l'argent sur chaque bouteille…
+그러니까 마레샬이 병마다 손해를 보고 있거나…
+Julien: … soit il achète ce vin beaucoup moins cher. Parce qu'il sait que ce n'est pas du vrai Belcastel.
+…아니면 그 와인을 훨씬 싸게 사고 있거나. 진짜 벨카스텔이 아니라는 걸 알기 때문에.
+Hélène: Doucement. Une carte des vins ne prouve rien. Il a peut-être eu une bonne affaire. Un lot ancien, une faillite…
+천천히. 와인 리스트로는 아무것도 증명 못 해. 좋은 거래를 했을 수도 있어. 오래된 재고나 파산한 곳의 물건 같은…
+Karim: Pour quarante restaurants, pendant cinq ans ? Ça ferait beaucoup de bonnes affaires.
+식당 40곳에, 5년 동안? 그럼 좋은 거래가 참 많았겠네.
+Hélène: (elle soupire) D'accord. Je l'admets : c'est très bizarre. Mais Jean-Claude Maréchal a des amis partout. Si on l'accuse sans preuve, on est finis.
+(한숨 쉬며) 알았어. 인정할게. 아주 이상해. 하지만 장클로드 마레샬은 사방에 친구가 있어. 증거 없이 그 사람을 고발하면 우린 끝이야.
+Julien: Personne ne parle d'accuser. On parle de vérifier.
+아무도 고발하자는 얘기 안 해. 확인하자는 거지.
+Karim: Il y a une chose simple à faire. Aller dîner dans une brasserie Maréchal, commander le Belcastel, et regarder la bouteille.
+간단히 할 수 있는 게 있어. 브라스리 마레샬에 가서 저녁을 먹고, 벨카스텔을 주문하고, 병을 보는 거야.
+Léa: Un dîner ? Pour le travail ? J'adore ce métier.
+저녁 식사? 일 때문에? 이 직업 너무 좋다.
+Hélène: Le Phare paie une bouteille. Une seule. Et vous la gardez comme pièce à conviction, vous ne la buvez pas.
+〈Le Phare〉가 한 병 사 줄게. 딱 한 병. 그리고 증거물로 보관해, 마시지 말고.
+Julien: Même pas un verre ?
+한 잔도 안 돼?
+Hélène: Même pas une goutte.
+한 방울도 안 돼.
+Camille: (son téléphone sonne) Excusez-moi. (elle décroche) Oui, allô ? … Oui, c'est moi. … Ah, c'est parfait. … Lundi à sept heures ? Très bien, j'y serai. Merci, au revoir.
+(휴대폰이 울린다) 잠깐만. (받는다) 네, 여보세요? … 네, 저예요. … 아, 잘됐네요. … 월요일 일곱 시요? 좋아요, 갈게요. 감사합니다, 안녕히 계세요.
+Léa: C'était qui ?
+누구였어?
+Camille: Le chef d'équipe du Château Belcastel. Je suis embauchée. Je commence lundi. Logée et nourrie.
+샤토 벨카스텔 작업반장. 나 채용됐어. 월요일부터 시작이야. 숙식 제공.
+Hélène: Attends, attends. Je n'ai encore rien autorisé.
+잠깐, 잠깐. 난 아직 아무것도 허락 안 했어.
+Camille: Hélène, regarde ce mur. Trois fois plus de bouteilles que de raisin. Si on veut savoir d'où vient le reste, il faut quelqu'un à l'intérieur.
+엘렌, 이 벽 좀 봐. 포도보다 병이 세 배 많아. 나머지가 어디서 오는지 알고 싶으면 안에 누군가 있어야 해.
+Hélène: (après un long silence) Je vais appeler Bernard. S'il dit oui, tu y vas. Avec trois conditions.
+(한참 침묵한 뒤) 베르나르한테 전화할게. 그 사람이 된다고 하면 가. 조건은 세 가지야.
+Camille: Je t'écoute.
+말해 봐.
+Hélène: Un : tu ne voles rien. Pas un papier, pas une bouteille. Tu regardes, tu filmes, c'est tout.
+하나, 아무것도 훔치지 마. 서류 한 장도, 병 하나도. 보고, 찍고, 그게 다야.
+Camille: D'accord.
+알았어.
+Hélène: Deux : tu appelles Julien tous les soirs à vingt-deux heures. Si tu n'appelles pas, il vient te chercher.
+둘, 매일 밤 열 시에 쥘리앵한테 전화해. 전화 안 하면 쥘리앵이 너를 데리러 가.
+Julien: Avec plaisir.
+기꺼이.
+Hélène: Trois : au premier danger, tu pars. Aucune histoire ne vaut ta sécurité.
+셋, 위험하다 싶으면 바로 나와. 어떤 기사도 네 안전보다 소중하지 않아.
+Camille: Promis.
+약속할게.
+Léa: (à voix basse, à Karim) Elle est sévère, mais elle est gentille, en fait.
+(카림에게 작은 목소리로) 엄격하지만 사실 다정하네.
+Karim: Ne lui dis jamais ça non plus.
+그 말도 절대 하지 마.
+Hélène: (elle met son téléphone sur haut-parleur) Bernard ? C'est Hélène. Tu es sur haut-parleur, toute l'équipe est là.
+(휴대폰을 스피커폰으로 바꾸며) 베르나르? 엘렌이에요. 스피커폰이에요, 팀 전원이 여기 있어요.
+Aubry: (au téléphone) Bonjour à tous. Je devine, au ton de ta voix, qu'il s'agit d'une infiltration.
+(전화로) 모두 안녕하십니까. 목소리 톤을 보니 위장잠입 건이군요.
+Hélène: Camille a été embauchée comme vendangeuse au Château Belcastel. Elle commence lundi.
+카미유가 샤토 벨카스텔에 포도 따는 일꾼으로 채용됐어요. 월요일에 시작해요.
+Aubry: Bien. La jurisprudence admet l'enquête sous couverture, à condition qu'elle réponde à un intérêt public réel et qu'aucun autre moyen ne permette d'obtenir l'information. Les chiffres de Karim semblent satisfaire la première condition.
+좋습니다. 판례는 위장 취재를 인정합니다. 단, 실질적인 공익에 부합하고 다른 어떤 방법으로도 정보를 얻을 수 없을 때에 한해서요. 카림의 수치는 첫 번째 조건을 충족하는 것 같군요.
+Camille: Et la deuxième ?
+두 번째는요?
+Aubry: Le château refuse les visites et n'a jamais répondu à son propre client. On peut raisonnablement soutenir qu'il n'existe pas d'autre moyen. Toutefois, trois interdits absolus.
+샤토는 방문을 거부하고 자기 고객에게도 답한 적이 없지요. 다른 방법이 없다고 충분히 주장할 수 있습니다. 다만 절대 금지 사항이 세 가지 있습니다.
+Léa: Encore trois conditions ?
+조건이 또 세 개예요?
+Aubry: Les juristes aiment les chiffres ronds, Léa. Premièrement, aucun faux document d'identité. Camille peut taire sa profession, elle ne peut pas falsifier ses papiers.
+법률가들은 딱 떨어지는 숫자를 좋아하지요, 레아. 첫째, 위조 신분증은 절대 안 됩니다. 카미유는 직업을 숨길 수는 있지만 서류를 위조할 수는 없어요.
+Camille: Je donnerai mes vrais papiers. Sur mon contrat, c'est mon vrai nom. Mais là-bas, tout le monde m'appellera Sarah. C'est mon deuxième prénom.
+진짜 서류를 낼게요. 계약서엔 제 진짜 이름이 들어가요. 하지만 거기선 다들 저를 사라라고 부를 거예요. 제 중간 이름이거든요.
+Aubry: Parfait. Deuxièmement, ne jamais provoquer l'infraction. Vous observez ce qui se fait ; vous n'incitez personne à commettre ce qui ne se serait pas fait sans vous.
+완벽하군요. 둘째, 위법 행위를 유도하지 말 것. 이루어지는 일을 관찰하는 겁니다. 여러분이 없었다면 일어나지 않았을 일을 누군가에게 부추겨서는 안 됩니다.
+Julien: Et troisièmement ?
+그럼 셋째는요?
+Aubry: Troisièmement, la vie privée. Vous filmez le travail, les chais, les camions. Pas les chambres, pas les conversations intimes, pas les enfants.
+셋째, 사생활입니다. 일, 저장고, 트럭은 찍어도 됩니다. 침실, 사적인 대화, 아이들은 안 됩니다.
+Camille: C'est clair. Merci, Maître.
+분명하네요. 감사합니다, 변호사님.
+Aubry: Ne me remerciez pas. Revenez entière. C'est tout ce que je demande. Bonne journée à tous.
+고맙다고 하지 말고, 무사히 돌아오세요. 그게 제가 바라는 전부입니다. 모두 좋은 하루 보내세요.
+Hélène: (elle raccroche) Voilà. Bernard a dit oui. Tu y vas.
+(전화를 끊으며) 됐어. 베르나르가 된다고 했어. 가.
+Julien: Bon. Le programme de la semaine prochaine. Lundi, Camille entre au château. Mardi soir, je vais au Perthus avec Karim, pour les camions.
+좋아. 다음 주 일정. 월요일엔 카미유가 샤토에 들어가. 화요일 밤엔 내가 카림이랑 르페르튀스에 가서 트럭을 봐.
+Karim: Une nuit sur une aire d'autoroute. Mon rêve.
+고속도로 휴게소에서 하룻밤. 내 꿈이었지.
+Léa: Et moi ?
+나는?
+Julien: Toi, tu prépares le dossier Maréchal. Tout ce qui est public : ses restaurants, ses sociétés, ses interviews, ses livres. On dînera chez lui plus tard.
+너는 마레샬 파일을 준비해. 공개된 건 전부. 식당, 회사, 인터뷰, 책까지. 그 사람 가게에서 저녁은 나중에 먹자.
+Léa: D'accord ! Je commence tout de suite.
+알겠어! 바로 시작할게.
+Hélène: Et à dix-huit heures…
+그리고 여섯 시엔…
+Tous: … tout le monde rentre chez soi !
+…다들 집에 간다!
+Hélène: (elle rit malgré elle) Vous êtes impossibles.
+(저도 모르게 웃으며) 너희들 정말 못 말린다.
+Léa: (le soir, seule devant son ordinateur) Brasseries Maréchal… Quarante restaurants, deux cents millions d'euros de chiffre d'affaires… Et un patron qui parle de « vraie cuisine française ».
+(저녁, 컴퓨터 앞에 혼자) 브라스리 마레샬… 식당 40곳, 매출 2억 유로… 그리고 «진짜 프랑스 요리»를 말하는 사장.
+Julien: (en passant avec sa veste) Tu es encore là ? Hélène va te tuer.
+(재킷을 들고 지나가며) 아직 있어? 엘렌한테 혼난다.
+Léa: Je pars dans cinq minutes. Regarde : dans toutes ses interviews, il répète la même phrase. « Chez Maréchal, tout est fait maison. »
+5분 뒤에 갈게. 봐. 인터뷰마다 같은 말을 해. «마레샬에서는 모든 게 수제입니다.»
+Julien: « Fait maison »… Tout le monde dit ça.
+«수제»라… 다들 그렇게 말하지.
+Léa: Oui, mais quarante restaurants, avec la même carte, les mêmes plats, à la même minute… Comment on peut tout faire maison dans quarante cuisines ?
+응, 그런데 식당 40곳이 같은 메뉴, 같은 요리를, 같은 시간에 내… 40개 주방에서 어떻게 전부 수제로 만들 수 있어?
+Julien: (il s'arrête) Note-le. Colonne de droite.
+(멈춰 서서) 적어 둬. 오른쪽 칸에.
+Karim: (en levant la tête de son écran, au fond de la salle) Elle a raison, Julien. Et j'ai peut-être un début de réponse. Regarde cette offre d'emploi, publiée la semaine dernière sur un site de recrutement.
+(사무실 안쪽에서 화면에서 고개를 들며) 레아 말이 맞아, 쥘리앵. 그리고 어쩌면 답의 실마리가 있어. 이 구인 광고 좀 봐. 지난주에 구인 사이트에 올라온 거야.
+Léa: (elle lit) « Cuisine Centrale Maréchal, Rungis. Recherche opérateurs de production. Plats cuisinés surgelés. Travail de nuit. »
+(읽는다) «퀴진 상트랄 마레샬, 룅지스. 생산직 구함. 냉동 조리식품. 야간 근무.»
+Julien: Une cuisine centrale. Des plats surgelés.
+중앙 주방. 냉동식품.
+Léa: Mais… s'ils préparent les plats dans une usine à Rungis, ce n'est pas « fait maison » !
+그런데… 룅지스 공장에서 요리를 만든다면 «수제»가 아니잖아!
+Karim: Pas selon la loi, en tout cas. En France, « fait maison », ça veut dire cuisiné sur place, à partir de produits bruts. Pas réchauffé.
+어쨌든 법으로는 아니지. 프랑스에서 «fait maison»은 매장에서 날재료로 직접 조리했다는 뜻이야. 데운 게 아니라.
+Léa: Il y a une loi pour ça ?
+그런 법도 있어?
+Karim: Bien sûr. On est en France. On a une loi pour le fromage, une loi pour la baguette, une loi pour le « fait maison ».
+당연하지. 여긴 프랑스야. 치즈에 관한 법, 바게트에 관한 법, «수제»에 관한 법까지 있다고.
+Julien: (il s'assoit à côté d'eux) Donc un restaurant qui vend du faux vin… et peut-être de la fausse cuisine maison.
+(둘 옆에 앉으며) 그러니까 가짜 와인을 파는 식당이… 어쩌면 가짜 수제 요리까지 팔고 있다는 거네.
+Léa: Ça fait beaucoup de mensonges pour un homme qui écrit des livres sur la « vraie cuisine française ».
+«진짜 프랑스 요리»에 대한 책을 쓰는 사람치고는 거짓말이 너무 많네.
+Julien: Attention. Ce sont deux questions différentes. Le vin, c'est notre enquête. La cuisine, c'est peut-être une autre histoire. Peut-être.
+조심해. 그건 서로 다른 두 문제야. 와인은 우리 취재 대상이고. 요리는 어쩌면 다른 이야기일 수도 있어. 어쩌면.
+Karim: Ou peut-être la même. Quand quelqu'un triche sur une chose, il triche souvent sur d'autres.
+아니면 같은 이야기일 수도 있고. 한 가지에서 속이는 사람은 다른 데서도 속이는 경우가 많잖아.
+Julien: C'est ce qu'on croit. Pas ce qu'on sait.
+그건 우리가 믿는 거지. 아는 게 아니야.
+Léa et Karim: (ensemble) Colonne de droite.
+(함께) 오른쪽 칸.
+Julien: (il rit) Bon, je vois que je deviens prévisible.
+(웃으며) 좋아, 내가 뻔한 사람이 되어 가는구나.
+Léa: (elle range ses affaires) C'est déjà noté. (son téléphone vibre) Oh… Julien. Un message. Numéro masqué. Pour moi.
+벌써 적었어. (휴대폰이 울린다) 어… 쥘리앵. 메시지야. 발신자 번호 없음. 나한테 왔어.
+Julien: Pour toi ? Qu'est-ce qu'il dit ?
+너한테? 뭐라고 왔어?
+Léa: (elle lit) « Bien compté, Léa. Maintenant, regardez qui boit. Ariane. »
+(읽는다) «잘 세었어요, 레아. 이제 누가 마시는지 보세요. 아리안.»
+Julien: (silence) Elle connaît ton prénom. Et ton numéro. Tu es là depuis cinq jours.
+(침묵) 그 사람이 네 이름을 알아. 번호도. 넌 여기 온 지 닷새밖에 안 됐는데.
+
+## 주요 단어
+le rendement à l'hectare | 르 랑드망 아 렉따르 | 헥타르당 수확량 (B2)
+la surface | 라 쒸르파스 | 면적 (B1)
+l'hectolitre (m.) | 렉또리트르 | 헥토리터(100리터) (B2)
+le centilitre | 르 쌍띨리트르 | 센티리터 (B1)
+la grêle | 라 그렐 | 우박 (B2)
+le deuxième vin | 르 되지엠 뱅 | 세컨드 와인 (C1)
+le cadastre | 르 까다스트르 | 토지 대장 (C1)
+la déclaration de récolte | 라 데끌라라시옹 드 레꼴뜨 | 수확 신고서 (C1)
+les douanes (f. pl.) | 레 두안 | 세관 (B1)
+l'importateur (m.) | 랭뽀르따뙤르 | 수입업자 (B1)
+le particulier | 르 빠르띠뀔리에 | 개인 (기업이 아닌) (B2)
+l'estimation (f.) | 레스띠마시옹 | 추정치 (B2)
+la carte des vins | 라 까르뜨 데 뱅 | 와인 리스트 (A2)
+le chiffre d'affaires | 르 시프르 다페르 | 매출액 (B2)
+la pièce à conviction | 라 삐에스 아 꽁빅시옹 | 증거물 (C1)
+fait maison | 페 메종 | 수제의, 가게에서 직접 만든 (A2)
+embaucher → embauché | 앙보셰 → 앙보셰 | 고용하다, 채용하다 (B1)
+
+## 문법·표현 정리
+**숫자와 계산 (A2~B1):** fois(곱하기) · divisé par(나누기) · plus(더하기) · moins(빼기). Huit fois quarante, ça fait trois cent vingt. 소수점은 virgule로 읽습니다: 0,75 = zéro virgule soixante-quinze. 큰 수: quarante-deux mille six cents(42,600).
+**배수 표현 (B1):** deux fois plus(두 배 더) · trois fois plus de bouteilles que de raisin(포도보다 세 배 많은 병) · presque le double(거의 두 배) · deux ou trois fois plus cher que…(~보다 두세 배 비싼).
+**Il suffit de + 동사원형 (B1):** "~하기만 하면 된다". Il suffit de connaître deux chiffres. 비슷한 말: Il n'y a qu'à…(구어)
+**avoir le droit de (A2~B1):** "~할 권리가 있다, ~해도 된다". On n'a pas le droit de produire autant qu'on veut.(원하는 만큼 생산해서는 안 된다)
+**Et le reste, il va où ? (A2, 구어):** 주어를 먼저 말하고 대명사로 다시 받는 구어체(전위). 표준어로는 Où va le reste ? 기자 레아의 질문처럼 핵심을 짚을 때 자연스럽습니다.
+**ça fait + 기간 + que (B1):** "~한 지 (기간)이 되었다". Ça fait six ans que les ventes sont au même niveau.(판매량이 같은 수준이 된 지 6년이다) = depuis six ans.
+**si + imparfait → conditionnel (B1~B2):** 현재 사실과 다른 가정. Et s'il avait des stocks ?(재고가 있었다면?) · Ça ferait beaucoup de bonnes affaires.(그럼 좋은 거래가 많았다는 말이 되겠네) — 반어적으로 의심을 표현합니다.
+**sans que + 접속법 (B2):** "~하지 않은 채로, ~ 모르게". sans que personne ne remarque rien(아무도 아무것도 눈치채지 못하게). 여기서 ne는 허사로, 부정 뜻을 더하지 않습니다.
+**Ça ne tient pas debout (B2, 구어):** "말이 안 된다, 앞뒤가 안 맞는다". 원래 "똑바로 서 있지 못한다"는 뜻. 2화의 Ça ne colle pas와 같은 의미입니다.
+**최상급과 비교 (B1):** la meilleure stagiaire de l'histoire(역사상 최고의 인턴) · moins de qualité(더 낮은 품질) · beaucoup moins cher(훨씬 싼). meilleur는 bon의, mieux는 bien의 비교급입니다.
+**soit… soit… / donc (B1):** 논리적으로 두 가능성을 나눌 때. Soit Maréchal perd de l'argent, soit il achète ce vin beaucoup moins cher. donc(그러니까, 따라서)는 결론을 이끕니다.
+**대명사 y (B1):** 장소나 à + 명사를 받습니다. J'y arrive.(지금 거기 이르는 중이야 → 곧 말할게) · J'y ai pensé.(그걸 생각했어 = penser à) · J'y serai.(거기 갈게)
+**admettre / reconnaître (B2):** "인정하다". Je l'admets : c'est très bizarre. 논쟁에서 상대의 말을 일부 받아들일 때 씁니다.
+**à condition que + 접속법 (B2):** "~라는 조건에서". à condition qu'elle réponde à un intérêt public(공익에 부합한다는 조건에서). 비슷한 말: pourvu que, du moment que(구어, 직설법).
+**malgré (B2):** "~에도 불구하고". Elle rit malgré elle.(그녀는 저도 모르게 웃는다) malgré soi = 자기도 모르게, 본의 아니게.
