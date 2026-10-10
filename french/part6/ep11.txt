@@ -127,8 +127,8 @@ Camille: (un silence) Julien. (plus doucement) Oui. J'ai les mains qui tremblent
 (침묵) 쥘리앵. (더 부드럽게) 응. 손이 좀 떨리긴 하는데. 그래도 괜찮아.
 Hélène: Camille, raconte-nous seulement ce que tu as vu. Rien d'autre.
 카미유, 네가 본 것만 말해 줘. 다른 건 말고.
-Camille: En partant, j'ai vu un camion sans logo au parking. Moteur allumé. Et au trente et unième étage, toutes les lumières étaient encore allumées. (un silence) D'habitude, à neuf heures, il n'y a que le couloir.
-나오면서 주차장에 로고 없는 트럭을 봤어. 시동이 걸려 있었고. 그리고 31층은 불이 아직 다 켜져 있었어. (침묵) 보통 아홉 시면 복도 불만 켜져 있거든.
+Camille: En partant, j'ai vu un camion sans logo au parking. Moteur allumé. Et au vingt-sixième étage, toutes les lumières étaient encore allumées. (un silence) D'habitude, à neuf heures, il n'y a que le couloir.
+나오면서 주차장에 로고 없는 트럭을 봤어. 시동이 걸려 있었고. 그리고 26층은 불이 아직 다 켜져 있었어. (침묵) 보통 아홉 시면 복도 불만 켜져 있거든.
 Aubry: (il prend des notes) Un camion. Tu te souviens de l'heure exacte ?
 (메모하며) 트럭이라. 정확한 시간 기억나?
 Camille: Vingt heures cinquante-huit. J'ai regardé ma montre. (un petit rire nerveux) Je regarde ma montre toutes les trois minutes depuis ce matin.
@@ -149,8 +149,8 @@ Aubry: On ne sait jamais. (il se rassoit) C'est le métier. On donne une informa
 절대 알 수 없지. (다시 앉으며) 그게 이 일이야. 그게 직업인 사람들에게 정보를 주고, 그다음엔 입을 다무는 거야. 십 분마다 전화하지 않아. 보러 가지도 않고.
 Léa: (vingt-deux heures vingt ; Karim appelle) Karim ? Tu vois quelque chose ?
 (열 시 이십 분. 카림이 전화한다) 카림? 뭐 보여?
-Karim: (au téléphone, du vent dans le micro) Je vois des gens qui font du skate. Un couple qui se dispute. Un monsieur qui promène un chien très moche. (un silence) Et la tour. Le trente et unième étage est allumé comme un sapin de Noël.
-(전화로, 마이크에 바람 소리) 스케이트보드 타는 사람들 보여. 싸우는 커플 하나. 엄청 못생긴 개 산책시키는 아저씨 하나. (침묵) 그리고 빌딩. 31층이 크리스마스트리처럼 불이 켜져 있어.
+Karim: (au téléphone, du vent dans le micro) Je vois des gens qui font du skate. Un couple qui se dispute. Un monsieur qui promène un chien très moche. (un silence) Et la tour. Le vingt-sixième étage est allumé comme un sapin de Noël.
+(전화로, 마이크에 바람 소리) 스케이트보드 타는 사람들 보여. 싸우는 커플 하나. 엄청 못생긴 개 산책시키는 아저씨 하나. (침묵) 그리고 빌딩. 26층이 크리스마스트리처럼 불이 켜져 있어.
 Hélène: Tu es loin ?
 멀리 있어?
 Karim: Sur les marches de l'Arche. À trois cents mètres. Je mange le sandwich de Momo. (un silence) Il y a trop de moutarde.
@@ -229,8 +229,8 @@ Karim: (un temps) D'accord. (un petit rire) J'ai fait tomber la moitié du sandw
 (잠시 뒤) 알겠어요. (작게 웃으며) 샌드위치 반을 떨어뜨렸어요.
 Léa: (vingt-trois heures vingt-neuf ; elle regarde l'horloge, puis Aubry) Une minute.
 (열한 시 이십구 분. 시계를 보다가 오브리를 본다) 일 분.
-Aubry: Ils sont à l'intérieur depuis huit minutes. (un silence) Huit minutes, c'est assez pour monter trente et un étages. Et pour dire à des techniciens de poser leurs mains sur la table.
-그 사람들 들어간 지 팔 분 됐어. (침묵) 팔 분이면 31층까지 올라가기에 충분해. 그리고 기술자들한테 손을 탁자 위에 올리라고 말하기에도.
+Aubry: Ils sont à l'intérieur depuis huit minutes. (un silence) Huit minutes, c'est assez pour monter vingt-six étages. Et pour dire à des techniciens de poser leurs mains sur la table.
+그 사람들 들어간 지 팔 분 됐어. (침묵) 팔 분이면 26층까지 올라가기에 충분해. 그리고 기술자들한테 손을 탁자 위에 올리라고 말하기에도.
 Léa: (vingt-trois heures trente) Vingt-trois heures trente. (personne ne parle)
 (열한 시 반) 열한 시 반이에요. (아무도 말하지 않는다)
 Mira: (presque un murmure) Le silence.
@@ -239,8 +239,8 @@ Hélène: (après un long moment) On ne saura pas ce soir ce qu'ils ont trouvé.
 (한참 뒤) 오늘 밤엔 그 사람들이 뭘 찾았는지 모를 거야. 아직 늦지 않았는지도. (침묵) 그걸 받아들여야 해.
 Léa: (vingt-trois heures quarante-quatre ; Karim rappelle) Karim ?
 (열한 시 사십사 분. 카림이 다시 전화한다) 카림?
-Karim: (au téléphone) Le trente et unième étage. Les lumières se sont éteintes. Toutes. D'un coup. (un silence) Sauf une fenêtre, au coin.
-(전화로) 31층. 불이 꺼졌어. 전부. 한꺼번에. (침묵) 모퉁이 창문 하나만 빼고.
+Karim: (au téléphone) Le vingt-sixième étage. Les lumières se sont éteintes. Toutes. D'un coup. (un silence) Sauf une fenêtre, au coin.
+(전화로) 26층. 불이 꺼졌어. 전부. 한꺼번에. (침묵) 모퉁이 창문 하나만 빼고.
 Julien: (il serre les poings) Le bureau de Harmel.
 (주먹을 쥐며) 아르멜의 사무실이야.
 Karim: Et il y a une voiture noire qui arrive. Une grosse berline. Elle s'arrête devant l'entrée principale. (un silence) Un homme sort. Manteau long. Il lève la tête vers la tour.
