@@ -1,0 +1,340 @@
+# 5부 6화. La ferme à faux médias (가짜 뉴스 공장)
+수준: A2~C1 혼합 (중심 B2) | 장소: 팡탱의 Argos 별관·카림의 작업 공간 | 시간: 2월 19일 목요일
+핵심 표현: polariser le débat · des contenus générés par l'IA · Ça a été écrit par une machine · Ils se font passer pour…
+
+## 대화
+Léa: (jeudi, huit heures, à la rédaction, elle pose son téléphone devant Karim) Regarde. Nicolas m'a envoyé ça hier soir. C'est le groupe des parents d'élèves de son école, à Montreuil.
+(목요일 오전 여덟 시, 편집국에서 카림 앞에 휴대폰을 내려놓으며) 이거 봐요. 니콜라가 어젯밤에 보내 줬어요. 몽트뢰유 니콜라 학교의 학부모 단체방이에요.
+Karim: (il lit) « Vous avez vu ? Cette Saïdi n'a jamais été infirmière ! Et son frère a volé des logements sociaux ! » (il lève les yeux) Avec un lien. « Le Petit Journal du 19e ».
+(읽으며) «봤어요? 그 사이디는 간호사였던 적이 없대요! 그리고 남동생이 공공주택을 빼돌렸대요!» (눈을 들며) 링크도 있네. «19구 작은 신문».
+Léa: Montreuil, ce n'est même pas Paris. Ils ne votent pas pour elle. Mais ils partagent quand même.
+몽트뢰유는 파리도 아니잖아요. 그 사람들은 그녀한테 투표도 안 해요. 그런데도 공유해요.
+Karim: (il clique sur le lien) « Le Petit Journal du 19e ». Je ne connais pas. (il fait défiler) Pas de nom de journaliste. Pas d'adresse de rédaction. Juste un formulaire de contact.
+(링크를 누르며) «19구 작은 신문». 처음 보는데. (스크롤하며) 기자 이름 없음. 편집국 주소 없음. 연락 양식만 있고.
+Léa: Nicolas dit que les parents sont très en colère. Il a essayé de dire que ce n'était peut-être pas vrai. (un silence) Une mère lui a répondu : « Vous, les profs, vous défendez toujours les mêmes. »
+니콜라 말로는 학부모들이 엄청 화났대요. 사실이 아닐 수도 있다고 말해 봤대요. (침묵) 한 엄마가 «선생님들은 맨날 같은 사람들 편만 들죠» 했대요.
+Hélène: (elle arrive avec son café, elle lit par-dessus l'épaule de Karim) Le « Petit Journal du 19e ». (un silence) Il y a vingt ans, j'ai travaillé pour un vrai journal de quartier. Six personnes. On connaissait chaque commerçant. Personne ne lisait sans savoir qui écrivait.
+(커피를 들고 와서 카림의 어깨 너머로 읽으며) «19구 작은 신문». (침묵) 20년 전에 진짜 동네 신문에서 일한 적이 있어. 여섯 명. 가게 주인을 하나하나 다 알았지. 누가 쓰는지 모르고 읽는 사람은 없었어.
+Karim: Aujourd'hui, personne ne regarde qui écrit. (il ouvre un nouvel onglet) Je vais chercher qui a créé ce site. Et s'il a des frères.
+요즘은 아무도 누가 쓰는지 안 봐요. (새 탭을 열며) 누가 이 사이트를 만들었는지 찾아볼게요. 그리고 형제가 있는지도.
+Hélène: (elle regarde l'heure) Camille est à son bureau depuis huit heures et demie. (un silence) Je me demande ce qu'elle voit, en ce moment.
+(시계를 보며) 카미유는 여덟 시 반부터 자리에 있겠네. (침묵) 지금 뭘 보고 있을지 궁금하네.
+Harmel: (jeudi, neuf heures, devant le bureau de Camille, son manteau déjà sur le dos) Inès, prenez votre manteau et un carnet. Vous venez avec moi.
+(목요일 오전 아홉 시, 이미 외투를 입고 카미유 책상 앞에서) 이네스, 외투랑 수첩 챙겨요. 나랑 같이 갑시다.
+Camille: (elle se lève) Bien, monsieur. Où allons-nous ?
+(일어서며) 알겠습니다. 어디로 가나요?
+Harmel: (il sourit) Vous ne posez pas de questions, Inès. C'était votre meilleure qualité. (un silence) À Pantin. La réunion de dix heures a lieu à l'annexe aujourd'hui. Vous prendrez des notes.
+(웃으며) 질문 안 하는 게 당신 최고의 장점이었잖아요, 이네스. (침묵) 팡탱이요. 오늘 열 시 회의는 별관에서 해요. 당신이 메모할 거예요.
+Camille: (elle prend son carnet, son stylo) Je suis prête.
+(수첩과 펜을 챙기며) 준비됐습니다.
+Harmel: Laissez votre téléphone dans le tiroir. À l'annexe, aucun téléphone personnel.
+휴대폰은 서랍에 두세요. 별관에선 개인 휴대폰 금지예요.
+Camille: (elle met son téléphone d'Inès dans le tiroir) Bien sûr.
+(이네스의 휴대폰을 서랍에 넣으며) 물론이죠.
+Camille: (dans la voiture noire avec chauffeur, à côté de Harmel ; il lit des journaux ; elle regarde par la fenêtre ; ils traversent le périphérique, puis le canal de l'Ourcq) …
+(기사 딸린 검은 차 안, 아르멜 옆자리. 그는 신문을 읽는다. 그녀는 창밖을 본다. 순환도로를 지나 우르크 운하를 건넌다) …
+Harmel: (sans lever les yeux) Vous lisez la presse française, maintenant, Inès ?
+(눈을 들지 않고) 이제 프랑스 신문도 읽어요, 이네스?
+Camille: Un peu, monsieur. Le Figaro, le matin. Le Monde, le soir.
+조금요. 아침엔 르피가로, 저녁엔 르몽드.
+Harmel: (il tourne une page) Lisez aussi les petits journaux. Les journaux de quartier. Les sites locaux. (un silence) C'est là que les gens se font une opinion, aujourd'hui. Pas dans Le Monde.
+(페이지를 넘기며) 작은 신문도 읽어요. 동네 신문. 지역 사이트. (침묵) 요즘 사람들은 거기서 의견을 만들어요. 르몽드가 아니라.
+Camille: Les journaux de quartier ?
+동네 신문이요?
+Harmel: Les gens ne croient plus les grands médias. Mais ils croient « La Gazette de leur rue ». Parce qu'elle parle de leur boulangerie, de leur école, de leur métro. (il plie son journal) Vous allez comprendre.
+사람들은 이제 큰 언론을 안 믿어요. 하지만 «자기 동네 신문»은 믿죠. 자기 빵집, 자기 학교, 자기 지하철 얘기를 하니까. (신문을 접으며) 곧 이해하게 될 거예요.
+Camille: (à Pantin, devant un ancien entrepôt en briques rouges, sans aucun nom sur la porte ; seulement une caméra et un digicode) …
+(팡탱, 문에 이름 하나 없는 붉은 벽돌 옛 창고 앞. 카메라와 출입 코드만 있다) …
+Dorval: (il ouvre la porte de l'intérieur, il regarde Camille) Monsieur Harmel. (un silence) Madame Garnier.
+(안에서 문을 열고 카미유를 본다) 아르멜 씨. (침묵) 가르니에 씨.
+Camille: (elle sourit poliment) Bonjour, monsieur Dorval.
+(공손하게 웃으며) 안녕하세요, 도르발 씨.
+Camille: (à l'intérieur : un grand espace ouvert, très lumineux, avec des dizaines d'écrans ; une trentaine de jeunes gens, des casques sur les oreilles ; sur un mur, un immense écran avec une carte de Paris divisée en vingt arrondissements, chacun d'une couleur différente) …
+(안: 아주 밝은 넓은 공간, 수십 대의 화면. 헤드폰을 쓴 젊은이 서른 명쯤. 한쪽 벽엔 20개 구가 각기 다른 색으로 칠해진 파리 지도가 뜬 거대한 화면) …
+Brac: (un homme de quarante ans, une veste en velours, une barbe de trois jours, il vient vers eux, les bras ouverts) Victor ! Bienvenue à la ferme !
+(마흔 살쯤, 코듀로이 재킷에 사흘 수염, 팔을 벌리고 다가오며) 빅토르! 농장에 온 걸 환영해요!
+Harmel: Stéphane. (il se tourne vers Camille) Inès, mon assistante. Elle prend des notes. Stéphane Brac. Il dirige Écho.
+스테판. (카미유에게 돌아서며) 이네스, 내 비서요. 메모를 할 거요. 스테판 브락. 에코를 이끌고 있소.
+Brac: (il serre la main de Camille) Enchanté, Inès. (il rit) Ne vous inquiétez pas, on ne fait pas pousser des légumes ici. On fait pousser des opinions.
+(카미유와 악수하며) 반가워요, 이네스. (웃으며) 걱정 마요, 여기선 채소를 키우진 않아요. 의견을 키우죠.
+Camille: (un petit sourire poli) Des opinions ?
+(작고 공손한 미소로) 의견이요?
+Brac: Venez. Je vais vous montrer. (il les conduit devant le grand écran) Voici Paris. Vingt arrondissements. Deux millions d'habitants. Un million trois cent mille électeurs. (il touche l'écran ; une liste apparaît) Et voici nos médias.
+이리 와요. 보여 줄게요. (큰 화면 앞으로 데려가며) 여기가 파리예요. 20개 구. 인구 200만. 유권자 130만. (화면을 건드리자 목록이 뜬다) 그리고 이게 우리 매체들이에요.
+Camille: (elle lit la liste qui défile) « Le Petit Journal du 19e ». « Belleville Info ». « La Voix du 15e ». « Paris Quartiers ». « Montmartre Aujourd'hui »… (un silence) Il y en a combien ?
+(지나가는 목록을 읽으며) «19구 작은 신문». «벨빌 인포». «15구의 목소리». «파리 동네들». «오늘의 몽마르트르»… (침묵) 몇 개나 있어요?
+Brac: (fièrement) Cent cinquante-deux. Cent cinquante-deux sites d'information locale. Avec un nom, un logo, une adresse, une rédaction… (il rit) Une fausse rédaction, évidemment.
+(자랑스럽게) 152개. 지역 뉴스 사이트 152개. 이름, 로고, 주소, 편집진까지… (웃으며) 물론 가짜 편집진이죠.
+Camille: (en elle-même) Cent cinquante-deux. Le chiffre derrière la porte. (elle écrit dans son carnet, avec une écriture d'assistante, propre et rapide) « 152 sites ».
+(속으로) 152. 문 뒤에서 들었던 숫자. (비서다운 깔끔하고 빠른 글씨로 수첩에 적는다) «사이트 152개».
+Brac: (il clique sur « Le Petit Journal du 19e » ; une page apparaît, avec des photos de rues, des articles, des petites annonces) Regardez. On dirait un vrai journal de quartier, non ?
+(«19구 작은 신문»을 클릭한다. 거리 사진, 기사, 생활 광고가 있는 페이지가 뜬다) 봐요. 진짜 동네 신문 같죠?
+Camille: (elle lit les titres) « Nouvelle agression près du métro Stalingrad ». « Les habitants en colère contre les travaux ». « La boulangerie de la rue de Flandre ferme : la faute à qui ? »
+(제목을 읽으며) «스탈린그라드 역 근처 또 폭행 사건». «공사에 분노한 주민들». «플랑드르 거리 빵집 폐업: 누구 탓인가?»
+Brac: Et qui a écrit ces articles, à votre avis ?
+누가 이 기사들을 썼을 것 같아요?
+Camille: Des journalistes ?
+기자들이요?
+Brac: (il rit, très fort) Des journalistes ! (il touche l'épaule d'un jeune homme devant un écran) Montre-lui, Kevin.
+(아주 크게 웃으며) 기자들! (화면 앞 청년의 어깨를 짚으며) 보여 줘, 케빈.
+Kevin: (il tape une phrase dans un programme : « Article local, 19e arrondissement, ton inquiet, sujet : sécurité dans le métro, 400 mots, citer un habitant ») …
+(프로그램에 한 문장을 입력한다. «지역 기사, 19구, 불안한 어조, 주제: 지하철 안전, 400단어, 주민 한 명 인용») …
+Camille: (en dix secondes, un article apparaît sur l'écran, complet, avec un titre, un témoignage d'une « habitante, Martine, 58 ans », et une photo d'une station de métro la nuit) …
+(10초 만에 제목, «주민 마르틴, 58세»의 증언, 밤 지하철역 사진까지 갖춘 기사 하나가 화면에 뜬다) …
+Kevin: Voilà. (il hausse les épaules) Ça a été écrit par une machine en dix secondes. Martine n'existe pas. La photo non plus. Elle a été générée aussi.
+됐어요. (어깨를 으쓱하며) 기계가 10초 만에 쓴 거예요. 마르틴은 존재하지 않아요. 사진도요. 그것도 생성된 거예요.
+Brac: Des contenus générés par l'IA. Quatre cents articles par jour. Cent cinquante-deux sites. Avec quatre-vingts personnes, on ferait la même chose en un an. Avec la machine, on le fait en une matinée.
+AI가 생성한 콘텐츠죠. 하루 기사 400개. 사이트 152개. 사람 여든 명이면 1년 걸릴 일을 기계로는 오전 한나절에 하죠.
+Camille: (elle écrit, sa main est parfaitement stable) « 400 articles par jour. IA. »
+(적는다. 손이 완벽하게 안정적이다) «하루 기사 400개. AI.»
+Harmel: (calmement) Montrez-lui la partie intéressante, Stéphane.
+(차분하게) 재미있는 부분을 보여 줘요, 스테판.
+Brac: (il touche la carte ; certains arrondissements deviennent rouges, d'autres bleus) La partie intéressante, c'est que chaque site ne parle pas à tout le monde. Dans le 16e, on parle d'impôts et de cambriolages. Dans le 19e, on parle d'insécurité et de loyers. Dans le 11e, on parle de pistes cyclables et de pollution.
+(지도를 건드린다. 어떤 구는 빨갛게, 어떤 구는 파랗게 변한다) 재미있는 건, 각 사이트가 모두에게 말하지 않는다는 거예요. 16구에선 세금이랑 빈집털이 얘기를 해요. 19구에선 치안이랑 월세 얘기. 11구에선 자전거 도로랑 오염 얘기.
+Camille: Chacun reçoit ce qui l'inquiète le plus.
+각자 제일 걱정하는 걸 받는 거네요.
+Brac: (il la regarde, impressionné) Exactement. Votre assistante comprend vite, Victor. (il continue) Et on ne cherche pas à convaincre. Ça, c'est le vieux métier. On cherche à polariser le débat. À faire peur. À mettre les gens en colère les uns contre les autres. Les gens en colère ne réfléchissent pas. Ils réagissent.
+(감탄하며 그녀를 바라본다) 정확해요. 비서분이 빨리 이해하네요, 빅토르. (계속하며) 그리고 우린 설득하려 하지 않아요. 그건 옛날 방식이죠. 우린 논쟁을 양극화하려는 거예요. 겁주고. 사람들끼리 서로 화나게 만들고. 화난 사람들은 생각하지 않아요. 반응하죠.
+Camille: Et ces sites… les gens les lisent vraiment ?
+그럼 이 사이트들을… 사람들이 정말 읽어요?
+Brac: Pas directement. (il montre un autre écran, avec des milliers de petits profils) Ça, ce sont nos comptes. Huit mille faux comptes sur les réseaux sociaux. Ils se font passer pour des habitants. Des mères de famille. Des retraités. Des étudiants. Ils partagent nos articles dans les groupes de quartier. « Vous avez vu ce qui se passe près de chez nous ? »
+직접은 아니죠. (수천 개의 작은 프로필이 있는 다른 화면을 가리키며) 이게 우리 계정들이에요. SNS 가짜 계정 8천 개. 주민 행세를 하죠. 엄마들. 은퇴자들. 학생들. 동네 그룹에 우리 기사를 공유해요. «우리 동네에서 무슨 일이 일어나는지 봤어요?»
+Camille: (elle écrit) « 8 000 faux comptes. »
+(적으며) «가짜 계정 8,000개.»
+Brac: Et les vrais habitants partagent à leur tour. Et au bout de trois jours, plus personne ne sait d'où vient l'information. (il sourit) C'est pour ça qu'on s'appelle Écho. On crie une fois. Et la ville répète.
+그러면 진짜 주민들이 다시 공유하죠. 사흘이 지나면 정보가 어디서 왔는지 아무도 몰라요. (웃으며) 그래서 이름이 에코예요. 한 번 외치면. 도시가 따라 하죠.
+Brac: (il clique sur un profil : une femme souriante, un chien, un balcon fleuri) Je vous présente Sylvie. Cinquante-quatre ans. Aide-soignante à la retraite. Elle habite dans le 19e depuis trente ans. Elle aime les géraniums et son chien Pilou.
+(프로필 하나를 클릭한다. 웃는 여자, 강아지, 꽃이 핀 발코니) 실비를 소개하죠. 쉰네 살. 은퇴한 요양보호사. 19구에 30년째 살아요. 제라늄이랑 자기 개 필루를 좋아하고.
+Camille: Elle a l'air gentille.
+착해 보이네요.
+Brac: Elle n'existe pas. (il rit) Son visage a été créé par l'IA. Son chien aussi. Ses photos de balcon aussi. Elle a deux mille amis. Elle publie trois fois par jour. Et les gens lui font confiance, parce qu'elle a une tête de voisine.
+존재하지 않아요. (웃으며) 얼굴은 AI가 만들었어요. 개도요. 발코니 사진도요. 친구가 2천 명이에요. 하루 세 번 글을 올리고. 사람들은 그녀를 믿어요, 이웃 같은 얼굴이니까.
+Camille: (elle regarde la photo du chien, longtemps) Même le chien.
+(강아지 사진을 오래 바라보며) 개까지.
+Brac: Surtout le chien. Une photo de chien, c'est le meilleur moyen de gagner la confiance de quelqu'un. (il ferme le profil) On a huit mille Sylvie. Chacune avec sa petite vie.
+특히 개죠. 개 사진은 사람의 신뢰를 얻는 최고의 수단이에요. (프로필을 닫으며) 실비가 8천 명 있어요. 각자 자기 작은 인생을 가지고.
+Jordan: (il arrive en courant, un ordinateur sous le bras) Stéphane ! J'ai les données du 15e ! (il voit Camille, il s'arrête net) Inès ? Qu'est-ce que tu fais là ?
+(노트북을 옆구리에 끼고 뛰어오며) 스테판! 15구 데이터 왔어요! (카미유를 보고 딱 멈춘다) 이네스? 너 여기서 뭐 해?
+Camille: (un petit sourire) Je prends des notes pour monsieur Harmel.
+(작게 웃으며) 아르멜 씨를 위해 메모하고 있어.
+Jordan: (il regarde Harmel, puis Camille ; il baisse la voix) Ah. D'accord. (un silence) C'est ouf, hein ? La ferme ?
+(아르멜을, 그리고 카미유를 바라본다. 목소리를 낮추며) 아. 그렇구나. (침묵) 대박이지? 이 농장?
+Camille: (doucement) C'est ouf.
+(조용히) 대박이네.
+Camille: (en elle-même) On crie une fois. Et la ville répète. (un silence) Et nous, à la rédaction, on vérifie pendant trois jours un seul chiffre.
+(속으로) 한 번 외치면 도시가 따라 한다. (침묵) 그리고 우리 편집국은 숫자 하나를 사흘 동안 확인하지.
+Camille: (en passant dans le couloir, elle voit une porte noire, fermée, avec un panneau « LABO — ACCÈS RESTREINT » ; derrière, on entend une voix de femme qui répète la même phrase, encore et encore, avec des intonations différentes) …
+(복도를 지나다가 «연구실 — 출입 제한» 표지판이 붙은 닫힌 검은 문을 본다. 문 뒤에서 한 여자 목소리가 같은 문장을 억양만 바꿔 가며 계속 되풀이하는 게 들린다) …
+Camille: (elle ralentit à peine) Qu'est-ce que c'est, cette pièce ?
+(아주 살짝 속도를 늦추며) 이 방은 뭐예요?
+Brac: (il ne s'arrête pas) Le labo. On y fait des tests de son. (un silence) Personne n'entre, sauf moi et deux ingénieurs.
+(멈추지 않고) 연구실. 음향 테스트를 해요. (침묵) 나랑 엔지니어 두 명 말고는 아무도 못 들어가요.
+Camille: (en elle-même) Une voix de femme. La même phrase. Encore et encore. (elle essaie de se souvenir des mots) « Je ne peux pas… vous le dire au téléphone… »
+(속으로) 여자 목소리. 같은 문장. 계속, 계속. (단어를 기억해 내려 애쓴다) «전화로는… 말씀드릴 수… 없어요…»
+Harmel: (il s'assoit dans une petite salle vitrée, au fond ; Brac, Dorval et Camille le suivent) Bien. Le point de la semaine. Inès, notez.
+(안쪽 작은 유리방에 앉는다. 브락, 도르발, 카미유가 따라간다) 좋아요. 주간 회의. 이네스, 적어요.
+Brac: (il ouvre son ordinateur) Trois choses. Un : les sites sont tous en ligne depuis le cinq janvier. Les moteurs de recherche les considèrent maintenant comme de vrais médias locaux. Ils apparaissent dans les résultats.
+(노트북을 열며) 세 가지예요. 하나: 사이트는 전부 1월 5일부터 온라인 상태예요. 이제 검색엔진이 진짜 지역 매체로 인식해요. 검색 결과에 떠요.
+Camille: (en elle-même) Le cinq janvier. Le jour où Thomas est arrivé au Phare. Le jour de l'enlèvement.
+(속으로) 1월 5일. 토마가 르 파르에 온 날. 납치된 날.
+Brac: Deux : la cible principale. (il montre une photo : une femme de cinquante ans, des cheveux courts, un sourire franc) Nadia Saïdi. Elle était à huit pour cent en décembre. Elle est à vingt-deux aujourd'hui. Si elle continue, elle passe au second tour.
+둘: 주요 타깃. (사진 한 장을 보여 준다. 짧은 머리에 솔직한 미소의 쉰 살 여자) 나디아 사이디. 12월엔 8퍼센트였어요. 오늘은 22퍼센트예요. 이대로 가면 결선에 올라가요.
+Harmel: Et notre client ne le souhaite pas.
+그리고 우리 고객은 그걸 원하지 않지.
+Brac: Notre client ne le souhaite pas. (il fait défiler des articles) Depuis trois semaines, on publie des petites choses. Des questions. « Nadia Saïdi a-t-elle vraiment été infirmière ? » « Qui finance la campagne de Nadia Saïdi ? » « Le frère de Nadia Saïdi et l'affaire des logements sociaux ». (il sourit) On n'affirme rien. On pose des questions.
+우리 고객은 원하지 않죠. (기사들을 넘기며) 3주 전부터 작은 것들을 올리고 있어요. 질문들. «나디아 사이디는 정말 간호사였나?» «나디아 사이디의 선거 자금은 누가 대나?» «나디아 사이디의 남동생과 공공주택 사건». (웃으며) 아무것도 단정하지 않아요. 질문만 던지죠.
+Camille: (elle écrit, en lettres très petites) « Saïdi. Cible. Questions. »
+(아주 작은 글씨로 적으며) «사이디. 타깃. 질문들.»
+Dorval: (il regarde le carnet de Camille, par-dessus son épaule) Vous écrivez très petit, madame Garnier.
+(그녀 어깨 너머로 수첩을 보며) 글씨를 아주 작게 쓰시네요, 가르니에 씨.
+Camille: (sans s'arrêter d'écrire) Une habitude de Genève, monsieur. Chez Maître Vogt, on écrivait petit. Les clients lisaient à l'envers sur notre bureau.
+(적는 걸 멈추지 않고) 제네바 습관이에요. 포크트 변호사 사무실에선 작게 썼거든요. 고객들이 책상 위 글씨를 거꾸로 읽어서요.
+Harmel: (un petit sourire) Laissez-la, Marc. Elle prend les notes pour moi. (à Brac) Et trois ?
+(작게 웃으며) 놔둬요, 마크. 나를 위해 메모하는 거요. (브락에게) 그리고 셋은?
+Harmel: (il pose sa canne contre la table) Et le fichier ? Il est arrivé ?
+(지팡이를 탁자에 기대 놓으며) 그럼 파일은? 도착했소?
+Brac: (un sourire satisfait) Lundi. Le vendeur a été très professionnel. (il baisse la voix) Plus de quarante millions de lignes. Noms, adresses, numéros de téléphone, situation familiale… tout.
+(만족스러운 미소로) 월요일에요. 판매자가 아주 프로페셔널했어요. (목소리를 낮추며) 4천만 줄이 넘어요. 이름, 주소, 전화번호, 가족 관계… 전부.
+Harmel: (il jette un regard à Camille) Pas de détails, Stéphane.
+(카미유를 힐끗 보며) 세부 사항은 됐소, 스테판.
+Brac: Pardon. (il reprend) Disons que nous savons maintenant à qui envoyer quoi. Avec une précision… chirurgicale.
+죄송해요. (다시 이어서) 이제 누구에게 뭘 보내야 할지 안다고만 해 두죠. 아주… 외과 수술 같은 정밀함으로.
+Camille: (elle écrit, sans lever les yeux) « Fichier. Lundi. 40 millions. »
+(눈을 들지 않고 적는다) «파일. 월요일. 4천만.»
+Camille: (en elle-même) Quarante millions de personnes. Plus de la moitié de la France. (un silence) « Le fichier. Le grand. »
+(속으로) 4천만 명. 프랑스 인구의 절반 이상. (침묵) «그 파일. 큰 거.»
+Brac: (il baisse un peu la voix) Trois : le grand coup. Pour la fin de campagne. (il regarde Camille, puis Harmel) On en parle devant elle ?
+(목소리를 조금 낮추며) 셋: 결정타. 선거 막판용. (카미유를, 그리고 아르멜을 바라보며) 이 사람 앞에서 얘기해도 돼요?
+Harmel: (un long silence ; il regarde Camille) Inès, allez nous chercher trois cafés, s'il vous plaît. À la machine, au bout du couloir.
+(긴 침묵. 카미유를 바라보며) 이네스, 커피 세 잔 가져다줘요. 복도 끝 자판기에서.
+Camille: (elle se lève immédiatement, elle laisse son carnet ouvert sur la table) Bien sûr, monsieur. Noir, sans sucre ?
+(즉시 일어나 수첩을 펼친 채 탁자에 두고) 물론이죠. 블랙, 설탕 없이요?
+Harmel: Pour moi. Stéphane prend un sucre. Marc, rien.
+내 건. 스테판은 설탕 하나. 마크는 아무것도 없이.
+Camille: (elle sort ; derrière la porte vitrée, elle voit Brac ouvrir un dossier sur son écran ; elle ne s'arrête pas ; elle marche vers la machine à café) …
+(나간다. 유리문 너머로 브락이 화면에서 파일을 여는 게 보인다. 멈추지 않는다. 자판기 쪽으로 걸어간다) …
+Camille: (devant la machine, Kevin attend aussi ; il a l'air fatigué) Ça va ? Tu as l'air crevé.
+(자판기 앞, 케빈도 기다리고 있다. 피곤해 보인다) 괜찮아? 완전 지쳐 보여.
+Kevin: (il se frotte les yeux) Je dors quatre heures par nuit. On doit sortir deux cents articles de plus avant le quinze.
+(눈을 비비며) 하룻밤에 네 시간 자. 15일 전에 기사 200개를 더 내야 해.
+Camille: Le quinze ?
+15일?
+Kevin: Le quinze mars. Premier tour. (il prend son café) Après, on aura des vacances. Stéphane a promis.
+3월 15일. 1차 투표. (커피를 집으며) 그다음엔 휴가 줄 거래. 스테판이 약속했어.
+Camille: (elle appuie sur le bouton, elle regarde le café couler) Et ça te plaît ? Ce travail ?
+(버튼을 누르고 커피가 내려오는 걸 보며) 이 일이 좋아?
+Kevin: (un silence) Je suis payé trois fois plus que dans une agence de pub. (il hausse les épaules) Et puis, ce ne sont que des mots, non ? Personne ne meurt.
+(침묵) 광고 회사보다 세 배 받아. (어깨를 으쓱하며) 그리고, 그냥 말일 뿐이잖아? 아무도 안 죽어.
+Camille: (doucement) Ce ne sont que des mots.
+(조용히) 그냥 말일 뿐이지.
+Kevin: (il la regarde, comme s'il voulait ajouter quelque chose ; puis il repart vers son écran) Bon courage, Inès.
+(뭔가 더 말하고 싶은 듯 그녀를 바라보다가 자기 화면으로 돌아간다) 힘내, 이네스.
+Camille: (elle revient avec trois cafés ; quand elle ouvre la porte, Brac ferme immédiatement son écran) Vos cafés.
+(커피 세 잔을 들고 돌아온다. 문을 열자 브락이 즉시 화면을 닫는다) 커피 왔습니다.
+Harmel: Merci, Inès. (il se lève) Nous avons fini. Stéphane, envoyez-moi le reste par le canal habituel.
+고마워요, 이네스. (일어서며) 끝났어요. 스테판, 나머지는 평소 경로로 보내요.
+Brac: (il sourit à Camille) Le « grand coup », c'est une surprise. Vous le verrez aux informations, comme tout le monde.
+(카미유에게 웃으며) «결정타»는 깜짝 선물이에요. 다른 사람들처럼 뉴스에서 보게 될 거예요.
+Camille: (elle sourit aussi) J'aime les surprises.
+(그녀도 웃으며) 깜짝 선물 좋아해요.
+Harmel: (dans la voiture, sur le chemin du retour, il regarde par la fenêtre le canal gris) Qu'en pensez-vous, Inès ? Sincèrement.
+(돌아오는 차 안에서 창밖의 회색 운하를 바라보며) 어떻게 생각해요, 이네스? 솔직하게.
+Camille: (un silence) Je ne suis pas payée pour penser, monsieur. Je suis payée pour noter.
+(침묵) 저는 생각하라고 돈 받는 게 아니에요. 적으라고 받죠.
+Harmel: (il sourit) Bonne réponse. Mais je vous le demande quand même. Vous êtes la première personne extérieure à voir la ferme. Je suis curieux.
+(웃으며) 좋은 대답이에요. 그래도 묻는 거예요. 당신은 농장을 본 첫 외부인이에요. 궁금하군요.
+Camille: (elle choisit ses mots, lentement) Je pense que c'est… très efficace. (un silence) Et que si les gens savaient, ils seraient très en colère.
+(천천히 단어를 고르며) 아주… 효율적이라고 생각해요. (침묵) 그리고 사람들이 알게 되면 아주 화를 낼 거라고요.
+Harmel: (il rit doucement) Mais les gens ne sauront pas. Ils ne veulent pas savoir. Ils veulent avoir raison. (un silence) Vous savez ce qu'est la vérité, Inès ? C'est ce que la majorité répète.
+(조용히 웃으며) 하지만 사람들은 모를 거예요. 알고 싶어 하지 않거든요. 자기가 옳기를 바랄 뿐이죠. (침묵) 진실이 뭔지 알아요, 이네스? 다수가 반복하는 것이에요.
+Camille: (elle regarde ses mains, posées sur son carnet) Chez Maître Vogt, on disait que la vérité, c'est ce qu'on peut prouver devant un juge.
+(수첩 위에 올려놓은 자기 손을 바라보며) 포크트 변호사 사무실에선 진실은 판사 앞에서 증명할 수 있는 거라고 했어요.
+Harmel: (il la regarde, longtemps) Les juges aussi lisent leur journal de quartier. (un silence) Vous me rappelez quelqu'un, Inès.
+(그녀를 오래 바라보며) 판사들도 자기 동네 신문을 읽어요. (침묵) 당신을 보면 누군가가 생각나네요, 이네스.
+Camille: (elle ne bouge pas) Qui donc, monsieur ?
+(움직이지 않고) 누구요?
+Harmel: (il se retourne vers la fenêtre) Moi. Il y a quarante ans. Avant que je comprenne comment fonctionne le monde. (un silence) Ça vous passera.
+(창밖으로 돌아서며) 나요. 40년 전의. 세상이 어떻게 돌아가는지 이해하기 전의. (침묵) 그런 건 지나가요.
+Camille: (en elle-même) Non. Ça ne me passera pas.
+(속으로) 아니. 안 지나가.
+Karim: (au même moment, à la rédaction, devant trois écrans, avec Léa) Regarde. « Le Petit Journal du 19e ». Créé le vingt-huit décembre. « Belleville Info ». Créé le vingt-huit décembre. « La Voix du 15e ». Créé le vingt-neuf décembre.
+(같은 시각, 편집국, 화면 세 대 앞에서 레아와 함께) 봐. «19구 작은 신문». 12월 28일 생성. «벨빌 인포». 12월 28일 생성. «15구의 목소리». 12월 29일 생성.
+Léa: Tous la même semaine ?
+전부 같은 주예요?
+Karim: Tous. Et regarde le code source. (il montre une ligne de code) Le même identifiant publicitaire. Le même hébergeur, en Lituanie. Les mêmes fautes de typographie dans les mentions légales.
+전부. 그리고 소스 코드 봐. (코드 한 줄을 보여 준다) 같은 광고 식별자. 같은 호스팅 업체, 리투아니아. 법적 고지에 같은 오타.
+Léa: Comment tu les as trouvés ?
+어떻게 찾았어요?
+Karim: (il sourit) Grâce à toi. Tu m'as montré l'article sur Nadia Saïdi et son frère. Personne d'autre n'en parlait. Seulement ce petit site. Alors j'ai cherché ses frères et sœurs. (il fait défiler une liste) Pour l'instant, j'en ai trouvé quatre-vingt-sept.
+(웃으며) 네 덕분이야. 네가 나디아 사이디랑 남동생 기사를 보여 줬잖아. 다른 데선 아무도 그 얘길 안 했어. 그 작은 사이트만. 그래서 그 사이트의 형제자매를 찾아봤지. (목록을 넘기며) 지금까지 87개 찾았어.
+Léa: (elle lit un article) « Nadia Saïdi a-t-elle vraiment été infirmière ? » (elle fronce les sourcils) Elle l'a été ? Vraiment ?
+(기사를 읽으며) «나디아 사이디는 정말 간호사였나?» (인상을 쓰며) 간호사였어요? 진짜로?
+Karim: Vingt ans à l'hôpital Robert-Debré. Les urgences pédiatriques. J'ai vérifié en cinq minutes. (un silence) Mais l'article ne dit pas qu'elle ne l'a pas été. Il pose juste la question. Et les gens doutent.
+로베르드브레 병원에서 20년. 소아 응급실. 5분 만에 확인했어. (침묵) 하지만 기사는 그녀가 간호사가 아니었다고 말하진 않아. 그냥 질문만 던지지. 그리고 사람들은 의심하고.
+Léa: C'est malin. Et c'est horrible.
+교묘하네요. 그리고 끔찍해요.
+Karim: (il regarde les commentaires sous l'article) Trois mille partages. « J'ai toujours su qu'elle mentait. » « On nous cache tout. » « Qui la paie ? » (un silence) Des vraies personnes. Qui croient lire leur journal de quartier.
+(기사 아래 댓글을 보며) 공유 3천 회. «거짓말하는 줄 알았어.» «다 숨기고 있어.» «누가 돈 대 주는 거야?» (침묵) 진짜 사람들. 자기 동네 신문을 읽는다고 믿는.
+Hélène: (dix-huit heures, dans son bureau, le téléphone sur haut-parleur) Aubry ? Karim a trouvé quatre-vingt-sept sites. Tous créés la même semaine. Tous avec le même code. Tous contre Nadia Saïdi. On peut publier ?
+(저녁 여섯 시, 사무실에서 스피커폰으로) 오브리? 카림이 사이트 87개를 찾았어요. 전부 같은 주에 만들어졌고. 전부 같은 코드. 전부 나디아 사이디를 공격해요. 보도해도 돼요?
+Aubry: (au haut-parleur) Publier quoi ? Que quatre-vingt-sept sites se ressemblent ? Ils diront que c'est un passionné de politique qui a beaucoup de temps libre.
+(스피커로) 뭘 보도해요? 사이트 87개가 비슷하다고요? 시간 많은 정치 마니아 한 명이 만든 거라고 하겠죠.
+Karim: Mais l'hébergeur, l'identifiant publicitaire…
+하지만 호스팅 업체, 광고 식별자…
+Aubry: Prouvent qu'une seule personne ou un seul groupe est derrière. Ils ne prouvent pas qui. (un silence) Et vous ne pouvez pas écrire « Argos » à partir de ce que Camille voit, tant qu'elle est à l'intérieur. Ce serait la mettre en danger.
+한 사람이나 한 집단이 뒤에 있다는 건 증명하죠. 누군지는 증명 못 하고요. (침묵) 그리고 카미유가 안에 있는 동안엔 카미유가 본 걸 근거로 «아르고스»라고 쓸 수 없어요. 카미유를 위험에 빠뜨리는 거니까.
+Léa: Alors on attend ? Pendant qu'ils mentent sur une femme tous les jours ?
+그럼 기다려요? 매일 한 여자에 대해 거짓말하는데요?
+Hélène: (un long silence) On attend le « grand coup ». (elle regarde Léa) Quand il arrivera, on doit être prêts à le démonter en quelques heures. Pas en trois jours.
+(긴 침묵) «결정타»를 기다려. (레아를 바라보며) 그게 오면 몇 시간 안에 뒤집을 준비가 돼 있어야 해. 사흘이 아니라.
+Aubry: Et en attendant, documentez tout. Chaque site, chaque article, chaque date. Avec des captures d'écran certifiées. (il tousse) Le jour où vous publierez, il faudra que ce soit inattaquable.
+그리고 그동안 다 기록하세요. 사이트 하나하나, 기사 하나하나, 날짜 하나하나. 인증된 화면 캡처로. (기침하며) 보도하는 날엔 반박의 여지가 없어야 해요.
+Karim: (il soupire) Quatre-vingt-sept sites. Quatre cents articles par jour. (un silence) Je vais avoir besoin de beaucoup de café.
+(한숨을 쉬며) 사이트 87개. 하루 기사 400개. (침묵) 커피가 엄청 필요하겠네요.
+Léa: (vingt-deux heures, le téléphone sonne) Allô ?
+(밤 열 시, 전화가 울린다) 여보세요?
+Camille: (au téléphone, depuis le studio de Batignolles, très fatiguée) Neige. (un silence) Mais une neige grise.
+(전화로, 바티뇰 원룸에서, 아주 지친 목소리로) 눈. (침묵) 하지만 회색 눈.
+Léa: Tu peux parler ?
+얘기할 수 있어요?
+Camille: Cinq minutes. Écris. (elle récite, de mémoire, très vite) Pantin. Entrepôt de briques rouges, à côté du canal. Directeur : Stéphane Brac. Cent cinquante-deux sites. Quatre cents articles par jour, générés par l'IA. Huit mille faux comptes. En ligne depuis le cinq janvier. Cible principale : Nadia Saïdi. Huit pour cent en décembre, vingt-deux aujourd'hui. Premier tour le quinze mars. Et un « grand coup » pour la fin de campagne. (un silence) Je ne sais pas ce que c'est. Ils m'ont envoyée chercher des cafés.
+5분. 받아 적어. (기억으로 아주 빠르게 읊는다) 팡탱. 운하 옆 붉은 벽돌 창고. 책임자: 스테판 브락. 사이트 152개. AI가 생성한 기사 하루 400개. 가짜 계정 8천 개. 1월 5일부터 온라인. 주요 타깃: 나디아 사이디. 12월 8퍼센트, 지금 22퍼센트. 1차 투표 3월 15일. 그리고 선거 막판용 «결정타». (침묵) 그게 뭔지는 몰라. 커피 가져오라고 내보냈거든.
+Léa: (elle écrit vite) Karim a trouvé quatre-vingt-sept des sites. Les mêmes. Même hébergeur, même code.
+(빠르게 적으며) 카림이 사이트 87개를 찾았어요. 같은 거예요. 같은 호스팅, 같은 코드.
+Camille: (un long silence) Alors on a les deux côtés. Ce que je vois dedans. Ce qu'il trouve dehors. (un silence) Ça, Aubry va aimer.
+(긴 침묵) 그럼 양쪽 다 있네. 내가 안에서 보는 것. 그가 밖에서 찾는 것. (침묵) 그건 오브리가 좋아하겠네.
+Léa: Et toi ? Ça va ?
+그럼 카미유는요? 괜찮아요?
+Camille: (un silence) Il y a un garçon, là-bas. Kevin. Vingt-quatre ans. Il dort quatre heures par nuit pour écrire des fausses peurs. (un silence) Il m'a dit : « Ce ne sont que des mots. Personne ne meurt. »
+(침묵) 거기 남자애가 하나 있어. 케빈. 스물네 살. 가짜 공포를 쓰느라 하룻밤에 네 시간 자. (침묵) 나한테 그러더라. «그냥 말일 뿐이야. 아무도 안 죽어.»
+Léa: (doucement) Et tu lui as dit quoi ?
+(조용히) 그래서 뭐라고 했어요?
+Camille: Rien. Inès ne dit rien. (un silence) Mais Camille pensait à Rokia, à Lemaire. À tous ceux qui sont morts ou qui ont failli mourir à cause de « simples mots ».
+아무 말도. 이네스는 아무 말도 안 해. (침묵) 하지만 카미유는 로키아를, 르메르를 생각하고 있었어. «그냥 말» 때문에 죽었거나 죽을 뻔한 모든 사람들을.
+Léa: (un silence) Dors, Camille. Demain, c'est vendredi. Tu arroses la plante.
+(침묵) 자요, 카미유. 내일은 금요일이에요. 화분에 물 줘야죠.
+Camille: (un petit rire fatigué) Je n'oublie jamais la plante. (un silence) Bonne nuit, officier traitant.
+(작고 지친 웃음) 화분은 절대 안 잊어. (침묵) 잘 자, 담당관님.
+Léa: (elle raccroche ; elle se tourne vers Hélène, qui attendait derrière elle) Elle a dit « neige grise ».
+(전화를 끊는다. 뒤에서 기다리던 엘렌에게 돌아서며) «회색 눈»이래요.
+Hélène: (elle s'assoit lentement) Ce n'est pas un mot du code.
+(천천히 앉으며) 그건 암호에 없는 말인데.
+Léa: Non. (un silence) Mais je crois que je comprends ce qu'elle veut dire. Elle n'est pas en danger. Mais elle est fatiguée d'être Inès.
+네. (침묵) 하지만 무슨 뜻인지 알 것 같아요. 위험하진 않대요. 하지만 이네스로 사는 게 지친 거예요.
+Hélène: (elle regarde les notes de Léa : « 152 », « 8 000 », « 40 millions », « labo ») Quarante millions… (un silence) Et ce labo. Une voix de femme qui répète la même phrase.
+(레아의 메모를 바라본다. «152», «8,000», «4천만», «연구실») 4천만… (침묵) 그리고 그 연구실. 같은 문장을 되풀이하는 여자 목소리.
+Léa: « Je ne peux pas vous le dire au téléphone. » (elle frissonne) Ça ressemble à quelqu'un qui se fait piéger.
+«전화로는 말씀드릴 수 없어요.» (몸을 떨며) 누가 함정에 빠지는 것처럼 들려요.
+Hélène: (un long silence) Ou à quelqu'un qu'on fait parler. Sans qu'elle ait jamais rien dit.
+(긴 침묵) 아니면 한 번도 말한 적 없는 걸 말하게 만드는 거거나.
+Léa: (plus tard, au téléphone avec Nicolas, en marchant dans la rue) Les parents de ton école… Dis-leur que Nadia Saïdi a travaillé vingt ans aux urgences de Robert-Debré. C'est vérifié.
+(나중에, 거리를 걸으며 니콜라와 통화하며) 너희 학교 학부모들… 나디아 사이디가 로베르드브레 응급실에서 20년 일했다고 전해 줘. 확인된 사실이야.
+Nicolas: (au téléphone) Je leur ai déjà dit. Une mère m'a envoyé un autre lien. « Le Journal de Belleville ». Qui dit le contraire. (un silence) Elle m'a écrit : « Deux journaux contre un prof. »
+(전화로) 이미 말했어. 한 엄마가 다른 링크를 보냈어. «벨빌 신문». 반대로 말하는. (침묵) 이렇게 썼더라. «신문 두 개 대 선생 한 명.»
+Léa: (elle s'arrête sous un réverbère) Les deux journaux sont faux, Nicolas. Ils viennent de la même ferme.
+(가로등 아래 멈춰 서며) 그 신문 둘 다 가짜야, 니콜라. 같은 농장에서 나온 거야.
+Nicolas: (un silence) Quelle ferme ?
+(침묵) 무슨 농장?
+Léa: (elle reprend sa marche) Un jour, je te raconterai. (un silence) Pour l'instant, dis-leur juste une chose : demandez-vous qui écrit.
+(다시 걸으며) 언젠가 얘기해 줄게. (침묵) 지금은 그냥 한 가지만 말해 줘. 누가 쓰는지 스스로 물어보라고.
+Nicolas: « Demandez-vous qui écrit. » (un silence) Je vais l'écrire au tableau demain. Pour mes élèves aussi.
+«누가 쓰는지 스스로 물어보라.» (침묵) 내일 칠판에 쓸게. 우리 반 애들한테도.
+Léa: Pour tes élèves ?
+너희 반 애들한테?
+Nicolas: Ils ont douze ans. Ils lisent tout sur leur téléphone, et ils croient tout. (un silence) C'est peut-être par eux qu'il faut commencer.
+열두 살이야. 다 휴대폰으로 읽고, 다 믿어. (침묵) 어쩌면 걔들부터 시작해야 할지도 몰라.
+
+## 주요 단어
+la ferme | 라 페름 | 농장 (A2)
+l'annexe (f.) | 라넥스 | 별관 (B1)
+l'entrepôt (m.) | 랑트르뽀 | 창고 (B1)
+le digicode | 르 디지꼬드 | (출입문) 비밀번호 장치 (B1)
+générer | 제네레 | 생성하다 (B2)
+l'IA (f.) | 리아 | AI, 인공지능 (B1)
+polariser | 뽈라리제 | 양극화하다 (C1)
+le débat | 르 데바 | 논쟁, 토론 (B1)
+la cible | 라 시블 | 표적, 타깃 (B1)
+le second tour | 르 스공 뚜르 | 결선 투표 (B2)
+le faux compte | 르 포 꽁뜨 | 가짜 계정 (B1)
+se faire passer pour | 스 페르 빠세 뿌르 | ~인 척하다, ~행세를 하다 (B2)
+affirmer | 아피르메 | 단언하다 (B2)
+l'hébergeur (m.) | 레베르제르 | 호스팅 업체 (C1)
+les mentions légales (f. pl.) | 레 망시옹 레갈 | (웹사이트) 법적 고지 (C1)
+crevé(e) | 크르베 | (구어) 녹초가 된 (B1)
+malin(e) | 말랭 | 교묘한, 영리한 (B1)
+
+## 문법·표현 정리
+**polariser le débat (C1):** 논쟁을 양극화하다. On cherche à polariser le débat. / La campagne est très polarisée.
+**des contenus générés par l'IA (B2):** 과거분사가 수동 의미로 명사 수식. des articles écrits par une machine / une photo générée.
+**Ça a été écrit par une machine (B2):** 수동태 복합과거 = avoir été + p.p. Elle a été générée aussi.(그것도 생성되었다)
+**수동태 시제 (B2):** est écrit(현재) / a été écrit(복합과거) / était écrit(반과거) / sera écrit(미래).
+**Ils se font passer pour… (B2):** se faire passer pour + 명사 = ~인 척하다. Ils se font passer pour des habitants.
+**se faire + inf. (B2):** 주어가 영향을 받음. se faire une opinion(의견을 형성하다) / se faire prendre(붙잡히다).
+**on dirait + 명사 (B1):** "~같다". On dirait un vrai journal de quartier.
+**chercher à + inf. (B2):** ~하려고 애쓰다. On ne cherche pas à convaincre. On cherche à faire peur.
+**à leur tour (B2):** 이번엔 그들이. Les vrais habitants partagent à leur tour.
+**les uns contre les autres (B2):** 서로서로. mettre les gens en colère les uns contre les autres.
+**ne… que (B1):** Ce ne sont que des mots.(그냥 말일 뿐이다)
+**condition 가정 (B2):** Avec quatre-vingts personnes, on ferait la même chose en un an. (avec + 명사 = si 조건)
+**의문 제목 (C1):** « Nadia Saïdi a-t-elle vraiment été infirmière ? » 명사 주어 + 도치. 단정하지 않고 의심을 심는 화법.
+**faillir + inf. (B2):** 거의 ~할 뻔하다. ceux qui ont failli mourir(죽을 뻔한 사람들)
