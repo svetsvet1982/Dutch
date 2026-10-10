@@ -1,0 +1,341 @@
+# 3부 13화. La chaîne (공급망)
+수준: A2~C1 혼합 (중심 B2) | 장소: 카림의 작업 공간·편집국 회의실·피렌체와의 화상 통화 | 시간: 12월 셋째 주 화요일~목요일
+핵심 표현: un sous-traitant de sous-traitant · cinquante fois moins · Ils ne pouvaient pas ne pas savoir · plus… que jamais
+
+## 대화
+Karim: (mardi, à neuf heures, il a couvert un mur entier de feuilles, de flèches et de post-it) Bienvenue dans la chaîne. Asseyez-vous. Ça va prendre un moment.
+(화요일 오전 아홉 시, 벽 한 면 전체를 종이, 화살표, 포스트잇으로 덮어 놓고) 사슬에 오신 걸 환영해요. 앉으세요. 시간 좀 걸릴 거예요.
+Léa: (elle regarde le mur) On dirait une enquête de police dans un film.
+(벽을 바라보며) 영화 속 경찰 수사판 같아요.
+Karim: Dans les films, ils ont des stagiaires pour coller les post-it. Moi, j'ai passé deux nuits.
+영화에선 포스트잇 붙이는 인턴이 있잖아. 난 이틀 밤을 새웠어.
+Hélène: Commence par le début. Par le veau.
+처음부터 시작해. 송아지부터.
+Karim: (il montre la première feuille, à gauche) Le veau. Élevé dans le Limousin. Sa peau est achetée par la Tannerie du Limousin. Elle la transforme en cuir. Prix du cuir pour un sac Céleste : environ dix-huit euros.
+(왼쪽 첫 번째 종이를 가리키며) 송아지. 리무쟁에서 사육돼요. 그 가죽을 리무쟁 무두질 공장이 사들여요. 가공해서 가죽으로 만들죠. 셀레스트 가방 하나에 드는 가죽값: 약 18유로.
+Julien: Dix-huit euros. C'est la matière la plus chère du sac ?
+18유로. 그게 가방에서 제일 비싼 재료야?
+Karim: De loin. Ensuite, les accessoires : la fermeture, les anneaux dorés, le logo en métal. Six euros. Ils viennent d'une usine en Italie, la seule vraie étape italienne du sac.
+단연. 그다음 부자재. 잠금장치, 금색 고리, 금속 로고. 6유로. 이탈리아의 한 공장에서 와요. 가방에서 유일하게 진짜로 이탈리아를 거치는 단계죠.
+Léa: Et ensuite ?
+그다음엔?
+Karim: (il suit une flèche rouge) Le cuir et les accessoires sont livrés à Atelier Prestige, à Pantin. Le fournisseur « agréé ». Le rang un. Celui que Delaunay audite.
+(빨간 화살표를 따라가며) 가죽과 부자재는 팡탱의 아틀리에 프레스티지로 배송돼요. «공인» 공급업체. 1차. 들로네가 감사하는 곳.
+Camille: Et Atelier Prestige fabrique les sacs ?
+그럼 아틀리에 프레스티지가 가방을 만들어?
+Karim: Une petite partie. Les modèles d'exposition, ceux qu'on montre aux auditeurs. Le reste… (il suit une flèche noire) Il l'envoie à des ateliers comme celui de Rodier. Des sous-traitants de sous-traitant. Le rang deux.
+일부만요. 감사관들한테 보여 주는 전시용 모델들. 나머지는… (검은 화살표를 따라가며) 로디에네 같은 작업장으로 보내요. 하청업체의 하청업체. 2차.
+Léa: Combien d'ateliers comme celui de Rodier ?
+로디에네 같은 작업장이 몇 개나 돼요?
+Karim: Rodier a parlé, hier, devant le juge. Son avocat a transmis ses déclarations au parquet, et une partie a fuité dans la presse ce matin. Il dit qu'Atelier Prestige travaille avec au moins quatre autres ateliers. Trois en Seine-Saint-Denis. Un dans le Val-de-Marne.
+로디에가 어제 판사 앞에서 진술했어. 변호사가 그 진술을 검찰에 넘겼고, 일부가 오늘 아침 언론에 새어 나갔어. 아틀리에 프레스티지가 적어도 다른 작업장 네 곳과 일한대. 센생드니에 세 곳. 발드마른에 한 곳.
+Julien: Cinq ateliers clandestins. Pour un seul fournisseur « agréé ».
+무허가 작업장 다섯 곳이라. 단 하나의 «공인» 공급업체를 위해.
+Julien: (il compose un numéro, haut-parleur) Je vérifie le prix du cuir. Bonjour, la Tannerie du Limousin ? Julien Marchetti, journaliste. Je voudrais parler au directeur commercial.
+(번호를 누르고 스피커폰으로) 가죽값 확인해 볼게. 안녕하세요, 리무쟁 무두질 공장이죠? 기자 쥘리앵 마르케티입니다. 영업 이사님과 통화하고 싶은데요.
+Directeur de la tannerie: (au téléphone, accent du Limousin, prudent) C'est moi. Si c'est pour Delaunay, je n'ai pas grand-chose à dire.
+(전화로, 리무쟁 억양으로 조심스럽게) 접니다. 들로네 건이라면 드릴 말씀이 별로 없어요.
+Julien: Juste une confirmation. Le cuir que vous livrez à Atelier Prestige pour le modèle Céleste, il est réservé exclusivement à Delaunay ?
+확인만 하나요. 셀레스트 모델용으로 아틀리에 프레스티지에 납품하시는 가죽, 들로네 전용입니까?
+Directeur de la tannerie: Exclusivement. Une qualité spéciale. Un grain spécial. Une couleur créée pour eux. Personne d'autre n'a le droit de l'acheter.
+전용이죠. 특별한 등급. 특별한 결. 그들을 위해 만든 색깔. 다른 누구도 그걸 살 권리가 없어요.
+Julien: Donc si ce cuir est trouvé dans un atelier, c'est forcément pour Delaunay.
+그러니까 그 가죽이 어느 작업장에서 발견됐다면, 무조건 들로네를 위한 거네요.
+Directeur de la tannerie: Forcément. Il n'y a pas d'autre possibilité. (un silence) Je peux vous dire une chose, hors micro ?
+무조건이죠. 다른 가능성은 없어요. (침묵) 마이크 끄고 한 가지 말씀드려도 될까요?
+Julien: Je vous écoute. Hors micro.
+듣고 있습니다. 비보도로.
+Directeur de la tannerie: Ma famille fait du cuir depuis quatre générations. Mon grand-père livrait les ateliers Delaunay de Romans, avant qu'ils ferment. Des ateliers magnifiques. Trois cents artisans. (sa voix devient amère) Maintenant, notre cuir finit dans une cave d'Aubervilliers. Ça me fait mal au cœur.
+우리 집안은 4대째 가죽을 만들어요. 할아버지는 들로네 로망 공방이 문 닫기 전에 거기 납품하셨죠. 멋진 공방이었어요. 장인 300명. (목소리가 씁쓸해지며) 그런데 이제 우리 가죽이 오베르빌리에의 지하실에서 끝나네요. 마음이 아파요.
+Julien: Merci. Je ne citerai pas cette partie.
+감사합니다. 그 부분은 인용하지 않겠습니다.
+Directeur de la tannerie: Citez la première. Exclusivement Delaunay. C'est la vérité. Et la vérité, ça ne se négocie pas.
+앞부분은 인용하세요. 들로네 전용. 그게 사실이니까. 사실은 흥정하는 게 아니죠.
+Karim: Et maintenant, les prix. Rodier dit qu'Atelier Prestige le payait trente euros par sac. Avec ces trente euros, il payait les ouvrières, le loyer, l'électricité, et il gardait sa marge.
+그리고 이제 가격. 로디에 말로는 아틀리에 프레스티지가 가방 하나에 30유로를 줬대. 그 30유로로 노동자들, 임대료, 전기료를 내고 자기 마진을 남겼고.
+Léa: Et les ouvrières recevaient combien, par sac ?
+그럼 노동자들은 가방 하나에 얼마를 받았어요?
+Karim: J'ai fait le calcul avec ce que Fatou et Rokia nous ont dit. Les poignées, le fond, les côtés, les finitions… Pour un sac complet, environ neuf euros de salaire. Répartis entre quatre ou cinq femmes.
+파투랑 로키아가 말해 준 걸로 계산해 봤어. 손잡이, 바닥, 옆면, 마무리… 가방 하나를 완성하는 데 임금이 약 9유로. 여자 네다섯 명이 나눠 갖고.
+Camille: Neuf euros pour cinq personnes.
+다섯 명한테 9유로라.
+Karim: Ensuite, Atelier Prestige facture le sac fini à Maison Delaunay. (il montre un document) J'ai trouvé une facture. Dans les déclarations de Rodier : il a gardé un bon de livraison d'Atelier Prestige, avec le prix de vente à Delaunay. Cinquante-trois euros par sac.
+그다음 아틀리에 프레스티지가 완성된 가방을 메종 들로네에 청구해요. (서류 하나를 보여 주며) 송장을 하나 찾았어요. 로디에 진술 자료에요. 아틀리에 프레스티지 납품서를 하나 보관하고 있었는데, 들로네에 판 가격이 적혀 있어요. 가방 하나에 53유로.
+Hélène: Cinquante-trois euros. Et le prix en boutique ?
+53유로. 그럼 매장 가격은?
+Léa: Deux mille six cents euros.
+2,600유로요.
+Karim: (il écrit au tableau) Deux mille six cents divisé par cinquante-trois… Quarante-neuf. Le sac est vendu presque cinquante fois plus cher que ce qu'il coûte à la marque.
+(칠판에 적으며) 2,600 나누기 53… 49. 가방이 브랜드가 지불하는 원가보다 거의 50배 비싸게 팔리는 거예요.
+Julien: Cinquante fois moins. C'est ce que la marque paie, par rapport à ce que paie la cliente.
+50분의 1. 고객이 내는 돈에 비해 브랜드가 내는 돈이지.
+Léa: Et l'ouvrière reçoit… (elle calcule) neuf euros sur deux mille six cents. Moins de quatre pour mille.
+그리고 노동자가 받는 건… (계산하며) 2,600유로 중에 9유로. 1,000분의 4도 안 돼요.
+Léa: Avant d'écrire ce chiffre, je veux le vérifier avec elles. Avec Fatou et Rokia.
+그 숫자를 쓰기 전에 그분들이랑 확인하고 싶어요. 파투랑 로키아랑요.
+Hélène: Vas-y. Cet après-midi.
+가 봐. 오늘 오후에.
+Léa: (à seize heures, dans le salon d'Aïssatou, avec Fatou et Rokia, la main encore bandée) Je vais vous lire des chiffres. Vous me dites si c'est juste. D'accord ?
+(오후 네 시, 아이사투의 거실에서 파투, 아직 손에 붕대를 감은 로키아와 함께) 숫자를 읽어 드릴게요. 맞는지 말씀해 주세요. 알겠죠?
+Fatou: D'accord.
+알았어.
+Léa: Les poignées : deux euros par sac.
+손잡이: 가방 하나에 2유로.
+Fatou: Juste.
+맞아.
+Léa: Le fond : deux euros cinquante.
+바닥: 2유로 50센트.
+Rokia: (elle hoche la tête) Deux euros cinquante. Avant, c'était trois. Il a baissé l'année dernière.
+(고개를 끄덕이며) 2유로 50센트. 예전엔 3유로였어. 작년에 깎았어.
+Léa: Les côtés, les finitions, le nettoyage… Au total, environ neuf euros par sac. Pour quatre ou cinq personnes.
+옆면, 마무리, 청소… 다 합쳐서 가방 하나에 약 9유로. 네다섯 명이서.
+Fatou: (elle calcule sur ses doigts) Oui. Neuf, dix maximum.
+(손가락으로 계산하며) 응. 9유로, 많아야 10유로.
+Léa: Et Rodier recevait trente euros d'Atelier Prestige. Et Atelier Prestige recevait cinquante-trois euros de Delaunay.
+그리고 로디에는 아틀리에 프레스티지에서 30유로를 받았어요. 아틀리에 프레스티지는 들로네에서 53유로를 받았고요.
+Rokia: (elle ouvre de grands yeux) Cinquante-trois ? Et le sac est vendu…
+(눈을 크게 뜨며) 53유로? 그런데 가방은…
+Léa: Deux mille six cents.
+2,600유로에 팔려요.
+Rokia: (un long silence) Je ne savais pas qu'il y avait quelqu'un entre Rodier et la marque.
+(긴 침묵) 로디에랑 브랜드 사이에 누가 있는 줄 몰랐어.
+Aïssatou: Rodier était un sous-traitant de sous-traitant. Il y avait toujours quelqu'un au-dessus de lui. Quelqu'un de plus propre.
+로디에는 하청업체의 하청업체였어요. 그 위엔 늘 누군가 있었죠. 더 깨끗한 누군가가.
+Fatou: (elle regarde ses mains) Un sous-traitant de sous-traitant. Et nous, on était quoi ? Les sous-traitantes du sous-traitant du sous-traitant ?
+(자기 손을 바라보며) 하청업체의 하청업체. 그럼 우리는 뭐였어? 하청업체의 하청업체의 하청 노동자?
+Léa: (doucement) Vous étiez les seules qui fabriquaient vraiment quelque chose.
+(조용히) 진짜로 뭔가를 만든 건 여러분뿐이었어요.
+Hélène: (le soir, à la rédaction, quand Léa revient avec les chiffres confirmés) Écris ce chiffre, Léa. Mais attention : la marque va dire que le prix comprend la création, le design, la publicité, les boutiques. Elle aura raison, en partie.
+(저녁, 레아가 숫자를 확인하고 편집국에 돌아오자) 그 숫자를 써, 레아. 그런데 조심해. 브랜드는 그 가격에 창작, 디자인, 광고, 매장이 포함된다고 할 거야. 부분적으로는 맞는 말이고.
+Karim: C'est vrai. Les boutiques des Champs-Élysées coûtent une fortune. La publicité aussi. Mais j'ai regardé les comptes publics de Delaunay. Leur marge opérationnelle est de quarante et un pour cent. Une des plus élevées de l'industrie.
+맞아요. 샹젤리제 매장은 엄청 비싸죠. 광고도요. 그런데 들로네의 공개 회계를 봤어요. 영업 이익률이 41퍼센트예요. 업계에서 가장 높은 축이에요.
+Julien: Donc la marque gagne plus que jamais. Et paie ses fabricants moins que jamais.
+그러니까 브랜드는 그 어느 때보다 많이 벌고. 제조업자들에겐 그 어느 때보다 적게 주는 거네.
+Karim: Exactement. Il y a dix ans, Delaunay fabriquait ses sacs dans ses propres ateliers, en France. Avec des artisans salariés. Puis ils ont fermé deux ateliers. Et Atelier Prestige est né. Fondé par leur ancien directeur des achats, Laurent Dussart.
+정확해요. 10년 전엔 들로네가 프랑스의 자사 공방에서 직원 장인들을 고용해 가방을 만들었어요. 그러다 공방 두 곳을 닫았죠. 그리고 아틀리에 프레스티지가 생겼어요. 그들의 전 구매 담당 이사 로랑 뒤사르가 세운 회사죠.
+Camille: Ils ont fermé leurs propres ateliers, et leur ancien directeur a ouvert un sous-traitant moins cher.
+자기네 공방을 닫고, 전 이사가 더 싼 하청업체를 연 거네.
+Karim: Moins cher, parce qu'il ne fabrique presque rien lui-même. Il redistribue. Vers des ateliers où personne ne contrôle rien.
+더 싼 건 직접 만드는 게 거의 없어서야. 다시 나눠 주는 거지. 아무도 아무것도 단속하지 않는 작업장들로.
+Léa: Et Laurent Dussart, il gagne combien ?
+그럼 로랑 뒤사르는 얼마나 벌어요?
+Karim: Atelier Prestige a déclaré un bénéfice de quatre millions deux cent mille euros l'an dernier. Avec vingt-deux salariés. (il fait défiler) Et Dussart s'est versé un dividende d'un million et demi.
+아틀리에 프레스티지는 작년에 420만 유로의 이익을 신고했어. 직원 스물두 명으로. (스크롤하며) 그리고 뒤사르는 자기한테 150만 유로를 배당했어.
+Camille: Un million et demi. Pendant que Rokia soignait sa main avec du scotch.
+150만 유로. 로키아가 테이프로 손을 치료하는 동안.
+Karim: Il habite une maison avec piscine à Saint-Cloud. Il a deux voitures de sport. Et il a donné une interview l'an dernier à un magazine économique. Titre : « Laurent Dussart, l'artisan devenu entrepreneur. »
+생클루의 수영장 딸린 집에 살아. 스포츠카가 두 대고. 그리고 작년에 경제지랑 인터뷰도 했어. 제목: «로랑 뒤사르, 기업가가 된 장인.»
+Léa: L'artisan ?
+장인이요?
+Karim: (il lit) « Je crois au savoir-faire français. Chaque sac qui sort de nos ateliers porte notre fierté. »
+(읽으며) «저는 프랑스의 장인 기술을 믿습니다. 저희 공방에서 나오는 가방 하나하나에 저희의 자부심이 담겨 있죠.»
+Julien: « Nos ateliers. » Au pluriel. Il ne mentait pas, au fond. Il avait juste oublié de dire lesquels.
+«저희 공방들.» 복수형으로. 따지고 보면 거짓말은 아니었네. 어느 공방인지 말하는 걸 잊었을 뿐.
+Camille: (elle secoue la tête) Une cave avec une porte fermée à clé. « Notre fierté. »
+(고개를 저으며) 문 잠긴 지하실. «저희의 자부심.»
+Hélène: On demandera aussi à Dussart. Il a droit au contradictoire, comme tout le monde.
+뒤사르한테도 물어보자. 그 사람도 다른 모든 사람처럼 반론 기회를 가질 권리가 있어.
+Léa: Et l'étiquette « Made in Italy » ? Pourquoi coudre une étiquette italienne à Aubervilliers ?
+그럼 «메이드 인 이탈리아» 상표는요? 왜 오베르빌리에에서 이탈리아 상표를 꿰매요?
+Karim: (il montre une autre partie du mur) C'est la partie la plus incroyable. Lachesse a dit que le Céleste était fabriqué par un « partenaire historique de Florence ». J'ai trouvé ce partenaire. Une société qui s'appelle Pelletteria Fiorentina. Et j'ai appelé une collègue italienne, à Florence. Giulia. Elle est allée voir l'adresse hier.
+(벽의 다른 부분을 가리키며) 이게 제일 믿기지 않는 부분이에요. 라셰스가 셀레스트는 «피렌체의 오랜 협력사»가 만든다고 했잖아요. 그 협력사를 찾았어요. 펠레테리아 피오렌티나라는 회사예요. 그리고 피렌체에 있는 이탈리아 동료 기자한테 전화했어요. 줄리아. 어제 그 주소에 가 봤대요.
+Julien: Et ?
+그래서?
+Karim: (il ouvre une visioconférence sur son ordinateur) Je préfère qu'elle vous le dise elle-même.
+(컴퓨터에서 화상 회의를 연다) 직접 말씀드리는 게 좋을 것 같아요.
+Giulia: (à l'écran, dans une rue de Florence, avec un fort accent italien) Buongiorno ! Bonjour à tous ! Vous m'entendez ?
+(화면 속 피렌체의 거리에서, 강한 이탈리아 억양으로) 본조르노! 다들 안녕하세요! 들리세요?
+Hélène: Très bien. Merci, Giulia.
+아주 잘 들려요. 고마워요, 줄리아.
+Giulia: Alors. Pelletteria Fiorentina. C'est ici, derrière moi. (elle tourne son téléphone : un petit entrepôt, une porte grise) Un entrepôt de trois cents mètres carrés. Dans une zone industrielle. Trois employés.
+자. 펠레테리아 피오렌티나. 여기, 제 뒤에 있어요. (휴대폰을 돌린다. 작은 창고, 회색 문) 300제곱미터짜리 창고예요. 산업 단지 안에. 직원은 세 명.
+Léa: Trois employés ? Pour fabriquer quatre-vingt mille sacs ?
+직원 세 명이요? 가방 8만 개를 만드는데요?
+Giulia: Ils ne fabriquent rien. J'ai parlé avec un des employés, à la pause café. Très gentil. Il m'a expliqué son travail. Des camions arrivent de France, avec des sacs presque finis. Eux, ils font une seule chose : ils mettent la dernière touche. Une couture, un petit nettoyage, l'emballage. Et les sacs repartent vers Paris.
+아무것도 안 만들어요. 커피 쉬는 시간에 직원 한 명이랑 얘기했어요. 아주 친절하더라고요. 자기 일을 설명해 줬어요. 프랑스에서 거의 완성된 가방을 실은 트럭이 와요. 그 사람들은 딱 한 가지만 해요. 마지막 손질. 바느질 한 땀, 간단한 청소, 포장. 그리고 가방은 다시 파리로 떠나요.
+Camille: Une dernière couture en Italie, et le sac devient italien ?
+이탈리아에서 마지막 한 땀을 꿰매면 가방이 이탈리아산이 된다고요?
+Giulia: C'est la question juridique. Les règles d'origine disent que le produit est originaire du pays où a eu lieu la dernière transformation substantielle. Une couture et un emballage, ce n'est pas substantiel. Mais personne ne vérifie.
+그게 법적인 쟁점이에요. 원산지 규정에 따르면 제품은 마지막으로 실질적인 가공이 이루어진 나라의 것이에요. 바느질 한 땀과 포장은 실질적인 가공이 아니죠. 그런데 아무도 확인을 안 해요.
+Julien: Et l'étiquette ? Fatou dit qu'elles la cousaient à Aubervilliers.
+그럼 상표는요? 파투는 오베르빌리에에서 꿰맸다고 했는데요.
+Giulia: (elle rit) L'employé m'a dit que les étiquettes étaient déjà là quand les sacs arrivaient. Il a dit : « Les Français font tout. Nous, on fait le voyage. » (elle sourit) « Noi facciamo il viaggio. »
+(웃으며) 직원 말로는 가방이 도착할 때 상표가 이미 붙어 있었대요. 그러더라고요. «프랑스 사람들이 다 해요. 우린 여행만 해요.» (웃으며) «노이 파차모 일 비아조.»
+Léa: « Nous, on fait le voyage. »
+«우린 여행만 해요.»
+Karim: Le sac fait deux mille kilomètres en camion, Paris-Florence-Paris, pour gagner le droit d'être appelé « italien ». Et le droit de coûter deux mille six cents euros.
+가방이 «이탈리아산»이라 불릴 권리를 얻으려고 파리-피렌체-파리, 트럭으로 2천 킬로미터를 달리는 거예요. 그리고 2,600유로짜리가 될 권리를요.
+Hélène: Giulia, l'employé accepterait d'être cité ?
+줄리아, 그 직원이 인용되는 걸 받아들일까요?
+Giulia: Sans son nom, oui. Il est en colère. Il travaillait dans une vraie maroquinerie, avant. Elle a fermé. Il dit que les vrais artisans florentins sont au chômage, pendant que les sacs « italiens » sont cousus en banlieue parisienne.
+이름만 빼면 돼요. 화가 나 있거든요. 예전엔 진짜 가죽 공방에서 일했대요. 그 공방은 문을 닫았고요. 진짜 피렌체 장인들은 실업자가 됐는데 «이탈리아산» 가방은 파리 교외에서 꿰매고 있다고요.
+Julien: Grazie, Giulia. Vraiment.
+그라치에, 줄리아. 진심으로.
+Giulia: Prego. Et envoyez-moi l'article. On le publiera aussi en Italie. Les Italiens vont être furieux. (elle rit) Ciao !
+천만에요. 그리고 기사 보내 주세요. 이탈리아에서도 실을 거예요. 이탈리아 사람들 엄청 화낼 거예요. (웃으며) 차오!
+Léa: (après l'appel, elle regarde le mur) Donc, la chaîne complète. Le veau du Limousin. Le cuir à dix-huit euros. Atelier Prestige. Rodier et cinq ateliers clandestins. Neuf euros pour cinq femmes. Un camion vers Florence. Une dernière couture. Un camion vers Paris. Et une vitrine à deux mille six cents euros.
+(통화가 끝난 뒤 벽을 바라보며) 그러니까 전체 사슬. 리무쟁의 송아지. 18유로짜리 가죽. 아틀리에 프레스티지. 로디에와 무허가 작업장 다섯 곳. 여자 다섯 명에게 9유로. 피렌체행 트럭. 마지막 한 땀. 파리행 트럭. 그리고 2,600유로짜리 쇼윈도.
+Hélène: Et la question centrale. Celle que le lecteur va se poser. Est-ce que Maison Delaunay savait ?
+그리고 핵심 질문. 독자가 던질 질문. 메종 들로네는 알고 있었는가?
+Julien: Lachesse dit : « Nous ignorions tout. »
+라셰스는 «아무것도 몰랐다»고 하죠.
+Karim: (il montre la dernière partie du mur, à droite) Alors regardons ce qu'ils ignoraient. Un : Atelier Prestige déclare vingt-deux salariés et livre dix fois plus de sacs que vingt-deux personnes peuvent en faire. Ces chiffres sont dans les propres commandes de Delaunay.
+(벽의 오른쪽 마지막 부분을 가리키며) 그럼 그들이 뭘 몰랐는지 봅시다. 하나. 아틀리에 프레스티지는 직원 스물두 명을 신고했는데, 스물두 명이 만들 수 있는 양의 열 배를 납품해요. 이 숫자는 들로네 자체 주문 내역에 있어요.
+Léa: Deux : Atelier Prestige est dirigé par leur ancien directeur des achats.
+둘. 아틀리에 프레스티지는 그들의 전 구매 담당 이사가 운영해요.
+Camille: Trois : leur « partenaire historique » de Florence a trois employés.
+셋. 피렌체의 «오랜 협력사»는 직원이 세 명이에요.
+Julien: Quatre : leur propre auditeur a écrit « risque élevé de sous-traitance non déclarée ». Il y a deux ans.
+넷. 자기네 감사관이 «미신고 재하청 위험 높음»이라고 썼어요. 2년 전에.
+Karim: Et cinq. (il ouvre un fichier sur son écran) J'ai comparé les deux versions du rapport de Bastien. L'originale et la modifiée. Les métadonnées montrent que la version modifiée a été enregistrée par le compte « dir.conformite ». Le directeur de la conformité.
+그리고 다섯. (화면에서 파일 하나를 연다) 바스티앙 보고서의 두 버전을 비교했어요. 원본과 수정본. 메타데이터를 보면 수정본은 «dir.conformite» 계정으로 저장됐어요. 준법감시 이사요.
+Hélène: Et ?
+그리고?
+Karim: Et Bastien m'a envoyé hier soir un dernier mail. Un échange interne, de la même semaine. (il lit) « Merci de revoir le rapport Prestige. Une suspension des commandes avant le lancement de la collection d'hiver n'est pas envisageable. O. »
+그리고 바스티앙이 어젯밤 마지막 메일을 보내왔어요. 같은 주의 내부 메일이에요. (읽으며) «프레스티지 보고서를 재검토해 주세요. 겨울 컬렉션 출시 전에 주문을 중단하는 건 고려할 수 없습니다. O.»
+Léa: (elle se fige) « O. »
+(얼어붙으며) «O.»
+Karim: Envoyé depuis l'adresse ombeline.delachesse@maisondelaunay.com.
+ombeline.delachesse@maisondelaunay.com 주소에서 보냈어요.
+Julien: (un silence) « Nous ignorions tout. »
+(침묵) «저희는 아무것도 몰랐습니다.»
+Hélène: (elle croise les bras, elle regarde le mur pendant longtemps) Ils ne pouvaient pas ne pas savoir.
+(팔짱을 끼고 한참 벽을 바라보다가) 그들이 몰랐을 리가 없어.
+Léa: C'est le titre ?
+그게 제목이에요?
+Aubry: (il est entré sans bruit, il regarde le mail) Non. Ça, c'est une conclusion. Une conclusion que nous laisserons au lecteur. Le titre doit être un fait. (il réfléchit) Et ce mail… il faudra le soumettre à madame de Lachesse avant publication. C'est le contradictoire.
+(소리 없이 들어와 메일을 보며) 아니요. 그건 결론이에요. 독자에게 맡길 결론이죠. 제목은 사실이어야 해요. (생각하며) 그리고 이 메일… 보도 전에 드 라셰스 씨에게 제시해야 해요. 그게 반론 기회 보장이죠.
+Julien: Elle va dire qu'il est faux.
+위조라고 할 거예요.
+Aubry: Elle peut le dire. Mais Bastien a les en-têtes complets. Et la Maison a une obligation légale de conserver ses mails. Si elle dit qu'il est faux, un juge pourra demander les originaux sur leurs serveurs.
+그렇게 말할 수는 있죠. 하지만 바스티앙한테 헤더 전체가 있어요. 그리고 메종은 메일을 보관할 법적 의무가 있고요. 위조라고 하면 판사가 그들 서버의 원본을 요구할 수 있어요.
+Karim: (il sourit) Et un serveur, ça ne ment pas.
+(웃으며) 그리고 서버는 거짓말을 안 하죠.
+Hélène: Bien. Jeudi, on envoie nos questions à Delaunay, à Atelier Prestige et à madame de Lachesse personnellement. Quarante-huit heures. Et on publie… (elle regarde le calendrier) …lundi matin.
+좋아. 목요일에 들로네, 아틀리에 프레스티지, 그리고 드 라셰스 씨 개인에게 질문지를 보낸다. 48시간. 그리고 보도는… (달력을 보며) …월요일 아침.
+Camille: Lundi ? C'est le jour du défilé Delaunay. Au Grand Palais. La collection de printemps.
+월요일이요? 그날 들로네 패션쇼가 있는 날이에요. 그랑 팔레에서. 봄 컬렉션.
+Hélène: (un petit sourire) Je sais.
+(옅은 미소를 지으며) 알아.
+Julien: Hélène… Publier le jour du défilé, ils vont dire que c'est une attaque. Un coup médiatique.
+엘렌… 패션쇼 날 보도하면 공격이라고 할 거예요. 언론 플레이라고요.
+Hélène: Ils diront ce qu'ils voudront. Ce n'est pas nous qui avons choisi la date. Ce sont les quarante-huit heures du contradictoire. Et c'est leur directrice de la communication qui a écrit qu'une suspension « avant le lancement de la collection » n'était pas envisageable. (elle se lève) La collection, c'est lundi. Ce n'est pas nous qui avons mis les ouvrières et les défilés dans le même mail.
+하고 싶은 말은 하라고 해. 날짜를 정한 건 우리가 아니야. 반론 기회 보장의 48시간이지. 그리고 «컬렉션 출시 전» 중단은 고려할 수 없다고 쓴 건 그들의 홍보 이사야. (일어서며) 컬렉션은 월요일이야. 노동자들과 패션쇼를 같은 메일에 넣은 건 우리가 아니야.
+Léa: (jeudi, à midi, au téléphone) Bastien ? C'est Léa. On envoie nos questions à la Maison cet après-midi. Je voulais vous prévenir.
+(목요일 정오, 전화로) 바스티앙? 레아예요. 오늘 오후에 메종에 질문지를 보내요. 미리 알려 드리고 싶었어요.
+Bastien: (au téléphone, très bas) Merci. (un silence) Ce matin, les ressources humaines m'ont convoqué. Ils m'ont demandé si j'avais été en contact avec des journalistes.
+(전화로, 아주 작게) 고마워요. (침묵) 오늘 아침 인사팀에서 저를 불렀어요. 기자들과 접촉한 적이 있냐고 물었어요.
+Léa: Qu'est-ce que vous avez répondu ?
+뭐라고 답하셨어요?
+Bastien: J'ai répondu ce que l'avocat de votre avocat m'a conseillé. « Je ne réponds pas à cette question sans la présence de mon conseil. » (il rit nerveusement) Ils ont été très surpris. Personne ne leur répond comme ça.
+변호사님이 연결해 준 변호사가 조언한 대로 답했어요. «변호인 입회 없이는 그 질문에 답하지 않겠습니다.» (긴장해서 웃으며) 아주 놀라더라고요. 아무도 그렇게 대답하지 않거든요.
+Léa: Vous avez peur ?
+무서우세요?
+Bastien: Oui. Mais moins qu'hier. Mon avocat dit que s'ils me sanctionnent maintenant, ça ressemblera à des représailles contre un lanceur d'alerte. Et ça, c'est interdit. (un silence) Ils le savent. Ils ne feront rien. Pas cette semaine.
+네. 그래도 어제보단 덜해요. 변호사 말로는 지금 저를 징계하면 내부 고발자에 대한 보복처럼 보일 거래요. 그건 금지돼 있고요. (침묵) 그들도 알아요. 아무것도 안 할 거예요. 이번 주엔.
+Léa: Et votre mère ?
+그리고 어머님은요?
+Bastien: (il soupire) Je lui ai tout raconté hier soir. Elle a pris son sac Delaunay, celui de son mariage. Elle l'a regardé longtemps. Et elle a dit : « Je me demande qui l'a cousu. »
+(한숨 쉬며) 어젯밤에 다 말씀드렸어요. 결혼할 때 산 들로네 가방을 꺼내셨어요. 한참 보시더니 그러셨어요. «누가 이걸 꿰맸을까.»
+Léa: (émue) C'est la bonne question.
+(감동해서) 그게 바로 맞는 질문이에요.
+Bastien: Elle a ajouté : « Je suis fière de toi. Mais tu aurais pu me le dire avant que j'achète le nouveau. » (il rit) Elle en a acheté un le mois dernier.
+그리고 덧붙이셨어요. «네가 자랑스럽구나. 그런데 새 거 사기 전에 말해 줄 수도 있었잖니.» (웃으며) 지난달에 하나 사셨거든요.
+Léa: (elle rit aussi) Dites-lui qu'il y a peut-être une couture de Rokia dedans.
+(그녀도 웃으며) 어쩌면 그 안에 로키아 언니 바늘땀이 있을지도 모른다고 전해 주세요.
+Léa: (jeudi soir, elle relit les questions envoyées à Lachesse) « Madame, confirmez-vous être l'auteure du courriel ci-joint, demandant la révision d'un rapport d'audit concernant Atelier Prestige ? »
+(목요일 저녁, 라셰스에게 보낸 질문지를 다시 읽으며) «귀하, 아틀리에 프레스티지 관련 감사 보고서의 수정을 요청한 첨부 이메일의 작성자임을 확인하십니까?»
+Julien: (derrière elle) Courte, précise, sans adjectif. (il pose un café à côté d'elle) Comment tu te sens ?
+(그녀 뒤에서) 짧고, 정확하고, 형용사도 없고. (그녀 옆에 커피를 놓으며) 기분이 어때?
+Léa: Bizarre. Elle m'a serré la main. Elle m'a dit de prendre soin de ma voix. Et maintenant, je lui demande si elle a effacé un rapport qui aurait pu protéger Rokia.
+이상해요. 그 사람이 저랑 악수했잖아요. 목 조심하라고 했고요. 그런데 이제 제가 로키아를 보호할 수도 있었던 보고서를 지웠냐고 묻는 거예요.
+Julien: C'est ça, le contradictoire. On donne à chacun la chance de répondre. Même à ceux qui ne l'ont pas donnée aux autres.
+그게 반론 기회 보장이야. 모두에게 답할 기회를 주는 거지. 남들에게 그 기회를 주지 않은 사람들에게도.
+Karim: (vendredi, à dix-sept heures, il se retourne) Réponse de Delaunay. Une ligne. « Maison Delaunay ne commente pas les documents internes dont l'origine ne peut être établie. »
+(금요일 오후 다섯 시, 돌아보며) 들로네 답변. 한 줄. «메종 들로네는 출처를 확인할 수 없는 내부 문서에 대해 논평하지 않는다.»
+Camille: « Dont l'origine ne peut être établie. » Ils ne disent pas que c'est faux.
+«출처를 확인할 수 없는.» 위조라고는 안 하네.
+Karim: Et Dussart a répondu aussi. Par son avocat. « M. Dussart conteste formellement avoir eu connaissance des conditions de travail chez certains prestataires indépendants. Il se réserve le droit de poursuivre toute personne portant atteinte à son honneur. »
+그리고 뒤사르도 답했어요. 변호사를 통해서. «뒤사르 씨는 일부 독립 협력업체의 노동 조건을 알고 있었다는 사실을 공식적으로 부인한다. 자신의 명예를 훼손하는 모든 사람에 대해 법적 대응할 권리를 유보한다.»
+Léa: « Certains prestataires indépendants. » Rodier devient un « prestataire indépendant ».
+«일부 독립 협력업체.» 로디에가 «독립 협력업체»가 됐네요.
+Camille: Et une cave fermée à clé devient « certaines conditions de travail ».
+그리고 잠긴 지하실은 «일부 노동 조건»이 되고.
+Hélène: On publie les deux réponses en entier. Celle de la Maison, celle de Dussart. Sans commentaire.
+두 답변 다 전문을 싣자. 메종 것도, 뒤사르 것도. 논평 없이.
+Julien: Les lecteurs feront la traduction eux-mêmes.
+독자들이 직접 번역하겠지.
+Léa: Du français administratif en français tout court.
+행정 프랑스어를 그냥 프랑스어로.
+Julien: Ils ne peuvent pas dire que c'est faux. Parce que c'est vrai.
+위조라고 할 수가 없지. 진짜니까.
+Karim: Et Lachesse ? Aucune réponse personnelle. (il regarde son écran) Mais regardez ça. Le site de Delaunay a mis à jour son plan de vigilance. Il y a une heure. Nouvelle phrase : « La Maison s'engage désormais à auditer l'ensemble de sa chaîne d'approvisionnement jusqu'au rang trois. »
+그리고 라셰스는요? 개인 답변은 없어요. (화면을 보며) 그런데 이것 좀 보세요. 들로네 사이트가 실사 계획을 업데이트했어요. 한 시간 전에. 새 문장: «메종은 이제부터 공급망 전체를 3차까지 감사할 것을 약속한다.»
+Léa: (elle lit) Rang trois. Il y a une semaine, Lachesse disait qu'« aucune entreprise au monde » ne pouvait le faire.
+(읽으며) 3차까지. 일주일 전엔 라셰스가 «세상 어떤 기업도» 그렇게 할 수 없다고 했잖아요.
+Hélène: (elle sourit) Une semaine. Il leur a fallu une semaine, un incendie et un journaliste pour devenir capables de l'impossible.
+(웃으며) 일주일. 불가능한 일을 할 수 있게 되는 데 일주일, 화재 한 번, 그리고 기자 한 명이 필요했네.
+Léa: (vendredi soir, sur le toit du journal, avec Julien) Lundi, pendant que les mannequins marchent au Grand Palais, notre article sera en ligne. C'est un peu cruel, non ?
+(금요일 저녁, 신문사 옥상에서 쥘리앵과 함께) 월요일에 모델들이 그랑 팔레를 걷는 동안 우리 기사가 올라가잖아요. 좀 잔인하지 않아요?
+Julien: Pour qui ?
+누구한테?
+Léa: Pour les mannequins. Les couturières de la collection. Les gens qui travaillent honnêtement chez Delaunay. Ils n'ont rien fait.
+모델들한테요. 컬렉션 재봉사들한테. 들로네에서 정직하게 일하는 사람들한테요. 그 사람들은 아무 잘못도 안 했잖아요.
+Julien: (il réfléchit) Tu as raison. Il y a des gens honnêtes dans cette maison. Bastien en est un. Mais si on attend une semaine pour être gentils, on laisse aussi une semaine à la marque pour préparer sa communication. Pour effacer d'autres mails.
+(생각하며) 네 말이 맞아. 그 회사에도 정직한 사람들이 있지. 바스티앙도 그중 하나고. 그런데 착하게 굴려고 일주일을 기다리면, 브랜드한테도 홍보를 준비할 일주일을 주는 거야. 다른 메일들을 지울 일주일을.
+Léa: Donc on publie lundi.
+그러니까 월요일에 내는 거네요.
+Julien: On publie quand nos faits sont prêts et que le contradictoire est terminé. Si c'est lundi, c'est lundi. Ce n'est pas une vengeance. C'est un calendrier.
+우리 사실관계가 준비되고 반론 기회 보장이 끝났을 때 내는 거야. 그게 월요일이면 월요일이지. 복수가 아니야. 일정일 뿐이지.
+Léa: (elle regarde les lumières de Paris) Rokia sera là. Devant le Grand Palais. Avec Aïssatou et l'association. Elles veulent manifester.
+(파리의 불빛을 바라보며) 로키아 언니가 거기 올 거예요. 그랑 팔레 앞에. 아이사투랑 단체 사람들이랑. 시위를 하고 싶대요.
+Julien: Avec sa main bandée ?
+붕대 감은 손으로?
+Léa: Avec sa main bandée. Elle a dit : « Ils montrent leurs sacs. Moi, je vais montrer mes mains. »
+붕대 감은 손으로요. 그러더라고요. «그 사람들은 가방을 보여 주잖아. 난 내 손을 보여 줄 거야.»
+Julien: (un long silence) Ça, c'est un meilleur titre que tous ceux qu'on a trouvés.
+(긴 침묵) 그게 우리가 찾은 어떤 제목보다 낫다.
+Léa: Tu crois qu'Hélène acceptera ce titre ?
+엘렌이 그 제목을 받아들일까요?
+Julien: Ce n'est pas un titre. C'est une citation. Et une citation, c'est un fait. Aubry n'aura aucune objection.
+그건 제목이 아니야. 인용이지. 그리고 인용은 사실이야. 오브리도 이의가 없을 거야.
+Léa: (elle sourit) « Ils montrent leurs sacs. Moi, je montre mes mains. »
+(웃으며) «그들은 가방을 보여 준다. 나는 내 손을 보여 준다.»
+Julien: (il regarde le ciel) Rokia, journaliste. Elle écrit mieux que nous.
+(하늘을 바라보며) 기자 로키아. 우리보다 글을 잘 쓰네.
+
+## 주요 단어
+le post-it | 르 뽀스띠뜨 | 포스트잇 (A2)
+élever → élevé | 엘르베 | (가축을) 기르다 (B1)
+de loin | 드 루앵 | 단연, 훨씬 (B2)
+l'accessoire (m.) | 락세수아르 | 부자재, 액세서리 (B1)
+la fermeture | 라 페르므뛰르 | 잠금장치 (B1)
+le sous-traitant | 르 수트레땅 | 하청업체 (B2)
+fuiter | 퓌이떼 | (정보가) 새어 나가다 (B2)
+répartir → réparti | 레빠르띠르 | 나누다, 분배하다 (B2)
+le bon de livraison | 르 봉 드 리브레종 | 납품서 (B1)
+la marge opérationnelle | 라 마르주 오뻬라시오넬 | 영업 이익률 (C1)
+la maroquinerie | 라 마로끼느리 | 가죽 공방, 가죽 제품 (C1)
+la zone industrielle | 라 존 앵뒤스트리엘 | 산업 단지 (B1)
+la dernière touche | 라 데르니에르 뚜슈 | 마지막 손질 (B2)
+l'emballage (m.) | 랑발라주 | 포장 (B1)
+les règles d'origine (f.) | 레 레글 도리진 | 원산지 규정 (C1)
+substantiel(le) | 쉽스땅시엘 | 실질적인, 상당한 (C1)
+envisageable | 앙비자자블 | 고려할 수 있는 (C1)
+le défilé | 르 데필레 | 패션쇼 (B1)
+
+## 문법·표현 정리
+**un sous-traitant de sous-traitant (B2):** "하청업체의 하청업체". 명사 + de + 무관사 명사로 사슬 구조 표현. un intermédiaire d'intermédiaire.
+**cinquante fois moins (B2):** 배수 비교. cinquante fois plus cher que(50배 더 비싼), deux fois moins que(절반). Le sac est vendu cinquante fois plus cher que ce qu'il coûte.
+**Ils ne pouvaient pas ne pas savoir (B2):** 이중 부정 = 강한 긍정. "몰랐을 리가 없다" = 분명히 알았다. Je ne peux pas ne pas réagir.(반응하지 않을 수 없다)
+**plus… que jamais (B2):** "그 어느 때보다 더". La marque gagne plus que jamais. Et paie moins que jamais.
+**비교급 기본 (A2):** plus… que / moins… que / aussi… que(형용사), autant que(동사·명사). Le cuir est plus cher que les accessoires.
+**최상급 (B1):** la matière la plus chère du sac(가방에서 가장 비싼 재료) / une des plus élevées de l'industrie(업계에서 가장 높은 것 중 하나)
+**dix fois plus de sacs que (B2):** 명사의 배수 비교: plus de + 명사 + que. dix fois plus de sacs que vingt-deux personnes peuvent en faire.
+**diviser par / multiplier par (B1):** Deux mille six cents divisé par cinquante-trois.(2,600 나누기 53) 숫자 표현: pour mille(1,000분의).
+**par rapport à (B2):** "~에 비해". ce que la marque paie, par rapport à ce que paie la cliente.
+**pendant que (B1):** 대조. Les vrais artisans sont au chômage, pendant que les sacs sont cousus en banlieue.
+**il a fallu + 명사 + pour (B2):** "~하는 데 ~이 필요했다". Il leur a fallu une semaine pour devenir capables de l'impossible.
+**ce n'est pas nous qui (B2):** 강조 구문 부정. Ce n'est pas nous qui avons choisi la date. 동사는 nous에 일치(avons).
+**dont l'origine ne peut être établie (C1):** dont 관계절 + pouvoir의 ne 단독 부정(문어체). "출처를 확인할 수 없는".
+**désormais (B2):** "이제부터, 앞으로". La Maison s'engage désormais à auditer…
