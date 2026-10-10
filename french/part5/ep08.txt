@@ -1,0 +1,341 @@
+# 5부 8화. Deepfake (딥페이크)
+수준: A2~C1 혼합 (중심 B2) | 장소: 카림의 아파트(작업 공간)·편집국 | 시간: 2월 28일 토요일
+핵심 표현: L'audio a été manipulé · Il est impossible que… · Écoute bien · On l'a démonté
+
+## 대화
+Léa: (vendredi, vingt-deux heures, à la rédaction ; le téléphone sonne) Allô ?
+(금요일 밤 열 시, 편집국. 전화가 울린다) 여보세요?
+Camille: (au téléphone, très vite) Neige. Écoute bien. L'agenda de Harmel. Demain, samedi, sept heures. Une seule lettre : « N. » Et dessous : « Lancement ».
+(전화로, 아주 빠르게) 눈. 잘 들어. 아르멜 일정. 내일 토요일 일곱 시. 글자 하나: «N.» 그리고 그 아래: «출시».
+Léa: (elle écrit) Samedi, sept heures. N. Lancement.
+(적으며) 토요일 일곱 시. N. 출시.
+Camille: C'est tout ce que je sais. (un silence) Je vous laisse. Bonne nuit.
+내가 아는 건 그게 다야. (침묵) 끊을게. 잘 자.
+Léa: (elle raccroche, elle se tourne vers Hélène et Karim) Demain matin, sept heures.
+(전화를 끊고 엘렌과 카림을 돌아보며) 내일 아침 일곱 시래요.
+Hélène: (elle prend une grande respiration) Un samedi matin. Quand les rédactions sont vides. Quand personne ne vérifie. (un silence) Ils sont malins.
+(크게 숨을 쉬며) 토요일 아침. 편집국들이 텅 빌 때. 아무도 확인하지 않을 때. (침묵) 영리하네.
+Karim: Clara Benhamou a dit oui. Elle vient chez moi à sept heures. Avec son matériel.
+클라라 벤하무가 좋다고 했어요. 일곱 시에 우리 집으로 와요. 장비 들고.
+Hélène: Pourquoi chez toi ?
+왜 너희 집이야?
+Karim: Parce que si Argos nous surveille, ils regardent la rédaction. Pas un sixième étage sans ascenseur dans le vingtième.
+아르고스가 우릴 감시한다면 편집국을 보겠죠. 20구 엘리베이터 없는 6층이 아니라.
+Hélène: (elle hoche la tête) Léa, tu y vas aussi. Moi, je reste ici avec Bernard. Si ça sort, je veux que notre réponse soit en ligne avant midi.
+(고개를 끄덕이며) 레아, 너도 가. 난 베르나르랑 여기 있을게. 그게 나오면 정오 전에 우리 반박이 올라가 있었으면 해.
+Karim: (samedi, six heures quarante, dans son appartement du sixième étage ; trois écrans allumés, une cafetière pleine) Ils sont où ? Il est presque sept heures.
+(토요일 오전 여섯 시 사십 분, 6층 아파트. 화면 세 대가 켜져 있고 커피포트가 가득하다) 다들 어디야? 거의 일곱 시인데.
+Léa: (elle entre, essoufflée, deux sacs de croissants à la main) Six étages à six heures du matin. Tu es un monstre, Karim.
+(숨을 헐떡이며 크루아상 봉지 두 개를 들고 들어오며) 새벽 여섯 시에 6층이라니. 카림, 괴물이에요.
+Karim: Le meilleur système de sécurité de Paris. (il prend un croissant) Clara arrive. Elle se gare.
+파리 최고의 보안 시스템이야. (크루아상을 집으며) 클라라 오고 있어. 주차 중이래.
+Léa: Tu es sûr que c'est ce matin ?
+오늘 아침인 거 확실해요?
+Karim: Camille a dit hier soir : dans l'agenda de Harmel, samedi, sept heures, une seule lettre. « N. » (un silence) Et sous la lettre, un mot : « Lancement ».
+카미유가 어젯밤에 그랬어. 아르멜 일정에 토요일 일곱 시, 글자 하나. «N.» (침묵) 그리고 그 아래 단어 하나. «출시».
+Clara: (une femme de quarante-cinq ans, des cheveux gris très courts, un grand casque audio autour du cou, une valise métallique à la main) Bonjour. Clara Benhamou. (elle regarde l'escalier derrière elle) Six étages, avec quinze kilos de matériel. Vous me devez un très bon café.
+(마흔다섯 살쯤, 아주 짧은 회색 머리, 목에 큰 헤드폰을 걸고 금속 가방을 든 여자) 안녕하세요. 클라라 벤하무예요. (뒤의 계단을 보며) 15킬로 장비 들고 6층이라니. 아주 좋은 커피 한 잔 빚지셨어요.
+Karim: (il lui tend une tasse) Le meilleur de Paris.
+(잔을 건네며) 파리 최고로.
+Clara: (elle ouvre sa valise : un ordinateur, des câbles, deux petits haut-parleurs) Bon. Expliquez-moi ce que je vais écouter.
+(가방을 연다. 컴퓨터, 케이블, 작은 스피커 두 개) 자. 제가 뭘 듣게 될지 설명해 주세요.
+Léa: Un enregistrement. Peut-être. On ne l'a pas encore. Une femme politique. Ils vont dire qu'elle accepte de l'argent. Elle dit qu'elle n'a jamais dit ces mots.
+녹음이요. 아마도요. 아직 없어요. 여성 정치인이에요. 그녀가 돈을 받는다고 할 거예요. 그녀는 그런 말을 한 적이 없대요.
+Clara: (elle hoche la tête) Tout le monde dit qu'il n'a jamais dit ces mots. (un silence) La moitié du temps, c'est faux. Les gens oublient ce qu'ils ont dit.
+(고개를 끄덕이며) 다들 그런 말 한 적 없다고 해요. (침묵) 절반은 거짓말이에요. 사람들은 자기가 한 말을 잊거든요.
+Karim: Et l'autre moitié ?
+그럼 나머지 절반은요?
+Clara: L'autre moitié, depuis deux ans, de plus en plus, c'est une machine. (elle branche un câble) Il y a trois ans, j'avais un faux par an. Aujourd'hui, j'en ai un par semaine.
+나머지 절반은, 2년 전부터 점점 더, 기계예요. (케이블을 꽂으며) 3년 전엔 1년에 가짜 하나였어요. 지금은 일주일에 하나예요.
+Léa: (en attendant, elle regarde Clara installer ses câbles) Comment on fabrique une fausse voix ? Concrètement ?
+(기다리면서 클라라가 케이블을 설치하는 걸 보며) 가짜 목소리는 어떻게 만들어요? 구체적으로요?
+Clara: (sans lever les yeux) On donne à une machine des heures d'enregistrement d'une personne. La machine apprend comment elle parle. Sa hauteur. Son rythme. Ses petites habitudes. Puis on tape une phrase, et la machine la dit avec cette voix.
+(눈을 들지 않고) 기계한테 한 사람의 녹음을 몇 시간 줘요. 기계가 그 사람이 어떻게 말하는지 배우죠. 음높이. 리듬. 작은 습관들. 그다음 문장을 입력하면 기계가 그 목소리로 말해요.
+Léa: Il faut combien d'heures ?
+몇 시간이 필요해요?
+Clara: Il y a cinq ans, il fallait des dizaines d'heures. Aujourd'hui, trois minutes suffisent pour quelque chose de correct. Une heure, pour quelque chose de très bon.
+5년 전엔 수십 시간이 필요했어요. 지금은 3분이면 꽤 괜찮은 게 나와요. 한 시간이면 아주 좋은 게 나오고요.
+Léa: (elle frissonne) Trois minutes. Mon message de répondeur dure trente secondes.
+(몸을 떨며) 3분. 제 음성 사서함 인사말이 30초인데.
+Clara: (elle sourit, un peu tristement) Alors ne dites jamais « oui » à un numéro inconnu. Ils enregistrent votre « oui ». Et un jour, votre « oui » accepte un contrat que vous n'avez jamais signé.
+(조금 슬프게 웃으며) 그럼 모르는 번호에 절대 «네»라고 하지 마세요. 그 «네»를 녹음해요. 그리고 언젠가 당신의 «네»가 한 번도 서명하지 않은 계약을 수락하죠.
+Karim: (il rit) Clara est très optimiste le matin.
+(웃으며) 클라라는 아침에 아주 낙관적이야.
+Clara: (elle branche le dernier câble) Je suis réaliste. Mais j'ai une bonne nouvelle. (un silence) Les machines sont très bonnes pour imiter une voix. Elles sont encore mauvaises pour imiter une vie. Le bruit autour. La respiration. Les hésitations. C'est là qu'on les attrape.
+(마지막 케이블을 꽂으며) 현실적인 거야. 하지만 좋은 소식이 있어요. (침묵) 기계는 목소리를 흉내 내는 데는 아주 능숙해요. 하지만 삶을 흉내 내는 데는 아직 서툴러요. 주변 소음. 숨소리. 망설임. 거기서 잡는 거예요.
+Léa: (son téléphone vibre ; elle lit) Paul Ndiaye. Il arrive aussi. Avec quelque chose. Il dit : « J'ai les enregistrements de Nadia. Tous. »
+(휴대폰이 진동한다. 읽는다) 폴 은디아예. 그 사람도 와요. 뭔가 가지고. «나디아 녹음 있어요. 전부»래요.
+Karim: Les enregistrements de Nadia ?
+나디아 녹음?
+Léa: (elle lit la suite) « Depuis le début de la campagne, je pose un dictaphone à côté d'elle pour chaque interview. Pour garder une trace de ce qu'elle dit. Seulement sa voix. Avec son accord. »
+(이어서 읽으며) «선거 운동 시작부터 인터뷰 때마다 그녀 옆에 녹음기를 놔뒀어요. 그녀가 한 말을 기록해 두려고요. 그녀 목소리만. 그녀 동의를 받아서요.»
+Clara: (elle sourit pour la première fois) Ça, c'est un directeur de campagne intelligent.
+(처음으로 웃으며) 똑똑한 본부장이네요.
+Karim: (sept heures deux, une alerte sonne sur son écran) Ça y est. (il lit) « Le Petit Journal du 19e ». Titre : « EXCLUSIF : l'enregistrement qui accuse Nadia Saïdi ».
+(일곱 시 이 분, 화면에서 알림이 울린다) 나왔다. (읽으며) «19구 작은 신문». 제목: «단독: 나디아 사이디를 고발하는 녹음».
+Léa: (elle se penche) Il y a un fichier audio ?
+(몸을 숙이며) 오디오 파일 있어요?
+Karim: Une minute vingt-deux. (il regarde un autre écran) Et il est déjà partagé par… trois cents comptes. Quatre cents. Six cents. (un silence) En deux minutes.
+1분 22초. (다른 화면을 보며) 그리고 벌써 공유한 계정이… 300개. 400개. 600개. (침묵) 2분 만에.
+Clara: (elle met son casque) Téléchargez-le. La meilleure qualité possible. Et ne l'écoutez pas sur les haut-parleurs. On écoute d'abord avec les oreilles propres.
+(헤드폰을 쓰며) 다운로드하세요. 최고 화질로. 그리고 스피커로 듣지 마세요. 먼저 깨끗한 귀로 들어야 해요.
+Karim: (il télécharge, il lui envoie le fichier) Voilà.
+(다운로드해서 그녀에게 파일을 보내며) 여기요.
+Clara: (elle ferme les yeux ; elle écoute ; personne ne bouge ; une minute vingt-deux) …
+(눈을 감는다. 듣는다. 아무도 움직이지 않는다. 1분 22초) …
+Clara: (elle enlève son casque) Mettez-le sur les haut-parleurs. Pour eux.
+(헤드폰을 벗으며) 스피커로 틀어 주세요. 이분들 위해서.
+Karim: (il appuie sur « lecture ») …
+(«재생»을 누른다) …
+La voix: (une voix de femme, celle de Nadia Saïdi, un peu étouffée, comme dans une voiture) « … oui, oui, je comprends. Cinquante mille. En liquide, c'est mieux. … Non, je ne peux pas vous le dire au téléphone. … Après l'élection, le permis sera signé, je vous le promets. … Personne ne le saura. »
+(나디아 사이디의 여자 목소리, 차 안에서처럼 조금 먹먹하다) «…네, 네, 알겠어요. 5만. 현금이 더 좋아요. … 아니요, 전화로는 말씀드릴 수 없어요. … 선거 후에 허가가 서명될 거예요, 약속해요. … 아무도 모를 거예요.»
+Léa: (elle met une main sur sa bouche) C'est sa voix. C'est vraiment sa voix.
+(손으로 입을 가리며) 그녀 목소리예요. 진짜 그녀 목소리예요.
+Clara: C'est sa voix. (un silence) Ça ne veut pas dire que ce sont ses mots.
+그녀 목소리죠. (침묵) 그게 그녀 말이라는 뜻은 아니에요.
+Karim: Tu peux le prouver ?
+증명할 수 있어?
+Clara: (elle boit une gorgée de café) Je peux essayer. Ça va prendre quelques heures. (elle ouvre un programme ; une image apparaît, avec des couleurs, du bleu, du jaune, du rouge) Ça, c'est un spectrogramme. La voix, en image. Chaque son a sa couleur, sa forme.
+(커피를 한 모금 마시며) 해 볼 수는 있어요. 몇 시간 걸릴 거예요. (프로그램을 연다. 파랑, 노랑, 빨강 색이 있는 이미지가 뜬다) 이건 스펙트로그램이에요. 목소리를 그림으로 본 거죠. 소리마다 색과 모양이 있어요.
+Léa: On dirait un tableau abstrait.
+추상화 같아요.
+Clara: Pour moi, c'est un visage. (elle zoome) Regardez. Ici, elle respire. Ici, elle parle. Ici… (elle s'arrête) Ici, il y a un problème.
+제게는 얼굴이에요. (확대하며) 보세요. 여기서 숨을 쉬어요. 여기서 말하고. 여기… (멈춘다) 여기 문제가 있네요.
+Karim: Quel problème ?
+무슨 문제요?
+Clara: Écoute bien. (elle isole deux secondes ; elle les fait jouer ; « Cinquante mille. En liquide, c'est mieux. ») Tu entends le bruit derrière ? La voiture ?
+잘 들어 봐요. (2초를 잘라 낸다. 재생한다. «5만. 현금이 더 좋아요.») 뒤에 소리 들려요? 차 소리?
+Karim: Oui. Un moteur. Doucement.
+네. 엔진. 작게.
+Clara: Maintenant, écoute bien entre « mille » et « En ». (elle ralentit le son) …
+이제 «mille»랑 «En» 사이를 잘 들어 봐요. (소리를 느리게 한다) …
+Léa: (elle fronce les sourcils) Le moteur… il s'arrête ?
+(인상을 쓰며) 엔진이… 멈춰요?
+Clara: Pendant quatre centièmes de seconde, le bruit de la voiture disparaît complètement. Puis il revient. (elle montre l'image : une fine ligne noire, verticale) Une coupure. Quelqu'un a collé deux morceaux. Et il a ajouté le bruit de la voiture après, pour cacher les collages. Mais il a raté un endroit.
+100분의 4초 동안 차 소리가 완전히 사라져요. 그리고 다시 돌아오고. (이미지를 보여 준다. 가는 검은 세로선) 끊긴 자리예요. 누가 두 조각을 붙였어요. 그리고 이음매를 숨기려고 나중에 차 소리를 덧입혔고요. 그런데 한 군데를 놓쳤어요.
+Karim: Une erreur.
+실수네.
+Clara: Une petite erreur. (un silence) Mais une petite erreur ne suffit pas. Leurs avocats diront que c'est un problème de compression. D'enregistrement. De téléphone. Il me faut plus.
+작은 실수죠. (침묵) 하지만 작은 실수 하나로는 부족해요. 그쪽 변호사들은 압축 문제라고 할 거예요. 녹음 문제. 휴대폰 문제. 더 필요해요.
+Paul: (sept heures quarante, il entre, rouge, essoufflé, un vieux dictaphone et un ordinateur portable dans les bras) Six étages ! Qui habite au sixième étage sans ascenseur ? (il voit Clara) Pardon. Paul Ndiaye. J'ai tout. Toutes les interviews de Nadia depuis décembre. Quarante-trois heures.
+(일곱 시 사십 분, 빨개진 얼굴로 숨을 헐떡이며 낡은 녹음기와 노트북을 안고 들어온다) 6층! 엘리베이터 없는 6층에 누가 살아요? (클라라를 보고) 죄송해요. 폴 은디아예예요. 다 가져왔어요. 12월부터 나디아 인터뷰 전부. 43시간.
+Clara: (ses yeux brillent) Et la fausse radio ? Début février ?
+(눈이 반짝이며) 그럼 가짜 라디오는요? 2월 초?
+Paul: (il ouvre son ordinateur) Le quatre février. Une heure et sept minutes. « Radio Quartiers Nord ». (un silence) Nadia était dans son bureau. J'étais à côté. Le dictaphone était sur la table.
+(노트북을 열며) 2월 4일. 1시간 7분. «라디오 카르티에 노르». (침묵) 나디아는 자기 사무실에 있었어요. 저는 옆에 있었고요. 녹음기는 탁자 위에 있었어요.
+Clara: Donnez-le-moi. Tout de suite.
+주세요. 지금 당장.
+Léa: (pendant que Clara travaille, elle regarde l'autre écran ; les partages montent : huit mille, douze mille, vingt mille) Karim… regarde. Une chaîne d'information en continu vient de le reprendre. « Un enregistrement embarrassant pour Nadia Saïdi circule sur les réseaux. »
+(클라라가 작업하는 동안 다른 화면을 본다. 공유가 올라간다. 8천, 1만 2천, 2만) 카림… 봐요. 24시간 뉴스 채널이 방금 받아 썼어요. «나디아 사이디에게 곤란한 녹음이 SNS에서 퍼지고 있다.»
+Karim: (il serre les dents) « Circule ». Ils ne disent pas qu'il est vrai. Ils disent qu'il circule. Comme ça, ils ne mentent pas.
+(이를 악물며) «퍼지고 있다». 진짜라고는 안 해. 퍼지고 있다고 하지. 그러면 거짓말은 아니니까.
+Paul: (son téléphone n'arrête pas de sonner) Les journalistes. Tous les journalistes de France. (il décroche, puis raccroche) Ils veulent une réaction de Nadia. Avant dix heures.
+(전화가 끊임없이 울린다) 기자들이에요. 프랑스 기자 전부. (받았다가 끊으며) 나디아 입장을 원해요. 열 시 전에.
+Léa: Elle est où ?
+그녀는 어디 있어요?
+Paul: Chez elle. Avec Yasmine. Elle ne veut parler à personne avant qu'on ait une preuve. (un silence) Elle m'a dit : « Si je dis seulement "c'est faux", personne ne me croira. Tout le monde dit "c'est faux". »
+집에요. 야스민이랑. 증거가 나오기 전엔 아무하고도 얘기 안 하겠대요. (침묵) 이렇게 말했어요. «그냥 "가짜예요"라고만 하면 아무도 안 믿을 거야. 다들 "가짜예요"라고 하니까.»
+Julien: (huit heures trente, il entre à son tour, essoufflé, sans cravate, un bonnet sur la tête) Six étages. Encore.
+(여덟 시 반, 그도 숨을 헐떡이며 들어온다. 넥타이 없이 비니를 쓰고) 6층. 또.
+Léa: Julien ? Tu ne devrais pas être ici. Si quelqu'un te suit…
+쥘리앵? 여기 오면 안 되잖아요. 누가 따라오면…
+Julien: Personne ne suit Antoine Ferrand un samedi matin. Antoine dort jusqu'à onze heures. (il regarde l'écran) Alors ?
+토요일 아침에 앙투안 페랑을 따라다니는 사람은 없어. 앙투안은 열한 시까지 자거든. (화면을 보며) 그래서?
+Karim: Clara a trouvé une coupure. Elle cherche plus.
+클라라가 끊긴 데를 찾았어. 더 찾고 있어.
+Julien: (il s'assoit, il baisse la voix) Hier soir, Saint-Clair m'a fait appeler. Déjeuner mardi. Chez lui. (un silence) Bérénice a dit : « Le président voudrait vous parler d'un projet qui pourrait intéresser vos clients. »
+(앉아서 목소리를 낮추며) 어젯밤에 생클레르가 전화하게 했어. 화요일 점심. 그의 집에서. (침묵) 베레니스가 그러더라. «이사장님께서 고객분들이 관심 가질 만한 프로젝트 얘기를 하고 싶어 하세요.»
+Léa: Un projet ?
+프로젝트요?
+Julien: Je ne sais pas. (il regarde le spectrogramme) Mais je pense que je suis en train de le regarder.
+몰라. (스펙트로그램을 보며) 근데 지금 그걸 보고 있는 것 같아.
+Karim: (sans quitter son écran des yeux) Et Camille ? Tu as des nouvelles ?
+(화면에서 눈을 떼지 않고) 그럼 카미유는? 소식 있어?
+Julien: (un silence) Elle a dit « neige » hier soir. Comme tous les soirs. (un silence) Mais sa voix… Elle a la voix de quelqu'un qui ne dort plus.
+(침묵) 어젯밤에 «눈»이라고 했대. 매일 밤처럼. (침묵) 근데 목소리가… 잠을 못 자는 사람 목소리래.
+Clara: (elle enlève son casque d'un coup) Venez voir. Tous.
+(헤드폰을 확 벗으며) 와서 보세요. 다들.
+Clara: (elle montre deux spectrogrammes, l'un au-dessus de l'autre) En haut : l'enregistrement de ce matin. « Non, je ne peux pas vous le dire au téléphone. » En bas : le dictaphone de Paul. Le quatre février. Minute trente-huit. La fausse radio lui pose une question sur un permis de construire. Et elle répond… (elle appuie sur « lecture »)
+(스펙트로그램 두 개를 위아래로 보여 준다) 위: 오늘 아침 녹음. «아니요, 전화로는 말씀드릴 수 없어요.» 아래: 폴의 녹음기. 2월 4일. 38분. 가짜 라디오가 건축 허가에 대해 질문하고. 그녀가 대답하죠… («재생»을 누른다)
+La voix de Saïdi: (sur le dictaphone, avec le bruit d'un bureau, des voix lointaines) « Non, je ne peux pas vous le dire au téléphone. C'est un dossier en cours. »
+(녹음기에서, 사무실 소음과 먼 목소리들과 함께) «아니요, 전화로는 말씀드릴 수 없어요. 진행 중인 사안이에요.»
+Léa: (elle regarde les deux images) Elles sont… pareilles.
+(두 이미지를 보며) 똑같아요…
+Clara: Elles ne sont pas pareilles. Elles sont identiques. (elle superpose les deux images ; elles se recouvrent parfaitement) Même durée, à un millième de seconde près. Même respiration avant « Non ». Même petit clic de la langue sur « téléphone ».
+비슷한 게 아니에요. 동일해요. (두 이미지를 겹친다. 완벽하게 포개진다) 같은 길이, 1000분의 1초까지. «Non» 앞의 같은 숨소리. «téléphone»에서 혀 차는 같은 작은 소리.
+Karim: (très bas) Il est impossible que quelqu'un dise deux fois une phrase exactement de la même façon.
+(아주 작게) 누군가 같은 문장을 두 번 정확히 똑같이 말하는 건 불가능해.
+Clara: Impossible. Un être humain ne prononce jamais deux fois la même phrase de façon identique. Jamais. Même un acteur. Même un robot qui parle, d'ailleurs, ajoute de petites variations. (un silence) Ici, ce n'est pas la même phrase dite deux fois. C'est la même phrase copiée. Sortie de l'interview du quatre février et collée dans l'enregistrement de ce matin.
+불가능해요. 인간은 같은 문장을 두 번 똑같이 발음하지 않아요. 절대로. 배우도요. 말하는 로봇도 사실 작은 변화를 넣어요. (침묵) 이건 같은 문장을 두 번 말한 게 아니에요. 같은 문장을 복사한 거예요. 2월 4일 인터뷰에서 잘라 내서 오늘 아침 녹음에 붙인 거죠.
+Paul: (il s'assoit lourdement) Ils ont utilisé sa vraie voix. Pour lui faire dire ce qu'elle n'a jamais dit.
+(털썩 주저앉으며) 그녀의 진짜 목소리를 썼군요. 한 번도 하지 않은 말을 하게 하려고.
+Clara: Une partie de sa vraie voix. Pour le reste… (elle montre une autre partie de l'image, plus lisse, plus régulière) « Cinquante mille. En liquide, c'est mieux. » Ça, elle ne l'a jamais dit. C'est généré. Regardez : pas de respiration entre les mots. Une voix humaine respire. Celle-ci, non. Elle parle comme si elle n'avait pas de poumons.
+그녀의 진짜 목소리 일부요. 나머지는… (더 매끈하고 규칙적인 다른 부분을 가리키며) «5만. 현금이 더 좋아요.» 이건 한 번도 안 한 말이에요. 생성된 거예요. 보세요. 단어 사이에 숨소리가 없어요. 사람 목소리는 숨을 쉬어요. 이건 안 쉬어요. 폐가 없는 것처럼 말하죠.
+Léa: Et « cinquante mille » ? Elle l'a dit à la fausse radio. Pour parler du budget.
+그럼 «5만»은요? 가짜 라디오한테 말했잖아요. 예산 얘기하면서.
+Clara: (elle cherche dans l'enregistrement de Paul ; elle trouve ; « Le budget des écoles, c'est cinquante mille euros par an, pas plus. ») Voilà la source. Ils ont pris « cinquante mille » ici. Et ils ont généré « En liquide, c'est mieux » avec une machine entraînée sur une heure de sa voix.
+(폴의 녹음을 뒤진다. 찾는다. «학교 예산은 1년에 5만 유로예요, 그 이상은 아니에요.») 여기가 출처예요. «5만»은 여기서 가져왔어요. 그리고 «현금이 더 좋아요»는 그녀 목소리 한 시간으로 학습시킨 기계로 생성했고요.
+Karim: (il note tout) Donc trois preuves. Un : une coupure dans le bruit de fond. Deux : une phrase copiée à l'identique depuis une interview de février. Trois : des parties générées, sans respiration.
+(전부 적으며) 그러니까 증거 세 개. 하나: 배경 소음의 끊김. 둘: 2월 인터뷰에서 그대로 복사한 문장. 셋: 숨소리 없는 생성 부분.
+Clara: Et quatre. (elle sourit) La fausse radio qui a enregistré l'interview n'existe pas. Le site a été créé le même jour que le site qui publie l'enregistrement.
+그리고 넷. (웃으며) 인터뷰를 녹음한 가짜 라디오는 존재하지 않아요. 그 사이트는 녹음을 공개한 사이트와 같은 날 만들어졌고요.
+Léa: (elle regarde l'heure) Neuf heures quinze.
+(시계를 보며) 아홉 시 십오 분.
+Karim: (il appelle Hélène, haut-parleur) Hélène ? On l'a. L'audio a été manipulé. Clara peut le prouver. Quatre preuves.
+(스피커로 엘렌에게 전화하며) 엘렌? 잡았어요. 오디오가 조작됐어요. 클라라가 증명할 수 있어요. 증거 네 개.
+Hélène: (au haut-parleur, depuis la rédaction) Combien de temps pour écrire ?
+(스피커로, 편집국에서) 쓰는 데 얼마나 걸려?
+Karim: Une heure. Avec les images.
+한 시간이요. 이미지 포함해서.
+Hélène: Tu en as quarante-cinq minutes. Les chaînes de télé ont prévu des débats à onze heures. Je veux que notre article soit en ligne avant qu'ils commencent. (un silence) Léa, tu écris avec Karim. Clara, vous acceptez d'être citée sous votre nom ?
+45분 줄게. TV 채널들이 열한 시에 토론을 잡아 놨어. 그게 시작하기 전에 우리 기사가 올라가 있었으면 해. (침묵) 레아, 카림이랑 같이 써. 클라라 씨, 실명으로 인용돼도 괜찮으세요?
+Clara: (un silence) Je témoigne devant des juges depuis quinze ans sous mon nom. (elle remet son casque) Je ne vais pas me cacher devant une machine.
+(침묵) 15년 동안 판사들 앞에서 실명으로 증언했어요. (헤드폰을 다시 쓰며) 기계 앞에서 숨진 않을 거예요.
+Karim: (il ouvre une page sur un réseau social) Et en même temps, on demande aux plateformes de retirer l'audio. Ou au moins de le signaler comme manipulé.
+(SNS 페이지를 열며) 그리고 동시에 플랫폼들한테 오디오 삭제를 요청하자. 아니면 최소한 조작됐다고 표시해 달라고.
+Julien: Ils vont le faire ?
+해 줄까?
+Karim: (il remplit un formulaire) J'envoie notre analyse. (il clique ; une réponse automatique apparaît) « Merci pour votre signalement. Notre équipe l'examinera dans les plus brefs délais. » (il soupire) « Dans les plus brefs délais ». C'est-à-dire mardi.
+(양식을 채우며) 우리 분석을 보낼게. (클릭하자 자동 답장이 뜬다) «신고해 주셔서 감사합니다. 저희 팀이 최대한 빨리 검토하겠습니다.» (한숨을 쉬며) «최대한 빨리». 그러니까 화요일.
+Clara: Mardi, tout le monde l'aura entendu. (un silence) C'est pour ça que votre article compte plus que leur formulaire.
+화요일이면 다들 이미 들었겠죠. (침묵) 그래서 여러분 기사가 그들의 양식보다 더 중요한 거예요.
+Léa: (elle s'assoit devant le clavier ; elle respire) Par quoi on commence ?
+(키보드 앞에 앉는다. 숨을 고른다) 뭐부터 시작해요?
+Karim: Par ce que les gens doivent savoir en une phrase. Le reste vient après.
+사람들이 한 문장으로 알아야 할 것부터. 나머진 그다음.
+Léa: (elle tape) « L'enregistrement attribué à Nadia Saïdi, publié ce matin à sept heures et partagé plus de quarante mille fois, est un montage. » (elle s'arrête) Montage ou faux ?
+(타이핑하며) «오늘 아침 일곱 시에 공개돼 4만 회 이상 공유된, 나디아 사이디의 것으로 알려진 녹음은 짜깁기다.» (멈추며) 짜깁기, 아니면 가짜?
+Clara: (sans enlever son casque) Montage. Une partie est vraie. C'est ça le plus dangereux. Écrivez « montage », c'est plus exact.
+(헤드폰을 벗지 않고) 짜깁기. 일부는 진짜예요. 그게 제일 위험한 거죠. «짜깁기»라고 쓰세요, 그게 더 정확해요.
+Léa: (elle continue) « Selon l'analyse de l'experte judiciaire Clara Benhamou, une phrase a été copiée à l'identique depuis une interview donnée par la candidate le 4 février, et d'autres passages ont été générés par intelligence artificielle. »
+(계속 쓰며) «법원 전문가 클라라 벤하무의 분석에 따르면, 한 문장은 후보가 2월 4일에 한 인터뷰에서 그대로 복사됐고, 다른 부분들은 인공지능으로 생성됐다.»
+Karim: Bien. Le passif, c'est bien. « A été copiée. » « Ont été générés. » On ne dit pas encore par qui. On ne sait pas encore par qui. Officiellement.
+좋아. 수동태 좋아. «복사됐다.» «생성됐다.» 누가 했는지는 아직 말하지 않아. 공식적으로는 아직 누군지 모르니까.
+Léa: (elle s'arrête) Mais on sait.
+(멈추며) 하지만 우린 알잖아요.
+Karim: (doucement) On sait. Camille sait. Et Camille est encore assise à trois mètres de Harmel. (un silence) Le jour où on écrira le nom, ce sera le jour où elle sera sortie.
+(조용히) 알지. 카미유도 알고. 그리고 카미유는 아직 아르멜한테서 3미터 떨어진 곳에 앉아 있어. (침묵) 그 이름을 쓰는 날은 카미유가 나온 날일 거야.
+Paul: (au téléphone, dans un coin) Nadia ? Écoute. On a la preuve. Une experte. Elle a comparé avec mon dictaphone. (un silence ; on entend des pleurs, puis un rire) Oui. Oui, ton dictaphone que tu détestais. (il rit aussi) Tu vois que j'avais raison.
+(구석에서 전화하며) 나디아? 들어 봐. 증거가 있어. 전문가가 있어. 내 녹음기랑 비교했어. (침묵. 우는 소리, 그리고 웃음소리가 들린다) 응. 응, 네가 싫어하던 그 녹음기. (그도 웃으며) 거 봐, 내가 맞았잖아.
+Saïdi: (au haut-parleur, la voix tremblante) Paul, passe-moi la petite. Léa.
+(스피커로, 떨리는 목소리로) 폴, 그 아가씨 바꿔 줘. 레아.
+Léa: (elle prend le téléphone) Madame Saïdi ?
+(전화를 받으며) 사이디 씨?
+Saïdi: Nadia. (un silence) Vous m'aviez dit : « Si cet enregistrement sort, nous pourrons peut-être prouver qu'il est faux. » Peut-être. (un silence) Merci d'avoir transformé le « peut-être ».
+나디아예요. (침묵) «그 녹음이 나오면 가짜라는 걸 증명할 수 있을지도 몰라요»라고 했잖아요. «지도». (침묵) 그 «지도»를 바꿔 줘서 고마워요.
+Léa: (les larmes aux yeux) Ce n'est pas moi. C'est Paul. Et son dictaphone.
+(눈물이 고인 채) 제가 아니에요. 폴이에요. 그리고 그 녹음기요.
+Saïdi: (elle rit à travers ses larmes) Il va être insupportable pendant des semaines.
+(눈물 속에 웃으며) 몇 주 동안 잘난 척하겠네요.
+Julien: (il relit le texte par-dessus l'épaule de Léa) Le titre ?
+(레아 어깨 너머로 글을 다시 읽으며) 제목은?
+Léa: « L'enregistrement de Nadia Saïdi est un faux » ?
+«나디아 사이디의 녹음은 가짜다»?
+Clara: « Un montage ». Pas « un faux ». Je vous l'ai dit.
+«짜깁기». «가짜»가 아니라. 말씀드렸잖아요.
+Léa: (elle efface, elle retape) « L'enregistrement attribué à Nadia Saïdi est un montage : nos preuves. »
+(지우고 다시 친다) «나디아 사이디의 것으로 알려진 녹음은 짜깁기다: 우리의 증거.»
+Julien: « Nos preuves ». C'est bien. Les gens ne veulent plus qu'on leur dise quoi croire. Ils veulent voir.
+«우리의 증거». 좋네. 사람들은 이제 뭘 믿으라고 말해 주는 걸 원하지 않아. 직접 보고 싶어 하지.
+Karim: Alors on met les deux spectrogrammes. L'un sur l'autre. Et les deux extraits audio. Les gens écouteront eux-mêmes.
+그럼 스펙트로그램 두 개를 넣자. 위아래로. 그리고 오디오 두 개도. 사람들이 직접 들을 거야.
+Bernard: (au même moment, à la rédaction, devant la télévision, au téléphone avec Karim) Le Courrier de Paris vient de publier l'audio. Sans aucune précaution. « Écoutez Nadia Saïdi accepter cinquante mille euros. »
+(같은 시각, 편집국 TV 앞에서 카림과 통화하며) 쿠리에 드 파리가 방금 오디오를 올렸어. 아무 주의도 없이. «나디아 사이디가 5만 유로를 받는 걸 들어 보세요.»
+Karim: (au téléphone) Le Courrier de Paris. Celui qui a « un ami » chez Argos.
+(전화로) 쿠리에 드 파리. 아르고스에 «친구»가 있는 데.
+Bernard: (un silence) Dans une heure, ils devront retirer leur article. Ou ajouter un correctif. (un silence) J'espère qu'ils choisiront le correctif. Ça se verra davantage.
+(침묵) 한 시간 뒤면 기사를 내리든가 정정문을 붙여야 할 거야. (침묵) 정정문을 고르길 바라. 그게 더 눈에 띌 테니까.
+Hélène: (elle prend le téléphone des mains de Bernard) Karim. Envoie-moi le texte. Je relis en dix minutes. Aubry est en ligne.
+(베르나르 손에서 전화를 받으며) 카림. 글 보내. 10분 안에 읽을게. 오브리도 연결돼 있어.
+Aubry: (au haut-parleur) Et surtout, ne prononcez aucun nom de société. Les faits. Rien que les faits.
+(스피커로) 그리고 무엇보다 회사 이름은 하나도 언급하지 마세요. 사실만. 오직 사실만.
+Karim: (dix heures quarante-huit) Hélène a relu. Aubry a relu. (il regarde Léa) Tu veux appuyer ?
+(열 시 사십팔 분) 엘렌이 읽었어. 오브리도 읽었고. (레아를 보며) 네가 누를래?
+Léa: (elle regarde le bouton « Publier » ; elle appuie) Publié.
+(«게시» 버튼을 본다. 누른다) 게시됐어요.
+Karim: (il regarde les chiffres) Dix heures quarante-neuf. (un silence) Douze minutes avant le premier débat.
+(숫자를 보며) 열 시 사십구 분. (침묵) 첫 토론 12분 전.
+Clara: (elle enlève son casque, elle s'étire) On l'a démonté. (elle prend un croissant froid) Je peux manger maintenant ?
+(헤드폰을 벗고 기지개를 켜며) 뒤집었네요. (식은 크루아상을 집으며) 이제 먹어도 돼요?
+Léa: (onze heures dix, devant la télévision, sur l'ordinateur de Karim) Regarde ! Le présentateur… il a notre article dans la main !
+(열한 시 십 분, 카림의 컴퓨터로 TV를 보며) 봐요! 진행자가… 우리 기사를 손에 들고 있어요!
+Le présentateur: (à la télévision) « … mais selon le site d'investigation Le Phare, qui cite une experte judiciaire, cet enregistrement serait un montage, réalisé en partie grâce à l'intelligence artificielle. Nous allons donc être très prudents… »
+(TV에서) «…하지만 법원 전문가를 인용한 탐사 매체 르 파르에 따르면, 이 녹음은 일부 인공지능을 이용해 만든 짜깁기일 수 있다고 합니다. 따라서 저희는 매우 신중하게…»
+Karim: (il lève le poing) « Serait un montage. » Le conditionnel. (il rit) Il ne veut pas se mouiller, mais il recule.
+(주먹을 들어 올리며) «짜깁기일 수 있다.» 조건법. (웃으며) 발을 담그고 싶진 않지만 물러서고 있네.
+Paul: (il regarde son téléphone) Les partages… ils ralentissent. Et les gens partagent votre article. Sept mille. Neuf mille.
+(휴대폰을 보며) 공유가… 느려지고 있어요. 그리고 사람들이 여러분 기사를 공유해요. 7천. 9천.
+Léa: (elle compare les deux chiffres) Quarante mille contre neuf mille. (un silence) C'est mieux que trois cents contre quarante mille.
+(두 숫자를 비교하며) 4만 대 9천. (침묵) 300 대 4만보다는 낫네요.
+Clara: (la bouche pleine) Un mensonge fait le tour de la terre pendant que la vérité met ses chaussures. (elle hausse les épaules) Mais aujourd'hui, la vérité a couru vite.
+(입에 음식을 가득 문 채) 진실이 신발을 신는 동안 거짓말은 지구를 한 바퀴 돌죠. (어깨를 으쓱하며) 하지만 오늘은 진실이 빨리 달렸네요.
+Paul: (midi, à la télévision, Nadia Saïdi apparaît devant son local, avenue de Flandre, Yasmine à côté d'elle) Regardez ! Elle parle !
+(정오, TV에 나디아 사이디가 플랑드르 대로 사무실 앞에 야스민과 함께 나타난다) 보세요! 말해요!
+Saïdi: (à la télévision) « Ce matin, on a mis dans ma bouche des mots que je n'ai jamais prononcés. Des experts ont prouvé que cet enregistrement est un montage. Je porte plainte. Et je continue. » (un silence) « Je vais maintenant faire ce que je fais tous les samedis : le marché de Joinville. »
+(TV에서) «오늘 아침, 누군가 제가 한 번도 하지 않은 말을 제 입에 넣었습니다. 전문가들이 이 녹음이 짜깁기임을 증명했습니다. 저는 고소합니다. 그리고 계속합니다.» (침묵) «이제 매주 토요일 하는 일을 하러 가겠습니다. 주앵빌 시장이요.»
+Léa: (elle rit, les larmes aux yeux) Le geste suivant.
+(눈물이 고인 채 웃으며) 다음 동작.
+Paul: (il se lève, il prend son dictaphone) Je dois y aller. Elle va avoir besoin de quelqu'un pour porter les poireaux.
+(일어서서 녹음기를 집으며) 가 봐야겠어요. 대파 들어 줄 사람이 필요할 거예요.
+Karim: (son téléphone prépayé vibre ; un message de Camille, envoyé depuis les toilettes d'un café) « Harmel a reçu un appel à onze heures douze. Il a cassé sa tasse blanche. »
+(선불폰이 진동한다. 카미유가 어느 카페 화장실에서 보낸 메시지) «아르멜이 열한 시 십이 분에 전화를 받았어. 하얀 컵을 깨뜨렸어.»
+Léa: (elle lit par-dessus son épaule) Il a cassé sa tasse ?
+(어깨 너머로 읽으며) 컵을 깨뜨렸다고요?
+Karim: (un long silence) Samedi. Camille ne travaille pas le samedi. (il relit) Pourquoi elle est à La Défense un samedi ?
+(긴 침묵) 토요일. 카미유는 토요일에 출근 안 해. (다시 읽으며) 왜 토요일에 라데팡스에 있지?
+Léa: (elle prend le téléphone, elle écrit vite) « Pourquoi tu es là-bas ? »
+(전화기를 들어 빠르게 쓴다) «왜 거기 있어요?»
+Camille: (la réponse arrive, une minute plus tard) « Il m'a appelée à six heures. "Venez, Inès. J'ai besoin de vous ce matin." Je suis restée à mon bureau. J'ai tout entendu à travers la porte. Il n'a pas crié. Il a juste dit : "Qui ?" Trois fois. » (un silence) « Neige. Pour l'instant. »
+(1분 뒤 답장이 온다) «여섯 시에 나한테 전화했어. "와요, 이네스. 오늘 아침 당신이 필요해요." 난 내 자리에 있었어. 문 너머로 다 들었어. 소리 지르진 않았어. 그냥 "누구야?"라고만 했어. 세 번.» (침묵) «눈. 지금은.»
+Léa: (elle relève la tête vers Karim) « Qui ? » (un silence) Il cherche qui a pu prouver si vite.
+(카림 쪽으로 고개를 들며) «누구야?» (침묵) 누가 그렇게 빨리 증명했는지 찾는 거예요.
+Karim: (très bas) Il cherche comment on a eu le dictaphone. (un silence) Et il va commencer par regarder autour de lui.
+(아주 작게) 우리가 어떻게 녹음기를 손에 넣었는지 찾는 거지. (침묵) 그리고 자기 주변부터 살펴보기 시작할 거야.
+Léa: (elle appelle Hélène) Hélène… Harmel a demandé « Qui ? » trois fois. Camille était derrière la porte.
+(엘렌에게 전화하며) 엘렌… 아르멜이 «누구야?»를 세 번 물었대요. 카미유가 문 뒤에 있었고요.
+Hélène: (au téléphone, un long silence) Écris-lui ceci. Mot pour mot. « Si tu sens la pluie, même une goutte, tu sors. Aujourd'hui. Sans prévenir personne. »
+(전화로, 긴 침묵) 이렇게 써. 한 글자도 틀리지 말고. «비가 느껴지면, 한 방울이라도, 나와. 오늘. 아무한테도 알리지 말고.»
+Léa: (elle écrit, elle envoie ; ils attendent tous les trois, devant le petit écran du téléphone prépayé) …
+(쓰고 보낸다. 셋 다 선불폰의 작은 화면 앞에서 기다린다) …
+Camille: (la réponse arrive) « Pas de pluie. Il pense à Saïdi, à son équipe, à son directeur de campagne. Pas à moi. Je lui ai fait un café. Dans une tasse blanche. La dernière. »
+(답장이 온다) «비 없음. 그는 사이디, 그 팀, 본부장을 생각하고 있어. 나는 아니야. 커피를 타 줬어. 하얀 컵에. 마지막 남은 거.»
+Karim: (il lit, il souffle) La dernière tasse blanche.
+(읽고 숨을 내쉬며) 마지막 하얀 컵.
+Léa: (doucement) Lundi, elle devra lui servir le café dans la tasse bleue. Celle de Margaux.
+(조용히) 월요일엔 파란 컵에 커피를 타야겠네요. 마르고의 컵.
+
+
+## 주요 단어
+le deepfake | 르 딥페이크 | 딥페이크 (B2)
+manipuler | 마니쀨레 | 조작하다 (B2)
+le montage | 르 몽따주 | 짜깁기, 편집 (B2)
+le spectrogramme | 르 스뻭트로그람 | 스펙트로그램 (C1)
+le dictaphone | 르 딕따폰 | 녹음기 (B1)
+l'expert(e) judiciaire | 렉스뻬르 쥐디시에르 | 법원 전문가 (C1)
+le bruit de fond | 르 브뤼 드 퐁 | 배경 소음 (B2)
+la coupure | 라 꾸쀠르 | 끊김, 잘린 자리 (B2)
+coller | 꼴레 | 붙이다 (A2)
+identique | 이당띠끄 | 동일한 (B1)
+superposer | 쉬뻬르뽀제 | 겹치다 (C1)
+le poumon | 르 뿌몽 | 폐 (B1)
+entraîner (une IA) | 앙트레네 | (AI를) 학습시키다 (B2)
+attribuer à | 아트리뷔에 아 | ~의 것으로 돌리다 (C1)
+circuler | 시르뀔레 | 퍼지다, 유포되다 (B1)
+se mouiller | 스 무이에 | (구어) 위험을 무릅쓰다, 발을 담그다 (C1)
+reculer | 르뀔레 | 물러서다 (B1)
+
+## 문법·표현 정리
+**L'audio a été manipulé (B2):** 수동태 복합과거. Une phrase a été copiée. / D'autres passages ont été générés.(주어와 과거분사 일치)
+**Il est impossible que + 접속법 (B2):** 불가능 표현 뒤엔 접속법. Il est impossible que quelqu'un dise deux fois une phrase de la même façon. (dire → dise)
+**불가능·의심 + 접속법 (B2):** Il est impossible que… / Je doute que… / Il n'est pas possible que… / Ce n'est pas possible que…
+**Écoute bien (A2):** 명령형 + 부사. Écoute bien. / Regardez bien. / Fais attention.
+**On l'a démonté (B2):** démonter = (기계를) 분해하다 → (거짓을) 뒤집다, 반박하다. On a démonté le faux.
+**à + 수량 + près (B2):** "~까지 정확히". à un millième de seconde près.
+**conditionnel journalistique (B2):** 확인되지 않은 정보에 조건법. Cet enregistrement serait un montage.(짜깁기일 수 있다)
+**pendant que (B1):** ~하는 동안. pendant que la vérité met ses chaussures.
+**comme si + 반과거 (B1):** Elle parle comme si elle n'avait pas de poumons.
+**avant que + 접속법 (B1):** avant qu'on ait une preuve / avant qu'ils commencent.
+**ne… jamais (A2):** Un être humain ne prononce jamais deux fois la même phrase.
+**Merci de + inf. passé (B2):** Merci d'avoir transformé le « peut-être ».
+**en partie (B2):** 일부. réalisé en partie grâce à l'IA.
+**d'un coup (B1):** 한 번에, 갑자기. Elle enlève son casque d'un coup.
