@@ -1,0 +1,340 @@
+# 2부 4화. Le cartel (담합)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국·전화·몽마르트르의 은퇴자 아파트 | 시간: 10월 둘째 주 월요일
+핵심 표현: chacun son tour · une entente illicite · Regarde ce graphique · le programme de clémence
+
+## 대화
+Serveur: (au Zinc, à huit heures) Bonjour, Camille ! Tu as l'air contente, ce matin.
+(르 쟁, 여덟 시) 안녕, 카미유! 오늘 아침엔 기분 좋아 보이네.
+Camille: J'ai fini mon enquête sur les loyers du dix-huitième, Momo. Elle sort demain. Un propriétaire qui loue des chambres de neuf mètres carrés à sept cents euros par mois.
+18구 월세 취재를 끝냈거든, 모모. 내일 나가. 9제곱미터짜리 방을 한 달에 700유로에 빌려주는 집주인 얘기야.
+Serveur: Sept cents euros pour neuf mètres carrés ? C'est un placard, pas une chambre !
+9제곱미터에 700유로? 그건 방이 아니라 벽장이지!
+Camille: C'est exactement ce que j'ai écrit. Avec des mots plus polis.
+내가 쓴 게 바로 그거야. 좀 더 점잖은 말로.
+Serveur: Et Julien ? Il a trouvé quelque chose sur le Pavillon du Canal ? Sur mon dossier ?
+그럼 쥘리앵은? 파비용 뒤 카날에 대해 뭐 좀 찾았어? 내 서류는?
+Camille: Il cherche. Il cherche toujours. Ton dossier est en sécurité, dans le coffre de la rédaction.
+찾는 중이야. 늘 찾고 있지. 네 서류는 편집국 금고에 안전하게 있어.
+Serveur: Un coffre ? Pour mon petit dossier ?
+금고? 내 작은 서류 때문에?
+Camille: Ton petit dossier, Momo, c'est peut-être une preuve. Une vraie.
+그 작은 서류가, 모모, 어쩌면 증거일지도 몰라. 진짜 증거.
+Serveur: (il sourit fièrement) Une preuve… Ma femme ne va pas me croire.
+(뿌듯하게 웃으며) 증거라니… 집사람이 안 믿을 거야.
+Camille: Un café, s'il te plaît. Et un croissant. Pour fêter les loyers.
+커피 하나 줘. 그리고 크루아상 하나. 월세 기사 축하하게.
+Karim: (le lundi matin, devant un mur couvert de feuilles) Asseyez-vous. Tous. J'ai passé le week-end là-dessus. Et je n'ai jamais vu ça.
+(월요일 아침, 종이로 뒤덮인 벽 앞에서) 다들 앉아. 전부. 주말 내내 이걸 붙잡고 있었어. 그리고 이런 건 처음 봐.
+Léa: Encore un mur de la vérité ?
+또 진실의 벽이야?
+Karim: Le mur de la vérité, version deux. Plus grand. Plus inquiétant.
+진실의 벽, 2탄. 더 크고. 더 불길하지.
+Hélène: Vas-y, Karim. On t'écoute.
+해 봐, 카림. 듣고 있어.
+Karim: J'ai pris tous les marchés publics de la Ville de Paris de plus de dix millions d'euros, sur les dix dernières années. Écoles, piscines, gymnases, logements, rénovations. Il y en a quarante et un.
+지난 10년 동안 파리시의 1천만 유로 이상 공공계약을 전부 모았어. 학교, 수영장, 체육관, 주택, 리모델링. 41건이야.
+Julien: Et ?
+그래서?
+Karim: Et sur ces quarante et un marchés, trente-sept ont été gagnés par trois entreprises seulement. Valmont Construction, Bâtir Ensemble, et Delorme Travaux Publics.
+그 41건 중 37건을 딱 세 회사가 땄어. 발몽 건설, 바티르 앙상블, 들로름 토목.
+Camille: Trente-sept sur quarante et un ? C'est quatre-vingt-dix pour cent !
+41건 중 37건? 90퍼센트잖아!
+Karim: Quatre-vingt-dix pour cent. Pourtant, il existe des dizaines d'entreprises de construction capables de faire ces travaux en Île-de-France.
+90퍼센트. 그런데 일드프랑스엔 그런 공사를 할 수 있는 건설사가 수십 곳이나 있어.
+Léa: Peut-être qu'elles sont simplement les meilleures ?
+그냥 그 세 회사가 제일 잘하는 건 아닐까?
+Karim: C'est la question que je me suis posée. Alors regarde ce graphique. (il montre une feuille) Chaque couleur, c'est une entreprise. Bleu pour Valmont, vert pour Bâtir Ensemble, rouge pour Delorme.
+나도 그 질문을 했지. 그러니까 이 그래프 봐. (종이 한 장을 가리키며) 색깔 하나가 회사 하나야. 파란색은 발몽, 초록색은 바티르 앙상블, 빨간색은 들로름.
+Léa: Bleu, vert, rouge, bleu, vert, rouge… C'est presque toujours dans le même ordre !
+파랑, 초록, 빨강, 파랑, 초록, 빨강… 거의 항상 같은 순서네!
+Karim: Presque toujours. Valmont gagne un marché. Le suivant est pour Bâtir Ensemble. Puis Delorme. Puis de nouveau Valmont. Comme une rotation.
+거의 항상. 발몽이 하나 따면 그다음은 바티르 앙상블. 그다음은 들로름. 그리고 다시 발몽. 순번제처럼.
+Hélène: Chacun son tour.
+차례대로 돌아가는 거네.
+Karim: Exactement ce qu'Isabelle Faure a dit. Et ce n'est pas tout. Regarde les prix des perdants.
+이자벨 포르가 한 말 그대로야. 그리고 그게 다가 아니야. 진 회사들 가격을 봐.
+Julien: Les offres de couverture.
+들러리 입찰이군.
+Karim: Quand Valmont gagne, Bâtir Ensemble et Delorme proposent toujours un prix entre quinze et vingt-cinq pour cent plus cher. Quand c'est Bâtir Ensemble qui gagne, les deux autres sont plus chers de quinze à vingt-cinq pour cent. Toujours la même fourchette.
+발몽이 이길 때 바티르 앙상블이랑 들로름은 항상 15~25퍼센트 더 비싼 가격을 내. 바티르 앙상블이 이길 땐 다른 두 곳이 15~25퍼센트 더 비싸고. 늘 같은 범위야.
+Léa: La même fourchette… Comme une règle ?
+같은 범위라… 규칙처럼?
+Karim: Comme une règle. Dans un vrai marché libre, les écarts varient beaucoup. Parfois deux pour cent, parfois quarante. Ici, c'est toujours entre quinze et vingt-cinq. C'est statistiquement presque impossible sans accord.
+규칙처럼. 진짜 자유 시장에선 차이가 들쭉날쭉해. 어떨 땐 2퍼센트, 어떨 땐 40퍼센트. 여긴 항상 15에서 25 사이야. 합의 없이는 통계적으로 거의 불가능해.
+Léa: Presque impossible, ça veut dire combien ?
+거의 불가능하다는 게 얼마나 불가능하다는 거야?
+Karim: J'ai fait le calcul avec un ami statisticien. La probabilité que ça arrive par hasard est inférieure à une chance sur un million.
+통계학자 친구랑 계산해 봤어. 그게 우연히 일어날 확률은 백만분의 일도 안 돼.
+Camille: Une chance sur un million… C'est moins probable que de gagner au loto.
+백만분의 일… 로또 당첨보다 확률이 낮네.
+Karim: Beaucoup moins. Et eux, ils gagnent à chaque fois.
+훨씬 낮지. 그런데 저 사람들은 매번 당첨되는 거야.
+Hélène: (elle se lève et regarde le mur de près) Une entente illicite entre trois entreprises. Pendant dix ans. Sur des marchés de la Ville de Paris.
+(일어나서 벽을 가까이 들여다보며) 세 회사 간의 불법 담합. 10년 동안. 파리시 계약에서.
+Léa: Une entente illicite… C'est le nom juridique d'un cartel ?
+불법 담합… 그게 카르텔의 법적 명칭이야?
+Aubry: (il entre, son manteau sur le bras) Exactement, Léa. Article L. 420-1 du code de commerce. Sont prohibées les actions concertées qui ont pour objet de fausser le jeu de la concurrence. Bonjour à tous.
+(외투를 팔에 걸치고 들어오며) 바로 그렇습니다, 레아. 상법 L. 420-1조. 경쟁을 왜곡하는 것을 목적으로 한 공동 행위는 금지된다. 모두 안녕하세요.
+Julien: Bernard. Tu tombes bien.
+베르나르. 마침 잘 왔어요.
+Aubry: Je tombe toujours bien. C'est une qualité d'avocat. (il regarde le mur) Hum. Impressionnant. Vous avez montré ça à quelqu'un d'autre ?
+저는 늘 마침 잘 오지요. 변호사의 자질입니다. (벽을 보며) 흠. 인상적이군요. 이걸 다른 사람한테 보여 준 적 있습니까?
+Karim: Personne.
+아무한테도요.
+Aubry: Bien. Parce que ce que vous avez là, l'Autorité de la concurrence rêverait de l'avoir.
+좋습니다. 여러분이 갖고 있는 건 공정거래위원회가 꿈에 그리던 것이니까요.
+Léa: L'Autorité de la concurrence ?
+공정거래위원회요?
+Aubry: L'institution qui sanctionne les cartels en France. Elle peut infliger des amendes jusqu'à dix pour cent du chiffre d'affaires mondial des entreprises. Pour Valmont, cela représenterait plusieurs centaines de millions d'euros.
+프랑스에서 카르텔을 제재하는 기관이지요. 기업의 전 세계 매출의 최대 10퍼센트까지 과징금을 매길 수 있습니다. 발몽이라면 수억 유로에 해당하겠군요.
+Camille: Plusieurs centaines de millions… Ils doivent avoir peur.
+수억 유로… 그 사람들 무서워하겠네.
+Aubry: Ils ont peur. Et c'est précisément leur peur qui pourrait vous aider. Vous connaissez le programme de clémence ?
+무서워하지요. 그리고 바로 그 두려움이 여러분을 도울 수 있을 겁니다. 감면 제도라고 아십니까?
+Léa: Non. C'est quoi ?
+아니요. 그게 뭐예요?
+Aubry: Le premier membre d'un cartel qui dénonce les autres à l'Autorité de la concurrence peut obtenir une immunité totale. Pas d'amende. Le deuxième obtient une réduction. Le troisième… paie tout.
+카르텔 구성원 중에 다른 구성원들을 공정거래위원회에 가장 먼저 신고하는 자는 완전 면책을 받을 수 있습니다. 과징금이 없지요. 두 번째는 감면을 받고요. 세 번째는… 전부 냅니다.
+Julien: Donc dans un cartel, tout le monde surveille tout le monde. Parce que chacun a peur que l'autre parle en premier.
+그러니까 카르텔 안에선 다들 서로를 감시하겠네요. 다른 쪽이 먼저 말할까 봐 무서워서.
+Aubry: Exactement. C'est le dilemme du prisonnier, version Bâtiment et Travaux publics. Si vous montrez à l'une de ces entreprises ce que vous savez, elle pourrait décider de parler la première.
+바로 그겁니다. 건설업 버전의 죄수의 딜레마지요. 이 회사들 중 한 곳에 여러분이 아는 걸 보여 주면, 그 회사가 가장 먼저 말하기로 할지도 모릅니다.
+Hélène: Laquelle ?
+어느 회사요?
+Aubry: La plus fragile. Celle qui a le plus à perdre. Ou celle dont le dirigeant a une conscience. Cela existe, parfois.
+가장 약한 곳. 잃을 게 가장 많은 곳. 아니면 대표에게 양심이 있는 곳. 가끔은 그런 사람도 있지요.
+Karim: Delorme. C'est la plus petite des trois. Entreprise familiale. Le fondateur, Henri Delorme, a quatre-vingts ans. C'est son fils qui dirige maintenant.
+들로름. 셋 중에 제일 작아. 가족 기업이고. 창업자 앙리 들로름은 여든 살이야. 지금은 아들이 운영하고.
+Julien: On garde ça en tête. Pour plus tard.
+그건 기억해 두자. 나중을 위해서.
+Hélène: Et Pujol, dans tout ça ? Un cartel entre entreprises, c'est grave. Mais c'est une affaire de concurrence. Où est le rôle de la mairie ?
+그럼 이 모든 데서 퓌졸은? 업체 간 카르텔은 심각하지. 하지만 그건 공정거래 사안이야. 시청의 역할은 어디 있어?
+Julien: L'estimation confidentielle. Pour que la rotation marche, il faut que le gagnant prévu connaisse le prix maximum de la Ville. Sinon, il risque de proposer trop cher et de perdre. Ou trop bas et de gagner moins.
+기밀 추정가. 순번제가 굴러가려면 정해진 낙찰자가 시의 최고 가격을 알아야 해. 아니면 너무 비싸게 써서 지거나, 너무 싸게 써서 덜 벌 위험이 있으니까.
+Léa: Et c'est là que le cabinet de Pujol intervient. Il donne le prix.
+그리고 거기서 퓌졸 비서실이 끼어드는 거지. 가격을 알려 주는 거야.
+Hélène: En échange de quoi ?
+무엇의 대가로?
+Julien: C'est la question. Et c'est peut-être là que Vinalux intervient.
+그게 질문이야. 그리고 어쩌면 거기서 비날룩스가 등장하는 거고.
+Aubry: Prudence. Pour l'instant, vous avez une rotation statistique et une estimation transmise. Pas encore de preuve de contrepartie. Sans contrepartie, ce n'est pas de la corruption. C'est du favoritisme.
+신중하세요. 지금 여러분에겐 통계상의 순번제와 유출된 추정가가 있을 뿐입니다. 대가에 대한 증거는 아직 없지요. 대가가 없으면 뇌물죄가 아닙니다. 특혜 제공죄지요.
+Léa: Une contrepartie ?
+대가요?
+Aubry: Ce que l'élu reçoit en échange. De l'argent, un emploi pour un proche, un appartement, des vacances… La corruption, c'est toujours un échange.
+선출직이 그 대가로 받는 것 말입니다. 돈, 가족의 일자리, 아파트, 휴가… 뇌물은 언제나 거래입니다.
+Karim: J'ai peut-être une piste. Dans les comptes de Vinalux, au Luxembourg, il y a une ligne : « Honoraires de conseil reçus : trois millions deux cent mille euros. » Payés par qui ? Ce n'est pas indiqué.
+실마리가 있을지도 몰라. 룩셈부르크 비날룩스 재무제표에 이런 줄이 있어. «수령 자문료: 320만 유로.» 누가 냈는지는? 안 나와 있어.
+Léa: Des honoraires de conseil ? Une société de vin qui donne des conseils ?
+자문료? 와인 회사가 자문을 해 준다고?
+Karim: C'est une façon classique de déguiser un paiement. Une entreprise paie une « facture de conseil ». Mais il n'y a jamais eu de conseil.
+돈을 위장하는 전형적인 방법이야. 회사가 «자문 송장»에 돈을 내는 거지. 그런데 실제 자문은 한 번도 없었고.
+Julien: Et l'enveloppe de Valmont, dans la boîte aux lettres de Vinalux…
+그리고 비날룩스 우편함에 있던 발몽의 봉투…
+Karim: Peut-être une facture. Peut-être un paiement. On ne sait pas.
+송장일 수도, 돈일 수도 있지. 우린 몰라.
+Hélène: Alors voilà le plan. Karim, tu continues sur Vinalux et BTP Horizon. Julien et Léa, vous trouvez quelqu'un de l'intérieur. Quelqu'un qui a vu comment les prix étaient décidés.
+그럼 계획은 이거야. 카림은 비날룩스랑 BTP 오리종을 계속 파. 쥘리앵이랑 레아는 내부자를 찾아. 가격이 어떻게 정해졌는지 본 사람.
+Julien: Quelqu'un comme ça ne parle pas facilement.
+그런 사람은 쉽게 입을 안 열어.
+Hélène: Personne ne parle facilement. C'est pour ça qu'on vous paie. Mal, mais on vous paie.
+쉽게 입을 여는 사람은 없어. 그래서 너희한테 월급을 주는 거야. 쥐꼬리만큼이지만.
+Aubry: (il remet son manteau) Et n'oubliez pas : le contradictoire. Valmont et Pujol devront pouvoir répondre. Le moment venu.
+(다시 외투를 입으며) 그리고 잊지 마세요. 반론권 보장. 발몽과 퓌졸이 답할 수 있어야 합니다. 때가 되면요.
+Léa: (au téléphone, à onze heures) Allô, Tiago ? C'est Léa, la journaliste. Vous allez bien ?
+(오전 열한 시, 전화로) 여보세요, 티아구? 기자 레아예요. 잘 지내요?
+Tiago: (au téléphone) Léa ! Oui… Non. Pas bien. Rapid'Œuvre a dit : la semaine prochaine, peut-être, une partie du salaire. Peut-être. Toujours « peut-être ».
+(전화로) 레아! 네… 아니요. 안 좋아요. 라피드 외브르가 다음 주에 월급 일부를 줄지도 모른대요. 줄지도. 맨날 «줄지도».
+Léa: Tiago, je connais quelqu'un qui peut vous aider. Un syndicaliste. Il s'appelle Mehdi. Il aide les ouvriers du bâtiment à récupérer leurs salaires.
+티아구, 도와줄 수 있는 사람을 알아요. 노조 활동가예요. 메디라는 사람인데, 건설 노동자들이 밀린 임금을 받게 도와줘요.
+Tiago: Un syndicat ? Mais Rapid'Œuvre dit : pas de syndicat. Sinon, on rentre au Portugal.
+노조요? 그런데 라피드 외브르가 노조는 안 된대요. 안 그러면 포르투갈로 돌려보낸대요.
+Léa: C'est illégal de dire ça. En France, tous les travailleurs ont le droit de s'adresser à un syndicat. Même les travailleurs détachés.
+그런 말을 하는 건 불법이에요. 프랑스에선 모든 노동자가 노조를 찾아갈 권리가 있어요. 파견 노동자도요.
+Tiago: Vraiment ? Même nous ?
+정말요? 우리도요?
+Léa: Même vous. Je vous envoie son numéro. Et Tiago… vous êtes combien à ne pas être payés ?
+여러분도요. 그 사람 번호를 보내 줄게요. 그리고 티아구… 임금을 못 받은 사람이 몇 명이에요?
+Tiago: Vingt-deux. Tous de Rapid'Œuvre. Tous sur Canal-Nord.
+스물두 명이요. 전부 라피드 외브르 소속. 전부 카날노르에서 일해요.
+Léa: Appelez Mehdi ce soir. Et dites aux autres de garder tous leurs papiers. Les contrats, les fiches de paie, les messages.
+오늘 저녁에 메디한테 전화하세요. 그리고 다른 사람들한테 서류를 전부 보관하라고 하세요. 계약서, 급여 명세서, 메시지까지.
+Tiago: D'accord. Merci, Léa. Obrigado… Pardon : merci !
+알았어요. 고마워요, 레아. 오브리가두… 아, 죄송해요. 메르시!
+Léa: (elle sourit) Obrigado à vous, Tiago. Courage.
+(웃으며) 저도 오브리가두예요, 티아구. 힘내요.
+Mehdi: (au téléphone, un peu plus tard) Léa Morel ? Mehdi Belkacem, syndicat du bâtiment. Votre collègue Karim m'a parlé de vous. Vingt-deux ouvriers de Rapid'Œuvre, c'est ça ?
+(조금 뒤, 전화로) 레아 모렐 씨? 건설 노조의 메디 벨카셈입니다. 동료분 카림이 얘기해 줬어요. 라피드 외브르 노동자 스물두 명, 맞죠?
+Léa: Oui. Pas payés depuis août. Contrat à neuf euros de l'heure, validé par Valmont.
+네. 8월부터 못 받았어요. 시급 9유로짜리 계약을 발몽이 승인했고요.
+Mehdi: Validé par Valmont ? Vous avez une copie ?
+발몽이 승인했다고요? 사본 있어요?
+Léa: Oui. Avec le tampon de Valmont.
+네. 발몽 도장이 찍힌 거요.
+Mehdi: (il siffle) C'est rare. D'habitude, l'entreprise principale dit toujours : « Je ne savais pas, c'est la faute du sous-traitant. » Avec ce tampon, Valmont ne peut pas dire ça. Elle est solidairement responsable.
+(휘파람을 불며) 드문 일인데. 보통 원청은 늘 «몰랐다, 하청 잘못이다»라고 하거든요. 그 도장이 있으면 발몽은 그런 말을 못 해요. 연대 책임을 지는 거죠.
+Léa: Solidairement responsable ? Ça veut dire quoi ?
+연대 책임이요? 그게 무슨 뜻이에요?
+Mehdi: Que si le sous-traitant ne paie pas, la loi oblige l'entreprise principale à payer à sa place. Valmont va devoir payer les vingt-deux salaires. Avec les intérêts.
+하청이 돈을 안 주면 법적으로 원청이 대신 줘야 한다는 거예요. 발몽이 스물두 명 월급을 줘야 할 거예요. 이자까지 붙여서.
+Léa: C'est génial !
+대단하네요!
+Mehdi: Ce n'est pas génial, c'est la loi. Mais il faut que les ouvriers acceptent de se battre. Beaucoup ont peur. Je vais les voir ce soir, à la sortie du chantier.
+대단한 게 아니라 법이에요. 그래도 노동자들이 싸우겠다고 해야 해요. 다들 무서워하거든요. 오늘 저녁 공사장 퇴근길에 그 사람들을 만나러 갈게요.
+Léa: Merci, Mehdi.
+고마워요, 메디.
+Mehdi: Merci à vous. Et dites à votre journal : si les ouvriers font grève, venez filmer. Une caméra, ça protège.
+제가 고맙죠. 그리고 신문사에 전해 주세요. 노동자들이 파업하면 와서 찍어 달라고. 카메라는 보호막이 되거든요.
+Julien: (à Léa, quand elle raccroche) Tu as bien fait. Mais attention : on est journalistes. On peut mettre les gens en contact. On ne fait pas leur combat à leur place.
+(전화를 끊은 레아에게) 잘했어. 하지만 조심해. 우린 기자야. 사람들을 연결해 줄 수는 있어. 그 사람들 싸움을 대신 해 주는 건 아니야.
+Léa: Je sais. Mais je ne pouvais pas laisser Tiago seul.
+알아. 그래도 티아구를 혼자 둘 수는 없었어.
+Julien: (il sourit) Je ne t'ai pas dit que tu avais tort.
+(웃으며) 네가 틀렸다고는 안 했어.
+Karim: (il lève la tête de son écran) Julien ! J'ai trouvé quelque chose. Un ancien employé de Bâtir Ensemble. Un métreur. Il a travaillé trente ans dans l'entreprise. Il est à la retraite depuis l'année dernière.
+(화면에서 고개를 들며) 쥘리앵! 뭔가 찾았어. 바티르 앙상블 전 직원. 견적 담당자야. 그 회사에서 30년을 일했어. 작년부터 은퇴했고.
+Léa: Un métreur ? C'est quoi ?
+견적 담당자? 그게 뭐야?
+Karim: La personne qui calcule les quantités et les prix pour les offres. Celui qui prépare les chiffres. Si quelqu'un sait comment les prix étaient décidés, c'est lui.
+입찰서에 들어갈 물량이랑 가격을 계산하는 사람. 숫자를 준비하는 사람이지. 가격이 어떻게 정해졌는지 아는 사람이 있다면, 바로 그 사람이야.
+Julien: Comment tu l'as trouvé ?
+어떻게 찾았어?
+Karim: Il a écrit un message sur un forum de retraités du bâtiment. « Trente ans de métier, et je n'ai jamais fait une offre honnête. » Puis il l'a effacé deux heures après. Mais internet n'oublie rien.
+건설업 은퇴자 포럼에 글을 하나 썼더라고. «30년 일하면서 정직한 입찰서는 한 번도 쓰지 않았다.» 그러고 두 시간 뒤에 지웠어. 그런데 인터넷은 아무것도 잊지 않지.
+Julien: Son nom ?
+이름은?
+Karim: Jean-Paul Mercier. Il habite à Montmartre.
+장폴 메르시에. 몽마르트르에 살아.
+Léa: (dans les escaliers de Montmartre) Encore des marches ? Il y en a combien ?
+(몽마르트르 계단에서) 또 계단이야? 몇 개야?
+Julien: Deux cent vingt-deux jusqu'au Sacré-Cœur. Mais on s'arrête avant. Rue Gabrielle. Encore cinquante.
+사크레쾨르까지 222개. 그런데 우린 그 전에 멈춰. 가브리엘 거리. 50개 더.
+Léa: (essoufflée) Pourquoi tous les témoins habitent au sixième étage ou en haut d'une colline ?
+(숨을 헐떡이며) 왜 증인들은 다 6층이나 언덕 꼭대기에 살아?
+Julien: (il rit) Parce que la vérité se mérite. (il s'arrête et regarde Paris) Regarde. On voit tout Paris d'ici.
+(웃으며) 진실은 땀을 흘려야 얻는 거니까. (멈춰서 파리를 바라보며) 봐. 여기서 파리가 다 보여.
+Léa: (elle regarde) C'est magnifique. On voit même la tour Eiffel.
+(바라보며) 정말 멋지다. 에펠탑까지 보이네.
+Julien: Mon père m'a emmené ici, une fois. J'avais douze ans. C'était mon premier voyage à Paris. Il m'a dit : « Tu vois tous ces toits ? Sous chaque toit, il y a une histoire que quelqu'un veut cacher. »
+우리 아버지가 한 번 여기 데려온 적이 있어. 열두 살 때. 내 첫 파리 여행이었지. 아버지가 그랬어. «저 지붕들 보이니? 지붕 하나하나 밑에 누군가 숨기고 싶어 하는 이야기가 있단다.»
+Léa: C'est beau. Et un peu triste.
+멋있다. 그리고 조금 슬프고.
+Julien: Il était comme ça. Il voyait des histoires partout. C'est pour ça qu'il était un bon journaliste.
+아버지는 그런 사람이었어. 어디서나 이야기를 봤지. 그래서 좋은 기자였던 거고.
+Léa: Tu lui ressembles.
+너 아버지 닮았네.
+Julien: (il ne répond pas tout de suite) Peut-être. J'espère. (il reprend sa marche) Allez. Monsieur Mercier nous attend.
+(바로 대답하지 않다가) 그럴지도. 그랬으면 좋겠어. (다시 걸으며) 가자. 메르시에 씨가 기다리셔.
+Léa: Encore cinquante marches…
+계단 50개 더…
+Julien: Quarante-sept. Je les ai comptées.
+47개. 내가 세어 봤어.
+Mercier: (l'après-midi, il ouvre la porte d'un petit appartement plein de livres) Vous êtes les journalistes du Phare ? Entrez. Je vous attendais. Enfin, j'attendais quelqu'un. Depuis longtemps.
+(오후, 책으로 가득한 작은 아파트의 문을 열며) 〈Le Phare〉 기자들이오? 들어와요. 기다리고 있었소. 아니, 누군가를 기다리고 있었지. 오래전부터.
+Julien: Merci de nous recevoir, monsieur Mercier.
+만나 주셔서 감사합니다, 메르시에 씨.
+Mercier: J'ai effacé mon message sur le forum. Mais j'ai su que quelqu'un l'avait lu. (il s'assoit lourdement) Vous voulez un café ? Je n'ai que du café. Ma femme est morte l'an dernier. Depuis, je n'achète plus de thé.
+포럼 글은 지웠지. 그래도 누군가 읽었다는 건 알았소. (무겁게 앉으며) 커피 줄까? 커피밖에 없는데. 아내가 작년에 세상을 떠났소. 그 뒤로 차는 안 사게 되더군.
+Léa: Un café, avec plaisir. Je suis désolée pour votre femme.
+커피 좋아요. 사모님 일은 안타깝습니다.
+Mercier: Merci, mademoiselle. C'est elle qui me disait toujours : « Un jour, tu diras la vérité. » Elle n'a pas eu le temps de l'entendre.
+고맙소, 아가씨. 늘 그러던 게 아내였소. «언젠가는 당신도 진실을 말하게 될 거예요.» 그걸 들을 시간이 없었지만.
+Julien: Monsieur Mercier, dans votre message, vous avez écrit que vous n'aviez jamais fait une offre honnête. Qu'est-ce que vous vouliez dire ?
+메르시에 씨, 글에서 정직한 입찰서를 한 번도 쓰지 않았다고 하셨지요. 무슨 뜻이었습니까?
+Mercier: (il regarde par la fenêtre) Ce que je voulais dire… C'est que mes chiffres étaient déjà décidés avant que je commence à calculer. Quand ce n'était pas notre tour, mon chef me disait : « Mets quinze à vingt pour cent de plus que le prix de la Ville. » Quand c'était notre tour, il me donnait un chiffre. Un chiffre très précis.
+(창밖을 보며) 내 말은… 내가 계산을 시작하기도 전에 숫자가 이미 정해져 있었다는 거요. 우리 차례가 아닐 때면 상사가 말했지. «시 가격보다 15에서 20퍼센트 더 써.» 우리 차례일 때는 숫자를 하나 줬소. 아주 정확한 숫자를.
+Léa: Et ce chiffre, d'où venait-il ?
+그 숫자는 어디서 왔어요?
+Mercier: Je ne l'ai jamais su exactement. Mon chef disait : « D'en haut. » Mais je savais une chose. Les chiffres étaient décidés lors d'un déjeuner. Chaque premier lundi du mois. Entre les trois patrons.
+정확히는 끝내 몰랐소. 상사는 «위에서»라고 했지. 그런데 한 가지는 알았소. 숫자는 점심 자리에서 정해졌다는 거. 매달 첫째 월요일. 세 사장이 모여서.
+Julien: Un déjeuner ? Où ?
+점심이요? 어디서요?
+Mercier: Avant, dans un restaurant près de la Bourse. Puis, depuis deux ou trois ans, dans une brasserie au bord du canal Saint-Denis. Un endroit très chic. Avec un salon privé à l'étage.
+예전엔 증권거래소 근처 식당에서. 그러다 2, 3년 전부터는 생드니 운하 옆 브라스리에서. 아주 고급스러운 곳이지. 2층에 개별 룸이 있는.
+Léa: (elle arrête d'écrire) Le Pavillon du Canal.
+(필기를 멈추며) 파비용 뒤 카날.
+Mercier: C'est ça. Le Pavillon du Canal. Mon chef y allait chaque premier lundi. Il revenait toujours de bonne humeur. Avec une liste des prochains marchés. Et le nom du gagnant à côté de chaque marché.
+그래요. 파비용 뒤 카날. 상사는 매달 첫째 월요일마다 거기 갔소. 늘 기분 좋게 돌아왔지. 다음 계약 목록을 들고. 계약마다 옆에 낙찰자 이름이 적혀 있었고.
+Julien: Une liste ? Vous l'avez vue ?
+목록이요? 그걸 보셨어요?
+Mercier: (un long silence) Je l'ai vue. Et je l'ai photocopiée. Une fois. En 2023. Je ne sais pas pourquoi. Peut-être parce que ma femme était déjà malade, et que je voulais lui prouver que j'avais encore du courage.
+(긴 침묵) 봤지. 그리고 복사했소. 한 번. 2023년에. 왜 그랬는지는 모르겠소. 아내가 이미 아팠고, 나한테 아직 용기가 남아 있다는 걸 아내한테 보여 주고 싶었는지도 모르지.
+Julien: Monsieur Mercier, avant de continuer, je dois vous dire une chose. Si vous nous montrez ce document, vous prenez un risque. Bâtir Ensemble pourrait comprendre que c'est vous.
+메르시에 씨, 계속하기 전에 한 가지 말씀드려야겠습니다. 그 문서를 보여 주시면 위험을 감수하시는 겁니다. 바티르 앙상블이 선생님이라는 걸 알아챌 수도 있어요.
+Mercier: Je sais. J'y ai pensé toute la nuit, après votre appel.
+알고 있소. 전화를 받고 밤새 그 생각을 했지.
+Léa: Et ?
+그래서요?
+Mercier: Et j'ai soixante-huit ans. Je n'ai plus de patron. Ma retraite est payée par l'État, pas par Bâtir Ensemble. Qu'est-ce qu'ils peuvent me faire ?
+그리고 내 나이 예순여덟이오. 이제 사장도 없지. 연금은 바티르 앙상블이 아니라 국가가 주고. 그 사람들이 나한테 뭘 할 수 있겠소?
+Julien: Ils peuvent vous attaquer en justice. Vous accuser d'avoir volé un document confidentiel.
+소송을 걸 수 있습니다. 기밀 문서를 훔쳤다고 고소할 수도 있고요.
+Mercier: Qu'ils essaient. Je dirai au juge ce qu'il y avait dans ce document. On verra qui a le plus à perdre.
+해 보라지. 판사한테 그 문서에 뭐가 있었는지 말할 거요. 누가 더 잃을 게 많은지 두고 보자고.
+Léa: Vous voulez qu'on utilise votre nom ?
+성함을 써도 될까요?
+Mercier: (il hésite) Pas tout de suite. « Un ancien cadre de Bâtir Ensemble. » Pour l'instant. Si un jour il y a un procès, je témoignerai. Avec mon nom.
+(망설이다가) 당장은 안 되오. «바티르 앙상블 전직 간부.» 지금은 그렇게. 언젠가 재판이 열리면 증언하겠소. 내 이름으로.
+Julien: C'est entendu. Merci.
+알겠습니다. 감사합니다.
+Léa: Vous l'avez toujours ?
+아직 갖고 계세요?
+Mercier: (il se lève, ouvre un vieux livre de la bibliothèque, et en sort une feuille pliée) Elle est là depuis deux ans. Dans « Les Misérables ». C'était le livre préféré de ma femme.
+(일어나서 책장의 낡은 책 한 권을 펼쳐 접힌 종이 한 장을 꺼내며) 2년째 여기 있었소. 『레 미제라블』 안에. 아내가 제일 좋아하던 책이었지.
+Julien: (il ne touche pas la feuille) Vous voulez bien nous la montrer ?
+(종이에 손대지 않고) 보여 주시겠습니까?
+Mercier: (il la pose sur la table) Lisez.
+(테이블 위에 놓으며) 읽어 보시오.
+Léa: (elle lit doucement) « Prochains marchés 2023-2024. École du treizième : BE. Piscine du vingtième : D. Canal-Nord, lot un : V. Canal-Nord, lot deux : V. Canal-Nord, lot trois : BE. » BE, D, V…
+(조용히 읽으며) «2023-2024 다음 계약들. 13구 학교: BE. 20구 수영장: D. 카날노르 1번 구획: V. 카날노르 2번 구획: V. 카날노르 3번 구획: BE.» BE, D, V…
+Julien: Bâtir Ensemble, Delorme, Valmont.
+바티르 앙상블, 들로름, 발몽.
+Karim: (au téléphone, haut-parleur, après que Léa lui a envoyé une photo) Julien… C'est exactement l'ordre des résultats officiels. Tous. La liste a été écrite avant les appels d'offres. Et elle est exacte à cent pour cent.
+(레아가 사진을 보낸 뒤 스피커폰으로) 쥘리앵… 공식 결과랑 순서가 정확히 같아. 전부 다. 이 목록은 입찰 공고 전에 작성됐는데 100퍼센트 정확해.
+Mercier: (il baisse la tête) Je suis vieux, je suis seul, et je n'ai plus peur. Mais je veux que vous sachiez une chose. En bas de la feuille, il y a une petite ligne. Regardez.
+(고개를 숙이며) 난 늙었고, 혼자고, 이제 무섭지도 않소. 그래도 한 가지는 알아 두시오. 종이 맨 아래에 작은 글씨가 한 줄 있소. 보시오.
+Léa: (elle approche la feuille) « Comme d'habitude : 2 % pour l'ami du Pavillon. Versement via V. »
+(종이를 가까이 대며) «늘 하던 대로: 파비용의 친구에게 2%. V를 통해 송금.»
+Julien: (très lentement) Deux pour cent. Pour « l'ami du Pavillon ».
+(아주 천천히) 2퍼센트. «파비용의 친구»에게.
+Mercier: Sur trois cent quarante millions, deux pour cent, ça fait six millions huit cent mille euros. Je l'ai calculé cent fois. C'est mon métier, de calculer.
+3억 4천만의 2퍼센트면 680만 유로요. 백 번은 계산해 봤지. 계산하는 게 내 직업이니까.
+Léa: « L'ami du Pavillon »… C'est qui ?
+«파비용의 친구»… 그게 누구예요?
+Mercier: Je ne sais pas. Je n'ai jamais su. Mais le Pavillon appartient à la Ville. Et la Ville l'a loué à Maréchal. Alors réfléchissez : qui est l'ami de tout le monde dans ce pavillon ?
+모르오. 끝내 몰랐지. 그런데 그 파비용은 시 소유요. 그리고 시가 그걸 마레샬한테 빌려줬지. 그러니 생각해 보시오. 그 파비용에서 모두의 친구인 사람이 누구겠소?
+
+## 주요 단어
+le cartel | 르 까르뗄 | 카르텔, 담합 조직 (B2)
+l'entente illicite | 랑땅뜨 일리시뜨 | 불법 담합 (C1)
+la rotation | 라 로따시옹 | 순환, 순번제 (B2)
+la fourchette | 라 푸르셰뜨 | (가격·수치의) 범위; 포크 (B2)
+la probabilité | 라 쁘로바빌리떼 | 확률 (B1)
+fausser → faussé | 포쎄 → 포쎄 | 왜곡하다 (C1)
+la concurrence | 라 꽁뀌랑스 | 경쟁 (B1)
+l'Autorité de la concurrence | 로또리떼 드 라 꽁뀌랑스 | 공정거래위원회 (C1)
+infliger une amende | 앵플리제 윈 아망드 | 벌금을 부과하다 (C1)
+le programme de clémence | 르 쁘로그람 드 끌레망스 | (담합) 자진 신고 감면 제도 (C1)
+l'immunité (f.) | 리뮈니떼 | 면책 (C1)
+la contrepartie | 라 꽁트르빠르띠 | 대가, 반대급부 (C1)
+le syndicaliste | 르 쌩디깔리스뜨 | 노조 활동가 (B2)
+solidairement responsable | 쏠리데르망 레스뽕사블 | 연대 책임이 있는 (C1)
+la grève | 라 그레브 | 파업 (B1)
+le métreur | 르 메트뢰르 | (건설) 견적·물량 산출 담당자 (C1)
+le versement | 르 베르스망 | 송금, 지급 (B2)
+
+## 문법·표현 정리
+**chacun son tour (B1):** "차례대로". 담합한 세 회사가 돌아가며 낙찰받는 구조를 비꼬는 말로 이 화의 핵심입니다. 같은 뜻: à tour de rôle.
+**une entente illicite (C1):** 법률 용어로 "불법 담합". illicite(불법의) ↔ licite(합법의). 일상어로는 un cartel.
+**Regarde ce graphique (A2):** tu 명령형. regarder → Regarde !(-er 동사는 tu 명령형에서 s가 빠짐) 비교: Regarde-moi.(나를 봐) / Ne regarde pas.(보지 마)
+**le programme de clémence (C1):** 담합 자진 신고자 감면 제도. 영어의 leniency programme. 오브리는 이를 죄수의 딜레마(le dilemme du prisonnier)에 빗댑니다.
+**Sont prohibées les actions… (C1):** 법조문에서는 주어와 동사를 도치해 무게를 줍니다. = Les actions concertées sont prohibées. 일상 회화에서는 쓰지 않습니다.
+**avoir pour objet de (C1):** "~을 목적으로 하다". des actions qui ont pour objet de fausser la concurrence(경쟁 왜곡을 목적으로 하는 행위)
+**inférieur(e) à / supérieur(e) à (B1):** "~보다 낮은 / 높은". La probabilité est inférieure à une chance sur un million.(확률은 백만분의 일보다 낮다)
+**cela représenterait (B2):** 조건법으로 추정치를 말합니다. Pour Valmont, cela représenterait plusieurs centaines de millions d'euros.(발몽이라면 수억 유로에 해당할 것이다)
+**il faut que + 접속법 (B1):** Pour que la rotation marche, il faut que le gagnant connaisse le prix.(순번제가 굴러가려면 낙찰자가 가격을 알아야 한다) connaître → connaisse.
+**pour que + 접속법 (B1):** "~하도록". pour que la rotation marche(순번제가 굴러가도록)
+**ne… que (B1):** Je n'ai que du café.(커피밖에 없다) 오직 그것뿐이라는 뜻입니다.
+**à sa place (B1):** "~대신에". La loi oblige l'entreprise principale à payer à sa place.(법은 원청이 대신 지급하도록 한다) · On ne fait pas leur combat à leur place.(그들의 싸움을 대신 해 주지 않는다)
+**Je ne t'ai pas dit que tu avais tort (B1):** 간접화법의 시제 일치. 과거 시점의 현재는 imparfait로: Tu as tort → Je ne t'ai pas dit que tu avais tort. avoir tort(틀리다) ↔ avoir raison(옳다)
+**백분율 계산 (B1):** deux pour cent de trois cent quarante millions(3억 4천만의 2%) · Ça fait six millions huit cent mille euros.(680만 유로가 된다)
