@@ -1,0 +1,340 @@
+# 2부 5화. Au bistrot de l'Hôtel de Ville (시청 앞 비스트로)
+수준: A2~C1 혼합 (중심 A2) | 장소: 시청 근처 비스트로 «Le Petit Rivoli» | 시간: 10월 둘째 주 수요일, 점심
+핵심 표현: C'est off ? · À mon époque, … · Tout le monde le savait · le beau-frère
+
+## 대화
+Karim: (le mercredi matin, à la rédaction) Julien, avant ton déjeuner. J'ai cherché Christophe Vidal toute la nuit.
+(수요일 아침, 편집국에서) 쥘리앵, 점심 약속 가기 전에. 밤새 크리스토프 비달을 찾아봤어.
+Julien: Et ?
+그래서?
+Karim: Il y a trois mille Christophe Vidal en France. Mais un seul a dirigé trois entreprises de construction à Paris en dix ans. Toutes fermées après trois ou quatre ans.
+프랑스엔 크리스토프 비달이 3천 명 있어. 그런데 10년 동안 파리에서 건설 회사 세 곳을 운영한 사람은 딱 한 명이야. 전부 3, 4년 만에 문을 닫았고.
+Léa: Trois entreprises ? Lesquelles ?
+회사 세 곳? 어떤 회사들?
+Karim: Vidal Rénovation, de 2014 à 2017. Paris Bâti Services, de 2017 à 2021. Et maintenant BTP Horizon, depuis 2021.
+비달 리노바시옹, 2014년부터 2017년까지. 파리 바티 서비스, 2017년부터 2021년까지. 그리고 2021년부터 지금까지 BTP 오리종.
+Julien: Et toutes sous-traitantes sur des chantiers de la Ville ?
+그리고 전부 시 공사의 하청 업체였고?
+Karim: Je n'ai pas encore tout vérifié. Mais au moins huit chantiers publics. Et à chaque fois, l'entreprise principale était Valmont.
+아직 다 확인하진 못했어. 하지만 공공 공사가 최소 여덟 건이야. 그리고 매번 원청은 발몽이었고.
+Camille: (elle arrive avec le journal du jour) Mon article sur les loyers est en ligne ! Et le propriétaire m'a déjà envoyé une mise en demeure. Record battu : une heure et demie.
+(오늘 신문을 들고 오며) 내 월세 기사 올라갔어! 그리고 집주인이 벌써 최고장을 보냈어. 신기록이야. 한 시간 반.
+Léa: Une heure et demie ? Bravo, Camille !
+한 시간 반? 축하해, 카미유!
+Camille: Merci. Dans ce métier, une mise en demeure, c'est presque une médaille.
+고마워. 이 일에선 최고장이 거의 훈장이나 마찬가지지.
+Julien: Léa, on part dans une heure. Tu as préparé tes questions pour monsieur Gauthier ?
+레아, 한 시간 뒤에 출발해. 고티에 씨한테 할 질문 준비했어?
+Léa: Oui. Trois questions sur Pujol, deux sur Roux, une sur le Pavillon du Canal. Et une sur Vidal.
+응. 퓌졸에 대해 셋, 루에 대해 둘, 파비용 뒤 카날에 대해 하나. 그리고 비달에 대해 하나.
+Julien: Bien. Mais avec monsieur Gauthier, on ne pose pas les questions dans l'ordre. On le laisse parler. Il adore raconter. Les meilleures informations arrivent au milieu d'une histoire sur autre chose.
+좋아. 그런데 고티에 씨한텐 질문을 순서대로 하지 않아. 그냥 말하게 둬. 이야기하는 걸 아주 좋아하시거든. 제일 좋은 정보는 다른 얘기를 하는 도중에 나와.
+Léa: Comme Rabier, à Bordeaux.
+보르도의 라비에 씨처럼.
+Julien: Exactement comme Rabier. Les retraités sont les meilleures sources du monde. Ils ont du temps, de la mémoire, et plus rien à perdre.
+라비에 씨랑 똑같지. 은퇴한 사람들은 세상에서 제일 좋은 취재원이야. 시간도 있고, 기억력도 있고, 잃을 것도 없거든.
+Léa: (devant un petit bistrot) C'est ici ? « Le Petit Rivoli » ?
+(작은 비스트로 앞에서) 여기야? «르 프티 리볼리»?
+Julien: C'est ici. Le bistrot des fonctionnaires de l'Hôtel de Ville depuis cinquante ans. Monsieur Gauthier y déjeune tous les mercredis.
+여기야. 50년째 시청 공무원들이 드나드는 비스트로. 고티에 씨가 수요일마다 여기서 점심을 드셔.
+Léa: Comment tu le connais ?
+그분을 어떻게 알아?
+Julien: Il était mon informateur, il y a dix ans. Pour une enquête sur les espaces verts. Il était au service de l'urbanisme pendant trente-cinq ans. Il connaît chaque bureau, chaque dossier, chaque secret.
+10년 전에 내 정보원이었어. 녹지 공간에 관한 취재 때. 35년 동안 도시계획과에 있었지. 사무실 하나하나, 서류 하나하나, 비밀 하나하나 다 알아.
+Léa: Et il est à la retraite maintenant ?
+지금은 은퇴하셨고?
+Julien: Depuis trois ans. Et depuis trois ans, il s'ennuie. Un homme qui s'ennuie et qui sait des choses, c'est un trésor pour un journaliste.
+3년 전부터. 그리고 3년째 심심해하시지. 심심한데 아는 게 많은 사람은 기자한테 보물이야.
+Gauthier: (à une table près de la fenêtre, il lève la main) Marchetti ! Par ici !
+(창가 테이블에서 손을 들며) 마르케티! 여기야!
+Julien: Monsieur Gauthier ! Vous n'avez pas changé.
+고티에 씨! 하나도 안 변하셨네요.
+Gauthier: Menteur. J'ai pris dix ans et dix kilos. (il regarde Léa) Et cette jeune personne ?
+거짓말쟁이. 열 살이랑 10킬로가 늘었는데. (레아를 보며) 그리고 이 젊은이는?
+Julien: Léa Morel. Elle travaille avec moi.
+레아 모렐이에요. 저랑 같이 일해요.
+Gauthier: Enchanté, mademoiselle. Asseyez-vous. Ici, on mange bien et on parle tranquillement. Les murs sont épais.
+반갑소, 아가씨. 앉아요. 여기선 잘 먹고 편하게 얘기할 수 있지. 벽이 두껍거든.
+Léa: Enchantée, monsieur. Merci.
+반갑습니다. 감사합니다.
+Serveuse: Bonjour, monsieur Gauthier ! Comme d'habitude ?
+안녕하세요, 고티에 씨! 늘 드시던 걸로요?
+Gauthier: Comme d'habitude, Nadège. Le pavé de rumsteck, saignant. Et un petit pichet de rouge.
+늘 먹던 걸로, 나데주. 럼스테이크, 레어로. 그리고 레드 와인 작은 피처 하나.
+Serveuse: Et pour vous ?
+손님들은요?
+Léa: Qu'est-ce que vous me conseillez ?
+뭘 추천해 주시겠어요?
+Serveuse: Aujourd'hui, la spécialité, c'est le poulet basquaise. Ou les œufs mayonnaise en entrée. Ils sont très bons.
+오늘 특선은 바스크식 닭 요리예요. 아니면 전채로 마요네즈 달걀요. 아주 맛있어요.
+Léa: Alors des œufs mayonnaise et le poulet basquaise, s'il vous plaît.
+그럼 마요네즈 달걀이랑 바스크식 닭 요리 주세요.
+Julien: Pareil pour moi. Sans entrée. Et une carafe d'eau.
+저도 같은 걸로요. 전채는 빼고요. 그리고 물 한 병이요.
+Gauthier: (quand la serveuse est partie) Une carafe d'eau… Les journalistes ne boivent plus. À mon époque, les journalistes buvaient plus que les fonctionnaires.
+(종업원이 가자) 물 한 병이라… 요즘 기자들은 술을 안 마시는군. 내 시절엔 기자들이 공무원보다 더 마셨는데.
+Julien: Les temps changent, monsieur Gauthier.
+시대가 변했죠, 고티에 씨.
+Gauthier: Pas tant que ça. (il sourit) Bon. Tu ne m'as pas invité pour parler de vin. Qu'est-ce que tu veux savoir ?
+그렇게 많이는 아니야. (웃으며) 자. 와인 얘기 하려고 날 부른 건 아닐 테고. 뭘 알고 싶나?
+Julien: Avant tout : c'est off ?
+그 전에, 이건 오프더레코드죠?
+Gauthier: C'est off. Comme toujours avec moi. Je suis à la retraite, mais j'ai encore des amis à l'Hôtel de Ville. Je ne veux pas qu'ils aient des problèmes.
+오프더레코드지. 나랑은 늘 그렇지. 은퇴는 했지만 시청엔 아직 친구들이 있어. 그 친구들이 곤란해지는 건 싫으니까.
+Léa: Pardon, monsieur… Vous avez travaillé longtemps à la mairie ?
+죄송한데요… 시청에서 오래 일하셨어요?
+Gauthier: Trente-cinq ans, ma petite. Je suis arrivé en 1987. J'avais vingt-cinq ans. À l'époque, on dessinait les plans à la main. Sur de grandes feuilles. Avec des crayons.
+35년이야, 아가씨. 1987년에 들어갔지. 스물다섯 살 때. 그때는 도면을 손으로 그렸어. 큰 종이에. 연필로.
+Léa: À la main ? Sans ordinateur ?
+손으로요? 컴퓨터 없이요?
+Gauthier: Sans ordinateur. Il y avait un seul ordinateur pour tout le service. Personne ne savait l'utiliser. On l'appelait « le monstre ».
+컴퓨터 없이. 부서 전체에 컴퓨터가 딱 한 대 있었는데. 아무도 쓸 줄 몰랐지. 다들 «괴물»이라고 불렀어.
+Léa: (elle rit) « Le monstre » !
+(웃으며) «괴물»이라니!
+Gauthier: Et je vais vous raconter une histoire. En 1992, on a construit une piscine dans le dix-neuvième. Une très belle piscine. Avec un toit en verre.
+그리고 이야기 하나 해 주지. 1992년에 19구에 수영장을 지었어. 아주 멋진 수영장이었지. 유리 지붕까지 있는.
+Léa: Elle existe toujours ?
+아직 있어요?
+Gauthier: Elle existe toujours. Mais le jour de l'inauguration, le maire est venu, avec les journalistes, la télévision… Et il a commencé à pleuvoir.
+아직 있지. 그런데 개장식 날 시장이 왔어. 기자들, 텔레비전까지 데리고… 그런데 비가 오기 시작했지.
+Léa: Et alors ?
+그래서요?
+Gauthier: Et alors, il pleuvait aussi à l'intérieur ! Le toit en verre avait un trou. L'eau tombait directement dans la piscine. Sur le maire !
+그래서, 실내에도 비가 왔어! 유리 지붕에 구멍이 있었던 거야. 물이 수영장으로 바로 떨어졌지. 시장 머리 위로!
+Léa: (elle éclate de rire) Non ! Sur le maire ?
+(웃음을 터뜨리며) 설마! 시장 머리 위로요?
+Gauthier: Sur le maire, en costume. Devant toutes les caméras. Le lendemain, la photo était dans tous les journaux : « Le maire inaugure sa piscine… sous la pluie. »
+정장 입은 시장 머리 위로. 카메라들 앞에서. 다음 날 그 사진이 모든 신문에 실렸지. «시장, 수영장을 개장하다… 빗속에서.»
+Julien: (il rit) Et l'entreprise qui avait construit le toit ?
+(웃으며) 그럼 지붕을 지은 회사는요?
+Gauthier: Elle a payé les réparations. Et elle n'a plus jamais travaillé pour la Ville. À l'époque, quand une entreprise faisait mal son travail, elle était punie. Aujourd'hui… (il hausse les épaules) Aujourd'hui, les chantiers n'avancent pas, et les mêmes entreprises gagnent toujours.
+수리비를 냈지. 그리고 다시는 시 일을 하지 못했어. 그 시절엔 일을 제대로 못 한 회사는 벌을 받았거든. 요즘은… (어깨를 으쓱하며) 요즘은 공사가 진척이 없어도 늘 같은 회사들이 따지.
+Léa: Comme Canal-Nord.
+카날노르처럼요.
+Gauthier: Comme Canal-Nord. Un an de retard, et personne ne dit rien.
+카날노르처럼. 1년이나 늦어졌는데 아무도 아무 말 안 하지.
+Gauthier: Et à l'époque, l'urbanisme, c'était simple. On construisait des écoles, des piscines, des logements. Les entreprises faisaient des offres. Et la meilleure gagnait. Enfin… la plupart du temps.
+그리고 그때 도시계획은 단순했어. 학교, 수영장, 주택을 지었지. 회사들이 입찰하고, 제일 좋은 곳이 땄어. 그러니까… 대부분은.
+Julien: La plupart du temps ?
+대부분은요?
+Gauthier: (il boit un peu de vin) Il y a toujours eu des petits arrangements. Un déjeuner, une bouteille de champagne à Noël. Mais c'était… artisanal. Ce qui se passe depuis dix ans, c'est autre chose. C'est industriel.
+(와인을 조금 마시며) 작은 뒷거래는 늘 있었지. 점심 한 끼, 크리스마스에 샴페인 한 병. 그래도 그건… 수공업 수준이었어. 지난 10년 동안 벌어지는 일은 달라. 공업 수준이지.
+Léa: Industriel ?
+공업 수준이요?
+Gauthier: Organisé. Avec des règles. Toujours les mêmes entreprises. Toujours les mêmes personnes. (il baisse la voix) Depuis que Pujol est arrivé à l'urbanisme. Et surtout depuis que Stéphane Roux est devenu son directeur de cabinet.
+조직적이란 거지. 규칙이 있고. 늘 같은 회사들, 늘 같은 사람들. (목소리를 낮추며) 퓌졸이 도시계획을 맡은 뒤로. 특히 스테판 루가 비서실장이 된 뒤로.
+Julien: Vous connaissez Roux ?
+루를 아세요?
+Gauthier: Tout le monde le connaît. Un garçon brillant. Sciences Po, l'ENA. Il aurait pu devenir ministre. Mais il a choisi de rester dans l'ombre de Pujol. Les gens disent que c'est lui qui décide, et Pujol qui signe.
+모르는 사람이 없지. 똑똑한 친구야. 시앙스포, 국립행정학교 출신. 장관도 될 수 있었을 텐데. 그런데 퓌졸 그늘에 남기로 했지. 사람들은 루가 결정하고 퓌졸이 서명한다고들 해.
+Léa: Isabelle Faure a dit exactement la même chose.
+이자벨 포르도 정확히 같은 말을 했어요.
+Gauthier: Isabelle est une femme courageuse. Moins courageuse qu'avant, mais courageuse.
+이자벨은 용감한 사람이지. 예전보단 덜하지만, 그래도 용감해.
+Serveuse: (elle apporte les plats) Voilà ! Le rumsteck pour monsieur Gauthier. Les œufs mayonnaise pour mademoiselle.
+(요리를 가져오며) 나왔습니다! 고티에 씨 럼스테이크. 아가씨는 마요네즈 달걀.
+Léa: Merci ! Oh, c'est joli.
+감사합니다! 와, 예쁘다.
+Gauthier: Mangez, mangez. Les œufs mayonnaise de Nadège ont gagné un prix. Le championnat du monde de l'œuf mayonnaise. Ça existe, je vous jure.
+먹어요, 먹어. 나데주의 마요네즈 달걀은 상도 받았어. 마요네즈 달걀 세계 선수권 대회. 진짜 있는 대회라니까.
+Léa: (elle goûte) Mmm ! C'est vraiment très bon.
+(맛보며) 음! 진짜 맛있어요.
+Serveuse: (fière) Merci, mademoiselle. Deuxième place en 2022.
+(뿌듯하게) 고마워요, 아가씨. 2022년에 2등 했어요.
+Léa: Monsieur Gauthier, Pujol a de la famille dans le monde des affaires ? Sa femme, ses frères et sœurs ?
+고티에 씨, 퓌졸은 사업하는 가족이 있어요? 부인이나 형제자매요?
+Gauthier: Sa femme est médecin. Une femme très bien, d'ailleurs. Elle ne s'occupe pas de politique. Mais sa sœur, Martine, c'est autre chose.
+부인은 의사야. 아주 괜찮은 사람이지. 정치엔 관여 안 해. 그런데 여동생 마르틴은 얘기가 달라.
+Julien: Pourquoi ?
+왜요?
+Gauthier: Martine a une agence de décoration intérieure. Très chic. Dans le septième. Et devinez qui a décoré le Pavillon du Canal, quand Maréchal l'a ouvert ?
+마르틴은 인테리어 디자인 회사를 해. 아주 고급스러운 곳이지. 7구에 있어. 그런데 마레샬이 파비용 뒤 카날을 열었을 때 누가 거길 꾸몄는지 맞혀 봐.
+Léa: Martine ?
+마르틴이요?
+Gauthier: Martine. Pour huit cent mille euros. Les lustres, les fauteuils en velours, les miroirs… Tout le monde à la mairie en a parlé. C'était très beau, d'ailleurs. Elle a du goût.
+마르틴이지. 80만 유로를 받고. 샹들리에, 벨벳 의자, 거울… 시청 사람들이 다 그 얘기를 했어. 아주 예쁘긴 했지. 안목이 있거든.
+Julien: Huit cent mille euros. Pour décorer un pavillon que la Ville loue à Maréchal trois fois moins cher que le prix du marché.
+80만 유로. 시가 시세의 3분의 1에 마레샬한테 빌려준 파비용을 꾸미는 데.
+Gauthier: Tu vois le cercle, Marchetti ? La Ville donne le pavillon à Maréchal. Maréchal paie la sœur de Pujol. Et le pavillon sert de salle à manger au cartel.
+고리가 보이나, 마르케티? 시가 마레샬한테 파비용을 주고. 마레샬은 퓌졸 여동생한테 돈을 주고. 그리고 그 파비용은 카르텔의 식당이 되지.
+Léa: (elle écrit) Un cercle… C'est comme une machine. Chaque pièce aide l'autre.
+(적으며) 고리라… 기계 같아. 부품 하나하나가 서로를 돕는.
+Gauthier: C'est exactement ça, ma petite. Une machine. Et une machine, ça s'arrête quand on enlève une pièce.
+바로 그거야, 아가씨. 기계지. 그리고 기계는 부품 하나만 빼도 멈추지.
+Julien: Monsieur Gauthier, une question précise. Le nom de Christophe Vidal, ça vous dit quelque chose ?
+고티에 씨, 구체적인 질문 하나 드릴게요. 크리스토프 비달이라는 이름, 들어 보셨어요?
+Gauthier: (il pose sa fourchette) Vidal ? Pourquoi tu me parles de Vidal ?
+(포크를 내려놓으며) 비달? 왜 나한테 비달 얘기를 하나?
+Julien: C'est le gérant d'une entreprise qui s'appelle BTP Horizon. Sous-traitant de Valmont sur Canal-Nord.
+BTP 오리종이라는 회사의 대표예요. 카날노르에서 발몽의 하청 업체고요.
+Gauthier: (il rit doucement, sans joie) Alors vous avez trouvé. Vous avez trouvé plus vite que je ne le pensais.
+(즐거움 없이 조용히 웃으며) 그럼 찾았군. 생각보다 빨리 찾았네.
+Léa: Trouvé quoi ?
+뭘 찾았다는 거예요?
+Gauthier: Christophe Vidal est le beau-frère de Gérard Pujol.
+크리스토프 비달은 제라르 퓌졸의 처남이야.
+Léa: Le beau-frère ?
+처남이요?
+Gauthier: Il a épousé la sœur de Pujol, Martine, en 1998. J'étais au mariage. Toute la mairie était au mariage. C'était à Saint-Germain-des-Prés. Très chic.
+1998년에 퓌졸의 여동생 마르틴과 결혼했지. 나도 그 결혼식에 갔었어. 시청 사람들이 다 갔지. 생제르맹데프레에서 했어. 아주 고급스러웠지.
+Julien: Vous êtes sûr ?
+확실하세요?
+Gauthier: Absolument sûr. Et je vais te dire autre chose. Avant BTP Horizon, Vidal avait une autre société. Et avant, encore une autre. Elles ferment après trois ou quatre ans, et une nouvelle apparaît. Toujours sous-traitante sur les chantiers de la Ville.
+아주 확실해. 그리고 하나 더 말해 주지. BTP 오리종 전에도 비달은 다른 회사를 갖고 있었어. 그 전에도 또 다른 회사를. 회사들이 3, 4년 지나면 문을 닫고 새 회사가 나타나지. 늘 시 공사의 하청 업체로.
+Léa: Pourquoi elles ferment ?
+왜 문을 닫아요?
+Gauthier: Pour ne pas laisser de traces. Une société qui ferme, c'est une société qui ne peut plus être contrôlée. Les impôts, les cotisations, les dettes… tout disparaît avec elle.
+흔적을 남기지 않으려고. 문 닫은 회사는 더 이상 조사를 받을 수 없거든. 세금, 분담금, 빚… 다 그 회사와 함께 사라지지.
+Julien: Et tout le monde le savait, à la mairie ?
+그럼 시청에선 다들 알고 있었나요?
+Gauthier: Tout le monde le savait. Personne ne disait rien. On se disait : « C'est de la famille. C'est normal d'aider sa famille. » (il soupire) Ce n'est pas normal. Mais c'est humain.
+다들 알았지. 아무도 아무 말 안 했고. 이렇게들 생각했어. «가족이잖아. 가족을 돕는 건 당연하지.» (한숨 쉬며) 당연하지 않아. 하지만 인간적이긴 하지.
+Julien: Comment un sous-traitant est-il accepté par la Ville ? Concrètement ?
+하청 업체는 시에서 어떻게 승인받아요? 구체적으로요?
+Gauthier: L'entreprise principale envoie une demande. Avec le nom du sous-traitant, le prix, les travaux. Un fonctionnaire vérifie. Puis l'adjoint signe. Ou son directeur de cabinet, par délégation.
+원청이 신청서를 보내. 하청 업체 이름, 가격, 공사 내용을 적어서. 공무원이 확인하고. 그다음에 부시장이 서명하지. 아니면 위임을 받아 비서실장이 하거나.
+Léa: Par délégation ? Ça veut dire quoi ?
+위임을 받아서요? 그게 무슨 뜻이에요?
+Gauthier: Ça veut dire que Pujol peut donner à Roux le droit de signer à sa place. Comme ça, si un jour il y a un problème, ce n'est pas la signature de Pujol qui est sur le papier.
+퓌졸이 루한테 자기 대신 서명할 권한을 줄 수 있다는 거야. 그러면 언젠가 문제가 생겨도 서류에 있는 건 퓌졸의 서명이 아니지.
+Julien: Malin.
+영리하네요.
+Gauthier: Très malin. Et le fonctionnaire qui vérifie, il voit bien que BTP Horizon n'a aucun salarié. Mais quand le cabinet de l'adjoint dit « C'est urgent, signez », il signe.
+아주 영리하지. 그리고 확인하는 공무원은 BTP 오리종에 직원이 하나도 없다는 걸 뻔히 봐. 그래도 부시장 비서실에서 «급하니까 서명해»라고 하면 서명하지.
+Léa: Et s'il refuse ?
+거부하면요?
+Gauthier: Il est muté. Dans un service où il n'y a rien à signer. Je l'ai vu arriver deux fois. Deux collègues. Deux bons fonctionnaires.
+전보 조치되지. 서명할 게 하나도 없는 부서로. 두 번 봤어. 동료 두 명. 둘 다 좋은 공무원이었는데.
+Julien: Ces collègues accepteraient de nous parler ?
+그 동료분들이 저희랑 얘기해 줄까요?
+Gauthier: L'un est mort. L'autre… peut-être. Je lui demanderai. Elle s'appelle Françoise. Elle a la mémoire d'un éléphant et la langue d'une vipère.
+한 명은 세상을 떠났어. 다른 한 명은… 아마도. 물어봐 주지. 이름은 프랑수아즈야. 기억력은 코끼리 같고 혀는 독사 같지.
+Léa: (elle rit) La langue d'une vipère ?
+(웃으며) 독사 같은 혀요?
+Gauthier: Elle dit tout ce qu'elle pense. Très fort. C'est pour ça qu'on l'a mutée.
+생각하는 걸 다 말하거든. 아주 크게. 그래서 전보된 거고.
+Léa: J'aime déjà Françoise.
+벌써 프랑수아즈가 좋아지네요.
+Gauthier: (il rit) Tout le monde aime Françoise. Sauf ses chefs.
+(웃으며) 다들 프랑수아즈를 좋아하지. 상사들만 빼고.
+Léa: (elle écrit vite) « Christophe Vidal, gérant de BTP Horizon, beau-frère de Pujol. Marié à Martine Pujol en 1998. »
+(빠르게 적으며) «BTP 오리종 대표 크리스토프 비달, 퓌졸의 처남. 1998년 마르틴 퓌졸과 결혼.»
+Julien: Colonne de gauche ou de droite, Léa ?
+왼쪽 칸이야, 오른쪽 칸이야, 레아?
+Léa: Euh… De droite. Pour l'instant. Il faut vérifier. L'acte de mariage, par exemple.
+음… 오른쪽. 지금은. 확인해야 하니까. 예를 들면 혼인 증명서 같은 걸로.
+Gauthier: (impressionné) Elle apprend vite, ta collègue.
+(감탄하며) 네 동료 빨리 배우는구먼.
+Julien: Elle apprend très vite.
+아주 빨리 배우죠.
+Serveuse: (elle apporte le poulet basquaise) Et voilà, deux poulets basquaise. Attention, c'est chaud.
+(바스크식 닭 요리를 가져오며) 여기 바스크식 닭 요리 둘이요. 조심하세요, 뜨거워요.
+Léa: Ça sent très bon ! Il y a des poivrons ?
+냄새 너무 좋아요! 피망이 들어갔어요?
+Serveuse: Des poivrons, des tomates, des oignons, et du piment d'Espelette. C'est la recette de ma grand-mère. Elle était basque.
+피망, 토마토, 양파, 그리고 에스플레트 고춧가루요. 우리 할머니 레시피예요. 바스크 분이셨거든요.
+Léa: Une recette de grand-mère… Vraiment faite maison ?
+할머니 레시피라… 진짜 수제예요?
+Serveuse: (elle rit) Vous avez lu l'article sur Maréchal, vous aussi ? Oui, vraiment fait maison. Dans la petite cuisine, là-bas. Venez voir si vous voulez.
+(웃으며) 손님도 마레샬 기사 읽으셨구나? 네, 진짜 수제예요. 저기 작은 주방에서요. 원하시면 와서 보세요.
+Gauthier: Ici, tout le monde a lu votre article. Même à la mairie. Surtout à la mairie.
+여기선 다들 너희 기사를 읽었어. 시청에서도. 특히 시청에서.
+Julien: Comment les gens ont réagi, à la mairie ?
+시청 사람들 반응은 어땠어요?
+Gauthier: Il y a eu une réunion d'urgence au cabinet de Pujol, lundi. Mon ami au service courrier m'a raconté. Stéphane Roux est sorti de la réunion tout blanc. Et le soir, il a commandé une broyeuse à papier. Une grosse.
+월요일에 퓌졸 비서실에서 긴급회의가 있었어. 우편과에 있는 내 친구가 얘기해 줬지. 스테판 루가 회의실에서 하얗게 질려서 나왔대. 그리고 저녁에 문서 파쇄기를 주문했다더군. 큰 걸로.
+Léa: Une broyeuse ? Pour détruire des documents ?
+파쇄기요? 서류를 없애려고요?
+Gauthier: C'est à ça que sert une broyeuse, ma petite.
+파쇄기가 원래 그런 데 쓰는 거지, 아가씨.
+Julien: (il pose ses couverts) Monsieur Gauthier, le Pavillon du Canal. On nous a dit que des déjeuners avaient lieu là-bas. Le premier lundi du mois.
+(포크와 나이프를 내려놓으며) 고티에 씨, 파비용 뒤 카날 말인데요. 거기서 점심 모임이 있다고 들었어요. 매달 첫째 월요일에.
+Gauthier: (il regarde autour de lui) Tu en sais beaucoup, Marchetti. Trop, peut-être. (un silence) Oui. Le premier lundi du mois. Au salon privé, à l'étage. Avant, c'était dans un restaurant près de la Bourse. Depuis que Maréchal a le pavillon, c'est là-bas.
+(주위를 둘러보며) 많이 아는구먼, 마르케티. 너무 많이 아는지도. (침묵) 그래. 매달 첫째 월요일. 2층 개별 룸에서. 예전엔 증권거래소 근처 식당에서 했는데. 마레샬이 그 파비용을 갖게 된 뒤로는 거기서 하지.
+Léa: Et qui vient à ces déjeuners ?
+그럼 그 점심엔 누가 와요?
+Gauthier: Les patrons des trois entreprises. Valmont, Bâtir Ensemble, Delorme. Parfois Vidal. Et Stéphane Roux. Jamais Pujol. Pujol est trop prudent pour ça.
+세 회사 사장들. 발몽, 바티르 앙상블, 들로름. 가끔 비달. 그리고 스테판 루. 퓌졸은 절대 안 와. 그러기엔 너무 조심스럽거든.
+Julien: Et Maréchal ?
+마레샬은요?
+Gauthier: Maréchal, c'est l'hôte. Il ne s'assoit pas à la table. Il passe dire bonjour, il offre le champagne, il ferme la porte. Et il s'assure que personne ne les dérange.
+마레샬은 주인이지. 테이블에 앉지는 않아. 인사하러 들르고, 샴페인을 내고, 문을 닫지. 그리고 아무도 방해하지 않게 챙기고.
+Léa: « L'ami du Pavillon »…
+«파비용의 친구»…
+Gauthier: Pardon ?
+뭐라고?
+Léa: Rien. Une phrase qu'on a lue quelque part.
+아무것도 아니에요. 어디서 읽은 문장이에요.
+Gauthier: (il la regarde longuement, puis il sourit) Vous êtes prudente, vous aussi. C'est bien.
+(그녀를 한참 바라보다가 웃으며) 아가씨도 신중하군. 좋아.
+Serveuse: Un dessert ? J'ai une tarte Tatin. Faite ce matin.
+디저트 드실래요? 타르트 타탱이 있어요. 오늘 아침에 만든 거예요.
+Léa: (elle regarde Julien) On a le droit, aujourd'hui ? C'est nous qui payons.
+(쥘리앵을 보며) 오늘은 먹어도 돼? 우리가 계산하는 거잖아.
+Julien: (il rit) Aujourd'hui, oui. Trois tartes Tatin, s'il vous plaît. Et trois cafés.
+(웃으며) 오늘은 돼. 타르트 타탱 세 개 주세요. 그리고 커피 세 잔이요.
+Gauthier: Tu m'invites, Marchetti ? Le Phare est devenu riche ?
+네가 사는 거야, 마르케티? 〈Le Phare〉가 부자가 됐나?
+Julien: Le Phare a gagné quarante pour cent d'abonnés en une semaine. On peut s'offrir trois tartes Tatin.
+〈Le Phare〉 구독자가 일주일 만에 40퍼센트 늘었거든요. 타르트 타탱 세 개 정도는 살 수 있어요.
+Gauthier: (il rit) Alors je prends aussi un petit cognac. Pour fêter ça.
+(웃으며) 그럼 코냑도 한 잔 하지. 축하하는 의미로.
+Léa: (elle mange sa tarte) Monsieur Gauthier, pourquoi vous nous aidez ?
+(타르트를 먹으며) 고티에 씨, 왜 저희를 도와주세요?
+Gauthier: (il réfléchit) Parce que j'ai passé trente-cinq ans à dessiner des écoles et des parcs pour les Parisiens. Avec mon crayon. Avec amour, même. Et quand je vois ce qu'ils font de mon métier aujourd'hui… (il secoue la tête) Ça me fait mal.
+(생각하다가) 35년 동안 파리 사람들을 위해 학교랑 공원을 그렸거든. 연필로. 애정을 담아서. 그런데 오늘날 그들이 내 직업을 어떻게 만들었는지 보면… (고개를 저으며) 마음이 아파.
+Léa: Je comprends.
+이해해요.
+Gauthier: Et puis, je vais vous dire la vérité : je m'ennuie. La retraite, c'est long. (il sourit) Aider deux journalistes à attraper des voleurs, c'est mieux que les mots croisés.
+그리고 사실대로 말하면, 심심해서야. 은퇴 생활은 길거든. (웃으며) 기자 둘이 도둑 잡는 걸 돕는 게 십자말풀이보단 낫지.
+Julien: (il sort son portefeuille) Merci, monsieur Gauthier. Vraiment.
+(지갑을 꺼내며) 감사합니다, 고티에 씨. 정말로요.
+Gauthier: Attends. (il sort une vieille enveloppe de sa veste) J'ai apporté quelque chose. Je ne savais pas si j'allais te le donner. Maintenant, je sais.
+잠깐. (재킷에서 낡은 봉투를 꺼내며) 뭘 좀 가져왔어. 이걸 줄지 말지 몰랐는데. 이제는 알겠군.
+Léa: Qu'est-ce que c'est ?
+그게 뭐예요?
+Gauthier: Une photo. Du mariage de Martine Pujol et de Christophe Vidal. 1998. C'est ma femme qui l'a prise. Elle aimait les mariages.
+사진 한 장. 마르틴 퓌졸과 크리스토프 비달의 결혼식. 1998년. 우리 집사람이 찍은 거야. 결혼식을 좋아했거든.
+Julien: (il regarde la photo) Pujol, plus jeune… Martine et Vidal au milieu… Et l'homme à côté de Vidal ? Le témoin ?
+(사진을 보며) 젊은 퓌졸… 가운데 마르틴과 비달… 그럼 비달 옆에 있는 남자는요? 들러리요?
+Gauthier: Le témoin de mariage de Vidal. Un jeune homme de vingt-sept ans, à l'époque. Très ambitieux. Il venait de créer sa petite entreprise de construction.
+비달의 결혼 증인이지. 그때 스물일곱 살 젊은이였어. 야심이 아주 컸지. 막 작은 건설 회사를 차린 참이었고.
+Léa: Qui est-ce ?
+누구예요?
+Gauthier: (il finit son cognac) Jacques Valmont. Le fondateur de Valmont Construction.
+(코냑을 다 마시며) 자크 발몽. 발몽 건설 창업자.
+
+## 주요 단어
+le bistrot | 르 비스트로 | 비스트로, 작은 식당 (A2)
+le fonctionnaire | 르 퐁끄시오네르 | 공무원 (B1)
+l'informateur (m.) | 랭포르마뙤르 | 정보원, 제보자 (B2)
+s'ennuyer → ennuyé | 상뉘이예 → 앙뉘이예 | 심심해하다, 지루해하다 (A2)
+le pichet | 르 삐셰 | (와인·물) 작은 주전자, 피처 (B1)
+saignant(e) | 쎄냥(뜨) | (고기) 레어로 익힌 (A2)
+les œufs mayonnaise | 레죄 마요네즈 | 마요네즈 달걀(전채) (A2)
+le poulet basquaise | 르 뿔레 바스께즈 | 바스크식 닭 요리 (A2)
+la retraite | 라 르트레뜨 | 은퇴, 연금 (A2)
+le beau-frère | 르 보 프레르 | 처남, 매형, 시아주버니 (A2)
+le témoin de mariage | 르 떼무앵 드 마리아쥬 | 결혼 증인, 들러리 (B1)
+épouser → épousé | 에뿌제 → 에뿌제 | ~와 결혼하다 (B1)
+la broyeuse (à papier) | 라 브루아예즈 | 문서 파쇄기 (B2)
+l'arrangement (m.) | 라랑쥬망 | 뒷거래, 합의 (B2)
+l'acte de mariage | 락뜨 드 마리아쥬 | 혼인 증명서 (B2)
+la tarte Tatin | 라 따르뜨 따땡 | 타르트 타탱(사과 타르트) (A2)
+les mots croisés | 레 모 크루아제 | 십자말풀이 (A2)
+
+## 문법·표현 정리
+**C'est off ? (B1):** "오프더레코드죠?" 1부 3화에서 배운 표현. 고티에 씨는 "C'est off. Comme toujours avec moi."라고 답합니다.
+**À mon époque, … (A2):** "내 시절에는". 나이 든 사람이 옛날을 회상할 때 자주 씁니다. 뒤에는 imparfait. À mon époque, les journalistes buvaient plus.(내 시절엔 기자들이 더 마셨다) 비슷한 말: Dans le temps, … / Autrefois, …
+**imparfait로 옛 시절 묘사 (A2~B1):** On dessinait les plans à la main.(도면을 손으로 그리곤 했다) · Il y avait un seul ordinateur.(컴퓨터가 딱 한 대 있었다) · On l'appelait « le monstre ».(그걸 «괴물»이라고 불렀다) 반복된 습관·배경은 imparfait.
+**Tout le monde le savait (A2):** "모두가 알고 있었다". tout le monde는 의미상 복수지만 동사는 3인칭 단수입니다. Tout le monde le connaît.(모두가 그를 안다)
+**le beau-frère / la belle-sœur (A2):** 배우자의 형제자매나 형제자매의 배우자. beau-père(장인·시아버지; 의붓아버지), belle-mère(장모·시어머니; 의붓어머니). Christophe Vidal est le beau-frère de Gérard Pujol.
+**Comme d'habitude (A2):** "늘 하던 대로". 단골 식당에서: Comme d'habitude ?(늘 드시던 걸로요?)
+**Qu'est-ce que vous me conseillez ? (A2):** 1부 9화에서도 나온 식당 표현. 답: La spécialité, c'est… (특선은 ~예요)
+**On a le droit ? (A2):** "해도 돼?" avoir le droit de + 동사원형. 앞에서 디저트를 참았던 레아가 이번엔 먹어도 되는지 묻는 장면입니다.
+**plus vite que je ne le pensais (B2):** 비교문의 허사 ne와 중성 대명사 le. "내가 생각했던 것보다 더 빨리". le는 앞의 내용(그들이 찾는 것)을 받습니다.
+**servir à (B1):** "~에 쓰이다". C'est à ça que sert une broyeuse.(파쇄기는 그런 데 쓰는 거다) 강조 구문 c'est… que와 함께 쓰였습니다.
+**s'assurer que (B2):** "~을 확인하다, 확실히 하다". Il s'assure que personne ne les dérange.(아무도 그들을 방해하지 않도록 확실히 한다)
+**venir de + 동사원형 (A2):** 과거 시점의 근접과거는 imparfait로: Il venait de créer son entreprise.(그는 막 회사를 차린 참이었다)
+**s'offrir (B1):** "~을 큰맘 먹고 사다, 자신에게 선물하다". On peut s'offrir trois tartes Tatin.(타르트 타탱 세 개 정도는 살 수 있다)
+**Ça me fait mal (A2):** "마음이 아프다, 아프다". 신체적 고통과 정신적 고통 모두에 씁니다.
