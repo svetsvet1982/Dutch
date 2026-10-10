@@ -131,7 +131,7 @@ Léa: Elle m'a donné un numéro, Camille. Sa nièce. Une lanceuse d'alerte. Une
 그 사람이 번호를 줬어, 카미유. 조카 번호. 내부 고발자야. 물에 관한 이야기.
 Camille: (elle démarre) Tu me raconteras lundi. Ce soir, tu dors.
 (시동을 걸며) 월요일에 얘기해 줘. 오늘 밤엔 자.
-Ariane: (lundi matin, à la rédaction, tout le monde applaudit quand Léa entre) La voilà ! Notre agente secrète !
+Camille: (lundi matin, à la rédaction, tout le monde applaudit quand Léa entre) La voilà ! Notre agente secrète !
 (월요일 아침, 편집국에 레아가 들어오자 모두 박수를 친다) 왔다! 우리 비밀 요원!
 Karim: (il siffle) Bravo, Marie ! Pardon… Léa !
 (휘파람을 불며) 브라보, 마리! 아니… 레아!
@@ -175,7 +175,7 @@ Léa: Dans les hôpitaux ?
 병원에서도요?
 Karim: Pour les bébés. « Convient à la préparation des biberons. » C'est écrit sur l'étiquette.
 아기용으로. «분유 조제에 적합.» 상표에 쓰여 있어.
-Ariane: (elle prend la bouteille) Si l'eau est traitée, ce n'est pas forcément dangereux. Mais c'est un mensonge. Et une tromperie sur la marchandise.
+Hélène: (elle prend la bouteille) Si l'eau est traitée, ce n'est pas forcément dangereux. Mais c'est un mensonge. Et une tromperie sur la marchandise.
 (물병을 집어 들며) 물을 처리했다고 해서 꼭 위험한 건 아니야. 하지만 거짓말이지. 그리고 상품 기만이고.
 Julien: (doucement) Léa… On est sur Canal-Nord. On a besoin de tout le monde.
 (부드럽게) 레아… 지금 우린 카날노르 건을 하고 있어. 모두가 필요해.
@@ -203,7 +203,7 @@ Léa: « Les faits. Seulement les faits. Et vérifie deux fois. »
 «사실. 오직 사실만. 그리고 두 번 확인해.»
 Julien: Trois fois. Pour un premier sujet, trois fois.
 세 번. 첫 기사라면 세 번.
-Ariane: Et un conseil de vieille journaliste : commence par l'étiquette. Une étiquette, c'est une promesse. Si la promesse est fausse, c'est une histoire.
+Hélène: Et un conseil de vieille journaliste : commence par l'étiquette. Une étiquette, c'est une promesse. Si la promesse est fausse, c'est une histoire.
 그리고 늙은 기자의 조언 하나. 상표부터 시작해. 상표는 약속이야. 그 약속이 거짓이면, 그게 기사야.
 Léa: (elle note) « Une étiquette, c'est une promesse. »
 (메모하며) «상표는 약속이다.»
@@ -235,11 +235,11 @@ Léa: Et une eau « naturelle », c'est plus cher ?
 그럼 «천연» 물이 더 비싸?
 Karim: Beaucoup plus cher. Trois ou quatre fois le prix d'une eau de source normale. C'est ça, le business.
 훨씬 비싸. 일반 샘물의 세 배, 네 배. 그게 바로 장사지.
-Ariane: (elle passe derrière eux) Le business et la confiance. Les mères achètent cette eau pour leurs bébés parce qu'elles ont confiance.
+Hélène: (elle passe derrière eux) Le business et la confiance. Les mères achètent cette eau pour leurs bébés parce qu'elles ont confiance.
 (둘 뒤로 지나가며) 장사, 그리고 신뢰. 엄마들은 믿으니까 아기한테 그 물을 사 주는 거야.
 Léa: Ma mère aussi, peut-être.
 우리 엄마도 그럴지 몰라요.
-Ariane: Alors fais attention. Quand c'est personnel, on voit ce qu'on veut voir. Pas ce qui est vrai.
+Hélène: Alors fais attention. Quand c'est personnel, on voit ce qu'on veut voir. Pas ce qui est vrai.
 그럼 조심해. 개인적인 일이 되면 보고 싶은 것만 보게 돼. 진실 말고.
 Karim: Et j'ai trouvé autre chose. Le directeur de l'usine s'appelle Didier Masson. Il est aussi conseiller municipal à Valcroze.
 그리고 다른 것도 찾았어. 공장장 이름이 디디에 마송이야. 발크로즈 시의원이기도 해.

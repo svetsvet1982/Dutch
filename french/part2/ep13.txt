@@ -1,0 +1,341 @@
+# 2부 13화. La pression (압력)
+수준: A2~C1 혼합 (중심 C1) | 장소: 편집국장실·오브리 변호사 사무실·편집국 | 시간: 11월 둘째 주 월요일~수요일
+핵심 표현: le droit de réponse · le contradictoire · Sous réserve de · procédure-bâillon
+
+## 대화
+Hélène: (lundi, à neuf heures, dans son bureau, elle pose une feuille sur la table) Le calendrier. Écoutez bien, parce que je ne le répéterai pas.
+(월요일 아침 아홉 시, 국장실에서 종이 한 장을 탁자에 내려놓으며) 일정표야. 잘 들어, 두 번 말 안 할 거니까.
+Julien: On écoute.
+듣고 있어요.
+Hélène: Aujourd'hui, envoi des questions. Canal-Nord : Valmont, Vidal, Roux, Pujol. Valcroze : Masson, Hydra Vosges, et l'ARS, nommément Bernard Leclerc. Délai de réponse : quarante-huit heures.
+오늘 질문지 발송. 카날노르: 발몽, 비달, 루, 퓌졸. 발크로즈: 마송, 이드라 보주, 그리고 보건청, 특히 베르나르 르클레르를 명시해서. 답변 기한: 48시간.
+Karim: Quarante-huit heures, ce n'est pas un peu court ?
+48시간이면 좀 짧지 않아요?
+Hélène: C'est la pratique. Assez pour répondre, pas assez pour organiser une contre-offensive. Mercredi soir, on fait le point. Jeudi, six heures du matin, publication simultanée des deux enquêtes.
+그게 관행이야. 답하기엔 충분하고, 반격을 조직하기엔 부족하지. 수요일 저녁에 점검하고, 목요일 아침 여섯 시에 두 탐사 기사를 동시에 낸다.
+Léa: Les deux en même temps ? Mon sujet aussi ?
+둘 다 동시에요? 제 기사도요?
+Hélène: Ton sujet aussi. Sous réserve de deux conditions. Un : Jérôme confirme l'authenticité du mail. Deux : Aubry valide chaque phrase.
+네 기사도. 두 가지 조건하에서. 하나, 제롬이 이메일의 진본성을 확인해 줄 것. 둘, 오브리가 문장 하나하나를 승인할 것.
+Léa: Et si Jérôme refuse ?
+그럼 제롬이 거절하면요?
+Hélène: Alors ton sujet attend. Une semaine, un mois. Le temps qu'il faudra. Un mail non authentifié, c'est une grenade dégoupillée. Elle explose dans nos mains, pas dans celles de Leclerc.
+그럼 네 기사는 기다려. 일주일이든, 한 달이든. 필요한 만큼. 진본 확인이 안 된 이메일은 안전핀 뽑힌 수류탄이야. 르클레르 손이 아니라 우리 손에서 터져.
+Julien: Pourquoi publier ensemble ? Ce sont deux affaires différentes.
+왜 같이 내요? 서로 다른 사건인데요.
+Hélène: Pour une raison simple. Une enquête seule, ils peuvent l'étouffer. Deux enquêtes le même jour, ça devient un récit : celui d'élus et de fonctionnaires qui protègent des intérêts privés. Et il est beaucoup plus difficile de faire pression sur deux fronts à la fois.
+간단한 이유야. 기사 하나면 묻어 버릴 수 있어. 같은 날 두 개면 하나의 이야기가 되지. 사적 이익을 보호하는 선출직과 공무원들의 이야기. 그리고 두 전선에 동시에 압력을 가하는 건 훨씬 어렵고.
+Camille: Et Ariane ? Elle est au courant ?
+그럼 아리안은요? 알고 있어요?
+Hélène: Elle sait tout. Comme d'habitude. (elle se lève) Au travail. Et préparez-vous : la pression commence dès que les questions partent.
+다 알아. 늘 그렇듯. (일어서며) 일하자. 그리고 각오해. 질문지가 나가는 순간 압력이 시작돼.
+Léa: (à onze heures, elle relit son mail avant de l'envoyer) « Monsieur, dans le cadre d'une enquête sur la Source Valcroze, nous souhaiterions recueillir votre réponse aux éléments suivants… »
+(오전 열한 시, 이메일을 보내기 전에 다시 읽으며) «귀하, 수르스 발크로즈에 관한 취재의 일환으로 다음 사항에 대한 귀하의 답변을 받고자 합니다…»
+Julien: (derrière elle) Montre. (il lit) « Selon nos informations, des dispositifs de traitement auraient été installés. » Bien. Le conditionnel. Et la question sur Leclerc ?
+(그녀 뒤에서) 보여 줘. (읽으며) «저희가 입수한 정보에 따르면 처리 장치가 설치된 것으로 보입니다.» 좋아. 조건법이네. 르클레르에 관한 질문은?
+Léa: « Confirmez-vous avoir été informé à l'avance de la date de l'inspection du 14 ? »
+«14일 점검 날짜를 사전에 통보받은 사실을 확인하십니까?»
+Julien: Précis, factuel, sans adjectif. Parfait. Tu ne dis pas d'où vient le mail ?
+정확하고, 사실적이고, 형용사도 없고. 완벽해. 이메일 출처는 안 밝히지?
+Léa: Non. Je dis seulement que nous disposons d'un document.
+네. 문서를 확보하고 있다고만 해요.
+Julien: Bien. Ne jamais donner à l'adversaire la carte de ton jeu. Envoie.
+좋아. 상대에게 절대 네 패를 보여 주지 마. 보내.
+Léa: (elle clique) C'est parti.
+(클릭하며) 보냈어요.
+Karim: (à quinze heures, il se retourne) Premier retour. Ça n'a pas traîné. Un mail du cabinet Delacroix-Ferrand, avocats de Valmont. Sept pages.
+(오후 세 시, 돌아보며) 첫 회신. 금방 왔네요. 발몽의 변호인 들라크루아페랑 법무법인에서 온 메일. 일곱 페이지.
+Hélène: Sept pages pour quarante-huit heures de délai. Ils l'avaient préparé à l'avance. Lis le dernier paragraphe. C'est toujours là qu'est la menace.
+48시간 기한에 일곱 페이지라. 미리 준비해 뒀던 거야. 마지막 문단을 읽어. 협박은 늘 거기 있어.
+Karim: (il lit) « Notre cliente se réserve le droit d'engager toute action utile, tant sur le fondement de la loi du 29 juillet 1881 que sur celui de la protection du secret des affaires, à l'encontre de toute personne ayant participé à l'obtention, la détention ou la diffusion de documents internes. »
+(읽으며) «당사 의뢰인은 1881년 7월 29일 법 및 영업 비밀 보호를 근거로, 내부 문서의 취득, 보유 또는 유포에 관여한 모든 자에 대해 필요한 모든 법적 조치를 취할 권리를 유보합니다.»
+Léa: « L'obtention, la détention ou la diffusion »… C'est moi, ça.
+«취득, 보유 또는 유포»… 그거 저예요.
+Hélène: C'est nous. Personne ne poursuivra une stagiaire seule. Ils veulent te faire peur. On appelle Aubry.
+우리야. 수습기자 혼자를 고소하는 사람은 없어. 널 겁주려는 거야. 오브리한테 전화하자.
+Aubry: (le soir, dans son cabinet, rue de Rivoli, des dossiers jusqu'au plafond) Asseyez-vous. Je les ai lus, tous les deux. Celui de Valmont et celui de Masson, arrivé il y a une heure.
+(저녁, 리볼리 거리의 변호사 사무실. 천장까지 서류가 쌓여 있다) 앉으세요. 둘 다 읽었어요. 발몽 것도, 한 시간 전에 온 마송 것도요.
+Léa: Masson aussi a répondu ?
+마송도 답했어요?
+Aubry: Par l'intermédiaire de son avocat. Je vous lis l'essentiel. « Toute publication mettant en cause la conformité de l'eau de la Source Valcroze fera l'objet d'une demande de dommages et intérêts à hauteur de cinq millions d'euros, en réparation du préjudice commercial subi. »
+변호인을 통해서요. 핵심만 읽어 드리죠. «수르스 발크로즈 물의 적합성에 의문을 제기하는 모든 보도에 대해서는, 입은 영업상 손해의 배상으로 500만 유로 상당의 손해 배상 청구가 이루어질 것입니다.»
+Léa: Cinq millions ? Le Phare ne vaut pas cinq millions !
+500만이요? 르 파르는 500만 가치도 안 되는데요!
+Aubry: Précisément. C'est ce qu'on appelle une procédure-bâillon. Le montant n'a aucun rapport avec un préjudice réel. Le but n'est pas de gagner le procès, mais de vous ruiner en frais d'avocat, ou de vous dissuader de publier.
+바로 그거예요. 그게 이른바 «재갈 소송»이에요. 금액은 실제 손해와 아무 관련이 없어요. 목적은 소송에서 이기는 게 아니라, 변호사 비용으로 당신들을 망하게 하거나 보도를 단념시키는 거죠.
+Julien: Et ça marche ?
+그게 통해요?
+Aubry: Sur les petits médias, malheureusement, souvent. Le juge peut sanctionner une procédure abusive, et le droit européen pousse désormais dans ce sens. Mais entre-temps, il faut tenir. Des mois, parfois des années.
+작은 언론사에는 안타깝게도 자주 통하죠. 판사가 남소를 제재할 수 있고, 유럽 법도 이제 그 방향으로 가고 있어요. 하지만 그 사이에 버텨야 해요. 몇 달, 때로는 몇 년씩.
+Hélène: On tiendra. Passons au secret des affaires. Valmont nous menace sur ce terrain.
+버틸 거예요. 영업 비밀로 넘어가죠. 발몽이 그쪽으로 우릴 위협하고 있어요.
+Aubry: C'est leur argument le plus sérieux en apparence, et le plus faible en réalité. La loi de 2018 prévoit expressément que le secret des affaires n'est pas opposable lorsque l'obtention ou la divulgation intervient pour exercer le droit à la liberté d'expression et d'information, y compris le respect de la liberté de la presse.
+겉보기엔 가장 진지한 논거지만 실제로는 가장 약해요. 2018년 법은 표현과 정보의 자유를 행사하기 위해, 언론 자유의 존중을 포함해 취득이나 공개가 이루어진 경우 영업 비밀로 대항할 수 없다고 명시하고 있어요.
+Léa: Donc des fausses situations de travaux envoyées à la Ville…
+그러니까 시에 보낸 허위 기성 청구서는…
+Aubry: Ne sont pas un « secret des affaires » protégé. Une fraude n'est pas un savoir-faire. Le contribuable a le droit de savoir comment son argent est dépensé.
+보호받는 «영업 비밀»이 아니에요. 사기는 노하우가 아니니까요. 납세자는 자기 돈이 어떻게 쓰이는지 알 권리가 있어요.
+Julien: Et la question de Léa ? Elle était dans le préfabriqué sous un autre nom. Ils peuvent attaquer pour usurpation d'identité ?
+그럼 레아 문제는요? 다른 이름으로 가건물에 있었잖아요. 신분 도용으로 걸 수 있어요?
+Aubry: (il sourit) C'est là que la préparation paie. Léa, rappelez-moi le nom sur votre contrat.
+(웃으며) 바로 거기서 준비가 빛을 발하죠. 레아, 계약서에 적힌 이름이 뭐였죠?
+Léa: Marie-Léa Morel. Mon vrai nom complet. Avec ma vraie carte d'identité et mon vrai numéro de sécurité sociale.
+마리레아 모렐. 제 진짜 전체 이름이요. 진짜 신분증이랑 진짜 사회보장 번호로요.
+Aubry: Donc aucune usurpation, aucun faux. Vous avez utilisé votre premier prénom, que vous n'utilisez jamais. C'est inhabituel, mais parfaitement légal. Et vous avez réellement travaillé, et été réellement payée.
+그러니까 신분 도용도 위조도 없어요. 평소엔 전혀 안 쓰는 첫 번째 이름을 썼을 뿐이죠. 흔하진 않지만 완전히 합법이에요. 그리고 실제로 일했고, 실제로 급여를 받았고요.
+Léa: Quatre cent douze euros. Je les ai donnés à l'association de Mehdi. Pour les ouvriers de Rapid'Œuvre.
+412유로요. 메디 씨 단체에 줬어요. 라피드 외브르 노동자들을 위해서요.
+Aubry: (il hausse un sourcil) Vous avez bien fait. Notez-le par écrit, avec le reçu. Ça pourra servir.
+(눈썹을 치켜올리며) 잘하셨어요. 영수증이랑 같이 서면으로 기록해 두세요. 쓸모가 있을 거예요.
+Hélène: Et Mathilde ? Elle a imprimé un mail interne. Valcroze peut la poursuivre pour vol de documents.
+그럼 마틸드는요? 내부 이메일을 출력했잖아요. 발크로즈가 문서 절도로 고소할 수 있어요.
+Aubry: C'est mon souci principal. Depuis la loi de 2022, le statut de lanceur d'alerte a été renforcé. Un lanceur d'alerte qui obtient licitement des informations, ou qui soustrait des documents dont il a eu connaissance de manière licite dans le cadre de ses fonctions, est pénalement irresponsable, à condition que ce soit nécessaire à la sauvegarde de l'intérêt en cause.
+그게 제 가장 큰 걱정이에요. 2022년 법 이후 내부 고발자의 지위가 강화됐어요. 정보를 적법하게 취득하거나, 직무 수행 중 적법하게 알게 된 문서를 빼낸 내부 고발자는, 그것이 해당 이익을 보호하는 데 필요하다면 형사 책임을 지지 않아요.
+Léa: Le mail lui a été envoyé par erreur. Elle l'a reçu dans le cadre de ses fonctions.
+그 이메일은 실수로 그녀에게 발송됐어요. 직무 수행 중에 받은 거예요.
+Aubry: Exactement. C'est un argument solide. Mais elle doit être accompagnée. Je vais lui recommander un confrère spécialisé, et la Maison des lanceurs d'alerte.
+정확해요. 탄탄한 논거죠. 하지만 그녀는 지원을 받아야 해요. 전문 변호사 한 분과 내부 고발자 지원 단체를 추천해 드릴게요.
+Julien: Et le droit de réponse ? Ils vont l'exiger.
+그럼 반론권은요? 그쪽에서 요구할 텐데요.
+Aubry: Bien sûr. Article 13 de la loi de 1881, adapté à la presse en ligne. Toute personne nommée ou désignée peut exiger l'insertion d'une réponse, dans un délai de trois mois après la publication. Et vous êtes tenus de la publier, sauf si elle est contraire à la loi ou porte atteinte à l'honneur du journaliste.
+물론이죠. 온라인 언론에 맞게 적용되는 1881년 법 제13조. 이름이 거론되거나 특정된 사람은 누구나 보도 후 3개월 이내에 반론 게재를 요구할 수 있어요. 그리고 여러분은 그걸 게재할 의무가 있어요. 법에 반하거나 기자의 명예를 훼손하는 경우가 아니라면요.
+Léa: Même si leur réponse est fausse ?
+그쪽 반론이 거짓이어도요?
+Aubry: Même si elle est fausse. Le droit de réponse n'est pas un droit à la vérité, c'est un droit à la parole. Vous pourrez ensuite publier vos éléments. Mais il ne faut pas confondre les deux. Le contradictoire, c'est avant la publication : vous posez vos questions. Le droit de réponse, c'est après : ils s'expriment.
+거짓이어도요. 반론권은 진실에 대한 권리가 아니라 말할 권리예요. 그다음에 여러분이 근거를 다시 보도하면 돼요. 하지만 둘을 혼동하면 안 돼요. 반론 기회 보장은 보도 전이에요. 여러분이 질문을 하는 거죠. 반론권은 보도 후예요. 그쪽이 의견을 표명하는 거고요.
+Léa: (elle note) Le contradictoire avant, le droit de réponse après.
+(메모하며) 반론 기회는 보도 전, 반론권은 보도 후.
+Aubry: Et retenez ceci : un droit de réponse bien géré, c'est souvent une deuxième publication gratuite. Les lecteurs comparent. Et ils voient qui esquive.
+그리고 이걸 기억하세요. 반론권을 잘 다루면 종종 공짜로 두 번째 보도를 하는 셈이에요. 독자들이 비교하거든요. 그리고 누가 회피하는지 보게 되죠.
+Léa: (dans le métro, en rentrant, elle appelle Mathilde) Mathilde ? C'est Léa. Vous avez une minute ?
+(지하철로 돌아가는 길에 마틸드에게 전화하며) 마틸드 씨? 레아예요. 잠깐 시간 되세요?
+Mathilde: (au téléphone, tendue) J'ai reçu une lettre recommandée ce matin. De l'avocat de l'usine. Ils parlent de « vol de documents ».
+(전화로, 긴장해서) 오늘 아침에 등기 우편을 받았어요. 공장 변호사한테서요. «문서 절도»래요.
+Léa: Je sais. Ils ont envoyé la même menace au journal. Notre avocat les a lues. Il dit que votre situation est solide.
+알아요. 신문사에도 같은 협박을 보냈어요. 저희 변호사님이 읽어 보셨어요. 당신 입장은 탄탄하대요.
+Mathilde: Solide ? Moi, je n'ai pas d'avocat. Je n'ai pas d'argent. Je suis au chômage.
+탄탄하다고요? 전 변호사도 없어요. 돈도 없고요. 실업자예요.
+Léa: Il va vous recommander un confrère spécialisé. Et il y a une association qui aide les lanceurs d'alerte. Gratuitement.
+전문 변호사를 추천해 주실 거예요. 그리고 내부 고발자를 돕는 단체도 있어요. 무료로요.
+Mathilde: (un silence) Pourquoi vous faites tout ça pour moi ?
+(침묵) 왜 저를 위해 이렇게까지 해요?
+Léa: Parce que si vous êtes seule, ils gagnent. Et parce que vous avez pris un risque en me parlant. Ce risque, on le partage maintenant.
+당신이 혼자면 그들이 이기니까요. 그리고 저랑 얘기하면서 위험을 무릅쓰셨잖아요. 이제 그 위험은 저희도 나눠 져요.
+Mathilde: (elle respire) D'accord. Donnez-moi le nom de l'avocat.
+(숨을 쉬며) 알겠어요. 변호사 이름 알려 주세요.
+Léa: Je vous l'envoie ce soir. Et Mathilde… la décision finale vous appartient. Si vous voulez qu'on attende, on attend.
+오늘 저녁에 보내 드릴게요. 그리고 마틸드 씨… 최종 결정은 당신 몫이에요. 기다리길 원하시면 기다릴게요.
+Mathilde: Non. Six mois, c'est assez. Publiez. Mais sans mon nom. Pour l'instant.
+아니요. 6개월이면 충분해요. 보도하세요. 하지만 제 이름은 빼고요. 당분간은요.
+Léa: Sans votre nom. C'est noté.
+이름은 빼고요. 알겠습니다.
+Hélène: (mardi matin, son téléphone sonne, elle met le haut-parleur) Hélène Vasseur.
+(화요일 아침, 전화가 울리자 스피커를 켜며) 엘렌 바쇠르입니다.
+Directeur de communication: (au téléphone, voix douce) Madame Vasseur, bonjour. Thibault Garnier, directeur de la communication de l'adjoint au maire Pujol. Je vous appelle de manière tout à fait informelle.
+(전화로, 부드러운 목소리) 바쇠르 씨, 안녕하세요. 퓌졸 부시장 홍보 담당 티보 가르니에입니다. 아주 비공식적으로 전화드리는 겁니다.
+Hélène: Il n'y a rien d'informel dans un appel du cabinet d'un élu à une rédaction, monsieur Garnier. Je vous écoute.
+선출직 비서실에서 편집국에 거는 전화에 비공식적인 건 없어요, 가르니에 씨. 말씀하세요.
+Directeur de communication: Monsieur Pujol a bien reçu vos questions. Il souhaite y répondre de manière complète. Mais il lui faut du temps. Disons… deux semaines. En échange, il vous accorderait un entretien exclusif. Le premier depuis le début de son mandat.
+퓌졸 부시장님께서 질문지를 잘 받으셨습니다. 충실하게 답변하고 싶어 하십니다. 다만 시간이 필요합니다. 그러니까… 2주 정도. 그 대가로 단독 인터뷰를 드리겠다고 하십니다. 임기 시작 이후 처음으로요.
+Hélène: Un entretien exclusif contre un report de publication. C'est une proposition de marché.
+보도 연기의 대가로 단독 인터뷰라. 거래 제안이네요.
+Directeur de communication: Je préfère parler de collaboration. Le Phare est un média sérieux. Vous ne voudriez pas publier des informations incomplètes.
+협력이라고 부르고 싶습니다. 르 파르는 진지한 언론사잖아요. 불완전한 정보를 보도하고 싶진 않으시겠죠.
+Hélène: Monsieur Garnier, Julien Marchetti a interviewé monsieur Pujol il y a trois semaines, pendant quarante minutes. Les questions envoyées hier sont précises. Elles appellent des réponses précises, pas un calendrier de communication. Le délai expire demain à dix-huit heures. Il ne sera pas prolongé.
+가르니에 씨, 쥘리앵 마르케티이 3주 전에 퓌졸 씨를 40분 동안 인터뷰했어요. 어제 보낸 질문은 구체적이에요. 구체적인 답이 필요하지, 홍보 일정이 필요한 게 아니에요. 기한은 내일 오후 여섯 시에 끝나요. 연장은 없어요.
+Directeur de communication: (la voix se durcit) Je me permets de vous rappeler que la Ville est un annonceur important de la presse parisienne.
+(목소리가 딱딱해지며) 외람되지만 시가 파리 언론의 중요한 광고주라는 걸 상기시켜 드리고 싶네요.
+Hélène: (calme) Et je me permets de vous rappeler que cet appel est noté, daté, et qu'il pourrait figurer dans notre article. Le Phare ne publie aucune publicité de la Ville, monsieur Garnier. Nous vivons de nos abonnés. Bonne journée.
+(침착하게) 그리고 저도 외람되지만 이 통화가 기록되고 날짜가 남으며, 저희 기사에 실릴 수도 있다는 걸 상기시켜 드리죠. 르 파르는 시 광고를 하나도 싣지 않아요, 가르니에 씨. 저희는 구독자들로 먹고살아요. 좋은 하루 되세요.
+Julien: (après l'appel, il applaudit doucement) Magnifique.
+(통화가 끝나자 조용히 박수 치며) 훌륭해요.
+Hélène: (elle se masse les tempes) Ne m'applaudis pas. Note l'heure exacte de l'appel. Et le mot « annonceur ». Mot pour mot.
+(관자놀이를 문지르며) 박수 치지 마. 통화 정확한 시각 적어 둬. 그리고 «광고주»라는 단어도. 한 마디도 틀리지 말고.
+Julien: (à onze heures, son portable sonne, il fronce les sourcils) Tiens. Le Courrier de Paris. (il décroche) Marchetti.
+(오전 열한 시, 휴대폰이 울리자 얼굴을 찌푸리며) 이런. 쿠리에 드 파리네. (전화를 받으며) 마르케티입니다.
+Journaliste du Courrier: (au téléphone, faussement amical) Julien ! Ça fait longtemps. Dis-moi, on entend des rumeurs. Vous préparez quelque chose sur la mairie ? Pour cette semaine ?
+(전화로, 친한 척하며) 쥘리앵! 오랜만이야. 그런데 말이야, 소문이 들려서. 너희 시청 건으로 뭐 준비하고 있어? 이번 주에?
+Julien: (il regarde Hélène) Des rumeurs ? Lesquelles ?
+(엘렌을 보며) 소문? 어떤 소문?
+Journaliste du Courrier: Oh, rien de précis. On dit que vous allez publier jeudi. Je voulais juste savoir si on pouvait… coordonner.
+아, 구체적인 건 아니고. 너희가 목요일에 낸다더라고. 혹시 우리가… 협력할 수 있나 해서.
+Julien: Coordonner ? Votre journal nous a traités de « justiciers en mal d'audience » au printemps. Je ne m'exprime pas sur nos publications à venir. Bonne journée.
+협력? 너희 신문이 봄에 우리를 «관심에 굶주린 자경단»이라고 불렀잖아. 앞으로의 보도에 대해선 말하지 않아. 좋은 하루 보내.
+Julien: (il raccroche) Il a dit « jeudi ».
+(전화를 끊으며) 그 사람이 «목요일»이라고 했어요.
+Hélène: (elle se fige) Jeudi. On a décidé jeudi hier matin, dans ce bureau. À six.
+(얼어붙으며) 목요일. 목요일은 어제 아침 이 사무실에서 정했어. 여섯 명이서.
+Karim: Ça peut être une supposition. Quarante-huit heures de délai à partir de lundi, puis publication le lendemain. N'importe qui peut deviner.
+추측일 수도 있어요. 월요일부터 48시간 기한, 그다음 날 보도. 누구든 짐작할 수 있죠.
+Hélène: Peut-être. (elle note quelque chose dans son carnet) Ou peut-être pas.
+그럴지도. (수첩에 뭔가 적으며) 아니면 아닐지도.
+Camille: On vérifie. Comme dit Julien.
+확인하자. 쥘리앵 말처럼.
+Hélène: Discrètement. Et pas un mot de ceci en dehors de cette pièce.
+조용히. 그리고 이 얘기는 이 방 밖으로 한 마디도 나가면 안 돼.
+Julien: Compris.
+알겠어요.
+Karim: (à midi) Hélène ? Mauvaise nouvelle. La banque a appelé. Notre conseiller veut un rendez-vous « pour réexaminer notre ligne de crédit ». Comme par hasard, cette semaine.
+(정오) 엘렌? 나쁜 소식이요. 은행에서 전화 왔어요. 담당자가 «신용 한도를 재검토하기 위해» 만나자고 해요. 하필 이번 주에요.
+Hélène: (un silence) Quelle banque ?
+(침묵) 어느 은행?
+Karim: La Banque Hennequin. Je viens de vérifier : Valmont y a ses comptes aussi. Et un administrateur de la banque siège au conseil de la fondation Orsenne.
+엔캥 은행이요. 방금 확인했는데 발몽도 거기 계좌가 있어요. 그리고 은행 이사 한 명이 오르센 재단 이사회에도 있어요.
+Julien: Orsenne… Encore.
+오르센… 또.
+Hélène: Fixe le rendez-vous pour vendredi. Après la publication. On verra bien s'ils osent couper le crédit d'un journal le lendemain d'une enquête sur la corruption.
+약속은 금요일로 잡아. 보도 이후로. 부패 탐사 기사가 나간 다음 날 언론사 신용을 끊을 배짱이 있는지 두고 보자고.
+Léa: (à quatorze heures, son téléphone sonne, numéro inconnu des Vosges) Allô ?
+(오후 두 시, 보주 지역의 모르는 번호로 전화가 온다) 여보세요?
+Jérôme: (au téléphone, à voix basse) Mademoiselle Morel ? C'est Jérôme. Le collègue de Mathilde.
+(전화로 작은 목소리로) 모렐 씨인가요? 제롬입니다. 마틸드의 동료요.
+Léa: (elle se lève, elle va dans la salle de réunion vide) Jérôme. Merci de m'appeler. Vous êtes en sécurité ?
+(일어나서 빈 회의실로 가며) 제롬 씨. 전화 주셔서 감사해요. 안전한 곳이세요?
+Jérôme: Je suis dans ma voiture. Sur un parking, à Épinal. Personne ne me connaît ici. (un silence) Ce matin, Masson a réuni tout le personnel. Il a dit que des journalistes parisiens voulaient détruire l'usine. Il a dit que si quelqu'un leur parlait, il serait licencié comme Mathilde.
+차 안이에요. 에피날의 한 주차장이요. 여기선 아무도 절 몰라요. (침묵) 오늘 아침에 마송이 전 직원을 모았어요. 파리 기자들이 공장을 망가뜨리려 한다고요. 누구든 기자랑 얘기하면 마틸드처럼 해고될 거라고 했어요.
+Léa: Je suis désolée. Je comprends que vous ayez peur.
+죄송해요. 두려우신 거 이해해요.
+Jérôme: Ce n'est pas ça. (il respire) Quand il a dit « détruire l'usine », j'ai regardé mes collègues. Ils baissaient la tête. Tous. Et j'ai pensé à mes enfants. Ils boivent cette eau. Moi, je sais ce qu'il y a dedans. Eux, non.
+그게 아니에요. (숨을 쉬며) «공장을 망가뜨린다»고 할 때 동료들을 봤어요. 다들 고개를 숙이고 있었어요. 전부요. 그리고 제 아이들 생각이 났어요. 걔들이 이 물을 마셔요. 전 그 안에 뭐가 들었는지 알아요. 아이들은 모르고요.
+Léa: (doucement) Qu'est-ce que vous voulez faire, Jérôme ?
+(조용히) 어떻게 하고 싶으세요, 제롬 씨?
+Jérôme: Le mail. Le transfert de Leclerc. Je l'ai encore. Pas imprimé : dans ma boîte personnelle. Je me l'étais envoyé, à l'époque. Je ne sais pas pourquoi. Par instinct.
+그 이메일이요. 르클레르가 전달한 거. 아직 갖고 있어요. 출력한 게 아니라 제 개인 메일함에요. 그때 저한테 보내 뒀거든요. 왜 그랬는지 모르겠어요. 본능적으로요.
+Léa: (elle s'assoit) Avec les en-têtes techniques ? La date, l'heure, les serveurs ?
+(앉으며) 기술적인 헤더까지요? 날짜, 시간, 서버 정보요?
+Jérôme: Tout. Votre collègue informaticien pourra vérifier. Mais je ne veux pas que mon nom apparaisse. Jamais.
+전부요. 거기 전산 동료분이 확인할 수 있을 거예요. 하지만 제 이름이 나오는 건 싫어요. 절대로요.
+Léa: Votre nom n'apparaîtra pas. C'est la loi : le secret des sources est protégé. Et c'est ma promesse.
+이름은 나오지 않을 거예요. 그게 법이에요. 취재원 비밀은 보호받아요. 그리고 제 약속이고요.
+Jérôme: Mathilde dit que vous tenez vos promesses.
+마틸드가 당신은 약속을 지킨다고 하더라고요.
+Léa: Je fais de mon mieux.
+최선을 다하고 있어요.
+Karim: (à seize heures, devant son écran, il analyse le fichier envoyé par Jérôme) Les en-têtes sont cohérents. Message parti d'un serveur de l'ARS Grand Est, adressé à d.masson, transféré trois minutes plus tard à la liste « qualite-equipe ». Date : vendredi 10, quatorze heures douze. Quatre jours avant l'inspection.
+(오후 네 시, 화면 앞에서 제롬이 보낸 파일을 분석하며) 헤더가 일관돼. 그랑테스트 보건청 서버에서 d.masson 앞으로 발송됐고, 3분 뒤에 «qualite-equipe» 목록으로 전달됐어. 날짜: 10일 금요일 14시 12분. 점검 나흘 전.
+Léa: Mathilde avait dit trois jours. Elle s'est trompée d'un jour.
+마틸드는 사흘이라고 했는데요. 하루 착각했네요.
+Karim: Normal, la mémoire humaine. Mais la machine ne se trompe pas. Et l'identifiant du message correspond exactement à celui de la copie imprimée de Mathilde. Deux sources indépendantes, un seul document.
+당연하지, 사람 기억이니까. 하지만 기계는 안 틀려. 그리고 메시지 식별 번호가 마틸드의 출력본과 정확히 일치해. 독립된 두 출처, 하나의 문서.
+Julien: (il pose la main sur l'épaule de Léa) Condition numéro un remplie.
+(레아의 어깨에 손을 얹으며) 조건 1번 충족.
+Léa: (émue) Corrige l'article : « quatre jours avant l'inspection », pas trois. Tu vois, Julien ? J'ai vérifié trois fois. Et la troisième a servi.
+(감격해서) 기사 고쳐요. 사흘 전이 아니라 «점검 나흘 전». 봤죠, 쥘리앵? 세 번 확인했어요. 그리고 세 번째가 쓸모 있었어요.
+Hélène: (mercredi matin, elle lit l'écran de Léa par-dessus son épaule) Ton titre. « L'eau Valcroze est traitée illégalement et l'ARS le savait. » Trop long. Trop affirmatif.
+(수요일 아침, 레아의 어깨 너머로 화면을 읽으며) 네 제목. «발크로즈 물은 불법 처리되고 있으며 보건청은 이를 알고 있었다.» 너무 길어. 너무 단정적이야.
+Léa: Mais c'est vrai.
+그런데 사실이잖아요.
+Hélène: C'est probablement vrai. Et ce que tu peux prouver, c'est autre chose. Essaie avec des noms au lieu des verbes. Un titre, c'est une étiquette, pas une phrase.
+아마 사실이겠지. 그리고 네가 증명할 수 있는 건 또 다른 문제고. 동사 대신 명사로 해 봐. 제목은 문장이 아니라 라벨이야.
+Léa: (elle réfléchit, elle tape) « Eau Valcroze : traitements cachés et inspection annoncée. »
+(생각하다가 타이핑하며) «발크로즈 물: 숨겨진 처리와 미리 통보된 점검.»
+Hélène: Mieux. Beaucoup mieux. Deux faits, deux preuves. Pas d'adjectif, pas d'accusation directe. Le lecteur fait le lien tout seul.
+낫네. 훨씬 나아. 사실 둘, 증거 둘. 형용사도 직접적인 비난도 없고. 독자가 스스로 연결하지.
+Julien: (de son bureau) Et pour Canal-Nord, j'ai : « Canal-Nord : la double comptabilité du chantier ». Ça vous va, Hélène ?
+(자기 자리에서) 카날노르는 «카날노르: 공사 현장의 이중 장부»로 했어요. 괜찮아요, 엘렌?
+Hélène: Ça me va. Sobre. Implacable.
+좋아. 담백하고. 가차 없고.
+Léa: Et la première phrase ? Julien dit que tout se joue dans la première phrase.
+그럼 첫 문장은요? 쥘리앵이 첫 문장에서 모든 게 결정된대요.
+Hélène: Julien a raison, pour une fois. Lis-moi la tienne.
+웬일로 쥘리앵 말이 맞네. 네 첫 문장 읽어 봐.
+Léa: « Quatre jours avant l'inspection sanitaire de l'usine Valcroze, son directeur connaissait la date exacte de la visite. Il la tenait de l'inspecteur lui-même. »
+«발크로즈 공장 위생 점검 나흘 전, 공장장은 방문 날짜를 정확히 알고 있었다. 그는 점검관 본인에게서 그 날짜를 들었다.»
+Hélène: (un silence, puis elle sourit) Ne touche plus à rien.
+(침묵 후 웃으며) 이제 아무것도 건드리지 마.
+Hélène: (mercredi, à dix-huit heures, la réunion finale) Le délai est expiré. Les réponses ?
+(수요일 오후 여섯 시, 최종 회의) 기한 만료. 답변은?
+Karim: Valmont : la lettre de leurs avocats, aucune réponse sur le fond. Vidal : rien. Roux : rien. Pujol : un communiqué de trois lignes. « M. Pujol a toujours agi dans le respect des règles et de l'intérêt général. Il se réserve le droit de poursuivre toute allégation diffamatoire. »
+발몽: 변호인 서한뿐, 본안에 대한 답변 없음. 비달: 없음. 루: 없음. 퓌졸: 세 줄짜리 보도자료. «퓌졸 씨는 늘 규칙과 공익을 존중하며 행동해 왔다. 명예 훼손적인 모든 주장에 대해 법적 대응할 권리를 유보한다.»
+Hélène: Trois lignes, pas un fait. On publie le communiqué en entier. Et Valcroze ?
+세 줄, 사실은 하나도 없고. 보도자료는 전문을 싣자. 발크로즈는?
+Léa: Masson : sa lettre d'avocat, cinq millions. Hydra Vosges : « L'eau de la Source Valcroze respecte scrupuleusement la réglementation en vigueur. » Et l'ARS…
+마송: 변호인 서한, 500만. 이드라 보주: «수르스 발크로즈의 물은 현행 규정을 철저히 준수한다.» 그리고 보건청은…
+Hélène: Et l'ARS ?
+보건청은?
+Léa: (elle lit) « L'Agence régionale de santé Grand Est a pris connaissance des éléments portés à sa connaissance. Une enquête administrative interne a été ouverte. M. Leclerc a été suspendu à titre conservatoire dans l'attente de ses conclusions. »
+(읽으며) «그랑테스트 지역 보건청은 전달받은 사안을 인지했다. 내부 행정 조사가 개시되었다. 르클레르 씨는 조사 결과가 나올 때까지 예방 차원에서 직무 정지되었다.»
+Camille: (elle siffle) Suspendu. Avant même la publication.
+(휘파람을 불며) 직무 정지. 보도도 하기 전에.
+Julien: L'ARS a compris avant tout le monde : mieux vaut lâcher un homme que couler avec lui.
+보건청이 누구보다 먼저 알아챘네. 함께 가라앉느니 한 사람을 내치는 게 낫다는 걸.
+Hélène: (elle regarde Aubry, présent en visioconférence) Maître ?
+(화상으로 참석한 오브리를 보며) 변호사님?
+Aubry: (à l'écran) J'ai relu les deux articles, phrase par phrase. Quatre modifications sur Canal-Nord, deux sur Valcroze, toutes intégrées. Le conditionnel est là où il doit être. Les sources sont protégées. Le contradictoire a été respecté et documenté. Je donne mon accord.
+(화면에서) 두 기사를 문장 하나하나 다시 읽었어요. 카날노르 네 군데, 발크로즈 두 군데 수정, 전부 반영됐고요. 조건법은 있어야 할 곳에 있어요. 취재원은 보호됐어요. 반론 기회 보장 절차도 지켜졌고 기록도 남았어요. 승인합니다.
+Hélène: (elle regarde son équipe, un par un) Quelqu'un a une objection ? Un doute ? C'est maintenant ou jamais.
+(팀원들을 한 명씩 바라보며) 이의 있는 사람? 의심 가는 거? 지금 아니면 안 돼.
+Julien: Aucune.
+없어요.
+Karim: Aucune.
+없어요.
+Camille: Aucune.
+없어요.
+Léa: (elle prend une grande respiration) Aucune.
+(크게 숨을 쉬며) 없어요.
+Hélène: Alors c'est décidé. Demain, six heures. Canal-Nord et Valcroze. Ensemble. (un silence) Et maintenant, rentrez chez vous et dormez. Demain, le téléphone ne va pas s'arrêter de sonner.
+그럼 결정됐어. 내일 여섯 시. 카날노르와 발크로즈. 함께. (침묵) 이제 집에 가서 자. 내일은 전화가 쉬지 않고 울릴 거야.
+Julien: (à vingt et une heures, sur le toit du journal, il tend une bière à Léa) Ton premier article sort demain. Tu te sens comment ?
+(밤 아홉 시, 신문사 옥상에서 레아에게 맥주를 건네며) 네 첫 기사가 내일 나가. 기분이 어때?
+Léa: Comme avant un examen. Mais un examen où tout le pays va voir ma copie.
+시험 전 같아요. 그런데 온 나라가 제 답안지를 보게 되는 시험이요.
+Julien: (il rit) C'est exactement ça. Mon père disait : « Un article, c'est une copie qu'on ne peut plus corriger. »
+(웃으며) 딱 그거야. 우리 아버지가 그러셨어. «기사란 더는 고칠 수 없는 답안지다.»
+Léa: Il était journaliste aussi ?
+아버님도 기자셨어요?
+Julien: (il regarde Paris) Oui. Il n'a jamais pu publier son plus grand article. (un silence) Un jour, je te raconterai. Pas ce soir.
+(파리를 바라보며) 응. 자기 인생 최고의 기사는 끝내 내지 못하셨지. (침묵) 언젠가 얘기해 줄게. 오늘 밤은 말고.
+Léa: Ce soir, je rentre et je dors. C'est l'ordre d'Hélène.
+오늘 밤엔 집에 가서 잘 거예요. 엘렌의 명령이에요.
+Julien: Pour une fois, obéis. Demain, on aura besoin de toi.
+웬일로 말 좀 들어. 내일 네가 필요할 거야.
+Léa: (à vingt-deux heures, en rentrant chez elle, elle trouve une enveloppe glissée sous sa porte)
+(밤 열 시, 집에 돌아와 문 밑으로 밀어 넣어진 봉투를 발견한다) …봉투?
+Léa: (elle l'ouvre, elle sort une photo) C'est moi… Devant le préfabriqué. Avec les lunettes. Le premier jour.
+(봉투를 열어 사진 한 장을 꺼내며) 나잖아… 가건물 앞에서. 안경 쓰고. 첫날.
+Léa: (au dos, quelques mots écrits à la main) « Bonne chance pour demain, Marie. »
+(뒷면에 손글씨로 몇 마디가 적혀 있다) «내일 행운을 빌어, 마리.»
+Léa: (elle compose un numéro, la voix tremblante) Camille ? Ils savent. Ils savent où j'habite. Et ils savent pour demain.
+(떨리는 목소리로 번호를 누르며) 카미유? 그들이 알아. 내가 어디 사는지 알아. 그리고 내일 일도 알아.
+Camille: (au téléphone, immédiatement réveillée) Ne touche plus à rien. Ferme ta porte à clé. Je suis là dans vingt minutes. Tu dors chez moi ce soir.
+(전화로, 단번에 잠이 깨서) 이제 아무것도 만지지 마. 문 잠가. 20분 안에 갈게. 오늘 밤은 우리 집에서 자.
+Léa: Comment ils savent pour demain ? Personne en dehors de la rédaction ne connaît la date.
+내일 일을 어떻게 알아? 편집국 밖에선 아무도 날짜를 모르는데.
+Camille: (un long silence) Je ne sais pas, Léa. Mais c'est la question que je vais poser à Hélène ce soir.
+(긴 침묵) 모르겠어, 레아. 그런데 그게 오늘 밤 내가 엘렌한테 할 질문이야.
+
+## 주요 단어
+le droit de réponse | 르 드루아 드 레퐁스 | 반론권(보도 후 반론 게재 청구권) (C1)
+le contradictoire | 르 꽁트라딕뚜아르 | 반론 기회 보장(보도 전 당사자에게 묻는 절차) (C1)
+la procédure-bâillon | 라 프로세뒤르 바이옹 | 재갈 소송, 전략적 봉쇄 소송(SLAPP) (C1)
+le bâillon | 르 바이옹 | 재갈 (C1)
+la contre-offensive | 라 꽁트르오펑시브 | 반격 (B2)
+la grenade dégoupillée | 라 그르나드 데구삐예 | 안전핀 뽑힌 수류탄 (C1)
+le secret des affaires | 르 스크레 데 자페르 | 영업 비밀 (C1)
+opposable | 오뽀자블 | (법적으로) 대항할 수 있는 (C1)
+la divulgation | 라 디뷜가시옹 | 공개, 누설 (C1)
+l'usurpation d'identité (f.) | 뤼쥐르빠시옹 디당띠떼 | 신분 도용 (C1)
+les dommages et intérêts | 레 도마주 에 앵떼레 | 손해 배상금 (B2)
+le préjudice | 르 프레쥐디스 | 손해, 피해 (C1)
+dissuader de | 디쉬아데 드 | ~을 단념시키다 (C1)
+l'annonceur (m.) | 라노쇠르 | 광고주 (B2)
+la ligne de crédit | 라 린뉴 드 크레디 | 신용 한도 (B2)
+l'en-tête (m.) | 랑떼뜨 | (이메일·문서의) 헤더, 머리글 (B2)
+à titre conservatoire | 아 띠트르 꽁세르바뚜아르 | 예방 차원에서, 임시 보전 조치로 (C1)
+esquiver | 에스끼베 | 회피하다 (B2)
+
+## 문법·표현 정리
+**Sous réserve de (C1):** "~을 조건으로, ~하에서". Sous réserve de deux conditions. 법률·행정 문서의 단골 표현. sous réserve que + 접속법도 가능: sous réserve que Jérôme confirme.
+**명사화 1 (C1):** 동사 → 명사로 문장을 압축하는 법률·언론 문체. envoyer les questions → l'envoi des questions / publier → la publication / obtenir, détenir, diffuser → l'obtention, la détention, la diffusion.
+**명사화 2 (C1):** 형용사 → 명사. conforme → la conformité / authentique → l'authenticité / cohérent → la cohérence. « mettant en cause la conformité de l'eau »(물의 적합성에 의문을 제기하는)
+**tant sur… que sur… (C1):** "~뿐만 아니라 ~에 대해서도". tant sur le fondement de la loi de 1881 que sur celui du secret des affaires. celui = le fondement(반복 회피 지시대명사).
+**à l'encontre de (C1):** "~에 대하여(적대적으로), ~을 상대로". engager une action à l'encontre de toute personne(모든 자를 상대로 소송을 제기하다)
+**faire l'objet de (C1):** "~의 대상이 되다". Toute publication fera l'objet d'une demande de dommages et intérêts.(모든 보도는 손해 배상 청구의 대상이 될 것이다)
+**à hauteur de (C1):** "~에 상당하는 금액으로, ~까지". à hauteur de cinq millions d'euros.
+**se réserver le droit de (C1):** "~할 권리를 유보하다". 법적 위협의 정형 문구. Il se réserve le droit de poursuivre toute allégation diffamatoire.
+**Je me permets de vous rappeler que (C1):** "외람되지만 ~을 상기시켜 드리자면". 정중함으로 포장한 압박. 엘렌은 같은 문장으로 되받아칩니다.
+**Mieux vaut A que B (B2):** "B보다 A가 낫다". Mieux vaut lâcher un homme que couler avec lui. 도치형 관용구(= Il vaut mieux…).
+**Je comprends que vous ayez peur (B2):** comprendre que + 접속법(감정·판단의 이해). avoir → ayez.
+**se tromper de (B1):** "~을 잘못 알다, 착각하다". Elle s'est trompée d'un jour.(하루 착각했다) · se tromper de numéro(전화를 잘못 걸다)
+**être tenu(e) de (C1):** "~할 의무가 있다". Vous êtes tenus de la publier.(여러분은 그것을 게재할 의무가 있다)
+**C'est maintenant ou jamais (B1):** "지금 아니면 기회는 없다". 결정적 순간의 표현.
