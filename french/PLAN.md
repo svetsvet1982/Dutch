@@ -133,7 +133,7 @@
 | **Commandant Yves Roussel** | 은퇴한 방첩 요원. 외국 비밀 거점의 작동 방식을 설명 (6부) |
 | **Yanis Benali** | 카림의 동생, 마르세유 항구 하역 노동자 (7부) |
 | **Juge Florence Achard** | 조직범죄 전담 예심판사 (7부) |
-| **Noémie Wahuzue · André · Gilles Martin** | 뉴칼레도니아의 카낙 출신 광산 노동자 · 카낙 관습 지도자 · 칼도슈(유럽계 정착민 후손) 운송업자 — 소요를 서로 다른 눈으로 봄 (7부) |
+| **Noémie Wahuzue · André · Didier Martin** | 뉴칼레도니아의 카낙 출신 광산 노동자 · 카낙 관습 지도자 · 칼도슈(유럽계 정착민 후손) 운송업자 — 소요를 서로 다른 눈으로 봄 (7부) |
 | **Hugo Lemoine** (위고 르무안) | 「Forges de Saint-Vallier」 품질 엔지니어, 내부고발자 (7부) |
 | **Mme Morel-Santoni** | 쥘리앵의 어머니. 코르시카 억양 (8부) |
 
@@ -387,7 +387,7 @@
 | 5 | Yanis (야니스) | B2 | 카림 어머니의 집 → 편집국 | 조직의 협박, 형제의 다툼과 화해. 야니스는 증언을 결심, 기사 공개와 페레로 체포 | Tu vas me faire tuer · Il faut que tu parles à la juge · Le douanier a été interpellé | 접속법, 수동태 |
 | 6 | Nouméa (누메아) | A2 | 누메아 공항·시내 | 쥘리앵과 카미유가 Argos 파일 속 「Orsenne Métaux」 계약을 따라 뉴칼레도니아로. 소요의 흔적, 택시 기사와의 대화 | C'est la première fois ici ? · Les routes sont bloquées · Il fait chaud ! | 현재형, 의문문 |
 | 7 | La mine (광산) | B2 | 북부 니켈 광산 | 카낙 출신 노동자 노에미와 관습 지도자 앙드레: 땅과 광산을 둘러싼 이야기. Orsenne Métaux가 헐값 계약과 뒷돈으로 채굴권을 따냄 | Cette terre, c'est notre histoire · un contrat léonin · On ne nous a jamais demandé notre avis | 관계대명사, 기사용 conditionnel |
-| 8 | Les barrages (바리케이드) | C1 | 누메아 고등판무관실·바리케이드 현장 | 프랑스 고등판무관의 공식 화법, 칼도슈 운송업자 질의 분노, 카낙 청년들의 목소리. 소요의 뿌리를 여러 시선으로 | le maintien de l'ordre · le processus de décolonisation · Nous appelons au dialogue | 공식 화법, 명사화 |
+| 8 | Les barrages (바리케이드) | C1 | 누메아 고등판무관실·바리케이드 현장 | 프랑스 고등판무관의 공식 화법, 칼도슈 운송업자 디디에 마르탱의 분노, 카낙 청년들의 목소리. 소요의 뿌리를 여러 시선으로 | le maintien de l'ordre · le processus de décolonisation · Nous appelons au dialogue | 공식 화법, 명사화 |
 | 9 | Le minerai (광석) | B1 | 누메아 항구 → 편집국 화상 | 선적 서류: 니켈 광석이 부르고뉴의 「Forges de Saint-Vallier」로. 그곳 엔지니어 위고 르무안이 익명으로 연락해 옴 | Le minerai part pour la France · Où va-t-il exactement ? · Quelqu'un veut nous parler | 의문 표현, futur simple |
 | 10 | La forge (단조 공장) | B2 | 부르고뉴 시골 역 카페 | 르무안의 증언: 원전 부품의 탄소 함량 이상을 감추려고 품질서류를 수십 년간 고쳐 썼다 | Les certificats ont été falsifiés · Si un tel défaut était passé inaperçu, … · J'ai peur pour ma famille | 수동태, si 가정문 |
 | 11 | Les dossiers barrés (줄 그은 서류) | C1 | 원자력 안전 당국 브리핑실 | 안전 당국 담당자 인터뷰: 기술·법률 화법, 조심스러운 인정 | Aucun risque n'a été identifié à ce stade · des écarts documentaires · Il appartient à l'exploitant de… | 기술·법률 화법, 명사화 |
