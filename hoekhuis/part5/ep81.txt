@@ -56,7 +56,7 @@ Daan : Iemand die kijkt en niks zegt.
 Emre : Dat is moeilijk.
 Daan : Dat weet ik. Daarom is het een belangrijke functie.
 (Er wordt op de deur geklopt. Een jongeman van rond de vijfentwintig komt binnen, met een rugzak en zwarte vingers. Hij kijkt rond, naar de fietsen aan de haken, en glimlacht.)
-Ravi : Daan? Hoi. Ravi. We hebben elkaar in Utrecht gesproken. Bij de stand met de oude Gazelles.
+Ravi : Daan? Hoi. Ravi. We hebben elkaar in Utrecht gesproken. Bij de stand met de oude omafietsen.
 Daan : (geeft hem een hand) Ravi. Welkom. Sorry voor de rommel. Ga zitten. Op... (kijkt rond) op die krat. Emre, schuif op.
 Ravi : (gaat zitten, kijkt naar Emre) En jij bent?
 Emre : Ik ben de waarnemer. Ik zeg niks.
@@ -79,7 +79,7 @@ Ravi : Wie doet hier de administratie?
 Daan : Niemand. Dat is het probleem. (pauze) Nee. Een buurvrouw met een typemachine. Soms. En de dochter van de kroegbaas maakt mijn begroting. In kleuren.
 Ravi : (kijkt rond) Dit is geen gewone werkplaats, hè?
 Daan : Nee. Het is een werkplaats in een coöperatie. Volgende week wordt het huis van de bewoners. Dan ben ik niet meer alleen huurder. Dan ben ik ook een beetje eigenaar.
-Ravi : Daar heb ik over gelezen. In Het Parool. Met die veiling. En die oude schaatsen.
+Ravi : Daar heb ik over gelezen. In De Grachtenkrant. Met die veiling. En die oude schaatsen.
 Emre : (kan zich niet inhouden) Dat waren de schaatsen van Kees! Uit 1962! Hij heeft er de Elfstedentocht mee gereden! Tot Dokkum!
 Daan : Emre...
 Emre : Ik weet het. Waarnemer. Maar dit is belangrijk.
@@ -89,7 +89,7 @@ Ravi : (aarzelt) Bij de keten verdien ik vijftien euro zestig per uur. Plus vaka
 Daan : Zestien euro. Vier dagen. Met vakantiegeld. En een vast contract na een half jaar, als het goed gaat.
 Ravi : (knikt langzaam) Dat is eerlijk.
 Daan : Maar ik moet eerlijk zijn. De kelder is er nog niet. Het eerste half jaar heb je weinig ruimte. En soms hangt er een fiets van een buurvrouw boven je hoofd.
-Ravi : (kijkt omhoog naar de fiets van Mevrouw Smit) Een Batavus uit de jaren tachtig. Met een trommelrem. (pauze) Die achterrem slijpt, trouwens. Hoor je dat niet als je hem draait?
+Ravi : (kijkt omhoog naar de fiets van Mevrouw Smit) Een damesfiets uit de jaren tachtig. Met een trommelrem. (pauze) Die achterrem slijpt, trouwens. Hoor je dat niet als je hem draait?
 Daan : (kijkt verrast omhoog) Hoe zie je dat van daaruit?
 Ravi : Het remkabel staat te strak. Je ziet het aan de hoek van de arm.
 Daan : Zes. (legt zijn papiertje weg) Laatste vraag. Geen vraag eigenlijk. Een opdracht. (wijst naar Emre) Emre, jouw fiets.
@@ -206,7 +206,7 @@ Daan : (glimlacht) Een huis dat blijft.
 에므레 : 그거 어렵네요.
 단 : 알아. 그래서 중요한 직책이야.
 (문 두드리는 소리. 스물다섯 안팎의 청년이 배낭을 메고 들어온다. 손가락이 기름때로 까맣다. 고리에 걸린 자전거들을 둘러보며 미소 짓는다.)
-라비 : 단? 안녕하세요. 라비예요. 위트레흐트에서 얘기 나눴죠. 옛날 가젤 자전거 부스에서요.
+라비 : 단? 안녕하세요. 라비예요. 위트레흐트에서 얘기 나눴죠. 옛날 할머니 자전거 부스에서요.
 단 : (악수한다) 라비. 어서 와요. 지저분해서 미안해요. 앉아요. 저… (둘러본다) 저 상자에. 에므레, 옆으로 비켜.
 라비 : (앉아서 에므레를 본다) 넌 누구니?
 에므레 : 저는 참관인이에요. 아무 말도 안 해요.
@@ -229,7 +229,7 @@ Daan : (glimlacht) Een huis dat blijft.
 단 : 아무도요. 그게 문제예요. (잠시 뒤) 아니다. 타자기 가진 이웃 아주머니가요. 가끔. 그리고 술집 사장님 딸이 제 예산을 짜 줘요. 색깔 칠해서.
 라비 : (둘러본다) 여긴 평범한 작업장이 아니네요, 그렇죠?
 단 : 아니죠. 협동조합 안에 있는 작업장이에요. 다음 주면 이 집이 주민들 것이 돼요. 그럼 전 그냥 세입자가 아니라 조금은 주인이기도 하죠.
-라비 : 그거 읽었어요. 헤트 파롤에서요. 그 경매랑. 그 오래된 스케이트.
+라비 : 그거 읽었어요. 흐라흐텐크란트에서요. 그 경매랑. 그 오래된 스케이트.
 에므레 : (참지 못하고) 그거 케이스 할아버지 스케이트예요! 1962년산! 그걸로 엘프스테덴토흐트 탔어요! 도쿰까지!
 단 : 에므레…
 에므레 : 알아요. 참관인. 근데 이건 중요한 거예요.
@@ -239,7 +239,7 @@ Daan : (glimlacht) Een huis dat blijft.
 단 : 16유로. 주 4일. 휴가 수당 포함. 잘되면 반년 뒤에 정규직.
 라비 : (천천히 고개를 끄덕인다) 공정하네요.
 단 : 근데 솔직하게 말해야겠어요. 지하실은 아직 없어요. 처음 반년은 공간이 좁을 거예요. 그리고 가끔 이웃 아주머니 자전거가 머리 위에 걸려 있을 거고요.
-라비 : (스미트 부인의 자전거를 올려다본다) 80년대 바타부스네요. 드럼 브레이크 달린. (잠시 뒤) 그나저나 저 뒷브레이크 끌리네요. 바퀴 돌릴 때 소리 안 들려요?
+라비 : (스미트 부인의 자전거를 올려다본다) 80년대 여성용 자전거네요. 드럼 브레이크 달린. (잠시 뒤) 그나저나 저 뒷브레이크 끌리네요. 바퀴 돌릴 때 소리 안 들려요?
 단 : (놀라서 올려다본다) 거기서 그게 어떻게 보여요?
 라비 : 브레이크 케이블이 너무 팽팽해요. 레버 각도를 보면 알아요.
 단 : 여섯. (종이를 내려놓는다) 마지막 질문이에요. 사실 질문은 아니고. 과제예요. (에므레를 가리킨다) 에므레, 네 자전거.
