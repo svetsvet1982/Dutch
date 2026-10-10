@@ -1,6 +1,7 @@
 """Build a part .docx from episode text files, using tools/template.docx for styles.
 
-usage: python3 build_docx.py OUT.docx "Title" "1부 (part1-herfst)" ep01.txt [ep02.txt ...]
+usage: python3 build_docx.py [--lang=프랑스어] OUT.docx "Title" "1부 (part1-herfst)" ep01.txt [ep02.txt ...]
+(--lang sets the first vocab-table column header; default 네덜란드어)
 """
 import copy, re, sys
 from docx import Document
@@ -10,6 +11,7 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
 KO, LAT = "Malgun Gothic", "Calibri"
+LANG = "네덜란드어"
 
 
 def run(p, text, size=10.5, bold=False, italic=False, color=None, font=LAT):
@@ -81,7 +83,7 @@ def episode(doc, path, last=False):
         run(p, d[i + 1], 10, italic=True, color="555555", font=KO)
 
     h = doc.add_paragraph(style="Heading 2"); run(h, "📚 주요 단어", 13, italic=True, font=KO)
-    rows = [("네덜란드어", "한글 발음", "뜻")] + [tuple(x.strip() for x in l.split("|")) for l in vocab.strip().split("\n") if l.strip()]
+    rows = [(LANG, "한글 발음", "뜻")] + [tuple(x.strip() for x in l.split("|")) for l in vocab.strip().split("\n") if l.strip()]
     table(doc, rows); doc.add_paragraph()
 
     h = doc.add_paragraph(style="Heading 2"); run(h, "📝 문법·표현 정리", 13, italic=True, font=KO)
@@ -113,4 +115,7 @@ def main(out, title, sub, *eps):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:])
+    args = sys.argv[1:]
+    if args and args[0].startswith("--lang="):
+        LANG = args.pop(0).split("=", 1)[1]
+    main(*args)

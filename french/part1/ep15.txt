@@ -1,0 +1,345 @@
+# 1부 15화. Luxembourg (룩셈부르크)
+수준: A2~C1 혼합 (중심 C1) | 장소: 파리→룩셈부르크 TGV·룩셈부르크 필리프 2세 거리·법률사무소·카페 | 시간: 10월 첫째 주 화요일
+핵심 표현: une société-écran · Tout est parfaitement légal · le bénéficiaire effectif · Or, …
+
+## 대화
+Léa: (gare de l'Est, sept heures) Julien ! Attends-moi !
+(동역, 아침 일곱 시) 쥘리앵! 기다려!
+Julien: Léa ? Qu'est-ce que tu fais là ? Hélène a dit : Karim et moi.
+레아? 여기서 뭐 해? 엘렌이 카림이랑 나만 가라고 했잖아.
+Léa: Hélène a changé d'avis hier soir. Elle a dit : « Emmène la stagiaire. Elle pose les bonnes questions. Et elle prend des notes que même un juge respecte. »
+엘렌이 어젯밤에 마음을 바꿨어. «인턴을 데려가. 좋은 질문을 하잖아. 그리고 판사도 인정하는 필기를 하고.»
+Karim: (il arrive avec trois cafés) Bonjour, l'équipe ! Café de gare. Il est horrible. Mais il est chaud.
+(커피 세 잔을 들고 오며) 안녕, 팀! 역 커피야. 끔찍하지만 뜨거워.
+Julien: (il soupire, puis sourit) Bon. Voiture dix-sept. Deux heures de train. On prépare la journée.
+(한숨 쉬다가 웃으며) 좋아. 17호차. 기차로 두 시간. 오늘 일정 준비하자.
+Léa: (dans le train) Alors, Luxembourg. Je ne connais rien du Luxembourg. À part que c'est petit et riche.
+(기차 안에서) 그래서, 룩셈부르크. 난 룩셈부르크에 대해 아무것도 몰라. 작고 부자라는 것 빼고.
+Karim: Petit, riche, et très accueillant pour les sociétés. Six cent mille habitants, mais des dizaines de milliers de sociétés. Beaucoup n'ont ni bureaux ni employés. Seulement une adresse.
+작고, 부자고, 회사들한테 아주 친절하지. 인구는 60만인데 회사는 수만 개야. 상당수는 사무실도 직원도 없어. 주소만 있지.
+Léa: Une société sans bureaux et sans employés ? C'est possible ?
+사무실도 직원도 없는 회사? 그게 가능해?
+Julien: C'est ce qu'on appelle une société-écran. Une société qui existe sur le papier, mais qui ne fait rien. Elle sert à cacher qui possède vraiment l'argent.
+그걸 페이퍼컴퍼니라고 해. 서류상으로만 존재하고 실제로는 아무것도 안 하는 회사. 돈의 진짜 주인이 누군지 숨기는 데 쓰이지.
+Léa: C'est illégal ?
+그게 불법이야?
+Julien: Pas en soi. Créer une société au Luxembourg est parfaitement légal. Ce qui est illégal, c'est de l'utiliser pour cacher de l'argent volé ou non déclaré.
+그 자체로는 아니야. 룩셈부르크에 회사를 세우는 건 완벽하게 합법이야. 불법인 건 그걸 훔친 돈이나 신고하지 않은 돈을 숨기는 데 쓰는 거지.
+Karim: Comme cinq millions d'euros par an effacés des caisses de quarante brasseries.
+식당 40곳 계산대에서 지워진 연간 500만 유로처럼.
+Léa: Et comment on prouve que l'argent arrive chez Vinalux ?
+그럼 그 돈이 비날룩스로 간다는 건 어떻게 증명해?
+Julien: Aujourd'hui, on ne prouve rien. On regarde. On cherche qui se cache derrière Vinalux. Ce qu'on appelle le bénéficiaire effectif.
+오늘은 아무것도 증명 못 해. 그냥 보는 거야. 비날룩스 뒤에 누가 숨어 있는지 찾는 거지. 그걸 실소유자라고 해.
+Léa: Le bénéficiaire effectif… La personne qui possède vraiment la société ?
+실소유자… 회사를 진짜로 소유한 사람?
+Julien: Exactement. En Europe, chaque société doit déclarer son bénéficiaire effectif dans un registre. Au Luxembourg, ça s'appelle le RBE.
+맞아. 유럽에선 모든 회사가 실소유자를 등록부에 신고해야 해. 룩셈부르크에선 그걸 RBE라고 부르고.
+Karim: Mais depuis 2022, ce n'est plus si simple. La Cour de justice de l'Union européenne a jugé que l'accès public à ces registres portait atteinte à la vie privée. Maintenant, il faut prouver un « intérêt légitime » pour les consulter.
+그런데 2022년부터는 그렇게 간단하지 않아. 유럽사법재판소가 그런 등록부에 대한 공개 접근이 사생활을 침해한다고 판결했거든. 이제는 열람하려면 «정당한 이익»을 증명해야 해.
+Léa: Et les journalistes ont un intérêt légitime ?
+그럼 기자들은 정당한 이익이 있어?
+Karim: En principe, oui. J'ai fait la demande il y a une semaine, avec ma carte de presse. On attend toujours la réponse.
+원칙적으로는 그래. 일주일 전에 기자증을 첨부해서 신청했어. 아직 답을 기다리는 중이야.
+Julien: En attendant, on va voir l'adresse. Rue Philippe II. Et on a rendez-vous avec quelqu'un qui connaît Luxembourg mieux que nous.
+그동안 주소지를 보러 가자. 필리프 2세 거리. 그리고 우리보다 룩셈부르크를 잘 아는 사람이랑 약속이 있어.
+Léa: Qui ?
+누구?
+Julien: Une consœur. Sophie Kremer. Journaliste d'investigation luxembourgeoise. Elle a travaillé sur les grandes fuites de documents financiers. Elle connaît chaque boîte aux lettres de la ville.
+동료 기자야. 소피 크레머. 룩셈부르크 탐사 기자. 대형 금융 문서 유출 사건들을 취재했어. 이 도시의 우편함은 하나하나 다 알지.
+Sophie: (devant la gare de Luxembourg, elle fait un signe) Julien ! Moien ! Bienvenue au Luxembourg !
+(룩셈부르크역 앞에서 손을 흔들며) 쥘리앵! 모이엔! 룩셈부르크에 온 걸 환영해!
+Léa: « Moien » ?
+«모이엔»?
+Sophie: C'est « bonjour » en luxembourgeois. Ici, on parle trois langues : le luxembourgeois, le français et l'allemand. Plus l'anglais au travail. Et le portugais au café.
+룩셈부르크어로 «안녕»이야. 여기선 세 언어를 써. 룩셈부르크어, 프랑스어, 독일어. 직장에선 영어도 쓰고. 카페에선 포르투갈어도.
+Léa: Cinq langues ! Moi, j'en parle une et demie.
+다섯 개 언어! 난 한 개 반 하는데.
+Sophie: (elle rit) Le français, c'est déjà beaucoup. Venez. La rue Philippe II est à dix minutes. Vous allez voir quelque chose de très luxembourgeois.
+(웃으며) 프랑스어면 이미 충분해. 가자. 필리프 2세 거리는 10분 거리야. 아주 룩셈부르크다운 걸 보게 될 거야.
+Léa: (en marchant) C'est beau ici ! Les vieilles maisons, les remparts, la vallée en bas…
+(걸으며) 여기 예쁘다! 오래된 집들, 성벽, 아래쪽 골짜기까지…
+Sophie: C'est la ville haute. La vieille ville. Elle est classée au patrimoine mondial de l'UNESCO. On l'appelait autrefois « la Gibraltar du Nord ».
+여기가 윗동네야. 구시가지. 유네스코 세계유산이고. 옛날엔 «북쪽의 지브롤터»라고 불렀어.
+Léa: Pourquoi ?
+왜요?
+Sophie: À cause des fortifications. Pendant des siècles, tout le monde a voulu cette forteresse. Les Espagnols, les Français, les Autrichiens, les Prussiens…
+요새 때문에. 몇 세기 동안 다들 이 요새를 탐냈거든. 스페인, 프랑스, 오스트리아, 프로이센…
+Karim: Et maintenant, tout le monde veut ses banques.
+그리고 지금은 다들 여기 은행을 탐내지.
+Sophie: (elle rit) Exactement. Regardez là-bas, de l'autre côté de la vallée. Les grandes tours de verre. C'est le Kirchberg. Les banques, les fonds d'investissement, et les institutions européennes.
+(웃으며) 바로 그거야. 저기, 골짜기 건너편 봐. 큰 유리 빌딩들. 거기가 키르히베르크야. 은행, 투자 펀드, 그리고 유럽연합 기관들.
+Léa: Les institutions européennes ? Ici ?
+유럽연합 기관이요? 여기에요?
+Sophie: La Cour de justice de l'Union européenne, entre autres. Celle qui a fermé l'accès public aux registres des bénéficiaires effectifs. À trois kilomètres des sociétés qu'elle protège.
+특히 유럽사법재판소가 있지. 실소유자 등록부의 공개 접근을 막은 바로 그 법원. 자기가 보호하는 회사들로부터 3킬로미터 떨어진 곳에 있어.
+Julien: L'ironie de l'histoire.
+역사의 아이러니군.
+Sophie: Ici, on vit avec l'ironie. C'est notre deuxième langue officielle. Après le luxembourgeois, avant le français.
+여기선 아이러니와 함께 살아. 그게 우리의 두 번째 공용어야. 룩셈부르크어 다음, 프랑스어 앞.
+Léa: Et les gens d'ici, ils sont d'accord avec tout ça ? Les sociétés-écrans, les boîtes aux lettres ?
+그럼 여기 사람들은 이걸 다 찬성해요? 페이퍼컴퍼니나 우편함 회사 같은 거요?
+Sophie: Beaucoup vivent grâce à la finance. Les avocats, les comptables, les banquiers. Alors on n'en parle pas trop. Mais certains, comme moi, pensent qu'un petit pays n'est pas obligé de devenir le coffre-fort du monde.
+많은 사람들이 금융 덕분에 먹고살아. 변호사, 회계사, 은행원. 그래서 별로 얘기를 안 해. 그런데 나 같은 사람들은 작은 나라가 꼭 세계의 금고가 될 필요는 없다고 생각하지.
+Sophie: (devant un bel immeuble) Voilà. Numéro trente-deux.
+(멋진 건물 앞에서) 여기야. 32번지.
+Léa: C'est joli. Mais… il n'y a aucun bureau ?
+예쁘다. 그런데… 사무실이 하나도 없어?
+Sophie: Regardez l'entrée.
+입구를 봐.
+Karim: (il s'approche) Oh là là. Des boîtes aux lettres. Des dizaines. Je compte… cinquante-quatre. Cinquante-quatre sociétés à la même adresse.
+(다가가며) 세상에. 우편함이야. 수십 개. 세어 볼게… 54개. 같은 주소에 회사가 54개.
+Léa: Elles travaillent toutes ici ? Dans ce petit immeuble ?
+전부 여기서 일해? 이 작은 건물에서?
+Sophie: Aucune ne travaille ici. C'est l'adresse d'une société de domiciliation. Elle loue son adresse à des sociétés qui ont besoin d'un siège au Luxembourg. Elle reçoit leur courrier. Et c'est tout.
+여기서 일하는 회사는 하나도 없어. 이건 주소 대행 회사 주소야. 룩셈부르크에 본사가 필요한 회사들한테 주소를 빌려주는 거지. 우편물을 받아 주고. 그게 다야.
+Julien: Une domiciliation… Comme une boîte aux lettres de luxe.
+주소 대행이라… 고급 우편함 같은 거군.
+Sophie: Exactement. Pour environ trois mille euros par an, ta société a une adresse prestigieuse au Luxembourg. Et un administrateur local qui signe les papiers.
+바로 그거야. 1년에 3천 유로쯤이면 네 회사가 룩셈부르크의 그럴듯한 주소를 갖게 돼. 그리고 서류에 서명해 줄 현지 관리자도.
+Léa: (elle lit les noms sur les boîtes) « Alpha Invest », « Medi Holdings », « Green Star Capital »… « Vinalux SA » ! La voilà !
+(우편함에 적힌 이름들을 읽으며) «알파 인베스트», «메디 홀딩스», «그린 스타 캐피털»… «비날룩스 SA»! 여기 있다!
+Karim: (il photographie) Je prends une photo. Depuis la rue. C'est un espace public.
+(사진을 찍으며) 사진 찍을게. 길에서. 공공장소니까.
+Sophie: Et sur la porte, regardez la plaque. « Cabinet Weber & Associés – Domiciliation et services aux sociétés ». C'est le cabinet qui gère Vinalux.
+그리고 문에 붙은 명판 봐. «베버 앤 어소시에이츠 – 주소 대행 및 법인 서비스». 비날룩스를 관리하는 법률사무소야.
+Julien: Weber. Tu le connais ?
+베버. 알아?
+Sophie: Maître Paul Weber. Avocat d'affaires. Très poli, très compétent, très discret. Il est apparu dans deux de mes enquêtes. Il n'a jamais été condamné. Il connaît la loi mieux que personne.
+폴 베버 변호사. 기업 변호사야. 아주 정중하고, 아주 유능하고, 아주 신중하지. 내 취재 두 건에 등장했어. 한 번도 유죄 판결을 받은 적이 없어. 누구보다 법을 잘 알지.
+Léa: On peut lui parler ?
+그 사람이랑 얘기할 수 있어?
+Julien: On a rendez-vous à onze heures. Je l'ai appelé hier. Il a accepté. Ce qui m'a étonné.
+열한 시에 약속이 있어. 어제 전화했더니 승낙하더라고. 그게 놀라웠어.
+Sophie: Ne sois pas étonné. Weber accepte toujours de recevoir les journalistes. Il parle beaucoup. Mais il ne dit jamais rien.
+놀랄 것 없어. 베버는 기자들을 늘 만나 줘. 말은 많이 해. 그런데 아무 말도 안 하지.
+Léa: (pendant que Karim range son appareil) Julien… Regarde. Dans la boîte de Vinalux. Il y a une enveloppe qui dépasse.
+(카림이 카메라를 정리하는 동안) 쥘리앵… 봐. 비날룩스 우편함에. 봉투 하나가 삐져나와 있어.
+Julien: Ne touche à rien.
+아무것도 건드리지 마.
+Léa: Je ne touche pas. Mais on peut lire ce qui est écrit dessus. Sans l'ouvrir.
+안 건드려. 그런데 위에 적힌 건 읽을 수 있어. 열지 않고도.
+Karim: (il se penche) « Vinalux SA – Réf. : Projet Canal-Nord – Expéditeur : Valmont Construction, Paris. »
+(몸을 숙이며) «비날룩스 SA – 참조: 카날노르 사업 – 발신: 발몽 건설, 파리.»
+Léa: Canal-Nord ! Le projet de rénovation dont Karim a parlé ! À côté de la brasserie de Maréchal !
+카날노르! 카림이 말한 재개발 사업이야! 마레샬 브라스리 옆에 있는!
+Julien: (très bas) Une entreprise de construction parisienne qui écrit à une société de vin au Luxembourg. Pour un projet de la Ville de Paris.
+(아주 낮게) 파리의 건설 회사가 룩셈부르크의 와인 회사에 편지를 보낸다. 파리시 사업 건으로.
+Sophie: Une société de vin qui reçoit du courrier sur un projet immobilier ? Ça ne colle pas.
+부동산 사업 건으로 우편물을 받는 와인 회사라? 앞뒤가 안 맞네.
+Karim: Je photographie l'enveloppe ?
+봉투 사진 찍을까?
+Julien: (il réfléchit) Elle dépasse de la boîte. On la voit depuis l'entrée publique. Prends la photo, sans toucher. Et note l'heure, Léa.
+(생각하다가) 우편함에서 삐져나와 있고, 공용 입구에서 보여. 건드리지 말고 찍어. 그리고 시간 적어, 레아.
+Léa: Dix heures douze.
+열 시 12분.
+Weber: (dans un bureau élégant, à onze heures) Monsieur Marchetti, madame Morel, monsieur Benali. Paul Weber. Asseyez-vous, je vous en prie. Un café ? Il est meilleur que celui de vos gares parisiennes, je vous l'assure.
+(열한 시, 우아한 사무실에서) 마르케티 씨, 모렐 씨, 벤알리 씨. 폴 베버입니다. 앉으시지요. 커피 드시겠습니까? 파리 역 커피보다는 나을 거라고 장담하지요.
+Julien: Volontiers, merci. Et merci de nous recevoir, Maître.
+감사히 마시겠습니다. 그리고 만나 주셔서 감사합니다, 변호사님.
+Weber: C'est tout naturel. Le Luxembourg n'a rien à cacher. Contrairement à ce que pensent souvent vos confrères parisiens. Que puis-je pour vous ?
+당연한 일입니다. 룩셈부르크는 숨길 게 없으니까요. 파리 동료 기자분들이 흔히 생각하는 것과는 달리요. 무엇을 도와드릴까요?
+Julien: Votre cabinet assure la domiciliation de la société Vinalux SA. Nous souhaiterions savoir qui en est le bénéficiaire effectif.
+변호사님 사무실이 비날룩스 SA의 주소 대행을 맡고 있지요. 그 회사의 실소유자가 누구인지 알고 싶습니다.
+Weber: (il sourit) Vous comprendrez que je suis tenu au secret professionnel. Je ne saurais divulguer l'identité des clients de mon cabinet, ni a fortiori celle de leurs bénéficiaires. Ce serait une faute déontologique grave.
+(웃으며) 제가 직업상 비밀 유지 의무를 진다는 건 이해하시겠지요. 제 사무실 고객의 신원을 누설할 수 없고, 하물며 그 실소유자의 신원은 더더욱 그렇습니다. 그건 중대한 직업윤리 위반이 될 겁니다.
+Léa: Mais le bénéficiaire effectif doit être déclaré dans le registre public, non ?
+그런데 실소유자는 공개 등록부에 신고해야 하잖아요?
+Weber: Dans un registre, madame. Qui n'est plus public au sens strict depuis l'arrêt de la Cour de justice de novembre 2022. La protection de la vie privée est un droit fondamental. Même pour les actionnaires.
+등록부에요, 마담. 2022년 11월 사법재판소 판결 이후로 엄밀한 의미에서 더는 공개되지 않는 등록부지요. 사생활 보호는 기본권입니다. 주주에게도요.
+Julien: Une société sans bureau, sans employé, dont on ignore le propriétaire, et qui reçoit des millions d'euros. Vous trouvez cela normal ?
+사무실도, 직원도 없고, 주인이 누군지도 모르는데 수백만 유로를 받는 회사. 그게 정상이라고 보십니까?
+Weber: Je trouve cela légal, monsieur Marchetti. Ce qui, dans mon métier, est la seule question pertinente. Tout est parfaitement légal. Vinalux est enregistrée, ses comptes sont déposés, ses impôts sont payés au Luxembourg.
+저는 합법이라고 봅니다, 마르케티 씨. 그게 제 직업에서 유일하게 의미 있는 질문이지요. 모든 것이 완벽하게 합법입니다. 비날룩스는 등록돼 있고, 재무제표도 제출했고, 세금도 룩셈부르크에 내고 있습니다.
+Karim: Quel montant d'impôts ?
+세금이 얼마나 되나요?
+Weber: Le montant que prévoit la loi luxembourgeoise.
+룩셈부르크 법이 정한 만큼이지요.
+Karim: J'ai consulté les comptes déposés. Vinalux déclare un chiffre d'affaires de quatre millions d'euros en 2024. Et un impôt de… onze mille euros.
+제출된 재무제표를 봤습니다. 비날룩스는 2024년 매출을 400만 유로로 신고했더군요. 그리고 세금은… 1만 1천 유로.
+Weber: (sans perdre son sourire) Le Luxembourg dispose d'un régime fiscal attractif. C'est un choix souverain, que l'Union européenne respecte. Les entreprises s'installent là où les règles sont claires.
+(미소를 잃지 않고) 룩셈부르크에는 매력적인 조세 제도가 있지요. 그건 주권적 선택이고, 유럽연합도 존중합니다. 기업들은 규칙이 명확한 곳에 자리를 잡는 법이지요.
+Julien: Or, selon nos informations, une partie de cet argent proviendrait de ventes de vin frauduleuses, et d'espèces effacées des caisses de restaurants parisiens.
+그런데 저희가 입수한 정보에 따르면, 그 돈의 일부는 사기성 와인 판매와 파리 식당 계산대에서 지워진 현금에서 나왔을 수 있습니다.
+Weber: (une très légère pause) Si vous disposez d'éléments sérieux en ce sens, je vous invite à les transmettre aux autorités compétentes. Le Luxembourg coopère pleinement avec la justice française. Mon cabinet également, dans le respect du secret professionnel, bien entendu.
+(아주 짧은 침묵) 그런 취지의 확실한 자료가 있으시다면 관계 당국에 넘기시라고 권하겠습니다. 룩셈부르크는 프랑스 사법 당국에 전적으로 협조합니다. 제 사무실도 마찬가지고요. 물론 비밀 유지 의무를 지키는 범위 안에서요.
+Léa: Et le projet Canal-Nord, à Paris ? Pourquoi une société de vin reçoit-elle du courrier d'une entreprise de construction ?
+그럼 파리의 카날노르 사업은요? 왜 와인 회사가 건설 회사의 우편물을 받나요?
+Weber: (son sourire se fige une seconde) Je… je ne vois pas de quoi vous parlez, madame.
+(미소가 1초간 굳으며) 저는… 무슨 말씀이신지 모르겠군요, 마담.
+Léa: Il y a une enveloppe dans la boîte aux lettres de Vinalux, en bas. Elle dépasse. « Projet Canal-Nord, Valmont Construction. » On l'a vue depuis l'entrée.
+아래층 비날룩스 우편함에 봉투가 하나 있어요. 삐져나와 있더라고요. «카날노르 사업, 발몽 건설.» 입구에서 봤어요.
+Weber: (il se lève) Je crains que nous n'ayons fait le tour de ce que je peux vous dire. Le courrier de mes clients est strictement confidentiel. Je vous saurais gré de ne pas photographier les boîtes aux lettres de cet immeuble.
+(일어나며) 제가 말씀드릴 수 있는 건 다 말씀드린 것 같군요. 고객의 우편물은 엄격히 기밀입니다. 이 건물 우편함 사진은 찍지 말아 주시면 고맙겠습니다.
+Julien: Les boîtes aux lettres sont visibles depuis la voie publique, Maître.
+우편함은 공공 도로에서 보입니다, 변호사님.
+Weber: (il ouvre la porte) Comme beaucoup de choses, monsieur Marchetti. Ce qui ne veut pas dire qu'il faille les regarder. Bon retour à Paris.
+(문을 열며) 많은 것들이 그렇지요, 마르케티 씨. 그렇다고 그걸 봐야 한다는 뜻은 아닙니다. 파리까지 조심히 돌아가십시오.
+Sophie: (au café, plus tard) Alors ? Il a parlé beaucoup et il n'a rien dit ?
+(나중에, 카페에서) 그래서? 말은 많이 하고 아무 말도 안 했지?
+Léa: Presque. Il a perdu son sourire une seconde. Quand j'ai parlé de Canal-Nord.
+거의요. 1초 동안 미소가 사라졌어요. 제가 카날노르 얘기를 했을 때요.
+Sophie: Une seconde ? Avec Weber, c'est énorme. Je ne l'ai jamais vu perdre son sourire. En dix ans.
+1초? 베버라면 그건 엄청난 거야. 10년 동안 그 사람이 미소를 잃는 걸 한 번도 못 봤어.
+Karim: (son téléphone vibre) Attendez… Un e-mail du registre des bénéficiaires effectifs. Ma demande a été acceptée !
+(휴대폰이 울린다) 잠깐… 실소유자 등록부에서 이메일이 왔어. 내 신청이 받아들여졌대!
+Léa: Alors on connaît le propriétaire de Vinalux ?
+그럼 비날룩스 주인을 알게 된 거야?
+Karim: (il lit, puis son visage tombe) « Bénéficiaire effectif : Fiducie Alpina AG, Zoug, Suisse. »
+(읽다가 표정이 굳으며) «실소유자: 피뒤시 알피나 AG, 스위스 추크.»
+Léa: Une fiducie ? C'est une personne ?
+피뒤시? 그게 사람이야?
+Sophie: Non. C'est une société de gestion, en Suisse. Une sorte de coffre-fort juridique. Elle détient Vinalux pour le compte de quelqu'un d'autre. Mais qui ? Ça, c'est un secret suisse.
+아니. 스위스의 관리 회사야. 일종의 법적 금고지. 다른 누군가를 대신해서 비날룩스를 갖고 있는 거야. 그런데 그게 누구냐? 그건 스위스의 비밀이지.
+Julien: Normalement, le bénéficiaire effectif doit être une personne physique. Un être humain.
+원래 실소유자는 자연인이어야 해. 사람 말이야.
+Sophie: Normalement. Mais quand la fiducie déclare qu'elle « ne peut pas identifier » la personne, le registre accepte parfois le nom du dirigeant de la fiducie. C'est une faille. Tout le monde la connaît.
+원래는 그렇지. 그런데 신탁회사가 그 사람을 «특정할 수 없다»고 신고하면 등록부가 신탁회사 대표 이름을 받아 주기도 해. 그게 허점이야. 다들 알아.
+Karim: Donc Vinalux appartient à une société suisse, qui appartient à… quelqu'un.
+그러니까 비날룩스는 스위스 회사 소유고, 그 스위스 회사는… 누군가의 소유라는 거네.
+Sophie: Comme des poupées russes. Tu ouvres une poupée, il y en a une autre dedans. Et une autre. Et une autre. Au centre, il y a une toute petite poupée. C'est elle que vous cherchez.
+러시아 인형처럼. 인형 하나를 열면 안에 또 하나가 있어. 그리고 또 하나. 또 하나. 한가운데엔 아주 작은 인형이 있지. 너희가 찾는 게 바로 그거야.
+Léa: Et comment on l'atteint, la petite poupée ?
+그럼 그 작은 인형엔 어떻게 닿아?
+Sophie: Rarement par les registres. Presque toujours grâce à quelqu'un de l'intérieur. Quelqu'un qui en a assez.
+등록부로는 거의 안 돼. 거의 언제나 내부의 누군가 덕분이지. 질려 버린 누군가.
+Julien: (doucement) Quelqu'un comme Ariane.
+(조용히) 아리안 같은 누군가.
+Sophie: Ariane ? C'est qui ?
+아리안? 그게 누구야?
+Julien: (il sourit) Une source. Je ne peux pas t'en dire plus.
+(웃으며) 취재원. 더는 말해 줄 수 없어.
+Julien: Karim, les comptes de Vinalux. Tu as vu autre chose ?
+카림, 비날룩스 재무제표. 다른 건 못 봤어?
+Karim: Oui. Dans les annexes, il y a une ligne : « Dons à des fondations : huit cent mille euros. » Une société-écran qui fait des dons… généreuse.
+봤어. 부속 서류에 한 줄이 있어. «재단 기부: 80만 유로.» 기부하는 페이퍼컴퍼니라… 인심도 좋네.
+Léa: Des dons ? À quelle fondation ?
+기부? 어느 재단에?
+Karim: Le nom n'est pas indiqué. Seulement « fondations à but culturel, France ».
+이름은 안 나와 있어. «문화 목적 재단, 프랑스»라고만.
+Sophie: C'est un classique. Une fondation culturelle, c'est très pratique. Les dons sont souvent déductibles des impôts. Et on peut en faire ce qu'on veut : des expositions, des voyages, des œuvres d'art…
+전형적인 수법이야. 문화 재단은 아주 편리하거든. 기부금은 세금 공제가 되는 경우가 많고. 그리고 그 돈으로 뭐든 할 수 있지. 전시회, 여행, 미술품…
+Julien: Le vin, les brasseries, et maintenant un projet immobilier de la Ville de Paris et une fondation culturelle. Vinalux, c'est le centre de la toile.
+와인, 브라스리, 그리고 이제 파리시 부동산 사업이랑 문화 재단까지. 비날룩스는 거미줄의 한가운데야.
+Léa: Et nous, on ne voit que quelques fils.
+그리고 우리는 몇 가닥만 보고 있는 거고.
+Sophie: Bienvenue au Luxembourg. Ici, on ne voit jamais la toile entière. Seulement les fils que quelqu'un oublie de cacher.
+룩셈부르크에 온 걸 환영해. 여기선 거미줄 전체를 절대 볼 수 없어. 누가 깜빡하고 안 숨긴 실 몇 가닥만 보일 뿐이지.
+Julien: Comme une enveloppe qui dépasse d'une boîte aux lettres.
+우편함에서 삐져나온 봉투처럼.
+Sophie: (elle lève sa tasse) Exactement. À vos fils, mes amis.
+(잔을 들며) 바로 그거야. 너희의 실을 위하여, 친구들.
+Léa: (dans le train du retour, le soir) Julien, je peux te poser une question bête ?
+(저녁, 돌아오는 기차에서) 쥘리앵, 바보 같은 질문 하나 해도 돼?
+Julien: Tu sais que oui.
+되는 거 알잖아.
+Léa: Canal-Nord, c'est un projet de la Ville de Paris. Et c'est Pujol, l'adjoint à l'urbanisme, qui signe tous les projets immobiliers. Et c'est Pujol qui a protégé Maréchal des inspecteurs.
+카날노르는 파리시 사업이잖아. 그리고 부동산 사업은 도시계획 담당 부시장 퓌졸이 전부 서명하고. 그리고 마레샬을 위생 점검관들로부터 보호해 준 것도 퓌졸이고.
+Julien: Oui.
+응.
+Léa: Et Valmont Construction écrit à Vinalux au sujet de Canal-Nord. Alors… est-ce que Canal-Nord, c'est la prochaine enquête ?
+그리고 발몽 건설은 카날노르 건으로 비날룩스에 편지를 보냈어. 그럼… 카날노르가 다음 취재야?
+Julien: (il regarde par la fenêtre) Ce n'est pas une question bête. C'est la question.
+(창밖을 보며) 그건 바보 같은 질문이 아니야. 바로 핵심 질문이지.
+Karim: (il regarde son ordinateur) Je viens de chercher. Canal-Nord : trois cent quarante millions d'euros de travaux publics. Attribués l'année dernière. Le gagnant principal : Valmont Construction.
+(노트북을 보며) 방금 찾아봤어. 카날노르: 공공 공사비 3억 4천만 유로. 작년에 낙찰됐어. 주 낙찰자는 발몽 건설.
+Léa: Trois cent quarante millions…
+3억 4천만…
+Julien: Le vin, c'était cinq millions par an. Ça, c'est trois cent quarante millions. (il ferme les yeux) Si l'argent du vin et l'argent de Canal-Nord passent par la même boîte aux lettres…
+와인은 연간 500만이었지. 이건 3억 4천만이야. (눈을 감으며) 와인 돈이랑 카날노르 돈이 같은 우편함을 거친다면…
+Léa: … alors on n'a vu que le premier verre. Comme disait Ariane.
+…그럼 우린 첫 잔만 본 거네. 아리안 말처럼.
+Julien: (il ouvre les yeux, il sourit un peu) Tu te souviens de son premier message ?
+(눈을 뜨고 살짝 웃으며) 그 사람의 첫 메시지 기억나?
+Léa: « Vous avez reçu le premier verre. Comptez les bouteilles. » Je l'ai noté. Le premier jour.
+«첫 잔은 받으셨군요. 병을 세어 보세요.» 적어 뒀어. 첫날에.
+Karim: Et on a compté. Trois fois plus de bouteilles que de raisin.
+그리고 우린 셌지. 포도보다 병이 세 배 많았어.
+Julien: Maintenant, il faut compter autre chose. Des euros. Des contrats. Des signatures.
+이제는 다른 걸 세어야 해. 유로. 계약. 서명.
+Léa: (elle ouvre son carnet à une nouvelle page) Alors je commence une nouvelle page. « Canal-Nord. Ce que l'on sait. Ce que l'on croit. »
+(수첩의 새 쪽을 펼치며) 그럼 새 쪽을 시작할게. «카날노르. 아는 것. 믿는 것.»
+Julien: Et en haut de la page ?
+그리고 맨 위엔?
+Léa: (elle écrit) « On vérifie. »
+(적으며) «확인부터 하자.»
+Karim: (plus tard dans le train, à Léa, pendant que Julien dort) Tu sais, au début, je pensais que tu ne tiendrais pas une semaine.
+(나중에 기차에서, 쥘리앵이 자는 동안 레아에게) 있잖아, 처음엔 네가 일주일도 못 버틸 줄 알았어.
+Léa: Ah bon ? Pourquoi ?
+그래? 왜?
+Karim: Tu avais l'air tellement… gentille. Tu disais « vous » à tout le monde. Tu avais peur de poser des questions.
+너무… 착해 보였거든. 모든 사람한테 «vous»라고 했잖아. 질문하는 것도 무서워했고.
+Léa: Et maintenant ?
+그럼 지금은?
+Karim: Maintenant, tu poses des questions à un comte, à un roi de la brasserie et à un avocat luxembourgeois. Et ils perdent leur sourire.
+지금은 백작한테, 브라스리의 왕한테, 룩셈부르크 변호사한테 질문을 던지지. 그리고 그 사람들은 미소를 잃고.
+Léa: (elle rit) C'est grâce à Julien. Il dit toujours qu'il n'y a pas de questions bêtes.
+(웃으며) 쥘리앵 덕분이야. 바보 같은 질문은 없다고 늘 말하잖아.
+Karim: Il dit surtout qu'il y en a, mais qu'elles sont moins dangereuses que les réponses non vérifiées.
+정확히는 있긴 한데, 확인 안 한 대답보다는 덜 위험하다고 하지.
+Léa: (elle regarde Julien qui dort) Il ronfle.
+(자고 있는 쥘리앵을 보며) 코 고네.
+Karim: Il respire fort.
+숨을 세게 쉬는 거지.
+Léa et Karim: (ensemble, à voix basse) … Il ronfle.
+(함께, 작은 목소리로) …코 고는 거야.
+Hélène: (au téléphone, le soir, quand ils arrivent à Paris) Alors, mes Luxembourgeois ? Vous avez trouvé le propriétaire de Vinalux ?
+(저녁, 그들이 파리에 도착하자 전화로) 그래서, 룩셈부르크 친구들? 비날룩스 주인은 찾았어?
+Julien: Non. Mais on a trouvé autre chose. Un nom. Canal-Nord.
+아니. 하지만 다른 걸 찾았어. 이름 하나. 카날노르.
+Hélène: (un silence) Canal-Nord… Le grand projet de rénovation ? Gérard Pujol ?
+(침묵) 카날노르… 그 대형 재개발 사업? 제라르 퓌졸?
+Julien: Gérard Pujol.
+제라르 퓌졸.
+Hélène: (elle soupire) Je le savais. Je savais que tu ne lâcherais pas. Rentre dormir, Julien. Demain, on en parle. En conférence de rédaction.
+(한숨 쉬며) 그럴 줄 알았어. 네가 놓지 않을 줄 알았지. 집에 가서 자, 쥘리앵. 내일 얘기하자. 편집회의에서.
+Julien: À neuf heures.
+아홉 시에.
+Hélène: À neuf heures. Et Julien… bravo. À vous trois.
+아홉 시에. 그리고 쥘리앵… 잘했어. 너희 셋 다.
+Léa: (sur le quai de la gare de l'Est, à Julien et Karim) C'est drôle. Il y a cinq semaines, je suis arrivée ici avec une petite valise. Pour mon premier jour.
+(동역 승강장에서 쥘리앵과 카림에게) 웃기다. 5주 전에 작은 여행 가방 하나 들고 여기 왔었는데. 첫 출근 날에.
+Karim: Et maintenant ?
+지금은?
+Léa: Maintenant, j'ai un carnet plein. Et une nouvelle page.
+지금은 꽉 찬 수첩이 있지. 그리고 새로운 한 쪽도.
+
+## 주요 단어
+la société-écran | 라 쏘시에떼 에크랑 | 페이퍼컴퍼니, 유령 회사 (B2)
+le bénéficiaire effectif | 르 베네피시에르 에펙띠프 | 실소유자 (C1)
+le registre | 르 르지스트르 | 등록부, 명부 (B2)
+la domiciliation | 라 도미실리아시옹 | 주소 대행, 소재지 등록 (C1)
+la boîte aux lettres | 라 부아뜨 오 레트르 | 우편함 (A2)
+le courrier | 르 꾸리에 | 우편물 (A2)
+le cabinet d'avocats | 르 까비네 다보까 | 법률사무소 (B2)
+le secret professionnel | 르 스크레 쁘로페시오넬 | 직업상 비밀 유지 의무 (C1)
+divulguer → divulgué | 디뷜게 → 디뷜게 | 누설하다, 공개하다 (C1)
+déontologique | 데옹똘로지끄 | 직업윤리의 (C1)
+les comptes déposés | 레 꽁뜨 데뽀제 | 제출된 재무제표 (C1)
+le régime fiscal | 르 레짐 피스깔 | 조세 제도 (C1)
+souverain(e) | 쑤브랭(벤) | 주권의, 자주적인 (C1)
+le don | 르 동 | 기부, 기부금 (B1)
+déductible des impôts | 데뒥띠블 데젱뽀 | 세금 공제가 되는 (C1)
+la toile | 라 뚜알 | 거미줄; 그물망 (B2)
+les travaux publics | 레 트라보 쀠블리끄 | 공공 공사 (B2)
+
+## 문법·표현 정리
+**une société-écran (B2):** "페이퍼컴퍼니". écran(화면, 가리개)처럼 진짜 주인을 가리는 회사라는 뜻입니다. 비슷한 말: une coquille vide(빈 껍데기), une boîte aux lettres(우편함 회사).
+**Tout est parfaitement légal (B1):** "모든 게 완벽하게 합법입니다". 베버 변호사의 핵심 문장. 합법(légal)과 정당함(légitime)은 다릅니다. 쥘리앵은 "정상이냐"고 묻고, 베버는 "합법이다"라고 답합니다.
+**le bénéficiaire effectif (C1):** "실소유자". 법인 뒤에서 최종적으로 이익을 얻는 실제 개인. 돈세탁 방지법의 핵심 개념입니다.
+**Or, … (C1):** "그런데, 그러나 (논리의 전환)". 앞의 주장에 반대되는 사실을 끌어들이는 논증용 접속사입니다. Vinalux paie ses impôts. Or, selon nos informations, cet argent proviendrait de fraudes. 일상 회화보다는 글과 토론에서 씁니다.
+**être tenu à / tenu de (C1):** "~할 의무가 있다". Je suis tenu au secret professionnel.(나는 직업상 비밀 유지 의무를 진다) · Il est tenu de déclarer.(신고할 의무가 있다)
+**ne saurais + 동사원형 (C1):** savoir의 조건법 + 부정 = "~할 수 없다"(정중하고 단호한 거절). Je ne saurais divulguer l'identité de mes clients. 1화의 « ne sauraient être considérées »와 같은 용법입니다.
+**a fortiori (C1):** "하물며, 더더욱". ni a fortiori celle de leurs bénéficiaires(하물며 실소유자의 신원은 더더욱 안 된다) 라틴어에서 온 표현입니다.
+**Je crains que + (ne) + 접속법 (C1):** "~가 아닐까 염려된다". Je crains que nous n'ayons fait le tour de ce que je peux vous dire.(말씀드릴 수 있는 건 다 말씀드린 것 같군요) 대화를 끝내는 공손한 방법입니다.
+**savoir gré à quelqu'un de (C1):** "~에게 ~에 대해 고마워하다". Je vous saurais gré de ne pas photographier.(사진을 찍지 않아 주시면 고맙겠습니다) 아주 격식 있는 부탁(사실상 경고)입니다.
+**Il faille (C1):** falloir의 접속법. Ce qui ne veut pas dire qu'il faille les regarder.(그렇다고 그걸 봐야 한다는 뜻은 아니다) 부정의 의미가 담긴 주절 뒤에서 접속법을 씁니다.
+**contrairement à ce que (B2):** "~와는 달리". Contrairement à ce que pensent vos confrères.(동료들이 생각하는 것과는 달리)
+**le seul / la seule… + 관계절 (B2):** Ce qui est la seule question pertinente.(그것이 유일하게 의미 있는 질문이다) · Seulement les fils que quelqu'un oublie de cacher.(누가 깜빡하고 안 숨긴 실들뿐)
+**à but culturel / à but non lucratif (B2):** "문화 목적의 / 비영리의". une fondation à but culturel(문화 재단) · une association à but non lucratif(비영리 단체)
+**Moien ! (A2, 룩셈부르크어):** 룩셈부르크의 인사말 "안녕". 룩셈부르크는 룩셈부르크어·프랑스어·독일어가 공용어입니다. 벨기에·스위스·퀘벡처럼 프랑스어권마다 고유한 표현이 있습니다.
+
+## 완결
+🎉 1부 완결
+15화에 걸쳐 〈Le Phare〉 탐사팀은 익명의 봉투 한 장에서 출발해 보르도의 포도밭, 스페인 국경의 고속도로 휴게소, 샤토의 저장고, 파리 브라스리의 주방과 룅지스의 중앙 주방, 그리고 룩셈부르크의 우편함까지 따라갔습니다. 인턴 레아는 "C'est quoi, ce dossier ?"라고 묻던 첫날에서 출발해, 백작을 흔드는 질문을 던지고 판사도 인정하는 필기를 하는 기자로 자랐습니다. 카미유는 포도 따는 일꾼으로, 카림은 설거지 직원으로 처음 위장잠입을 했고, 쥘리앵은 아버지가 끝내 쓰지 못한 기사를 떠올리며 "확인부터 하자"는 원칙을 지켰습니다. 위조 와인과 가짜 수제 요리, 지워진 현금은 모두 룩셈부르크의 페이퍼컴퍼니 「Vinalux」로 흘러갔습니다.
+2부 «Béton»에서는 우편함에서 삐져나온 봉투 한 장, 3억 4천만 유로짜리 파리 재개발 사업 「Canal-Nord」, 그리고 도시계획 담당 부시장 제라르 퓌졸을 둘러싼 입찰 비리를 파헤칩니다. 아리안의 두 번째 봉투가 도착하고, 레아는 첫 위장잠입에 나섭니다.
