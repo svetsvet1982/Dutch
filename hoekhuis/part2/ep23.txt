@@ -1,0 +1,285 @@
+# 2부 23화. Feedback is een cadeau (피드백은 선물이다)
+난이도: B1~B2 | 장소: 사무실 — 이사 엘런의 방 → 작은 회의실 → 다시 엘런의 방 | 시간: 6월 넷째 주 목요일 오후 1시~5시 반
+등장인물: Marieke, Ellen, Thijs, Priya
+학습 포인트: 직설 화법 · 완곡 표현 비교 · 피드백 주고받기
+
+## 대화
+(Donderdagmiddag, één uur. Het kantoor van Ellen, de directeur. Grote ramen, uitzicht op de Zuidas. Ellen zit achter haar bureau. Marieke komt binnen met een notitieboekje.)
+Ellen : Marieke. Ga zitten. Fijn dat je even tijd had.
+Marieke : Natuurlijk. Je wilde me spreken?
+Ellen : Ja. Ik ga meteen to the point. Je kent me. Ik draai er niet omheen.
+Marieke : (gaat zitten) Dat weet ik.
+Ellen : De release van jouw team is twee weken te laat. Dat is de tweede keer dit jaar. Dat kan zo niet langer.
+Marieke : Dat klopt. Maar er is een reden. De klant heeft in mei drie keer de eisen veranderd.
+Ellen : Dat begrijp ik. Maar dat is jouw probleem, niet het mijne. Jij moet de klant beter managen.
+Marieke : (slikt) Oké. Wat had ik volgens jou anders moeten doen?
+Ellen : Nee zeggen. Gewoon nee. "Dit valt buiten de afspraak. Dat kost extra tijd en extra geld."
+Marieke : Ik heb dat gezegd. Twee keer. Daarna belde de klant jou. En jij zei ja.
+Ellen : (korte stilte) Dat was een uitzondering. Het ging om een belangrijke klant.
+Marieke : Het gaat altijd om een belangrijke klant, Ellen.
+Ellen : Marieke, ik geef je feedback. Feedback is een cadeau. Je moet het niet meteen terugduwen.
+Marieke : Ik duw het niet terug. Ik geef context.
+Ellen : Context is goed. Maar ik hoor vooral excuses.
+Marieke : (rustig maar scherp) Dan hoor je het verkeerd. Ik neem verantwoordelijkheid voor mijn team. Maar ik neem geen verantwoordelijkheid voor beslissingen die ik niet heb genomen.
+Ellen : (leunt achterover) Hm. Dat is direct.
+Marieke : Jij zei net dat je er niet omheen draait. Ik ook niet.
+Ellen : Goed. Dat waardeer ik eigenlijk. Laten we het zo doen: vanaf nu gaat elke wijziging via jou. Ook als de klant mij belt. Ik verwijs hem door.
+Marieke : Dank je. Dat helpt echt.
+Ellen : Nog iets. Ik krijg signalen uit je team. Er is spanning. Tussen Thijs en Priya.
+Marieke : Spanning? Wat voor spanning?
+Ellen : Priya heeft bij HR iets gezegd. Over een code review van Thijs. Ze voelde zich... gekleineerd. Zo noemde ze het.
+Marieke : Dat wist ik niet. Ze heeft niks tegen mij gezegd.
+Ellen : Misschien durfde ze het niet. Jij bent haar leidinggevende. En Thijs is je beste programmeur. Wil jij het oplossen? Vandaag nog?
+Marieke : Ik praat vanmiddag met allebei.
+(Twee uur. Een kleine vergaderruimte. Marieke zit tegenover Thijs.)
+Thijs : Je wilde me spreken? Gaat het over mijn deploy? Die was perfect, toch?
+Marieke : Die was perfect. Het gaat over iets anders. Over je code review van vorige week. Bij Priya.
+Thijs : O. Die. Wat is ermee?
+Marieke : (leest van haar laptop) Je schreef: "Dit is slecht. Helemaal opnieuw doen. Heb je dit wel getest?"
+Thijs : Ja. En? Het wás slecht. Er zaten drie fouten in.
+Marieke : Dat geloof ik. Maar hoe denk je dat het voor Priya voelde om dit te lezen?
+Thijs : Ik heb er eerlijk gezegd niet over nagedacht. Het is code. Het gaat over de code, niet over haar.
+Marieke : Voor jou misschien. Voor haar was het persoonlijk. Ze is naar HR gegaan.
+Thijs : (verbaasd) Naar HR? Waarom is ze niet gewoon naar mij gekomen?
+Marieke : Misschien omdat je niet de meest uitnodigende persoon bent als je kritiek geeft.
+Thijs : (stil) Au. Dat was direct.
+Marieke : (glimlacht een beetje) Zie je? Zo voelt het.
+Thijs : Oké. Punt gemaakt. Maar ik ben gewoon eerlijk. Is eerlijk zijn nu ook al fout?
+Marieke : Eerlijk zijn is niet fout. Maar er is een verschil tussen eerlijk en bot. Je kunt hetzelfde zeggen op een andere manier.
+Thijs : Hoe dan? "Lieve Priya, deze code is een klein beetje niet helemaal ideaal"?
+Marieke : Nee. Dat is weer te vaag. Dan snapt ze niet wat er mis is. Probeer het zo: "Ik zie drie fouten in deze functie. Zullen we er samen naar kijken?"
+Thijs : (herhaalt langzaam) "Ik zie drie fouten. Zullen we er samen naar kijken." Hm. Dat zegt eigenlijk precies hetzelfde.
+Marieke : Precies hetzelfde. Maar het is een uitnodiging in plaats van een oordeel. Je beschrijft wat je ziet. Je zegt niet wat zij is.
+Thijs : "Heb je dit wel getest?" Was dat dan erg?
+Marieke : Dat klinkt alsof je denkt dat ze dom is. Je kunt ook vragen: "Welke tests heb je gedraaid? Ik mis er misschien een paar."
+Thijs : (zucht) Dat kost me drie keer zoveel woorden.
+Marieke : En het kost je geen collega. Dat is een goede ruil.
+Thijs : (na een pauze) Moet ik sorry zeggen?
+Marieke : Wat denk je zelf?
+Thijs : Ik denk... ja. Niet voor de inhoud. De fouten waren echt. Maar wel voor de toon.
+Marieke : Dat is een goed onderscheid. Wil je het nu doen? Ze zit hiernaast.
+Thijs : Nu? (haalt diep adem) Oké. Nu. Voordat ik me bedenk.
+(Marieke haalt Priya erbij. Priya gaat zitten, een beetje gespannen.)
+Priya : Marieke zei dat je met me wilde praten?
+Thijs : Ja. Over mijn review van vorige week. (kijkt naar de tafel, dan naar haar) Mijn toon was niet oké. Het spijt me.
+Priya : (verrast) O.
+Thijs : De fouten waren echt. Daar sta ik achter. Maar ik had het anders moeten zeggen. Ik had niet moeten schrijven of je het wel had getest. Dat was onnodig.
+Priya : (langzaam) Dank je, Thijs. Dat betekent veel voor me.
+Thijs : Waarom ben je niet naar mij gekomen? Ik had het meteen willen weten.
+Priya : Waar ik vandaan kom, zeg je zoiets niet direct tegen een collega. Zeker niet tegen een senior collega. Je zegt het indirect. Via iemand anders. Of je zegt niks en je bent verdrietig.
+Thijs : Dat had ik nooit geraden. Ik dacht dat je gewoon ging zitten en het verbeterde.
+Priya : Dat deed ik ook. Tot elf uur 's avonds. En toen heb ik gehuild.
+Thijs : (stil) Shit [속어]. Sorry. Dat wist ik echt niet.
+Marieke : Thijs. Je taal.
+Thijs : Sorry. (tegen Priya) Dat wist ik echt niet. Echt.
+Priya : Het is goed nu. Ik heb ook iets geleerd. In Nederland moet ik het zelf zeggen. Ook als het eng is.
+Marieke : Dat is moeilijk. Voor veel mensen. Ook voor Nederlanders.
+Priya : Mag ik het dan nu oefenen? Feedback geven aan jou, Thijs?
+Thijs : (een beetje nerveus) Eh. Natuurlijk. Ga je gang.
+Priya : (haalt adem) Thijs, ik vind je een heel goede programmeur. Ik leer veel van je code. Maar als je kritiek geeft, voel ik me soms klein. Ik zou graag willen dat je eerst vraagt wat ik heb bedoeld. Voordat je zegt dat het fout is.
+Thijs : (knikt langzaam) Dat is... duidelijk. En eerlijk. En niet bot. Hoe deed je dat?
+Marieke : Dat heet een ik-boodschap. "Ik voel me..., ik zou graag willen dat..." Je praat over jezelf. Niet over de ander.
+Thijs : Een ik-boodschap. Moet ik ook leren, denk ik.
+Priya : Ik help je. Als jij mij helpt met mijn code.
+Thijs : Deal. (steekt zijn hand uit) Zullen we morgen samen naar die functie kijken? Ik zie er nog twee fouten in. (stopt) Ik bedoel: ik heb misschien nog twee dingen gezien. Zullen we ernaar kijken?
+Priya : (lacht hardop) Je leert snel!
+Marieke : (lacht ook) Dat was een goede herkansing.
+Priya : Marieke, mag ik jou ook iets vragen? Gaat het wel goed met jou?
+Marieke : Met mij? Ja hoor. Prima.
+Thijs : (kijkt Priya aan) Dat zegt ze altijd. "Prima."
+Priya : Bij ons zeg je "prima" als het helemaal niet prima is. Misschien is dat in Nederland ook zo.
+(Half vijf. Marieke gaat terug naar het kantoor van Ellen. Ellen typt een mail.)
+Ellen : En? Opgelost?
+Marieke : Opgelost. Thijs heeft zijn excuses aangeboden. Ze gaan morgen samen code reviewen.
+Ellen : Goed werk. Echt. Dat is wat een goede leidinggevende doet.
+Marieke : Dank je. Mag ik nu jou ook feedback geven?
+Ellen : (kijkt op, verrast) Mij?
+Marieke : Jij zei: feedback is een cadeau. Ik heb ook een cadeautje.
+Ellen : (leunt achterover, een klein lachje) Goed. Ik ben benieuwd. Geef maar.
+Marieke : Je gaf me vanmiddag feedback zonder eerst te vragen hoe het met me ging. Je begon meteen met wat er fout ging. Ik werk zestig uur per week. Ik heb het gevoel dat je dat niet ziet.
+Ellen : Zestig uur? Dat is jouw keuze, Marieke. Niemand vraagt je om zestig uur te werken.
+Marieke : Niemand vraagt het. Maar iedereen verwacht het. Dat is iets anders.
+Ellen : (fronst) Hoe bedoel je?
+Marieke : Als de release te laat is, krijg ik de schuld. Als de klant iets nieuws wil, moet het er toch in. En als ik om zes uur naar huis ga, krijg ik om negen uur een mail. Van jou.
+Ellen : (zwijgt even) Ik stuur mails als het mij uitkomt. Je hoeft niet te antwoorden.
+Marieke : Dan moet je dat zeggen. Hardop. Want nu denk ik dat ik wél moet antwoorden.
+Ellen : (na een pauze) Dat is... een punt. Dat had ik niet zo bekeken.
+Marieke : Ik vraag niet om medelijden. Ik vraag om duidelijkheid. Wat verwacht je precies van me? En wat niet?
+Ellen : (legt haar pen neer) Goed. Ik zal eerlijk zijn. Ik verwacht dat je team levert. Ik verwacht niet dat je 's nachts mails beantwoordt. Ik had niet gedacht dat ik dat hoefde te zeggen.
+Marieke : Nu heb je het gezegd. Dank je.
+Ellen : Maar Marieke... ik zeg ook iets. Als je het te zwaar vindt, moet je het zeggen. Op tijd. Niet als het al te laat is.
+Marieke : Ik zeg het nu.
+Ellen : (kijkt haar lang aan) Ja. Dat doe je. (zachter) Is het te zwaar?
+Marieke : (aarzelt) Het is... veel. Met mijn vader en het café erbij. Ik slaap slecht. Ik word om vier uur wakker en denk aan Jira-tickets.
+Ellen : Jira-tickets om vier uur 's nachts. (zucht) Dat herken ik. Van tien jaar geleden.
+Marieke : Echt?
+Ellen : Echt. Ik ben toen drie maanden uitgevallen. Niemand op dit kantoor weet dat.
+Marieke : (stil) Dat wist ik niet.
+Ellen : Daarom ben ik misschien zo streng. Ik wil dat niemand hier omvalt. Maar ik doe het soms op de verkeerde manier. Dat is mijn feedback aan mezelf.
+Marieke : (een klein glimlachje) Dat is een mooi cadeau.
+Ellen : Neem morgen vrij. En maandag ook. Ruud neemt het team over.
+Marieke : Twee dagen? Midden in...
+Ellen : Er is altijd een release. Ik weet het. Dat zegt Ruud ook. Hij heeft het tegen mij gezegd. Vanochtend.
+Marieke : Ruud heeft met jou gepraat?
+Ellen : Ruud praat met iedereen, Marieke. Uren. (lacht kort) Maar deze keer had hij gelijk.
+Marieke : (staat op) Dank je, Ellen. Echt.
+Ellen : Feedback is een cadeau. Maar soms is vrij nemen een beter cadeau.
+Marieke : Mag ik die zin lenen? Voor mijn vader?
+Ellen : Hij is van jou. Ga naar huis. Nu. En zet je laptop uit.
+Marieke : (bij de deur) Uit. Helemaal uit. Ik zal het proberen.
+Ellen : Niet proberen. Doen. Dat is ook directe feedback.
+
+## 낭독 포인트
+- g/ch: gekleineerd, gehuild, gevoel, geraden, getest, gedraaid, gelijk, gewoon, gang / echt, lacht → g[ɣ]·ch[x]. "Ik voelde me gekleineerd"의 ge-klei-neerd.
+- ui: uitnodiging, uitnodigende, uitzondering, uitgevallen, uitkomt, buiten, ruil, gehuild, duidelijk, huis → ui[œy]. "een uitnodiging in plaats van een oordeel"을 리듬 있게. Ruud, uur의 uu[y]와 구별.
+- ij/ei: wijziging, verwijs, beschrijft, schrijven, spijt, vrij, Thijs, tijd(ij) / klein, gekleineerd, leidinggevende, onderscheid, eisen, mei, allebei(ei) → 같은 소리 '에이'. 어미 -lijk·-heid: verantwoordelijkheid, duidelijkheid, persoonlijk, moeilijk — -lijk는 [lək].
+- eu: keuze, programmeur → eu[øː]. 반대로 nieuws, opnieuw, benieuwd의 ieuw[iu]는 eu가 아니다: "Helemaal opnieuw doen."
+- oe/uu: gevoel, voel, voelde, voelt, oefenen, bedoeld, noemde, hoeft(oe[u]) / Ruud, stuur, uur(uu[yː]). "Ik voel me soms klein"의 voel.
+- sch: schreef, schrijven, beschrijft, schuld, verschil, onderscheid, misschien → s+ch[sx]. 단 boodschap(ik-boodschap)은 bood-schap으로 s와 ch가 음절 경계에 걸쳐 [sx].
+- 직설과 완곡의 낭독: 같은 내용을 두 버전으로 소리 내어 비교한다. "Dit is slecht."(짧고 단호, 끝을 내림) ↔ "Ik zie drie fouten. Zullen we er samen naar kijken?"(부드럽게, 끝을 올림).
+- 억양: 엘런은 빠르고 단호한 경영자 톤, 마리커는 처음엔 방어적이다가 마지막 장면에서 차분하고 단단하게. 테이스의 사과는 어색하고 끊기듯. 프리야의 ik-boodschap는 숨을 한 번 고르고 천천히, 또박또박.
+
+## 학습 포인트 정리
+- 직설 화법: Ik draai er niet omheen. / Ik ga meteen to the point. / Dat kan zo niet langer. / Dit is slecht. / Nee zeggen. Gewoon nee.
+- 완곡 화법(같은 내용 다르게 말하기):
+  · Dit is slecht. → Ik zie drie fouten in deze functie.
+  · Helemaal opnieuw doen. → Zullen we er samen naar kijken?
+  · Heb je dit wel getest? → Welke tests heb je gedraaid? Ik mis er misschien een paar.
+- 너무 완곡해도 문제: "deze code is een klein beetje niet helemaal ideaal" → 너무 모호해서 무엇이 문제인지 알 수 없다.
+- ik-boodschap(나-전달법): Ik voel me soms klein. / Ik zou graag willen dat je eerst vraagt… / Ik heb het gevoel dat je dat niet ziet.
+- 피드백 받기: Dat is een punt. / Dat had ik niet zo bekeken. / Punt gemaakt. / Daar sta ik achter.(그건 내 입장 그대로야)
+- 사과: Mijn toon was niet oké. Het spijt me. / Ik had het anders moeten zeggen. / Niet voor de inhoud, maar wel voor de toon.
+- 구분 표현: er is een verschil tussen eerlijk en bot / Niemand vraagt het, maar iedereen verwacht het. Dat is iets anders.
+- 직장 어휘: de directeur, de leidinggevende, HR, de code review, de release, de klant managen, de wijziging, verantwoordelijkheid nemen, uitvallen(번아웃 등으로 일을 못 하게 되다), vrij nemen.
+
+## 속어 노트
+- Shit [속어]: 테이스가 프리야가 울었다는 말을 듣고 무심코 내뱉는다. 마리커가 바로 "Je taal."(말조심)이라고 한다 — 직장, 특히 진지한 대화 중에는 쓰지 않는 게 좋다 → 대신 "O nee" 또는 "Dat is erg".
+- bot (일상어): '무뚝뚝한, 무례할 만큼 직설적인'. eerlijk(솔직한)과 구별된다.
+- to the point (영어 차용): '바로 본론으로'. 네덜란드 직장에서 흔히 섞어 쓴다.
+- Deal (영어 차용 구어): '좋아, 그렇게 하자'.
+
+## 한글 해석
+(목요일 오후 1시. 이사 엘런의 방. 큰 창문 너머로 자위다스가 보인다. 엘런이 책상 뒤에 앉아 있다. 마리커가 수첩을 들고 들어온다.)
+엘런 : 마리커. 앉아요. 잠깐 시간 내 줘서 고마워요.
+마리커 : 당연하죠. 저랑 얘기하고 싶다고 하셨죠?
+엘런 : 네. 바로 본론으로 갈게요. 나 알잖아요. 돌려 말하지 않아요.
+마리커 : (앉으며) 알아요.
+엘런 : 당신 팀 출시가 2주 늦었어요. 올해 두 번째예요. 이대로는 안 돼요.
+마리커 : 맞아요. 하지만 이유가 있어요. 고객이 5월에 요구 사항을 세 번이나 바꿨어요.
+엘런 : 이해해요. 하지만 그건 당신 문제지, 내 문제가 아니에요. 고객 관리를 더 잘해야 해요.
+마리커 : (침을 삼킨다) 알겠어요. 제가 뭘 다르게 했어야 했다고 보세요?
+엘런 : 거절하는 거요. 그냥 안 된다고. "이건 합의 범위를 벗어납니다. 시간과 비용이 추가로 듭니다."
+마리커 : 그렇게 말했어요. 두 번이나요. 그다음에 고객이 이사님한테 전화했죠. 그리고 이사님이 된다고 했고요.
+엘런 : (잠시 침묵) 그건 예외였어요. 중요한 고객이었으니까.
+마리커 : 언제나 중요한 고객이죠, 엘런.
+엘런 : 마리커, 나는 지금 피드백을 주는 거예요. 피드백은 선물이에요. 바로 밀어내면 안 돼요.
+마리커 : 밀어내는 게 아니에요. 맥락을 말하는 거예요.
+엘런 : 맥락은 좋아요. 그런데 내 귀엔 주로 변명으로 들려요.
+마리커 : (차분하지만 날카롭게) 그럼 잘못 들으신 거예요. 저는 제 팀에 대한 책임은 져요. 하지만 제가 내리지 않은 결정에 대한 책임은 지지 않아요.
+엘런 : (몸을 뒤로 기댄다) 흠. 직설적이네요.
+마리커 : 방금 돌려 말하지 않는다고 하셨잖아요. 저도 그래요.
+엘런 : 좋아요. 사실 그런 점은 높이 사요. 이렇게 하죠: 앞으로 모든 변경은 당신을 거쳐요. 고객이 나한테 전화해도요. 당신한테 넘길게요.
+마리커 : 고마워요. 그거 정말 도움이 돼요.
+엘런 : 하나 더. 당신 팀에서 신호가 들어와요. 긴장이 있대요. 테이스와 프리야 사이에.
+마리커 : 긴장이요? 어떤 긴장이요?
+엘런 : 프리야가 인사팀에 얘기를 했어요. 테이스의 코드 리뷰에 대해서요. 무시당한 기분이었대요. 본인이 그렇게 표현했어요.
+마리커 : 몰랐어요. 저한텐 아무 말도 안 했어요.
+엘런 : 말할 엄두가 안 났나 보죠. 당신은 상사고. 테이스는 당신 팀 최고의 프로그래머니까. 당신이 해결해 줄래요? 오늘 안에?
+마리커 : 오늘 오후에 두 사람 다 만날게요.
+(2시. 작은 회의실. 마리커가 테이스 맞은편에 앉아 있다.)
+테이스 : 저랑 얘기하자고 했죠? 제 배포 얘기예요? 완벽했잖아요, 그렇죠?
+마리커 : 완벽했어요. 다른 얘기예요. 지난주 당신 코드 리뷰요. 프리야 거.
+테이스 : 아. 그거요. 그게 왜요?
+마리커 : (노트북을 보며 읽는다) 이렇게 썼어요: "이건 엉망이에요. 처음부터 다시 하세요. 테스트는 해 보긴 했어요?"
+테이스 : 네. 그래서요? 엉망이었어요. 오류가 세 개나 있었어요.
+마리커 : 그건 믿어요. 그런데 프리야가 이걸 읽었을 때 어떤 기분이었을 것 같아요?
+테이스 : 솔직히 그건 생각 안 해 봤어요. 코드잖아요. 코드에 대한 얘기지, 그 사람 얘기가 아니에요.
+마리커 : 당신한텐 그럴지도요. 그 사람한텐 개인적인 일이었어요. 인사팀에 갔어요.
+테이스 : (놀라서) 인사팀에요? 왜 그냥 저한테 안 왔어요?
+마리커 : 아마 당신이 비판할 때 그다지 다가가기 쉬운 사람이 아니라서겠죠.
+테이스 : (말이 없다) 아. 직설적이네요.
+마리커 : (살짝 웃으며) 봤죠? 이런 기분이에요.
+테이스 : 알겠어요. 요점 전달됐어요. 근데 저는 그냥 솔직한 거예요. 이제 솔직한 것도 잘못이에요?
+마리커 : 솔직한 건 잘못이 아니에요. 하지만 솔직한 것과 무례한 것은 달라요. 같은 말도 다르게 할 수 있어요.
+테이스 : 어떻게요? "사랑하는 프리야, 이 코드는 아주 조금 완전히 이상적이진 않아요"?
+마리커 : 아니요. 그건 또 너무 모호해요. 그럼 뭐가 잘못됐는지 몰라요. 이렇게 해 봐요: "이 함수에 오류가 세 개 보여요. 같이 볼까요?"
+테이스 : (천천히 따라 한다) "오류가 세 개 보여요. 같이 볼까요." 흠. 사실 완전히 같은 말이네요.
+마리커 : 완전히 같은 말이죠. 하지만 판결이 아니라 초대예요. 당신이 본 걸 묘사하는 거예요. 그 사람이 어떤 사람인지 말하는 게 아니라.
+테이스 : "테스트는 해 보긴 했어요?" 그게 그렇게 심했어요?
+마리커 : 그건 상대가 멍청하다고 생각하는 것처럼 들려요. 이렇게 물어볼 수도 있어요: "어떤 테스트를 돌렸어요? 제가 몇 개를 놓쳤을 수도 있어서요."
+테이스 : (한숨) 단어가 세 배는 더 드네요.
+마리커 : 그리고 동료는 안 잃죠. 괜찮은 거래예요.
+테이스 : (잠시 뒤) 사과해야 할까요?
+마리커 : 본인은 어떻게 생각해요?
+테이스 : 제 생각엔... 네. 내용 때문은 아니에요. 오류는 진짜였으니까요. 하지만 말투 때문엔요.
+마리커 : 좋은 구분이에요. 지금 할래요? 바로 옆에 있어요.
+테이스 : 지금요? (깊게 숨을 들이쉰다) 좋아요. 지금요. 마음 바뀌기 전에.
+(마리커가 프리야를 데려온다. 프리야가 조금 긴장한 채 앉는다.)
+프리야 : 저랑 얘기하고 싶다고 마리커가 그러던데요?
+테이스 : 네. 지난주 제 리뷰에 대해서요. (탁자를 보다가 그녀를 본다) 제 말투가 좋지 않았어요. 미안해요.
+프리야 : (놀라서) 아.
+테이스 : 오류는 진짜였어요. 그건 그대로예요. 하지만 다르게 말했어야 했어요. 테스트를 해 보긴 했냐고 쓰지 말았어야 했어요. 쓸데없는 말이었어요.
+프리야 : (천천히) 고마워요, 테이스. 저한텐 큰 의미가 있어요.
+테이스 : 왜 저한테 안 왔어요? 바로 알았으면 좋았을 텐데.
+프리야 : 제가 자란 곳에서는 그런 말을 동료한테 직접 하지 않아요. 특히 선배한테는요. 간접적으로 말해요. 다른 사람을 통해서요. 아니면 아무 말도 안 하고 속상해하죠.
+테이스 : 그건 상상도 못 했어요. 그냥 앉아서 고치는 줄 알았어요.
+프리야 : 고치긴 했어요. 밤 11시까지요. 그러고 나서 울었어요.
+테이스 : (말이 없다) 젠장. 미안해요. 정말 몰랐어요.
+마리커 : 테이스. 말조심.
+테이스 : 죄송해요. (프리야에게) 정말 몰랐어요. 진짜로요.
+프리야 : 이제 괜찮아요. 저도 하나 배웠어요. 네덜란드에서는 제가 직접 말해야 해요. 무서워도요.
+마리커 : 그건 어려워요. 많은 사람한테요. 네덜란드 사람한테도요.
+프리야 : 그럼 지금 연습해 봐도 돼요? 테이스한테 피드백 주기요?
+테이스 : (조금 긴장해서) 어. 물론이죠. 해 봐요.
+프리야 : (숨을 고른다) 테이스, 저는 당신이 정말 좋은 프로그래머라고 생각해요. 당신 코드에서 많이 배워요. 하지만 당신이 비판할 때 가끔 제가 작아지는 기분이 들어요. 틀렸다고 말하기 전에 제가 무슨 의도였는지 먼저 물어봐 줬으면 좋겠어요.
+테이스 : (천천히 고개를 끄덕인다) 그건... 분명하네요. 그리고 솔직하고. 그런데 무례하지 않아요. 어떻게 한 거예요?
+마리커 : 그걸 '나-전달법'이라고 해요. "나는 ~한 기분이 들어요, 나는 ~했으면 좋겠어요." 자기 얘기를 하는 거예요. 상대 얘기가 아니라.
+테이스 : 나-전달법. 저도 배워야겠네요.
+프리야 : 제가 도와줄게요. 당신이 제 코드를 도와주면요.
+테이스 : 좋아요. (손을 내민다) 내일 그 함수 같이 볼까요? 거기 오류가 두 개 더 보여요. (멈춘다) 제 말은: 두 가지를 더 본 것 같아요. 같이 볼까요?
+프리야 : (소리 내어 웃는다) 빨리 배우네요!
+마리커 : (같이 웃으며) 훌륭한 재시도였어요.
+프리야 : 마리커, 저도 하나 물어봐도 돼요? 마리커는 괜찮은 거예요?
+마리커 : 나요? 그럼요. 완전 괜찮아요.
+테이스 : (프리야를 보며) 맨날 저렇게 말해요. "완전 괜찮아요."
+프리야 : 우리 쪽에선 전혀 괜찮지 않을 때 "괜찮아요"라고 해요. 네덜란드도 그런가 봐요.
+(4시 반. 마리커가 엘런의 방으로 돌아간다. 엘런은 메일을 쓰고 있다.)
+엘런 : 그래서요? 해결됐어요?
+마리커 : 해결됐어요. 테이스가 사과했어요. 내일 둘이 같이 코드 리뷰를 할 거예요.
+엘런 : 잘했어요. 정말로. 그게 좋은 상사가 하는 일이죠.
+마리커 : 고마워요. 이제 저도 이사님께 피드백을 드려도 될까요?
+엘런 : (놀라서 고개를 든다) 나한테요?
+마리커 : 피드백은 선물이라고 하셨잖아요. 저도 작은 선물이 있어요.
+엘런 : (몸을 뒤로 기대며 살짝 웃는다) 좋아요. 궁금하네요. 줘 봐요.
+마리커 : 오늘 오후에 제 상태가 어떤지 먼저 묻지 않고 피드백을 주셨어요. 뭐가 잘못됐는지부터 시작하셨죠. 저는 일주일에 60시간 일해요. 이사님이 그걸 안 보신다는 느낌이 들어요.
+엘런 : 60시간이요? 그건 당신 선택이에요, 마리커. 아무도 60시간 일하라고 하지 않아요.
+마리커 : 아무도 그렇게 하라고 하진 않죠. 하지만 다들 그걸 기대해요. 그건 다른 얘기예요.
+엘런 : (인상을 쓴다) 무슨 뜻이에요?
+마리커 : 출시가 늦으면 제 탓이 돼요. 고객이 뭘 새로 원하면 그래도 넣어야 해요. 그리고 제가 6시에 퇴근하면 9시에 메일이 와요. 이사님한테서요.
+엘런 : (잠시 말이 없다) 나는 내가 편할 때 메일을 보내요. 답장 안 해도 돼요.
+마리커 : 그럼 그렇게 말씀해 주셔야죠. 분명하게요. 지금은 답장해야 한다고 생각하거든요.
+엘런 : (잠시 뒤) 그건... 맞는 말이네요. 그렇게는 생각 못 해 봤어요.
+마리커 : 동정을 바라는 게 아니에요. 분명한 기준을 바라는 거예요. 저한테 정확히 뭘 기대하시나요? 그리고 뭘 기대하지 않으시나요?
+엘런 : (펜을 내려놓는다) 좋아요. 솔직하게 말할게요. 나는 당신 팀이 결과물을 내기를 기대해요. 한밤중에 메일에 답하길 기대하진 않아요. 그걸 말해야 한다고는 생각 못 했어요.
+마리커 : 이제 말씀하셨네요. 고마워요.
+엘런 : 그런데 마리커... 나도 하나 말할게요. 너무 버겁다면 말해야 해요. 제때요. 이미 너무 늦었을 때 말고.
+마리커 : 지금 말하는 거예요.
+엘런 : (그녀를 한참 바라본다) 그래요. 그러고 있네요. (부드럽게) 너무 버거워요?
+마리커 : (머뭇거린다) 그게... 많아요. 아빠랑 카페 일까지 겹쳐서요. 잠을 잘 못 자요. 새벽 4시에 깨서 지라 티켓 생각을 해요.
+엘런 : 새벽 4시에 지라 티켓이라. (한숨) 나도 알아요. 10년 전에요.
+마리커 : 정말요?
+엘런 : 정말이에요. 그때 석 달을 쉬었어요. 이 사무실에선 아무도 몰라요.
+마리커 : (조용히) 몰랐어요.
+엘런 : 그래서 내가 엄격한 걸지도 몰라요. 여기서 아무도 쓰러지지 않길 바라서요. 그런데 가끔 방식이 틀려요. 그게 나 자신에게 주는 피드백이에요.
+마리커 : (작은 미소) 그거 멋진 선물이네요.
+엘런 : 내일 쉬어요. 월요일도요. 루드가 팀을 맡을 거예요.
+마리커 : 이틀이요? 한창...
+엘런 : 출시는 늘 있죠. 알아요. 루드도 그렇게 말했어요. 나한테요. 오늘 아침에요.
+마리커 : 루드가 이사님이랑 얘기했어요?
+엘런 : 루드는 모두랑 얘기해요, 마리커. 몇 시간씩. (짧게 웃는다) 그런데 이번엔 그 사람 말이 맞았어요.
+마리커 : (일어서며) 고마워요, 엘런. 진심으로요.
+엘런 : 피드백은 선물이에요. 그런데 가끔은 쉬는 게 더 좋은 선물이죠.
+마리커 : 그 말 빌려 가도 될까요? 우리 아빠한테 써먹게요.
+엘런 : 가져가요. 이제 집에 가요. 지금. 그리고 노트북 꺼요.
+마리커 : (문 앞에서) 끌게요. 완전히요. 노력해 볼게요.
+엘런 : 노력하지 말고. 해요. 그것도 직설적인 피드백이에요.
