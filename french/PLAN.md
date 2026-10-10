@@ -343,7 +343,7 @@
 | 6 | La ferme à faux médias (가짜 뉴스 공장) | B2 | Argos 별관 | AI로 만든 가짜 지역뉴스 사이트 150개 | polariser le débat · des contenus générés par l'IA | 수동태, se faire + inf. |
 | 7 | La candidate (후보) | B1 | 선거 사무소 | 가짜 뉴스 공격을 받는 시장 후보 나디아 사이디 인터뷰 | On m'accuse de… · Qui a intérêt à… ? | 간접화법 |
 | 8 | Deepfake (딥페이크) | B2 | 카림의 작업 공간 | "뇌물 녹음"이 딥페이크임을 음성 분석으로 증명 | L'audio a été manipulé · Il est impossible que… | 접속법(불가능) |
-| 9 | Le darknet (다크웹) | B1 | 카림의 작업 공간·밤 | 공공 고용기관에서 4천만 명 넘는 개인정보가 유출됨. 카림이 구매자로 위장해 판매자 「Nyx」와 채팅 — 최대 고객이 "파리의 컨설팅 회사" | Combien pour le fichier complet ? · Paiement en cryptomonnaie · Qui d'autre a acheté ? | 의문 표현, 숫자 |
+| 9 | La fuite (유출) | B1 | 편집국·모모의 카페·Argos·3월 2일 | 공공 고용기관(가상 「국가고용청」)이 4,300만 명 개인정보 유출을 공식 발표. 레아·모모가 실명 사기 문자를 받음 → 독자 보호 기사, CNIL 공식 취재("이 데이터는 열람하지 않는다"). 아르고스 안에서 조르당이 같은 열 구조의 목록을 구별로 분류 중. 맞춤형 정치 문자가 19구 노인들에게. 레아가 마르고와 첫 통화 | Vos données ont peut-être été volées · Combien de personnes sont concernées ? · On a prévenu la CNIL | 수동태, 공식 안내문의 부정사 명령 |
 | 10 | Double vie (이중생활) | A2 | 쥘리앵의 아파트 | 누나 생일을 놓치고, 가짜 이름에 익숙해지는 자신이 무서움 | Tu as oublié ? · Je ne sais plus qui je suis | passé composé, 감정 표현 |
 | 11 | Le client (고객) | C1 | Argos 회의실 | 카미유가 회의 비서로 배석. 하르멜과 외국 고객 대리인: 유출 개인정보로 유권자를 쪼개 맞춤형 가짜 뉴스를 보내는 계획을 완곡하게 논의 | une campagne d'influence · un ciblage fin · Il conviendrait que… | 완곡어법, 접속법 |
 | 12 | Le Salon de l'agriculture (농업 박람회) ⟨쉬어가는 화⟩ | A2 | 포르트 드 베르사유 | 치즈·소·농민들. 「Projet Écho」가 농민의 분노까지 부추긴다는 걸 알게 됨 | Goûtez ce fromage ! · On est en colère | 부분관사, 명령형 |
