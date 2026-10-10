@@ -1,0 +1,340 @@
+# 2부 2화. Les plis (입찰 봉투)
+수준: A2~C1 혼합 (중심 B2) | 장소: 편집국·시청 근처 카페·시의원 사무실 | 시간: 10월 첫째 주 목요일
+핵심 표현: Ça ne peut pas être un hasard · Quelqu'un leur a donné le prix · le procès-verbal · Chacun son tour
+
+## 대화
+Serveur: (au Zinc, le jeudi matin, il pose un carton sur le comptoir) Voilà, Julien. Tout mon dossier pour le Pavillon du Canal. Je n'ai rien jeté.
+(목요일 아침, 르 쟁에서 카운터에 상자를 올려놓으며) 여기, 쥘리앵. 파비용 뒤 카날 서류 전부야. 하나도 안 버렸어.
+Julien: Merci, Momo. Je te le rends dans quelques jours. On fait des copies et on te rend les originaux.
+고마워, 모모. 며칠 뒤에 돌려줄게. 사본만 뜨고 원본은 돌려줄게.
+Serveur: Prends ton temps. Mais rends-le-moi, hein. C'est trois mois de ma vie, ce carton.
+천천히 해. 그래도 꼭 돌려줘. 이 상자에 내 인생 석 달이 들어 있어.
+Léa: (elle ouvre le carton) Il y a tout : le projet, les plans, le budget, la lettre de la banque… et la lettre de refus.
+(상자를 열며) 다 있네. 사업 계획서, 도면, 예산, 은행 편지… 그리고 거절 편지.
+Julien: Lis-la.
+읽어 봐.
+Léa: « Monsieur, nous avons le regret de vous informer que votre candidature n'a pas été retenue. Veuillez agréer, Monsieur, l'expression de nos salutations distinguées. Stéphane Roux, directeur de cabinet de l'adjoint au maire chargé de l'urbanisme. »
+«귀하의 지원이 채택되지 않았음을 알려 드리게 되어 유감입니다. 정중한 인사를 받아 주시기 바랍니다. 도시계획 담당 부시장 비서실장 스테판 루.»
+Julien: Stéphane Roux. Le directeur de cabinet de Pujol.
+스테판 루. 퓌졸의 비서실장.
+Léa: C'est quoi exactement, un directeur de cabinet ?
+비서실장이 정확히 뭐야?
+Julien: Le bras droit d'un élu. Il gère son équipe, son agenda, ses dossiers. Quand un élu ne veut pas signer quelque chose lui-même, c'est souvent le directeur de cabinet qui signe.
+선출직 공무원의 오른팔이야. 팀이랑 일정, 업무를 관리하지. 선출직이 직접 서명하고 싶지 않은 게 있으면 대개 비서실장이 서명해.
+Léa: Et la carte d'Ariane disait : « Depuis le cabinet de l'adjoint à l'urbanisme. »
+그리고 아리안 카드엔 «도시계획 담당 부시장 비서실에서»라고 적혀 있었지.
+Julien: Exactement. On a peut-être un nom.
+맞아. 이름 하나를 얻었을지도 몰라.
+Serveur: Stéphane Roux… Je l'ai vu, celui-là. Il est venu déjeuner ici, une fois. Il y a deux ans. Avec un homme en costume. Ils ont parlé de chantier pendant deux heures.
+스테판 루… 그 사람 본 적 있어. 여기 점심 먹으러 한 번 왔었지. 2년 전에. 정장 입은 남자랑 같이. 두 시간 동안 공사 얘기를 했어.
+Julien: Ici ? Au Zinc ?
+여기서? 르 쟁에서?
+Serveur: Ici. À la table du fond. Il a payé en liquide. Et il a laissé un gros pourboire. Je m'en souviens parce que les gens de la mairie ne laissent jamais de pourboire.
+여기. 저 안쪽 테이블에서. 현금으로 계산했어. 팁도 두둑하게 남기고. 시청 사람들은 팁을 절대 안 남기거든. 그래서 기억해.
+Léa: L'homme en costume, vous vous souvenez de lui ?
+정장 입은 남자는 기억나세요?
+Serveur: Grand, cheveux gris, une montre en or. Il avait un porte-documents avec un logo. Un V. Un grand V bleu.
+키가 크고, 머리는 희끗하고, 금시계를 찼어. 로고가 있는 서류 가방을 들고 있었고. V자. 커다란 파란 V.
+Julien: (il regarde Léa) Le logo de Valmont Construction est un grand V bleu.
+(레아를 보며) 발몽 건설 로고가 커다란 파란 V야.
+Léa: (elle note) « Stéphane Roux, directeur de cabinet de Pujol, a déjeuné avec un homme de Valmont. Il y a deux ans. Au Zinc. »
+(적으며) «퓌졸의 비서실장 스테판 루가 발몽 사람과 점심을 먹음. 2년 전. 르 쟁에서.»
+Julien: Colonne de droite. Un déjeuner n'est pas un crime. Mais c'est intéressant.
+오른쪽 칸. 점심은 범죄가 아니야. 하지만 흥미롭지.
+Karim: (à la rédaction, à neuf heures) Bon. J'ai passé la nuit sur les documents d'Ariane. Vous voulez la bonne ou la mauvaise nouvelle ?
+(아홉 시, 편집국에서) 자. 아리안 문서를 붙잡고 밤을 새웠어. 좋은 소식부터 들을래, 나쁜 소식부터 들을래?
+Léa: Encore ? Tu fais toujours ça.
+또? 넌 맨날 그러더라.
+Karim: C'est mon style. La bonne : les documents ont l'air authentiques. L'estimation de la Ville utilise exactement le même modèle que d'autres estimations rendues publiques, après la signature des contrats.
+내 스타일이야. 좋은 소식: 문서는 진짜 같아. 시의 추정가 문서는 계약 서명 후에 공개된 다른 추정가 문서들과 똑같은 양식을 써.
+Julien: Rendues publiques comment ?
+어떻게 공개됐는데?
+Karim: Grâce à des demandes CADA. D'autres journalistes et des associations les ont obtenues.
+CADA 청구 덕분에. 다른 기자들이랑 시민 단체들이 받아 냈지.
+Léa: CADA ? C'est quoi ?
+CADA? 그게 뭐야?
+Karim: La Commission d'accès aux documents administratifs. En France, tout citoyen a le droit de demander un document administratif. Un rapport, un contrat, un compte rendu. Si l'administration refuse, on peut saisir la CADA.
+행정문서열람위원회. 프랑스에선 모든 시민이 행정문서를 요청할 권리가 있어. 보고서, 계약서, 회의록 같은 거. 행정 기관이 거부하면 CADA에 제소할 수 있고.
+Léa: Tout citoyen ? Même moi ?
+모든 시민이? 나도?
+Karim: Même toi. Même Momo. C'est une loi de 1978. Une des meilleures lois de France, si tu veux mon avis.
+너도. 모모도. 1978년 법이야. 내 생각엔 프랑스 최고의 법 중 하나지.
+Julien: Et la mauvaise nouvelle ?
+그럼 나쁜 소식은?
+Karim: L'estimation confidentielle de Canal-Nord n'a jamais été rendue publique. Donc je ne peux pas comparer avec l'original. Je peux seulement dire que le document est cohérent.
+카날노르의 기밀 추정가는 한 번도 공개된 적이 없어. 그래서 원본이랑 비교할 수가 없어. 문서가 앞뒤가 맞는다는 것만 말할 수 있지.
+Léa: Alors on peut la demander, à la CADA ? L'estimation ?
+그럼 CADA에 청구하면 되잖아? 그 추정가를?
+Karim: On peut essayer. Mais la Ville va répondre que c'est couvert par le secret des affaires. Ça prendra des mois.
+해 볼 수는 있지. 그런데 시는 영업 비밀이라고 답할 거야. 몇 달은 걸릴 거고.
+Julien: Mais on peut demander autre chose. Plus simple. Le procès-verbal d'ouverture des plis.
+그래도 다른 걸 청구할 수 있어. 더 간단한 거. 입찰서 개봉 회의록.
+Léa: Le procès-verbal d'ouverture des plis ?
+입찰서 개봉 회의록?
+Julien: Les « plis », ce sont les enveloppes des offres. Le jour où la commission ouvre les offres, elle écrit un procès-verbal. Un compte rendu officiel. Qui était là, quelles entreprises ont répondu, quels prix elles ont proposés.
+«pli»는 입찰서 봉투야. 위원회가 입찰서를 여는 날, 회의록을 써. 공식 기록이지. 누가 참석했는지, 어떤 회사들이 응찰했는지, 각각 얼마를 제시했는지.
+Karim: Et ça, normalement, c'est communicable après la signature du contrat.
+그리고 그건 원래 계약 서명 이후엔 공개 대상이야.
+Léa: Alors je fais la demande. Aujourd'hui.
+그럼 내가 청구할게. 오늘.
+Julien: Fais-la. Et demande aussi la liste des membres de la commission. Je veux savoir qui était dans la salle.
+해. 그리고 위원회 위원 명단도 같이 청구해. 그 방에 누가 있었는지 알고 싶어.
+Karim: Pas besoin d'attendre pour ça. La composition de la commission d'appel d'offres est publique. Je l'ai déjà. (il lit) Président : Gérard Pujol. Et quatre élus : trois de la majorité, et une de l'opposition. Isabelle Faure.
+그건 기다릴 필요 없어. 입찰 위원회 구성은 공개돼 있거든. 이미 갖고 있어. (읽으며) 위원장: 제라르 퓌졸. 그리고 시의원 네 명. 여당 세 명, 야당 한 명. 이자벨 포르.
+Julien: Une élue de l'opposition. Elle était dans la salle.
+야당 시의원. 그 방에 있었던 사람이군.
+Léa: Et elle n'a rien dit ?
+그런데 아무 말도 안 했어?
+Julien: C'est ce qu'on va lui demander.
+그걸 물어보러 가자.
+Léa: (à son bureau, avec Karim) Bon. La demande CADA. Je commence comment ? « Bonjour, je voudrais… » ?
+(자기 책상에서 카림과 함께) 자. CADA 청구서. 어떻게 시작해? «안녕하세요, 저는 ~을 원하는데요…»?
+Karim: (il rit) Non. C'est une lettre administrative. D'abord, l'objet. « Objet : demande de communication de documents administratifs. »
+(웃으며) 아니. 행정 서신이야. 먼저 제목. «제목: 행정문서 열람 청구.»
+Léa: (elle tape) D'accord. Et après ?
+(입력하며) 알았어. 그다음엔?
+Karim: « Madame la Maire, en application des articles L. 311-1 et suivants du code des relations entre le public et l'administration, je vous prie de bien vouloir me communiquer les documents suivants. »
+«시장님, 공공과 행정의 관계에 관한 법전 L. 311-1조 이하에 따라, 다음 문서들을 제게 열람시켜 주시기 바랍니다.»
+Léa: Je dois écrire tous ces numéros ?
+그 숫자들을 전부 써야 해?
+Karim: Oui. Ça montre que tu connais la loi. L'administration répond plus vite quand elle voit qu'on connaît ses droits.
+응. 네가 법을 안다는 걸 보여 주는 거야. 권리를 아는 사람이라는 걸 알면 행정 기관이 더 빨리 답해.
+Léa: Et ensuite, la liste des documents ?
+그리고 그다음엔 문서 목록?
+Karim: Avec des numéros. Un : le procès-verbal d'ouverture des plis du marché Canal-Nord, lot numéro un. Deux : le rapport d'analyse des offres. Trois : le procès-verbal de la commission d'attribution.
+번호를 붙여서. 하나: 카날노르 계약 1번 구획의 입찰서 개봉 회의록. 둘: 입찰서 분석 보고서. 셋: 낙찰 위원회 회의록.
+Léa: Le rapport d'analyse des offres, c'est quoi ?
+입찰서 분석 보고서는 뭐야?
+Karim: Le document où les services techniques comparent les offres et donnent des notes. Si Valmont a eu une note excellente sans raison, on le verra.
+기술 부서가 입찰서들을 비교해서 점수를 매긴 문서야. 발몽이 아무 이유 없이 최고 점수를 받았다면 거기서 드러나겠지.
+Léa: Et à la fin ?
+그리고 끝에는?
+Karim: Le délai. La loi dit que l'administration a un mois pour répondre. Si elle ne répond pas, c'est considéré comme un refus. Et tu peux saisir la CADA.
+기한. 법에 따르면 행정 기관은 한 달 안에 답해야 해. 답하지 않으면 거부로 간주되고. 그럼 CADA에 제소할 수 있어.
+Léa: Un mois… C'est long.
+한 달… 길다.
+Karim: Bienvenue dans le journalisme d'investigation. Un mois, c'est rapide. J'ai déjà attendu deux ans pour un document.
+탐사보도에 온 걸 환영해. 한 달이면 빠른 거야. 난 문서 하나에 2년을 기다린 적도 있어.
+Léa: (au téléphone, une heure plus tard) Madame Faure ? Bonjour, je suis Léa Morel, journaliste au Phare. Nous enquêtons sur le marché Canal-Nord. Vous étiez membre de la commission d'appel d'offres…
+(한 시간 뒤, 전화로) 포르 의원님? 안녕하세요, 〈Le Phare〉 기자 레아 모렐입니다. 카날노르 계약을 취재하고 있는데요. 의원님이 입찰 위원회 위원이셨죠…
+Faure: (au téléphone) Le Phare ? Celui de l'affaire Belcastel ? (un silence) Venez à mon bureau. Pas au téléphone. Cet après-midi, quinze heures. Hôtel de Ville, bureau des élus de l'opposition.
+(전화로) 〈Le Phare〉요? 벨카스텔 사건의 그 〈Le Phare〉? (침묵) 제 사무실로 오세요. 전화로는 안 돼요. 오늘 오후 세 시. 시청, 야당 의원 사무실.
+Léa: (elle raccroche, à Julien) Elle accepte. Elle ne veut pas parler au téléphone.
+(전화를 끊고 쥘리앵에게) 만나 주겠대. 전화로는 얘기하기 싫대.
+Julien: Bon signe. Les gens qui ont quelque chose à dire ne le disent jamais au téléphone.
+좋은 신호야. 할 말이 있는 사람들은 절대 전화로 안 하거든.
+Léa: (à pied, vers l'Hôtel de Ville, à quatorze heures trente) On ne prend pas le métro ?
+(오후 두 시 반, 시청 쪽으로 걸어가며) 지하철 안 타?
+Julien: C'est à vingt-cinq minutes à pied. Et il fait beau. On descend le boulevard jusqu'à République, puis on traverse le Marais.
+걸어서 25분이야. 그리고 날씨도 좋잖아. 대로를 따라 레퓌블리크까지 내려가서 마레를 가로지르는 거지.
+Léa: Je ne connais pas encore bien Paris. Je suis arrivée il y a six semaines.
+난 아직 파리를 잘 몰라. 6주 전에 왔거든.
+Julien: Tu habites où ?
+어디 살아?
+Léa: Dans le vingtième. Un studio de dix-huit mètres carrés, au sixième étage sans ascenseur. Huit cent cinquante euros par mois.
+20구. 엘리베이터 없는 6층의 18제곱미터짜리 원룸. 한 달에 850유로.
+Julien: Huit cent cinquante pour dix-huit mètres carrés… Bienvenue à Paris.
+18제곱미터에 850이라… 파리에 온 걸 환영해.
+Léa: Ma mère pleure chaque fois qu'elle voit les photos. À Lyon, avec ce prix, j'aurais un trois-pièces.
+엄마는 사진 볼 때마다 울어. 리옹에선 그 돈이면 방 세 개짜리 집에 살 텐데.
+Julien: (il montre une rue) Regarde, à gauche. La rue des Archives. Elle va jusqu'à l'Hôtel de Ville. Toujours tout droit.
+(길 하나를 가리키며) 봐, 왼쪽. 아르시브 거리야. 시청까지 이어져. 계속 직진.
+Léa: Elle est jolie, cette rue. Toutes ces petites boutiques…
+이 거리 예쁘다. 작은 가게들이 잔뜩이네…
+Julien: Il y a vingt ans, c'était un quartier populaire. Des artisans, des petits ateliers. Maintenant, ce sont des boutiques de luxe et des appartements à quinze mille euros le mètre carré.
+20년 전엔 서민 동네였어. 장인들, 작은 공방들. 지금은 명품 가게랑 제곱미터당 1만 5천 유로짜리 아파트지.
+Léa: Comme ce qui va arriver au quartier de Rachid, avec Canal-Nord.
+라시드네 동네가 카날노르로 겪게 될 일처럼.
+Julien: Exactement comme ça. Sauf qu'ici, ça a pris vingt ans. Là-bas, ça va prendre cinq.
+바로 그렇게. 다만 여기선 20년이 걸렸고, 거긴 5년이면 될 거야.
+Léa: (elle s'arrête) Oh. C'est ça, l'Hôtel de Ville ? Il est immense !
+(멈춰 서며) 어. 저게 시청이야? 엄청 크다!
+Julien: Le plus beau bureau du monde pour ceux qui y travaillent. Et le plus difficile à ouvrir pour ceux qui posent des questions.
+거기서 일하는 사람들한텐 세상에서 제일 멋진 사무실이지. 질문하는 사람들한텐 제일 열기 힘든 곳이고.
+Faure: (à quinze heures, dans un petit bureau encombré) Asseyez-vous. Excusez le désordre. L'opposition a droit au plus petit bureau de l'Hôtel de Ville. C'est une tradition.
+(오후 세 시, 물건이 가득한 작은 사무실에서) 앉으세요. 지저분해서 죄송해요. 야당은 시청에서 제일 작은 사무실을 쓰거든요. 전통이에요.
+Julien: Merci de nous recevoir, madame Faure.
+만나 주셔서 감사합니다, 포르 의원님.
+Faure: Je vous ai reçus parce que j'ai lu votre enquête sur Maréchal. Vous avez parlé de rapports d'hygiène disparus. Et d'une « intervention en haut lieu ». (elle les regarde) Vous savez de qui il s'agit ?
+〈Le Phare〉의 마레샬 기사를 읽어서 만나기로 한 거예요. 사라진 위생 보고서랑 «높은 곳에서의 개입» 얘기를 하셨잖아요. (그들을 바라보며) 누군지 아세요?
+Julien: Nous avons des pistes. Nous ne pouvons rien affirmer pour l'instant.
+단서는 있습니다. 지금으로서는 아무것도 단정할 수 없고요.
+Faure: (elle sourit) Prudent. C'est bien. Parlons de Canal-Nord, alors. Qu'est-ce que vous voulez savoir ?
+(웃으며) 신중하시네요. 좋아요. 그럼 카날노르 얘기를 하죠. 뭘 알고 싶으세요?
+Léa: Le jour de l'ouverture des plis, vous étiez dans la salle. Comment ça s'est passé ?
+입찰서를 연 날, 의원님은 그 방에 계셨죠. 어떻게 진행됐나요?
+Faure: Très vite. Trop vite. La réunion a duré douze minutes. Pour un marché de trois cent quarante millions d'euros. Douze minutes.
+아주 빨리요. 너무 빨리. 회의가 12분 걸렸어요. 3억 4천만 유로짜리 계약에. 12분이요.
+Julien: Douze minutes ? C'est normal ?
+12분이요? 그게 정상인가요?
+Faure: Pour un marché de cette taille, une réunion dure normalement deux ou trois heures. On lit les offres, on compare, on pose des questions aux services techniques. Ce jour-là, Pujol a ouvert les enveloppes, lu les prix, et proposé de voter.
+그 정도 규모의 계약이면 회의가 보통 두세 시간은 걸려요. 입찰서를 읽고, 비교하고, 기술 부서에 질문하고. 그날은 퓌졸이 봉투를 열고, 가격을 읽고, 바로 투표하자고 했어요.
+Léa: Et les prix des autres entreprises ?
+다른 회사들 가격은요?
+Faure: C'est ça qui m'a frappée. Pour le lot numéro un, trois entreprises avaient répondu. Valmont : cent quarante-trois millions. Les deux autres : cent soixante-huit et cent soixante-quinze millions.
+그게 저를 놀라게 한 거예요. 1번 구획엔 회사 세 곳이 응찰했어요. 발몽은 1억 4,300만. 다른 두 곳은 1억 6,800만이랑 1억 7,500만.
+Julien: Vingt-cinq et trente-deux millions de plus que Valmont.
+발몽보다 2,500만, 3,200만 유로 더 비싸네요.
+Faure: Exactement. Des écarts énormes. Comme si les deux autres entreprises ne voulaient pas gagner. Comme si elles avaient fait des offres… décoratives.
+맞아요. 엄청난 차이죠. 다른 두 회사는 이길 생각이 없었던 것처럼. 마치… 장식용으로 응찰한 것처럼요.
+Léa: Décoratives ?
+장식용이요?
+Faure: Dans le jargon, on appelle ça des « offres de couverture ». Une entreprise fait exprès de proposer un prix trop élevé. Pour donner l'impression qu'il y a de la concurrence. Mais en réalité, le gagnant est déjà choisi.
+업계 은어로는 그걸 «들러리 입찰»이라고 해요. 일부러 너무 높은 가격을 써내는 거죠. 경쟁이 있는 것처럼 보이게 하려고요. 하지만 실제로는 승자가 이미 정해져 있는 거예요.
+Julien: Une entente entre entreprises. Un cartel.
+업체들 간의 담합이군요. 카르텔.
+Faure: C'est le mot que je n'ai pas osé prononcer en commission. J'ai seulement demandé : « Pourquoi un tel écart entre les offres ? » Pujol m'a répondu : « Valmont a une excellente maîtrise des coûts. » Et on a voté. Trois voix contre une.
+그게 제가 위원회에서 차마 입에 올리지 못한 단어예요. 저는 이렇게만 물었죠. «왜 입찰가 사이에 이렇게 차이가 나죠?» 퓌졸은 «발몽은 원가 관리가 탁월합니다»라고 답했어요. 그리고 투표했죠. 3 대 1로.
+Léa: Vous avez voté contre ?
+반대표를 던지셨어요?
+Faure: J'ai voté contre. Et j'ai demandé que ma question soit inscrite au procès-verbal. Elle y est. Si vous obtenez ce document, vous la verrez.
+반대했어요. 그리고 제 질문을 회의록에 남겨 달라고 했죠. 거기 있어요. 그 문서를 받으면 보실 수 있을 거예요.
+Julien: Madame Faure, nous avons des documents qui suggèrent que l'estimation confidentielle de la Ville aurait été transmise à Valmont avant l'ouverture des plis. L'offre de Valmont est inférieure de quatorze mille euros à cette estimation.
+포르 의원님, 저희는 시의 기밀 추정가가 입찰서 개봉 전에 발몽에 전달됐을 수 있다는 걸 시사하는 문서를 갖고 있습니다. 발몽의 입찰가는 그 추정가보다 1만 4천 유로 낮습니다.
+Faure: (elle reste silencieuse un long moment) Quatorze mille euros ? Sur cent quarante-trois millions ?
+(한참 침묵하다가) 1만 4천 유로요? 1억 4,300만 유로에서?
+Léa: Oui.
+네.
+Faure: (doucement) Ça ne peut pas être un hasard. Aucune entreprise au monde ne tombe aussi juste. Quelqu'un leur a donné le prix.
+(나지막이) 그건 우연일 수가 없어요. 세상 어떤 회사도 그렇게 정확히 맞힐 수는 없어요. 누군가 그들에게 가격을 알려 준 거예요.
+Julien: Qui avait accès à cette estimation, à la mairie ?
+시청에서 그 추정가에 접근할 수 있었던 사람은 누구죠?
+Faure: Les services techniques qui l'ont calculée. Le président de la commission. Et son cabinet.
+그걸 계산한 기술 부서. 위원장. 그리고 그 비서실.
+Léa: C'est-à-dire Pujol et Stéphane Roux.
+그러니까 퓌졸이랑 스테판 루요.
+Faure: (elle regarde Léa avec surprise) Vous connaissez déjà Stéphane Roux ?
+(놀라서 레아를 보며) 벌써 스테판 루를 아세요?
+Léa: Son nom revient souvent.
+그 이름이 자주 나와서요.
+Faure: Il revient toujours. Stéphane Roux suit Pujol depuis quinze ans. Il connaît tous les dossiers, toutes les entreprises. On dit à la mairie que c'est Roux qui décide, et Pujol qui signe.
+늘 나오죠. 스테판 루는 15년째 퓌졸을 따라다녀요. 모든 업무와 모든 회사를 알아요. 시청에선 루가 결정하고 퓌졸이 서명한다는 말이 있어요.
+Julien: Les deux autres entreprises du lot numéro un. Leurs noms ?
+1번 구획의 다른 두 회사요. 이름이 뭐죠?
+Faure: Bâtir Ensemble et Delorme Travaux Publics. Deux entreprises sérieuses. Ce qui rend leurs offres encore plus bizarres.
+바티르 앙상블이랑 들로름 토목이요. 둘 다 견실한 회사예요. 그래서 그 입찰가가 더 이상한 거고요.
+Karim: (au téléphone, haut-parleur) Je les cherche… Bâtir Ensemble, Delorme… Attendez. C'est incroyable.
+(스피커폰으로) 찾아볼게… 바티르 앙상블, 들로름… 잠깐. 믿을 수가 없네.
+Julien: Quoi ?
+뭐?
+Karim: L'année dernière, Bâtir Ensemble a gagné un énorme marché pour une école dans le treizième. Valmont et Delorme avaient fait des offres beaucoup plus chères. Et il y a deux ans, Delorme a gagné la rénovation d'une piscine dans le vingtième. Contre Valmont et Bâtir Ensemble, beaucoup plus chers.
+작년에 바티르 앙상블이 13구 학교 공사라는 큰 계약을 땄어. 발몽이랑 들로름은 훨씬 비싼 가격을 냈고. 그리고 2년 전엔 들로름이 20구 수영장 리모델링을 땄어. 훨씬 비싼 발몽이랑 바티르 앙상블을 상대로.
+Léa: Les mêmes trois entreprises… qui gagnent à tour de rôle ?
+같은 세 회사가… 돌아가면서 낙찰받는 거야?
+Faure: (elle ferme les yeux) Chacun son tour. C'est comme ça qu'on dit dans le métier. Je m'en doutais depuis des années. Je n'ai jamais pu le prouver.
+(눈을 감으며) 차례대로 돌아가는 거죠. 업계에선 그렇게 말해요. 몇 년 전부터 짐작은 했어요. 한 번도 증명하진 못했지만요.
+Julien: Karim, combien de marchés publics à Paris ces dix dernières années, avec ces trois entreprises ?
+카림, 지난 10년 동안 파리 공공계약 중에 이 세 회사가 낀 게 몇 건이야?
+Karim: Je ne sais pas encore. Mais je vais le savoir. Donne-moi deux jours.
+아직 몰라. 하지만 알아낼 거야. 이틀만 줘.
+Faure: Monsieur Marchetti. Je vais vous dire une chose. Et après, je ne veux plus jamais être citée.
+마르케티 씨. 한 가지 말씀드릴게요. 그리고 그다음엔 절대 제 이름이 인용되지 않았으면 해요.
+Julien: Je vous écoute. C'est off.
+듣겠습니다. 오프더레코드입니다.
+Faure: Il y a trois ans, quand j'ai commencé à poser des questions sur ces marchés, quelqu'un a déposé un dossier sur mon bureau. Une vieille histoire de mon mari, un problème d'impôts réglé depuis longtemps. Avec un petit mot : « Chacun a ses secrets. »
+3년 전에 제가 이 계약들에 대해 질문하기 시작했을 때, 누군가 제 책상 위에 서류를 놓고 갔어요. 남편의 오래된 일, 오래전에 해결된 세금 문제였어요. 쪽지가 하나 붙어 있었고요. «누구에게나 비밀은 있다.»
+Léa: Une menace ?
+협박이요?
+Faure: Une menace polie. Depuis, je pose moins de questions. J'ai honte de le dire. Mais j'ai des enfants. (elle se lève) Vous êtes plus courageux que moi.
+점잖은 협박이죠. 그 뒤로 질문을 덜 하게 됐어요. 부끄럽지만요. 저도 아이들이 있거든요. (일어나며) 여러분이 저보다 용감하네요.
+Julien: Vous nous avez beaucoup aidés aujourd'hui. Ce n'est pas rien.
+오늘 저희를 많이 도와주셨습니다. 그건 작은 일이 아니에요.
+Faure: (à la porte) Une dernière chose. Le chantier de Canal-Nord n'avance pas. Les habitants ont été expulsés il y a un an, et presque rien n'a été construit. Allez voir qui travaille vraiment là-bas. Pas sur les panneaux. Sur le terrain.
+(문에서) 마지막으로 하나. 카날노르 공사는 진척이 없어요. 주민들은 1년 전에 쫓겨났는데 지어진 건 거의 없죠. 거기서 진짜 누가 일하는지 가서 보세요. 간판 말고, 현장에서요.
+Léa: (dans les couloirs de l'Hôtel de Ville) Elle a eu peur, elle aussi. Comme l'inspecteur. Comme la directrice de la préfecture.
+(시청 복도에서) 저 사람도 겁먹었었네. 점검관처럼. 경찰청 부국장처럼.
+Julien: Tout le monde a peur, Léa. La différence, c'est ce qu'on fait avec sa peur.
+다들 무서워해, 레아. 차이는 그 두려움을 갖고 뭘 하느냐지.
+Léa: Elle a voté contre. Elle a fait inscrire sa question au procès-verbal. C'est déjà quelque chose.
+반대표를 던졌고, 자기 질문을 회의록에 남겼잖아. 그것만 해도 대단한 거지.
+Julien: C'est beaucoup. Sans ce procès-verbal, on n'aurait aucune trace officielle.
+대단하지. 그 회의록이 없으면 공식 기록이 하나도 없을 거야.
+Julien: (il appelle) Hélène ? On sort de chez Isabelle Faure. Elle confirme : réunion de douze minutes, des écarts énormes entre les offres, et sa question inscrite au procès-verbal.
+(전화를 건다) 엘렌? 이자벨 포르 사무실에서 나왔어. 확인해 줬어. 12분짜리 회의, 입찰가 사이의 엄청난 차이, 그리고 회의록에 남긴 자기 질문까지.
+Hélène: (au téléphone) Elle accepte d'être citée ?
+(전화로) 이름 인용해도 된대?
+Julien: Pour ce qu'elle a dit en commission, oui. C'est public. Pour le reste, non. Elle a reçu des menaces il y a trois ans. Des menaces sur sa famille.
+위원회에서 한 말은 돼. 공개된 거니까. 나머지는 안 돼. 3년 전에 협박을 받았대. 가족에 대한 협박.
+Hélène: (un silence) Des menaces… Alors on la protège. Totalement.
+(침묵) 협박이라… 그럼 철저히 보호하자.
+Julien: Et Karim a trouvé que les trois entreprises gagnent à tour de rôle. Depuis des années.
+그리고 카림이 그 세 회사가 돌아가면서 낙찰받는다는 걸 찾아냈어. 몇 년째.
+Hélène: Un cartel. Avec un adjoint au maire qui préside la commission. (elle soupire) Julien, ça devient très gros.
+카르텔이네. 부시장이 위원장을 맡은 위원회까지. (한숨 쉬며) 쥘리앵, 일이 너무 커지고 있어.
+Julien: Je sais.
+알아.
+Hélène: Faites attention à vous. Tous les deux.
+조심해. 둘 다.
+Léa: (quand il raccroche) Elle dit toujours ça. « Faites attention. »
+(전화를 끊자) 맨날 그 말을 하네. «조심해.»
+Julien: Elle le dit parce qu'elle sait ce que ça coûte de ne pas faire attention.
+조심하지 않으면 어떤 대가를 치르는지 알아서 그래.
+Léa: Alors je ferai attention. Promis.
+그럼 조심할게. 약속해.
+Léa: (elle s'arrête devant une grande porte en bois) C'est quoi, ce bureau ?
+(커다란 나무 문 앞에서 멈춰 서며) 이 사무실은 뭐야?
+Julien: (il lit la plaque) « Gérard Pujol, adjoint à la maire de Paris, chargé de l'urbanisme. »
+(명판을 읽으며) «제라르 퓌졸, 파리 부시장, 도시계획 담당.»
+Léa: (à voix basse) Il est là, derrière cette porte ?
+(작은 목소리로) 저 문 뒤에 있는 거야?
+Roux: (la porte s'ouvre, un homme d'une quarantaine d'années sort, souriant) Je peux vous aider ? Vous cherchez quelqu'un ?
+(문이 열리고 마흔쯤 된 남자가 웃으며 나온다) 도와드릴까요? 누구 찾으세요?
+Julien: Non, merci. Nous passions.
+아니요, 괜찮습니다. 지나가던 길이에요.
+Roux: (il regarde Léa, puis Julien, et son sourire se fige) Monsieur Marchetti, je crois ? Du Phare ? Stéphane Roux, directeur de cabinet. Très heureux de vous rencontrer. J'ai beaucoup aimé votre article sur le vin.
+(레아를 보고 쥘리앵을 보더니 미소가 굳는다) 마르케티 씨 맞지요? 〈Le Phare〉의? 비서실장 스테판 루입니다. 만나서 정말 반갑습니다. 와인 기사 아주 재밌게 읽었어요.
+Julien: Merci.
+감사합니다.
+Roux: Si vous avez des questions sur la politique d'urbanisme de la Ville, n'hésitez pas. Ma porte est toujours ouverte. (il tend une carte) Voilà mon numéro personnel.
+시의 도시계획 정책에 대해 궁금한 게 있으면 언제든지요. 제 문은 늘 열려 있습니다. (명함을 내밀며) 여기 제 개인 번호예요.
+Léa: (elle prend la carte) Merci, monsieur.
+(명함을 받으며) 감사합니다.
+Roux: Je vous en prie, madame… ?
+천만에요, 마담…?
+Léa: Morel. Léa Morel.
+모렐이요. 레아 모렐.
+Roux: (il sourit à nouveau) Léa Morel. Je retiendrai ce nom. Bonne fin de journée.
+(다시 웃으며) 레아 모렐. 그 이름 기억해 두지요. 좋은 오후 보내세요.
+Léa: (dehors, sur le parvis de l'Hôtel de Ville) « Je retiendrai ce nom. » C'était gentil ou c'était une menace ?
+(밖에서, 시청 앞 광장에서) «그 이름 기억해 두지요.» 친절한 말이었어, 협박이었어?
+Julien: Avec ce genre de personne, c'est souvent les deux à la fois.
+그런 부류 사람들한텐 대개 둘 다야.
+Léa: (elle regarde la carte) Il m'a donné son numéro personnel. Pourquoi ?
+(명함을 보며) 개인 번호를 줬어. 왜지?
+Julien: Pour que tu l'appelles. Pour savoir ce que nous savons. (il prend la carte et la range dans son portefeuille) On ne l'appelle pas. Pas encore.
+네가 전화하게 하려고. 우리가 뭘 아는지 알아내려고. (명함을 받아 지갑에 넣으며) 전화하지 마. 아직은.
+
+## 주요 단어
+le pli | 르 쁠리 | (입찰서) 봉투 (C1)
+l'ouverture des plis | 루베르뛰르 데 쁠리 | 입찰서 개봉 (C1)
+le procès-verbal | 르 쁘로쎄 베르발 | 회의록, 조서 (B2)
+le directeur de cabinet | 르 디렉뙤르 드 까비네 | 비서실장 (C1)
+le bras droit | 르 브라 드루아 | 오른팔, 심복 (B1)
+le pourboire | 르 뿌르부아르 | 팁 (A2)
+le porte-documents | 르 뽀르뜨 도뀌망 | 서류 가방 (B1)
+la CADA | 라 까다 | 행정문서열람위원회 (C1)
+le document administratif | 르 도뀌망 아드미니스트라띠프 | 행정문서 (B2)
+communicable | 꼬뮈니까블 | 공개 가능한, 열람 가능한 (C1)
+la majorité / l'opposition | 라 마조리떼 / 로뽀지시옹 | 여당 / 야당 (B1)
+l'offre de couverture | 로프르 드 꾸베르뛰르 | 들러리 입찰 (C1)
+l'entente (f.) | 랑땅뜨 | 담합 (C1)
+à tour de rôle | 아 뚜르 드 롤 | 돌아가며, 차례로 (B2)
+le jargon | 르 자르공 | 전문 용어, 은어 (B2)
+inscrire → inscrit | 앵스크리르 → 앵스크리 | 기재하다, 등록하다 (B1)
+le parvis | 르 빠르비 | (건물 앞) 광장 (B2)
+
+## 문법·표현 정리
+**Ça ne peut pas être un hasard (B1):** "우연일 리가 없다". pouvoir의 부정 + être = 강한 추측. 비슷한 말: Ce n'est pas une coïncidence.
+**Quelqu'un leur a donné le prix (B1):** 간접목적 대명사 leur(그들에게)는 동사 앞, 조동사 앞에 옵니다. Quelqu'un leur a donné le prix. (lui = 그/그녀에게, leur = 그들에게)
+**le procès-verbal (B2):** "회의록, 조서". 줄여서 le PV라고 많이 씁니다. 경찰의 PV는 "벌금 딱지"라는 뜻도 됩니다: J'ai eu un PV.(딱지 뗐어)
+**Chacun son tour (B1):** "각자 차례대로". 원래 "줄 서서 차례를 지키자"는 일상 표현이지만, 여기서는 담합한 회사들이 돌아가며 낙찰받는 것을 비꼬는 말로 쓰입니다.
+**faire exprès de + 동사원형 (B2):** "일부러 ~하다". Une entreprise fait exprès de proposer un prix trop élevé.(회사가 일부러 너무 높은 가격을 써낸다) 부정: Je ne l'ai pas fait exprès.(일부러 그런 거 아니야)
+**comme si + imparfait (B2):** "마치 ~인 것처럼". Comme si les deux autres entreprises ne voulaient pas gagner.(다른 두 회사가 이길 생각이 없었던 것처럼)
+**saisir (une instance) (C1):** "(기관에) 제소하다, 사건을 맡기다". On peut saisir la CADA.(CADA에 제소할 수 있다) · saisir la justice(법원에 제소하다)
+**oser + 동사원형 (B1):** "감히 ~하다". C'est le mot que je n'ai pas osé prononcer.(그게 내가 차마 입에 올리지 못한 단어다)
+**demander que + 접속법 (B2):** "~해 달라고 요구하다". J'ai demandé que ma question soit inscrite au procès-verbal.(내 질문을 회의록에 남겨 달라고 했다)
+**ce qui + 동사 (B1):** 앞 문장 전체를 받는 관계대명사. Deux entreprises sérieuses. Ce qui rend leurs offres encore plus bizarres.(그래서 그 입찰가가 더 이상하다)
+**Ce n'est pas rien (B1):** "그건 대단한 일이다, 작은 일이 아니다". 이중 부정으로 긍정을 강조합니다.
+**le directeur de cabinet / la maire (B2):** 파리 시장이 여성이면 la maire de Paris. 직업명의 여성형: l'adjointe, la directrice, la rédactrice en chef. 명판의 « adjoint à la maire »는 "(여성) 시장의 부시장"이라는 뜻입니다.
+**retenir (B1):** "기억하다; 채택하다; 붙잡다". Je retiendrai ce nom.(그 이름 기억해 두겠다) · Votre candidature n'a pas été retenue.(귀하의 지원은 채택되지 않았다) 같은 동사의 두 가지 뜻이 한 화에 나옵니다.
+**n'hésitez pas (A2):** "주저하지 마세요 = 언제든지 하세요". Si vous avez des questions, n'hésitez pas. 공손하게 제안할 때 자주 씁니다.
