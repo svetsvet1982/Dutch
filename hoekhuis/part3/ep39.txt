@@ -5,7 +5,7 @@
 
 ## 대화
 (Dinsdagochtend, tien uur. Een spreekkamer in een bankkantoor aan de Rozengracht. Een glazen tafel, drie stoelen, een plant in de hoek. Bram draagt een colbert dat te strak zit. Yasmin heeft een dikke map bij zich. Mevrouw Bakker, accountmanager zakelijk, komt binnen met een laptop.)
-Mevrouw Bakker : Goedemorgen. Meneer De Wit? Ik ben Annemiek Bakker. Accountmanager zakelijke klanten.
+Mevrouw Bakker : Goedemorgen. Meneer De Wit? Ik ben Ingrid Bakker. Accountmanager zakelijke klanten.
 Bram : Goedemorgen, mevrouw. Bram de Wit. En dit is mevrouw Aksoy. Zij doet mijn boekhouding.
 Yasmin : Goedemorgen. Yasmin Aksoy.
 Mevrouw Bakker : Aangenaam. Gaat u zitten. Wilt u iets drinken? Koffie, thee, water?
@@ -157,7 +157,7 @@ Yasmin : Op allebei.
 
 ## 한글 해석
 (화요일 오전 10시. 로제흐라흐트의 은행 지점 상담실. 유리 테이블, 의자 세 개, 구석에 화분 하나. 브람은 몸에 너무 끼는 재킷을 입고 있다. 야스민은 두꺼운 파일을 들고 왔다. 기업 고객 담당 매니저 바커르 씨가 노트북을 들고 들어온다.)
-바커르 씨 : 안녕하세요. 더 비트 씨죠? 아너미크 바커르입니다. 기업 고객 담당 매니저예요.
+바커르 씨 : 안녕하세요. 더 비트 씨죠? 잉흐릿 바커르입니다. 기업 고객 담당 매니저예요.
 브람 : 안녕하십니까. 브람 더 비트입니다. 그리고 이쪽은 악소이 씨예요. 제 장부를 맡고 있습니다.
 야스민 : 안녕하세요. 야스민 악소이입니다.
 바커르 씨 : 반갑습니다. 앉으세요. 뭐 드시겠어요? 커피, 차, 물?
