@@ -31,7 +31,7 @@ def main(ep, an):
     if len(t) != len(e):
         errs.append(f'entries={len(e)} turns={len(t)}')
     for i, ((fr, ko), d) in enumerate(zip(t, e), 1):
-        if d['head'][:6] != f'## T{i:03d}':
+        if d['head'][:7] != f'## T{i:03d}':
             errs.append(f'T{i:03d}: bad header {d["head"][:20]}')
         if d.get('FR') != fr.strip():
             errs.append(f'T{i:03d}: FR mismatch')
