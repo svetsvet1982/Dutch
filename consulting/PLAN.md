@@ -322,10 +322,11 @@
 | 부 | 상태 | 파일 |
 |---|---|---|
 | 1부 Het Advies (14화) | **완료** (각 화 120턴, 단어 15개, 표현 13항목, 스킬 노트) | `consulting/part1/ep01.txt` … `ep14.txt` → `consulting/part1/part1-advies.docx` |
-| 2부 De Fabriek (14화) | 기획 완료 | `consulting/part2/` (예정) |
+| 2부 De Fabriek (14화) | **완료** | `consulting/part2/ep01.txt` … `ep14.txt` → `consulting/part2/part2-fabriek.docx` |
 | 3부 De Audit (14화) | 기획 완료 | `consulting/part3/` (예정) |
 | 4부 De Campagne (14화) | 기획 완료 | `consulting/part4/` (예정) |
 
 - 도구: `consulting/tools/check_ep.py`(120턴·해석·장면 표시·단어 15·표현 10~13·스킬 노트·핵심 표현 점검), `consulting/tools/build_docx.py`(저장소 루트에서 실행, `tools/template.docx` 사용)
 - 1부에서 생긴 설정(2부 이후 이어 쓸 것): Thijs의 부모 헹크(전 래싱공, 허리 부상)·헤르다(샤를루아), 아내는 교사(에인트호번으로 이사) / Femke의 어머니(레이우아르던), 할아버지(pake)는 농부 / Priya의 삼촌은 헤이그 식료품점 주인(계좌 해지 피해) / Keizer & Co 파트너 Maarten(이해충돌 갈등, "boos en trots"), Ingrid(멘토, 젊은 시절 해운사 제안을 거절한 후회) / Verhoef: 창업자 얀(67세, 4월 골프장 심장마비), 동생 헤릿(COO, "Ik ben een draaier, geen directeur"), 딸 마를루스(법률가, 감독이사), 감독이사회 의장 프란스 콜런, 최대 고객 구매 담당 라르스 더 빗(두 번째 공급업체 검토 중, 20~30%) / 진단 결과: 기계 가동 중단 31%, 재고 2년간 +60%, CFO 공석, 고객 주문 20% 감소 시 2분기 안에 은행 약정 위반, 채용 공고 38건 / 세 사람은 9월 1일 아침 7시 첫 출근, Priya는 데이터·IT 담당 / 기자 예룬 보스(«De Beurskoerier»)는 1부 3화에 첫 등장
+- 2부에서 생긴 설정(3부 이후 이어 쓸 것): Verhoef 후임 체제 — CEO 마를루스, COO 아르준 메타(인도 출신, 아내와 딸), CFO 헤스터르 스미츠(전 은행 특별관리부), 헤릿은 주 2일 지도 선배 / OR 의장 세브다 악소이, 위원 헹크 / 야간 조 바스(뭐든 출력), 요스(58세, 손자), 에디(전 트럭 기사), 견습생 노아·야스미나, 엔지니어 리커(보스니아계, 국방 위원회 위원), IT 뤼트, 인사 마리커, 영업 롭, 구매팀 산너(피싱 메일 클릭 후 보안 교육 담당) / 얀의 부인 리트, 고모 리스, 사촌 바르트 / 테이스의 아내 메럴(교사, 하를럼으로 이사 희망) / 고객 라르스 더 빗·모니크 헤르만스(펠트호번), MedVision 한스페터(베스트), 헹얼로 방산 기업 / 펠란트 캐피털 파트너 산더르 콕(1부 Fietsmand 투자자) / 협력업체 프레시지코팅스 자위트의 회계 부정·파산(감사인이 4년간 적정 의견) → HBR 창업의 계기 / 마르턴: "Bij mij een audit? Dat zou ik nog wel eens willen zien." → 3부 7~8화 복선 / Femke의 새 수첩 표지: "Wat is de vraag achter de vraag?"(직원들이 선물) / HBR 사무실: 하우트하번스의 비 새는 옛 창고(창문이 예쁨) / 회사 이름 순서 농담(Hoekstra Brouwer & Ramdin)
 
