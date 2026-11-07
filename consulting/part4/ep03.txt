@@ -1,0 +1,293 @@
+# 4부 3화. De peilingen (여론조사)
+수준: 고급 (C1) | 장소: 캠프 데이터실 → 사무총장실 → 알메러의 포커스 그룹 → 투표 도우미(Stemwijzer) 문항 회의 → 밤의 데이터실 → 당사 복도 | 시간: 3월 말, 선거 75일 전
+배경 현안: 여론조사 종합(Peilingwijzer)과 전략적 투표, 부동층 유권자, 투표 도우미 앱(Stemwijzer), 선거 데이터와 마이크로 타기팅 윤리
+핵심 표현: Peilingen zijn geen uitslagen · Waar zit onze groei? · We praten tegen de verkeerde mensen · Daar moeten we kleur bekennen · Wie op ons stemt, moet weten waarvoor
+💼 스킬: 유권자 세분화(누구에게, 무엇을, 어떻게)
+
+## 대화
+— Scène 1: De dataruimte van de campagne (캠프 데이터실) —
+Sara: Goedemorgen. Ik heb het nieuwste gemiddelde van de peilingen. Brug staat op vier zetels. Met een marge van twee naar boven of naar beneden.
+좋은 아침이에요. 최신 여론조사 평균이 나왔어요. Brug는 4석이에요. 위아래로 2석 오차가 있고요.
+Femke: Dus tussen twee en zes.
+그러니까 2석에서 6석 사이네요.
+Sara: Precies. Met twee zetels zijn we een voetnoot. Met zes kunnen we meedoen aan een coalitie.
+맞아요. 2석이면 각주예요. 6석이면 연정에 참여할 수 있고요.
+Thijs: Wie stemt er nu op ons?
+지금 누가 우리한테 투표해요?
+Sara: (laat een grafiek zien) Vooral hoogopgeleide mensen tussen de vijfenveertig en de zeventig, in middelgrote steden. Amersfoort, Utrecht, Haarlem. Mensen die vroeger op de grote middenpartijen stemden.
+(그래프를 보여 주며) 주로 45세에서 70세 사이 고학력자, 중간 규모 도시 사람들이에요. 아메르스포르트, 위트레흐트, 하를럼. 예전에 큰 중도 정당에 투표하던 사람들이요.
+Femke: En waar zijn we zwak?
+그럼 어디서 약해요?
+Sara: Bij jongeren onder de dertig. Op het platteland. En bij mensen met een mbo-opleiding of lager. Daar kennen ze ons nauwelijks.
+30세 미만 청년들. 시골 지역. 그리고 직업학교 이하 학력의 사람들. 거기선 우리를 거의 몰라요.
+Femke: Waar zit onze groei?
+우리가 성장할 수 있는 곳은 어디예요?
+Sara: Dat is de goede vraag. Ik heb gekeken naar zwevende kiezers. Mensen die nog niet weten op wie ze gaan stemmen, en die Brug wel overwegen. Dat zijn er volgens de peilingen ongeveer achthonderdduizend.
+좋은 질문이에요. 부동층 유권자를 봤어요. 아직 누구한테 투표할지 정하지 못했고 Brug도 고려하는 사람들이요. 여론조사로는 약 80만 명이에요.
+Thijs: Achthonderdduizend. Dat zijn ruim tien zetels.
+80만이라. 10석이 넘네요.
+Sara: In theorie. En nu het interessante: die zwevende kiezers lijken helemaal niet op onze huidige kiezers. Ze zijn jonger, wonen in groeikernen zoals Almere en Zoetermeer, en hebben vaak een praktische opleiding.
+이론적으로는요. 그리고 이제 재미있는 부분이에요. 그 부동층은 지금 우리 지지자들과 전혀 달라요. 더 젊고, 알메러나 주테르메이르 같은 신도시에 살고, 실무 교육을 받은 경우가 많아요.
+Femke: Wat vinden zij belangrijk?
+그 사람들은 뭘 중요하게 여겨요?
+Sara: Wonen, met afstand. Dan de boodschappen en de energierekening. En ze hebben een hekel aan politici die "moeilijke woorden" gebruiken.
+단연 주거요. 그다음 장보기 물가와 에너지 요금. 그리고 "어려운 단어"를 쓰는 정치인을 싫어해요.
+Femke: (kijkt naar Thijs) We praten tegen de verkeerde mensen.
+(테이스를 보며) 우리가 엉뚱한 사람들한테 말하고 있었네요.
+Thijs: Hoe bedoel je?
+무슨 뜻이에요?
+Femke: Al onze toespraken, onze advertenties, ons debat: allemaal gericht op mensen die al op ons stemmen. Hoogopgeleid, Amersfoort, Thorbecke-citaten. De groei zit bij mensen die we nooit spreken.
+우리 연설, 광고, 토론 전부가 이미 우리를 찍는 사람들을 향해 있었어요. 고학력, 아메르스포르트, 토르베커 인용. 성장할 곳은 우리가 한 번도 말을 걸지 않은 사람들한테 있어요.
+Sara: En er is nog iets. Een deel van onze kiezers zegt dat ze ons sympathiek vinden, maar toch op een grote partij gaan stemmen.
+그리고 하나 더 있어요. 우리 지지자 일부는 우리가 호감 간다고 하면서도 결국 큰 정당에 투표하겠대요.
+Femke: Waarom?
+왜요?
+Sara: Strategisch stemmen. Ze zijn bang dat de Partij voor Zekerheid de grootste wordt. Dus stemmen ze op de grootste partij die daartegen is.
+전략적 투표요. «Partij voor Zekerheid»가 제1당이 될까 봐 두려워해요. 그래서 그 반대편에서 가장 큰 정당에 투표하는 거죠.
+Thijs: Dat kost ons hoeveel?
+그걸로 몇 석을 잃어요?
+Sara: Misschien twee zetels. Op de dag zelf.
+아마 2석이요. 선거 당일에요.
+— Scène 2: Het kantoor van Kees (케이스의 사무실) —
+Kees: Strategisch stemmen. Dat is zo oud als de democratie. In 2012 hebben we daar twaalf zetels door verloren.
+전략적 투표라. 민주주의만큼 오래된 거죠. 2012년엔 그것 때문에 우리가 12석을 잃었어요.
+Femke: Wat deed u toen?
+그때 어떻게 했어요?
+Kees: Niets. Paniek. We gingen roepen dat een stem op ons geen verloren stem was. Hoe meer we het riepen, hoe meer mensen dachten dat het wel zo was.
+아무것도요. 공황 상태였죠. 우리한테 던지는 표는 사표가 아니라고 외쳤어요. 많이 외칠수록 사람들은 사표라고 더 생각하더군요.
+Femke: Wat zou u nu anders doen?
+지금이라면 뭘 다르게 하시겠어요?
+Kees: (denkt na) Niet praten over de angst van de kiezer. Praten over wat hij met zijn stem krijgt. Een partij die klein is maar in een coalitie iets concreets binnenhaalt.
+(생각하며) 유권자의 두려움에 대해 말하지 않을 거예요. 그 표로 무엇을 얻는지를 말하겠죠. 작지만 연정에 들어가 구체적인 걸 따내는 정당이라는 걸요.
+Femke: Zoals honderdtwintigduizend woningen.
+주택 12만 채 같은 거요.
+Kees: Zoals iets wat je kunt zien. Een kiezer stemt niet op een programma. Hij stemt op een beeld. Wat ziet hij als hij aan Brug denkt?
+눈에 보이는 거요. 유권자는 공약에 투표하지 않아요. 이미지에 투표하죠. Brug를 떠올릴 때 그 사람은 뭘 볼까요?
+Femke: Op dit moment? Een burgemeester uit Amersfoort.
+지금은요? 아메르스포르트 출신 시장이요.
+Kees: En dat is niet genoeg. Peilingen zijn geen uitslagen, Hoekstra. Maar ze laten wel zien wat mensen zien. En op dit moment zien ze ons niet.
+그걸로는 부족해요. 여론조사는 결과가 아니에요, 훅스트라. 하지만 사람들이 뭘 보고 있는지는 보여 주죠. 그리고 지금 사람들은 우리를 보지 못해요.
+Femke: Dan moeten we gaan waar ze zijn. Naar Almere.
+그럼 그 사람들이 있는 곳으로 가야겠네요. 알메러로요.
+Kees: (droog) Almere. Ik ben er in veertig jaar twee keer geweest. Eén keer omdat ik verkeerd reed.
+(건조하게) 알메러라. 40년 동안 두 번 가 봤어요. 한 번은 길을 잘못 들어서였고요.
+Femke: Dan wordt het de derde keer.
+그럼 이번이 세 번째가 되겠네요.
+— Scène 3: Een focusgroep in Almere (알메러의 포커스 그룹) —
+Gespreksleider: Welkom allemaal. Jullie zijn hier omdat jullie nog niet weten op wie je gaat stemmen. Er zijn geen foute antwoorden.
+모두 환영해요. 여러분은 아직 누구에게 투표할지 정하지 않아서 여기 오셨어요. 틀린 답은 없어요.
+Kevin: (29, monteur) Ik weet wel op wie ik niet ga stemmen. Op iedereen die in een pak op tv zit en zegt dat het allemaal ingewikkeld is.
+(케빈, 29세, 정비공) 누구한테 안 찍을지는 알아요. 양복 입고 TV에 나와서 다 복잡하다고 말하는 사람은 다 안 찍어요.
+Mariam: (34, doktersassistente) Ik woon met mijn man en twee kinderen in een tweekamerappartement. We staan twaalf jaar op de wachtlijst voor een huurhuis. Ik wil weten wie daar iets aan doet.
+(마리암, 34세, 진료 보조원) 남편이랑 아이 둘이랑 방 두 개짜리 아파트에 살아요. 임대주택 대기 명단에 12년째 올라 있어요. 누가 그걸 해결해 줄지 알고 싶어요.
+Gespreksleider: Ik laat jullie een filmpje zien van een partij. Zeg daarna wat je ervan vindt.
+어떤 정당 영상을 보여 드릴게요. 보시고 어떻게 생각하는지 말씀해 주세요.
+Ton: (58, buschauffeur) (na een filmpje waarin Anouk Thorbecke citeert over het "algemeen belang", lacht) Wie is die Thorbecke? Woont die ook in Almere?
+(톤, 58세, 버스 기사) (아나우크가 '공공의 이익'에 대해 토르베커를 인용하는 영상을 본 뒤, 웃으며) 토르베커가 누구예요? 그 사람도 알메러 살아요?
+Kevin: Ze lijkt me aardig. Maar ik snap niet wat ze wil.
+착해 보여요. 근데 뭘 원하는지 모르겠어요.
+Esther: (41, schoonmaakster) Ze praat als mijn huisarts. Vriendelijk, maar je weet nooit wat je nou moet doen.
+(에스터르, 41세, 청소 노동자) 우리 가정의처럼 말하네요. 친절한데 그래서 뭘 하라는 건지 모르겠어요.
+Femke: (achter de spiegel, zacht tegen Sara) Dat is pijnlijk. En waardevol.
+(일방 거울 뒤에서 사라에게 작게) 아프네요. 그리고 값진 얘기예요.
+Gespreksleider: Nu een ander filmpje. Anouk op een bouwplaats in Amersfoort: "In Amersfoort hebben we in vier jaar tweeduizend woningen gebouwd. Niet door te praten, maar door iedereen aan één tafel te zetten. Dat wil ik ook in Den Haag."
+이번엔 다른 영상이에요. (영상: 아메르스포르트 공사 현장에서 건설 노동자들 사이에 선 아나우크.) "아메르스포르트에서 우리는 4년 동안 주택 2천 채를 지었습니다. 말로가 아니라 모두를 한 테이블에 앉혀서요. 헤이그에서도 그렇게 하고 싶습니다."
+Mariam: Dat is beter. Tweeduizend woningen. Klopt dat?
+그게 낫네요. 주택 2천 채. 그거 사실이에요?
+Gespreksleider: Ik kan dat niet bevestigen. Maar u mag het opzoeken.
+제가 확인해 드릴 순 없어요. 하지만 찾아보셔도 돼요.
+Mariam: (pakt haar telefoon, zoekt) Het klopt. Het staat op de site van de gemeente Amersfoort.
+(휴대폰을 꺼내 찾아보며) 맞네요. 아메르스포르트시 홈페이지에 있어요.
+Ton: Dan is ze in ieder geval niet aan het liegen. Dat is al meer dan de rest.
+그럼 적어도 거짓말은 안 하네요. 그것만으로도 다른 사람들보다 낫죠.
+Kevin: Maar waarom zie ik haar nooit? Ik zie alleen die man van de Partij voor Zekerheid. Op TikTok. Elke dag.
+근데 왜 그 사람은 한 번도 못 봐요? 저는 «Partij voor Zekerheid» 그 남자만 봐요. 틱톡에서요. 매일요.
+Esther: Omdat zij niet schreeuwt.
+그 사람은 소리를 안 지르니까요.
+Kevin: Misschien moet ze dat wel.
+어쩌면 질러야 할지도 몰라요.
+Mariam: Nee. Als ze gaat schreeuwen, is ze net als de rest. Ze moet hier komen. Op de markt, bij de school van mijn kinderen. Niet schreeuwen. Gewoon komen.
+아니요. 소리를 지르면 다른 사람들이랑 똑같아져요. 여기 와야 해요. 시장에, 우리 애들 학교에. 소리 지르지 말고요. 그냥 와야 해요.
+Gespreksleider: Wat zou haar stem voor jullie het waard maken?
+그 사람에게 투표할 가치가 있으려면 뭐가 필요할까요?
+Ton: Dat ze me recht in de ogen kijkt en zegt wat ze niet kan. Iedereen zegt wat ze wel kunnen. Niemand zegt wat ze niet kunnen.
+나를 똑바로 보면서 자기가 못 하는 걸 말하는 거요. 다들 자기가 할 수 있는 걸 말하죠. 할 수 없는 걸 말하는 사람은 아무도 없어요.
+Femke: (achter de spiegel, schrijft) "Zeg wat je niet kunt."
+(거울 뒤에서 적으며) "할 수 없는 걸 말하라."
+Sara: (zacht) Dat is precies het tegenovergestelde van wat elke campagne doet.
+(작게) 모든 선거 캠프가 하는 것과 정반대네요.
+Femke: Daarom werkt het misschien.
+그래서 통할지도 몰라요.
+Mariam: (tot de spiegel, alsof ze weet dat er iemand achter zit) En als jullie daar staan te kijken: kom naar Almere. We bijten niet.
+(누가 뒤에 있는 걸 아는 듯 거울을 향해) 그리고 거기서 보고 있다면요, 알메러로 오세요. 우리 안 물어요.
+— Scène 4: Anouk bekijkt de opname (아나우크, 녹화 영상을 보다) —
+Anouk: (zet de video stil) "Ze praat als mijn huisarts." (stilte) Dat doet pijn.
+(영상을 멈추며) "우리 가정의처럼 말하네요." (침묵) 아프네요.
+Femke: Dat dacht ik al. Daarom wilde ik dat u het zelf zag. Niet van mij horen.
+그럴 줄 알았어요. 그래서 제가 전하는 게 아니라 직접 보시게 하고 싶었어요.
+Anouk: Twintig jaar heb ik geleerd om zorgvuldig te praten. Als burgemeester moet je elk woord wegen. Anders sta je de volgende dag in de krant.
+20년 동안 신중하게 말하는 법을 배웠어요. 시장은 단어 하나하나를 따져야 하거든요. 안 그러면 다음 날 신문에 나니까요.
+Femke: Dat is een kracht. Maar zorgvuldig is niet hetzelfde als ingewikkeld.
+그건 강점이에요. 하지만 신중한 것과 복잡한 건 달라요.
+Anouk: Wat bedoel je?
+무슨 뜻이에요?
+Femke: Kijk naar het tweede filmpje. Daar praat u niet over Thorbecke. U praat over tweeduizend woningen. Mariam zocht het op en zei: het klopt. Dat is zorgvuldig én simpel.
+두 번째 영상을 보세요. 거기선 토르베커 얘기를 안 하잖아요. 주택 2천 채 얘기를 하죠. 마리암이 찾아보고 "맞네요"라고 했어요. 그게 신중하면서도 단순한 거예요.
+Anouk: En wat Ton zei? Dat ik moet zeggen wat ik niet kan?
+그럼 톤이 한 말은요? 할 수 없는 걸 말해야 한다는 거요?
+Femke: Wat kunt u niet?
+뭘 할 수 없으세요?
+Anouk: (denkt na) Ik kan de huizenprijzen niet in vier jaar laten dalen. Ik kan niet beloven dat Mariam volgend jaar een huis heeft. Ik kan wel beloven dat er meer gebouwd wordt dan ooit.
+(생각하며) 4년 안에 집값을 내릴 순 없어요. 마리암이 내년에 집을 가질 거라고 약속할 수도 없어요. 하지만 그 어느 때보다 많이 짓겠다는 건 약속할 수 있어요.
+Femke: Zeg dat. Precies zo. Op de markt in Almere.
+그렇게 말하세요. 정확히 그렇게요. 알메러 시장에서요.
+Anouk: (glimlacht zwak) Zonder Thorbecke.
+(희미하게 웃으며) 토르베커 없이요.
+Femke: Thorbecke mag mee in uw tas. Voor de lange avonden.
+토르베커는 가방에 넣어 가셔도 돼요. 긴 밤을 위해서요.
+— Scène 5: De vragen van de Stemwijzer (투표 도우미 문항 회의) —
+Mark: De Stemwijzer heeft de stellingen gestuurd. Dertig stellingen. Bij elke stelling moeten we kiezen: eens, oneens of neutraal.
+투표 도우미에서 문항이 왔어요. 문항 30개요. 문항마다 동의, 반대, 중립 중에 골라야 해요.
+Anouk: Stelling zeven: "De maximumsnelheid op snelwegen moet overdag terug naar honderddertig." Neutraal.
+7번 문항. "고속도로 주간 최고 속도를 다시 130으로 올려야 한다." 중립.
+Femke: Waarom neutraal?
+왜 중립이에요?
+Anouk: Omdat we het daar intern niet over eens zijn. De helft van de partij wil het, de andere helft niet.
+당내에서 의견이 갈리니까요. 절반은 원하고 절반은 원하지 않아요.
+Femke: Hoeveel keer heeft u neutraal ingevuld?
+중립을 몇 번이나 골랐어요?
+Mark: (telt) Elf keer. Van de dertig.
+(세며) 열한 번이요. 30개 중에서요.
+Femke: Elf keer neutraal. Weet u wat een kiezer denkt als hij de Stemwijzer invult en bij Brug elf keer neutraal ziet?
+열한 번 중립이라. 유권자가 투표 도우미를 하다가 Brug에서 중립을 열한 번 보면 무슨 생각을 할까요?
+Kees: Dat we niet weten wat we willen.
+우리가 뭘 원하는지 모른다고요.
+Femke: Precies. Mariam in Almere zei het: ze moet zeggen wat ze wel en niet kan. Daar moeten we kleur bekennen.
+맞아요. 알메러의 마리암이 그렇게 말했어요. 할 수 있는 것과 할 수 없는 걸 말해야 한다고요. 여기서 우리 색깔을 밝혀야 해요.
+Anouk: Maar als ik bij de maximumsnelheid eens of oneens kies, verlies ik de helft van de partij.
+하지만 최고 속도에 동의나 반대를 고르면 당의 절반을 잃어요.
+Femke: Of u wint de kiezers die het belangrijk vinden. Wat vindt u zelf?
+아니면 그걸 중요하게 여기는 유권자를 얻겠죠. 직접은 어떻게 생각하세요?
+Anouk: (na een stilte) Oneens. Honderd overdag is beter voor de natuur, de veiligheid en de stikstof. Dat heb ik als burgemeester gezien.
+(잠시 침묵 후) 반대예요. 주간 100킬로가 자연에도, 안전에도, 질소 문제에도 더 나아요. 시장으로서 그걸 봤어요.
+Femke: Dan kiest u oneens. En u legt uit waarom. In één zin.
+그럼 반대를 고르세요. 그리고 이유를 설명하세요. 한 문장으로요.
+Kees: (bromt) En de helft van de partij?
+(투덜거리며) 그럼 당의 절반은요?
+Femke: Die moet weten wat de lijsttrekker vindt. Wie op ons stemt, moet weten waarvoor.
+대표가 어떻게 생각하는지 알아야죠. 우리한테 투표하는 사람은 무엇에 투표하는지 알아야 해요.
+Mark: Hoeveel keer neutraal mag er overblijven?
+그럼 중립은 몇 개까지 남겨도 돼요?
+Femke: Alleen waar we het echt niet weten, of waar het echt van de omstandigheden afhangt. En dan zeggen we dat ook eerlijk.
+정말 모르는 것, 아니면 정말 상황에 따라 달라지는 것만요. 그리고 그럴 때도 솔직하게 그렇게 말하고요.
+Anouk: (gaat de lijst door) Dan worden het er drie. Drie keer neutraal, met uitleg.
+(목록을 훑으며) 그럼 세 개가 되겠네요. 설명을 붙인 중립 세 개.
+— Scène 6: De dataruimte, laat in de avond (밤늦게, 데이터실) —
+Sara: Femke, mag ik iets voorleggen? Er is een bureau dat ons aanbiedt om advertenties heel precies te richten. Op mensen in Almere die zich zorgen maken over hun huur, en die op TikTok naar de Partij voor Zekerheid kijken.
+펨커, 하나 의논해도 돼요? 광고를 아주 정밀하게 겨냥해 주겠다는 업체가 있어요. 월세를 걱정하면서 틱톡에서 «Partij voor Zekerheid»를 보는 알메러 사람들을 겨냥해서요.
+Femke: Hoe weten ze dat?
+그걸 어떻게 알아요?
+Sara: Uit hun online gedrag. Wat ze liken, waar ze zijn, wat ze zoeken.
+온라인 행동에서요. 뭘 좋아요 누르는지, 어디 있는지, 뭘 검색하는지.
+Femke: Wat vind jij ervan?
+사라는 어떻게 생각해요?
+Sara: (aarzelt) Het werkt. Andere partijen doen het ook. Maar het voelt alsof ik in iemands keukenla kijk.
+(망설이며) 효과는 있어요. 다른 정당들도 해요. 하지만 남의 부엌 서랍을 들여다보는 기분이에요.
+Femke: Dat gevoel is belangrijk. Weet je wat ik bij een algoritme in Westerburg heb gezien? Een systeem dat mensen indeelde op basis van gegevens waarvan ze niet wisten dat ze werden gebruikt. Het was goed bedoeld. Het effect was dat mensen zich bekeken voelden.
+그 느낌이 중요해요. 베스테르뷔르흐 알고리즘에서 제가 뭘 봤는지 알아요? 사람들이 자기 데이터가 쓰이는지도 모르는 상태에서 그 데이터로 사람들을 분류하는 시스템이요. 의도는 좋았어요. 결과는 사람들이 감시당한다고 느낀 거였죠.
+Sara: Dus je zegt nee.
+그러니까 안 된다는 거네요.
+Femke: Ik zeg: we richten ons op plaatsen, niet op personen. Almere, Zoetermeer, Emmen. Iedereen daar mag onze advertentie zien. En we gaan er zelf naartoe, zoals Mariam vroeg.
+장소를 겨냥하자는 거예요. 사람이 아니라요. 알메러, 주테르메이르, 에먼. 거기 있는 누구나 우리 광고를 볼 수 있게요. 그리고 마리암이 말한 대로 우리가 직접 거기 가는 거예요.
+Sara: Dat is minder efficiënt.
+그건 덜 효율적이에요.
+Femke: Het is minder efficiënt. Maar we hoeven het nooit uit te leggen aan een journalist. En we hoeven het nooit uit te leggen aan onszelf.
+덜 효율적이죠. 하지만 기자한테 해명할 일은 절대 없을 거예요. 그리고 우리 자신한테 해명할 일도요.
+Sara: (glimlacht) Dat staat vast ook in je boekje.
+(미소 지으며) 그것도 분명 수첩에 있겠죠.
+Femke: Nu wel.
+이제 있어요.
+— Scène 7: De markt in Almere, zaterdagochtend (토요일 아침, 알메러 시장) —
+Ton: (bij een kaaskraam) Hé! U bent die vrouw van het filmpje. Van de tweeduizend woningen.
+(치즈 가판대 옆에서) 어이! 영상에 나온 그 사람이네. 주택 2천 채.
+Anouk: Dat klopt. Anouk Verbruggen. En u bent?
+맞아요. 아나우크 페르브뤼헌이에요. 그쪽은요?
+Ton: Ton. Buschauffeur. Ik heb gezegd dat u moet zeggen wat u niet kunt. Heeft u dat gehoord?
+톤이요. 버스 기사예요. 당신이 할 수 없는 걸 말해야 한다고 했었죠. 그 말 들었어요?
+Anouk: (kort stilte, dan eerlijk) Ik heb het gehoord. Dus hier is het: ik kan de huizenprijzen niet in vier jaar laten dalen. Dat kan niemand. Wie dat belooft, liegt.
+(잠깐 침묵, 그리고 솔직하게) 들었어요. 그러니까 이거예요. 4년 안에 집값을 내릴 순 없어요. 그건 아무도 못 해요. 그걸 약속하는 사람은 거짓말하는 거예요.
+Ton: (verrast) Dat zegt u gewoon?
+(놀라며) 그걸 그냥 말해요?
+Anouk: Wat ik wel kan: zorgen dat er meer gebouwd wordt dan ooit. Honderdtwintigduizend per jaar. En dat jonge gezinnen voorrang krijgen.
+제가 할 수 있는 건, 그 어느 때보다 많이 짓게 하는 거예요. 매년 12만 채요. 그리고 젊은 가족들에게 우선권을 주는 거요.
+Mariam: (komt aanlopen met haar kinderen) Ik zei toch dat ze moest komen.
+(아이들과 함께 다가오며) 내가 오라고 했잖아요.
+Anouk: U bent Mariam. U stond twaalf jaar op de wachtlijst, toch?
+마리암 씨죠. 대기 명단에 12년 있었다고 하셨죠?
+Mariam: (verbaasd) Hoe weet u dat?
+(놀라며) 그걸 어떻게 아세요?
+Anouk: U zei het in een gesprek. Iemand heeft het voor me opgeschreven. Ik wilde het niet vergeten.
+대화에서 그렇게 말씀하셨잖아요. 누가 저를 위해 적어 줬어요. 잊고 싶지 않았어요.
+Mariam: (tegen haar kinderen) Zie je? Ze luistert.
+(아이들에게) 봤지? 이 사람은 들어.
+Ton: (tegen de kaasboer) Geef haar een stuk oude kaas. Van mij. Een politicus die toegeeft wat ze niet kan, dat heb ik in dertig jaar niet gezien.
+(치즈 가게 주인에게) 이분한테 오래된 치즈 한 조각 줘. 내가 낼게. 자기가 못 하는 걸 인정하는 정치인은 30년 동안 못 봤어.
+Anouk: (lacht) Dat mag ik eigenlijk niet aannemen.
+(웃으며) 사실 그건 받으면 안 되는데요.
+Ton: Dan betaalt u maar. Twee euro vijftig.
+그럼 돈 내요. 2유로 50센트.
+— Scène 8: De gang van het partijbureau, twee weken later (2주 후, 당사 복도) —
+Sara: (komt aanrennen met haar laptop) De nieuwe peiling! Vijf zetels!
+(노트북을 들고 뛰어오며) 새 여론조사요! 5석이에요!
+Mark: Vijf! Dat is één erbij!
+5석이라니! 하나 늘었어요!
+Sara: En in Almere en Zoetermeer stijgen we het hardst. Sinds Anouk daar op de markt stond.
+그리고 알메러와 주테르메이르에서 제일 많이 올랐어요. 아나우크가 거기 시장에 선 뒤로요.
+Anouk: (die net binnenkomt) Ik heb de afgelopen twee weken op zes markten gestaan. Almere, Zoetermeer, Emmen. Overal zei iemand: "U bent gekomen."
+(막 들어오며) 지난 2주 동안 시장 여섯 곳에 섰어요. 알메러, 주테르메이르, 에먼. 어디서나 누군가 "오셨네요"라고 했어요.
+Kees: (droog, uit zijn kantoor) Peilingen zijn geen uitslagen.
+(사무실에서, 건조하게) 여론조사는 결과가 아니에요.
+Femke: Dat weet ik, Kees. Maar ze laten zien wat mensen zien.
+알아요, 케이스. 하지만 사람들이 뭘 보고 있는지는 보여 주죠.
+Kees: (komt in de deuropening staan, bijna een glimlach) Dat zei ik.
+(문간에 나와 서며, 거의 미소 지으며) 그건 내가 한 말이잖아요.
+Femke: Ik weet het. Ik citeer graag goede bronnen.
+알아요. 좋은 출처는 인용하는 걸 좋아해서요.
+
+## 주요 단어
+de peilingwijzer | 더 페일링베이저르 | 여론조사 종합 지표
+de marge | 더 마르저 | 오차 범위
+de zwevende kiezer | 더 즈베이번더 키저르 | 부동층 유권자
+strategisch stemmen | 스트라테이히스 스테먼 | 전략적 투표
+de verloren stem | 더 버를로런 스템 | 사표(死票)
+de groeikern | 더 흐루이케른 | 계획 신도시
+de focusgroep | 더 포퀴스흐룹 | 포커스 그룹
+de gespreksleider | 더 허스프렉스레이더르 | 진행자, 사회자
+de Stemwijzer | 더 스템베이저르 | 투표 도우미(정당 입장 비교 앱)
+de stelling | 더 스텔링 | 명제, 문항
+neutraal | 뇌트랄 | 중립의
+de maximumsnelheid | 더 막시뮘스넬헤이트 | 최고 속도
+kleur bekennen | 클뢰르 버케넌 | 입장을 분명히 하다
+de advertentie | 더 아트페르텐시 | 광고
+richten op | 리흐턴 옵 | ~을 겨냥하다
+
+## 표현·문법 정리
+**Peilingen zijn geen uitslagen:** "여론조사는 결과가 아니다." 네덜란드 정치인들의 단골 문장.
+**Waar zit onze groei?:** "우리 성장은 어디에 있나?" zitten = (어딘가에) 있다. Waar zit het probleem?(문제가 어디 있나)
+**We praten tegen de verkeerde mensen:** "엉뚱한 사람들에게 말하고 있다." praten tegen = ~에게 (일방적으로) 말하다, praten met = ~와 대화하다.
+**Daar moeten we kleur bekennen:** "여기서 입장을 분명히 해야 한다." 원래 카드놀이에서 '같은 무늬(색)를 내다'.
+**Wie op ons stemt, moet weten waarvoor:** "우리에게 투표하는 사람은 무엇을 위해서인지 알아야 한다." stemmen op + 사람/정당.
+**met afstand:** "단연, 압도적으로." Wonen, met afstand.
+**een hekel hebben aan:** "~을 몹시 싫어하다."
+**zo oud als de democratie:** "민주주의만큼 오래된." zo … als 비교.
+**hoe meer…, hoe meer…:** "~할수록 더 ~하다." Hoe meer we het riepen, hoe meer mensen dachten dat het wel zo was.
+**Wat zou haar stem voor jullie het waard maken?:** "그 사람에게 투표할 가치가 있으려면?" iets het waard maken = 그만한 가치가 있게 하다.
+**We bijten niet:** "우리 안 물어요." 친근한 초대.
+**intern het niet eens zijn:** "내부적으로 의견이 다르다."
+**afhangen van de omstandigheden:** "상황에 달려 있다."
+
+## 컨설팅 스킬 노트
+**유권자 세분화:** 지지층(고학력 45~70세, 중간 도시) vs 성장 가능층(부동층 80만: 젊고, 신도시, 실무 교육). 성장 전략은 지지층이 아니라 성장 가능층의 관심사(주거, 생활비)와 언어(쉬운 말)에서 출발합니다. 1부 11화 고객 세분화의 정치판 버전.
+**포커스 그룹에서 들은 것:** "할 수 없는 걸 말하라." "소리 지르지 말고 그냥 와라." 데이터는 '어디에'를, 사람은 '어떻게'를 알려 줍니다.
+**모호함의 비용:** 투표 도우미에서 중립 11개는 "뭘 원하는지 모른다"는 메시지가 됩니다. 입장을 정하면 일부를 잃지만, 정하지 않으면 모두에게 흐릿해집니다.
+**효율보다 정당성:** 개인 데이터 기반 마이크로 타기팅은 효율적이지만, 3부 12화 알고리즘과 같은 '감시당하는 느낌'을 만듭니다. 사람이 아니라 장소를 겨냥하고 직접 찾아가는 방식은 덜 효율적이어도 해명할 필요가 없습니다.
