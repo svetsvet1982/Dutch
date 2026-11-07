@@ -1,0 +1,291 @@
+# 2부 12화. CEO tegen CFO (CEO 대 CFO)
+수준: 중상급 (B2) | 장소: 사모펀드 사무실(에인트호번) → 펨커의 집(밤) → 공장 주차장 → 펨커의 사무실 → 프리야가 중재하는 회의실 | 시간: 그다음 해 2월
+배경 현안: 사모펀드의 중견 제조업 지분 인수 붐, 지역 개발 투자회사(BOM)와 국가 투자기관의 역할, 가족기업의 독립성
+핵심 표현: Je luistert niet naar me · Ik vertrouw jouw cijfers, niet je conclusie · We moeten dit oplossen, niet winnen · Laten we de feiten scheiden van de meningen · Hier ben ik het principieel mee oneens
+💼 스킬: 갈등 해결과 의사결정 규칙(사실·가정·가치 분리)
+
+## 대화
+— Scène 1: Het kantoor van Peelland Capital in Eindhoven (에인트호번, 펠란트 캐피털 사무실) —
+Sander: Femke Hoekstra! Dat is lang geleden. Fietsmand, toch? Die zes hubs.
+펨커 훅스트라! 오랜만이에요. Fietsmand 때였죠? 그 허브 여섯 곳.
+Femke: Sander Kok. Wat een verrassing. Hoe gaat het met Fietsmand?
+산더르 콕. 깜짝이네요. Fietsmand는 어떻게 됐어요?
+Sander: Winstgevend sinds vorig jaar, met negen hubs. Ruben vertelt het aan iedereen. (lacht) Ik ben nu partner hier.
+작년부터 흑자예요, 허브 아홉 곳으로요. 뤼번이 만나는 사람마다 그 얘기를 해요. (웃으며) 저는 지금 여기 파트너예요.
+Thijs: Dan komen we meteen ter zake. U heeft interesse in Verhoef.
+그럼 바로 본론으로 가죠. Verhoef에 관심이 있으시다고요.
+Sander: Veel interesse. Wij willen veertig miljoen investeren voor een belang van negenenveertig procent. Daarmee kunnen jullie de tweede fase van de nieuwe hal bouwen, de schulden halveren, en misschien een kleine concurrent overnemen.
+관심이 많죠. 지분 49%에 4천만 유로를 투자하고 싶어요. 그러면 새 공장동 2단계를 짓고, 부채를 절반으로 줄이고, 어쩌면 작은 경쟁사 하나를 인수할 수도 있어요.
+Thijs: (knikt) De schuld halveren. Dan zijn we van de bank af.
+(고개를 끄덕이며) 부채를 절반으로. 그럼 은행에서 벗어나는 거네요.
+Femke: Wat vraagt u ervoor terug?
+그 대가로 무엇을 요구하세요?
+Sander: Twee zetels in de raad van commissarissen. Instemmingsrecht bij grote investeringen. En de afspraak dat we na vijf tot zeven jaar ons belang kunnen verkopen.
+감독이사회 두 자리. 대규모 투자에 대한 동의권. 그리고 5~7년 뒤에 우리 지분을 매각할 수 있다는 약정이요.
+Femke: Aan wie?
+누구한테요?
+Sander: Aan de familie, aan een andere investeerder, of via een verkoop van het hele bedrijf. Dat zien we dan.
+가족에게, 다른 투자자에게, 아니면 회사 전체 매각을 통해서요. 그건 그때 보죠.
+Femke: Dus over zeven jaar staat Verhoef weer te koop.
+그러니까 7년 뒤에 Verhoef가 다시 매물로 나온다는 거네요.
+Sander: Zo zou ik het niet zeggen. Over zeven jaar is Verhoef twee keer zoveel waard. Iedereen wint.
+저라면 그렇게 말하지 않겠어요. 7년 뒤면 Verhoef의 가치는 두 배가 돼요. 모두가 이기는 거죠.
+Femke: Iedereen die aandelen heeft.
+주식을 가진 사람은 모두요.
+Sander: (glimlacht) U bent niet veranderd, Femke. Nog steeds de idealist.
+(미소 지으며) 하나도 안 변했네요, 펨커. 여전히 이상주의자예요.
+Thijs: Mogen we de voorwaarden schriftelijk ontvangen?
+조건을 서면으로 받아 볼 수 있을까요?
+Sander: Natuurlijk. Binnen een week.
+물론이죠. 일주일 안에요.
+Thijs: (in de lift) Veertig miljoen, Femke. Zonder dat de familie hoeft te verkopen. En met een Nederlandse partij.
+(엘리베이터 안에서) 4천만이에요, 펨커. 가족이 팔 필요도 없이. 그리고 네덜란드 회사고요.
+Femke: Een Nederlandse partij die over zeven jaar verkoopt aan wie het meeste betaalt.
+7년 뒤에 제일 많이 내는 사람한테 팔 네덜란드 회사죠.
+Thijs: Dat weet je niet.
+그건 모르는 거잖아요.
+Femke: Zo werken die fondsen, Thijs. Dat weet jij beter dan ik.
+그런 펀드들은 그렇게 돌아가요, 테이스. 저보다 더 잘 알잖아요.
+Thijs: (stil) We hebben het er vanavond over.
+(조용히) 오늘 저녁에 얘기해요.
+— Scène 2: Bij Femke thuis, 's avonds (밤, 펨커의 집) —
+Thijs: Ik heb de cijfers nog een keer doorgerekend. Met Peelland betalen we drie miljoen per jaar minder rente. We kunnen de tweede fase bouwen. We kunnen tegenvallers opvangen.
+숫자를 다시 계산해 봤어요. 펠란트와 하면 이자를 연간 300만 덜 내요. 2단계를 지을 수 있고요. 악재가 와도 버틸 수 있어요.
+Femke: En we geven de helft van het bedrijf weg.
+그리고 회사의 절반을 넘겨주고요.
+Thijs: Negenenveertig procent. De familie houdt de meerderheid.
+49%예요. 가족이 과반을 유지해요.
+Femke: Met instemmingsrecht bij grote investeringen. Dan beslist Peelland mee over alles wat belangrijk is.
+대규모 투자에 대한 동의권과 함께요. 그럼 펠란트가 중요한 모든 일에 같이 결정하는 거예요.
+Thijs: Dat is normaal. Iemand die veertig miljoen inlegt, wil iets te zeggen hebben.
+그건 정상이에요. 4천만을 넣는 사람은 발언권을 원하죠.
+Femke: Precies. En wat zeggen ze over vijf jaar, als er een Chinees fonds komt met honderdvijftig miljoen?
+그러니까요. 그럼 5년 뒤에 중국계 펀드가 1억 5천만을 들고 오면 그들은 뭐라고 할까요?
+Thijs: Dan zegt de familie nee. Zoals vorig jaar.
+그럼 가족이 거절하죠. 작년처럼요.
+Femke: Met een investeerder die zijn geld terug wil? Die gaat druk zetten, Thijs.
+돈을 돌려받고 싶어 하는 투자자를 옆에 두고요? 압박을 할 거예요, 테이스.
+Thijs: Je weet niet of dat gebeurt. Je speculeert.
+그렇게 될지 모르잖아요. 추측하는 거예요.
+Femke: En jij rekent alleen met wat je in Excel kunt zetten.
+그리고 테이스는 엑셀에 넣을 수 있는 것만 계산하고요.
+Thijs: (scherp) Dat is niet eerlijk. Ik ben degene die elke week met de bank praat. Ik ben degene die 's nachts wakker ligt als de buffer dun wordt.
+(날카롭게) 그건 공정하지 않아요. 매주 은행이랑 이야기하는 건 저예요. 여유 자금이 얇아지면 밤에 잠 못 자는 것도 저고요.
+Femke: En ik ben degene die tegen driehonderdveertig mensen moet zeggen dat hun bedrijf over zeven jaar misschien weer te koop staat.
+그리고 340명한테 7년 뒤에 회사가 다시 매물로 나올 수도 있다고 말해야 하는 건 저예요.
+Thijs: Je luistert niet naar me.
+제 말을 안 듣고 있어요.
+Femke: Ik luister wel. Ik ben het alleen niet met je eens.
+듣고 있어요. 동의하지 않을 뿐이에요.
+Thijs: Nee. Je hebt al besloten. Vanaf het moment dat Sander "verkopen" zei, was je klaar. Daarna heb je geen cijfer meer gehoord.
+아니요. 이미 결정했잖아요. 산더르가 "매각"이라고 말한 순간 끝났어요. 그 뒤로 숫자 하나도 안 들었죠.
+Femke: (stil) Dat is niet waar.
+(조용히) 그렇지 않아요.
+Thijs: Wat is de rente die we besparen?
+우리가 아끼는 이자가 얼마죠?
+Femke: (aarzelt) Twee miljoen?
+(머뭇거리며) 200만?
+Thijs: Drie. Ik heb het vanavond twee keer gezegd.
+300만이요. 오늘 저녁에 두 번 말했어요.
+Femke: (zwijgt)
+(말이 없다)
+Thijs: Ik vertrouw je oordeel over mensen, Femke. Altijd. Maar nu vraag ik jou om mijn oordeel over geld te vertrouwen. Dat doe je niet.
+사람에 대한 펨커의 판단은 늘 믿어요. 하지만 지금은 돈에 대한 제 판단을 믿어 달라는 거예요. 그런데 안 믿잖아요.
+Femke: Ik vertrouw jouw cijfers, niet je conclusie.
+테이스의 숫자는 믿어요. 결론을 안 믿는 거예요.
+Thijs: (staat op) Dan heb ik vanavond niets meer te zeggen.
+(일어서며) 그럼 오늘 밤엔 더 할 말이 없네요.
+Femke: Thijs, wacht.
+테이스, 잠깐만요.
+Thijs: Nee. Ik ben moe. Morgen. Of overmorgen.
+아니요. 피곤해요. 내일요. 아니면 모레요.
+— Scène 3: Bij Thijs thuis in Eindhoven, later die avond (그날 밤 늦게, 에인트호번 테이스의 집) —
+Merel: Je bent vroeg thuis. En je kijkt alsof iemand je fiets heeft gestolen.
+일찍 왔네. 누가 자전거라도 훔쳐 간 얼굴이야.
+Thijs: Ruzie met Femke.
+펨커랑 싸웠어.
+Merel: Jij? Met Femke? Jullie zijn als broer en zus.
+당신이? 펨커랑? 둘이 남매 같잖아.
+Thijs: Broers en zussen hebben ook ruzie. (gaat zitten) Ze luistert niet. Ze heeft al besloten dat het fonds slecht is.
+남매도 싸우잖아. (앉으며) 내 말을 안 들어. 그 펀드가 나쁘다고 이미 결론을 내렸어.
+Merel: En jij hebt al besloten dat het goed is?
+그럼 당신은 그 펀드가 좋다고 이미 결론을 내렸고?
+Thijs: (stil) Dat is niet hetzelfde.
+(조용히) 그건 같은 게 아니야.
+Merel: Waarom niet?
+왜 아닌데?
+Thijs: Omdat ik de cijfers heb.
+내가 숫자를 갖고 있으니까.
+Merel: En zij heeft wat?
+그럼 펨커는 뭘 갖고 있는데?
+Thijs: (na een lange stilte) De mensen. Het verhaal. Wat er over zeven jaar gebeurt.
+(긴 침묵 끝에) 사람들. 이야기. 7년 뒤에 무슨 일이 일어날지.
+Merel: Ik ben lerares, Thijs, geen CFO. Maar als twee van mijn leerlingen zo ruziën, vraag ik altijd: waar zijn jullie het wél over eens?
+나는 CFO가 아니라 교사야, 테이스. 하지만 우리 반 아이 둘이 그렇게 싸우면 난 늘 물어. 너희가 동의하는 건 뭐니?
+Thijs: Dat het bedrijf moet groeien. Dat het in Nederland moet blijven. Dat de familie de baas moet blijven.
+회사가 성장해야 한다는 것. 네덜란드에 남아야 한다는 것. 가족이 주인으로 남아야 한다는 것.
+Thijs: (kijkt op) Dat is eigenlijk heel veel.
+(고개를 들며) 그러고 보니 사실 아주 많네.
+Merel: En wat zei je toen je wegging?
+그럼 나올 때 뭐라고 했어?
+Thijs: Dat ik niets meer te zeggen had.
+더 할 말이 없다고.
+Merel: Dan heb je morgen iets te zeggen. Sorry, bijvoorbeeld.
+그럼 내일은 할 말이 있겠네. 미안하다는 말 같은 거.
+Thijs: Zij moet eerst sorry zeggen. Ze wist niet eens hoeveel rente we besparen.
+펨커가 먼저 사과해야 해. 우리가 이자를 얼마나 아끼는지도 몰랐다고.
+Merel: (lacht) Dat zeggen mijn leerlingen ook altijd. "Zij begon."
+(웃으며) 우리 반 애들도 늘 그렇게 말해. "쟤가 먼저 시작했어요."
+— Scène 4: De parkeerplaats van de fabriek, de volgende ochtend (다음 날 아침, 공장 주차장) —
+Gerrit: Goeiemorgen. (kijkt van Femke naar Thijs, die zonder te groeten naar binnen loopt) Oei. Wat is er gebeurd?
+좋은 아침. (인사도 없이 들어가는 테이스와 펨커를 번갈아 보며) 이런. 무슨 일 있었어요?
+Femke: Een meningsverschil.
+의견 차이요.
+Gerrit: Een meningsverschil waarbij je niet meer goedemorgen zegt. Dat is meer dan een meningsverschil.
+아침 인사도 안 하는 의견 차이라. 그건 의견 차이 이상이네요.
+Femke: Over Peelland. Thijs wil het geld. Ik wil onze onafhankelijkheid.
+펠란트 건이요. 테이스는 그 돈을 원하고, 저는 우리의 독립을 원해요.
+Gerrit: En wie heeft gelijk?
+그럼 누가 옳아요?
+Femke: (zucht) Dat zei ik ooit ook tegen Cor van Leeuwen. Iedereen heeft gelijk en niemand heeft gelijk.
+(한숨) 예전에 코르 판 레이우언한테 저도 그렇게 말했죠. 모두가 옳고 아무도 옳지 않다고.
+Gerrit: Jan en ik hebben ooit drie weken niet met elkaar gepraat. Over een machine van twee miljoen. Hij wilde hem, ik niet.
+얀이랑 저는 예전에 3주 동안 말을 안 했어요. 200만짜리 기계 때문에요. 형은 원했고 저는 아니었죠.
+Femke: Wie won?
+누가 이겼어요?
+Gerrit: Niemand. Onze moeder heeft ons aan de keukentafel gezet en gezegd dat we pas mochten opstaan als we het eens waren. Het duurde vier uur.
+아무도요. 어머니가 우리를 부엌 식탁에 앉히고 의견이 맞을 때까지 일어나지 말라고 했어요. 네 시간 걸렸어요.
+Femke: En?
+그래서요?
+Gerrit: We kochten een tweedehands machine voor de helft van de prijs. Die doet het nog steeds. (wijst) Daar.
+반값에 중고 기계를 샀어요. 아직도 잘 돌아가요. (가리키며) 저기요.
+Femke: (glimlacht flauw) Een keukentafel.
+(희미하게 웃으며) 부엌 식탁이라.
+Gerrit: En een moeder. Die hebben jullie niet. Dan moet je iemand anders zoeken.
+그리고 어머니. 두 사람한텐 그게 없죠. 그럼 다른 누군가를 찾아야 해요.
+— Scène 5: Het kantoor van Femke (펨커의 사무실) —
+Femke: (bladert door haar notitieboekje, leest hardop) "Wie partij kiest, verliest de tafel." Van Thijs zelf. Bij de familie Van Leeuwen.
+(수첩을 넘기며 소리 내어 읽는다) "편을 드는 사람은 식탁을 잃는다." 테이스가 직접 한 말이에요. 판 레이우언 가족 때요.
+Priya: (komt binnen) Je wilde me spreken?
+(들어오며) 저 찾았어요?
+Femke: Priya. Thijs en ik hebben ruzie. Over Peelland.
+프리야. 테이스랑 싸웠어요. 펠란트 건으로요.
+Priya: Dat heeft de hele fabriek gemerkt. Bas vroeg vanochtend of jullie gaan scheiden.
+공장 전체가 눈치챘어요. 바스가 오늘 아침에 두 분 이혼하냐고 물었어요.
+Femke: (lacht ondanks zichzelf) We zijn niet eens getrouwd.
+(자기도 모르게 웃으며) 결혼도 안 했는데요.
+Priya: Dat zei ik ook. Wat wil je van mij?
+저도 그렇게 말했어요. 저한테 뭘 원해요?
+Femke: Ik wil dat jij het gesprek leidt. Jij kiest geen partij. Jij kijkt naar de feiten.
+대화를 이끌어 줬으면 해요. 프리야는 편을 들지 않잖아요. 사실을 보니까요.
+Priya: Waarom ik?
+왜 저예요?
+Femke: Omdat ik bij de familie Van Leeuwen heb geleerd dat de begeleider vaak het probleem is. En deze keer ben ik zelf partij. Ik kan niet begeleiden.
+판 레이우언 가족 때 진행자가 문제일 때가 많다는 걸 배웠으니까요. 그리고 이번엔 제가 당사자예요. 진행을 할 수가 없어요.
+Priya: (denkt na) Goed. Maar dan met spelregels. Jouw spelregels, van de keukentafel.
+(생각하며) 좋아요. 하지만 규칙을 정해요. 펨커의 규칙이요. 부엌 식탁 때 그거요.
+Femke: Iedereen mag uitpraten. We praten over belangen, niet over wie gelijk heeft. En niemand gaat weg zonder afspraak.
+누구나 끝까지 말할 수 있다. 누가 옳은지가 아니라 이해관계를 이야기한다. 아무도 합의 없이 자리를 뜨지 않는다.
+Priya: En een vierde, van mij: we scheiden de feiten van de meningen. Op een whiteboard. Twee kolommen.
+그리고 넷째는 제 거예요. 사실과 의견을 분리한다. 화이트보드에 두 칸으로요.
+Femke: Wil je Thijs vragen of hij komt?
+테이스한테 올 건지 물어봐 줄래요?
+Priya: Nee. Dat moet je zelf doen.
+아니요. 그건 펨커가 직접 해야 해요.
+Femke: (na een stilte) Je hebt gelijk.
+(잠시 침묵 후) 맞아요.
+Femke: (typt een bericht) "Thijs. Ik heb niet goed geluisterd. Je had gelijk over de drie miljoen. Morgen om acht uur, met Priya erbij? Ik neem koffie mee."
+(메시지를 입력하며) "테이스. 제가 제대로 듣지 않았어요. 300만에 대해선 테이스 말이 맞았어요. 내일 아침 8시, 프리야도 같이 어때요? 커피는 제가 가져갈게요."
+Priya: (leest mee) Goed bericht.
+(같이 읽으며) 좋은 메시지네요.
+Femke: (telefoon trilt) "Acht uur. Zwart. Geen havermelk."
+(휴대폰이 진동한다) "8시. 블랙으로. 귀리우유 말고."
+Priya: (lacht) Dat komt goed.
+(웃으며) 잘될 거예요.
+— Scène 6: De vergaderruimte, acht uur 's ochtends (아침 8시, 회의실) —
+Priya: Welkom. Vier spelregels. Iedereen praat uit. We praten over belangen. Niemand gaat weg zonder afspraak. En we scheiden feiten van meningen. Laten we de feiten scheiden van de meningen. Thijs, begin jij met de feiten.
+환영해요. 규칙은 네 가지예요. 누구나 끝까지 말한다. 이해관계를 이야기한다. 합의 없이 자리를 뜨지 않는다. 그리고 사실과 의견을 분리한다. 사실과 의견을 나눠 보죠. 테이스, 사실부터 시작해 줘요.
+Thijs: Feit: met Peelland besparen we drie miljoen rente per jaar. Feit: de tweede fase van de hal kost vijfentwintig miljoen. Feit: zonder extra kapitaal kunnen we die niet bouwen.
+사실: 펠란트와 하면 연간 이자 300만을 아낀다. 사실: 공장동 2단계는 2,500만이 든다. 사실: 추가 자본 없이는 그걸 지을 수 없다.
+Priya: (schrijft) Femke?
+(적으며) 펨커는요?
+Femke: Feit: private-equityfondsen verkopen hun belang meestal na vijf tot zeven jaar. Dat zei Sander zelf. Feit: de familie wil het bedrijf in Nederland houden. Feit: de OR heeft vorig jaar gezegd dat ze geen verkoop aan een partij willen die het bedrijf uitkleedt.
+사실: 사모펀드는 보통 5~7년 뒤에 지분을 판다. 산더르가 직접 말했다. 사실: 가족은 회사를 네덜란드에 두고 싶어 한다. 사실: OR은 작년에 회사를 빈껍데기로 만들 상대에게 매각하는 걸 원하지 않는다고 했다.
+Priya: Goed. Nu de meningen. Thijs?
+좋아요. 이제 의견이요. 테이스?
+Thijs: Mening: zonder groei worden we over vijf jaar ingehaald door concurrenten. Mening: Peelland is een redelijke partij. Ik ken mensen die er goed mee hebben gewerkt.
+의견: 성장하지 않으면 5년 뒤 경쟁사에 따라잡힌다. 의견: 펠란트는 합리적인 상대다. 잘 일해 본 사람들을 안다.
+Femke: Mening: over zeven jaar komt er druk om aan de hoogste bieder te verkopen. Mening: wij verliezen een deel van onze vrijheid om eigen keuzes te maken. Zoals de keuze over defensie.
+의견: 7년 뒤엔 최고가 입찰자에게 팔라는 압박이 온다. 의견: 우리는 스스로 선택할 자유의 일부를 잃는다. 국방 관련 선택처럼.
+Priya: (kijkt naar het bord) Weten jullie wat ik zie? Jullie zijn het over de feiten eens. Over alle feiten. Jullie zijn het oneens over één ding: wat er over zeven jaar gebeurt.
+(화이트보드를 보며) 제가 뭘 보는지 알아요? 두 분은 사실엔 동의해요. 모든 사실에요. 의견이 갈리는 건 단 하나, 7년 뒤에 무슨 일이 일어나느냐예요.
+Thijs: (na een stilte) Dat klopt.
+(잠시 침묵 후) 맞네요.
+Priya: Dus de vraag is niet: Peelland ja of nee. De vraag is: hoe krijgen we vijfentwintig miljoen voor groei zonder dat het bedrijf over zeven jaar te koop staat?
+그러니까 질문은 펠란트를 하느냐 마느냐가 아니에요. 질문은, 7년 뒤 회사가 매물로 나오지 않으면서 성장에 필요한 2,500만을 어떻게 구하느냐예요.
+Femke: (kijkt naar Thijs) Dat is een betere vraag.
+(테이스를 보며) 그게 더 나은 질문이네요.
+Thijs: Er bestaan partijen die geen haast hebben met verkopen. De BOM bijvoorbeeld, de ontwikkelingsmaatschappij van de provincie. Die investeert in Brabantse bedrijven voor de lange termijn. En Invest-NL, op landelijk niveau.
+매각을 서두르지 않는 상대들도 있어요. 예를 들면 BOM, 주 정부의 개발투자회사요. 브라반트 기업에 장기적으로 투자해요. 그리고 국가 차원의 Invest-NL도 있고요.
+Femke: Waarom heb je dat niet eerder gezegd?
+왜 그걸 진작 말하지 않았어요?
+Thijs: Omdat ik dacht dat jij alleen tegen was. En omdat ik boos was. Dan denk je slechter.
+펨커가 무조건 반대만 한다고 생각했으니까요. 그리고 화가 나 있었어요. 화가 나면 생각을 더 못 하잖아요.
+Femke: Hier ben ik het principieel mee oneens: dat jij slechter denkt als je boos bent. Je rekent zelfs boos nog beter dan ik.
+그 말엔 원칙적으로 동의 못 해요. 화나면 생각을 못 한다는 거요. 화가 나도 테이스가 저보다 계산을 더 잘하잖아요.
+Thijs: (lacht kort) Dat is waar.
+(짧게 웃으며) 그건 맞아요.
+Priya: Spelregel drie: niemand gaat weg zonder afspraak. Wat is de afspraak?
+규칙 셋, 합의 없이 아무도 자리를 뜨지 않는다. 합의는 뭐예요?
+Thijs: Ik praat deze week met de BOM en met Invest-NL. Femke praat met Sander, eerlijk, over waarom we twijfelen. Over twee weken leggen we twee opties naast elkaar aan de raad en de familie.
+이번 주에 제가 BOM과 Invest-NL을 만나 볼게요. 펨커는 산더르한테 우리가 왜 망설이는지 솔직하게 이야기하고요. 2주 뒤에 감독이사회와 가족 앞에 두 선택지를 나란히 내놓죠.
+Femke: En als de familie toch voor Peelland kiest?
+그래도 가족이 펠란트를 선택하면요?
+Thijs: Dan steun jij dat besluit. En als ze voor de BOM kiezen, steun ik dat. We moeten dit oplossen, niet winnen.
+그럼 펨커가 그 결정을 지지하는 거예요. 그리고 BOM을 선택하면 제가 지지하고요. 우리는 이걸 이기려는 게 아니라 해결해야 해요.
+Femke: Afgesproken. (steekt haar hand uit)
+약속해요. (손을 내민다)
+Thijs: (schudt haar hand) Afgesproken. En Femke? De koffie was lauw.
+(악수하며) 약속해요. 그리고 펨커? 커피 미지근했어요.
+Femke: Dat schrijf ik in mijn boekje.
+그거 수첩에 적을게요.
+Priya: (veegt het bord schoon) Ik ga Bas vertellen dat er geen scheiding komt.
+(화이트보드를 지우며) 바스한테 이혼은 없다고 말하러 갈게요.
+
+## 주요 단어
+het meningsverschil | 헷 메이닝스버르스힐 | 의견 차이
+de private-equityfonds | 더 프라이빗에퀴티폰츠 | 사모펀드
+het belang (in een bedrijf) | 헷 벌랑 | 지분
+de zetel | 더 제이털 | (이사회) 자리, 의석
+het instemmingsrecht | 헷 인스테밍스레흐트 | 동의권
+het kapitaal | 헷 카피탈 | 자본
+de onafhankelijkheid | 더 온아프항컬럭헤이트 | 독립성
+uitkleden → heeft uitgekleed | 아위트클레이던 → 헤이프트 아위트허클레이트 | (회사를) 빈껍데기로 만들다(직역: 옷을 벗기다)
+inhalen → heeft ingehaald | 인할런 → 헤이프트 인허할트 | 따라잡다, 추월하다
+de hoogste bieder | 더 호흐스터 비더르 | 최고가 입찰자
+de ontwikkelingsmaatschappij | 더 온트비컬링스마츠하페이 | 개발투자회사
+speculeren → heeft gespeculeerd | 스페퀼레런 → 헤이프트 헤스페퀼레이르트 | 추측하다
+het oordeel | 헷 오르델 | 판단
+principieel | 프린시피엘 | 원칙적으로
+lauw | 라우 | 미지근한
+
+## 표현·문법 정리
+**Je luistert niet naar me:** "내 말을 안 듣고 있잖아." luisteren naar + 사람/것. 갈등이 개인적으로 번지는 신호.
+**Ik vertrouw jouw cijfers, niet je conclusie:** "네 숫자는 믿지만 결론은 아니다." 사실과 해석을 분리하는 문장.
+**We moeten dit oplossen, niet winnen:** "이건 이기는 게 아니라 해결해야 하는 거야." 동료 간 갈등의 목표를 재설정.
+**Laten we de feiten scheiden van de meningen:** "사실과 의견을 분리합시다." scheiden van = ~에서 분리하다.
+**Hier ben ik het principieel mee oneens:** "이건 원칙적으로 동의하지 않는다." principieel = 원칙상. 농담으로 쓰면 반어적 칭찬이 됩니다.
+**Dat zien we dan:** "그건 그때 보죠." 투자자가 쓰면 불확실성을 숨기는 말일 수 있습니다.
+**ergens van af zijn:** "~에서 벗어나다." Dan zijn we van de bank af.
+**iets te zeggen hebben:** "발언권이 있다." Wie geld inlegt, wil iets te zeggen hebben.
+**druk zetten:** "압박하다."
+**tegenvallers opvangen:** "악재를 흡수하다(버티다)."
+**Oei:** "이런, 어머." 걱정·놀람의 감탄사.
+**Dat komt goed:** "잘될 거예요." 안심시키는 말.
+**naast elkaar leggen:** "나란히 놓고 비교하다." twee opties naast elkaar leggen.
+
+## 컨설팅 스킬 노트
+**사실 · 가정 · 가치 분리:** 갈등의 대부분은 사실이 아니라 미래에 대한 가정(7년 뒤 무슨 일이 생길까)과 가치(독립성 vs 재무 안정)에서 생깁니다. 화이트보드에 사실과 의견을 나누면 실제 쟁점이 하나로 좁혀집니다.
+**질문을 다시 쓰기:** "Peelland ja of nee?" → "Hoe krijgen we 25 miljoen voor groei zonder dat het bedrijf over zeven jaar te koop staat?" 새 질문은 새 선택지(BOM, Invest-NL)를 엽니다.
+**당사자는 진행하지 않는다:** 자신이 갈등의 당사자일 때는 중립적인 제3자(Priya)가 진행해야 합니다. 1부 7화의 교훈("de begeleider is vaak het probleem")을 스스로에게 적용했습니다.
+**결정 규칙을 미리 합의:** "가족이 무엇을 선택하든 진 쪽이 그 결정을 지지한다." 결정 전에 승복의 규칙을 정하면 결정 후에도 팀이 깨지지 않습니다.
