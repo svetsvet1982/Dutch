@@ -59,7 +59,7 @@
 | **Jeroen Bos** | 경제지 «Het Financieele Dagblad»풍 가상 신문 «De Beurskoerier» 기자. 매 부에 한 번씩 진실을 캐러 옴 | 전 부 |
 | **Anouk Verbruggen** | 아메르스포르트 시장 출신, 신생 중도 정당 «Brug»의 대표(lijsttrekker), 47세 | 3부 14화, 4부 |
 | **Kees Dijkhuizen** | «Brug»의 노련한 당 사무총장, 66세. 옛 정치의 화신, Femke와 사사건건 충돌 | 4부 |
-| **Lotte & Jonas** | 전작 서점 시리즈 주인공. 프린센흐라흐트 서점 «De Tweede Pagina»가 Femke의 단골 서점으로 카메오 등장(1부 7화, 4부 14화) | 카메오 |
+| **Lotte & Jonas** | 전작 서점 시리즈 주인공. 프린센흐라흐트 서점 «De Tweede Pagina»가 Femke의 단골 서점으로 카메오 등장(1부 5화, 4부 14화) | 카메오 |
 
 ### 주요 장소
 
@@ -67,7 +67,7 @@
 - **헬몬트/에인트호번**: Verhoef Precisie 공장(가상), Brainport 산업단지, 에인트호번 스트레이프 지구
 - **암스테르담 하우트하번스**: 3부 사무실(옛 목재 창고)
 - **헤이그**: 국회(비넨호프는 장기 보수 공사로 임시 의사당 사용), Nieuwspoort 기자 클럽, Plein, 당사(가상)
-- 그 밖: 알스메이르 화훼 경매장, 베스틀란트 온실, 흐로닝언 지진 피해 마을, 헬더르선 발레이 축산농가, 알메러 신도시, 스히폴 공항
+- 그 밖: 담락 거리의 호텔, 알스메이르 화훼 경매장, 베스틀란트 온실, 로테르담 마스플락터 컨테이너 터미널, 헤이렌베인 자전거 공장, 흐로닝언 지진 피해 마을, 헬더르선 발레이 축산농가, 알메러 신도시, 스히폴 공항
 
 ---
 
@@ -117,18 +117,21 @@
 
 | 분야 | 현안 | 쓰이는 화 |
 |---|---|---|
-| 주택 | 주택난(woningnood), 임대료 규제(Wet betaalbare huur), 주택조합의 곰팡이·유지보수 문제, 노동이민자 숙소 | 1-8, 3-2·3, 4-4 |
-| 에너지·환경 | 전력망 혼잡(netcongestie), 온실 에너지 비용, 질소 위기(stikstofcrisis), PFAS 오염, 탈탄소 | 1-8, 2-5, 4-5 |
+| 주택 | 주택난(woningnood), 임대료 규제(Wet betaalbare huur), 주택조합의 곰팡이·유지보수 문제, 노동이민자 숙소 | 1-5·7, 3-2·3, 4-4 |
+| 에너지·환경 | 전력망 혼잡(netcongestie), 온실 에너지 비용, 질소 위기(stikstofcrisis), PFAS 오염, 탈탄소 | 1-7, 2-5, 4-5 |
 | 산업·안보 | 반도체 장비 대중 수출통제, 칩 공급망 위기, 외국인 투자 심사(Wet Vifo), 브레인포트 투자(Project Beethoven), 국방비 확대(NATO 목표)와 방위산업, 미국 관세 | 1-13, 2-3·4·9·10 |
 | 노동 | 노동력 부족(krapte), 기술인력·MBO, 해외 인재 30% 루링 축소, 노동자평의회(OR)와 노조, 단체협약(cao) | 2-6·11 |
-| 금융 | 은행 자금세탁방지(Wwft) 위반·벌금, 과잉 '디뱅킹', 은행 재무약정(convenant), WHOA 법정 외 구조조정 | 1-4~6·12, 2-7 |
-| 유통 | 도심 다크스토어 규제(flitsbezorging), 상가 공동화, 해외 초저가 웹숍 경쟁 | 1-1~3·10~12 |
+| 금융 | 은행 자금세탁방지(Wwft) 위반·벌금, 과잉 '디뱅킹', 은행 재무약정(convenant), WHOA 법정 외 구조조정 | 1-3·4·12, 2-7 |
+| 유통 | 도심 다크스토어 규제(flitsbezorging), 상가 공동화, 해외 초저가 웹숍 경쟁 | 1-1·2·11·12 |
 | 공공·복지 | 지자체 예산 절벽(ravijnjaar), 수당 스캔들(toeslagenaffaire)과 피해 회복, 복지 부정수급 알고리즘의 차별 논란, 청소년 돌봄 위기 | 3-6·12, 4-11 |
 | 의료 | 지방 병원 응급실·분만실 폐쇄 논란, 의료보험사(zorgverzekeraar)의 힘, 간호 인력 부족 | 3-4·5 |
 | 연금 | 새 연금제도 이행(Wtp, invaren) | 3-11 |
-| 지배구조 | 이원 이사회(RvB/RvC), 기업지배구조 코드, 회계감사 품질 논란, 내부고발자 보호(Huis voor Klokkenluiders), 사이버 공격과 NIS2 | 1-6, 2-8, 3-7·8 |
+| 지배구조 | 이원 이사회(RvB/RvC), 기업지배구조 코드, 회계감사 품질 논란, 내부고발자 보호(Huis voor Klokkenluiders), 사이버 공격과 NIS2 | 1-4, 2-8, 3-7·8 |
 | 정치 | 잦은 내각 붕괴·조기 총선, 신당 돌풍, CPB 공약 비용 계산, 여론조사(Peilingwijzer), Stemwijzer, 정찰자·정보관(verkenner/informateur), 연정 협정, 흐로닝언 가스 피해 보상, 이민·난민 수용, 딥페이크·허위정보, 비넨호프 보수 공사 | 4부 전체 |
-| 기타 | 스히폴 운항 축소, 화훼 산업의 케냐 경쟁, 축구 클럽 재정(KNVB 라이선스), 교육 재단 예산 | 1-7, 3-9·10, 4-12 |
+| 관광 | 과잉관광, 관광세 인상, 단기임대(에어비앤비) 규제 | 1-5 |
+| 항만·치안 | 로테르담 항을 통한 마약 밀수, 항만 내부자 부패, 자동화와 부두 노동자 파업 | 1-8·9 |
+| 제조 | 자전거 업계 재고 위기, 아시아산 덤핑, 전기자전거 경쟁 | 1-10 |
+| 기타 | 스히폴 운항 축소, 화훼 산업의 케냐 경쟁, 축구 클럽 재정(KNVB 라이선스), 교육 재단 예산 | 1-6, 3-9·10, 4-12 |
 
 > 원칙: 현안은 **인물의 결정을 어렵게 만드는 조건**으로만 쓰고, 특정 정당·실존 정치인을 편들지 않음. 4부의 정당과 정치인은 모두 가상이며, 대립하는 견해를 각각 설득력 있게 대사로 보여 줌.
 
@@ -138,7 +141,7 @@
 
 | 부 | 성장 단계 | 핵심 사건 | 마무리 장면 |
 |---|---|---|---|
-| 1부 | 분석가 → 설득하는 사람 | 4개 고객사 프로젝트, Maarten과의 윤리 갈등, 브레인포트 피치 | Verhoef가 Femke에게 CEO, Thijs에게 CFO를 제안 |
+| 1부 | 분석가 → 설득하는 사람 | 고객사 8곳(배달 스타트업·은행·호텔·화훼·항만·자전거·백화점·제조사), Maarten과의 윤리 갈등, 브레인포트 피치 | Verhoef가 Femke에게 CEO, Thijs에게 CFO를 제안 |
 | 2부 | 조언자 → 결정하는 사람 | 현금 위기·수출통제·랜섬웨어·외국 인수 제안·노사 대립, CEO와 CFO의 충돌 | 회생 완료, 회계 부정 사건을 계기로 독립 감사 회사 창업 결심 |
 | 3부 | 결정하는 사람 → 진실을 말하는 사람 | 주택조합·병원·지자체·핀테크 내부고발·연금·알고리즘 감사, 자기 회사가 공격당함 | 알고리즘 감사 보고서가 화제가 되어 정당 대표가 Femke를 영입 |
 | 4부 | 진실을 말하는 사람 → 사람을 움직이는 사람 | 공약 계산, 토론, 스캔들, 딥페이크, 개표, 연정 협상 | 장관 제안을 거절하고 암스테르담으로 돌아와 새 신입을 맞음(1부 1화의 거울) |
@@ -148,8 +151,8 @@
 - **"Wat is de vraag achter de vraag?"** (질문 뒤의 질문은 무엇인가) — Ingrid의 말버릇. 1부 1화 → 4부 14화에서 Femke가 신입에게 똑같이 말함
 - **Femke의 노트**: 1부 1화에 산 몰스킨에 "고객에게 하지 말아야 할 말"을 적음 → 2부 12화 Thijs와 싸울 때 펼쳐 봄 → 4부 14화 신입에게 선물
 - **Maarten Keizer**: 1부 13화 "Verhoef 일은 작게 시작해 크게 팔아라" → 3부 7·8화 핀테크 부정의 자문역 → 4부 7화 스캔들 제보자가 아님이 밝혀지며 화해
-- **기자 Jeroen Bos**: 1부 5화 은행 취재 → 2부 8화 랜섬웨어 → 3부 13화 공격 기사 → 4부 7화 진실 확인 전화
-- **Priya의 성장**: 1부 2화 회의에서 한마디도 못 함 → 1부 5화 첫 발견 → 2부 8화 위기 대응 지휘 → 3부 12화 단독 보고 → 4부 14화 회사 대표
+- **기자 Jeroen Bos**: 1부 3화 은행 취재 → 2부 8화 랜섬웨어 → 3부 13화 공격 기사 → 4부 7화 진실 확인 전화
+- **Priya의 성장**: 1부 1화 회의에서 한마디도 못 함 → 1부 3화 첫 발견 → 2부 8화 위기 대응 지휘 → 3부 12화 단독 보고 → 4부 14화 회사 대표
 
 ---
 
@@ -159,22 +162,37 @@
 
 ### 1부 · Het Advies (조언) — B1 → B2
 
-> 무대: Zuidas의 컨설팅사 «Keizer & Co». 고객사 4곳(유통 스타트업 → 은행 → 화훼 가족기업 → 백화점 체인) 프로젝트를 2~3화씩 다루고, 마지막 2화에서 2부로 넘어가는 다리를 놓음.
+> 무대: Zuidas의 컨설팅사 «Keizer & Co». **고객사 8곳**을 1~2화씩 다룸. 1~12화에서 7곳을 컨설팅하고, 13~14화의 8번째 고객사 Verhoef가 2부로 넘어가는 다리가 됨.
+
+#### 1부 소재 8가지
+
+| # | 고객사 | 업종·지역 | 화 | 핵심 과제 | 배경 현안 |
+|---|---|---|---|---|---|
+| 1 | **Fietsmand** | 장보기 배달 스타트업·암스테르담 노르트 | 1~2 | 적자 허브 정리, 생존 전략 | 다크스토어 규제, 배달원 고용 지위, 투자 한파 |
+| 2 | **Noordbank** | 중견 은행·Zuidas | 3~4 | 자금세탁방지 개선, 감독이사회 보고 | Wwft 위반·벌금, 디뱅킹, EU AI법, 지배구조 코드 |
+| 3 | **Grand Hotel Amstelzicht** | 호텔 그룹·암스테르담 중심가 | 5 | 성장 계획 vs 도시의 관광 억제 정책 | 과잉관광, 유럽 최고 수준의 관광세, 단기임대 규제 |
+| 4 | **Van Leeuwen Bloemen** | 화훼 무역 가족기업·알스메이르/베스틀란트 | 6~7 | 가업 승계, 온실 에너지 | 케냐·에티오피아 경쟁, 스히폴 축소, 전력망 혼잡, 노동이민자 숙소 |
+| 5 | **Maasvlakte Terminals** | 컨테이너 터미널·로테르담 항 | 8~9 | 자동화와 고용, 항만 보안 | 항만을 통한 마약 밀수와 내부자 부패, 부두 노동자 파업 |
+| 6 | **Rijwielfabriek Friso** | 자전거 제조사·프리슬란트 헤이렌베인 | 10 | 재고 과잉, 공장 존폐 | 자전거 업계 재고 위기, 아시아산 덤핑, 전기자전거 경쟁 |
+| 7 | **Van Dam Warenhuizen** | 백화점 체인·아메르스포르트 | 11~12 | 점포 폐쇄와 법정 외 회생 | 상가 공동화, 초저가 웹숍, OR 자문권, WHOA |
+| 8 | **Verhoef Precisie** | 반도체 장비 부품 제조사·헬몬트 | 13~14 | 창업자 사망 후 전략 진단 → CEO·CFO 제안 | 대중 수출통제, 브레인포트 투자 |
+
+#### 화별 기획
 
 | 화 | 제목 | 수준 | 장소·시점 | 줄거리 | 현안 | 핵심 표현 | 💼 스킬 |
 |---|---|---|---|---|---|---|---|
-| 1 | Eerste dag op de Zuidas (주이다스 첫날) | B1 | Keizer & Co 사무실·9월 월요일 | 은행 출신 Thijs와 신입 Priya 입사. Femke가 첫 프로젝트 리드를 맡음. 고객: 장보기 배달 스타트업 «Fietsmand», 투자금이 바닥나는 중 | 도심 다크스토어 규제 | Welkom bij het team · Wat is de vraag achter de vraag? · We hebben weinig tijd | 문제 정의(SCQ: 상황·문제·질문) |
-| 2 | De kick-off (킥오프) | B1 | Fietsmand 본사(암스테르담 노르트)·다음 주 | 창업자 인터뷰, 가설 트리 만들기. Priya는 회의에서 한마디도 못 함 | 플랫폼 배달원 고용 지위 논란 | Mag ik even doorvragen? · Klopt het dat…? · Wat bedoelt u precies met…? | 이슈 트리·MECE |
-| 3 | De stuurgroep (운영위원회) | B1~B2 | Fietsmand 회의실·4주 후 | "14개 허브 중 6개를 닫아야 한다." 창업자의 반발, Femke가 피라미드 원칙으로 설득 | 스타트업 투자 한파 | Ik begin met de conclusie · Dat is een harde boodschap · Wat als we niets doen? | 피라미드 원칙(결론 먼저) |
-| 4 | Witwassen en wantrouwen (돈세탁과 불신) | B1~B2 | 가상 은행 «Noordbank» 본사·10월 | 감독당국(DNB)의 경고장. 자금세탁방지 개선 프로젝트 시작. 현장 직원은 "또 컨설턴트냐" | 은행 Wwft 위반·벌금 | Er ligt een brief van de toezichthouder · Wie is eigenaar van dit probleem? · We moeten dit serieus nemen | 이해관계자 지도 |
-| 5 | Data liegt niet (데이터는 거짓말하지 않는다) | B2 | Keizer & Co 프로젝트룸·11월 | Priya가 의심거래 경보의 95%가 오탐이고, 소상공인·이민자 고객이 과하게 계좌를 해지당했다는 걸 발견. 처음으로 발표 | 디뱅킹 논란, EU AI법 | Uit de analyse blijkt dat… · Dat had ik niet verwacht · Laat me de cijfers zien | 데이터로 이야기하기(so what?) |
-| 6 | De raad van commissarissen (감독이사회) | B2 | Noordbank 이사회실·12월 | 이원 이사회 구조. CEO는 축소 보고를 원하고, Femke는 감독이사회에 있는 그대로 말함 | 기업지배구조 코드 | Met alle respect… · Ik zou u willen adviseren om… · Dat is niet onze rol | 어려운 메시지 전달 |
-| 7 | Bloemen en bloedbanden (꽃과 핏줄) | B1~B2 | 알스메이르 가족 화훼 무역회사·1월 | 은퇴하는 아버지, 회사를 두고 다투는 세 남매. 퇴근길에 Femke가 서점 «De Tweede Pagina»에 들름(카메오) | 화훼 산업의 케냐·에티오피아 경쟁, 스히폴 축소 | Het is een familiebedrijf, hè · Daar wil ik niet over praten · Iedereen heeft gelijk en niemand heeft gelijk | 이해관계 vs 입장 |
-| 8 | Het Westland onder spanning (긴장 속의 베스틀란트) | B2 | 베스틀란트 온실·2월 | 온실 에너지비 폭등, 전력망 연결 대기 3년, 폴란드 노동자 숙소 문제. Thijs가 현장 직원과 통함 | 전력망 혼잡, 노동이민자 숙소 | Wat kost dat per vierkante meter? · We zitten klem · Dat is geen luxe, dat is noodzaak | 비용 구조 분석 |
-| 9 | De familieraad (가족 회의) | B2 | 아버지의 집·2월 말 | 컨설턴트가 중재자가 되어 가족 헌장(familiestatuut)을 만듦. Femke의 실수와 사과 | 가업 승계 세제 혜택 논쟁 | Laten we elkaar laten uitpraten · Wat heeft u nodig om ja te zeggen? · Ik heb me vergist | 퍼실리테이션 |
-| 10 | Winkelstraat in nood (위기의 상점가) | B2 | 가상 백화점 체인 «Van Dam» 본사(아메르스포르트)·3월 | 47개 점포, 3년 연속 적자. 해외 초저가 웹숍과 상가 공동화 | 상가 공동화, 초저가 웹숍 | De cijfers liegen niet · Wat maakt ons nog uniek? · De klant is al vertrokken | 고객 세분화·가치 제안 |
-| 11 | De ondernemingsraad (노동자평의회) | B2 | Van Dam 회의실·4월 | 점포 18곳 폐쇄안. OR의 자문권, 노조 FNV와 만남. Thijs의 무뚝뚝함이 일을 망칠 뻔함 | 노동자평의회 자문권(WOR), 단체협약 | Wij nemen uw advies serieus · Wat is uw grootste zorg? · Zonder draagvlak lukt het niet | 지지 기반 만들기(draagvlak) |
-| 12 | Het WHOA-akkoord (법정 외 회생 합의) | B2 | 법원 앞 카페·5월 | 임대인·채권자와 협상, 법원 인가. Maarten이 "추가 프로젝트를 팔아라"고 압박, Femke 거절 | WHOA 구조조정 제도 | Iedereen moet iets inleveren · Dit is ons laatste bod · Daar teken ik niet voor | 협상(BATNA) |
+| 1 | Eerste dag op de Zuidas (주이다스 첫날) | B1 | Keizer & Co 사무실→Fietsmand 본사·9월 | 은행 출신 Thijs와 신입 Priya 입사. Femke가 첫 프로젝트 리드. 오후엔 바로 Fietsmand 킥오프, 창업자 인터뷰. Priya는 회의에서 한마디도 못 함 | 다크스토어 규제, 배달원 고용 지위 | Welkom bij het team · Wat is de vraag achter de vraag? · Mag ik even doorvragen? | 문제 정의(SCQ)·이슈 트리 |
+| 2 | De stuurgroep (운영위원회) | B1~B2 | Fietsmand 회의실·4주 후 | "14개 허브 중 6개를 닫아야 한다." 창업자의 반발, Femke가 피라미드 원칙으로 설득 | 스타트업 투자 한파 | Ik begin met de conclusie · Dat is een harde boodschap · Wat als we niets doen? | 피라미드 원칙(결론 먼저) |
+| 3 | Witwassen en wantrouwen (돈세탁과 불신) | B2 | Noordbank 본사→프로젝트룸·10월 | 감독당국(DNB)의 경고장. 현장 직원은 "또 컨설턴트냐". Priya가 의심거래 경보의 95%가 오탐이고 소상공인·이민자 고객이 과하게 계좌를 해지당했다는 걸 발견, 처음 발표. 기자 Jeroen Bos가 취재 전화 | Wwft 위반, 디뱅킹, EU AI법 | Er ligt een brief van de toezichthouder · Uit de analyse blijkt dat… · Wie is eigenaar van dit probleem? | 데이터로 이야기하기(so what?) |
+| 4 | De raad van commissarissen (감독이사회) | B2 | Noordbank 이사회실·11월 | 이원 이사회 구조. CEO는 축소 보고를 원하고, Femke는 감독이사회에 있는 그대로 말함 | 기업지배구조 코드 | Met alle respect… · Ik zou u willen adviseren om… · Dat is niet onze rol | 어려운 메시지 전달 |
+| 5 | Te veel toeristen? (관광객이 너무 많다?) | B1~B2 | 담락 거리의 호텔 로비→시청 앞→서점 «De Tweede Pagina»(카메오)·12월 | 호텔 그룹은 객실 300개 증설을 원하지만 시는 신규 호텔을 막고 관광세를 올림. Femke가 "더 많이"가 아니라 "더 오래, 더 좋게"로 전략을 바꾸자고 설득. 퇴근길에 단골 서점에 들름 | 과잉관광, 관광세 인상, 단기임대 규제 | De stad wil minder, niet meer · Wat voor gast willen we? · Kwaliteit boven kwantiteit | 외부 환경 분석(PESTEL) |
+| 6 | Bloemen en bloedbanden (꽃과 핏줄) | B1~B2 | 알스메이르 가족 화훼 무역회사·1월 | 은퇴하는 아버지, 회사를 두고 다투는 세 남매. 경매장 새벽 풍경 | 케냐·에티오피아 경쟁, 스히폴 축소 | Het is een familiebedrijf, hè · Daar wil ik niet over praten · Iedereen heeft gelijk en niemand heeft gelijk | 이해관계 vs 입장 |
+| 7 | De familieraad (가족 회의) | B2 | 베스틀란트 온실→아버지의 집·2월 | 온실 에너지비 폭등과 전력망 연결 대기 3년, 폴란드 노동자 숙소 문제를 숫자로 보여 준 뒤 가족 헌장(familiestatuut)을 만듦. Femke의 실수와 사과 | 전력망 혼잡, 노동이민자 숙소, 가업 승계 세제 | We zitten klem · Laten we elkaar laten uitpraten · Ik heb me vergist | 퍼실리테이션 |
+| 8 | Containers en cocaïne (컨테이너와 코카인) | B2 | 로테르담 마스플락터 터미널·3월 | Thijs의 고향 무대. 터미널 운영사가 자동화 전략을 의뢰했는데, 현장 인터뷰 중 직원이 마약 조직에 매수되는 문제가 드러남. Thijs의 옛 동네 친구가 부두 노동자 | 항만 마약 밀수와 내부자 부패 | Hier praat niemand graag over · Dit valt buiten onze opdracht, maar… · Veiligheid gaat voor alles | 범위 관리(scope) |
+| 9 | Staking op de kade (부두의 파업) | B2 | 노조 사무실→터미널 식당·3월 말 | 자동화 계획이 새어 나가 부두 노동자 파업. Thijs가 노조와 경영진 사이에서 재교육·고용 보장안을 협상. 처음으로 Thijs가 앞에 섬 | 부두 노동자 파업, 자동화와 일자리 | Geen woorden maar daden · Wat hebben jullie nodig? · Niemand valt tussen wal en schip | 노사 협상 |
+| 10 | Stilstaande fietsen (멈춰 선 자전거) | B2 | 헤이렌베인 자전거 공장·4월 | 창고에 팔리지 않은 자전거 4만 대. Femke의 고향 프리슬란트. 공장을 닫을 것인가, 고급 전기자전거와 수리·구독 서비스로 갈 것인가. 아버지 세대 노동자들과의 대화 | 자전거 업계 재고 위기, 아시아산 덤핑 | Dit is meer dan een fabriek · Waar verdienen we nog geld aan? · We moeten durven kiezen | 사업 포트폴리오(BCG 매트릭스) |
+| 11 | Winkelstraat in nood (위기의 상점가) | B2 | Van Dam 본사(아메르스포르트)→OR 회의실·5월 | 47개 점포, 3년 연속 적자. 18곳 폐쇄안에 OR의 자문권, 노조 FNV와 만남. Thijs의 무뚝뚝함이 일을 망칠 뻔함 | 상가 공동화, 초저가 웹숍, OR 자문권 | Wat maakt ons nog uniek? · Wij nemen uw advies serieus · Zonder draagvlak lukt het niet | 고객 세분화·지지 기반 만들기 |
+| 12 | Het WHOA-akkoord (법정 외 회생 합의) | B2 | 법원 앞 카페·5월 말 | 임대인·채권자와 협상, 법원 인가. Maarten이 "추가 프로젝트를 팔아라"고 압박, Femke 거절 | WHOA 구조조정 제도 | Iedereen moet iets inleveren · Dit is ons laatste bod · Daar teken ik niet voor | 협상(BATNA) |
 | 13 | Een pitch in Brainport (브레인포트 피치) | B2 | 헬몬트 «Verhoef Precisie» 공장·6월 | 창업자가 갑자기 별세한 반도체 장비 부품 회사. 딸 Marloes와 COO Gerrit 앞에서 피치. Gerrit: "양복쟁이들이 기계를 알아?" | 반도체 수출통제, 브레인포트 투자 | Wij kennen uw sector · Wat houdt u 's nachts wakker? · Geef ons zes weken | 피치·제안서 구조 |
 | 14 | Een onmogelijk aanbod (거절할 수 없는 제안) | B2 | Zuidas 옥상 테라스→암스테르담 남역·6월 말 | 6주 진단 후 감독이사회가 Femke에게 CEO, Thijs에게 CFO를 제안. Maarten은 반대, Ingrid는 "가라". Priya도 따라가겠다고 함 | (정리 화) | Ik moet erover nadenken · Dit is een kans van mijn leven · Wie gaat er mee? | 커리어 결정 매트릭스 + 1부 총정리 |
 
@@ -261,7 +279,7 @@
 8. **💼 컨설팅 스킬 노트** 1개: 그 화에서 쓰인 기법(예: MECE, 피라미드 원칙)을 네덜란드어 핵심 문장 3개와 함께 정리
 9. 부 마지막 화 끝에 **🎉 N부 완결** 요약 + 다음 부 예고
 
-### 120턴 기본 장면 설계 (예시: 1부 3화)
+### 120턴 기본 장면 설계 (예시: 1부 2화)
 
 | 장면 | 턴 | 내용 |
 |---|---|---|
