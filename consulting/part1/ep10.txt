@@ -1,0 +1,291 @@
+# 1부 10화. Stilstaande fietsen (멈춰 선 자전거)
+수준: 중상급 (B2) | 장소: 헤이렌베인 자전거 공장 창고 → 생산 라인 → 호텔 회의실 → 공장 회의실 → 레이우아르던 펨커의 어머니 집 | 시간: 4월
+배경 현안: 팬데믹 특수 이후 자전거 업계의 재고 과잉, 아시아산 저가 전기자전거(EU 반덤핑 관세), 화물자전거 리콜 이후 안전 문제, 회사 지원 자전거 리스
+핵심 표현: Dit is meer dan een fabriek · Waar verdienen we nog geld aan? · We moeten durven kiezen · Het is kiezen of delen · Dat zie ik anders
+💼 스킬: 사업 포트폴리오 분석(BCG 매트릭스)
+
+## 대화
+— Scène 1: Het magazijn van Rijwielfabriek Friso, Heerenveen (헤이렌베인, 프리소 자전거 공장 창고) —
+Sietske: Welkom in Heerenveen. Kijk maar goed om je heen. Dit is ons probleem.
+헤이렌베인에 오신 걸 환영해요. 주위를 잘 둘러보세요. 이게 우리 문제예요.
+Thijs: Wauw. Hoeveel fietsen staan hier?
+와. 여기 자전거가 몇 대나 있어요?
+Sietske: Veertigduizend. Rijen en rijen. Tot aan het plafond.
+4만 대요. 줄줄이요. 천장까지요.
+Priya: Waarom zijn ze niet verkocht?
+왜 안 팔렸어요?
+Sietske: Tijdens corona wilde iedereen een fiets. De winkels bestelden alles wat we konden maken. Wij hebben de productie verdubbeld. En toen was het ineens voorbij.
+코로나 때는 다들 자전거를 원했어요. 가게들은 우리가 만들 수 있는 건 다 주문했죠. 그래서 생산을 두 배로 늘렸어요. 그러다 갑자기 끝났어요.
+Femke: En de winkels zaten zelf ook vol.
+그리고 가게들도 재고가 꽉 찼고요.
+Sietske: Precies. Nu bestelt niemand meer. En ondertussen komen er goedkope e-bikes uit Azië binnen. Soms voor de helft van onze prijs.
+맞아요. 이제 아무도 주문을 안 해요. 그 와중에 아시아에서 싼 전기자전거가 들어와요. 가끔은 우리 가격의 절반이에요.
+Thijs: Er zijn toch Europese heffingen op die fietsen?
+그 자전거들엔 유럽 관세가 붙지 않아요?
+Sietske: Op sommige wel, maar fabrikanten omzeilen dat via andere landen. Het is een kat-en-muisspel.
+일부는 그렇지만, 제조사들은 다른 나라를 거쳐서 피해 가요. 고양이와 쥐 게임이에요.
+Femke: Wat kost het om deze voorraad hier te laten staan?
+이 재고를 여기 쌓아 두는 데 비용이 얼마나 들어요?
+Sietske: Rente op het geld dat erin zit, opslag, verzekering. En elk jaar worden ze minder waard. Een fiets van vorig jaar wil niemand.
+묶여 있는 돈의 이자, 보관, 보험이요. 그리고 매년 가치가 떨어져요. 작년 모델은 아무도 원하지 않아요.
+Priya: Net als een smartphone.
+스마트폰처럼요.
+Sietske: Bijna. Een fiets gaat langer mee, maar de mode verandert.
+거의요. 자전거는 더 오래 쓰지만 유행은 바뀌어요.
+Femke: Wat is uw vraag aan ons, mevrouw Dijkstra?
+저희에게 원하시는 건 뭐예요, 데이크스트라 씨?
+Sietske: Eerlijk? De aandeelhouders vragen of we de fabriek moeten sluiten en alles in Azië laten maken. Ik wil een second opinion. Van iemand die niet alleen naar Excel kijkt.
+솔직히요? 주주들은 공장을 닫고 전부 아시아에서 생산해야 하냐고 물어요. 저는 제2의 의견을 원해요. 엑셀만 보지 않는 사람에게서요.
+Thijs: (licht beledigd) Ik kijk graag naar Excel.
+(살짝 기분 상해서) 저는 엑셀 보는 거 좋아하는데요.
+Sietske: (lacht) Dat mag. Als er ook iemand naar de mensen kijkt.
+(웃으며) 그래도 돼요. 사람을 보는 사람도 있다면요.
+Femke: Hoeveel mensen werken hier?
+여기서 몇 명이 일해요?
+Sietske: Driehonderdtwintig. In een dorp als dit is dat enorm. Hun vaders en grootvaders werkten hier ook. Dit is meer dan een fabriek.
+320명이요. 이런 동네에선 엄청난 숫자예요. 그 사람들의 아버지와 할아버지도 여기서 일했어요. 여긴 공장 그 이상이에요.
+Femke: Dat begrijp ik. Ik kom uit Leeuwarden. Mijn eerste fiets was een Friso.
+이해해요. 저는 레이우아르던 출신이에요. 제 첫 자전거가 프리소였어요.
+Sietske: (verrast) Echt? Een Friese! Hoe giet it?
+(놀라며) 정말요? 프리슬란트 사람이네! 어떻게 지내요?
+Femke: (lacht) Goed, tank je. Maar mijn collega's spreken geen Fries, dus we doen het in het Nederlands.
+(웃으며) 잘 지내요, 고마워요. 근데 제 동료들은 프리슬란트어를 못 해서, 네덜란드어로 할게요.
+Priya: Wat zei ze?
+뭐라고 하신 거예요?
+Femke: "Hoe gaat het?" in het Fries. Het is een officiële taal hier.
+프리슬란트어로 "어떻게 지내요?"요. 여기선 공식 언어예요.
+Sietske: Laten we naar de fabriekshal gaan. Daar zie je wat we wel goed kunnen.
+공장 작업장으로 가 보죠. 거기서 우리가 잘하는 걸 보게 될 거예요.
+— Scène 2: De productiehal (생산 작업장) —
+Jelle: Goeie. Jelle Bergsma, productieleider. Pas op voor de heftruck.
+안녕하세요. 생산 책임자 옐러 베르흐스마예요. 지게차 조심하세요.
+Femke: Goeie, Jelle. Wat maken jullie hier vandaag?
+안녕하세요, 옐러. 오늘은 여기서 뭘 만들어요?
+Jelle: Vandaag e-bikes voor woon-werkverkeer. Morgen bakfietsen. Volgende week kinderfietsen.
+오늘은 출퇴근용 전기자전거요. 내일은 화물자전거. 다음 주엔 어린이 자전거요.
+Thijs: Dus alles door elkaar?
+그러니까 전부 섞여 있네요?
+Jelle: We maken achttien modellen in zes kleuren. Elke keer moeten we de lijn ombouwen. Dat kost uren.
+모델 18개를 색깔 6가지로 만들어요. 매번 라인을 바꿔야 해요. 몇 시간씩 걸려요.
+Femke: Welke fiets maakt u het liefst?
+어떤 자전거를 만드는 게 제일 좋아요?
+Jelle: (wijst) Deze. De Friso Elan. Een e-bike voor lange afstanden. Frame van eigen ontwerp, motor uit Duitsland, garantie van tien jaar. Die gaat een leven lang mee.
+(가리키며) 이거요. 프리소 엘란. 장거리용 전기자전거예요. 프레임은 자체 설계, 모터는 독일제, 10년 보증. 평생 가요.
+Thijs: Wat kost hij?
+얼마예요?
+Jelle: In de winkel bijna drieduizend euro. Duur, maar mensen die hem kopen, komen nooit terug met klachten.
+매장에서 거의 3천 유로요. 비싸지만, 그걸 산 사람들은 불만 때문에 다시 오는 일이 없어요.
+Priya: Verkoopt hij goed?
+잘 팔려요?
+Jelle: Beter dan de rest. Vooral via werkgevers. Mensen leasen hem via de fiets van de zaak.
+다른 것보다 잘 팔려요. 특히 회사를 통해서요. 회사 지원 자전거 제도로 리스하거든요.
+Thijs: Ah, de belastingregeling. Je werkgever betaalt de lease, en jij betaalt maar een klein bedrag bij.
+아, 세금 제도요. 회사가 리스비를 내고, 본인은 조금만 추가로 내는 거죠.
+Jelle: Precies. Steeds meer bedrijven doen mee. Mensen fietsen dertig kilometer naar hun werk.
+맞아요. 참여하는 회사가 점점 늘어요. 사람들이 직장까지 30킬로미터를 자전거로 가요.
+Femke: En de bakfietsen?
+그럼 화물자전거는요?
+Jelle: (zucht) Na die terugroepacties in de sector zijn ouders voorzichtig geworden. Onze bakfiets is veilig, maar het vertrouwen is weg. We verkopen er de helft van twee jaar geleden.
+(한숨) 업계에서 리콜 사태가 난 뒤로 부모들이 조심스러워졌어요. 우리 화물자전거는 안전하지만 신뢰가 없어졌어요. 2년 전의 절반밖에 안 팔려요.
+Femke: En de kinderfietsen?
+어린이 자전거는요?
+Jelle: Die verkopen supermarkten nu voor honderdvijftig euro. Wij kunnen dat niet voor die prijs maken. Niet in Nederland.
+슈퍼마켓에서 지금 150유로에 팔아요. 우리는 그 가격에 못 만들어요. 네덜란드에서는요.
+Oudere monteur: (roept vanaf de lijn) Jelle! Vertel ook over de reparaties!
+(라인에서 외치며) 옐러! 수리 얘기도 해!
+Jelle: Ja, ja. Dat is Durk. Hij werkt hier achtendertig jaar. Hij repareert in zijn vrije tijd fietsen voor het hele dorp.
+네, 네. 저 사람은 뒤르크예요. 여기서 38년 일했어요. 쉬는 시간엔 동네 사람들 자전거를 다 고쳐 줘요.
+Durk: Mensen gooien een fiets weg als de motor stuk is. Zonde! Ik maak hem in een uur weer heel.
+사람들은 모터가 고장 나면 자전거를 버려요. 아깝게! 나는 한 시간이면 다시 멀쩡하게 고치는데.
+Femke: Hoeveel mensen komen bij u met een kapotte e-bike?
+고장 난 전기자전거를 들고 오는 사람이 얼마나 돼요?
+Durk: Elke week wel tien. Ook met andere merken. De fietsenwinkels hebben geen tijd en geen monteurs.
+매주 열 명은 와요. 다른 브랜드도요. 자전거 가게들은 시간도 정비공도 없어요.
+Priya: (zacht tegen Femke) Dat is een markt.
+(펨커에게 작게) 그게 시장이네요.
+Femke: (zacht) Dat dacht ik ook.
+(작게) 저도 그렇게 생각했어요.
+— Scène 3: Een vergaderzaal in een hotel in Heerenveen (헤이렌베인의 호텔 회의실) —
+Thijs: Oké. Ik heb de cijfers per productgroep. Vier groepen: gewone stadsfietsen, e-bikes, bakfietsen en kinderfietsen.
+좋아요. 제품군별 숫자가 있어요. 네 그룹이에요. 일반 시티 자전거, 전기자전거, 화물자전거, 어린이 자전거.
+Femke: Zet ze in een matrix. Verticaal: hoe snel groeit de markt? Horizontaal: hoe sterk is Friso in die markt?
+매트릭스에 넣어 봐요. 세로는 시장이 얼마나 빨리 성장하는지, 가로는 그 시장에서 프리소가 얼마나 강한지.
+Priya: De BCG-matrix. Die hadden we op de universiteit.
+BCG 매트릭스네요. 대학에서 배웠어요.
+Femke: Precies. Vier vakken: sterren, melkkoeien, vraagtekens en honden.
+맞아요. 네 칸이에요. 스타, 캐시카우, 물음표, 그리고 도그.
+Thijs: E-bikes: de markt groeit nog steeds, en de Elan is sterk. Dat is een ster.
+전기자전거: 시장이 여전히 성장하고, 엘란은 강해요. 스타예요.
+Priya: Gewone stadsfietsen: de markt groeit niet meer, maar Friso heeft een groot marktaandeel en een bekende naam. Een melkkoe.
+일반 시티 자전거: 시장은 더 이상 크지 않지만 프리소의 점유율이 크고 이름이 알려져 있어요. 캐시카우.
+Femke: Maar wel een melkkoe die steeds minder melk geeft.
+하지만 우유가 점점 줄어드는 캐시카우죠.
+Thijs: Klopt. De marge daalt elk jaar.
+맞아요. 마진이 매년 떨어져요.
+Priya: Kinderfietsen: geen groei, en de supermarkten zijn goedkoper. Een hond.
+어린이 자전거: 성장도 없고, 슈퍼마켓이 더 싸요. 도그예요.
+Femke: En de bakfietsen?
+그럼 화물자전거는요?
+Thijs: Een vraagteken. Een markt die op lange termijn waarschijnlijk groeit, maar Friso is er nu zwak. En het vertrouwen moet terugkomen.
+물음표요. 장기적으로는 성장할 가능성이 큰 시장이지만, 지금 프리소는 약해요. 그리고 신뢰가 돌아와야 하고요.
+Femke: Waar verdienen we nog geld aan?
+그럼 어디서 아직 돈을 벌고 있어요?
+Thijs: Vooral aan de e-bikes. En nog een beetje aan de stadsfietsen. De kinderfietsen kosten geld, elke fiets die we maken.
+주로 전기자전거요. 그리고 시티 자전거에서 조금. 어린이 자전거는 만들 때마다 돈을 까먹어요.
+Priya: En er is een vijfde ding dat niet in de matrix staat. Reparatie en onderhoud. Durk repareert gratis tien fietsen per week.
+그리고 매트릭스에 없는 다섯 번째가 있어요. 수리와 정비요. 뒤르크가 매주 열 대를 공짜로 고쳐요.
+Thijs: Gratis is geen businessmodel.
+공짜는 비즈니스 모델이 아니에요.
+Priya: Nee, maar de vraag is er. Er zijn miljoenen e-bikes in Nederland. Ze gaan allemaal een keer kapot. En fietsenwinkels hebben een tekort aan monteurs.
+아니죠, 하지만 수요가 있어요. 네덜란드엔 전기자전거가 수백만 대 있어요. 전부 언젠가 고장 나요. 그리고 자전거 가게들은 정비공이 부족해요.
+Femke: Een abonnement. Je betaalt per maand, en Friso zorgt dat je fiets altijd rijdt. Ook bij een lease via je werkgever.
+구독이요. 매달 돈을 내면 프리소가 자전거가 항상 굴러가게 해 주는 거예요. 회사 리스로 쓰는 자전거도요.
+Thijs: (rekent) Als twintigduizend klanten twaalf euro per maand betalen… dat is bijna drie miljoen per jaar. Met weinig voorraad.
+(계산하며) 고객 2만 명이 매달 12유로를 내면… 1년에 거의 300만 유로네요. 재고도 거의 없이요.
+Femke: En wie kan dat werk doen?
+그럼 그 일은 누가 할 수 있어요?
+Priya: Mensen zoals Durk. Mensen die nu aan de lijn kinderfietsen maken.
+뒤르크 같은 사람들이요. 지금 라인에서 어린이 자전거를 만드는 사람들이요.
+Femke: Dus de conclusie is niet sluiten. Het is kiezen. Stoppen met wat geld kost, groeien met wat werkt.
+그러니까 결론은 폐쇄가 아니에요. 선택이에요. 돈을 까먹는 건 그만두고, 잘되는 걸 키우는 거죠.
+Thijs: En die veertigduizend fietsen?
+그럼 그 4만 대는요?
+Femke: Die moeten weg. Met korting, via werkgevers en via het buitenland. Elke maand dat ze blijven staan, kost geld.
+처분해야 해요. 할인해서, 회사를 통해서, 해외를 통해서요. 쌓여 있는 한 달 한 달이 다 돈이에요.
+— Scène 4: Het kantoor van Sietske, de volgende dag (다음 날, 시츠커의 사무실) —
+Sietske: Dus u zegt: niet sluiten.
+그러니까 닫지 말라는 거군요.
+Femke: We zeggen: niet alles blijven doen. We moeten durven kiezen. Dat is de echte keuze.
+모든 걸 계속하지 말라는 거예요. 과감하게 선택해야 해요. 그게 진짜 선택이에요.
+Sietske: Wat betekent dat concreet?
+구체적으로 무슨 뜻이에요?
+Femke: Drie dingen. Eén: stoppen met kinderfietsen, en het aantal modellen van achttien naar acht. Twee: alles inzetten op de Elan en de lease via werkgevers. Drie: een nieuwe tak voor onderhoud en reparatie, met abonnementen.
+세 가지예요. 첫째, 어린이 자전거를 중단하고 모델 수를 18개에서 8개로 줄이기. 둘째, 엘란과 회사 리스에 모든 걸 걸기. 셋째, 구독형 정비·수리 사업부를 새로 만들기.
+Jelle: Acht modellen? Dan hoeven we de lijn veel minder vaak om te bouwen.
+모델 8개요? 그럼 라인 교체를 훨씬 덜 해도 되겠네요.
+Thijs: Dat scheelt volgens onze berekening vijftien procent productietijd.
+저희 계산으론 생산 시간이 15% 줄어요.
+Financieel directeur: Maar de kinderfietsen zijn tien procent van onze omzet. Dat zie ik anders. Die kunnen we niet zomaar opgeven.
+하지만 어린이 자전거가 매출의 10%예요. 저는 다르게 봐요. 그걸 그냥 포기할 순 없어요.
+Thijs: Tien procent omzet, maar min vier procent marge. Elke kinderfiets kost u gemiddeld twaalf euro. U verliest geld om omzet te houden.
+매출 10%이지만 마진은 마이너스 4%예요. 어린이 자전거 한 대에 평균 12유로씩 손해 봐요. 매출을 지키려고 돈을 잃고 있는 거예요.
+Financieel directeur: (kijkt naar zijn papieren) Zo had ik het nog niet berekend.
+(서류를 보며) 그렇게는 계산해 보지 않았네요.
+Sietske: En de bakfietsen? Die zijn ook zwak.
+그럼 화물자전거는요? 그것도 약하잖아요.
+Femke: Die zijn een vraagteken. De markt komt terug, maar alleen voor merken die mensen vertrouwen. Friso heeft een goede naam. Wij stellen voor: één model, met een onafhankelijk veiligheidskeurmerk. Klein beginnen.
+그건 물음표예요. 시장은 돌아오겠지만, 사람들이 믿는 브랜드에만 돌아와요. 프리소는 평판이 좋아요. 저희 제안은 독립 안전 인증을 받은 모델 하나로 작게 시작하는 거예요.
+Sietske: En de aandeelhouders? Zij willen naar Azië.
+그럼 주주들은요? 그들은 아시아로 가고 싶어 해요.
+Thijs: Wij hebben dat scenario ook doorgerekend. Productie in Azië is goedkoper per fiets. Maar u verliest uw belangrijkste argument: Nederlands gemaakt, tien jaar garantie, snelle service. Daarvoor betalen werkgevers juist.
+그 시나리오도 계산해 봤어요. 아시아 생산은 대당 더 싸요. 하지만 가장 중요한 강점을 잃게 돼요. 네덜란드산, 10년 보증, 빠른 서비스. 회사들이 돈을 내는 이유가 바로 그거예요.
+Femke: Met goedkoop concurreren tegen Azië verliest u altijd. Met kwaliteit en service wint u.
+싼 걸로 아시아와 경쟁하면 항상 져요. 품질과 서비스로는 이겨요.
+Sietske: Het is kiezen of delen, dus.
+그러니까 선택의 여지가 없네요.
+Femke: Zo zou ik het niet zeggen. U hebt een keuze. Maar niet kiezen is ook een keuze, en dat is de duurste.
+그렇게 말하진 않겠어요. 선택지는 있어요. 하지만 선택하지 않는 것도 선택이고, 그게 가장 비싼 선택이에요.
+Jelle: En de mensen van de kinderfietsenlijn?
+그럼 어린이 자전거 라인 사람들은요?
+Priya: Volgens onze planning heeft de nieuwe reparatietak binnen twee jaar zo'n veertig monteurs nodig. Dat zijn ongeveer evenveel mensen als er nu aan die lijn werken.
+저희 계획으로는 새 수리 사업부에 2년 안에 정비공이 40명 정도 필요해요. 지금 그 라인에서 일하는 사람 수와 비슷해요.
+Jelle: En Durk kan ze opleiden.
+그리고 뒤르크가 그 사람들을 가르칠 수 있겠네요.
+Sietske: (glimlacht voor het eerst) Durk als opleider. Dat zou hij prachtig vinden.
+(처음으로 미소 지으며) 뒤르크가 강사라니. 그 사람 정말 좋아하겠네요.
+Sietske: Goed. Ik neem dit mee naar de aandeelhouders. Kunnen jullie erbij zijn?
+좋아요. 이걸 주주들에게 가져갈게요. 같이 가 주실 수 있어요?
+Femke: Graag. Met de cijfers van Thijs en het verhaal van Durk.
+기꺼이요. 테이스의 숫자와 뒤르크의 이야기를 들고요.
+— Scène 5: De aandeelhoudersvergadering, een week later (일주일 후, 주주 회의) —
+Aandeelhouder: Mevrouw Hoekstra, uw voorstel is sympathiek. Maar in Azië maken ze dezelfde fiets voor veertig procent minder.
+훅스트라 씨, 제안은 호감이 가요. 하지만 아시아에서는 같은 자전거를 40% 더 싸게 만들어요.
+Femke: Niet dezelfde fiets, meneer Van der Velde. Wel een fiets die er hetzelfde uitziet.
+같은 자전거가 아니에요, 판 데르 펠더 씨. 똑같아 보이는 자전거죠.
+Aandeelhouder: Wat is het verschil voor de klant?
+고객 입장에선 뭐가 달라요?
+Thijs: Tien jaar garantie, reparatie binnen achtenveertig uur en onderdelen die altijd leverbaar zijn. Werkgevers die fietsen leasen, eisen precies dat. Een fiets die stilstaat, is een werknemer die te laat komt.
+10년 보증, 48시간 안에 수리, 항상 구할 수 있는 부품. 자전거를 리스하는 회사들이 바로 그걸 요구해요. 멈춘 자전거는 지각하는 직원이니까요.
+Aandeelhouder: En dat reparatieabonnement? Is daar bewijs voor?
+그 수리 구독은요? 근거가 있어요?
+Priya: We hebben vorige week tweehonderd leaserijders gebeld. Zeventig procent zou het afsluiten, bij een prijs tussen de tien en vijftien euro per maand.
+지난주에 리스 이용자 200명에게 전화했어요. 월 10~15유로라면 70%가 가입하겠다고 했어요.
+Aandeelhouder: Tweehonderd mensen. Dat is een kleine steekproef.
+200명이라. 표본이 작네요.
+Priya: Klopt. Daarom stellen we een proef voor in Friesland, met drie werkgevers. Na zes maanden weet u het zeker.
+맞아요. 그래서 프리슬란트에서 회사 세 곳과 시범 사업을 제안해요. 6개월 뒤면 확실히 아실 거예요.
+Sietske: En ik wil iemand het woord geven. Durk?
+그리고 한 분께 발언권을 드리고 싶어요. 뒤르크?
+Durk: (staat op, onwennig) Ik ben geen spreker. Maar ik repareer al dertig jaar fietsen. Mensen willen niet elke drie jaar een nieuwe fiets. Ze willen een fiets die het doet.
+(어색하게 일어서며) 저는 말하는 사람이 아니에요. 하지만 30년째 자전거를 고쳐 왔어요. 사람들은 3년마다 새 자전거를 원하지 않아요. 잘 굴러가는 자전거를 원해요.
+Aandeelhouder: (glimlacht) Dat is een duidelijke marktanalyse.
+(미소 지으며) 명확한 시장 분석이네요.
+Durk: En als jullie de fabriek naar Azië brengen, wie repareert ze dan? Iemand in Shanghai?
+그리고 공장을 아시아로 옮기면, 그건 누가 고쳐요? 상하이에 있는 누가요?
+Aandeelhouder: (na een stilte) Goed. Zes maanden voor de proef. En de kinderfietsen stoppen we per direct.
+(잠시 침묵 후) 좋아요. 시범 사업에 6개월. 그리고 어린이 자전거는 즉시 중단하죠.
+Sietske: Dank u. Dat is genoeg om te beginnen.
+감사합니다. 시작하기엔 충분해요.
+Thijs: (zacht tegen Durk) U was beter dan onze slides.
+(뒤르크에게 작게) 저희 슬라이드보다 나으셨어요.
+— Scène 6: Bij de moeder van Femke in Leeuwarden, 's avonds (저녁, 레이우아르던 펨커의 어머니 집) —
+Moeder: Femke! Wat een verrassing. Waarom heb je niet gebeld?
+펨커! 깜짝이야. 왜 전화도 안 했어?
+Femke: Ik was in Heerenveen voor mijn werk. Twintig minuten met de trein. Dan kom ik toch even langs, mem?
+일 때문에 헤이렌베인에 있었어요. 기차로 20분이잖아요. 그럼 잠깐 들러야죠, 엄마?
+Moeder: Natuurlijk. Thee? Wat deed je in Heerenveen?
+그럼. 차 마실래? 헤이렌베인엔 무슨 일로?
+Femke: Bij Friso. Ze hebben veertigduizend fietsen die niemand wil. En driehonderd mensen die bang zijn voor hun baan.
+프리소에요. 아무도 원하지 않는 자전거가 4만 대예요. 그리고 일자리를 걱정하는 사람이 300명이고요.
+Moeder: Friso! Je eerste fiets. Die rode, weet je nog? Je viel er de eerste dag af in de sloot.
+프리소! 네 첫 자전거. 그 빨간 거, 기억나? 첫날 도랑에 빠졌잖아.
+Femke: (lacht) Ik weet het nog. Pake trok me eruit.
+(웃으며) 기억나요. 할아버지가 꺼내 줬죠.
+Moeder: En? Kun je ze helpen?
+그래서? 그 사람들 도울 수 있어?
+Femke: Ik denk het wel. Ze moeten minder dingen doen, maar die beter. Dat is moeilijk voor mensen die alles willen houden.
+그럴 것 같아요. 더 적은 걸 더 잘해야 해요. 모든 걸 지키고 싶은 사람들한텐 어려운 일이죠.
+Moeder: Dat zei je pake ook altijd over de boerderij. Liever twintig goede koeien dan veertig slechte.
+네 할아버지도 농장 얘기할 때 늘 그랬어. 나쁜 소 마흔 마리보다 좋은 소 스무 마리가 낫다고.
+Femke: (pakt haar notitieboekje) Mem, dat ga ik opschrijven.
+(수첩을 꺼내며) 엄마, 그거 적을게요.
+Moeder: Schrijf maar op. En daarna eet je mee. Je bent te mager, met al dat werk in Amsterdam.
+적어. 그리고 저녁 먹고 가. 암스테르담에서 일만 해서 너무 말랐어.
+
+## 주요 단어
+de voorraad | 더 포르라트 | 재고
+het magazijn | 헷 마하제인 | 창고
+de opslag | 더 옵슬라흐 | 보관
+de aandeelhouder | 더 안델하우더르 | 주주
+de productgroep | 더 프로뒥트흐룹 | 제품군
+de marge | 더 마르저 | 마진, 이윤율
+het marktaandeel | 헷 마르크트안델 | 시장 점유율
+de melkkoe | 더 멜크쿠 | 캐시카우(직역: 젖소)
+de bakfiets | 더 박피츠 | 화물자전거(짐칸 자전거)
+de terugroepactie | 더 터뤼흐룹악시 | 리콜
+het onderhoud | 헷 온더르하우트 | 정비, 유지보수
+de monteur | 더 몬퇴르 | 정비공
+het abonnement | 헷 아보너먼트 | 구독
+het keurmerk | 헷 쾨르메르크 | 인증 마크
+de heffing | 더 헤핑 | 부과금, 관세
+
+## 표현·문법 정리
+**Dit is meer dan een fabriek:** "여긴 공장 그 이상이에요." meer dan + 명사로 상징적 의미를 강조합니다.
+**Waar verdienen we nog geld aan?:** "아직 어디서 돈을 벌고 있죠?" geld verdienen aan iets + waar 분리형. nog = 아직, 여전히.
+**We moeten durven kiezen:** "과감하게 선택해야 해요." durven + 부정사(감히 ~하다). 모달처럼 쓰여 te 없이 옵니다.
+**Het is kiezen of delen:** "선택의 여지가 없다, 둘 중 하나를 골라야만 한다." 원래 '고르거나 나누거나'라는 놀이 표현에서 나왔습니다.
+**Dat zie ik anders:** "저는 다르게 봐요." 정중하지만 분명한 반대 표현.
+**Niet kiezen is ook een keuze:** "선택하지 않는 것도 선택이다." 결정을 미루는 비용을 지적하는 말.
+**Liever A dan B:** "B보다 A가 낫다." Liever twintig goede koeien dan veertig slechte.
+**alles inzetten op:** "~에 모든 것을 걸다." Alles inzetten op de Elan.
+**Dat scheelt (vijftien procent):** "(15%) 차이가 난다, 줄어든다." schelen = 차이 나다.
+**een leven lang meegaan:** "평생 가다(오래 쓰다)." Die fiets gaat een leven lang mee.
+**omzeilen:** "우회하다, 피해 가다." Fabrikanten omzeilen de heffingen.
+**프리슬란트어 인사:** Goeie(안녕하세요) · Hoe giet it?(어떻게 지내요?) · Tank je(고마워요) · mem(엄마) · pake(할아버지). 프리슬란트어는 네덜란드의 두 번째 공식 언어입니다.
+**Zonde!:** "아깝다!" 낭비를 탓할 때 쓰는 감탄사.
+
+## 컨설팅 스킬 노트
+**BCG 매트릭스:** 세로축 시장 성장률, 가로축 상대적 시장 점유율. ster(스타: 고성장·고점유) · melkkoe(캐시카우: 저성장·고점유) · vraagteken(물음표: 고성장·저점유) · hond(도그: 저성장·저점유).
+**이번 화의 배치:** e-bikes = ster(투자) · stadsfietsen = melkkoe(현금 회수, 그러나 하락 중) · bakfietsen = vraagteken(작게 시험) · kinderfietsen = hond(철수).
+**매트릭스 밖을 보기:** 프레임은 생각을 정리해 주지만 현장의 신호(Durk의 무료 수리)를 놓치게 할 수도 있습니다. 새로운 사업(수리 구독)은 표가 아니라 작업장에서 나왔습니다.
+**매출 vs 이익:** "Tien procent omzet, maar min vier procent marge." 매출을 지키려고 손실을 내는 제품은 숫자 하나로 보여 주면 반론이 사라집니다.
