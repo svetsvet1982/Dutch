@@ -1,0 +1,293 @@
+# 3부 11화. Invaren (새 연금제도로 갈아타기)
+수준: 고급 (C1) | 장소: 업종 연금기금 감독이사회 의장실 → 가입자 설명회 → HBR 창고(계리사와) → 카페(젊은 가입자와 은퇴자) → 연금기금 대표실 → 책임위원회 → 감독이사회와 새 안내문 시험 | 시간: 8년차 10월
+배경 현안: 새 연금제도(Wet toekomst pensioenen)로의 전환과 기존 적립 권리의 이전(invaren), 세대 간 이해관계 균형, 가입자 소통의 어려움
+핵심 표현: Wat betekent dit voor mijn pensioen? · Er is geen garantie · Leg het uit alsof ik twaalf ben · Een evenwichtige belangenafweging · Dat is niet te volgen
+💼 스킬: 복잡한 것을 쉽게 설명하기(소통 감사)
+
+## 대화
+— Scène 1: Het kantoor van de voorzitter van de raad van toezicht van het pensioenfonds (연금기금 감독이사회 의장실) —
+Wim: Wim Zuidema, voorzitter van de raad van toezicht van Pensioenfonds Installatie en Techniek. Wij hebben tweehonderdduizend deelnemers. Monteurs, loodgieters, elektriciens. En hun weduwen.
+설비·기술 연금기금 감독이사회 의장 빔 자위더마입니다. 가입자가 20만 명이에요. 정비공, 배관공, 전기공. 그리고 그 미망인들이요.
+Femke: En het fonds gaat over naar het nieuwe pensioenstelsel.
+그리고 기금이 새 연금제도로 넘어가는 거죠.
+Wim: Over achttien maanden. Alle opgebouwde pensioenen gaan dan over naar de nieuwe regeling. Dat heet invaren. Het is de grootste operatie in de geschiedenis van het fonds.
+18개월 뒤에요. 그때 지금까지 적립된 모든 연금이 새 제도로 옮겨 가요. 그걸 '인파런'이라고 해요. 기금 역사상 가장 큰 작업이에요.
+Thijs: Wat is het probleem?
+문제가 뭐예요?
+Wim: Wij krijgen elke week honderden boze brieven. Vooral van gepensioneerden. Ze denken dat hun pensioen verdwijnt. En de vakbond zegt dat het bestuur te snel gaat.
+매주 화난 편지를 수백 통 받아요. 특히 은퇴자들한테서요. 자기 연금이 사라진다고 생각해요. 그리고 노조는 이사회가 너무 서두른다고 해요.
+Femke: Wat is precies de onderzoeksvraag?
+조사 질문은 정확히 뭐예요?
+Wim: Twee vragen. Is het besluit om in te varen zorgvuldig genomen, met een evenwichtige belangenafweging tussen jong en oud? En begrijpen de deelnemers wat er met hun pensioen gebeurt?
+두 가지예요. 이전 결정이 젊은 세대와 나이 든 세대의 이해관계를 균형 있게 따져 신중하게 내려졌는가? 그리고 가입자들이 자기 연금에 무슨 일이 일어나는지 이해하고 있는가?
+Priya: Die tweede vraag is ongewoon voor een onderzoek.
+두 번째 질문은 조사로선 흔치 않네요.
+Wim: Omdat het het grootste probleem is. Als mensen het niet begrijpen, vertrouwen ze het niet. En als ze het niet vertrouwen, vertrouwen ze ons niet.
+그게 가장 큰 문제니까요. 사람들이 이해하지 못하면 믿지 않아요. 믿지 않으면 우리를 믿지 않고요.
+Femke: Mogen we met deelnemers praten? Gewone mensen, geen vertegenwoordigers?
+가입자들과 이야기해도 될까요? 대표자 말고 평범한 사람들이요?
+Wim: Volgende week is er een informatieavond in Zwolle. Kom daar maar. Neem oordoppen mee.
+다음 주에 즈볼러에서 설명회가 있어요. 거기로 오세요. 귀마개 챙기시고요.
+Thijs: Zo erg?
+그렇게 심해요?
+Wim: Vorige keer gooide iemand een stoel. Een gepensioneerde loodgieter van eenentachtig.
+지난번엔 누가 의자를 던졌어요. 여든한 살 은퇴한 배관공이요.
+Femke: (glimlacht flauw) Dan nemen we een helm mee.
+(희미하게 웃으며) 그럼 헬멧을 챙길게요.
+— Scène 2: De informatieavond in Zwolle (즈볼러 설명회) —
+Henk: (met een brief in zijn hand) Ik ben Henk van Os. Zesenzestig. Veertig jaar cv-ketels geïnstalleerd. Ik heb deze brief van het fonds gekregen. Twaalf pagina's. Ik begrijp er niets van.
+(편지를 손에 들고) 헹크 판 오스예요. 예순여섯. 40년 동안 보일러를 설치했어요. 기금에서 이 편지를 받았어요. 12쪽짜리예요. 하나도 이해 못 하겠어요.
+Femke: Mag ik hem lezen?
+읽어 봐도 될까요?
+Henk: Graag. Misschien begrijpt u het wel.
+그러세요. 그쪽은 이해할지도 모르죠.
+Femke: (leest hardop) "Bij invaren worden uw opgebouwde aanspraken omgezet naar een persoonlijk pensioenvermogen, waarbij gebruik wordt gemaakt van de standaardmethode met inachtneming van de solidariteitsreserve." (stopt) Dat is niet te volgen.
+(소리 내어 읽는다) "이전 시 귀하의 적립 청구권은 연대 적립금을 고려한 표준 방식을 사용하여 개인 연금 자산으로 전환됩니다." (멈추며) 이건 따라갈 수가 없네요.
+Henk: Ziet u! En ik ben niet dom. Ik heb vijfhonderd ketels per jaar aangesloten. Maar dit…
+그것 보세요! 저 바보 아니에요. 1년에 보일러 500대를 연결했어요. 그런데 이건…
+Mevrouw De Groot: (achter hem) Mijn man is drie jaar geleden overleden. Ik krijg zijn nabestaandenpensioen. Blijft dat? Niemand kan me dat in één zin zeggen.
+(그의 뒤에서) 남편이 3년 전에 세상을 떠났어요. 남편의 유족 연금을 받아요. 그거 계속 나와요? 아무도 한 문장으로 말해 주지 않아요.
+Medewerker fonds: (vanaf het podium) Mevrouw, uw nabestaandenpensioen valt onder de transitie en wordt op basis van de actuariële waarde omgerekend…
+(무대에서) 부인, 귀하의 유족 연금은 전환 대상이며 보험계리적 가치를 기준으로 재산정되어…
+Mevrouw De Groot: (luid) Ja of nee!
+(큰 소리로) 예예요, 아니요예요!
+Henk: (staat op, terwijl er boegeroep klinkt) Wat betekent dit voor mijn pensioen? Gaat het omhoog of omlaag? Eén zin!
+(야유가 쏟아지는 가운데 일어서며) 이게 내 연금에 무슨 의미예요? 오르는 거예요, 내리는 거예요? 한 문장으로!
+Medewerker fonds: Dat hangt af van de ontwikkelingen op de financiële markten. Er is geen garantie.
+그건 금융 시장 동향에 달려 있습니다. 보장은 없습니다.
+Henk: Vroeger hadden we wel een garantie!
+예전엔 보장이 있었잖아요!
+Thijs: (zacht tegen Femke) Klopt dat? Was er vroeger een garantie?
+(펨커에게 작게) 맞아요? 예전엔 보장이 있었어요?
+Femke: (zacht) Niet echt. Pensioenen konden ook in het oude stelsel worden verlaagd. Dat is in 2013 nog gebeurd. Maar zo voelde het niet.
+(작게) 사실은 아니에요. 옛 제도에서도 연금은 깎일 수 있었어요. 2013년에도 실제로 깎였고요. 하지만 그렇게 느껴지진 않았죠.
+Priya: Dus het probleem is niet alleen de regeling. Het is dat mensen het verschil tussen het oude en het nieuwe niet kennen.
+그러니까 문제는 제도만이 아니에요. 사람들이 옛 제도와 새 제도의 차이를 모른다는 거예요.
+Femke: (staat op en loopt naar Henk) Meneer Van Os, mag ik u na afloop spreken? Ik wil begrijpen wat u nodig heeft om dit te snappen.
+(일어나 헹크에게 다가가며) 판 오스 씨, 끝나고 이야기 나눌 수 있을까요? 이걸 이해하려면 뭐가 필요하신지 알고 싶어요.
+Henk: (verrast) Wat ik nodig heb? Iemand die het uitlegt alsof ik twaalf ben. Zonder dat ik me dom voel.
+(놀라며) 뭐가 필요하냐고요? 나를 열두 살짜리처럼 여기고 설명해 줄 사람이요. 내가 바보 같다는 느낌 없이요.
+Femke: Dat is een heel duidelijke eis.
+아주 분명한 요구네요.
+Henk: En geef mijn brief terug. Hij is lelijk, maar hij is van mij.
+그리고 내 편지 돌려줘요. 형편없지만 내 거니까.
+— Scène 3: Het pakhuis, met de actuaris van het fonds (창고, 기금 계리사와 함께) —
+Pieter: Pieter Langeveld, actuaris. U wilde de techniek begrijpen.
+계리사 피터르 랑어펠트입니다. 기술적인 부분을 이해하고 싶으시다고요.
+Femke: Ja. En dan wil ik dat u het uitlegt alsof ik twaalf ben.
+네. 그리고 열두 살한테 하듯이 설명해 주셨으면 해요.
+Pieter: (lacht) Dat is moeilijker dan het lijkt. Goed. In het oude stelsel zat al het geld in één grote pot. Iedereen kreeg een belofte: zoveel euro pensioen per maand. Als het slecht ging, werd iedereen een beetje gekort.
+(웃으며) 생각보다 어려운 일이에요. 좋아요. 옛 제도에선 모든 돈이 큰 단지 하나에 있었어요. 모두가 약속을 받았죠. 매달 연금으로 얼마를 준다고. 사정이 나쁘면 모두가 조금씩 깎였고요.
+Priya: En in het nieuwe stelsel?
+그럼 새 제도에선요?
+Pieter: Krijgt ieder zijn eigen potje. Een persoonlijk bedrag. Dat stijgt of daalt met de beleggingen. Jongeren beleggen meer in aandelen, ouderen minder, zodat hun pensioen stabieler is.
+각자 자기 작은 단지를 가져요. 개인 금액이요. 투자 결과에 따라 오르거나 내려요. 젊은 사람은 주식에 더 많이, 나이 든 사람은 덜 투자해서 연금이 더 안정적이 되게 해요.
+Thijs: En bij het invaren wordt die grote pot verdeeld over al die kleine potjes.
+그리고 이전할 때 그 큰 단지를 작은 단지들로 나누는 거네요.
+Pieter: Precies. En de vraag is: hoe verdeel je eerlijk? Als je het op de ene manier doet, krijgen ouderen iets meer. Op een andere manier, jongeren. Dat is de belangenafweging.
+정확해요. 그리고 문제는 어떻게 공정하게 나누느냐예요. 이렇게 하면 나이 든 사람이 조금 더 받고, 저렇게 하면 젊은 사람이 더 받아요. 그게 이해관계의 균형을 따지는 거예요.
+Femke: En wie heeft gekozen hoe er verdeeld wordt?
+그럼 어떻게 나눌지는 누가 정했어요?
+Pieter: De werkgevers en de vakbonden hebben de hoofdlijnen afgesproken. Het bestuur van het fonds heeft de details uitgewerkt. Ik heb vijftien varianten doorgerekend.
+고용주와 노조가 큰 틀에 합의했어요. 기금 이사회가 세부 사항을 정했고요. 저는 15가지 변형안을 계산했어요.
+Thijs: Vijftien. Zijn die allemaal aan het bestuur voorgelegd?
+15개요. 그게 전부 이사회에 올라갔어요?
+Pieter: (aarzelt) Drie. De rest viel af in een voorbespreking.
+(머뭇거리며) 세 개요. 나머지는 사전 회의에서 탈락했어요.
+Femke: Wie besliste welke afvielen?
+어떤 게 탈락할지는 누가 정했어요?
+Pieter: Een werkgroep van twee bestuursleden en mij.
+이사 두 명과 저로 구성된 작업반이요.
+Femke: Waren daar ook mensen bij die de gepensioneerden vertegenwoordigen?
+거기에 은퇴자를 대표하는 사람도 있었어요?
+Pieter: Nee. Die zitten in het verantwoordingsorgaan. Dat kreeg de drie varianten later te zien.
+아니요. 그분들은 책임위원회에 있어요. 거긴 나중에 세 가지 변형안을 봤어요.
+Priya: (schrijft) Dus de belangrijkste keuze, welke varianten op tafel kwamen, is gemaakt zonder de oudste deelnemers.
+(적으며) 그러니까 가장 중요한 선택, 어떤 변형안을 테이블에 올릴지는 가장 나이 든 가입자들 없이 정해졌네요.
+Pieter: Zo heb ik het nog niet bekeken. Maar ja.
+그렇게는 생각해 보지 못했어요. 하지만 네.
+— Scène 4: Een café in Zwolle, met twee deelnemers (즈볼러의 카페, 가입자 두 명과) —
+Femke: Ik heb jullie allebei uitgenodigd, omdat jullie aan twee kanten van het verhaal staan. Lisa, jij bent achtentwintig. Henk, u bent zesenzestig.
+두 분 다 초대한 건 이야기의 양쪽에 서 계셔서예요. 리사는 스물여덟. 헹크 씨는 예순여섯이시고요.
+Lisa: Ik ben elektricien. Ik werk zes jaar. Eerlijk gezegd lees ik die brieven niet eens.
+저는 전기공이에요. 일한 지 6년 됐어요. 솔직히 그 편지는 읽지도 않아요.
+Henk: (verontwaardigd) Je moet ze wel lezen! Het is jouw pensioen.
+(분개하며) 읽어야지! 네 연금이잖아.
+Lisa: Mijn pensioen is over veertig jaar. Ik weet niet eens of het dan nog bestaat.
+제 연금은 40년 뒤예요. 그때 그게 아직 있을지도 모르겠어요.
+Femke: Wat vind je van het nieuwe stelsel?
+새 제도는 어떻게 생각해요?
+Lisa: Eigenlijk beter. In het oude stelsel betaalden jongeren mee voor de pensioenen van ouderen. Nu heb ik mijn eigen potje. Dat voelt eerlijker.
+사실 더 나아요. 옛 제도에선 젊은 사람들이 나이 든 사람들 연금을 같이 냈잖아요. 이젠 제 단지가 있어요. 더 공정하게 느껴져요.
+Henk: Eerlijker? Wij hebben veertig jaar betaald voor de pensioenen van onze ouders. Nu is het onze beurt, en dan veranderen ze de regels.
+더 공정하다고? 우리는 40년 동안 우리 부모님 연금을 냈어. 이제 우리 차례인데 규칙을 바꾼다고.
+Lisa: (stil) Dat had ik zo nog niet bekeken.
+(조용히) 그렇게는 생각 못 해 봤어요.
+Henk: En jij? Wat als de beurs over dertig jaar instort, vlak voor jouw pensioen?
+그럼 너는? 30년 뒤에 네 은퇴 직전에 증시가 폭락하면?
+Lisa: Dan… (aarzelt) dan heb ik pech. Volgens de uitleg wordt dat risico kleiner als je ouder wordt. Maar het is er wel.
+그럼… (머뭇거리며) 운이 나쁜 거죠. 설명으로는 나이가 들수록 그 위험이 줄어든대요. 하지만 있긴 있어요.
+Femke: Dus jullie zien allebei een risico. Alleen een ander risico.
+그러니까 두 분 다 위험을 보시는 거네요. 다만 다른 위험을요.
+Henk: (na een stilte) Misschien wel. (tegen Lisa) Lees die brieven toch maar, meid.
+(잠시 침묵 후) 그런가 보네. (리사에게) 그래도 그 편지는 읽어라, 얘야.
+Lisa: Als ze in normale taal geschreven worden, beloofd.
+보통 말로 쓰여 있으면요. 약속해요.
+— Scène 5: Het gesprek met de directeur van het pensioenfonds (연금기금 대표와의 면담) —
+Jacqueline: Jacqueline de Bruin, directeur. Ik weet dat de communicatie beter moet. Maar u moet begrijpen: alles wat we schrijven, moet juridisch kloppen. Anders worden we aangeklaagd.
+대표 자클린 더 브라윈이에요. 소통을 개선해야 한다는 거 알아요. 하지만 이해하셔야 해요. 우리가 쓰는 모든 건 법적으로 정확해야 해요. 안 그러면 소송을 당해요.
+Femke: Klopt het dat de brief door juristen is geschreven?
+편지를 법률가들이 썼다는 게 맞아요?
+Jacqueline: Door juristen en actuarissen. En gecontroleerd door de toezichthouder.
+법률가와 계리사들이요. 그리고 감독기관이 검토했고요.
+Femke: Is hij ook getest bij deelnemers? Voordat hij verstuurd werd?
+가입자들에게 테스트도 했어요? 발송하기 전에요?
+Jacqueline: (kort stilte) Bij een klankbordgroep van tien mensen.
+(잠깐 침묵) 열 명으로 된 자문 그룹에서요.
+Priya: Wie zaten er in die groep?
+그 그룹엔 누가 있었어요?
+Jacqueline: Vertegenwoordigers van werkgevers en vakbonden. En twee mensen van het verantwoordingsorgaan.
+고용주와 노조 대표들이요. 그리고 책임위원회 두 명이요.
+Femke: Dus geen gewone deelnemers. Geen monteurs, geen weduwen.
+그러니까 평범한 가입자는 없었네요. 정비공도, 미망인도요.
+Jacqueline: Nee. (zucht) Dat is een terecht punt.
+아니요. (한숨) 정당한 지적이에요.
+Thijs: En de vijftien varianten van de actuaris? Twaalf zijn afgevallen in een werkgroep zonder vertegenwoordiging van gepensioneerden.
+그리고 계리사의 15개 변형안은요? 12개가 은퇴자 대표 없이 작업반에서 탈락했어요.
+Jacqueline: Dat was om het overzichtelijk te houden. Vijftien varianten is te veel voor een bestuursvergadering.
+간결하게 하려고 그런 거예요. 15개는 이사회 회의에 너무 많아요.
+Femke: Dat begrijp ik. Maar de keuze welke drie overbleven, was misschien de belangrijkste keuze van het hele proces. Waarom was die niet transparant?
+이해해요. 하지만 어떤 세 개를 남길지의 선택이 어쩌면 전체 과정에서 가장 중요한 선택이었어요. 왜 그게 투명하지 않았어요?
+Jacqueline: (lange stilte) Omdat we tijdsdruk hadden. En omdat we dachten dat de techniek te ingewikkeld was voor een brede discussie.
+(긴 침묵) 시간 압박이 있었으니까요. 그리고 그 기술적인 내용이 폭넓은 논의를 하기엔 너무 복잡하다고 생각했어요.
+Femke: Te ingewikkeld voor wie?
+누구에게 너무 복잡하다는 거예요?
+Jacqueline: (zacht) Voor de deelnemers.
+(작게) 가입자들에게요.
+Femke: Henk van Os heeft veertig jaar cv-ketels aangesloten. Een cv-ketel is ook ingewikkeld. Hij snapt het, als iemand het goed uitlegt.
+헹크 판 오스 씨는 40년 동안 보일러를 연결했어요. 보일러도 복잡하잖아요. 누군가 잘 설명해 주면 이해해요.
+Jacqueline: (na een stilte) Dat is een pijnlijke vergelijking. En een goede.
+(잠시 침묵 후) 아픈 비교네요. 그리고 좋은 비교고요.
+— Scène 6: Het verantwoordingsorgaan (책임위원회) —
+Lid verantwoordingsorgaan: Wij vertegenwoordigen de deelnemers en de gepensioneerden. Wij hebben adviesrecht over het besluit om in te varen.
+저희는 가입자와 은퇴자를 대표해요. 이전 결정에 대해 자문권이 있어요.
+Femke: Hoe heeft u dat recht kunnen gebruiken?
+그 권리를 어떻게 행사할 수 있었어요?
+Lid verantwoordingsorgaan: We kregen drie varianten en zes weken. Met een rapport van tweehonderd pagina's. We zijn vrijwilligers. Ik ben gepensioneerd lasser.
+변형안 세 개와 6주를 받았어요. 200쪽짜리 보고서와 함께요. 우리는 자원봉사자예요. 저는 은퇴한 용접공이고요.
+Thijs: Wist u dat er vijftien varianten waren?
+변형안이 15개였다는 거 알았어요?
+Lid verantwoordingsorgaan: (verbaasd) Vijftien? Nee. Dat hoor ik nu voor het eerst.
+(놀라며) 15개요? 아니요. 지금 처음 들어요.
+Lid 2: Dan hebben we advies gegeven over een keuze die al voor ons was gemaakt.
+그럼 우리는 이미 정해진 선택에 대해 의견을 낸 거네요.
+Femke: Dat is wat wij ook vaststellen. Het formele recht was er. Maar de ruimte om het te gebruiken was klein.
+저희도 그렇게 확인했어요. 공식적인 권리는 있었어요. 하지만 그걸 행사할 여지는 작았죠.
+Lid verantwoordingsorgaan: Schrijft u dat op?
+그걸 적으실 거예요?
+Femke: Letterlijk zo.
+정확히 그렇게요.
+— Scène 7: Bij Henk thuis, de test van de nieuwe brief (헹크의 집, 새 안내문 시험) —
+Henk: Koffie? Mijn vrouw heeft appeltaart gebakken. Ze zegt dat ik vriendelijker ben als er gasten zijn.
+커피 드실래요? 아내가 애플파이를 구웠어요. 손님이 있으면 내가 더 친절해진대요.
+Priya: Graag. We hebben een nieuwe versie van de brief. Eén pagina. Wilt u hem lezen en zeggen wat u denkt?
+좋아요. 편지 새 버전을 가져왔어요. 한 쪽짜리예요. 읽어 보시고 어떻게 생각하시는지 말씀해 주시겠어요?
+Henk: (zet zijn bril op, leest langzaam) "Wat verandert er? Uw pensioen zit nu in één grote pot…" Hm.
+(안경을 쓰고 천천히 읽으며) "무엇이 바뀌나요? 지금 귀하의 연금은 큰 단지 하나에…" 흠.
+Pieter: Is het duidelijk?
+명확한가요?
+Henk: Tot de derde zin. Wat is "beleggingsrendement"?
+세 번째 문장까지는요. "투자 수익률"이 뭐예요?
+Pieter: Dat is wat het geld oplevert als het fonds het belegt. In aandelen, in obligaties.
+기금이 돈을 투자해서 얻는 결과예요. 주식이나 채권에요.
+Henk: Leg het uit alsof ik twaalf ben.
+열두 살한테 하듯이 설명해 줘요.
+Pieter: (denkt na) Het fonds zet uw geld aan het werk. Soms verdient het geld er iets bij, soms verliest het iets.
+(생각하며) 기금이 당신 돈을 일하게 해요. 가끔은 돈이 더 벌고, 가끔은 조금 잃어요.
+Henk: Dat snap ik. Schrijf dat dan op.
+그건 알겠네. 그럼 그렇게 적어요.
+Priya: (schrijft) "Het fonds zet uw geld aan het werk." Genoteerd.
+(적으며) "기금이 당신 돈을 일하게 한다." 적었어요.
+Henk: (leest verder) "Wordt uw pensioen lager? Volgens de berekening van vandaag niet." (kijkt op) Is dat waar?
+(계속 읽으며) "연금이 줄어드나요? 오늘 계산으로는 아닙니다." (고개를 들며) 그거 사실이에요?
+Pieter: Voor u, ja. Bij de gekozen variant gaat uw pensioen bij de overgang met ongeveer één procent omhoog.
+당신한테는요, 네. 선택된 변형안에서 전환할 때 당신 연금은 약 1% 올라가요.
+Henk: (verbaasd) Omhoog? Waarom zegt niemand dat?
+(놀라며) 올라간다고요? 왜 아무도 그 말을 안 해요?
+Femke: Omdat het in de oude brief op pagina negen stond. In een tabel.
+옛 편지에는 9쪽 표 안에 있었으니까요.
+Henk: Pagina negen. Daar kom je toch nooit.
+9쪽이라. 거기까진 아무도 안 가요.
+Henk: (leest de rest) "Net als nu kan uw pensioen in slechte jaren omlaag gaan, en in goede jaren omhoog." Ja. Dat is eerlijk. Dat begrijp ik.
+(나머지를 읽으며) "지금처럼 나쁜 해에는 연금이 내려가고 좋은 해에는 올라갈 수 있습니다." 네. 그건 정직하네요. 이해돼요.
+Mevrouw Van Os: (uit de keuken) Henk, wat zeg je? Begrijp je het?
+(부엌에서) 헹크, 뭐라고? 이해했어?
+Henk: Ja, Truus! Voor het eerst in twee jaar!
+그래, 트뤼스! 2년 만에 처음으로!
+Femke: Wat zou u nog veranderen?
+더 바꾸고 싶은 게 있으세요?
+Henk: Bovenaan, in grote letters: "Uw pensioen verdwijnt niet." Dat is het enige wat mensen willen weten. De rest lezen ze daarna wel.
+맨 위에 큰 글씨로요. "당신의 연금은 사라지지 않습니다." 사람들이 알고 싶은 건 그것뿐이에요. 나머지는 그다음에 읽겠죠.
+Priya: (schrijft) Dat wordt de eerste zin.
+(적으며) 그게 첫 문장이 될 거예요.
+— Scène 8: De raad van toezicht en de nieuwe brief (감독이사회와 새 안내문) —
+Femke: Onze conclusies. Eén: het besluit om in te varen is formeel correct genomen. Twee: de belangrijkste keuze, welke varianten werden voorgelegd, is gemaakt zonder vertegenwoordiging van de oudste deelnemers, en is niet transparant gemaakt. Drie: de communicatie is juridisch correct, maar voor de meeste deelnemers niet te volgen.
+저희 결론입니다. 첫째, 이전 결정은 공식적으로는 올바르게 내려졌습니다. 둘째, 가장 중요한 선택인 어떤 변형안을 올릴지는 가장 나이 든 가입자들의 대표 없이 이뤄졌고 투명하게 공개되지 않았습니다. 셋째, 소통은 법적으로 정확하지만 대부분의 가입자에게는 따라갈 수 없는 수준입니다.
+Wim: Wat kunnen we nog doen, met achttien maanden te gaan?
+18개월 남았는데 아직 뭘 할 수 있을까요?
+Femke: Binnen ons onderzoek kunnen we zeggen wat ontbrak. Alle vijftien varianten openbaar maken, met een eenvoudige uitleg van wie er meer en wie er minder aan heeft. Het verantwoordingsorgaan opnieuw laten adviseren, met de tijd en de hulp die daarvoor nodig is. En de brief testen bij echte deelnemers.
+조사 범위 안에서 무엇이 빠졌는지 말씀드릴 수 있습니다. 15개 변형안 전부를 누가 더 받고 누가 덜 받는지 쉽게 설명해서 공개하는 것. 책임위원회가 필요한 시간과 도움을 받아 다시 자문하게 하는 것. 그리고 실제 가입자들에게 안내문을 테스트하는 것.
+Wim: Kunt u dat laatste laten zien?
+마지막 걸 보여 주실 수 있어요?
+Priya: (deelt een vel uit) Dit is een voorbeeld. Eén pagina. Gemaakt met de actuaris, getest bij Henk en Lisa. De eerste zin komt van Henk.
+(종이 한 장을 나눠 주며) 이건 예시예요. 한 쪽짜리요. 계리사와 함께 만들고 헹크 씨와 리사에게 테스트했어요. 첫 문장은 헹크 씨가 만들었어요.
+Wim: (leest hardop) "Uw pensioen verdwijnt niet. Wat verandert er? Uw pensioen zit nu in één grote pot met dat van iedereen. Straks heeft u een eigen deel van die pot. Hoeveel uw deel is, staat op pagina twee. Wordt uw pensioen lager? Volgens de berekening van vandaag niet. Maar er is geen garantie: net als nu kan uw pensioen in slechte jaren omlaag gaan, en in goede jaren omhoog."
+(소리 내어 읽으며) "당신의 연금은 사라지지 않습니다. 무엇이 바뀌나요? 지금 귀하의 연금은 모두의 연금과 함께 큰 단지 하나에 있습니다. 앞으로는 그 단지에서 귀하만의 몫을 갖게 됩니다. 귀하의 몫이 얼마인지는 2쪽에 있습니다. 연금이 줄어드나요? 오늘 계산으로는 아닙니다. 하지만 보장은 없습니다. 지금처럼 나쁜 해에는 연금이 내려가고 좋은 해에는 올라갈 수 있습니다."
+Wim: (kijkt op) Dit begrijp ik.
+(고개를 들며) 이건 이해가 되네요.
+Femke: En Henk ook. Hij zei: "Waarom hebben ze dat niet meteen zo geschreven?"
+헹크 씨도요. "왜 처음부터 이렇게 쓰지 않았냐"고 하더라고요.
+Jacqueline: (zacht) Omdat wij bang waren voor de juristen in plaats van voor de deelnemers.
+(작게) 가입자들이 아니라 법률가들을 두려워했으니까요.
+Wim: Dan besluiten wij: alle varianten openbaar, het verantwoordingsorgaan krijgt drie maanden en een onafhankelijke actuaris, en geen brief meer zonder test bij gewone deelnemers.
+그럼 이렇게 결정합니다. 모든 변형안을 공개하고, 책임위원회에 석 달과 독립 계리사를 주고, 평범한 가입자에게 테스트하지 않은 안내문은 더 이상 보내지 않습니다.
+Mevrouw De Groot: (later, aan de telefoon) Ik heb de nieuwe brief gekregen. Bovenaan staat: "Uw nabestaandenpensioen blijft." Eindelijk. Eén zin.
+(나중에, 전화로) 새 편지를 받았어요. 맨 위에 "유족 연금은 계속 지급됩니다"라고 쓰여 있어요. 드디어요. 한 문장으로요.
+
+## 주요 단어
+het pensioenfonds | 헷 펜숀스폰츠 | 연금기금
+het pensioenstelsel | 헷 펜숀스텔설 | 연금 제도
+invaren → is ingevaren | 인파런 → 이스 인허파런 | (기존 적립 연금을 새 제도로) 이전하다
+de deelnemer | 더 델네이머르 | 가입자
+de gepensioneerde | 더 허펜숀네이르더 | 은퇴자
+het nabestaandenpensioen | 헷 나버스탄던펜숀 | 유족 연금
+de aanspraak | 더 안스프라크 | 청구권, 권리
+de actuaris | 더 악튀아리스 | 보험계리사
+de variant | 더 바리안트 | 변형안, 대안
+afvallen → is afgevallen | 아프팔런 → 이스 아프허팔런 | 탈락하다
+het verantwoordingsorgaan | 헷 버란트보르딩스오르한 | 책임위원회(가입자·은퇴자 대표 기구)
+de klankbordgroep | 더 클랑크보르트흐룹 | 자문(의견 청취) 그룹
+de belangenafweging | 더 벌랑언아프베이힝 | 이해관계의 비교 형량
+overzichtelijk | 오버르지흐털럭 | 간결한, 한눈에 들어오는
+aanklagen → heeft aangeklaagd | 안클라헌 → 헤이프트 안허클라흐트 | 고소하다, 소송을 걸다
+
+## 표현·문법 정리
+**Wat betekent dit voor mijn pensioen?:** "이게 내 연금에 무슨 의미예요?" 가입자가 가장 먼저 묻는 질문. 소통의 첫 문장은 이 질문에 답해야 합니다.
+**Er is geen garantie:** "보장은 없다." 정직하지만 맥락 없이 말하면 불안만 키웁니다. 새 안내문은 "지금처럼(net als nu)"을 붙여 비교 기준을 줍니다.
+**Leg het uit alsof ik twaalf ben:** "열두 살한테 하듯이 설명해 줘요." alsof + 종속절 = 마치 ~인 것처럼.
+**Een evenwichtige belangenafweging:** "균형 있는 이해관계 형량." 연금 개혁 논의의 핵심 법률 용어.
+**Dat is niet te volgen:** "따라갈 수가 없다." niet te + 부정사 = ~할 수 없다(수동적 불가능).
+**met inachtneming van:** "~을 고려하여." 관료·법률 문체의 전형. 일상어로는 rekening houdend met.
+**Ja of nee!:** "예예요, 아니요예요!" 긴 설명에 지친 청중의 요구.
+**Dat hoor ik nu voor het eerst:** "지금 처음 들어요."
+**om het overzichtelijk te houden:** "간결하게 유지하려고." 정보를 걸러 낸 이유로 자주 쓰이는 말 — 누가 무엇을 걸러 냈는지 확인할 신호.
+**Zo heb ik het nog niet bekeken:** "그렇게는 생각해 보지 못했다." 새로운 관점을 인정할 때.
+**een terecht punt:** "정당한 지적."
+**met … te gaan:** "~ 남은 상태로." met achttien maanden te gaan(18개월 남았는데).
+**Lees die brieven toch maar:** "그래도 그 편지는 읽어." toch maar = 그래도 ~해라(권유).
+
+## 컨설팅 스킬 노트
+**소통도 감사 대상이다:** "법적으로 정확함"과 "이해할 수 있음"은 다릅니다. 이해하지 못하면 믿지 않고, 믿지 않으면 제도 전체가 흔들립니다.
+**쉬운 설명의 세 원칙:** ① 첫 문장은 청중의 질문에 답한다("Wordt uw pensioen lager?") ② 비교 기준을 준다("net als nu") ③ 실제 사용자에게 테스트한다(헹크와 리사). 법률가·계리사의 검토는 필요조건이지 충분조건이 아닙니다.
+**숨은 결정 찾기:** 이사회는 세 변형안 중에서 골랐지만, 진짜 결정은 15개 중 12개를 탈락시킨 작업반에서 내려졌습니다. "누가 선택지를 걸렀는가?"가 과정 감사의 핵심 질문입니다.
+**형식적 권리 vs 실질적 여지:** 책임위원회는 자문권이 있었지만 6주, 200쪽, 미리 걸러진 세 개의 선택지만 받았습니다. 권리의 존재뿐 아니라 그 권리를 행사할 조건(시간, 정보, 전문 지원)을 봅니다.
