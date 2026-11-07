@@ -1,0 +1,289 @@
+# 1부 3화. Witwassen en wantrouwen (돈세탁과 불신)
+수준: 중상급 (B2) | 장소: Noordbank 본사(Zuidas) → Keizer & Co 프로젝트룸 → Noordbank 회의실 → Femke의 집 앞 | 시간: 10월 중순 ~ 11월 초
+배경 현안: 은행의 자금세탁방지법(Wwft) 위반과 벌금, 소상공인·이민자 고객 계좌 과잉 해지(디뱅킹), 경보 시스템의 오탐
+핵심 표현: Er ligt een brief van de toezichthouder · Uit de analyse blijkt dat… · Wie is eigenaar van dit probleem? · Daar wil ik niets over kwijt · Wat betekent dat voor…?
+💼 스킬: 데이터로 이야기하기("그래서 뭐?"를 세 번 묻기)
+
+## 대화
+— Scène 1: Noordbank, afdeling Compliance (Noordbank 준법감시부) —
+Esther: Welkom bij Noordbank. Ik ben Esther Wolters, hoofd Compliance. Fijn dat jullie er zo snel konden zijn.
+Noordbank에 오신 걸 환영합니다. 준법감시부장 에스터르 볼터르스예요. 이렇게 빨리 와 주셔서 고마워요.
+Femke: Graag gedaan. Maarten Keizer zei dat het dringend was.
+천만에요. 마르턴 케이저르 씨가 급한 일이라고 하더군요.
+Esther: Dat is het ook. Er ligt een brief van de toezichthouder. De Nederlandsche Bank is niet tevreden.
+급하죠. 감독당국에서 온 서한이 있어요. 네덜란드 중앙은행이 만족하지 않아요.
+Thijs: Over het witwasbeleid?
+자금세탁방지 정책에 관해서요?
+Esther: Ja. Ze vinden dat wij ongebruikelijke transacties te laat melden. We hebben zes maanden om het op te lossen.
+네. 우리가 비정상 거래를 너무 늦게 신고한다고 봐요. 해결하는 데 6개월이 있어요.
+Femke: En als dat niet lukt?
+해결하지 못하면요?
+Esther: Dan volgt een boete. En geloof me, die kan fors zijn. U weet wat andere banken hebben moeten betalen.
+그러면 벌금이 나와요. 믿어 주세요, 상당할 수 있어요. 다른 은행들이 얼마를 냈는지 아시잖아요.
+Thijs: Honderden miljoenen. Ik heb het van dichtbij meegemaakt bij mijn vorige werkgever.
+수억 유로죠. 이전 직장에서 가까이서 겪었어요.
+Esther: Dan weet u hoe serieus dit is. Dit is Bart Hendriks. Hij leidt het team dat de meldingen behandelt.
+그럼 이게 얼마나 심각한지 아시겠네요. 이쪽은 바르트 헨드릭스예요. 경보를 처리하는 팀을 이끌어요.
+Bart: (zonder op te kijken) Goedemorgen. Alweer consultants.
+(고개도 들지 않고) 안녕하세요. 또 컨설턴트군요.
+Femke: Alweer?
+또요?
+Bart: Twee jaar geleden zat hier een ander bureau. Zij maakten een mooi rapport van tweehonderd pagina's. Daarna gingen ze weg en bleef alles hetzelfde.
+2년 전에 다른 회사가 여기 있었어요. 200쪽짜리 멋진 보고서를 만들었죠. 그러고 떠났고 모든 게 그대로였어요.
+Femke: Dan begrijp ik uw wantrouwen. Wat ging er volgens u mis?
+그렇다면 불신이 이해되네요. 뭐가 잘못됐다고 보세요?
+Bart: Ze praatten alleen met de directie. Niemand vroeg mijn mensen wat er op de werkvloer gebeurt.
+경영진하고만 이야기했어요. 아무도 제 팀원들에게 현장에서 무슨 일이 일어나는지 묻지 않았어요.
+Femke: Dan beginnen wij bij uw mensen. Mag ik morgen een dag naast uw team zitten?
+그럼 저희는 팀원분들부터 시작할게요. 내일 하루 팀 옆에 앉아 있어도 될까요?
+Bart: (kijkt eindelijk op) Een hele dag? Dat heeft nog niemand gevraagd.
+(마침내 고개를 들고) 하루 종일요? 그런 부탁은 처음이에요.
+Femke: Dan ben ik de eerste.
+그럼 제가 처음이네요.
+Esther: Ik moet eerlijk zijn: het probleem is niet alleen het systeem. Er is veel frustratie.
+솔직히 말해야겠어요. 문제는 시스템만이 아니에요. 불만이 많아요.
+Thijs: Waarover precies?
+정확히 무엇에 대해서요?
+Bart: Ons systeem geeft elke dag duizenden meldingen. Mijn team kan ze niet allemaal bekijken.
+우리 시스템은 매일 수천 건의 경보를 내요. 제 팀은 그걸 다 볼 수가 없어요.
+Thijs: Hoeveel mensen hebben jullie?
+몇 명이에요?
+Bart: Veertig analisten. Vorig jaar waren het er nog vijfenvijftig. Iedereen vertrekt naar de concurrent.
+분석가 40명이요. 작년엔 55명이었어요. 다들 경쟁사로 떠나요.
+Femke: Wie is eigenaar van dit probleem? Wie beslist er uiteindelijk?
+이 문제의 책임자는 누구예요? 결국 누가 결정하죠?
+Esther: Formeel ik. Maar het budget ligt bij de directie, en de systemen bij IT.
+공식적으로는 저예요. 하지만 예산은 경영진에게, 시스템은 IT에 있어요.
+Femke: Dus drie eigenaren. Dan is er eigenlijk niemand eigenaar.
+그러니까 책임자가 셋이네요. 그럼 사실상 아무도 책임자가 아니에요.
+Esther: (zucht) Zo heb ik het nog nooit gezien. Maar u hebt gelijk.
+(한숨) 그렇게는 생각해 본 적이 없어요. 하지만 맞는 말이에요.
+Priya: Mag ik vragen hoe het systeem bepaalt wat verdacht is?
+시스템이 무엇을 의심스럽다고 판단하는지 여쭤봐도 될까요?
+Bart: Regels. Grote contante stortingen, betalingen naar bepaalde landen, veel kleine bedragen achter elkaar.
+규칙이에요. 큰 현금 입금, 특정 국가로의 송금, 연속적인 소액 거래 같은 거요.
+Priya: Kan ik de meldingen van het afgelopen jaar krijgen? Geanonimiseerd natuurlijk.
+작년 경보 데이터를 받을 수 있을까요? 물론 익명화해서요.
+Esther: Dat moet ik laten checken bij Privacy. Maar ik denk het wel.
+개인정보팀에 확인해 봐야 해요. 하지만 될 거예요.
+Bart: Succes. Het zijn er ruim een miljoen.
+행운을 빌어요. 백만 건이 넘어요.
+Priya: Dat is juist mooi. Hoe meer data, hoe beter.
+그럼 오히려 좋아요. 데이터가 많을수록 좋거든요.
+Bart: (droog) Jij bent duidelijk nieuw.
+(건조하게) 당신은 확실히 신입이군요.
+Femke: Nieuw, maar niet naïef. Tot morgen, meneer Hendriks.
+신입이지만 순진하진 않아요. 내일 뵙겠습니다, 헨드릭스 씨.
+— Scène 2: De projectruimte, twee weken later (프로젝트룸, 2주 후) —
+Priya: Femke, Thijs, hebben jullie even? Ik heb iets gevonden.
+펨커, 테이스, 잠깐 시간 있어요? 뭔가를 찾았어요.
+Femke: Altijd. Laat zien.
+언제든지요. 보여 줘요.
+Priya: Van alle meldingen van vorig jaar bleek vijfennegentig procent achteraf onschuldig.
+작년 경보 전체 중에서 95%가 나중에 무혐의로 밝혀졌어요.
+Thijs: Vijfennegentig procent vals alarm? Dat is extreem, maar niet ongewoon in de sector.
+95%가 오경보라고요? 극단적이지만 업계에서 드문 일은 아니에요.
+Priya: Dat is niet het ergste. Kijk naar deze tweede grafiek.
+그게 최악이 아니에요. 이 두 번째 그래프를 보세요.
+Femke: Wat zien we hier?
+여기 보이는 게 뭐예요?
+Priya: De klanten van wie de bank de rekening heeft opgezegd. Het zijn vooral kleine ondernemers. Kappers, toko's, taxibedrijfjes.
+은행이 계좌를 해지한 고객들이에요. 대부분 소상공인이에요. 미용실, 동양 식료품점, 작은 택시 회사들이요.
+Thijs: Omdat ze veel contant geld storten.
+현금 입금이 많으니까요.
+Priya: Ja. En veel van hen hebben familie in Suriname, Marokko of Turkije, en sturen daar geld naartoe.
+네. 그리고 그중 많은 사람이 수리남, 모로코, 튀르키예에 가족이 있어서 그쪽으로 돈을 보내요.
+Femke: Dus het systeem ziet een normale familie als een risico.
+그러니까 시스템이 평범한 가족을 위험 요소로 보는 거네요.
+Priya: Precies. En dan zegt de bank de rekening op. Zonder goede uitleg.
+맞아요. 그러면 은행이 계좌를 해지해요. 제대로 된 설명도 없이요.
+Thijs: Dat heet de-risking. Liever een klant kwijt dan een boete.
+그걸 디리스킹이라고 해요. 벌금보다는 고객을 잃는 게 낫다는 거죠.
+Priya: (stil) Mijn oom heeft een toko in Den Haag. Vorig jaar kreeg hij een brief dat zijn rekening werd opgezegd. Bij een andere bank, maar precies hetzelfde.
+(조용히) 제 삼촌이 헤이그에서 식료품점을 해요. 작년에 계좌를 해지한다는 편지를 받았어요. 다른 은행이었지만 똑같은 일이었어요.
+Femke: Wat is er toen gebeurd?
+그다음 어떻게 됐어요?
+Priya: Drie maanden lang kon hij zijn leveranciers niet betalen. Hij heeft bijna zijn winkel moeten sluiten.
+석 달 동안 납품업자에게 돈을 못 줬어요. 가게를 닫을 뻔했어요.
+Femke: Dat spijt me, Priya. Zit dit je erg dwars?
+안타까워요, 프리야. 이게 많이 마음에 걸려요?
+Priya: Ja. Maar ik wil eerlijk zijn: ik wil niet dat mijn gevoel de analyse kleurt.
+네. 하지만 솔직히 말하면, 제 감정이 분석을 왜곡하는 건 원하지 않아요.
+Femke: Dat is precies de goede houding. Daarom laten we Thijs alles nog eens controleren.
+그게 딱 맞는 태도예요. 그래서 테이스가 전부 한 번 더 확인하게 할게요.
+Thijs: Met plezier. Ik ben zo gevoelig als een stoeptegel.
+기꺼이요. 저는 보도블록만큼 무감각하거든요.
+Priya: (lacht) Dank je, Thijs.
+(웃으며) 고마워요, 테이스.
+Femke: Nu de belangrijkste vraag. Wat betekent dat voor de bank? Vertel het me in één zin.
+이제 가장 중요한 질문이에요. 이게 은행에 어떤 의미예요? 한 문장으로 말해 줘요.
+Priya: Eh… het systeem werkt niet goed?
+어… 시스템이 잘 작동하지 않는다?
+Femke: Dat is een observatie. En dus?
+그건 관찰이에요. 그래서요?
+Priya: Dus de analisten verspillen hun tijd aan vals alarm…
+그래서 분석가들이 오경보에 시간을 낭비한다…
+Femke: En dus?
+그래서요?
+Priya: En dus missen ze de echte criminelen, terwijl onschuldige klanten worden weggestuurd.
+그래서 진짜 범죄자는 놓치고, 무고한 고객들은 쫓겨난다.
+Femke: Dát is de boodschap. Twee keer "en dus" en je hebt een inzicht in plaats van een feit.
+바로 그게 메시지예요. "그래서요"를 두 번 물으면 사실 대신 통찰이 나와요.
+Thijs: Dat is ook precies wat de toezichthouder niet wil. Te laat melden én klanten zonder reden kwijtraken.
+그게 바로 감독당국이 원하지 않는 거예요. 늑장 신고, 그리고 이유 없이 고객을 잃는 것.
+Femke: Dus het is geen kwestie van meer analisten. Het is een kwestie van slimmere regels.
+그러니까 분석가를 더 뽑는 문제가 아니에요. 더 똑똑한 규칙의 문제죠.
+Priya: Ik heb een idee. Met een beter model kunnen we de meldingen sorteren op echt risico.
+아이디어가 있어요. 더 나은 모델이 있으면 경보를 실제 위험도에 따라 정렬할 수 있어요.
+Thijs: Met kunstmatige intelligentie? Pas op. De nieuwe Europese AI-wet stelt daar strenge eisen aan.
+인공지능으로요? 조심해요. 새 유럽 AI법이 거기에 엄격한 요건을 둬요.
+Priya: Dat weet ik. Het model moet uitlegbaar zijn. Een analist moet altijd kunnen zien waarom iets verdacht is.
+알아요. 모델은 설명 가능해야 해요. 분석가가 왜 의심스러운지 항상 볼 수 있어야 하고요.
+Femke: Goed. Dan presenteer jij dit donderdag aan Esther. Uit de analyse blijkt dat… en dan jouw zin.
+좋아요. 그럼 목요일에 프리야가 에스터르에게 발표해요. "분석 결과…"로 시작해서 프리야의 문장으로요.
+— Scène 3: Vergaderruimte Noordbank, donderdag (Noordbank 회의실, 목요일) —
+Esther: Ik heb begrepen dat jullie iets belangrijks gevonden hebben.
+중요한 걸 찾으셨다고 들었어요.
+Priya: Ja, mevrouw Wolters. Uit de analyse blijkt dat vijfennegentig procent van de meldingen vals alarm is. Daardoor mist de bank echte risico's, terwijl onschuldige klanten hun rekening kwijtraken.
+네, 볼터르스 씨. 분석 결과 경보의 95%가 오경보입니다. 그 때문에 은행은 실제 위험을 놓치고, 무고한 고객들은 계좌를 잃고 있습니다.
+Esther: (leunt naar voren) Dat is een zware conclusie. Hoe komt u daaraan?
+(몸을 앞으로 숙이며) 무거운 결론이네요. 어떻게 그 결론에 이르렀죠?
+Priya: We hebben ruim een miljoen meldingen geanalyseerd. Op deze slide ziet u hoeveel er tot een echte melding bij de FIU hebben geleid.
+백만 건이 넘는 경보를 분석했습니다. 이 슬라이드에 실제로 금융정보분석원(FIU)에 신고된 건수가 나와 있습니다.
+Esther: Zo weinig?
+그렇게 적어요?
+Bart: Dat verbaast mij niet. Ik zeg dat al jaren.
+저는 놀랍지 않아요. 몇 년째 그렇게 말해 왔어요.
+Esther: Waarom heb ik dat dan nooit zo gezien?
+그런데 왜 저는 그걸 이렇게 본 적이 없죠?
+Bart: Omdat in de rapportage alleen staat hoeveel meldingen we hebben afgehandeld. Niet hoeveel zin dat had.
+보고서에는 우리가 처리한 경보 건수만 나오니까요. 그게 얼마나 의미가 있었는지는 안 나와요.
+Femke: Dat is een belangrijk punt. Wat je meet, krijg je.
+중요한 지적이에요. 측정하는 것을 얻게 되죠.
+Priya: En dan het tweede punt. Dit zijn de klanten van wie Noordbank vorig jaar de rekening heeft opgezegd.
+그리고 두 번째 요점입니다. 이건 작년에 Noordbank가 계좌를 해지한 고객들입니다.
+Esther: Dat waren toch vooral hoge risico's?
+그건 대부분 고위험 고객이었잖아요?
+Priya: Volgens het systeem wel. Maar bij een steekproef van tweehonderd dossiers vonden we bij meer dan de helft geen enkele echte aanwijzing.
+시스템상으로는요. 하지만 200건을 표본 조사했더니 절반 넘게 실제 단서가 하나도 없었습니다.
+Esther: Meer dan de helft. Wat betekent dat voor de bank?
+절반 이상이라. 그게 은행에 어떤 의미죠?
+Thijs: Juridisch risico. Klanten stappen steeds vaker naar de rechter of naar het Kifid. En reputatierisico: journalisten zijn hier ook in geïnteresseerd.
+법적 위험이요. 고객들이 점점 더 자주 법원이나 금융분쟁조정기구에 가요. 그리고 평판 위험도요. 기자들도 이 문제에 관심이 있어요.
+Esther: Dat is het laatste wat we kunnen gebruiken naast die brief van DNB.
+DNB 서한에 더해 그건 정말 피해야 할 일이에요.
+Femke: Daarom stellen we drie dingen voor. Eén: slimmere regels die de meldingen sorteren op echt risico. Twee: één eigenaar voor het hele proces. Drie: elke opgezegde klant krijgt een duidelijke uitleg en de kans om te reageren.
+그래서 세 가지를 제안합니다. 첫째, 경보를 실제 위험도에 따라 분류하는 더 똑똑한 규칙. 둘째, 전체 프로세스의 단일 책임자. 셋째, 계좌가 해지되는 고객 모두에게 명확한 설명과 소명 기회.
+Esther: Dat derde punt kost ons tijd en geld.
+세 번째는 시간과 돈이 들어요.
+Femke: Klopt. Maar het bespaart u rechtszaken en het geeft uw analisten werk dat zin heeft.
+맞아요. 하지만 소송을 줄여 주고, 분석가들에게 의미 있는 일을 줍니다.
+Bart: Mijn mensen vertrekken omdat ze de hele dag onzin wegklikken. Als het werk zin krijgt, blijven ze.
+제 팀원들은 하루 종일 쓸데없는 걸 클릭해서 넘기니까 떠나는 거예요. 일에 의미가 생기면 남을 거예요.
+Esther: (na een stilte) Wie zou die ene eigenaar moeten zijn?
+(잠시 침묵 후) 그 단일 책임자는 누가 돼야 하죠?
+Femke: Dat is aan de directie. Maar het moet iemand zijn met budget én mandaat.
+그건 경영진이 정할 일이에요. 하지만 예산과 권한을 모두 가진 사람이어야 해요.
+Esther: Dan moet dit naar de raad van bestuur. En waarschijnlijk naar de raad van commissarissen.
+그럼 이건 이사회로 가야겠네요. 아마 감독이사회까지요.
+Femke: Dat denken wij ook.
+저희도 그렇게 생각해요.
+Esther: En wat zeg ik tegen DNB? Ik moet over zes weken een voortgangsrapportage sturen.
+그럼 DNB에는 뭐라고 하죠? 6주 뒤에 진행 보고서를 보내야 해요.
+Femke: De waarheid: dat u de oorzaak hebt gevonden en een concreet plan hebt. Toezichthouders waarderen eerlijkheid meer dan mooie cijfers.
+사실대로요. 원인을 찾았고 구체적인 계획이 있다고요. 감독당국은 보기 좋은 숫자보다 정직함을 더 높이 평가해요.
+Thijs: En u laat zien dat u meet wat ertoe doet: hoeveel echte risico's u vindt, niet hoeveel meldingen u wegwerkt.
+그리고 중요한 걸 측정한다는 걸 보여 주세요. 경보를 몇 건 처리했는지가 아니라 실제 위험을 몇 건 찾았는지요.
+Esther: Kunnen jullie mij helpen die rapportage te schrijven?
+그 보고서 작성을 도와주실 수 있어요?
+Femke: Graag. Maar u ondertekent hem. Het moet uw plan zijn, niet het onze.
+기꺼이요. 하지만 서명은 부장님이 하셔야 해요. 저희 계획이 아니라 부장님의 계획이어야 하니까요.
+Esther: Dat is een verademing. Het vorige bureau wilde vooral zijn logo op de voorkant.
+숨통이 트이네요. 이전 회사는 표지에 자기 로고를 넣는 데만 관심이 있었거든요.
+Esther: Juffrouw Ramdin, mag ik u iets vragen? Hoe oud bent u?
+람딘 씨, 하나 여쭤봐도 될까요? 몇 살이세요?
+Priya: Zesentwintig.
+스물여섯이요.
+Esther: Ik werk hier vijftien jaar en u laat me in een uur iets zien wat ik nooit gezien heb. Dank u wel.
+저는 여기서 15년 일했는데, 당신은 한 시간 만에 제가 본 적 없는 걸 보여 줬어요. 고마워요.
+Bart: (zacht tegen Priya) Toch niet zo naïef.
+(프리야에게 작게) 그렇게 순진하진 않군요.
+— Scène 4: Voor het huis van Femke, 's avonds (저녁, 펨커의 집 앞) —
+Femke: (telefoon gaat) Met Femke Hoekstra.
+(전화가 울린다) 펨커 훅스트라입니다.
+Jeroen: Goedenavond, mevrouw Hoekstra. Jeroen Bos, van De Beurskoerier. Heeft u even?
+안녕하세요, 훅스트라 씨. «De Beurskoerier»의 예룬 보스입니다. 잠깐 시간 되세요?
+Femke: Een journalist om negen uur 's avonds. Waar gaat het over?
+저녁 9시에 기자라니. 무슨 일이죠?
+Jeroen: Ik schrijf een artikel over banken die rekeningen van kleine ondernemers opzeggen. Ik hoorde dat Keizer & Co bij Noordbank werkt.
+소상공인 계좌를 해지하는 은행들에 대한 기사를 쓰고 있어요. Keizer & Co가 Noordbank 일을 한다고 들었어요.
+Femke: Daar wil ik niets over kwijt. Wij praten nooit over onze klanten.
+그 건에 대해서는 드릴 말씀이 없어요. 저희는 고객에 대해 절대 이야기하지 않아요.
+Jeroen: Begrijpelijk. Maar u ontkent het niet?
+이해해요. 하지만 부인하진 않으시네요?
+Femke: Ik bevestig niets en ik ontken niets. Zo werkt dat in ons vak.
+아무것도 확인하지도 부인하지도 않아요. 우리 업계는 그렇게 일해요.
+Jeroen: Mag ik u dan een algemene vraag stellen? Vindt u dat banken te ver gaan met de-risking?
+그럼 일반적인 질문 하나 해도 될까요? 은행들이 디리스킹을 너무 지나치게 한다고 보세요?
+Femke: Als u een algemene mening wilt, bel dan een hoogleraar. Ik wens u een fijne avond, meneer Bos.
+일반적인 의견을 원하시면 교수님께 전화하세요. 좋은 저녁 보내세요, 보스 씨.
+Jeroen: Ik bel u nog wel eens. Prettige avond.
+또 연락드릴게요. 좋은 저녁 되세요.
+Femke: (belt meteen een ander nummer) Maarten? Met Femke. Er belde net een journalist over Noordbank.
+(바로 다른 번호로 전화하며) 마르턴? 펨커예요. 방금 기자가 Noordbank 건으로 전화했어요.
+Maarten: Rustig maar. Wat heb je gezegd?
+진정해요. 뭐라고 했어요?
+Femke: Niets. Maar iemand heeft hem verteld dat wij daar werken.
+아무 말도 안 했어요. 하지만 누군가 우리가 거기서 일한다고 알려 줬어요.
+Maarten: Banken lekken als een vergiet. Maak je geen zorgen. Hoe ging het vandaag?
+은행은 소쿠리처럼 새요. 걱정 마요. 오늘은 어땠어요?
+Femke: Goed. Priya heeft iets gevonden wat de hele aanpak verandert. Dit moet naar de raad van commissarissen.
+좋았어요. 프리야가 접근 방식 전체를 바꿀 만한 걸 찾았어요. 이건 감독이사회까지 가야 해요.
+Maarten: Prachtig. Dan verlengen we de opdracht met een half jaar. Misschien zit er ook een IT-project in.
+훌륭하네요. 그럼 계약을 반년 연장하죠. 어쩌면 IT 프로젝트도 따낼 수 있겠어요.
+Femke: Maarten, eerst moet het probleem opgelost worden. Daarna praten we over de volgende opdracht.
+마르턴, 먼저 문제부터 해결돼야 해요. 다음 계약 이야기는 그다음에 해요.
+Maarten: Natuurlijk, natuurlijk. Jij bent de idealist, ik ben de ondernemer. Samen zijn we perfect. Welterusten.
+물론, 물론이죠. 당신은 이상주의자, 나는 사업가. 둘이 합치면 완벽해요. 잘 자요.
+Femke: (hangt op, tegen zichzelf) Samen perfect. Dat zullen we nog wel zien.
+(전화를 끊고, 혼잣말로) 둘이 합치면 완벽하다라. 두고 봐야 알겠죠.
+Femke: (pakt haar notitieboekje en schrijft) "Niet aan een journalist: ik bevestig niets. Wel: ik zeg niets." Morgen weer een dag.
+(수첩을 꺼내 적으며) "기자에게 하지 말 것: '아무것도 확인하지 않는다'. 할 것: '아무 말도 하지 않는다'." 내일은 또 내일의 해가 뜨겠지.
+
+## 주요 단어
+witwassen → heeft witgewassen | 비트바선 → 헤이프트 비트허바선 | 돈세탁하다
+de toezichthouder | 더 투지흐트하우더르 | 감독당국
+de melding | 더 멜딩 | 신고, 경보
+ongebruikelijk | 온허브뤼컬럭 | 비정상적인, 이례적인
+de transactie | 더 트란삭시 | 거래
+de boete | 더 부터 | 벌금
+het wantrouwen | 헷 반트라우원 | 불신
+de werkvloer | 더 베르크플루르 | 현장, 실무
+vals alarm | 팔스 알라름 | 오경보
+opzeggen → heeft opgezegd | 오프제헌 → 헤이프트 오프허제흐트 | 해지하다
+de ondernemer | 더 온더르네이머르 | 사업가, 자영업자
+de steekproef | 더 스테이크프루프 | 표본 조사
+de aanwijzing | 더 안베이징 | 단서, 징후
+het mandaat | 헷 만다트 | 권한, 위임
+ontkennen → heeft ontkend | 온트케넌 → 헤이프트 온트켄트 | 부인하다
+
+## 표현·문법 정리
+**Er ligt een brief van de toezichthouder:** "감독당국의 서한이 와 있어요." er ligt/staat/zit… 로 사물의 존재를 말합니다. 서류·편지는 liggen.
+**Uit de analyse blijkt dat…:** "분석 결과 ~로 나타났다." 보고·발표의 표준 시작. 과거형 Uit de steekproef bleek dat… / 형용사 het bleek onschuldig(무혐의로 밝혀졌다).
+**Wie is eigenaar van dit probleem?:** "이 문제의 책임자(주인)는 누구인가?" eigenaar = 소유자이자 '책임지고 끝까지 맡는 사람'. 동사 eigenaarschap nemen(주인의식을 갖다).
+**Daar wil ik niets over kwijt:** "그에 대해서는 할 말이 없어요." 기자·외부인에게 정중하게 답변을 거부하는 표현. 같은 뜻: Daar kan ik geen uitspraken over doen.
+**Wat betekent dat voor…?:** "그게 ~에게 어떤 의미예요?" 데이터를 결론으로 바꾸는 질문(so what?).
+**en dus? / daardoor / waardoor:** 결과 연결어. Daardoor mist de bank echte risico's.(그 때문에) / …, waardoor klanten hun rekening kwijtraken.(그 결과 ~하게 되어) waardoor 뒤는 종속절 어순.
+**terwijl:** ① "~하는 동안" ② 대조 "~인 반면". Ze missen criminelen, terwijl onschuldige klanten worden weggestuurd.
+**수동태 worden + 과거분사:** De rekening wordt opgezegd.(해지된다) / Het moet opgelost worden.(해결되어야 한다)
+**van wie / waarvan:** 사람을 받는 관계절 전치사. de klanten van wie de bank de rekening heeft opgezegd(은행이 계좌를 해지한 고객들).
+**Zit dit je dwars?:** "이게 마음에 걸려요?" dwarszitten = 신경 쓰이게 하다(분리동사).
+**hoe meer…, hoe beter:** "~할수록 더 좋다." Hoe meer data, hoe beter.
+**Ik bevestig niets en ik ontken niets:** "확인도 부인도 하지 않습니다." 언론 대응의 고정 표현.
+**Wat je meet, krijg je:** "측정하는 것을 얻는다." 경영 격언. 처리 건수만 재면 처리 건수만 늘어납니다.
+
+## 컨설팅 스킬 노트
+**사실 → 통찰 → 행동:** 데이터는 그 자체로 메시지가 아닙니다. "En dus?"(그래서요?)를 두세 번 물으면 사실이 통찰로 바뀝니다.
+**이번 화의 사다리:** 95% vals alarm(사실) → analisten verspillen tijd(그래서) → echte criminelen gemist, onschuldige klanten weggestuurd(그래서 = 통찰) → slimmere regels, één eigenaar, uitleg aan klanten(행동).
+**현장의 불신은 현장에서 푼다:** Bart의 "Alweer consultants"에 Femke는 변명 대신 "하루 종일 팀 옆에 앉겠다"는 행동으로 답했습니다.
+**감정과 분석 분리하기:** 개인적 경험(Priya의 삼촌)이 있을수록 다른 사람의 검증(Thijs)을 거칩니다. 언론 문의는 확인도 부인도 하지 않고 바로 내부에 보고합니다.
