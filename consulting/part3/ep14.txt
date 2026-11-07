@@ -1,0 +1,297 @@
+# 3부 14화. Een telefoontje uit Den Haag (헤이그에서 온 전화)
+수준: 고급 (C1) | 장소: HBR 창고(내각 붕괴 소식) → 하우트하번스 부두 → 회의 테이블 → 레이우아르던 어머니와의 통화 → 창고 문 앞 → 부두에서의 전화 | 시간: 9년차 2월
+배경 현안: 연정 내각 붕괴와 조기 총선, 알고리즘 보고서를 계기로 한 국회 질의, 신생 정당의 부상, 조사 기관의 독립성과 정치 참여의 긴장
+핵심 표현: Het kabinet is gevallen · Politiek is niet mijn wereld · Juist daarom vraag ik u · Wat zou je doen als je niet bang was? · Onafhankelijkheid kun je maar één keer verliezen
+💼 스킬: 역할 전환의 원칙과 3부 총정리
+
+## 대화
+— Scène 1: Het pakhuis, dinsdagochtend (화요일 아침, 창고) —
+Thijs: (met de radio aan) Hebben jullie het gehoord? Het kabinet is gevallen. Vannacht. Over de asielwet.
+(라디오를 켠 채) 들었어요? 내각이 무너졌어요. 어젯밤에요. 망명법 때문에요.
+Priya: Alweer? Het is nog geen twee jaar geleden dat ze begonnen.
+또요? 출범한 지 2년도 안 됐는데요.
+Thijs: Er komen verkiezingen. Over drie en een halve maand.
+선거가 있을 거예요. 석 달 반 뒤에요.
+Femke: (kijkt op van haar laptop) En ons rapport over Westerburg staat in de Kamervragen die gisteren zijn ingediend. Drie partijen vragen of andere gemeenten vergelijkbare algoritmes gebruiken.
+(노트북에서 고개를 들며) 그리고 어제 제출된 국회 질의서에 베스테르뷔르흐 보고서가 들어가 있어요. 세 정당이 다른 지자체도 비슷한 알고리즘을 쓰는지 묻고 있어요.
+Priya: (zacht) Ons rapport. In de Tweede Kamer.
+(작게) 우리 보고서가요. 하원에서요.
+Thijs: En op de website van de NOS staat een stuk over "de vrouw die het algoritme ontmaskerde". Met een foto van jou, Priya.
+그리고 NOS 웹사이트에 "알고리즘의 가면을 벗긴 여성"이라는 기사가 있어요. 프리야 사진이랑요.
+Priya: (verschrikt) Een foto? Welke foto?
+(깜짝 놀라며) 사진이요? 무슨 사진이요?
+Thijs: Bij de commissievergadering. Je ziet er goed uit. Serieus.
+위원회 회의 때요. 잘 나왔어요. 진지해 보여요.
+Priya: Mijn moeder gaat hem inlijsten.
+엄마가 액자에 넣으시겠네요.
+Femke: (glimlacht) Laat haar. Ze heeft het verdiend.
+(미소 지으며) 그러시게 둬요. 그럴 자격 있으세요.
+Thijs: En nog iets. Vandaag is het precies drie jaar geleden dat we de KvK-inschrijving kregen.
+그리고 하나 더요. 오늘이 상공회의소 등록을 받은 지 딱 3년 되는 날이에요.
+Priya: Drie jaar! Ik ben het vergeten.
+3년이요! 잊고 있었어요.
+Thijs: Ik niet. Ik ben de CFO. (pakt een doos) Ik heb taart gekocht. Met een emmer erop. Van marsepein.
+저는 안 잊었어요. CFO니까요. (상자를 꺼내며) 케이크 샀어요. 위에 양동이가 올라가 있어요. 마지팬으로 만든 거요.
+Femke: (lacht hardop) Een emmer van marsepein.
+(크게 웃으며) 마지팬 양동이라니.
+Thijs: Voor de eerste drie maanden, toen het dak lekte en we nul klanten hadden.
+처음 석 달을 위해서요. 지붕이 새고 고객이 0이던 때요.
+Priya: En nu? Hoeveel onderzoeken?
+그럼 지금은요? 조사가 몇 건이에요?
+Thijs: Elf afgerond. Drie lopend. En een wachtlijst.
+완료 열한 건. 진행 중 세 건. 그리고 대기 명단도요.
+Femke: (kijkt naar de muur met de zinnen) Wij onderzoeken. Wij verkopen geen oplossingen. Wij publiceren. Vier ogen zien meer dan twee.
+(문장들이 적힌 벽을 바라보며) 우리는 조사한다. 해결책을 팔지 않는다. 공개한다. 두 눈보다 네 눈이 더 많이 본다.
+Priya: Vooral om twee uur 's nachts.
+특히 새벽 2시에는.
+Thijs: (de bel gaat, hij kijkt door het raam) Er staat iemand op de kade. Een vrouw met een paraplu. Ze komt me bekend voor.
+(초인종이 울리자 창밖을 보며) 부두에 누가 서 있어요. 우산 든 여자요. 낯이 익은데요.
+— Scène 2: Op de kade in de Houthavens (하우트하번스 부두) —
+Anouk: Mevrouw Hoekstra? Anouk Verbruggen. Sorry dat ik zonder afspraak kom. Ik wilde u persoonlijk spreken. Niet via de telefoon.
+훅스트라 씨? 아나우크 페르브뤼헌입니다. 약속 없이 와서 죄송해요. 전화가 아니라 직접 뵙고 싶었어요.
+Femke: (verrast) Mevrouw Verbruggen. De lijsttrekker van Brug. Ik heb u gisteren op televisie gezien.
+(놀라며) 페르브뤼헌 씨. Brug의 대표시죠. 어제 텔레비전에서 봤어요.
+Anouk: Dan weet u dat ik weinig tijd heb. Mag ik binnenkomen? Het regent.
+그럼 제가 시간이 별로 없다는 것도 아시겠네요. 들어가도 될까요? 비가 와서요.
+Femke: Natuurlijk. Let op de emmer bij de deur. Die is uit gewoonte blijven staan.
+물론이죠. 문 옆 양동이 조심하세요. 습관 때문에 아직 거기 있어요.
+Anouk: (binnen, kijkt naar de muur) "Wij verkopen geen oplossingen." Dat bevalt me.
+(안으로 들어와 벽을 보며) "우리는 해결책을 팔지 않는다." 마음에 드네요.
+Femke: Wat kan ik voor u doen?
+무엇을 도와드릴까요?
+Anouk: Ik heb uw rapport over Westerburg gelezen. Twee keer. En dat over Woonstede, en het ziekenhuis in het oosten. Ik wil u iets vragen.
+베스테르뷔르흐 보고서를 읽었어요. 두 번이요. 그리고 Woonstede와 동부 병원 보고서도요. 부탁드릴 게 있어요.
+Femke: Een onderzoek?
+조사요?
+Anouk: Nee. Ik wil dat u mijn campagnestrateeg wordt.
+아니요. 제 선거 전략가가 돼 주셨으면 해요.
+Femke: (lange stilte) Campagnestrateeg. Ik?
+(긴 침묵) 선거 전략가요. 제가요?
+Anouk: U. Brug is twee jaar oud. We hebben vier zetels in de peilingen. Ik heb goede mensen, maar niemand die zoals u mensen laat zien wat er echt aan de hand is.
+네. Brug는 생긴 지 2년 됐어요. 여론조사에서 네 석이에요. 좋은 사람들이 있지만, 당신처럼 실제로 무슨 일이 일어나는지 보여 주는 사람은 없어요.
+Femke: Politiek is niet mijn wereld. Ik ben onderzoeker. Ik heb nog nooit een campagne gevoerd.
+정치는 제 세계가 아니에요. 저는 조사관이에요. 선거 운동을 해 본 적도 없어요.
+Anouk: Juist daarom vraag ik u. Iedereen in Den Haag kan campagne voeren. Ze praten in slogans. Ze beloven alles aan iedereen. En de kiezer gelooft niemand meer.
+바로 그래서 부탁드리는 거예요. 헤이그에선 누구나 선거 운동을 할 수 있어요. 다들 구호로 말하죠. 모두에게 모든 걸 약속하고요. 그리고 유권자는 더 이상 아무도 믿지 않아요.
+Femke: En u denkt dat ik dat kan veranderen?
+제가 그걸 바꿀 수 있다고 생각하세요?
+Anouk: Ik denk dat u weet hoe je de waarheid vertelt zonder dat mensen weglopen. Dat heb ik gezien in Westerburg. Uw collega stond daar, en de raad luisterde. Links én rechts.
+진실을 말하면서도 사람들이 떠나지 않게 하는 법을 아신다고 생각해요. 베스테르뷔르흐에서 봤어요. 동료분이 거기 섰고, 시의회가 귀를 기울였어요. 좌파도 우파도요.
+Femke: Dat was Priya. Niet ik.
+그건 프리야였어요. 제가 아니라요.
+Anouk: En wie heeft Priya geleerd om zo te praten?
+그럼 프리야한테 그렇게 말하는 법은 누가 가르쳤죠?
+Femke: (stil) Haar moeder, eigenlijk. En een beetje wij.
+(조용히) 사실은 그분 어머니요. 그리고 조금은 저희고요.
+Anouk: Wat zou je doen als je niet bang was?
+두렵지 않다면 어떻게 하시겠어요?
+Femke: (kijkt haar aan) Dat is een gemene vraag.
+(그녀를 바라보며) 치사한 질문이네요.
+Anouk: Het is de enige vraag die ertoe doet. Ik was burgemeester van Amersfoort. Ik had een veilige baan. Iemand stelde mij die vraag, drie jaar geleden. Daarom bestaat Brug.
+중요한 건 그 질문뿐이에요. 저는 아메르스포르트 시장이었어요. 안정된 자리였죠. 3년 전에 누가 저한테 그 질문을 했어요. 그래서 Brug가 있는 거예요.
+Femke: En als ik ja zeg? Wat betekent dat voor dit bureau? Wij zijn onafhankelijk. Wij onderzoeken gemeenten, ministeries, organisaties die door de politiek worden bestuurd. Als ik voor een partij werk…
+그런데 제가 승낙하면요? 이 회사에는 무슨 의미가 될까요? 저희는 독립적이에요. 정치가 운영하는 지자체, 부처, 조직들을 조사해요. 제가 한 정당을 위해 일하면…
+Anouk: Dan moet u dat met uw partners bespreken. Ik vraag u niet om dat licht te nemen. Ik vraag u om erover na te denken.
+그건 파트너분들과 상의하셔야죠. 가볍게 여기라는 게 아니에요. 생각해 보시라는 거예요.
+Femke: Hoeveel tijd heb ik?
+시간이 얼마나 있어요?
+Anouk: Tot vrijdag. Daarna begint de campagne. Met of zonder u.
+금요일까지요. 그다음엔 선거 운동이 시작돼요. 당신이 있든 없든요.
+Anouk: (bij de deur, tegen Priya) U bent mevrouw Ramdin. Ik zat op de publieke tribune in Westerburg.
+(문 앞에서 프리야에게) 람딘 씨죠. 저 베스테르뷔르흐 방청석에 앉아 있었어요.
+Priya: (verrast) Dat wist ik niet.
+(놀라며) 몰랐어요.
+Anouk: Niemand wist het. Ik zat achteraan, met een pet op. Ik wilde zien of het rapport overeind bleef als de raad erop schoot.
+아무도 몰랐죠. 모자를 쓰고 맨 뒤에 앉았어요. 시의회가 공격해도 보고서가 버티는지 보고 싶었어요.
+Priya: En?
+그래서요?
+Anouk: Het bleef overeind. En u ook. "Een algoritme hoeft niet naar afkomst te vragen om op afkomst te selecteren." Die zin heb ik opgeschreven.
+버티더군요. 람딘 씨도요. "알고리즘은 출신을 묻지 않고도 출신으로 선별할 수 있다." 그 문장을 적어 뒀어요.
+Priya: Mag ik vragen waarom u hem opschreef?
+왜 적으셨는지 여쭤봐도 될까요?
+Anouk: Omdat het de beste zin was die ik dat jaar in een politieke zaal heb gehoord. En hij kwam niet van een politicus.
+그해 정치 회의장에서 들은 가장 좋은 문장이었으니까요. 그리고 정치인이 한 말이 아니었어요.
+— Scène 3: De vergadertafel, die middag (그날 오후, 회의 테이블) —
+Thijs: Campagnestrateeg. (stilte) Van een politieke partij.
+선거 전략가라. (침묵) 정당의.
+Priya: Ik vind het geweldig. En ik vind het verschrikkelijk. Allebei.
+멋진 일 같아요. 그리고 끔찍한 일 같아요. 둘 다요.
+Femke: Precies wat ik voel. Laten we de feiten scheiden van de meningen.
+제 기분이 딱 그래요. 사실과 의견을 나눠 봐요.
+Thijs: Feit: als jij voor Brug werkt, is HBR niet meer onafhankelijk zolang jij partner bent. Elke gemeente met een wethouder van een andere partij zal zeggen dat ons rapport politiek gekleurd is.
+사실: 펨커가 Brug를 위해 일하면, 펨커가 파트너로 있는 한 HBR은 더 이상 독립적이지 않아요. 다른 정당 부시장이 있는 모든 지자체가 우리 보고서가 정치적으로 물들었다고 할 거예요.
+Priya: Feit: we hebben nu drie lopende onderzoeken bij overheden.
+사실: 지금 공공기관 조사가 세 건 진행 중이에요.
+Femke: Feit: onafhankelijkheid kun je maar één keer verliezen. Daarna geloof niemand je meer.
+사실: 독립성은 단 한 번만 잃을 수 있어요. 그 뒤엔 아무도 믿지 않죠.
+Priya: Gelooft. Niemand gelooft je.
+"믿지 않는다(gelooft)"예요. 아무도 믿지 않는다.
+Femke: (lacht ondanks zichzelf) Je verbetert mij nu.
+(자기도 모르게 웃으며) 이젠 프리야가 날 고쳐 주네요.
+Priya: Iemand moet het doen.
+누군가는 해야죠.
+Thijs: Mening: je zou het goed doen. Je hebt Gerrit overtuigd. Een raad van commissarissen. Een vakbondsman in de haven. Een kiezer is niet moeilijker.
+의견: 펨커는 잘할 거예요. 헤릿을 설득했잖아요. 감독이사회도요. 항구의 노조 위원장도요. 유권자가 더 어렵진 않아요.
+Femke: Mening: ik ben bang dat ik mezelf verlies. Dat ik ga praten in slogans.
+의견: 제가 저 자신을 잃을까 봐 두려워요. 구호로 말하게 될까 봐요.
+Priya: Mening: dat gebeurt niet. Je hebt een boekje met alles wat je nooit moet zeggen.
+의견: 그런 일은 없을 거예요. 절대 하지 말아야 할 말을 적은 수첩이 있잖아요.
+Femke: Twee boekjes inmiddels.
+이젠 두 권이에요.
+Thijs: Dan een voorstel. Jij neemt een jaar verlof van HBR. Je bent geen partner meer zolang je voor Brug werkt. Je naam gaat van de deur.
+그럼 제안할게요. 펨커는 HBR에서 1년 휴직해요. Brug를 위해 일하는 동안엔 파트너가 아니에요. 펨커 이름은 문패에서 내려요.
+Femke: (stil) Van de deur.
+(조용히) 문패에서.
+Thijs: Tijdelijk. En we zeggen dat openbaar. Zodat niemand later kan zeggen dat we het verborgen hebben.
+일시적으로요. 그리고 그걸 공개적으로 밝혀요. 나중에 아무도 우리가 숨겼다고 말할 수 없게요.
+Priya: En ik? Wie leidt HBR?
+그럼 저는요? HBR은 누가 이끌어요?
+Thijs: Jij.
+프리야요.
+Priya: (verbaasd) En jij dan?
+(놀라며) 그럼 테이스는요?
+Thijs: (na een stilte) Ik ga met Femke mee. Iemand moet de cijfers van haar partij doorrekenen voordat het Centraal Planbureau het doet. En als ik bij HBR blijf terwijl Femke bij Brug zit, denkt iedereen dat we toch samenwerken.
+(잠시 침묵 후) 저는 펨커와 같이 가요. 누군가는 중앙계획국이 하기 전에 그 정당 공약을 계산해야 하니까요. 그리고 펨커가 Brug에 있는 동안 제가 HBR에 남아 있으면, 다들 우리가 결국 같이 일한다고 생각할 거예요.
+Priya: Dus ik ben alleen.
+그럼 저 혼자예요.
+Femke: Niet alleen. Je neemt twee analisten aan. En je laat elk rapport door een tweede persoon nakijken. Vier ogen.
+혼자가 아니에요. 분석가 두 명을 뽑고, 모든 보고서를 다른 사람이 검토하게 해요. 네 눈이요.
+Priya: (kijkt naar de muur, dan naar Femke) Wat zou ik doen als ik niet bang was?
+(벽을 보다가 펨커를 보며) 두렵지 않다면 나는 어떻게 할까?
+Femke: Wat zou je doen?
+어떻게 할 거예요?
+Priya: Ja zeggen.
+'예'라고 하겠죠.
+— Scène 4: Femke belt haar moeder (펨커, 어머니에게 전화하다) —
+Moeder van Femke: Femke! Ik zag op het nieuws dat het kabinet is gevallen. Gaat het goed met je?
+펨커! 뉴스에서 내각이 무너졌다던데. 너는 괜찮니?
+Femke: Mem, ik moet je iets vragen. Wat zou pake zeggen als ik de politiek in ging?
+엄마, 물어볼 게 있어요. 제가 정치판에 들어가면 할아버지가 뭐라고 하셨을까요?
+Moeder van Femke: (lacht) Pake? Die zei altijd dat politici praten en boeren werken.
+(웃으며) 할아버지? 늘 정치인은 말하고 농부는 일한다고 하셨지.
+Femke: Dat dacht ik al.
+그럴 줄 알았어요.
+Moeder van Femke: Maar hij zei ook: als er niemand van ons gaat, praten ze alleen maar over ons. Niet met ons.
+하지만 이런 말도 하셨어. 우리 같은 사람이 아무도 안 가면, 그 사람들은 우리에 대해서만 말하지 우리와는 말하지 않는다고.
+Femke: (stil) Dat had hij nooit tegen mij gezegd.
+(조용히) 그 말은 저한테 한 번도 안 하셨어요.
+Moeder van Femke: Jij was nog klein. En je was altijd bezig met boeken. (stilte) Wat ga je doen?
+넌 아직 어렸지. 그리고 늘 책만 봤잖아. (침묵) 어떻게 할 거니?
+Femke: Ik denk dat ik ja ga zeggen. Voor één campagne. Daarna kom ik terug.
+'예'라고 할 것 같아요. 선거 운동 한 번만요. 그다음엔 돌아올 거예요.
+Moeder van Femke: Dat zei je ook over Helmond. Toen bleef je drie jaar.
+헬몬트 때도 그렇게 말했지. 그러고 3년을 있었잖아.
+Femke: (lacht) Dat is waar.
+(웃으며) 그건 맞네요.
+Moeder van Femke: Doe het, famke. En zeg tegen die mensen in Den Haag dat ze ook eens naar Friesland moeten komen.
+해 봐, 얘야. 그리고 헤이그 사람들한테 프리슬란트에도 좀 와 보라고 해.
+— Scène 5: Bij de deur van het pakhuis, vrijdagochtend (금요일 아침, 창고 문 앞) —
+Thijs: (met een schroevendraaier) Klaar? Ik haal hem eraf.
+(드라이버를 들고) 준비됐어요? 뗄게요.
+Femke: (kijkt naar het bord: "Hoekstra Brouwer & Ramdin") Wacht. Even kijken.
+("Hoekstra Brouwer & Ramdin" 문패를 바라보며) 잠깐만요. 한 번만 볼게요.
+Priya: Het is tijdelijk.
+일시적인 거예요.
+Femke: Dat weet ik. Maar drie jaar geleden hingen we hem op met vier emmers en nul klanten.
+알아요. 하지만 3년 전에 양동이 넷이랑 고객 0명으로 이걸 걸었잖아요.
+Thijs: (schroeft het bord los) Nu hangt er een nieuw. (houdt een tweede bord omhoog) "HBR Onderzoek — directeur: Priya Ramdin".
+(문패를 풀며) 이제 새 걸 걸어요. (두 번째 문패를 들어 보이며) "HBR 조사 — 대표: 프리야 람딘."
+Priya: (sprakeloos) Wanneer heb je dat laten maken?
+(말문이 막혀) 그거 언제 만들었어요?
+Thijs: Woensdag. Ik wist dat je ja zou zeggen.
+수요일에요. 프리야가 '예'라고 할 줄 알았거든요.
+Priya: En als ik nee had gezegd?
+제가 '아니요'라고 했으면요?
+Thijs: Dan had ik hem bij mijn vader in de schuur gehangen. Hij verzamelt borden.
+그럼 우리 아버지 헛간에 걸었겠죠. 문패 수집하시거든요.
+Femke: (hangt samen met Priya het nieuwe bord op) Het staat je goed.
+(프리야와 함께 새 문패를 걸며) 잘 어울려요.
+Priya: Mag ik iets zeggen? Op mijn eerste dag bij Keizer & Co zat ik in een vergadering en zei ik niets. Jij zei: volgende keer stel je de vraag gewoon. Ik heb hem nu gesteld. Aan een hele gemeenteraad.
+하나 말해도 돼요? Keizer & Co 첫날 회의에서 저는 아무 말도 못 했어요. 펨커가 그랬죠. 다음엔 그냥 질문하라고. 이제 했어요. 시의회 전체 앞에서요.
+Femke: En nu moet ik leren om vragen te stellen aan een heel land.
+그리고 이제 저는 나라 전체에 질문하는 법을 배워야 하네요.
+Thijs: Wij. Ik ga ook mee, weet je nog?
+우리요. 저도 같이 가요, 기억하죠?
+Femke: (glimlacht) Wij.
+(미소 지으며) 우리요.
+Priya: Wat schrijf ik in de verklaring op de website?
+웹사이트 공지엔 뭐라고 써요?
+Femke: De waarheid. "Femke Hoekstra en Thijs Brouwer zijn met ingang van vandaag met verlof en geen partner meer van HBR, zolang zij betrokken zijn bij een politieke campagne. HBR voert in die periode geen onderzoek uit naar organisaties waarbij deze partij bestuursverantwoordelijkheid draagt."
+사실대로요. "펨커 훅스트라와 테이스 브라우어르는 오늘부로 휴직하며, 정치 캠페인에 관여하는 동안 HBR의 파트너가 아니다. HBR은 그 기간 동안 해당 정당이 행정 책임을 지는 조직에 대한 조사를 하지 않는다."
+Priya: Kort en eerlijk.
+짧고 정직하네요.
+Femke: Zoals het hoort.
+그래야 하죠.
+— Scène 6: Op de kade, het telefoontje naar Den Haag (부두에서, 헤이그로 거는 전화) —
+Femke: (aan de telefoon) Mevrouw Verbruggen? Femke Hoekstra.
+(전화로) 페르브뤼헌 씨? 펨커 훅스트라예요.
+Anouk: Het is vrijdag. Ik hoopte al op uw telefoontje.
+금요일이네요. 전화 기다리고 있었어요.
+Femke: Het antwoord is ja. Onder drie voorwaarden.
+대답은 '예'예요. 조건이 세 가지 있어요.
+Anouk: (lacht) Ik had niet anders verwacht. Ik luister.
+(웃으며) 다른 건 기대도 안 했어요. 듣고 있어요.
+Femke: Eén: we beloven niets wat we niet kunnen waarmaken. Alles wat in het programma staat, laten we doorrekenen. Twee: we zeggen nooit iets over een tegenstander wat niet waar is. Ook niet als het ons stemmen kost.
+첫째, 지킬 수 없는 건 약속하지 않는다. 공약에 들어가는 건 전부 계산을 받는다. 둘째, 상대에 대해 사실이 아닌 말은 절대 하지 않는다. 그 때문에 표를 잃더라도요.
+Anouk: En drie?
+그럼 셋째는요?
+Femke: Drie: na de campagne ga ik terug. Geen baan in Den Haag, geen functie. Ik ben er voor één campagne.
+셋째, 선거 운동이 끝나면 돌아간다. 헤이그에서의 일자리도, 직책도 없이. 저는 선거 운동 한 번을 위해 가는 거예요.
+Anouk: Dat laatste geloof ik pas als ik het zie. Maar akkoord. Alle drie.
+마지막 건 제 눈으로 봐야 믿겠지만, 좋아요. 세 가지 다요.
+Femke: En ik neem iemand mee. Thijs Brouwer. Hij rekent uw programma door voordat het Centraal Planbureau dat doet.
+그리고 한 사람을 데려갈게요. 테이스 브라우어르요. 중앙계획국이 하기 전에 공약을 계산할 거예요.
+Anouk: De man van de dertienwekenprognose. Die wilde ik ook al bellen.
+13주 예측표 그 사람이요. 저도 전화하려던 참이었어요.
+Femke: Wanneer beginnen we?
+언제 시작해요?
+Anouk: Maandag. Om acht uur. In ons partijbureau in Den Haag. Het lekt er niet, beloofd.
+월요일이요. 아침 8시. 헤이그 당사에서요. 거긴 비 안 새요. 약속해요.
+Femke: (glimlacht, kijkt naar het water) Dan ben ik er.
+(미소 지으며 물을 바라본다) 그럼 갈게요.
+Femke: (hangt op, pakt haar notitieboekje en schrijft) "Wat ik geleerd heb in de Houthavens: de waarheid vertellen is niet genoeg. Je moet ook blijven luisteren als de waarheid pijn doet. Ook bij jezelf."
+(전화를 끊고 수첩을 꺼내 적는다) "하우트하번스에서 배운 것: 진실을 말하는 것만으로는 부족하다. 진실이 아플 때도 계속 들어야 한다. 나 자신에게서도."
+
+## 주요 단어
+het kabinet | 헷 카비넷 | 내각
+vallen → is gevallen | 팔런 → 이스 허팔런 | (내각이) 무너지다
+de verkiezingen | 더 버르키징언 | 선거
+de Kamervragen | 더 카머르프라헌 | 국회(하원) 질의서
+de Tweede Kamer | 더 트베이더 카머르 | 하원
+de lijsttrekker | 더 레이스트레커르 | (정당의) 대표 후보, 선거 명부 1번
+de campagnestrateeg | 더 캄파녀스트라테이흐 | 선거 전략가
+de zetel | 더 제이털 | 의석
+de peiling | 더 페일링 | 여론조사
+het Centraal Planbureau (CPB) | 헷 센트랄 플란뷔로 | 중앙계획국(경제정책분석국)
+ontmaskeren → heeft ontmaskerd | 온트마스커런 → 헤이프트 온트마스커르트 | 가면을 벗기다, 폭로하다
+het verlof | 헷 버를로프 | 휴가, 휴직
+inlijsten → heeft ingelijst | 인레이스턴 → 헤이프트 인헐레이스트 | 액자에 넣다
+de marsepein | 더 마르서페인 | 마지팬
+de bestuursverantwoordelijkheid | 더 버스타위르스버란트보르덜럭헤이트 | 행정 책임
+
+## 표현·문법 정리
+**Het kabinet is gevallen:** "내각이 무너졌다." 네덜란드 정치 뉴스의 단골 문장. 연정 붕괴를 뜻합니다.
+**Politiek is niet mijn wereld:** "정치는 제 세계가 아니에요." 거절의 첫 반응.
+**Juist daarom vraag ik u:** "바로 그래서 부탁드리는 거예요." 상대의 반대 이유를 승낙의 이유로 뒤집는 설득 표현.
+**Wat zou je doen als je niet bang was?:** "두렵지 않다면 어떻게 하겠어요?" 비현실 조건문으로 결정의 핵심을 묻는 질문.
+**Onafhankelijkheid kun je maar één keer verliezen:** "독립성은 단 한 번만 잃을 수 있다(한번 잃으면 끝이다)."
+**Niemand gelooft je:** 주어 niemand(3인칭 단수)이므로 동사는 gelooft. Femke의 "geloof"를 Priya가 고쳐 줍니다 — 1부부터 이어진 '고쳐 주기' 장치의 역전.
+**Dat bevalt me:** "마음에 드네요." bevallen + 사람(여격).
+**ertoe doen:** "중요하다." De enige vraag die ertoe doet.
+**iets licht nemen:** "가볍게 여기다."
+**met ingang van vandaag:** "오늘부로." 공식 공지의 고정 표현.
+**Het staat je goed:** "잘 어울린다." staan + 사람 + goed.
+**famke:** 프리슬란트어로 '아가씨, 딸'. Femke라는 이름의 어원과도 연결되는 말장난.
+**Dat geloof ik pas als ik het zie:** "직접 봐야 믿겠어요." pas = ~해야 비로소.
+
+## 컨설팅 스킬 노트
+**역할 전환의 원칙:** 조사자가 정치에 참여할 때는 ① 조직에서 공식적으로 물러나고(휴직, 문패 제거) ② 그 사실을 공개하고 ③ 이해충돌 영역(해당 정당이 책임지는 기관 조사)을 피하는 규칙을 미리 정합니다. "독립성은 한 번만 잃을 수 있다."
+**조건부 승낙:** 새 역할을 받아들일 때 가치를 지키는 조건을 먼저 합의합니다. 지킬 수 있는 것만 약속, 상대에 대한 거짓 없음, 끝나는 시점. 1부 13화의 "6주 뒤 자동 종료"와 같은 원리입니다.
+**사실과 의견 분리(3부 반복 기법):** 개인적 결정에도 화이트보드의 두 칸을 씁니다. 사실(독립성, 진행 중 조사)과 의견(두려움, 잘할 것이라는 기대)을 나누면 결정이 보입니다.
+**3부 기법 총정리:** 서비스 정의와 독립성(1화) · 감사 인터뷰 설계(2화) · 사실과 해석 분리·초안 검토(3화) · 의사결정 과정 감사(4화) · RACI(5화) · 시나리오와 정치적 중립(6화) · 제보와 증거 보전(7화) · 불리한 결론 전달(8화) · 지출 흐름 추적(9화) · 감정적 사안의 독립성(10화) · 쉬운 설명(11화) · 알고리즘 감사(12화) · 실수 인정과 신뢰 회복(13화) · 역할 전환(14화).
+
+## 완결
+🎉 3부 De Audit 완결
+**3부 요약:** 하우트하번스의 비 새는 창고에서 시작한 «Hoekstra Brouwer & Ramdin»은 3년 동안 "진짜로 들여다보는" 감사를 했습니다. 곰팡이 신고를 '처리 완료'로 덮던 주택조합, 대안을 서랍에 넣고 응급실을 닫으려던 병원과 그 틀을 정한 보험사, 예산 절벽 앞의 시청, 매출을 부풀린 핀테크와 그것을 놓친 옛 멘토, 학습 회복 예산을 머그잔과 로고에 쓴 교육 재단, 신사협정에 무너진 축구 클럽, 아무도 이해할 수 없는 편지를 보낸 연금기금, 그리고 출신을 묻지 않고도 출신으로 차별한 알고리즘. 마지막엔 그들 자신의 실수까지 공개적으로 바로잡았습니다.
+**성장:** 펨커는 진실을 말하되 가까운 사람에게도 같은 기준을 지키는 법을 배웠고, 테이스는 숫자 뒤의 사람을 세는 법을, 프리야는 시의회 전체 앞에서 혼자 말하고 자신의 실수를 인정하는 법을 배웠습니다. 문패에는 이제 «HBR Onderzoek — directeur: Priya Ramdin»이 걸려 있습니다.
+**4부 예고 — De Campagne (선거전):** 내각이 무너지고, 석 달 반 뒤 조기 총선이 열립니다. 펨커와 테이스는 신생 중도 정당 «Brug»의 대표 아나우크 페르브뤼헌과 함께 헤이그로 갑니다. 공약 계산, 여론조사, 주택난과 질소 문제, 토론회, 스캔들, 딥페이크, 개표의 밤, 그리고 밀실의 연정 협상. 숫자와 논리로 사람의 마음을 움직일 수 있을까요?

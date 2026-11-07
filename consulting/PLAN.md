@@ -43,7 +43,7 @@
 | 말투 | 직설적이지만 따뜻함. 회의에서는 `u`, 동료에게 `je` | 짧고 단호. 로테르담식 표현(`Gewoon doen.`) | 처음엔 공손한 `u`, 3부부터 거침없음 |
 | 2부 | **CEO** | **CFO** | 데이터·IT 책임자(COO 대행) |
 | 3부 | 공동창업 파트너(전략·지배구조 감사) | 공동창업 파트너(재무·포렌식) | **파트너로 승격**, 알고리즘 감사 담당 |
-| 4부 | 정당 «Brug» 선거 전략가 | 선거 자금·공약 비용 계산(CPB 대응) | 여론조사·데이터 캠페인 → 마지막 화에서 회사 대표 |
+| 4부 | 정당 «Brug» 선거 전략가 | 선거 자금·공약 비용 계산(CPB 대응) | HBR 대표(독립성 유지), 딥페이크 독립 검증 |
 
 > **언어 장치**: 세 사람은 지역·계층·세대가 달라 표준 네덜란드어 안에서도 말투 차이가 생김. 고객사 인물이 바뀔 때마다 새 어휘(금융·제조·의료·정치)가 들어와 화마다 학습 주제가 자연스럽게 달라짐.
 
@@ -78,7 +78,7 @@
 | 1부 | 1년차 9월 → 2년차 6월 | Femke 매니저 승진 시험, Thijs 입사, Priya 신입 |
 | 2부 | 2년차 9월 → 5년차 봄 (화 사이 시간 점프) | 헬몬트 이주, 공장 회생 |
 | 3부 | 6년차 → 8년차 | 독립 창업, 감사 사건 12건 |
-| 4부 | 9년차 가을 → 10년차 여름 | 조기 총선과 연정 협상 |
+| 4부 | 9년차 2월 → 10년차 봄 | 조기 총선(6월)과 연정 협상 |
 
 > 실제 연도를 박지 않아서 현안(예: 30% 루링 축소, 연금 이행 기한, 2026 지자체 예산 절벽)을 "지금 일어나는 일"로 자연스럽게 쓸 수 있게 함. 수치·제도는 집필 시점 기준으로 다시 확인.
 
@@ -240,23 +240,23 @@
 
 ### 4부 · De Campagne (선거전) — C1
 
-> 무대: 헤이그. 내각 붕괴로 조기 총선. 신생 중도 정당 «Brug»(가상, "다리를 놓는 정당")의 선거 전략가 Femke. Thijs는 공약 비용 계산, Priya는 여론·데이터. 선거(1~9화) → 연정 협상(10~13화) → 귀환(14화).
+> 무대: 헤이그. 내각 붕괴로 조기 총선. 신생 중도 정당 «Brug»(가상, "다리를 놓는 정당")의 선거 전략가 Femke. Thijs는 공약 비용 계산, 당의 데이터 책임자 Sara Bakkali(신규)가 여론·데이터 담당. Priya는 HBR 대표로 남아 독립성을 지키며 8화에서 외부 검증자로 등장. 선거(1~9화) → 연정 협상(10~13화) → 귀환(14화).
 
 | 화 | 제목 | 수준 | 장소·시점 | 줄거리 | 현안 | 핵심 표현 | 💼 스킬 |
 |---|---|---|---|---|---|---|---|
-| 1 | Den Haag roept (헤이그가 부른다) | C1 | 당사·기자 클럽 Nieuwspoort·3월 | 첫 출근. 사무총장 Kees: "정치는 감사가 아니오." 선거까지 110일 | 신당 돌풍, 비넨호프 보수 공사 | De kiezer is geen klant · Wat is ons verhaal? · In de politiek telt perceptie | 포지셔닝 |
-| 2 | Het verkiezingsprogramma (선거 공약) | C1 | 당 강령위원회·4월 | 공약을 줄이고 다듬기. Thijs가 CPB 공약 비용 계산 대비 숫자를 맞춤 | CPB 공약 계산, 재정 규율 | Is dit doorgerekend? · Beloof niets wat je niet kunt waarmaken · Minder is meer | 우선순위 정하기 |
-| 3 | De peilingen (여론조사) | C1 | 데이터룸·5월 | Priya의 분석: 지지율 4석, 젊은층·지방에서 약함. 전략적 투표의 함정 | 여론조사, 전략적 투표 | Peilingen zijn geen uitslagen · Waar zit onze groei? · We praten tegen de verkeerde mensen | 유권자 세분화 |
-| 4 | Woningnood aan de deur (현관 앞의 주택난) | B2~C1 | 알메러·위트레흐트 가가호호 방문·6월 | Anouk와 함께 유권자 집을 돌며 청년·노부부의 목소리 듣기. 연설문 다시 쓰기 | 주택난, 청년 세대 박탈감 | Wat merkt u er zelf van? · Ik ga u niets beloven · Uw verhaal neem ik mee | 공감 인터뷰 |
-| 5 | Stikstof en de boer (질소와 농부) | C1 | 헬더르선 발레이 축산농가·트랙터 시위·6월 | 농가의 분노, 자연보호 단체와의 대화. Anouk가 양쪽에서 비난받음 | 질소 위기, 농민 시위 | U begrijpt het niet · Wij willen een toekomst voor boer én natuur · Daar ga ik niet omheen draaien | 갈등 프레이밍 |
-| 6 | Het debat (토론) | C1 | 리허설 스튜디오→방송국·7월 | 대표 토론회 준비. Femke가 상대 당 역할을 맡아 Anouk를 몰아붙임. 실제 토론에서 한 문장이 화제 | 이민·난민 수용 논쟁 | Dat is een karikatuur van ons standpunt · Laat me even uitpraten · De vraag is niet of, maar hoe | 토론 리허설·메시지 하우스 |
-| 7 | Het lek (유출) | C1 | 당사 위기 회의·심야·8월 | 후보 명단 3번의 과거 사업 실패와 미납 세금이 유출. 누가 흘렸나? Maarten을 의심했다가 오해로 밝혀지고 화해 | 정치인 검증(screening) | Wie A zegt, moet ook B zeggen · Wij zijn niet perfect, wel eerlijk · Dit blijft niet bij één dag | 스캔들 대응 |
-| 8 | Deepfake (딥페이크) | C1 | 데이터룸·방송국·9월 | 선거 열흘 전 Anouk의 가짜 영상이 퍼짐. Priya의 검증, 플랫폼·선관위 대응 | 허위정보, AI와 선거 | Dit is aantoonbaar nep · Wij gaan niet terugslaan met modder · De waarheid heeft tijd nodig | 허위정보 대응 |
-| 9 | De verkiezingsavond (개표의 밤) | C1 | 선거 파티장·10월 수요일 밤 | 출구조사 9석 → 개표 후 11석. 환호와 눈물. 다음 날 아침 "이제 진짜 일이 시작된다" | 개표·의석 배분 | De exitpoll is binnen! · Dit hadden we niet durven dromen · Nu begint het pas | 성과 해석 |
-| 10 | De verkenner (정찰자) | C1 | 국회 임시 의사당 방·10월 | 정찰자(verkenner)와의 면담. 어떤 연정이 가능한가, 무엇을 양보할 수 없는가 | 연정 구성 절차 | Wij sluiten niets uit · Onze rode lijnen zijn helder · Dat is geen breekpunt | 협상 전략 설계 |
-| 11 | Onderhandelen in de achterkamer (밀실 협상) | C1 | 협상장 별관·11월 | 흐로닝언 지진 피해 보상, 수당 스캔들 피해자 회복, 국방비. 밤샘 협상, "포도주에 물을 타다" | 흐로닝언 가스 피해, 수당 스캔들 회복 | Wij moeten water bij de wijn doen · Wat krijgen wij daarvoor terug? · De kool en de geit sparen | 양보 교환(trade-off) |
-| 12 | Het coalitieakkoord (연정 협정) | C1 | 협정문 작성실·12월 | 문구 한 단어를 두고 새벽까지 싸움("onderzoeken" vs "invoeren"). Kees와 Femke가 처음으로 서로를 인정 | 연금·이민·기후·스히폴 | Elk woord telt · Dit kunnen wij uitleggen aan onze kiezers · Een akkoord is nooit van één partij | 문서로 설득하기 |
-| 13 | De bordesfoto (계단 사진) | C1 | 궁전 계단 앞·1월 | 새 내각 사진 촬영. Anouk가 Femke에게 차관직을 제안, Femke는 정중히 거절. 외교적 거절의 정석 | 내각 출범 | Ik voel me zeer vereerd, maar… · Mijn plek is ergens anders · U weet mij te vinden | 자기 역할 정의 |
+| 1 | Den Haag roept (헤이그가 부른다) | C1 | 당사·기자 클럽 Nieuwspoort·2월 말 | 첫 출근. 사무총장 Kees: "정치는 감사가 아니오." 선거까지 110일 | 신당 돌풍, 비넨호프 보수 공사 | De kiezer is geen klant · Wat is ons verhaal? · In de politiek telt perceptie | 포지셔닝 |
+| 2 | Het verkiezingsprogramma (선거 공약) | C1 | 당 강령위원회·3월 | 공약을 줄이고 다듬기. Thijs가 CPB 공약 비용 계산 대비 숫자를 맞춤 | CPB 공약 계산, 재정 규율 | Is dit doorgerekend? · Beloof niets wat je niet kunt waarmaken · Minder is meer | 우선순위 정하기 |
+| 3 | De peilingen (여론조사) | C1 | 데이터룸·3월 | Sara의 분석: 지지율 4석, 젊은층·지방에서 약함. 전략적 투표의 함정 | 여론조사, 전략적 투표 | Peilingen zijn geen uitslagen · Waar zit onze groei? · We praten tegen de verkeerde mensen | 유권자 세분화 |
+| 4 | Woningnood aan de deur (현관 앞의 주택난) | B2~C1 | 알메러·위트레흐트 가가호호 방문·4월 | Anouk와 함께 유권자 집을 돌며 청년·노부부의 목소리 듣기. 연설문 다시 쓰기 | 주택난, 청년 세대 박탈감 | Wat merkt u er zelf van? · Ik ga u niets beloven · Uw verhaal neem ik mee | 공감 인터뷰 |
+| 5 | Stikstof en de boer (질소와 농부) | C1 | 헬더르선 발레이 축산농가·트랙터 시위·4월 | 농가의 분노, 자연보호 단체와의 대화. Anouk가 양쪽에서 비난받음 | 질소 위기, 농민 시위 | U begrijpt het niet · Wij willen een toekomst voor boer én natuur · Daar ga ik niet omheen draaien | 갈등 프레이밍 |
+| 6 | Het debat (토론) | C1 | 리허설 스튜디오→방송국·5월 | 대표 토론회 준비. Femke가 상대 당 역할을 맡아 Anouk를 몰아붙임. 실제 토론에서 한 문장이 화제 | 이민·난민 수용 논쟁 | Dat is een karikatuur van ons standpunt · Laat me even uitpraten · De vraag is niet of, maar hoe | 토론 리허설·메시지 하우스 |
+| 7 | Het lek (유출) | C1 | 당사 위기 회의·심야·5월 | 후보 명단 3번의 과거 사업 실패와 미납 세금이 유출. 누가 흘렸나? Maarten을 의심했다가 오해로 밝혀지고 화해 | 정치인 검증(screening) | Wie A zegt, moet ook B zeggen · Wij zijn niet perfect, wel eerlijk · Dit blijft niet bij één dag | 스캔들 대응 |
+| 8 | Deepfake (딥페이크) | C1 | 데이터룸·방송국·6월 초 | 선거 열흘 전 Anouk의 가짜 영상이 퍼짐. 방송사가 HBR(Priya)에 독립 검증을 의뢰, Sara의 대응, 플랫폼·선관위 대응 | 허위정보, AI와 선거 | Dit is aantoonbaar nep · Wij gaan niet terugslaan met modder · De waarheid heeft tijd nodig | 허위정보 대응 |
+| 9 | De verkiezingsavond (개표의 밤) | C1 | 선거 파티장·6월 수요일 밤 | 출구조사 9석 → 개표 후 11석. 환호와 눈물. 다음 날 아침 "이제 진짜 일이 시작된다" | 개표·의석 배분 | De exitpoll is binnen! · Dit hadden we niet durven dromen · Nu begint het pas | 성과 해석 |
+| 10 | De verkenner (정찰자) | C1 | 국회 임시 의사당 방·6월 말 | 정찰자(verkenner)와의 면담. 어떤 연정이 가능한가, 무엇을 양보할 수 없는가 | 연정 구성 절차 | Wij sluiten niets uit · Onze rode lijnen zijn helder · Dat is geen breekpunt | 협상 전략 설계 |
+| 11 | Onderhandelen in de achterkamer (밀실 협상) | C1 | 협상장 별관·7~8월 | 흐로닝언 지진 피해 보상, 수당 스캔들 피해자 회복, 국방비. 밤샘 협상, "포도주에 물을 타다" | 흐로닝언 가스 피해, 수당 스캔들 회복 | Wij moeten water bij de wijn doen · Wat krijgen wij daarvoor terug? · De kool en de geit sparen | 양보 교환(trade-off) |
+| 12 | Het coalitieakkoord (연정 협정) | C1 | 협정문 작성실·9월 | 문구 한 단어를 두고 새벽까지 싸움("onderzoeken" vs "invoeren"). Kees와 Femke가 처음으로 서로를 인정 | 연금·이민·기후·스히폴 | Elk woord telt · Dit kunnen wij uitleggen aan onze kiezers · Een akkoord is nooit van één partij | 문서로 설득하기 |
+| 13 | De bordesfoto (계단 사진) | C1 | 궁전 계단 앞·10월 | 새 내각 사진 촬영. Anouk가 Femke에게 차관직을 제안, Femke는 정중히 거절. 외교적 거절의 정석 | 내각 출범 | Ik voel me zeer vereerd, maar… · Mijn plek is ergens anders · U weet mij te vinden | 자기 역할 정의 |
 | 14 | Terug aan de gracht (다시 운하로) | B2~C1 | 암스테르담 서점 «De Tweede Pagina»(카메오)→HBR 사무실·봄 | Priya가 HBR 대표가 되고, Thijs는 Verhoef 감독이사회로. Femke는 Ingrid와 재회한 뒤 HBR 신입에게 노트를 건네며 "질문 뒤의 질문은 뭐죠?" — 1부 1화의 거울 | (정리 화) | Wat is de vraag achter de vraag? · Ik heb veel geleerd, vooral van mijn fouten · Welkom bij het team | 시리즈 총정리 |
 
 ---
@@ -323,10 +323,11 @@
 |---|---|---|
 | 1부 Het Advies (14화) | **완료** (각 화 120턴, 단어 15개, 표현 13항목, 스킬 노트) | `consulting/part1/ep01.txt` … `ep14.txt` → `consulting/part1/part1-advies.docx` |
 | 2부 De Fabriek (14화) | **완료** | `consulting/part2/ep01.txt` … `ep14.txt` → `consulting/part2/part2-fabriek.docx` |
-| 3부 De Audit (14화) | 기획 완료 | `consulting/part3/` (예정) |
-| 4부 De Campagne (14화) | 기획 완료 | `consulting/part4/` (예정) |
+| 3부 De Audit (14화) | **완료** | `consulting/part3/ep01.txt` … `ep14.txt` → `consulting/part3/part3-audit.docx` |
+| 4부 De Campagne (14화) | 집필 중 | `consulting/part4/` |
 
 - 도구: `consulting/tools/check_ep.py`(120턴·해석·장면 표시·단어 15·표현 10~13·스킬 노트·핵심 표현 점검), `consulting/tools/build_docx.py`(저장소 루트에서 실행, `tools/template.docx` 사용)
 - 1부에서 생긴 설정(2부 이후 이어 쓸 것): Thijs의 부모 헹크(전 래싱공, 허리 부상)·헤르다(샤를루아), 아내는 교사(에인트호번으로 이사) / Femke의 어머니(레이우아르던), 할아버지(pake)는 농부 / Priya의 삼촌은 헤이그 식료품점 주인(계좌 해지 피해) / Keizer & Co 파트너 Maarten(이해충돌 갈등, "boos en trots"), Ingrid(멘토, 젊은 시절 해운사 제안을 거절한 후회) / Verhoef: 창업자 얀(67세, 4월 골프장 심장마비), 동생 헤릿(COO, "Ik ben een draaier, geen directeur"), 딸 마를루스(법률가, 감독이사), 감독이사회 의장 프란스 콜런, 최대 고객 구매 담당 라르스 더 빗(두 번째 공급업체 검토 중, 20~30%) / 진단 결과: 기계 가동 중단 31%, 재고 2년간 +60%, CFO 공석, 고객 주문 20% 감소 시 2분기 안에 은행 약정 위반, 채용 공고 38건 / 세 사람은 9월 1일 아침 7시 첫 출근, Priya는 데이터·IT 담당 / 기자 예룬 보스(«De Beurskoerier»)는 1부 3화에 첫 등장
 - 2부에서 생긴 설정(3부 이후 이어 쓸 것): Verhoef 후임 체제 — CEO 마를루스, COO 아르준 메타(인도 출신, 아내와 딸), CFO 헤스터르 스미츠(전 은행 특별관리부), 헤릿은 주 2일 지도 선배 / OR 의장 세브다 악소이, 위원 헹크 / 야간 조 바스(뭐든 출력), 요스(58세, 손자), 에디(전 트럭 기사), 견습생 노아·야스미나, 엔지니어 리커(보스니아계, 국방 위원회 위원), IT 뤼트, 인사 마리커, 영업 롭, 구매팀 산너(피싱 메일 클릭 후 보안 교육 담당) / 얀의 부인 리트, 고모 리스, 사촌 바르트 / 테이스의 아내 메럴(교사, 하를럼으로 이사 희망) / 고객 라르스 더 빗·모니크 헤르만스(펠트호번), MedVision 한스페터(베스트), 헹얼로 방산 기업 / 펠란트 캐피털 파트너 산더르 콕(1부 Fietsmand 투자자) / 협력업체 프레시지코팅스 자위트의 회계 부정·파산(감사인이 4년간 적정 의견) → HBR 창업의 계기 / 마르턴: "Bij mij een audit? Dat zou ik nog wel eens willen zien." → 3부 7~8화 복선 / Femke의 새 수첩 표지: "Wat is de vraag achter de vraag?"(직원들이 선물) / HBR 사무실: 하우트하번스의 비 새는 옛 창고(창문이 예쁨) / 회사 이름 순서 농담(Hoekstra Brouwer & Ramdin)
+- 3부에서 생긴 설정(4부에서 이어 쓸 것): HBR 사건 목록 — 주택조합 Woonstede Zaanstreek(대표 로버르트 스바르트 사임, 세입자 협회장 무라트·딸 엘리프, 파티마 엘 암라니) · 동부 병원 Oostflank(병원장 한네커 베스터르펠트, 응급의 요리스, 조산사 엘런, 보험사 조르흐사멘의 바르트 오버르베이크, 지역 협의체) · 베스터르암스털 시(재정 부시장 카린 데커르, 폐기물 회사 합병) · 핀테크 Payvaart(CEO 스벤 루룰프스 직무 정지, CFO 나디아 함디, 제보자 제시, 앤트워프 변호사 페르베커, 마르턴은 자문 계약 종료 후 젊은 컨설턴트 교육) · 교육 재단 킨트크라흐트(노르 선생님, 단) · 축구 클럽 SC 레인스타트(톤, 리뉘스, 유망주 야신) · 연금기금(헹크 판 오스, 리사) · 베스테르뷔르흐 생계 지원 알고리즘(사미라와 딸, 개발자 셈, 옴부즈맨) / 3부 13화: 부록 4의 필터 오류(4.2배→3.1배) 공개 정정, 기자 예룬 보스의 후속 기사, 벽의 네 번째 문장 "Vier ogen zien meer dan twee. Vooral om twee uur 's nachts." / Priya의 어머니(헤이그, 과거 생계 지원 수급, 두 번 조사받음, 사르나미어를 쓰는 할머니) / Femke의 할아버지 말: "우리 같은 사람이 아무도 안 가면 그들은 우리에 대해서만 말한다" / 4부 시작 조건: 내각 붕괴(망명법), 석 달 반 뒤 6월 총선, Brug 여론조사 4석, Anouk는 전 아메르스포르트 시장, Femke·Thijs는 HBR 휴직(문패에서 이름 제거), Priya가 «HBR Onderzoek» 대표, HBR은 선거 기간 해당 정당 책임 기관 조사 금지 / Femke의 세 조건: 계산된 공약만, 상대에 대한 거짓 없음, 선거 후 복귀(직책 없음)
 
