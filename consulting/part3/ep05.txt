@@ -1,0 +1,293 @@
+# 3부 5화. De zorgverzekeraar (의료보험사)
+수준: 고급 (C1) | 장소: 조산사의 집 → 자이스트 보험사 본사 → HBR 사무실 → 병원장실 → 병원 감독이사회 → 병원 입구 | 시간: 7년차 6월
+배경 현안: 네덜란드 의료 체계에서 보험사의 구매력(zorginkoop), 지방 병원의 협상력 부족, 공식 권한과 실질적 영향력의 차이
+핵심 표현: Wie heeft hier de regie? · Dat is een interessante vraag, maar… · Formeel klopt dat · Wij kopen zorg in · Niemand voelde zich eigenaar
+💼 스킬: 권한·책임 매핑(RACI: 실행·책임·협의·통보)
+
+## 대화
+— Scène 1: Bij de verloskundige thuis (조산사의 집) —
+Ellen: Koffie? Ik heb twintig minuten. Om half twaalf heb ik een bevalling, als het kind zich aan de planning houdt.
+커피 드실래요? 20분 있어요. 11시 반에 분만이 있거든요. 아기가 일정을 지켜 준다면요.
+Femke: Dank u. Ik wil graag horen hoe de sluiting van de kraamafdeling uw werk verandert.
+감사합니다. 분만실 폐쇄가 조산사님 일을 어떻게 바꾸는지 듣고 싶어요.
+Ellen: Nu bevallen de meeste vrouwen hier in het ziekenhuis, twaalf minuten rijden. Straks wordt het Enschede of Doetinchem. Vijfenveertig tot zestig minuten. Bij een eerste kind is dat meestal geen probleem. Bij een tweede of derde kind gaat het soms heel snel.
+지금은 대부분의 산모가 차로 12분 거리인 여기 병원에서 출산해요. 앞으론 엔스헤데나 두팅험이에요. 45분에서 60분. 첫째 아이는 보통 문제가 없어요. 둘째나 셋째는 가끔 아주 빨리 나와요.
+Thijs: Hoe vaak gebeurt het dat een baby onderweg komt?
+아기가 이동 중에 나오는 일이 얼마나 자주 있어요?
+Ellen: Nu een paar keer per jaar. Als de afstand groter wordt, vaker. Dat zeggen de cijfers uit andere regio's waar een kraamafdeling is gesloten.
+지금은 1년에 몇 번이요. 거리가 멀어지면 더 자주요. 분만실을 닫은 다른 지역의 숫자가 그렇게 말해요.
+Femke: Heeft het ziekenhuis u gevraagd naar uw ervaring?
+병원이 조산사님 경험을 물어본 적이 있어요?
+Ellen: Nee. De verloskundigen in de regio hebben een brief geschreven. Er kwam een standaardantwoord.
+아니요. 지역 조산사들이 편지를 썼어요. 정형화된 답장이 왔어요.
+Priya: "Uw input wordt meegenomen"?
+"의견은 참고하겠습니다"요?
+Ellen: (lacht bitter) U kent het.
+(씁쓸하게 웃으며) 아시네요.
+Femke: Wat zou voor u een aanvaardbare oplossing zijn?
+조산사님에게 받아들일 만한 해법은 뭐예요?
+Ellen: Dat er een plek blijft voor bevallingen met een laag risico, bijvoorbeeld een geboortecentrum, met verloskundigen. En snelle afspraken met de ambulance voor als het misgaat. Het hoeft geen volledige afdeling te zijn.
+위험도가 낮은 출산을 위한 곳이 남아 있는 거요. 예를 들면 조산사들이 운영하는 출산 센터요. 그리고 문제가 생기면 구급차와 신속하게 연결되는 약속이요. 완전한 분만 병동일 필요는 없어요.
+Femke: Is dat ooit voorgesteld?
+그게 제안된 적 있어요?
+Ellen: In onze brief. Pagina twee.
+우리 편지에요. 2쪽에.
+Thijs: (schrijft) Weer een alternatief dat in een la is beland.
+(적으며) 또 서랍에 들어간 대안이네요.
+Ellen: (kijkt op haar telefoon) Daar gaat mijn planning. Weeën om de vijf minuten. Ik moet gaan. Neem gerust nog koffie.
+(휴대폰을 보며) 일정이 틀어졌네요. 5분 간격 진통이래요. 가 봐야 해요. 커피는 더 드세요.
+— Scène 2: Het hoofdkantoor van de zorgverzekeraar in Zeist (자이스트 보험사 본사) —
+Bart: Bart Overbeek, directeur zorginkoop bij ZorgSamen. Ik begrijp dat u vragen heeft over Oostflank.
+조르흐사멘 의료 구매 담당 이사 바르트 오버르베이크입니다. 오스트플랑크 건으로 질문이 있으시다고요.
+Femke: Dat klopt. Wij onderzoeken hoe het besluit over de SEH en de kraamafdeling tot stand is gekomen.
+맞아요. 응급실과 분만실에 관한 결정이 어떻게 내려졌는지 조사하고 있어요.
+Bart: Dan bent u bij de verkeerde. Het ziekenhuis heeft besloten, niet wij. Wij kopen zorg in. Wij beslissen niet over de inrichting van een ziekenhuis.
+그럼 잘못 찾아오셨네요. 결정은 병원이 했지 저희가 아니에요. 저희는 의료를 구매할 뿐이에요. 병원 운영 구조는 결정하지 않아요.
+Femke: Formeel klopt dat. Maar we hebben een mail van uw afdeling gevonden, van december. Daarin staat dat het nieuwe contract "uitgaat van een concentratie van acute zorg 's nachts in Enschede".
+공식적으로는 맞아요. 하지만 12월에 이사님 부서에서 보낸 메일을 찾았어요. 새 계약이 "야간 응급 진료를 엔스헤데로 집중하는 것을 전제로 한다"고 돼 있어요.
+Bart: (kort stilte) Dat is een inkoopvisie. Wij hebben de plicht om goede zorg tegen een redelijke prijs in te kopen. Kleine SEH's met weinig patiënten zijn duur, en volgens de wetenschap niet altijd veiliger.
+(잠깐 침묵) 그건 구매 방향이에요. 저희는 좋은 의료를 합리적인 가격에 구매할 의무가 있어요. 환자가 적은 작은 응급실은 비싸고, 과학적으로도 항상 더 안전한 건 아니에요.
+Thijs: Wat gebeurde er als Oostflank de SEH 's nachts open had gehouden?
+오스트플랑크가 야간 응급실을 계속 열어 뒀다면 어떻게 됐을까요?
+Bart: Dan hadden we over de prijs moeten praten.
+그럼 가격에 대해 이야기해야 했겠죠.
+Thijs: Concreet?
+구체적으로는요?
+Bart: Dan zou de vergoeding voor de nachtelijke acute zorg lager zijn geweest. Wij betalen voor volume.
+그럼 야간 응급 진료에 대한 지급액이 더 낮았을 거예요. 저희는 물량에 대해 지급하니까요.
+Femke: Dus het ziekenhuis kon kiezen tussen sluiten of verlies maken.
+그러니까 병원은 문을 닫거나 손해를 보거나 둘 중 하나를 고를 수밖에 없었네요.
+Bart: Zo zou ik het niet formuleren.
+저라면 그렇게 표현하지 않겠어요.
+Femke: Hoe zou u het formuleren?
+그럼 어떻게 표현하시겠어요?
+Bart: Het ziekenhuis kon kiezen hoe het zijn zorg organiseert binnen de financiële kaders die wij als inkoper stellen. Dat is ons systeem. De politiek heeft het zo gewild.
+병원은 구매자인 저희가 정한 재정 틀 안에서 의료를 어떻게 조직할지 선택할 수 있었다. 그게 우리 체계예요. 정치가 그렇게 원했죠.
+Femke: (schrijft letterlijk op) Dank u. Dat is helder.
+(그대로 받아 적으며) 감사합니다. 명확하네요.
+Priya: Mag ik vragen: heeft u het voorstel van de SEH-artsen voor een spoedpost gezien? Of het geboortecentrum van de verloskundigen?
+여쭤봐도 될까요? 응급의학과 의사들의 응급 진료소 제안이나 조산사들의 출산 센터 제안을 보셨어요?
+Bart: (verrast) Nee. Die zijn nooit bij ons ingediend.
+(놀라며) 아니요. 저희한테 제출된 적이 없어요.
+Priya: Als ze wel waren ingediend, had u ze dan bekeken?
+제출됐다면 검토하셨을까요?
+Bart: Dat is een interessante vraag, maar… (aarzelt) Eerlijk gezegd: ja. Een spoedpost is veel goedkoper dan een volledige SEH. En een geboortecentrum ook. Daar hadden we waarschijnlijk over kunnen praten.
+흥미로운 질문이네요, 하지만… (머뭇거리며) 솔직히 말하면, 네. 응급 진료소는 완전한 응급실보다 훨씬 싸요. 출산 센터도 그렇고요. 아마 논의할 수 있었을 거예요.
+Thijs: (zacht tegen Femke) Daar is het.
+(펨커에게 작게) 바로 그거예요.
+Femke: Dus er lagen alternatieven die de verzekeraar mogelijk had willen betalen, maar die het ziekenhuis nooit heeft voorgelegd.
+그러니까 보험사가 지급했을 수도 있는 대안이 있었는데, 병원이 그걸 한 번도 제시하지 않은 거네요.
+Bart: Dat is uw conclusie. Ik zeg alleen dat we ernaar hadden kunnen kijken.
+그건 그쪽 결론이에요. 저는 검토할 수 있었을 거라고만 말하는 거예요.
+Femke: Dat is precies wat we zullen schrijven: dat u ernaar had kunnen kijken. Niet meer.
+그게 바로 저희가 쓸 내용이에요. 검토할 수 있었을 거라고요. 그 이상은 아니고요.
+Bart: (na een stilte) Mag ik ook iets zeggen, buiten het verslag? Wij zitten ook vast. Als wij duurder inkopen, stijgt de premie voor iedereen. Dan krijg ik boze brieven van mensen die hun zorgverzekering niet meer kunnen betalen.
+(잠시 침묵 후) 기록 밖에서 하나 말해도 될까요? 저희도 갇혀 있어요. 비싸게 구매하면 모두의 보험료가 올라요. 그럼 보험료를 못 내는 사람들한테서 화난 편지를 받죠.
+Femke: Dat geloof ik. Niemand in dit verhaal is een schurk.
+믿어요. 이 이야기에 악당은 아무도 없어요.
+Bart: Dat is zeldzaam, om te horen.
+그런 말 듣기 드문데요.
+— Scène 3: Het pakhuis in de Houthavens (하우트하번스 창고) —
+Priya: Ik heb een schema gemaakt. Een RACI-matrix. Wie voerde uit, wie was eindverantwoordelijk, wie werd geraadpleegd, wie werd alleen geïnformeerd.
+도표를 만들었어요. RACI 매트릭스요. 누가 실행했고, 누가 최종 책임자였고, 누가 협의 대상이었고, 누가 통보만 받았는지요.
+Femke: Laat zien.
+보여 줘요.
+Priya: Eindverantwoordelijk voor het besluit: de raad van bestuur. Uitvoerend: de afdeling strategie. Geraadpleegd: alleen de verzekeraar en de medische staf, maar die laatste pas na het besluit.
+결정의 최종 책임: 집행이사회. 실행: 전략부. 협의 대상: 보험사뿐, 그리고 의료진은 결정 후에야.
+Thijs: En geïnformeerd: de gemeente, de ambulancedienst, de huisartsen, de verloskundigen, de bewoners.
+그리고 통보만: 시, 구급대, 가정의, 조산사, 주민.
+Femke: Dus de partijen die de gevolgen dragen, staan allemaal in de laatste kolom. Alleen geïnformeerd.
+그러니까 결과를 떠안는 당사자들은 전부 마지막 칸에 있네요. 통보만 받은.
+Priya: En de raad van toezicht?
+그럼 감독이사회는요?
+Thijs: (bladert) De raad heeft het besluit goedgekeurd in één vergadering. Op basis van een notitie van vier pagina's. Daarin stonden de alternatieven niet.
+(넘겨 보며) 감독이사회는 회의 한 번에 결정을 승인했어요. 4쪽짜리 메모를 근거로요. 거기엔 대안이 없었어요.
+Femke: Dus de raad heeft niet gevraagd: welke alternatieven zijn overwogen?
+그러니까 감독이사회는 "어떤 대안을 검토했느냐"고 묻지 않았네요.
+Thijs: Niet volgens de notulen.
+회의록상으로는요.
+Femke: Wie heeft hier de regie? Formeel het bestuur. Feitelijk de verzekeraar, via het contract. En niemand voelde zich eigenaar van het geheel.
+여기서 주도권은 누가 쥐었나? 공식적으로는 집행이사회. 실제로는 계약을 통한 보험사. 그리고 아무도 전체에 대한 주인의식을 느끼지 않았어요.
+Priya: Dat is een harde conclusie voor de raad van toezicht die ons inhuurt.
+우리를 고용한 감독이사회한테는 냉혹한 결론이네요.
+Femke: Het is een eerlijke. En ze hebben ons ingehuurd omdat ze het willen weten. Dat is al een goed teken.
+정직한 결론이에요. 그리고 알고 싶어서 우리를 고용한 거잖아요. 그것 자체가 좋은 신호예요.
+— Scène 4: Het pakhuis, de doorrekening (창고, 대안 계산) —
+Thijs: Ik heb het voorstel van Joris en Wendy doorgerekend. De spoedpost met één SEH-arts en twee verpleegkundigen, en de gezamenlijke roostering met de intensive care.
+요리스와 벤디의 제안을 계산해 봤어요. 응급의학과 의사 한 명과 간호사 두 명의 응급 진료소, 그리고 중환자실과의 공동 근무표요.
+Femke: En?
+그래서요?
+Thijs: Het verlies van de nacht daalt van drie miljoen naar ongeveer één komma acht. Dat is nog steeds verlies, maar veel minder. En de rijtijdnorm wordt voor bijna iedereen gehaald.
+야간 손실이 300만에서 약 180만으로 줄어요. 여전히 손실이지만 훨씬 적죠. 그리고 이동 시간 기준을 거의 모든 사람이 충족해요.
+Priya: En het geboortecentrum van Ellen?
+그럼 엘런의 출산 센터는요?
+Thijs: Klein. Een paar honderdduizend euro per jaar, als de verloskundigen het zelf runnen. Andere regio's doen het al.
+작아요. 조산사들이 직접 운영하면 연간 몇십만 유로요. 다른 지역은 이미 하고 있어요.
+Femke: Kunnen we die berekening in het rapport zetten?
+그 계산을 보고서에 넣을 수 있을까요?
+Thijs: Als illustratie, ja. Niet als advies. Anders zeggen we wat het ziekenhuis moet doen.
+예시로는요. 권고로는 안 돼요. 그러면 병원이 뭘 해야 하는지 말하는 게 되니까요.
+Femke: Precies. We laten zien dat er alternatieven waren die het onderzoeken waard waren. Of ze beter zijn, beslist de regio.
+맞아요. 검토할 가치가 있는 대안이 있었다는 걸 보여 주는 거예요. 그게 더 나은지는 지역이 결정하고요.
+Priya: Die grens is dun.
+그 경계가 얇네요.
+Femke: Die grens is dun, maar hij is er. Als we hem overschrijden, worden we adviseurs. En dan zijn we niet meer onafhankelijk.
+얇지만 있어요. 그걸 넘으면 우리는 자문역이 돼요. 그럼 더는 독립적이지 않죠.
+Thijs: Ik zet er een zin boven: "Deze berekening is indicatief en vervangt geen eigen analyse door het ziekenhuis."
+위에 문장 하나 넣을게요. "이 계산은 예시이며 병원의 자체 분석을 대신하지 않는다."
+Femke: Perfect.
+완벽해요.
+— Scène 5: Hoor en wederhoor met de bestuursvoorzitter (병원장에게 소명 기회 주기) —
+Hanneke: U heeft de verzekeraar gesproken.
+보험사를 만나셨군요.
+Femke: Ja. Ik wil u onze bevindingen voorleggen voordat ze in het concept komen.
+네. 초안에 넣기 전에 발견 사항을 말씀드리고 싶어요.
+Hanneke: Ga uw gang.
+말씀하세요.
+Femke: Eén: het voorstel van de SEH-artsen en de brief van de verloskundigen zijn niet besproken in het bestuur en niet voorgelegd aan de verzekeraar. Twee: de gemeente en de ambulancedienst zijn niet geraadpleegd. Drie: de rijtijdenanalyse ging uit van de rijtijd overdag.
+첫째, 응급의학과 의사들의 제안과 조산사들의 편지는 이사회에서 논의되지 않았고 보험사에 제출되지도 않았어요. 둘째, 시와 구급대에 의견을 구하지 않았어요. 셋째, 이동 시간 분석은 낮 시간 기준이었어요.
+Hanneke: (na een lange stilte) Dat klopt. Allemaal.
+(긴 침묵 끝에) 맞아요. 전부요.
+Femke: Wilt u daarop reageren?
+그에 대해 답변하시겠어요?
+Hanneke: Ja. Schrijf dit op. "De bestuursvoorzitter erkent dat het besluit onder grote tijdsdruk is genomen en dat alternatieven onvoldoende zijn onderzocht. Zij was ervan overtuigd dat er geen ruimte was bij de verzekeraar."
+네. 이렇게 적어 주세요. "병원장은 결정이 큰 시간 압박 속에 내려졌고 대안이 충분히 검토되지 않았음을 인정한다. 병원장은 보험사 쪽에 여지가 없다고 확신했다."
+Thijs: Waarom was u daarvan overtuigd?
+왜 그렇게 확신하셨어요?
+Hanneke: Omdat ik de mail van december las als een eis, niet als een uitnodiging. En omdat niemand mij tegensprak.
+12월 메일을 초대가 아니라 요구로 읽었으니까요. 그리고 아무도 제게 반대하지 않았으니까요.
+Femke: Ook de raad van toezicht niet?
+감독이사회도요?
+Hanneke: Ook de raad niet. Ze waren opgelucht dat iemand een besluit nam.
+감독이사회도요. 누군가 결정을 내려 줘서 안도했어요.
+Femke: Dank u. Dat is moedig.
+감사합니다. 용기 있는 답변이에요.
+Hanneke: Het is niet moedig. Het is te laat.
+용기가 아니에요. 너무 늦은 거죠.
+Femke: Het is niet te laat. Het besluit gaat pas over vier maanden in. Er is nog ruimte.
+늦지 않았어요. 결정은 넉 달 뒤에야 시행돼요. 아직 여지가 있어요.
+— Scène 6: De avond voor de presentatie (발표 전날 밤) —
+Priya: Femke, mag ik iets kritisch zeggen?
+펨커, 비판적인 말 하나 해도 돼요?
+Femke: Altijd.
+언제든지요.
+Priya: De raad van toezicht is onze opdrachtgever. En we schrijven dat de raad zijn werk niet goed heeft gedaan. Is ons rapport niet te zacht voor de raad, omdat zij ons betalen?
+감독이사회가 우리 의뢰인이에요. 그런데 우리는 감독이사회가 일을 제대로 못 했다고 쓰고 있어요. 그쪽이 돈을 내니까 보고서가 감독이사회한테 너무 부드러운 거 아니에요?
+Femke: (denkt na) Lees de zin nog eens voor.
+(생각하며) 그 문장 다시 읽어 줘요.
+Priya: "Dat is in deze situatie begrijpelijk, maar het is een gemiste kans."
+"이 상황에선 이해할 만하지만, 놓친 기회다."
+Femke: Wat zou jij schrijven?
+프리야라면 뭐라고 쓰겠어요?
+Priya: "De raad van toezicht heeft het besluit goedgekeurd zonder te vragen naar alternatieven." Punt. Zonder "begrijpelijk".
+"감독이사회는 대안에 대해 묻지 않고 결정을 승인했다." 마침표. "이해할 만하다"는 빼고요.
+Thijs: Ze heeft een punt. "Begrijpelijk" is een mening. "Zonder te vragen" is een feit.
+일리가 있어요. "이해할 만하다"는 의견이에요. "묻지 않고"는 사실이고요.
+Femke: (na een stilte) Je hebt gelijk. In het rapport staat het feit. "Begrijpelijk" zeg ik morgen mondeling, als dat zo voelt. Dank je, Priya.
+(잠시 침묵 후) 맞아요. 보고서엔 사실만 넣어요. "이해할 만하다"는 내일 필요하면 말로 할게요. 고마워요, 프리야.
+Priya: Je bent niet boos?
+화 안 났어요?
+Femke: Waarom zou ik boos zijn? Je hebt ons onafhankelijker gemaakt. Dat is je werk als partner.
+왜 화가 나요? 우리를 더 독립적으로 만들어 줬잖아요. 그게 파트너로서 프리야가 할 일이에요.
+— Scène 7: De vergadering van de raad van toezicht (감독이사회 회의) —
+Gerard: Wij hebben uw rapport gelezen. Ik zeg eerlijk: het is pijnlijk voor deze raad. Licht u de belangrijkste conclusie toe.
+보고서를 읽었어요. 솔직히 말하면 이 감독이사회에 고통스러운 내용이에요. 핵심 결론을 설명해 주세요.
+Femke: Het besluit om de SEH 's nachts en de kraamafdeling te sluiten, is genomen onder tijdsdruk, op basis van onvolledige informatie, en zonder de partijen die de gevolgen dragen. Alternatieven die mogelijk betaalbaar waren, zijn niet onderzocht.
+야간 응급실과 분만실을 닫기로 한 결정은 시간 압박 속에서, 불완전한 정보를 근거로, 결과를 떠안는 당사자들 없이 내려졌습니다. 감당할 수 있었을지도 모르는 대안들은 검토되지 않았습니다.
+Gerard: En wij?
+그럼 우리는요?
+Femke: De raad van toezicht heeft het besluit goedgekeurd zonder te vragen naar alternatieven. Dat is in deze situatie begrijpelijk, maar het is een gemiste kans.
+감독이사회는 대안에 대해 묻지 않고 결정을 승인했습니다. 이 상황에선 이해할 만하지만, 놓친 기회입니다.
+Lid raad van toezicht: Zegt u daarmee dat het besluit fout is?
+그 말씀은 결정이 잘못됐다는 건가요?
+Femke: Nee. Dat zeggen wij uitdrukkelijk niet. Het kan zijn dat de SEH 's nachts uiteindelijk toch dicht moet. Maar het besluit is niet zorgvuldig genomen. Daardoor weet niemand of er een betere oplossing was.
+아니요. 분명히 그렇게 말하지 않습니다. 결국엔 야간 응급실을 닫아야 할 수도 있습니다. 하지만 결정이 신중하게 내려지지 않았습니다. 그래서 더 나은 해법이 있었는지 아무도 모릅니다.
+Gerard: Wat raadt u aan?
+무엇을 권하세요?
+Femke: Wij doen geen uitspraak over de inhoud. Maar binnen ons onderzoek kunnen we zeggen wat er ontbrak. Een regionale tafel met het ziekenhuis, de verzekeraar, de ambulancedienst, de huisartsen, de verloskundigen en de gemeenten. Met de alternatieven doorgerekend. Voordat het besluit ingaat.
+내용에 대해서는 판단하지 않습니다. 하지만 조사 범위 안에서 무엇이 빠졌는지는 말씀드릴 수 있습니다. 병원, 보험사, 구급대, 가정의, 조산사, 지자체가 함께하는 지역 협의체요. 대안들을 계산해 보고요. 결정이 시행되기 전에요.
+Gerard: Daarmee schuiven we het besluit vier maanden op.
+그럼 결정이 넉 달 미뤄지는 거네요.
+Thijs: Of u voorkomt dat het over een jaar door de rechter of de politiek wordt teruggedraaid. Dat kost meer.
+아니면 1년 뒤에 법원이나 정치권에 의해 뒤집히는 걸 막는 거죠. 그게 더 비싸요.
+Gerard: (kijkt rond) Ik stel voor dat we het besluit opschorten en de regionale tafel instellen. Met de bestuursvoorzitter als voorzitter.
+(둘러보며) 결정을 보류하고 지역 협의체를 만들 것을 제안합니다. 병원장을 의장으로 해서요.
+Lid raad van toezicht: Met haar? Na dit rapport?
+그 사람을요? 이 보고서가 나온 뒤에요?
+Gerard: Juist met haar. Ze heeft in het rapport erkend wat er misging. Dat is meer dan deze raad heeft gedaan.
+바로 그 사람이어야 해요. 보고서에서 무엇이 잘못됐는지 인정했잖아요. 이 감독이사회가 한 것보다 많아요.
+Gerard: (na een stilte) Wie is voor?
+(잠시 침묵 후) 찬성하시는 분?
+Gerard: (telt) Vijf van de zes. Het besluit wordt opgeschort. Er komt een regionale tafel.
+(세며) 여섯 명 중 다섯. 결정은 보류됩니다. 지역 협의체를 만듭니다.
+Hanneke: (zacht) Dank u. Ik had niet gedacht dat ik dit nog zou mogen herstellen.
+(작게) 감사합니다. 이걸 바로잡을 기회가 올 줄은 몰랐어요.
+Gerard: Wij ook niet. (tegen Femke) U heeft ons een spiegel voorgehouden. Dat is niet prettig, maar wel nodig.
+우리도 몰랐어요. (펨커에게) 우리 앞에 거울을 들이밀었네요. 유쾌하진 않지만 필요한 일이었어요.
+Femke: Dat is precies wat een onafhankelijk onderzoek hoort te doen.
+그게 바로 독립 조사가 해야 하는 일이에요.
+Lid raad van toezicht: Gaat het rapport ook naar de pers?
+보고서는 언론에도 가나요?
+Gerard: Morgen. Eerst naar het actiecomité, de medische staf en de gemeenten. Dan naar de pers. In die volgorde.
+내일요. 먼저 주민 대책위, 의료진, 지자체에. 그다음 언론에. 그 순서로요.
+— Scène 8: Bij de ingang van het ziekenhuis, een maand later (한 달 후, 병원 입구) —
+Joris: Hebben jullie het gehoord? De eerste regionale tafel was gisteren. De verzekeraar wil onze spoedpost doorrekenen.
+들었어요? 어제 첫 지역 협의체가 열렸어요. 보험사가 우리 응급 진료소안을 계산해 보고 싶대요.
+Ellen: En het geboortecentrum staat op de agenda voor volgende maand.
+그리고 출산 센터는 다음 달 안건에 올라 있어요.
+Femke: Dat is goed nieuws. Maar het is nog geen besluit.
+좋은 소식이네요. 하지만 아직 결정은 아니에요.
+Joris: Dat weten we. Maar voor het eerst zitten we aan tafel. Dat is wat we wilden.
+알아요. 하지만 처음으로 테이블에 앉았어요. 그게 우리가 원한 거예요.
+Demonstrante: (komt aanlopen, zonder spandoek) Ik heb het rapport gelezen. Drie keer. Er staat niet in dat jullie aan onze kant staan.
+(현수막 없이 걸어오며) 보고서 읽었어요. 세 번이요. 여러분이 우리 편이라고는 안 쓰여 있더라고요.
+Femke: Nee. Wij staan aan niemands kant.
+네. 저희는 누구의 편도 아니에요.
+Demonstrante: Dat merkte ik. Daarom geloof ik het.
+그걸 알겠더라고요. 그래서 믿어요.
+Hanneke: (komt naar buiten) Mevrouw Hoekstra. Ik wilde u nog bedanken. De regionale tafel werkt. Voor het eerst praat de verzekeraar met de verloskundigen.
+(밖으로 나오며) 훅스트라 씨. 감사 인사를 하고 싶었어요. 지역 협의체가 잘 돌아가요. 처음으로 보험사가 조산사들과 이야기하고 있어요.
+Femke: Dat is uw verdienste. U zit die tafel voor.
+그건 병원장님 공이에요. 그 협의체를 이끌고 계시잖아요.
+Hanneke: Weet u wat ik geleerd heb? Een moeilijk besluit wordt niet makkelijker als je het snel neemt. Alleen eenzamer.
+제가 뭘 배웠는지 아세요? 어려운 결정은 빨리 내린다고 쉬워지지 않아요. 더 외로워질 뿐이죠.
+Femke: (pakt haar notitieboekje) Mag ik dat opschrijven?
+(수첩을 꺼내며) 그거 적어도 될까요?
+
+## 주요 단어
+de zorginkoop | 더 조르흐인코프 | 의료 구매(보험사가 병원과 계약하는 것)
+de inkoper | 더 인코퍼르 | 구매자
+de vergoeding | 더 버르후딩 | 지급액, 보상
+de premie | 더 프레미 | 보험료
+de financiële kaders | 더 피난시엘러 카더르스 | 재정적 틀
+het geboortecentrum | 헷 허보르터센트룸 | 출산 센터
+de bevalling | 더 버팔링 | 출산, 분만
+de weeën | 더 베이언 | 진통
+de medische staf | 더 메디서 스타프 | 의료진
+de RACI-matrix | 더 라치 마트릭스 | 실행·책임·협의·통보 매트릭스
+uitdrukkelijk | 아위트드뤽컬럭 | 명시적으로, 분명히
+opschorten → heeft opgeschort | 옵스호르턴 → 헤이프트 옵허스호르트 | 보류하다, 유예하다
+terugdraaien → heeft teruggedraaid | 터뤼흐드라이언 → 헤이프트 터뤼흐허드라이트 | (결정을) 뒤집다
+de gemiste kans | 더 허미스터 칸스 | 놓친 기회
+erkennen → heeft erkend | 에르케넌 → 헤이프트 에르켄트 | 인정하다
+
+## 표현·문법 정리
+**Wie heeft hier de regie?:** "여기서 주도권은 누가 쥐었나?" 공식 권한과 실질적 영향력을 구분하는 질문.
+**Dat is een interessante vraag, maar…:** "흥미로운 질문이네요, 하지만…" 답을 피하거나 시간을 버는 표현. 이 말 뒤에 진짜 답이 나올 때가 많습니다.
+**Formeel klopt dat:** "공식적으로는 맞습니다." 이어서 Maar feitelijk…(하지만 실제로는)로 뒤집는 구조.
+**Wij kopen zorg in:** "우리는 의료를 구매할 뿐이다." inkopen = 구매하다(분리동사). 책임을 좁게 정의하는 말.
+**Niemand voelde zich eigenaar:** "아무도 주인의식을 느끼지 않았다." zich eigenaar voelen van iets.
+**Zo zou ik het niet formuleren:** "저라면 그렇게 표현하지 않겠어요." 불편한 요약을 피하는 관료적 표현. 대답은 "Hoe zou u het formuleren?"
+**buiten het verslag:** "기록 밖에서, 비공식적으로." off the record.
+**in een la belanden:** "서랍에 들어가다(묻히다)."
+**zich aan de planning houden:** "일정을 지키다." 아기에게 쓴 농담.
+**had kunnen kijken:** "볼 수 있었을 것이다." had + kunnen + 부정사 = 과거의 가능성.
+**Dat zeggen wij uitdrukkelijk niet:** "분명히 그렇게 말하지 않습니다." 보고서의 한계를 명시하는 표현.
+**opschorten / instellen:** "보류하다 / 설치하다(위원회 등)."
+**aan niemands kant staan:** "누구의 편도 아니다."
+
+## 컨설팅 스킬 노트
+**RACI 매트릭스:** Responsible(실행) · Accountable(최종 책임) · Consulted(협의) · Informed(통보). 결정의 정당성 문제는 종종 "결과를 떠안는 당사자가 C가 아니라 I 칸에 있다"는 데서 드러납니다.
+**공식 권한 vs 실질 영향력:** 보험사는 공식적으로 결정하지 않았지만 계약 조건("uitgaan van een concentratie")으로 선택지를 좁혔습니다. 감사는 서명한 사람뿐 아니라 틀을 정한 사람을 봅니다.
+**아무도 묻지 않은 질문 찾기:** 보험사는 대안을 "검토할 수 있었다". 병원은 보험사가 거절할 거라 "확신했다". 감독이사회는 "대안이 있느냐"고 묻지 않았다. 각자의 가정이 겹쳐 대안이 사라졌습니다.
+**내용 판단과 과정 판단 분리:** "Het besluit kan juist zijn, maar het is niet zorgvuldig genomen." 권고는 결론("열어라/닫아라")이 아니라 빠진 과정(지역 협의체, 대안 계산)에 한정합니다.
