@@ -1,0 +1,291 @@
+# 2부 2화. Cijfers onder de motorkap (보닛 아래의 숫자)
+수준: 중상급 (B2) | 장소: CFO실(밤) → CEO실 → 부품 창고 → 펠트호번 고객사 → 감독이사회 | 시간: 10월 중순
+배경 현안: 금리 상승과 중소 제조업의 운전자본 부담, 은행 재무약정(convenant), 국세청 추징, 대기업 고객의 긴 결제 기한
+핵심 표현: We hebben een kasprobleem · Waar zit het geld? · Dit moet vandaag op tafel · Op papier maken we winst · Daar hangt een prijskaartje aan
+💼 스킬: 13주 현금흐름 예측과 운전자본 관리
+
+## 대화
+— Scène 1: Het kantoor van de CFO, elf uur 's avonds (밤 11시, CFO실) —
+Priya: Je bent er nog steeds. Ik zag licht branden.
+아직도 있네요. 불이 켜져 있길래요.
+Thijs: Ik ben bijna klaar. Of beter gezegd: ik ben bijna klaar met schrikken.
+거의 끝났어요. 아니, 정확히는 놀라는 걸 거의 끝냈어요.
+Priya: Zo erg?
+그렇게 나빠요?
+Thijs: Kijk. Op papier maken we winst. Vorig jaar vier miljoen. Maar op de bankrekening staat één komma twee miljoen. En de kredietlijn is voor negentig procent gebruikt.
+보세요. 서류상으로는 이익을 내요. 작년엔 400만 유로. 그런데 은행 계좌엔 120만 유로뿐이에요. 그리고 신용한도의 90%를 썼어요.
+Priya: Hoe kan dat? Winst maken en toch geen geld hebben?
+어떻게 그래요? 이익을 내는데 돈이 없다니요?
+Thijs: Omdat winst een mening is en kas een feit. Het geld zit vast. In voorraad, en bij klanten die nog niet betaald hebben.
+이익은 의견이고 현금은 사실이니까요. 돈이 묶여 있어요. 재고에, 그리고 아직 돈을 안 낸 고객에게요.
+Priya: Hoeveel voorraad?
+재고가 얼마나 돼요?
+Thijs: Veertien miljoen. In twee jaar met zestig procent gestegen. Jan kocht onderdelen en materiaal in voor maanden vooruit, omdat de klant zei dat hij moest klaarstaan.
+1,400만 유로요. 2년 만에 60% 늘었어요. 얀이 고객이 대기하라고 해서 몇 달 치 부품과 자재를 미리 사들였어요.
+Priya: En de klanten?
+그럼 고객은요?
+Thijs: De grote klant in Veldhoven betaalt na zestig dagen. Wij betalen onze leveranciers na dertig. Dus wij financieren eigenlijk onze klant.
+펠트호번의 큰 고객은 60일 뒤에 돈을 내요. 우리는 공급업체에 30일 뒤에 내고요. 그러니까 사실상 우리가 고객한테 돈을 빌려주는 셈이에요.
+Priya: Een kleine fabriek die een wereldbedrijf financiert.
+작은 공장이 세계적 기업한테 돈을 대 주는 거네요.
+Thijs: Precies. En dan is er nog dit. (houdt een brief omhoog) Een naheffingsaanslag van de Belastingdienst. Achthonderdduizend euro. Te betalen binnen zes weken.
+맞아요. 그리고 이것도 있어요. (편지 한 장을 들어 보이며) 국세청 추징 고지서예요. 80만 유로. 6주 안에 내야 해요.
+Priya: Waarvoor?
+뭐 때문에요?
+Thijs: Btw die te laat is aangegeven, omdat de boekhouding drie maanden achterliep. Plus een boete.
+회계가 석 달 밀려서 부가세 신고가 늦었어요. 거기에 가산세까지요.
+Priya: (gaat zitten) Wanneer zitten we zonder geld?
+(자리에 앉으며) 언제 돈이 바닥나요?
+Thijs: Als er niets verandert: over elf weken. Dat heb ik vanavond uitgerekend. Week voor week.
+아무것도 안 바뀌면 11주 뒤예요. 오늘 밤에 계산했어요. 한 주 한 주씩요.
+Priya: Elf weken. Weet Femke het?
+11주요. 펨커는 알아요?
+Thijs: Nog niet. Morgen om zeven uur.
+아직이요. 내일 아침 7시에요.
+Priya: Waarom niet nu bellen?
+왜 지금 전화하지 않아요?
+Thijs: Omdat ze dan de hele nacht niet slaapt. En morgen moet ze helder zijn. Eén van ons tweeën moet slapen.
+그럼 밤새 못 잘 테니까요. 내일은 머리가 맑아야 해요. 우리 둘 중 하나는 자야죠.
+Priya: En jij?
+그럼 테이스는요?
+Thijs: Ik slaap wel als dit is opgelost.
+이게 해결되면 잘게요.
+Priya: Dan help ik je. Geef me de lijst van de voorraad. Ik kan zien welke onderdelen al jaren niet zijn gebruikt.
+그럼 제가 도울게요. 재고 목록 주세요. 몇 년째 안 쓴 부품이 뭔지 볼 수 있어요.
+Thijs: (schuift de laptop naar haar toe) Je bent een redder in nood.
+(노트북을 그녀 쪽으로 밀며) 구세주네요.
+— Scène 2: Het kantoor van Femke, zeven uur 's ochtends (아침 7시, 펨커의 사무실) —
+Thijs: Goedemorgen. Ik ga meteen ter zake. We hebben een kasprobleem.
+좋은 아침이에요. 바로 본론으로 갈게요. 우리 현금 문제가 있어요.
+Femke: Hoe groot?
+얼마나 커요?
+Thijs: Over elf weken is het geld op. Over zes weken moeten we achthonderdduizend euro aan de Belastingdienst betalen.
+11주 뒤면 돈이 바닥나요. 6주 뒤엔 국세청에 80만 유로를 내야 하고요.
+Femke: (stil) Oké. Waar zit het geld?
+(조용히) 알았어요. 돈은 어디 있어요?
+Thijs: Veertien miljoen in voorraad, acht miljoen bij klanten. Het bedrijf is niet arm. Het geld staat alleen op de verkeerde plek.
+재고에 1,400만, 고객한테 800만. 회사가 가난한 게 아니에요. 돈이 엉뚱한 곳에 있을 뿐이에요.
+Femke: Gerrit moet dit horen. Nu.
+헤릿이 이걸 들어야 해요. 지금요.
+Gerrit: (komt binnen met koffie) Ik hoorde mijn naam. Wat is er?
+(커피를 들고 들어오며) 내 이름이 들리던데. 무슨 일이에요?
+Femke: Ga zitten, Gerrit. Thijs heeft de cijfers.
+앉아요, 헤릿. 테이스가 숫자를 갖고 왔어요.
+Thijs: We hebben veertien miljoen aan voorraad. Priya heeft vannacht gekeken. Voor ruim drie miljoen daarvan is in twee jaar niets gebruikt.
+재고가 1,400만 유로예요. 프리야가 밤새 봤는데, 그중 300만 유로 넘게는 2년 동안 하나도 안 쓰였어요.
+Gerrit: Dat is reservevoorraad. Voor als de klant ineens meer bestelt.
+그건 예비 재고예요. 고객이 갑자기 더 주문할 때를 위한 거죠.
+Thijs: Sommige onderdelen zijn voor een machinetype dat de klant niet eens meer bouwt.
+일부 부품은 고객이 더 이상 만들지도 않는 장비 모델용이에요.
+Gerrit: (fronst) Welke?
+(인상을 찌푸리며) 어떤 거요?
+Priya: (legt een lijst neer) Deze tweehonderdveertig artikelnummers. Ik heb ze gecontroleerd met de bestellingen van de afgelopen drie jaar.
+(목록을 내려놓으며) 이 240개 품번이요. 지난 3년간 주문 내역이랑 대조해 봤어요.
+Gerrit: (leest lang) Jan zei altijd: liever te veel dan te weinig. Als de klant belt en wij kunnen niet leveren, zijn we hem kwijt.
+(한참 읽으며) 얀은 늘 그랬어요. 모자라느니 넘치는 게 낫다고. 고객이 전화했는데 우리가 납품을 못 하면 그 고객을 잃는다고.
+Femke: Dat was verstandig, toen het geld goedkoop was. Nu kost elke euro in de voorraad rente. En die rente is gestegen.
+돈이 쌀 때는 현명한 생각이었죠. 지금은 재고에 묶인 1유로마다 이자가 들어요. 그리고 그 이자가 올랐고요.
+Gerrit: Wat wil je dan? Alles weggooien?
+그럼 뭘 원해요? 다 내다 버려요?
+Thijs: Niet weggooien. Verkopen wat we niet nodig hebben, minder vooruit inkopen, en met de klant afspraken maken.
+버리는 게 아니라요. 필요 없는 건 팔고, 미리 사는 걸 줄이고, 고객과 약속을 새로 하는 거예요.
+Gerrit: Wat voor afspraken?
+어떤 약속이요?
+Thijs: Dat zij de voorraad voor hun eigen onderdelen financieren. En dat ze sneller betalen. Zestig dagen is lang voor een kleine leverancier.
+그들 전용 부품의 재고 비용을 그들이 대는 거요. 그리고 더 빨리 결제하는 거요. 작은 공급업체에게 60일은 길어요.
+Gerrit: Daar gaan ze nooit mee akkoord.
+그건 절대 동의 안 할 거예요.
+Femke: Misschien wel, als ze weten dat hun leverancier anders in de problemen komt. Lars de Wit zei dat ze juist meer willen bestellen als we betrouwbaar zijn.
+어쩌면 할 거예요. 안 그러면 자기 공급업체가 곤경에 빠진다는 걸 알면요. 라르스 더 빗이 우리가 믿을 만해지면 오히려 더 주문하고 싶다고 했잖아요.
+Gerrit: En de Belastingdienst?
+그럼 국세청은요?
+Thijs: Ik bel vandaag om een betalingsregeling te vragen. Dat lukt meestal, als je eerlijk bent en op tijd belt. Niet op de laatste dag.
+오늘 전화해서 분할 납부를 요청할게요. 정직하게, 제때 전화하면 대개 돼요. 마지막 날이 아니라요.
+Femke: En de bank? Die mag dit niet uit een ander kanaal horen.
+그럼 은행은요? 다른 경로로 이걸 알게 되면 안 돼요.
+Thijs: Dit moet vandaag op tafel. Bij de bank én bij de raad van commissarissen. Met een plan erbij.
+이건 오늘 내놓아야 해요. 은행에도, 감독이사회에도요. 계획과 함께요.
+Gerrit: (zucht diep) Jan wist dit. Hij zei het nooit, maar hij wist het. Daarom sliep hij zo slecht, de laatste maanden.
+(깊게 한숨 쉬며) 얀은 알았어요. 말은 안 했지만 알았어요. 그래서 마지막 몇 달 동안 그렇게 잠을 못 잤던 거예요.
+Femke: Dan maken wij het af, Gerrit. Samen.
+그럼 우리가 마무리해요, 헤릿. 같이요.
+— Scène 3: Het onderdelenmagazijn (부품 창고) —
+Anja: Hier ligt het. Stelling veertien tot en met tweeëntwintig. Sommige dozen zijn nooit open geweest.
+여기 있어요. 14번부터 22번 선반까지. 어떤 상자는 한 번도 안 열었어요.
+Thijs: Wat is dit?
+이게 뭐예요?
+Anja: Lagers voor een module van een oude machine. Jan heeft er vijfhonderd gekocht, in de coronatijd. Toen was alles schaars.
+옛 장비 모듈에 쓰는 베어링이요. 코로나 때 얀이 500개를 샀어요. 그땐 뭐든 귀했거든요.
+Gerrit: Ik herinner het me. Hij was bang dat we niet konden leveren.
+기억나요. 납품 못 할까 봐 겁을 냈죠.
+Femke: Kunnen we ze verkopen?
+팔 수 있어요?
+Anja: Misschien aan andere toeleveranciers. Of terug aan de fabrikant, met verlies.
+다른 협력업체한테 팔 수도 있겠죠. 아니면 손해 보고 제조사에 되팔거나요.
+Thijs: Verlies is beter dan rente betalen op iets dat stof verzamelt.
+먼지만 쌓이는 물건에 이자를 내느니 손해 보는 게 나아요.
+Anja: Mag ik iets zeggen? Ik zeg al jaren dat we te veel kopen. Maar inkoop besliste Jan, niet ik.
+한마디 해도 될까요? 저는 몇 년째 너무 많이 산다고 말해 왔어요. 하지만 구매는 얀이 결정했지 제가 아니었어요.
+Femke: Dat is waardevol, Anja. Wat zou jij veranderen?
+그거 소중한 정보예요, 아냐. 아냐라면 뭘 바꾸겠어요?
+Anja: Een minimum en een maximum per onderdeel. En dat het systeem waarschuwt als we te veel hebben. Nu kijkt niemand.
+부품별 최소·최대 재고량이요. 그리고 너무 많으면 시스템이 경고해 주는 거요. 지금은 아무도 안 봐요.
+Priya: Dat kan ik bouwen. In twee weken.
+그거 제가 만들 수 있어요. 2주 안에요.
+Anja: (verbaasd) Twee weken? Ruud zei altijd dat zoiets een jaar duurt.
+(놀라며) 2주요? 뤼트는 그런 건 1년 걸린다고 했는데.
+Priya: Ruud helpt me. We hebben het al besproken.
+뤼트가 도와줘요. 벌써 이야기했어요.
+Gerrit: (kijkt naar Priya) Je hebt Ruud aan het werk gekregen. Dat is knapper dan alles wat ik vandaag gezien heb.
+(프리야를 보며) 뤼트를 일하게 만들었군요. 오늘 본 것 중에 제일 대단하네요.
+Femke: Anja, wil jij de lijst maken van alles wat we kunnen verkopen? Met Priya?
+아냐, 프리야랑 같이 팔 수 있는 것 전부 목록을 만들어 줄래요?
+Anja: Met plezier. Eindelijk luistert iemand.
+기꺼이요. 드디어 누가 들어 주네요.
+Thijs: Hoeveel denk je dat het oplevert?
+얼마나 나올 것 같아요?
+Anja: Als we slim verkopen? Twee miljoen. Misschien meer.
+잘 팔면요? 200만 유로. 어쩌면 더요.
+Thijs: (schrijft) Twee miljoen. Dat zijn vier weken extra.
+(적으며) 200만. 4주를 더 버는 거네요.
+— Scène 4: Thijs belt de Belastingdienst (테이스, 국세청에 전화하다) —
+Medewerker Belastingdienst: Belastingdienst, met Karin. Waarmee kan ik u helpen?
+국세청 카린입니다. 무엇을 도와드릴까요?
+Thijs: Goedemiddag. Thijs Brouwer, financieel directeur van Verhoef Precisie in Helmond. Ik bel over een naheffingsaanslag die we vorige week hebben ontvangen.
+안녕하세요. 헬몬트 Verhoef Precisie의 재무이사 테이스 브라우어르입니다. 지난주에 받은 추징 고지서 때문에 전화드렸어요.
+Medewerker Belastingdienst: Heeft u het aanslagnummer bij de hand?
+고지서 번호 갖고 계세요?
+Thijs: Ja. (leest het nummer voor) Het gaat om achthonderdduizend euro, inclusief boete.
+네. (번호를 불러 준다) 가산세 포함 80만 유로예요.
+Medewerker Belastingdienst: Ik zie het. De betaaltermijn is zes weken. Wilt u bezwaar maken?
+확인됩니다. 납부 기한은 6주예요. 이의를 제기하시겠어요?
+Thijs: Nee. Het bedrag klopt. Onze boekhouding liep achter na het overlijden van onze oprichter. Dat is onze fout. Maar ik wil graag een betalingsregeling aanvragen.
+아니요. 금액은 맞아요. 창업자가 세상을 떠난 뒤 회계가 밀렸어요. 저희 잘못이에요. 하지만 분할 납부를 신청하고 싶어요.
+Medewerker Belastingdienst: Dat kan. Daarvoor heb ik wel informatie nodig over uw financiële situatie.
+가능해요. 그러려면 재무 상황에 대한 정보가 필요해요.
+Thijs: Ik kan u vandaag een liquiditeitsprognose sturen. Dertien weken, week voor week. En een overzicht van de maatregelen die we nemen.
+오늘 유동성 예측표를 보내 드릴 수 있어요. 13주, 매주 단위로요. 그리고 저희가 취하는 조치 목록도요.
+Medewerker Belastingdienst: (verrast) Dat is uitgebreider dan we meestal krijgen. Over welke periode wilt u betalen?
+(놀라며) 보통 받는 것보다 훨씬 자세하네요. 어느 기간에 걸쳐 내고 싶으세요?
+Thijs: Zes maanden. Het eerste deel betalen we direct, als teken van goede wil.
+6개월이요. 첫 회분은 성의 표시로 바로 낼게요.
+Medewerker Belastingdienst: En de btw-aangiftes van de komende maanden? Die moeten wel op tijd zijn.
+그럼 앞으로 몇 달간 부가세 신고는요? 그건 기한을 지켜야 해요.
+Thijs: Die zijn op tijd. We hebben de boekhouding de afgelopen drie weken bijgewerkt. Daar sta ik persoonlijk voor in.
+기한 지킬 거예요. 지난 3주 동안 회계를 다 정리했어요. 제가 개인적으로 책임질게요.
+Medewerker Belastingdienst: Goed. Stuurt u de stukken via het formulier op de website. Als alles klopt, kan de regeling binnen een week rond zijn.
+좋아요. 웹사이트 양식으로 서류를 보내 주세요. 다 맞으면 일주일 안에 약정이 마무리될 수 있어요.
+Thijs: Dank u wel. U heeft mijn dag gered.
+감사합니다. 덕분에 하루를 구했네요.
+Medewerker Belastingdienst: (lacht) Dat hoor ik niet vaak. Meestal word ik uitgescholden. Fijne middag, meneer Brouwer.
+(웃으며) 그런 말 자주 못 들어요. 보통은 욕을 먹거든요. 좋은 오후 보내세요, 브라우어르 씨.
+— Scène 5: Bij de klant in Veldhoven (펠트호번 고객사) —
+Lars: U wilt dat wij sneller betalen. En dat wij uw voorraad financieren. U vraagt nogal wat, mevrouw Hoekstra.
+더 빨리 결제하고, 재고 비용까지 대 달라는 거군요. 꽤 많은 걸 요구하시네요, 훅스트라 씨.
+Femke: Dat weet ik. Ik zal open kaart spelen. Verhoef heeft geen winstprobleem. We hebben een kasprobleem. Omdat we voorraad aanhouden voor ú.
+알아요. 솔직하게 말씀드릴게요. Verhoef는 이익 문제가 아니라 현금 문제가 있어요. 귀사를 위해 재고를 쌓아 두고 있기 때문이에요.
+Lars: Dat is jullie keuze geweest.
+그건 그쪽 선택이었죠.
+Thijs: Op uw verzoek. Uw planners hebben in 2021 gevraagd om voor zes maanden vooruit voorraad aan te houden. Ik heb de mail hier.
+귀사의 요청이었어요. 2021년에 귀사의 기획 담당자들이 6개월 치 재고를 미리 확보해 달라고 했어요. 그 메일이 여기 있어요.
+Lars: (leest) Hm. Dat wist ik niet.
+(읽으며) 흠. 몰랐네요.
+Femke: Wij willen een betrouwbare leverancier zijn. U zei zelf: jullie willen méér bij ons bestellen. Maar daarvoor moeten wij gezond zijn.
+저희는 믿을 만한 공급업체가 되고 싶어요. 직접 말씀하셨잖아요, 저희한테 더 주문하고 싶다고. 그러려면 저희가 건강해야 해요.
+Lars: Wat stelt u voor?
+무엇을 제안하세요?
+Thijs: Twee dingen. Voor onderdelen die alleen voor u zijn, nemen jullie de voorraad over zodra ze klaar zijn. Consignatievoorraad. En de betaaltermijn gaat van zestig naar dertig dagen.
+두 가지요. 귀사 전용 부품은 완성되는 즉시 귀사가 재고를 인수하는 거예요. 위탁 재고 방식이요. 그리고 결제 기한을 60일에서 30일로 줄이는 거요.
+Lars: Dertig dagen is lastig. Ons beleid is zestig voor alle leveranciers.
+30일은 어려워요. 우리 정책은 모든 공급업체에 60일이에요.
+Femke: Daar hangt een prijskaartje aan, dat begrijp ik. Wat als we een korting van één procent geven bij betaling binnen dertig dagen?
+거기엔 대가가 따르죠, 이해해요. 30일 안에 결제하시면 1% 할인을 드리면 어떨까요?
+Lars: (rekent) Eén procent voor dertig dagen eerder. Dat is voor ons eigenlijk een goede rente.
+(계산하며) 30일 일찍 내는 대가로 1%라. 우리한텐 사실 괜찮은 이자네요.
+Thijs: En voor ons is het goedkoper dan de bank.
+그리고 저희한텐 은행보다 싸고요.
+Lars: Consignatievoorraad moet ik intern bespreken. Maar de korting… daar kan ik vandaag ja op zeggen.
+위탁 재고는 내부에서 논의해야 해요. 하지만 할인은… 그건 오늘 동의할 수 있어요.
+Femke: Dank u. Dat helpt enorm.
+감사합니다. 정말 큰 도움이 돼요.
+Lars: Mag ik iets persoonlijks zeggen? Het is de eerste keer dat iemand van Verhoef zo open over geld praat. Jan was een geweldige man, maar hij zei altijd dat alles goed ging.
+개인적인 말 하나 해도 될까요? Verhoef 사람이 이렇게 돈 얘기를 솔직하게 하는 건 처음이에요. 얀은 대단한 사람이었지만, 늘 다 잘되고 있다고만 했어요.
+Femke: Alles ging ook goed. Behalve het geld.
+다 잘되고 있었죠. 돈만 빼고요.
+Lars: (lacht) Dat is een Brabantse grap. Alles is goed, behalve wat niet goed is.
+(웃으며) 그거 브라반트식 농담이네요. 안 좋은 거 빼고는 다 좋다.
+— Scène 6: De raad van commissarissen, vrijdag (금요일, 감독이사회) —
+Thijs: Ik heb een dertienwekenprognose gemaakt. Week voor week: wat er binnenkomt en wat er uitgaat.
+13주 예측표를 만들었어요. 매주 무엇이 들어오고 무엇이 나가는지요.
+Frans: En wat zegt die?
+그게 뭐라고 하나요?
+Thijs: Zonder maatregelen is het geld over elf weken op. Met de maatregelen houden we in het slechtste geval een buffer van anderhalf miljoen.
+조치 없이는 11주 뒤 돈이 바닥나요. 조치를 하면 최악의 경우에도 150만 유로의 여유가 남아요.
+Marloes: Welke maatregelen?
+어떤 조치요?
+Thijs: Vier. Overtollige voorraad verkopen: twee miljoen. Betaling binnen dertig dagen door de grote klant: drie miljoen eenmalig. Een betalingsregeling met de Belastingdienst: die is gisteren toegezegd. En geen dividend dit jaar.
+네 가지예요. 남는 재고 판매: 200만. 큰 고객의 30일 내 결제: 일회성 300만. 국세청 분할 납부: 어제 승인됐어요. 그리고 올해 배당 없음.
+Marloes: Geen dividend. De familie rekent daarop.
+배당이 없다고요. 가족들은 그걸 기대하고 있어요.
+Femke: Dat begrijp ik. Maar een dividend uit geld dat we niet hebben, is lenen bij de bank om de familie te betalen.
+이해해요. 하지만 없는 돈으로 배당하는 건 가족에게 주려고 은행에서 빌리는 거예요.
+Frans: (knikt) Daar heeft ze gelijk in, Marloes.
+(고개를 끄덕이며) 그 말이 맞아요, 마를루스.
+Marloes: (na een stilte) Ik leg het uit aan mijn moeder en mijn tante. Het wordt geen leuk gesprek.
+(잠시 침묵 후) 어머니와 고모에게 설명할게요. 즐거운 대화는 아니겠지만요.
+Frans: En de bank?
+그럼 은행은요?
+Thijs: Die heb ik vanochtend gebeld, vóór deze vergadering. Ze krijgen elke week deze prognose. Ze zijn niet blij, maar ze zijn ook niet in paniek.
+오늘 아침 이 회의 전에 전화했어요. 매주 이 예측표를 받게 될 거예요. 기쁘진 않지만 당황하지도 않아요.
+Frans: U belde de bank vóór de raad? Dat is ongebruikelijk.
+감독이사회보다 은행에 먼저 전화했다고요? 흔치 않은 일이네요.
+Thijs: Een bank is niet bang voor slecht nieuws. Een bank is bang voor geen nieuws. Als zij het via een ander kanaal hadden gehoord, hadden we een veel groter probleem gehad.
+은행은 나쁜 소식을 두려워하지 않아요. 소식이 없는 걸 두려워하죠. 다른 경로로 들었다면 훨씬 더 큰 문제가 됐을 거예요.
+Frans: (glimlacht flauw) Gerrit had gelijk over u.
+(희미하게 웃으며) 헤릿이 당신에 대해 한 말이 맞았네요.
+Gerrit: Ik heb altijd gelijk. Alleen niet altijd op tijd.
+저는 늘 맞아요. 다만 늘 제때는 아니죠.
+Femke: Dan stel ik voor dat we elke vrijdag om acht uur deze prognose samen bekijken. Tot we weer in rustig water zijn.
+그럼 매주 금요일 아침 8시에 이 예측표를 같이 보기로 해요. 다시 잔잔한 물에 들어설 때까지요.
+Frans: Akkoord. En meneer Brouwer? Ga vannacht slapen.
+동의합니다. 그리고 브라우어르 씨? 오늘 밤엔 주무세요.
+Thijs: (glimlacht) Dat ben ik van plan.
+(미소 지으며) 그럴 생각이에요.
+
+## 주요 단어
+de kas | 더 카스 | 현금, 금고
+de kasstroom | 더 카스스트롬 | 현금흐름
+de kredietlijn | 더 크레디틀레인 | 신용한도, 당좌대출 한도
+vastzitten → heeft vastgezeten | 파스트지턴 → 헤이프트 파스트허제턴 | (돈이) 묶여 있다
+de naheffingsaanslag | 더 나헤핑스안슬라흐 | (세금) 추징 고지
+de Belastingdienst | 더 벌라스팅딘스트 | 국세청
+de btw | 더 베이테이베이 | 부가가치세
+de betalingsregeling | 더 버탈링스레이헐링 | 분할 납부 약정
+de betaaltermijn | 더 버탈테르메인 | 결제 기한
+de consignatievoorraad | 더 콘시냐치포르라트 | 위탁 재고
+overtollig | 오버르톨러흐 | 남아도는, 과잉의
+het dividend | 헷 디비덴트 | 배당
+de prognose | 더 프로흐노서 | 예측
+het lager | 헷 라허르 | 베어링
+schaars | 스하르스 | 귀한, 부족한
+
+## 표현·문법 정리
+**We hebben een kasprobleem:** "현금 문제가 있습니다." 이익(winst) 문제와 구분해야 합니다. Geen winstprobleem, maar een kasprobleem.
+**Waar zit het geld?:** "돈은 어디 있어요?" zitten = (어딘가에) 들어 있다, 묶여 있다. Het geld zit vast in voorraad.
+**Dit moet vandaag op tafel:** "이건 오늘 테이블에 올려야 해요." op tafel leggen/komen = 공개적으로 논의하다.
+**Op papier maken we winst:** "서류상으로는 이익을 내요." op papier = 장부상, 이론상(현실과 대비).
+**Daar hangt een prijskaartje aan:** "거기엔 대가(비용)가 따릅니다." 직역: 가격표가 붙어 있다.
+**Winst is een mening, kas is een feit:** "이익은 의견이고 현금은 사실이다." 회계 격언. 이익은 회계 판단에 따라 달라지지만 현금은 그렇지 않습니다.
+**open kaart spelen:** "패를 다 보여 주다, 솔직하게 말하다."
+**een redder in nood:** "곤경에 처했을 때 구해 주는 사람, 구세주."
+**Eén van ons tweeën:** "우리 둘 중 하나." ons tweeën = 우리 두 사람.
+**tot en met:** "~부터 ~까지(포함)." stelling veertien tot en met tweeëntwintig. 약어 t/m.
+**toezeggen:** "(공식적으로) 약속하다, 승인하다." De regeling is gisteren toegezegd.
+**rekenen op:** "~을 기대하다, 믿다." De familie rekent daarop.
+**in rustig vaarwater / rustig water:** "잔잔한 물(안정된 상황)에." 배 비유가 많은 네덜란드어의 특징.
+
+## 컨설팅 스킬 노트
+**이익 ≠ 현금:** 회사는 이익을 내면서도 현금이 떨어져 망할 수 있습니다. 재고와 매출채권(못 받은 돈)에 현금이 묶이고, 지급은 빨리 하고 수금은 늦게 하면 성장할수록 더 위험해집니다.
+**13주 현금흐름 예측:** 매주 들어올 돈(수금, 재고 판매)과 나갈 돈(급여, 공급업체, 세금, 이자)을 적어 언제 바닥나는지 봅니다. 위기 때 은행·이사회와 공유하는 공통 언어가 됩니다.
+**운전자본 개선의 네 지렛대:** ① 재고 축소(남는 재고 판매, 최소·최대 재고량) ② 수금 단축(조기 결제 할인 1%) ③ 위탁 재고(고객 전용 재고는 고객이 부담) ④ 현금 유출 억제(배당 중단, 세금 분할 납부).
+**나쁜 소식은 먼저, 직접:** 은행·국세청·이사회에 "마지막 날이 아니라" 먼저 연락합니다. 숨긴 문제보다 공유한 문제가 훨씬 협상하기 쉽습니다.
