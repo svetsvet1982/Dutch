@@ -1,0 +1,291 @@
+# 2부 7화. De bank aan tafel (은행과 마주 앉다)
+수준: 중상급 (B2) | 장소: CFO실(밤) → 페르후프 가족의 집 → 에인트호번 은행 회의실 → 은행 주차장 → 공장 식당 | 시간: 2월
+배경 현안: 금리 상승기 중소 제조업의 재무약정 위반 위험, 약정 면제(waiver) 협상, 가족 주주의 후순위 대출
+핵심 표현: Wij vragen om een waiver · Wat is uw zekerheid? · Dit plan is realistisch · Daar zijn we het over eens · Wij komen u tegemoet
+💼 스킬: 은행 협상(상대의 위험을 줄여 주고 내 위험과 맞바꾸기)
+
+## 대화
+— Scène 1: Het kantoor van Thijs, de avond voor het gesprek (면담 전날 밤, 테이스의 사무실) —
+Thijs: Oké. Ik leg het nog één keer uit, zodat je het morgen in je slaap kunt zeggen.
+좋아요. 내일 자면서도 말할 수 있게 한 번 더 설명할게요.
+Femke: Ga je gang. Ik ben een goede leerling.
+해 봐요. 저 착한 학생이에요.
+Thijs: De bank heeft ons krediet gegeven onder voorwaarden. Dat zijn de convenanten. De belangrijkste: onze schuld mag niet hoger zijn dan drie keer onze jaarlijkse operationele winst.
+은행은 조건을 걸고 우리에게 대출을 해 줬어요. 그게 재무약정이에요. 가장 중요한 건, 부채가 연간 영업이익의 세 배를 넘으면 안 된다는 거예요.
+Femke: En waar staan we nu?
+지금 우리는 어디쯤이에요?
+Thijs: Op drie komma drie. Door de prijsverlaging aan Veldhoven en omdat we de oude voorraad met verlies hebben verkocht. Allebei goede besluiten, maar ze drukken de winst dit jaar.
+3.3이요. 펠트호번 가격 인하랑 오래된 재고를 손해 보고 판 것 때문에요. 둘 다 좋은 결정이었지만 올해 이익을 깎아요.
+Femke: Dus we hebben het convenant geschonden.
+그러니까 우리가 약정을 위반한 거네요.
+Thijs: Technisch gezien, ja. Dan mag de bank het krediet opzeggen. In theorie.
+기술적으로는요, 네. 그럼 은행은 대출을 회수할 수 있어요. 이론상으로는요.
+Femke: En in de praktijk?
+실제로는요?
+Thijs: In de praktijk wil een bank geen fabriek met driehonderdveertig mensen failliet laten gaan. Dat is slecht voor hun naam en ze krijgen minder terug. Ze willen vooral zekerheid.
+실제로 은행은 340명이 일하는 공장을 파산시키고 싶어 하지 않아요. 평판에도 안 좋고 돌려받는 돈도 줄어요. 무엇보다 안정성을 원하죠.
+Femke: Wat vragen we?
+우리는 뭘 요청해요?
+Thijs: Een waiver. Ze zien voor twee kwartalen af van het convenant. En daarna een nieuw niveau van drie komma vijf voor een jaar.
+면제요. 두 분기 동안 약정을 적용하지 않는 거예요. 그다음 1년 동안은 기준을 3.5로 새로 정하고요.
+Femke: En wat gaan ze terugvragen?
+그럼 그쪽은 뭘 요구할까요?
+Thijs: Waarschijnlijk vier dingen. Een hogere rente. Een eenmalige vergoeding voor de waiver. Extra zekerheden. En meer informatie, vaker.
+아마 네 가지요. 더 높은 금리. 면제에 대한 일회성 수수료. 추가 담보. 그리고 더 많은 정보를 더 자주.
+Femke: Welke kunnen we geven?
+그중에 뭘 줄 수 있어요?
+Thijs: Meer informatie: makkelijk. Die geven we al. Een kleine vergoeding: acceptabel. Extra zekerheid: de nieuwe hal kunnen we verpanden. Een hogere rente: daar wil ik zo min mogelijk aan geven. Elke tiende procent kost ons honderdduizend per jaar.
+더 많은 정보는 쉬워요. 이미 주고 있으니까요. 작은 수수료는 받아들일 만해요. 추가 담보는 새 공장동을 담보로 잡힐 수 있어요. 높은 금리는 최대한 적게 주고 싶어요. 0.1%포인트마다 연간 10만 유로예요.
+Femke: Dus we geven makkelijk wat voor ons goedkoop is, en we vechten voor wat duur is.
+그러니까 우리한테 싼 건 쉽게 주고, 비싼 건 지키려고 싸우는 거네요.
+Thijs: Precies. En we hebben één troef.
+맞아요. 그리고 우리한텐 비장의 카드가 하나 있어요.
+Femke: Welke?
+뭔데요?
+Thijs: Jij. Ik breng de cijfers, jij brengt het verhaal. Waarom zou een bank over vijf jaar nog met Verhoef in zee willen?
+펨커요. 저는 숫자를 가져가고, 펨커는 이야기를 가져가는 거예요. 5년 뒤에도 은행이 왜 Verhoef와 거래하고 싶어 할까?
+Femke: Medische klanten, het contract van drie jaar met Veldhoven, de energiehub en nieuwe vakmensen.
+의료 고객, 펠트호번과의 3년 계약, 에너지 허브, 그리고 새로운 기술자들.
+Thijs: Ja. Maar dan zonder lijstje. Als een verhaal.
+네. 하지만 목록이 아니라 이야기로요.
+Femke: (lacht) Je klinkt als ik.
+(웃으며) 꼭 저처럼 말하네요.
+Thijs: Ik heb een jaar naast je gezeten. Er is wat blijven hangen.
+1년을 옆에 앉아 있었잖아요. 좀 배운 게 있죠.
+— Scène 2: In het huis van de familie Verhoef (페르후프 가족의 집) —
+Riet: Koffie, mevrouw Hoekstra? Met een stukje Bossche bol? Dat at Jan altijd op zondag.
+커피 드실래요, 훅스트라 씨? 보스허 볼도 한 조각 드릴까요? 얀이 일요일마다 먹던 거예요.
+Femke: Graag. Dank u, mevrouw Verhoef.
+좋아요. 감사합니다, 페르후프 부인.
+Marloes: Mam, Femke en Thijs komen iets vragen. Dat heb ik je al gezegd.
+엄마, 펨커랑 테이스가 부탁하러 온 거예요. 말씀드렸잖아요.
+Riet: Ik weet het. Geen dividend dit jaar. En nu willen jullie ook nog geld.
+알아. 올해 배당은 없고. 이젠 돈까지 원한다지.
+Thijs: Ik ga eerlijk zijn, mevrouw Verhoef. Morgen praten we met de bank. De bank wil zien dat de eigenaren zelf ook in het bedrijf geloven.
+솔직하게 말씀드릴게요, 페르후프 부인. 내일 은행과 이야기해요. 은행은 소유주들도 직접 회사를 믿는다는 걸 보고 싶어 해요.
+Riet: Hoeveel?
+얼마요?
+Thijs: Twee miljoen. Als achtergestelde lening. Dat betekent: de bank wordt eerst terugbetaald, de familie daarna. Met een goede rente.
+200만 유로요. 후순위 대출로요. 은행이 먼저 상환받고, 가족은 그다음이에요. 괜찮은 이자를 붙여서요.
+Tante Lies: Twee miljoen! Dat is ons pensioen.
+200만이라니! 그건 우리 노후 자금이야.
+Marloes: Tante Lies, het is niet jullie pensioen. Het is geld uit de verkoop van het oude pand in Mierlo. Dat staat al jaren op een spaarrekening.
+리스 고모, 그건 노후 자금이 아니에요. 미를로 옛 건물을 판 돈이에요. 몇 년째 저축 계좌에 있잖아요.
+Tante Lies: Toch.
+그래도.
+Femke: Mag ik iets zeggen? Ik begrijp dat dit eng is. Jan heeft dit bedrijf met zijn handen opgebouwd. U heeft er jarenlang voor gezorgd dat hij dat kon. Dit is uw bedrijf.
+제가 한마디 해도 될까요? 무섭게 느껴지시는 거 이해해요. 얀은 손으로 이 회사를 일궜어요. 그리고 부인께서는 몇 년 동안 얀이 그럴 수 있게 뒷받침하셨죠. 이건 부인의 회사예요.
+Riet: (stil) Dat zegt bijna niemand.
+(조용히) 그런 말 하는 사람은 거의 없어요.
+Femke: Het bedrijf is gezond. Er komen nieuwe klanten. Maar het heeft tijd nodig. Met deze lening laat u de bank zien dat de familie achter het bedrijf staat. Dan geeft de bank ons die tijd.
+회사는 건강해요. 새 고객이 오고 있어요. 하지만 시간이 필요해요. 이 대출로 가족이 회사를 지지한다는 걸 은행에 보여 주시는 거예요. 그러면 은행이 우리에게 시간을 줄 거예요.
+Riet: En als het misgaat?
+잘못되면요?
+Thijs: Dan kan het geld verloren gaan. Dat ga ik niet verzwijgen. Maar als de bank het krediet opzegt, is het hele bedrijf in gevaar. Dan verliest u veel meer dan twee miljoen.
+그럼 그 돈을 잃을 수도 있어요. 그걸 숨기진 않을게요. 하지만 은행이 대출을 회수하면 회사 전체가 위험해져요. 그러면 200만보다 훨씬 많은 걸 잃으시게 돼요.
+Riet: (kijkt naar een foto van Jan aan de muur) Wat zou hij doen?
+(벽에 걸린 얀의 사진을 보며) 그 사람이라면 어떻게 했을까?
+Gerrit: (die stil in een hoek zat) Hij zou het doen, Riet. Zonder twijfel. En daarna drie dagen chagrijnig zijn.
+(구석에 조용히 앉아 있던) 했을 거예요, 리트. 틀림없이요. 그러고 사흘 동안 툴툴거렸겠죠.
+Riet: (lacht ondanks zichzelf) Dat is waar.
+(자기도 모르게 웃으며) 그건 그래.
+Riet: Goed. Twee miljoen. Maar ik wil elke drie maanden horen hoe het gaat. Van u zelf. Niet uit een rapport.
+좋아요. 200만. 하지만 석 달마다 어떻게 되고 있는지 듣고 싶어요. 당신한테서 직접요. 보고서 말고요.
+Femke: Dat beloof ik. Ik kom zelf. Met Bossche bollen.
+약속드려요. 제가 직접 올게요. 보스허 볼 들고요.
+Tante Lies: (bromt) Dan wil ik er ook een.
+(투덜거리며) 그럼 나도 하나 줘.
+— Scène 3: Het kantoor van de bank in Eindhoven (에인트호번의 은행 사무실) —
+Hester: Goedemorgen. Hester Smits, afdeling bijzonder beheer. Ik heb uw cijfers gezien.
+안녕하세요. 특별관리부 헤스터르 스미츠예요. 숫자는 봤어요.
+Thijs: Goedemorgen. Bijzonder beheer. Dan weten we waar we staan.
+안녕하세요. 특별관리부라. 그럼 우리가 어디 서 있는지 알겠네요.
+Hester: U weet hoe dat werkt, meneer Brouwer. U heeft zelf op deze stoel gezeten, hoorde ik.
+어떻게 돌아가는지 아시잖아요, 브라우어르 씨. 직접 이 자리에 앉아 계셨다고 들었어요.
+Thijs: Tien jaar. Aan de andere kant van de tafel.
+10년이요. 테이블 반대편에서요.
+Hester: Dan weet u dat een convenantbreuk ernstig is. Waarom zou de bank coulant zijn?
+그럼 약정 위반이 심각하다는 것도 아시겠네요. 은행이 왜 관대해야 하죠?
+Femke: Mag ik daarop antwoorden? Omdat dit bedrijf over vijf jaar sterker is dan het ooit was. En omdat u dan blij bent dat u nu bent gebleven.
+제가 답해도 될까요? 이 회사는 5년 뒤에 그 어느 때보다 강할 테니까요. 그리고 그때 지금 남아 있었던 걸 기뻐하실 테니까요.
+Hester: Dat is een mooie zin. Waar is het bewijs?
+멋진 문장이네요. 증거는 어디 있죠?
+Femke: Een jaar geleden stonden de machines een derde van de tijd stil. Nu nog een op de zes. Een jaar geleden kwam een kwart van de leveringen te laat. Nu vijf procent.
+1년 전엔 기계가 3분의 1의 시간 동안 서 있었어요. 지금은 6분의 1이에요. 1년 전엔 납품의 4분의 1이 늦었어요. 지금은 5%예요.
+Femke: We hebben een contract van drie jaar met onze grootste klant, met een minimumvolume. Een nieuwe medische klant die volgend jaar tien keer meer wil bestellen. En een energiehub die onze nieuwe hal laat draaien, terwijl de rest van Brabant op een wachtlijst staat.
+최대 고객과 최소 물량이 보장된 3년 계약이 있어요. 내년에 열 배 더 주문하고 싶어 하는 새 의료 고객이 있고요. 그리고 브라반트의 다른 곳이 다 대기 명단에 있는 동안 우리 새 공장동을 돌려 줄 에너지 허브가 있어요.
+Hester: (schrijft iets op) En waarom ligt de schuld dan boven de drie?
+(뭔가를 적으며) 그런데 왜 부채 비율이 3을 넘었죠?
+Thijs: Door twee besluiten die het bedrijf gezonder maken. Vijf procent prijsverlaging in ruil voor drie jaar zekerheid. En de verkoop van drie miljoen aan oude voorraad, met verlies. Dat drukt de winst eenmalig, maar het levert kas op.
+회사를 더 건강하게 만드는 두 가지 결정 때문이에요. 3년의 안정성과 맞바꾼 5% 가격 인하. 그리고 300만 유로어치 오래된 재고를 손해 보고 판 것. 이익을 일회적으로 깎지만 현금을 만들어 줘요.
+Hester: Dat zie ik. Wat vraagt u precies?
+알겠어요. 정확히 뭘 요청하세요?
+Thijs: Wij vragen om een waiver voor het convenant over de komende twee kwartalen. Daarna een tijdelijk niveau van drie komma vijf, tot eind volgend jaar.
+앞으로 두 분기 동안 약정 면제를 요청합니다. 그 후 내년 말까지 한시적으로 3.5 기준을 요청합니다.
+Hester: En wat is uw zekerheid? Wat krijgt de bank daarvoor?
+그럼 담보는요? 은행은 그 대가로 뭘 받죠?
+Thijs: Ten eerste: elke maand een volledige rapportage, inclusief de dertienwekenprognose. Ten tweede: een eerste hypotheekrecht op de nieuwe hal.
+첫째, 13주 예측표를 포함한 월간 전체 보고. 둘째, 새 공장동에 대한 1순위 저당권.
+Hester: En ten derde?
+그럼 셋째는요?
+Thijs: De familie Verhoef stort twee miljoen als achtergestelde lening. Gisteren toegezegd.
+페르후프 가족이 후순위 대출로 200만 유로를 넣어요. 어제 확약했어요.
+Hester: (kijkt op) De familie stort zelf geld? Dat verandert de zaak.
+(고개를 들며) 가족이 직접 돈을 넣는다고요? 그럼 얘기가 달라지죠.
+Thijs: Dat dacht ik al.
+그러실 줄 알았어요.
+Hester: Toch wil ik de rente met een half procent verhogen. Het risico is gestegen.
+그래도 금리는 0.5%포인트 올리고 싶어요. 위험이 커졌으니까요.
+Thijs: Een half procent is vijfhonderdduizend euro per jaar. Dat is geld dat we nodig hebben om de vakmensen op te leiden die het risico juist verkleinen.
+0.5%포인트면 연간 50만 유로예요. 바로 그 위험을 줄여 줄 기술자를 교육하는 데 필요한 돈이에요.
+Hester: Wat stelt u voor?
+무엇을 제안하세요?
+Thijs: Een kwart procent. En als we na twee kwartalen weer onder de drie zitten, gaat hij terug naar het oude niveau.
+0.25%포인트요. 그리고 두 분기 뒤에 다시 3 아래로 내려가면 원래 수준으로 돌아가는 거예요.
+Hester: (denkt na) Een kwart, met een opslag die automatisch vervalt bij herstel. Plus een eenmalige vergoeding van vijfentwintigduizend euro voor de waiver.
+(생각하며) 0.25%포인트, 회복되면 자동으로 없어지는 가산금리로. 거기에 면제 수수료로 일회성 2만 5천 유로.
+Thijs: Vijftienduizend.
+1만 5천이요.
+Hester: Twintig. En geen dividend zolang de waiver loopt.
+2만이요. 그리고 면제 기간 동안 배당 금지.
+Femke: Geen dividend was al ons plan. Daar zijn we het over eens.
+배당 없음은 원래 저희 계획이었어요. 그건 동의해요.
+Hester: Goed. Ik moet het voorleggen aan de kredietcommissie. Maar ik ga het positief adviseren.
+좋아요. 여신위원회에 올려야 하지만, 긍정적으로 권고하겠습니다.
+Thijs: Dank u. Wij komen u tegemoet waar het kan. En we vragen hetzelfde van u.
+감사합니다. 저희는 할 수 있는 만큼 양보했어요. 그리고 같은 걸 귀측에도 부탁드려요.
+Hester: (glimlacht voor het eerst) Mag ik iets persoonlijks zeggen, meneer Brouwer? Het is prettig om met iemand te praten die mijn taal spreekt.
+(처음으로 미소 지으며) 개인적인 말 하나 해도 될까요, 브라우어르 씨? 제 언어를 쓰는 사람과 이야기하니 편하네요.
+Thijs: Dat zei een vakbondsman ooit ook tegen me. Ik spreek blijkbaar veel talen.
+예전에 노조 위원장도 저한테 그런 말을 했어요. 저는 여러 언어를 하나 봐요.
+Hester: En mevrouw Hoekstra? Dit plan is realistisch. Maar het is ambitieus. Zorg dat u het waarmaakt.
+그리고 훅스트라 씨? 이 계획은 현실적이에요. 하지만 야심 차죠. 꼭 실현하세요.
+Femke: Dat doen we. U krijgt elke maand het bewijs.
+그럴 거예요. 매달 증거를 받으시게 될 거예요.
+— Scène 4: Op de parkeerplaats van de bank (은행 주차장) —
+Femke: (ademt diep uit) Dat ging goed, toch?
+(숨을 깊게 내쉬며) 잘된 거죠?
+Thijs: Beter dan goed. Een kwart in plaats van een half. Dat is tweehonderdvijftigduizend euro per jaar. Dat is een draaier en een halve leerling.
+잘된 것 이상이에요. 0.5 대신 0.25. 연간 25만 유로예요. 선반공 한 명에 견습생 반 명이죠.
+Femke: Je rekent alles om in mensen.
+모든 걸 사람 수로 환산하네요.
+Thijs: Dat heb ik van jou geleerd. Vroeger rekende ik alles om in procenten.
+펨커한테 배웠어요. 예전엔 전부 퍼센트로 환산했거든요.
+Femke: En ik heb van jou geleerd dat een bank geen vijand is.
+그리고 저는 테이스한테서 은행이 적이 아니라는 걸 배웠어요.
+Thijs: Een bank is een partner die bang is. Dat is iets anders.
+은행은 겁먹은 파트너예요. 그건 다른 거죠.
+Femke: Weet je wat het beste moment was? Toen je zei: dat geld hebben we nodig om de vakmensen op te leiden die het risico verkleinen. Toen zag ik haar twijfelen.
+제일 좋았던 순간이 언제인지 알아요? "그 돈은 위험을 줄여 줄 기술자를 교육하는 데 필요하다"고 했을 때요. 그때 그 사람이 망설이는 게 보였어요.
+Thijs: Dat was jouw verhaal, in mijn woorden.
+그건 펨커의 이야기를 제 말로 한 거예요.
+Femke: Dan zijn we een goed team.
+그럼 우린 좋은 팀이네요.
+Thijs: Voor nu. Wacht maar tot we het een keer oneens zijn.
+지금은요. 우리가 한번 의견이 갈릴 때까지 기다려 봐요.
+Femke: (lacht) Dat gebeurt nooit.
+(웃으며) 그런 일은 없을 거예요.
+Thijs: Zeg nooit nooit, Hoekstra.
+절대라는 말은 절대 하지 마요, 훅스트라.
+Femke: Belt ze eigenlijk zelf terug, of moeten we wachten op een brief?
+그 사람이 직접 다시 전화해요, 아니면 편지를 기다려야 해요?
+Thijs: Ze belt binnen een week. En ik bel Riet vanavond. Zij moet het als eerste horen.
+일주일 안에 전화할 거예요. 그리고 저는 오늘 밤 리트에게 전화할게요. 그분이 제일 먼저 들어야죠.
+— Scène 5: Twee telefoontjes, zes dagen later (엿새 후, 두 통의 전화) —
+Hester: (aan de telefoon) Meneer Brouwer? Hester Smits. De kredietcommissie heeft vanochtend vergaderd.
+(전화로) 브라우어르 씨? 헤스터르 스미츠예요. 오늘 아침 여신위원회가 열렸어요.
+Thijs: En?
+그래서요?
+Hester: Akkoord. Twee kwartalen waiver, daarna drie komma vijf tot eind volgend jaar. Een kwart procent opslag die vervalt bij herstel. Twintigduizend euro vergoeding.
+승인됐어요. 두 분기 면제, 그 후 내년 말까지 3.5. 회복 시 소멸하는 0.25%포인트 가산금리. 수수료 2만 유로.
+Thijs: (sluit zijn ogen) Dank u. Dat is goed nieuws.
+(눈을 감으며) 감사합니다. 좋은 소식이네요.
+Hester: Eén opmerking van de commissie. Ze vonden de dertienwekenprognose de beste die ze dit jaar hebben gezien. Ze willen hem als voorbeeld gebruiken voor andere klanten.
+위원회에서 한마디 있었어요. 올해 본 13주 예측표 중에 최고였대요. 다른 고객들에게 본보기로 쓰고 싶대요.
+Thijs: (lacht) Mijn oude collega's zullen het niet geloven.
+(웃으며) 옛 동료들이 안 믿을 거예요.
+Hester: En meneer Brouwer? Als het mis dreigt te gaan, bel mij. Niet op de laatste dag.
+그리고 브라우어르 씨? 일이 틀어질 것 같으면 전화 주세요. 마지막 날이 아니라요.
+Thijs: Dat is precies wat ik altijd tegen mijn klanten zei.
+그게 바로 제가 늘 고객들한테 하던 말이에요.
+Riet: (tweede telefoontje) Met Riet Verhoef.
+(두 번째 통화) 리트 페르후프예요.
+Thijs: Mevrouw Verhoef, met Thijs Brouwer. U zei dat u het als eerste wilde horen. De bank is akkoord.
+페르후프 부인, 테이스 브라우어르예요. 제일 먼저 듣고 싶다고 하셨죠. 은행이 승인했어요.
+Riet: (stilte, dan zacht) Dank u. Ik zit hier met een foto van Jan op schoot.
+(침묵, 그리고 작게) 고마워요. 지금 얀 사진을 무릎에 놓고 앉아 있어요.
+Thijs: Uw lening heeft de doorslag gegeven. Dat wil ik dat u weet.
+부인의 대출이 결정적이었어요. 그걸 알아 두셨으면 해요.
+Riet: Dan heeft Jan het toch nog een keer gered.
+그럼 얀이 한 번 더 구한 거네요.
+Thijs: U heeft het gered. Hij heeft het gebouwd.
+부인이 구하신 거예요. 얀은 세운 거고요.
+Riet: (lacht zacht) U bent een vleier, meneer Brouwer. Zeg tegen Femke dat ik over drie maanden op de Bossche bollen wacht.
+(작게 웃으며) 아첨꾼이시네요, 브라우어르 씨. 펨커한테 석 달 뒤에 보스허 볼 기다리고 있겠다고 전해 줘요.
+Thijs: Dat zal ik doen. Ze is het niet vergeten.
+그럴게요. 잊지 않았을 거예요.
+— Scène 6: De kantine, een week later (일주일 후, 직원 식당) —
+Sevda: Er gaan geruchten dat de bank ons krediet wil opzeggen. Klopt dat?
+은행이 우리 대출을 회수하려 한다는 소문이 돌아요. 사실이에요?
+Femke: Nee. Het is precies andersom. Gisteren heeft de kredietcommissie ja gezegd tegen ons plan. We krijgen de ruimte die we nodig hebben.
+아니요. 정확히 반대예요. 어제 여신위원회가 우리 계획을 승인했어요. 필요한 여유를 얻었어요.
+Sevda: Waarom gingen die geruchten dan?
+그럼 그 소문은 왜 돈 거예요?
+Thijs: Omdat we inderdaad een moeilijk gesprek hadden. Dat geef ik toe. We zaten boven een grens die de bank ons had gesteld. Nu niet meer zorgen: de familie heeft zelf geld in het bedrijf gestoken, en de bank blijft.
+실제로 어려운 협상을 했으니까요. 인정해요. 은행이 정한 한계선을 넘었었어요. 이제 걱정 안 하셔도 돼요. 가족이 직접 회사에 돈을 넣었고, 은행은 남아요.
+Medewerker: De familie? De weduwe van Jan?
+가족이요? 얀의 부인이요?
+Femke: Riet Verhoef. Ze zei: "Jan zou het ook gedaan hebben. En daarna drie dagen chagrijnig zijn."
+리트 페르후프요. "얀이었어도 그렇게 했을 거예요. 그러고 사흘 동안 툴툴거렸겠죠."라고 하셨어요.
+Medewerker: (lacht) Dat klopt. Zo was hij.
+(웃으며) 맞아요. 그 양반 그랬죠.
+Sevda: Waarom hoorden we dit niet eerder?
+그런데 왜 이걸 더 일찍 못 들었어요?
+Femke: Omdat het nog niet zeker was. Ik wilde jullie niet ongerust maken met iets wat misschien goed afliep. Maar je hebt gelijk: als er geruchten zijn, moet ik eerder iets zeggen. Ook als het nog niet zeker is.
+아직 확실하지 않아서요. 잘 끝날 수도 있는 일로 여러분을 불안하게 하고 싶지 않았어요. 하지만 맞는 말이에요. 소문이 돌면, 확실하지 않더라도 제가 먼저 말해야 해요.
+Sevda: Dat is een les voor de volgende keer.
+다음번을 위한 교훈이네요.
+Femke: Die schrijf ik op. In het boekje.
+그거 적을게요. 수첩에요.
+Gerrit: (tegen Sevda) Ze heeft een boekje met alles wat ze fout doet. Het wordt dik.
+(세브다에게) 이 사람은 자기가 잘못한 걸 다 적는 수첩이 있어요. 점점 두꺼워지고 있어요.
+Femke: (lacht) Dikker dan me lief is.
+(웃으며) 제가 바라는 것보다 두꺼워요.
+
+## 주요 단어
+het convenant | 헷 콘퍼난트 | 재무약정
+schenden → heeft geschonden | 스헨던 → 헤이프트 허스혼던 | 위반하다
+de waiver | 더 웨이버르 | (약정) 면제
+de kredietcommissie | 더 크레디트코미시 | 여신위원회
+bijzonder beheer | 비존더르 버헤이르 | (은행의) 특별관리부(부실 위험 여신 관리)
+de zekerheid | 더 제이커르헤이트 | 담보, 안정성
+het hypotheekrecht | 헷 히포테이크레흐트 | 저당권
+verpanden → heeft verpand | 버르판던 → 헤이프트 버르판트 | 담보로 잡히다
+de achtergestelde lening | 더 아흐터르헤스텔더 레이닝 | 후순위 대출
+de rentevoet / de renteopslag | 더 렌터부트 / 더 렌터옵슬라흐 | 금리 / 가산금리
+coulant | 쿨란트 | 관대한, 융통성 있는
+storten → heeft gestort | 스토르턴 → 헤이프트 허스토르트 | (돈을) 넣다, 입금하다
+vervallen → is vervallen | 버르팔런 → 이스 버르팔런 | 효력을 잃다, 없어지다
+chagrijnig | 샤흐레이너흐 | 기분이 언짢은, 툴툴거리는
+de weduwe | 더 베이뒤버 | 미망인
+
+## 표현·문법 정리
+**Wij vragen om een waiver:** "면제를 요청합니다." vragen om iets = ~을 요청하다(vragen naar = ~에 대해 묻다와 구분).
+**Wat is uw zekerheid?:** "담보(보장)는 무엇인가요?" zekerheid = 확실성이자 금융에서는 담보.
+**Dit plan is realistisch:** "이 계획은 현실적이다." 은행이 쓰면 칭찬이고, 뒤에 maar가 붙으면 경고입니다.
+**Daar zijn we het over eens:** "그 점은 동의합니다." het eens zijn over + daar 분리.
+**Wij komen u tegemoet:** "저희가 양보하겠습니다, 맞춰 드리겠습니다." iemand tegemoetkomen = 상대 요구를 일부 받아들이다.
+**afzien van:** "~을 포기하다, 적용하지 않다." De bank ziet af van het convenant.
+**met iemand in zee gaan:** "~와 손잡다, 거래를 시작하다." 바다 비유.
+**Dat verandert de zaak:** "그럼 얘기가 달라지죠."
+**omrekenen in:** "~으로 환산하다." Je rekent alles om in mensen.
+**Zeg nooit nooit:** "절대라는 말은 절대 하지 마."
+**Er is wat blijven hangen:** "뭔가 머리에 남았다(배운 게 있다)." blijven hangen = 남아 있다.
+**dikker dan me lief is:** "내가 원하는 것보다 더 두꺼운." meer dan me lief is = 바라는 것 이상으로(달갑지 않게).
+**zolang:** "~하는 동안은." Geen dividend zolang de waiver loopt.
+
+## 컨설팅 스킬 노트
+**협상 항목을 '우리 비용 vs 상대 가치'로 분류:** 정보 제공(우리 비용 낮음, 은행 가치 높음) → 쉽게 준다. 저당권(비용 낮음) → 준다. 금리 인상(비용 높음) → 싸운다. 배당 금지(이미 계획) → '양보'처럼 보이게 준다.
+**상대의 위험을 줄여 주기:** 은행의 핵심 질문은 "Wat is uw zekerheid?"입니다. 가족의 후순위 대출 200만은 "소유주가 직접 위험을 진다"는 신호로, 협상 판도를 바꿨습니다.
+**조건부 양보:** "0.25%포인트, 단 회복되면 자동 소멸" — 상대에게 보상을 주면서 우리에게 개선 동기를 남기는 구조.
+**숫자 + 이야기 = 신뢰:** CFO는 숫자(3.3, 0.25%, 50만 유로)를, CEO는 미래(의료, 에너지 허브, 인재)를 이야기합니다. 둘이 같은 메시지를 다른 언어로 말할 때 가장 설득력이 큽니다.
