@@ -1,0 +1,293 @@
+# 4부 10화. De verkenner (정찰자)
+수준: 고급 (C1) | 장소: 하원 임시 의사당(베자위던하우트서베흐) 본회의장 → Brug 원내 회의실 → 복도 → 정찰자 면담실 → 기자들 앞 → 저녁의 당사 | 시간: 6월 말, 선거 2주 뒤
+배경 현안: 연정 구성 절차(정찰자 verkenner → 정보수집자 informateur → 조각 책임자 formateur), 의회가 정찰자를 임명하는 방식, 2021년 정찰자 메모 촬영 사건 이후의 보안, 76석 과반 계산
+핵심 표현: Wij sluiten niets uit · Onze rode lijnen zijn helder · Dat is geen breekpunt · Waarom willen wij eigenlijk regeren? · Wat kunnen wij missen?
+💼 스킬: 협상 전략 설계(목표 → 레드라인 → 양보 가능 목록, BATNA 파악)
+
+## 대화
+— Scène 1: De beëdiging (의원 선서) —
+Voorzitter: (in de plenaire zaal) Ik verzoek mevrouw Haddou naar voren te komen om de eed of de belofte af te leggen.
+(본회의장에서) 하두 의원은 앞으로 나와 선서 또는 서약을 해 주시기 바랍니다.
+Lina: (met trillende stem, rechterhand omhoog) Dat verklaar en beloof ik.
+(떨리는 목소리로 오른손을 들고) 그렇게 선언하고 약속합니다.
+Voorzitter: Ik feliciteer u met uw benoeming.
+의원 임명을 축하합니다.
+Femke: (op de publieke tribune, fluistert) De laatste restzetel. Tweeduizend stemmen.
+(방청석에서 속삭이며) 마지막 잔여 의석이에요. 2천 표.
+Kees: (naast haar) Ze stond elfde op de lijst. Toen we de lijst maakten, dacht niemand dat nummer elf erin zou komen. Ik ook niet.
+(옆에서) 명부 11번이었어요. 명부를 만들 때 11번이 들어갈 거라곤 아무도 생각 안 했어요. 나도요.
+Femke: Ze heeft haar eigen zetel bij elkaar gebeld.
+자기 의석을 전화로 모은 셈이네요.
+Kees: (glimlacht) De jongste van de Kamer. Vijfentwintig.
+(미소 지으며) 의회 최연소예요. 스물다섯.
+Femke: Weet ze wat er op haar afkomt?
+뭐가 기다리고 있는지 알까요?
+Kees: Niemand weet dat. Ik zat in 1986 ook op die tribune. Toen dacht ik dat de Kamer een plek was waar de beste argumenten winnen.
+아무도 몰라요. 1986년에 나도 저 방청석에 앉아 있었어요. 그땐 의회가 가장 좋은 논거가 이기는 곳인 줄 알았죠.
+Femke: En nu?
+지금은요?
+Kees: Nu weet ik dat het een plek is waar je moet tellen. Tot zesenzeventig.
+이젠 숫자를 세야 하는 곳이라는 걸 알아요. 76까지.
+Femke: (opent haar notitieboek) Dan gaan we tellen.
+(노트를 펴며) 그럼 세러 가요.
+— Scène 2: De fractiekamer van Brug (Brug 원내 회의실) —
+Anouk: (aan het hoofd van de tafel, elf Kamerleden en het campagneteam) Volgende week spreekt de verkenner met alle lijsttrekkers. Voor die tijd moeten wij weten wat wij willen.
+(테이블 상석에서, 의원 11명과 선거 팀 앞에서) 다음 주에 정찰자가 모든 당 대표와 면담해요. 그 전에 우리가 뭘 원하는지 알아야 해요.
+Femke: Mag ik met een vraag beginnen? Waarom willen wij eigenlijk regeren?
+질문 하나로 시작해도 될까요? 우리는 대체 왜 정부에 들어가려는 거죠?
+Willem-Jan: (verbaasd) Omdat we elf zetels hebben. Daarvoor doen we toch mee?
+(놀라며) 11석이니까요. 그러려고 선거에 나온 거 아닌가요?
+Femke: Elf zetels is een reden om mee te praten. Niet om te regeren. In de oppositie kun je ook veel doen. En je verliest minder kiezers.
+11석은 대화에 낄 이유예요. 정부에 들어갈 이유는 아니고요. 야당에서도 많은 걸 할 수 있어요. 그리고 유권자를 덜 잃죠.
+Lina: (aarzelend) Omdat Daan een huis nodig heeft. In de oppositie bouw je geen huizen.
+(망설이며) 다안이 집이 필요하니까요. 야당에선 집을 못 지어요.
+Femke: (wijst naar haar) Dat is een antwoord.
+(그녀를 가리키며) 그게 답이에요.
+Anouk: Wij willen regeren als we daardoor de woningnood echt kunnen aanpakken. Niet om ministers te leveren. Niet om in de krant te staan.
+주택난을 정말로 해결할 수 있을 때 정부에 들어가요. 장관 자리를 내려고가 아니라. 신문에 나려고가 아니라.
+Kees: En als de anderen dat niet willen?
+다른 당들이 그걸 원하지 않으면요?
+Anouk: Dan gaan we in de oppositie. Met elf zetels en een schoon geweten.
+그럼 야당으로 가요. 11석과 깨끗한 양심을 가지고요.
+Willem-Jan: Dat klinkt mooi. Maar onze kiezers willen dat we iets doen. Niet dat we aan de kant staan.
+멋지게 들리네요. 하지만 우리 유권자는 우리가 뭔가 하길 원해요. 옆에 서 있는 게 아니라.
+Femke: Daarom moeten we precies weten wat "iets doen" is. Anders praat de verkenner over tien dingen en krijgen we er van elk een beetje. En van niets genoeg.
+그래서 "뭔가 한다"가 정확히 뭔지 알아야 해요. 안 그러면 정찰자가 열 가지를 이야기하고 우린 각각 조금씩 얻어요. 충분히 얻는 건 하나도 없이요.
+Thijs: Een beetje van alles is in een coalitie hetzelfde als niets.
+연정에서 이것저것 조금씩은 아무것도 아닌 거나 마찬가지예요.
+— Scène 3: Van wensen naar rode lijnen (희망에서 레드라인으로) —
+Femke: (bij een whiteboard) Ik heb alle wensen uit het programma opgeschreven die wij belangrijk vinden. Het zijn er veertien.
+(화이트보드 옆에서) 프로그램에서 우리가 중요하게 여기는 희망 사항을 다 적었어요. 열네 개예요.
+Thijs: Veertien rode lijnen is geen rode lijn. Dat is een rood behang.
+레드라인 열네 개는 레드라인이 아니에요. 빨간 벽지죠.
+Femke: (lacht) Precies. Een rode lijn is iets waarvoor je bereid bent weg te lopen. Als je niet wilt weglopen, is het geen breekpunt. Dan is het een wens.
+(웃으며) 맞아요. 레드라인은 그걸 위해 자리를 박차고 나갈 각오가 된 거예요. 나갈 생각이 없으면 결렬 사유가 아니에요. 그냥 희망이죠.
+Anouk: Eén weet ik zeker. Wij regeren niet met de Partij voor Zekerheid. Dat heb ik beloofd.
+하나는 확실해요. «Partij voor Zekerheid»와는 정부를 꾸리지 않아요. 약속했으니까요.
+Femke: (schrijft) Rode lijn één. Wat nog meer?
+(적으며) 레드라인 하나. 또 뭐가 있어요?
+Lina: De honderdtwintigduizend woningen.
+12만 호 주택이요.
+Sara: Met geld erbij. Een getal zonder geld is een belofte op papier. De CPB-doorrekening ging uit van een woningbouwfonds van vier miljard per jaar.
+돈과 함께요. 돈 없는 숫자는 종이 위의 약속이에요. CPB 분석은 연 40억 유로 주택 건설 기금을 전제로 했어요.
+Femke: Rode lijn twee: het bouwdoel met het fonds. Niet het doel zonder het fonds.
+레드라인 둘. 기금이 딸린 건설 목표. 기금 없는 목표가 아니라.
+Willem-Jan: En de derde?
+세 번째는요?
+Anouk: (denkt na) De overheid moet mensen weer vertrouwen. Na de toeslagenaffaire. Geen nieuwe wetten die burgers bij voorbaat als fraudeurs behandelen.
+(생각하며) 정부가 다시 사람을 믿어야 해요. 보육수당 스캔들 이후로요. 시민을 처음부터 사기꾼 취급하는 새 법은 안 돼요.
+Femke: Rode lijn drie. (kijkt naar de rest van het bord) En de andere elf?
+레드라인 셋. (보드의 나머지를 보며) 그럼 나머지 열한 개는요?
+Kees: Die zijn wisselgeld.
+그건 거스름돈이죠.
+Femke: Wisselgeld is een lelijk woord. Maar het klopt. Wat kunnen wij missen? Het rekeningrijden? Lelystad Airport? De Nedersaksenlijn?
+거스름돈은 보기 흉한 말이지만 맞아요. 우리가 뭘 포기할 수 있죠? 주행거리 과세? 렐리스타트 공항? 네데르삭선 철도 노선?
+Willem-Jan: Niet de Nedersaksenlijn. Daar heb ik in Drenthe campagne voor gevoerd.
+네데르삭선 노선은 안 돼요. 드렌터에서 그걸로 선거 운동했어요.
+Femke: Is het een reden om weg te lopen?
+그게 박차고 나갈 이유예요?
+Willem-Jan: (na een stilte) Nee. Dat is geen breekpunt.
+(잠시 침묵 후) 아니요. 결렬 사유는 아니에요.
+Femke: Dan is het een wens. Een belangrijke wens. Die gaan we zo duur mogelijk verkopen.
+그럼 희망이에요. 중요한 희망. 최대한 비싸게 팔 거예요.
+— Scène 4: Hagedoorn belt (하헤도른의 전화) —
+Hagedoorn: (aan de telefoon, op de luidspreker) Mevrouw Verbruggen. Gefeliciteerd met uw elf zetels. Ik bel om een voorstel te doen.
+(전화로, 스피커폰) 페르브뤼헌 대표님. 11석 축하합니다. 제안을 하려고 전화했어요.
+Anouk: Ik luister, meneer Hagedoorn.
+듣고 있어요, 하헤도른 씨.
+Hagedoorn: Vooruit Nederland, mijn partij en de uwe. Samen zijn we met achtenzestig. Met het Christen Verbond erbij hebben we een meerderheid. Ik geef u het ministerie van Volkshuisvesting. Uw honderdtwintigduizend woningen.
+«Vooruit Nederland»,우리 당, 그리고 당신 당. 합치면 68석이에요. «Christen Verbond»까지 더하면 과반이죠. 주택부를 드리겠습니다. 당신의 12만 호요.
+Anouk: Ik heb in de campagne gezegd dat ik niet met uw partij regeer.
+선거 운동 중에 당신 당과는 정부를 꾸리지 않겠다고 했어요.
+Hagedoorn: Campagnes zijn voorbij. Nu gaat het om het land. Of wilt u liever in de oppositie zitten terwijl Daan geen huis krijgt?
+선거는 끝났어요. 이젠 나라가 중요하죠. 아니면 다안이 집을 못 구하는 동안 야당에 앉아 있고 싶으세요?
+Anouk: (kijkt naar Femke, die haar hoofd schudt) U kent mijn kiezers goed, meneer Hagedoorn. Dan weet u ook dat ze op mij hebben gestemd omdat ik doe wat ik zeg.
+(고개를 젓는 펨커를 보며) 제 유권자를 잘 아시네요, 하헤도른 씨. 그럼 그 사람들이 제가 말한 대로 하기 때문에 저를 찍었다는 것도 아시겠죠.
+Hagedoorn: Dat is uw laatste woord?
+그게 마지막 말씀입니까?
+Anouk: Onze rode lijnen zijn helder. Eén ervan bent u. Prettige dag nog.
+우리 레드라인은 분명해요. 그중 하나가 당신이에요. 좋은 하루 보내세요.
+Hagedoorn: (koel) U weet dat er ook een meerderheid is zonder u?
+(차갑게) 당신 없이도 과반이 된다는 건 아시죠?
+Anouk: Dat weet ik. Succes ermee.
+알아요. 잘해 보세요.
+Kees: (als ze ophangt) Dat laatste is waar. Daar moeten we het over hebben.
+(그녀가 전화를 끊자) 마지막 말은 사실이에요. 그 얘기를 해야 해요.
+— Scène 5: Sara rekent (사라의 계산) —
+Sara: (projecteert een tabel) De officiële uitslag. Vooruit Nederland drieëndertig. Partij voor Zekerheid drieëntwintig. Samen Sterk twintig. Christen Verbond dertien. Brug elf. De Boerenpartij zeven. En de rest verdeeld over negen kleine partijen.
+(표를 띄우며) 공식 결과예요. «Vooruit Nederland» 33석. «Partij voor Zekerheid» 23석. «Samen Sterk» 20석. «Christen Verbond» 13석. Brug 11석. 농민당 7석. 나머지는 군소 정당 아홉 개에 나뉘었어요.
+Femke: Welke meerderheden zijn er?
+어떤 과반 조합이 있어요?
+Sara: Twee realistische. Eén: Vooruit Nederland, Partij voor Zekerheid, Christen Verbond en de Boerenpartij. Zesenzeventig. Precies genoeg.
+현실적인 건 두 개예요. 하나, «Vooruit Nederland», «Partij voor Zekerheid», «Christen Verbond», 농민당. 76석. 딱 과반이에요.
+Thijs: Rechts, zonder ons.
+우파, 우리 없이.
+Sara: Twee: Vooruit Nederland, Samen Sterk, Christen Verbond en Brug. Zevenenzeventig.
+둘, «Vooruit Nederland», «Samen Sterk», «Christen Verbond», Brug. 77석.
+Femke: Het midden. Met ons.
+중도. 우리와 함께.
+Kees: Optie één heeft één zetel marge. Eén Kamerlid met hoofdpijn en ze hebben geen meerderheid meer. En de Eerste Kamer?
+첫 번째 안은 여유가 한 석이에요. 의원 하나가 두통만 나도 과반이 깨져요. 그리고 상원은요?
+Sara: In de Eerste Kamer heeft optie één geen meerderheid. Optie twee wel, net.
+상원에서 첫 번째 안은 과반이 안 돼요. 두 번째 안은 겨우 돼요.
+Femke: (schrijft) Dat is ons alternatief. Als wij niet aan tafel komen, krijgt Nederland een kabinet op één zetel. Zonder Eerste Kamer. Dat wil Vooruit Nederland ook niet.
+(적으며) 그게 우리의 대안이에요. 우리가 테이블에 안 앉으면 네덜란드는 한 석 차이 내각을 갖게 돼요. 상원 과반도 없이요. «Vooruit Nederland»도 그건 원하지 않아요.
+Thijs: Dus we zijn minder zwak dan elf zetels doet denken.
+그러니까 우리는 11석으로 보이는 것보다 덜 약하네요.
+Femke: Precies. Maar we moeten niet arrogant worden. Samen Sterk en Vooruit Nederland hebben elkaar de hele campagne aangevallen. Die moeten wij bij elkaar brengen.
+바로 그거예요. 하지만 오만해지면 안 돼요. «Samen Sterk»와 «Vooruit Nederland»는 선거 내내 서로를 공격했어요. 우리가 그 둘을 이어야 해요.
+Anouk: (glimlacht) Een brug.
+(미소 지으며) 다리네요.
+— Scène 6: Het gesprek met de verkenner (정찰자와의 면담) —
+Verkenner: (Gerda Mulder, oud-vicepresident van de Raad van State, met een leeg vel papier) Mevrouw Verbruggen, goedemorgen. Ik ga niet veel opschrijven. U weet waarom.
+(전 국가자문위원회 부의장 헤르다 뮐더르, 빈 종이 한 장을 앞에 두고) 페르브뤼헌 대표님, 안녕하세요. 많이 적지 않을 거예요. 이유는 아시죠.
+Anouk: Ik weet waarom. (ze glimlachen allebei)
+알죠. (둘 다 미소 짓는다)
+Verkenner: Wat is de boodschap van de kiezer, volgens u?
+대표님이 보기에 유권자의 메시지는 뭔가요?
+Anouk: Dat mensen moe zijn van ruzie. En dat ze een huis willen. In die volgorde, of andersom.
+사람들이 싸움에 지쳤다는 것. 그리고 집을 원한다는 것. 그 순서로요, 아니면 반대로요.
+Verkenner: Met welke partijen wilt u regeren?
+어느 당과 정부를 꾸리고 싶으세요?
+Anouk: Wij sluiten niets uit, behalve één partij. Die kent u.
+한 당만 빼고 아무것도 배제하지 않아요. 그 당은 아시죠.
+Verkenner: De Partij voor Zekerheid.
+«Partij voor Zekerheid»요.
+Anouk: Ja. Dat heb ik voor de verkiezingen gezegd, en ik zeg het erna.
+네. 선거 전에 말했고, 선거 후에도 말해요.
+Verkenner: En Samen Sterk en Vooruit Nederland samen? Die hebben elkaar de afgelopen maanden niet gespaard.
+«Samen Sterk»와 «Vooruit Nederland»가 함께하는 건요? 지난 몇 달 동안 서로 봐주지 않았잖아요.
+Anouk: Daarom zijn wij er. Wij kunnen met allebei praten. Wij zijn geen van beiden.
+그래서 우리가 있는 거예요. 우리는 둘 다와 이야기할 수 있어요. 우리는 둘 중 어느 쪽도 아니니까요.
+Verkenner: Wat zijn uw voorwaarden?
+조건은 뭔가요?
+Anouk: Onze rode lijnen zijn helder. Drie. Geen kabinet met de Partij voor Zekerheid. Het bouwdoel van honderdtwintigduizend woningen, met een fonds dat het betaalt. En geen nieuwe wetten die burgers vooraf als verdachte behandelen.
+우리 레드라인은 분명해요. 세 가지요. «Partij voor Zekerheid»와의 내각은 없다. 12만 호 건설 목표와 그 비용을 댈 기금. 그리고 시민을 미리 용의자 취급하는 새 법은 없다.
+Verkenner: (schrijft drie woorden op) Drie. Dat is weinig. De meeste partijen noemen er tien.
+(세 단어를 적으며) 세 가지라. 적네요. 대부분 열 개를 말하거든요.
+Anouk: Wie er tien noemt, heeft er geen.
+열 개를 말하는 사람은 하나도 없는 거예요.
+Verkenner: (kijkt op) En de Nedersaksenlijn? Daar heeft uw nummer drie veel over gezegd.
+(고개를 들며) 네데르삭선 노선은요? 당신 당 3번이 그걸 많이 이야기했던데요.
+Anouk: Dat is belangrijk voor ons. Maar dat is geen breekpunt.
+우리에게 중요해요. 하지만 결렬 사유는 아니에요.
+Verkenner: Dat is een eerlijk antwoord. Dat hoor ik niet vaak.
+솔직한 대답이네요. 자주 듣는 말이 아니에요.
+Anouk: Mijn adviseur zegt dat een rode lijn iets is waarvoor je wilt weglopen. Voor een spoorlijn loop ik niet weg. Voor een huis voor Daan wel.
+제 고문이 레드라인은 그걸 위해 박차고 나갈 수 있는 거라고 하더군요. 철도 노선 때문엔 안 나가요. 다안의 집 때문엔 나가요.
+Verkenner: Wie is Daan?
+다안이 누구죠?
+Anouk: Een leraar van achtentwintig die nog in zijn kinderkamer woont. Er zijn er driehonderdduizend zoals hij.
+어릴 적 방에 아직 사는 스물여덟 살 교사요. 그런 사람이 30만 명이에요.
+Verkenner: (vouwt het papier dubbel en steekt het in haar binnenzak) Dank u, mevrouw Verbruggen. Dat was helder.
+(종이를 반으로 접어 안주머니에 넣으며) 고맙습니다, 페르브뤼헌 대표님. 명확했어요.
+— Scène 7: In de gang (복도에서) —
+Kees: (fluistert tegen Femke, als ze naar buiten lopen) Stop je notitieboek in je tas. Nu.
+(밖으로 걸어 나가며 펨커에게 속삭이며) 노트를 가방에 넣어요. 지금.
+Femke: Waarom?
+왜요?
+Kees: Zie je die fotografen bij het raam? Met die lange lenzen? In 2021 liep een verkenner hier naar buiten met haar aantekeningen onder haar arm. Een fotograaf kon alles lezen. Eén zin over een Kamerlid. Het kabinet was nog niet eens begonnen en er was al een crisis.
+창가에 저 사진기자들 보여요? 긴 렌즈 든? 2021년에 정찰자가 메모를 겨드랑이에 끼고 여기서 나왔어요. 사진기자가 전부 읽을 수 있었죠. 의원 한 명에 대한 한 문장. 내각이 시작도 안 했는데 벌써 위기였어요.
+Femke: (stopt het notitieboek snel weg) Daarom schreef ze bijna niets op.
+(재빨리 노트를 집어넣으며) 그래서 거의 안 적었군요.
+Kees: Daarom. In de politiek is papier gevaarlijker dan woorden. Woorden kun je ontkennen.
+그래서죠. 정치에선 종이가 말보다 위험해요. 말은 부인할 수 있으니까.
+Femke: Ik heb mijn hele leven alles opgeschreven. Dat was mijn manier om eerlijk te blijven.
+평생 전부 적어 왔어요. 그게 제가 정직하게 남는 방법이었어요.
+Kees: Blijf schrijven. Maar thuis. (glimlacht) Ik ben veertig jaar oneerlijk gebleven door niets op te schrijven. Doe het andersom.
+계속 적어요. 하지만 집에서요. (미소 지으며) 나는 아무것도 안 적어서 40년 동안 정직하지 않게 지냈어요. 반대로 해요.
+Jeroen: (bij de uitgang) Mevrouw Verbruggen! Wat heeft u de verkenner verteld?
+(출구에서) 페르브뤼헌 대표님! 정찰자에게 뭐라고 하셨습니까?
+Anouk: Dat wij niets uitsluiten, behalve één partij. En dat wij drie voorwaarden hebben.
+한 당만 빼고 아무것도 배제하지 않는다고요. 그리고 조건이 세 가지 있다고요.
+Jeroen: Welke drie?
+어떤 세 가지요?
+Anouk: (glimlacht) Die staan in mijn hoofd, meneer Bos. Niet op papier.
+(미소 지으며) 제 머릿속에 있어요, 보스 씨. 종이 위가 아니라.
+— Scène 8: Het verslag van de verkenner (정찰자 보고서) —
+Sara: (leest voor van haar laptop) "De verkenner adviseert de Kamer een informateur te benoemen die onderzoekt of een kabinet van Vooruit Nederland, Samen Sterk, het Christen Verbond en Brug mogelijk is."
+(노트북으로 소리 내 읽으며) "정찰자는 의회에 «Vooruit Nederland», «Samen Sterk», «Christen Verbond», Brug 내각이 가능한지 조사할 정보수집자(informateur)를 임명할 것을 권고한다."
+Thijs: (slaat met zijn hand op tafel) Wij zitten erin.
+(손으로 테이블을 치며) 우리가 들어갔어요.
+Sara: Er staat nog meer. "De optie met de Partij voor Zekerheid heeft in de Eerste Kamer geen meerderheid en in de Tweede Kamer een zeer smalle basis."
+더 있어요. "«Partij voor Zekerheid»가 포함된 안은 상원에서 과반이 없고 하원에서도 기반이 매우 좁다."
+Femke: Ons alternatief. Zij heeft het gezien.
+우리 대안이에요. 그 사람이 봤네요.
+Mark: (met zijn telefoon) Jan-Pieter Hoogland belt voor Anouk.
+(휴대폰을 들고) 얀피터르 호흘란트가 아나우크를 찾아요.
+Hoogland: (op de luidspreker) Mevrouw Verbruggen. Ik hoorde dat de Nedersaksenlijn voor u geen breekpunt is. Klopt dat?
+(스피커폰으로) 페르브뤼헌 대표님. 네데르삭선 노선이 당신에게 결렬 사유가 아니라고 들었는데요. 맞습니까?
+Anouk: (kijkt naar Femke, verrast) Dat klopt. Hoe weet u dat?
+(놀라서 펨커를 보며) 맞아요. 어떻게 아세요?
+Hoogland: De verkenner zei dat één partij haar maar drie voorwaarden gaf. Ze was onder de indruk. Ik wil u beter leren kennen.
+정찰자가 한 당만 조건을 세 개만 줬다고 하더군요. 깊은 인상을 받았대요. 당신을 더 잘 알고 싶어요.
+Anouk: Dat is wederzijds, meneer Hoogland. Maar weet u dat onze drie voorwaarden ook echt drie voorwaarden zijn?
+저도 마찬가지예요, 호흘란트 씨. 하지만 우리 조건 세 개가 정말로 조건 세 개라는 건 아시죠?
+Hoogland: (lacht kort) Dat begrijp ik. Tot bij de informateur.
+(짧게 웃으며) 알겠습니다. 정보수집자 앞에서 봅시다.
+Anouk: (als ze ophangt) Hij wist van de spoorlijn. Dus de verkenner praat ook.
+(전화를 끊고) 철도 노선 얘기를 알더라고요. 정찰자도 말을 하는군요.
+Femke: Ze praat over wat ze wil dat anderen weten. Dat is ook onderhandelen.
+다른 사람들이 알았으면 하는 것만 말하죠. 그것도 협상이에요.
+— Scène 9: 's Avonds op het partijkantoor (저녁의 당사) —
+Kees: (schenkt twee glazen in) De rest van de fles van 1994. Er zat nog een bodem in.
+(잔 두 개에 따르며) 1994년 병의 남은 거예요. 바닥에 조금 남아 있었어요.
+Femke: Ik dacht dat die fles op was.
+그 병 다 마신 줄 알았어요.
+Kees: Ik had wat bewaard. Voor als het echt begint. (proost) Vandaag begon het echt.
+조금 남겨 뒀어요. 진짜 시작될 때를 위해. (건배하며) 오늘 진짜 시작됐어요.
+Femke: Waarom vertrouw je me nu wel?
+왜 이제는 저를 믿어요?
+Kees: Omdat je Willem-Jan zijn spoorlijn hebt laten opgeven zonder dat hij boos werd. Dat kan ik niet. Ik schreeuw dan.
+윌럼얀이 화내지 않고 철도 노선을 포기하게 했잖아요. 난 그거 못 해요. 소리를 지르죠.
+Femke: Ik heb hem alleen een vraag gesteld. Of hij ervoor wilde weglopen.
+저는 그냥 질문 하나 했어요. 그걸 위해 나갈 거냐고.
+Kees: Dat is het verschil tussen ons. Ik vertel mensen wat ze moeten opgeven. Jij laat ze het zelf zeggen.
+그게 우리 차이예요. 나는 사람들에게 뭘 포기하라고 말해요. 당신은 스스로 말하게 하고요.
+Femke: Je hebt het al eens tegen me gezegd. Dat de politiek geen audit is.
+전에 저한테 말했잖아요. 정치는 감사가 아니라고.
+Kees: Dat is ook zo. Maar een coalitie is wel een onderhandeling. En daar ben jij beter in dan ik dacht.
+그것도 맞아요. 하지만 연정은 협상이에요. 그리고 거기선 당신이 내 생각보다 나아요.
+Femke: (glimlacht) En jij weet wanneer je een notitieboek in je tas moet stoppen.
+(미소 지으며) 그리고 당신은 노트를 언제 가방에 넣어야 하는지 알고요.
+Kees: Dat heb ik in veertig jaar geleerd. Jij hebt nog tijd.
+40년 걸려 배운 거예요. 당신은 아직 시간이 있어요.
+Femke: (opent thuis, later, haar notitieboek en schrijft) "Drie rode lijnen. Elf wensen. Eén vraag: waarom willen wij regeren? Antwoord: Daan."
+(나중에 집에서 노트를 펴고 적으며) "레드라인 셋. 희망 열하나. 질문 하나: 우리는 왜 정부에 들어가려 하는가? 답: 다안."
+
+## 주요 단어
+de verkenner | 더 버르케너르 | 정찰자(연정 가능성 탐색 담당)
+de informateur | 더 인포르마퇴르 | 정보수집자(연정 협상 조사 담당)
+de beëdiging | 더 버에이더힝 | 선서식
+de eed of de belofte afleggen | 더 에이트 오프 더 벨로프터 아플레헌 | 선서 또는 서약을 하다
+de rode lijn | 더 로더 레인 | 레드라인, 절대 조건
+het breekpunt | 헷 브레이크퓐트 | 결렬 사유
+uitsluiten | 아위트슬라위턴 | 배제하다
+de meerderheid | 더 메이르더르헤이트 | 과반
+de Eerste Kamer | 더 에이르스터 카머르 | 상원
+de Tweede Kamer | 더 트베이더 카머르 | 하원
+het wisselgeld | 헷 비설헬트 | 거스름돈, (협상의) 양보 카드
+de aantekening | 더 안테이커닝 | 메모, 기록
+de publieke tribune | 더 퓌블리커 트리뷔너 | 방청석
+wederzijds | 베이더르제이츠 | 상호의, 서로의
+het verslag | 헷 버르슬라흐 | 보고서
+
+## 표현·문법 정리
+**Wij sluiten niets uit:** "아무것도 배제하지 않는다." 분리동사 uitsluiten. 협상 여지를 열어 두는 정치 표현. 예외는 behalve로: Wij sluiten niets uit, behalve één partij.
+**Onze rode lijnen zijn helder:** "우리 레드라인은 분명하다."
+**Dat is geen breekpunt:** "그건 결렬 사유가 아니다." 중요하지만 양보 가능하다는 신호.
+**Waarom willen wij eigenlijk regeren?:** "우리는 대체 왜 정부에 들어가려 하나?" eigenlijk = 대체, 본래.
+**Wat kunnen wij missen?:** "무엇을 포기할 수 있나?" missen = 없이 지내다, 포기하다.
+**Wie er tien noemt, heeft er geen:** "열 개를 말하는 사람은 하나도 없는 것이다." wie…, … 구조의 격언.
+**Wat er op iemand afkomt:** "누군가에게 닥쳐올 일." Weet ze wat er op haar afkomt?
+**bij elkaar bellen:** "전화로 모으다." Ze heeft haar eigen zetel bij elkaar gebeld.
+**Dat is wederzijds:** "저도 마찬가지예요." 호감·관심에 답할 때.
+**iemand niet sparen:** "봐주지 않다." Ze hebben elkaar niet gespaard.
+**onder de indruk zijn:** "깊은 인상을 받다."
+**Tot bij …:** "~에서 봅시다." Tot bij de informateur.
+
+## 컨설팅 스킬 노트
+**목표에서 출발하는 협상 설계:** 레드라인보다 "왜 정부에 들어가려 하는가"를 먼저 물었습니다. 목표(주택난 해결)가 분명해야 무엇이 절대 조건이고 무엇이 양보 카드인지 가릴 수 있습니다.
+**레드라인 테스트:** "그걸 위해 자리를 박차고 나갈 것인가?" 아니라면 희망(wens)입니다. 14개 희망 → 레드라인 3개 + 양보 카드 11개. 레드라인이 적을수록 신뢰가 높아집니다("Wie er tien noemt, heeft er geen").
+**BATNA 파악:** 76석짜리 우파 연정은 하원 1석 여유에 상원 과반이 없습니다. 이 약한 대안이 11석 Brug의 협상력을 높였습니다. 자기 대안뿐 아니라 상대 대안의 약점도 계산하세요.
+**정보 보안:** 2021년 정찰자 메모 촬영 사건처럼 협상 단계에선 종이가 리스크입니다. 정찰자는 세 단어만 적어 안주머니에 넣었고, Anouk은 "머릿속에 있다"고 답했습니다.
