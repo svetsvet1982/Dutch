@@ -1,0 +1,291 @@
+# 2부 1화. De eerste honderd dagen (첫 100일)
+수준: 중상급 (B2) | 장소: Verhoef Precisie 정문 → 직원 식당 → CEO실 → 야간 근무 작업장 → 감독이사회 회의실 | 시간: 9월 1일 ~ 12월 초
+배경 현안: 브레인포트 지역의 제조업 정체성, 외부 경영자에 대한 현장의 불신, 노후한 IT 시스템
+핵심 표현: Ik ben hier om te luisteren · Hoe gaat het hier echt? · Dat zien we dan wel · Wat zou jij doen als je mij was? · Ik kom erop terug
+💼 스킬: 100일 계획(듣기 → 작은 승리 → 우선순위)
+
+## 대화
+— Scène 1: De poort van Verhoef Precisie, zeven uur 's ochtends (아침 7시, Verhoef Precisie 정문) —
+Gerrit: Goeiemorgen. Je bent op tijd. En je hebt werkschoenen aan. Dat scheelt.
+좋은 아침. 제시간에 왔네. 그리고 안전화를 신었고. 그거면 됐어요.
+Femke: Goedemorgen, Gerrit. Ik heb ze zaterdag gekocht. Ze knellen nog een beetje.
+좋은 아침이에요, 헤릿. 토요일에 샀어요. 아직 좀 끼네요.
+Gerrit: Over drie maanden niet meer. Als je dan nog hier bent.
+3개월 뒤엔 안 그럴 거예요. 그때도 여기 있다면.
+Femke: (glimlacht) Dat zien we dan wel.
+(미소 지으며) 그건 그때 가서 보죠.
+Thijs: Goedemorgen. Waar parkeer ik?
+좋은 아침입니다. 주차는 어디에 해요?
+Gerrit: Achteraan. Bij de bezoekers. Een eigen plek moet je verdienen.
+뒤쪽에요. 방문객 자리에. 자기 자리는 벌어야 생겨요.
+Thijs: Eerlijk is eerlijk.
+그렇긴 하죠.
+Priya: (met een laptoptas) Goedemorgen! Waar zit IT?
+(노트북 가방을 메고) 좋은 아침이에요! IT 부서는 어디예요?
+Gerrit: IT is Ruud. Hij zit in een kamertje naast de kantine. Hij werkt hier drieëntwintig jaar en hij heeft een hekel aan veranderingen.
+IT는 뤼트예요. 식당 옆 작은 방에 있어요. 여기서 23년 일했고 변화를 싫어해요.
+Priya: Dan word ik zijn beste vriendin.
+그럼 제가 그분의 절친이 될게요.
+Gerrit: (snuift) Succes. Kom, ik loop met jullie door de hal. De ochtendploeg wil weten wie die nieuwe baas is.
+(코웃음 치며) 행운을 빌어요. 와요, 작업장을 같이 돌죠. 아침 조가 새 사장이 누군지 궁금해해요.
+Femke: Mag ik iets vragen voordat we naar binnen gaan?
+들어가기 전에 하나 물어봐도 돼요?
+Gerrit: Vraag maar.
+물어봐요.
+Femke: Hoe gaat het hier echt? Niet wat in de rapporten staat. Wat zeggen de mensen bij de koffieautomaat?
+여기 실제로 어때요? 보고서에 나온 거 말고요. 커피 자판기 앞에서 사람들이 뭐라고 해요?
+Gerrit: (blijft staan) Dat ze bang zijn. Jan is dood. Er komt een vrouw uit Amsterdam die consultant was. Ze denken: die komt om te reorganiseren en dan gaat ze weer.
+(멈춰 서며) 겁먹었다고요. 얀은 죽었고. 컨설턴트였던 암스테르담 여자가 온다. 다들 생각해요. 구조조정하러 왔다가 다시 떠나겠지.
+Femke: En wat denk jij?
+헤릿은 어떻게 생각해요?
+Gerrit: Ik denk niets. Ik kijk.
+아무 생각 안 해요. 지켜보는 거죠.
+Femke: Dat is eerlijk. Dan ga ik zorgen dat er iets te zien valt.
+솔직하네요. 그럼 볼 만한 게 있게 해 볼게요.
+Operator: (bij de eerste machine) Is dat haar?
+(첫 번째 기계 옆에서) 저 사람이에요?
+Gerrit: Dat is ze. Femke Hoekstra. De nieuwe directeur.
+맞아. 펨커 훅스트라. 새 대표야.
+Femke: (steekt haar hand uit) Goedemorgen. Hoe heet u?
+(손을 내밀며) 좋은 아침이에요. 성함이 어떻게 되세요?
+Operator: Willem. Maar iedereen zegt Wim. Ik heb vettige handen, mevrouw.
+빌럼이요. 근데 다들 빔이라고 해요. 손에 기름이 묻었어요, 대표님.
+Femke: Dat geeft niet. En zeg maar Femke. Wat maakt u hier?
+괜찮아요. 그리고 그냥 펨커라고 하세요. 여기서 뭘 만드세요?
+Operator: Frames voor een module in de chipmachine. Als ik een fout maak van een micron, kan het hele ding de prullenbak in.
+반도체 장비 모듈에 들어가는 프레임이요. 1마이크론만 틀려도 통째로 쓰레기통행이에요.
+Femke: Dan heeft u een van de belangrijkste banen van het bedrijf.
+그럼 회사에서 가장 중요한 일 중 하나를 하시는 거네요.
+Operator: (verrast) Zo heeft niemand het ooit gezegd.
+(놀라며) 그렇게 말해 준 사람은 처음이에요.
+— Scène 2: De kantine, personeelsbijeenkomst (직원 식당, 전체 직원 모임) —
+Gerrit: Mensen, even stil! Dit is Femke Hoekstra, onze nieuwe directeur. En dit zijn Thijs Brouwer, de nieuwe financieel directeur, en Priya Ramdin, voor IT en data.
+여러분, 잠깐 조용히! 이쪽은 새 대표 펨커 훅스트라. 그리고 이쪽은 새 재무이사 테이스 브라우어르, 그리고 IT와 데이터를 맡을 프리야 람딘이에요.
+Femke: Dank je, Gerrit. Goedemorgen allemaal. Ik ga het kort houden, want jullie hebben werk en de machines wachten niet.
+고마워요, 헤릿. 모두 좋은 아침이에요. 짧게 할게요. 다들 일이 있고 기계는 기다려 주지 않으니까요.
+Femke: Ik weet dat veel van jullie twijfelen. Een nieuwe directeur van buiten, net na het overlijden van Jan. Dat begrijp ik heel goed.
+여러분 중 많은 분이 의심하고 있다는 거 알아요. 얀이 세상을 떠난 직후에 외부에서 온 새 대표. 아주 잘 이해해요.
+Femke: Ik ben niet hier om alles te veranderen. Ik ben hier om te luisteren. De komende vijftig dagen wil ik met zoveel mogelijk van jullie praten. In de hal, in de kantine, tijdens de nachtdienst.
+저는 모든 걸 바꾸러 온 게 아니에요. 들으러 왔어요. 앞으로 50일 동안 최대한 많은 분과 이야기하고 싶어요. 작업장에서, 식당에서, 야간 근무 중에도요.
+Medewerker: En daarna? Dan komen de ontslagen.
+그다음엔요? 그때 해고가 나오겠죠.
+Femke: Ik ga niets beloven wat ik niet kan waarmaken. Maar ik kan wel zeggen: ik ben niet gekomen om dit bedrijf kleiner te maken. Er liggen achtendertig vacatures. Jullie hebben niet te veel mensen, jullie hebben er te weinig.
+지킬 수 없는 약속은 하지 않을게요. 하지만 이건 말할 수 있어요. 저는 이 회사를 작게 만들러 오지 않았어요. 채용 공고가 38개예요. 여러분은 사람이 많은 게 아니라 부족해요.
+Medewerker: (gemompel in de zaal)
+(장내에 웅성거림)
+Sevda: Mag ik iets vragen? Sevda Aksoy, voorzitter van de ondernemingsraad.
+질문해도 될까요? 노동자평의회 의장 세브다 악소이예요.
+Femke: Graag, mevrouw Aksoy.
+부탁드려요, 악소이 씨.
+Sevda: Sevda is goed. Jan had altijd een open deur. Je kon zo binnenlopen. Blijft dat zo?
+세브다라고 하시면 돼요. 얀은 늘 문을 열어 뒀어요. 그냥 들어갈 수 있었죠. 그대로인가요?
+Femke: Mijn deur blijft open. Letterlijk. Ik heb hem vanochtend al vastgezet met een deurstop.
+제 문은 계속 열려 있을 거예요. 말 그대로요. 오늘 아침에 벌써 문 받침으로 고정해 뒀어요.
+Sevda: (glimlacht) Dat zien we dan wel. En de OR? Wanneer praten we?
+(미소 지으며) 두고 보죠. 그럼 OR은요? 언제 이야기해요?
+Femke: Deze week nog, als jij tijd hebt. Ik wil weten wat jullie belangrijkste zorgen zijn, voordat ik plannen maak. Niet erna.
+시간 되면 이번 주 안에요. 계획을 세우기 전에 여러분의 가장 큰 걱정이 뭔지 알고 싶어요. 그 후가 아니라요.
+Sevda: Donderdag om drie uur.
+목요일 3시요.
+Medewerker: En de pensioenen? Mijn vrouw maakt zich zorgen.
+연금은요? 제 아내가 걱정해요.
+Thijs: Daar kan ik iets over zeggen. Het pensioen zit in het pensioenfonds van de sector, niet in de kas van Verhoef. Dat geld is veilig, wat er ook gebeurt met het bedrijf.
+그건 제가 말씀드릴 수 있어요. 연금은 Verhoef 금고가 아니라 업종 연금기금에 있어요. 회사에 무슨 일이 생겨도 그 돈은 안전해요.
+Medewerker: Dat is goed om te horen.
+다행이네요.
+Medewerker 2: En waarom komt er iemand voor IT? Onze computers doen het toch prima?
+그리고 왜 IT 담당이 와요? 우리 컴퓨터 멀쩡하잖아요?
+Priya: Dat ga ik vandaag bekijken. Als ze het prima doen, laat ik ze met rust. Beloofd.
+오늘 살펴볼게요. 멀쩡하면 건드리지 않을게요. 약속해요.
+Gerrit: (zacht tegen Femke) Dat ging niet slecht.
+(펨커에게 작게) 나쁘지 않았어요.
+Femke: (zacht) Van jou is dat een compliment, toch?
+(작게) 헤릿한테서 그 말이면 칭찬이죠?
+Gerrit: Overdrijf niet.
+과장하지 마요.
+— Scène 3: Het kantoor van de directeur (대표실) —
+Priya: Femke, je moet dit zien. De machines worden aangestuurd door computers met een besturingssysteem van twintig jaar oud. Zonder updates.
+펨커, 이거 봐야 해요. 기계들이 20년 된 운영체제 컴퓨터로 제어돼요. 업데이트도 없이요.
+Femke: Is dat gevaarlijk?
+위험해요?
+Priya: Heel gevaarlijk. Als iemand van buiten binnenkomt, kan hij de hele fabriek stilleggen. En de planning van de productie gebeurt in één groot Excelbestand. Op de laptop van Gerrit.
+아주 위험해요. 외부에서 누가 들어오면 공장 전체를 멈출 수 있어요. 그리고 생산 계획은 커다란 엑셀 파일 하나로 해요. 헤릿 노트북에서요.
+Thijs: Eén bestand? Voor driehonderdveertig mensen en zestig machines?
+파일 하나요? 340명이랑 기계 60대를요?
+Priya: Eén bestand. Het heet "planning_DEFINITIEF_v47_nieuw.xlsx".
+파일 하나요. 이름이 "planning_최종_v47_new.xlsx"예요.
+Femke: (lacht ondanks zichzelf) Versie zevenenveertig.
+(자기도 모르게 웃으며) 47번째 버전이라니.
+Thijs: En ik heb slecht nieuws van mijn kant. De boekhouding loopt drie maanden achter. Niemand weet precies hoeveel geld er nu op de rekening staat.
+그리고 저도 나쁜 소식이 있어요. 회계가 석 달 밀려 있어요. 지금 계좌에 돈이 정확히 얼마 있는지 아무도 몰라요.
+Femke: Niemand?
+아무도요?
+Thijs: Jan wist het, denk ik. In zijn hoofd. En dat hoofd is er niet meer.
+얀은 알았을 거예요. 머릿속으로요. 그 머리가 이제 없죠.
+Femke: En de bank? Gerrit zei dat ze elke week bellen.
+그럼 은행은요? 헤릿이 매주 전화한다고 했잖아요.
+Thijs: Ik heb ze vanochtend zelf gebeld. Ik heb gezegd dat er nu een CFO is en dat ze binnen drie weken een volledig overzicht krijgen.
+오늘 아침에 제가 직접 전화했어요. 이제 CFO가 있고, 3주 안에 전체 현황을 받게 될 거라고 했어요.
+Femke: Hoe reageerden ze?
+반응이 어땠어요?
+Thijs: Opgelucht. Een bank is niet bang voor slecht nieuws. Een bank is bang voor geen nieuws.
+안도하더라고요. 은행은 나쁜 소식을 두려워하지 않아요. 아무 소식이 없는 걸 두려워하죠.
+Femke: Dat moet je ook tegen de OR zeggen. Mensen zijn net als banken.
+그 말 OR에도 해 줘요. 사람도 은행이랑 똑같거든요.
+Thijs: (grijnst) Dat is het aardigste wat iemand ooit over banken heeft gezegd.
+(씩 웃으며) 은행에 대해 누가 한 말 중 제일 다정한 말이네요.
+Priya: Mag ik een tip geven? Zeg het tegen Sevda zonder het woord "bank".
+팁 하나 줘도 돼요? 세브다한테 말할 땐 "은행"이라는 단어는 빼요.
+Femke: Oké. Wat zijn de drie dingen die we als eerste moeten doen?
+좋아요. 가장 먼저 해야 할 세 가지는 뭐예요?
+Thijs: Eén: weten hoeveel geld we hebben. Binnen twee weken. Twee: de bank geruststellen.
+첫째, 돈이 얼마 있는지 아는 거. 2주 안에. 둘째, 은행을 안심시키는 거.
+Priya: Drie: de computers van de machines afsluiten van internet. Vandaag nog. Dat kost bijna niets en het voorkomt een ramp.
+셋째, 기계 컴퓨터를 인터넷에서 차단하는 거요. 오늘 당장요. 비용은 거의 안 들고 재앙을 막아요.
+Femke: En Ruud?
+그럼 뤼트는요?
+Priya: Ruud was eerst boos. Toen heb ik hem gevraagd wat hij zou doen als hij geld en tijd had. Hij heeft twintig minuten gepraat. Hij weet precies wat er mis is. Niemand vroeg het hem.
+뤼트는 처음엔 화를 냈어요. 그래서 돈과 시간이 있다면 뭘 하겠냐고 물었더니, 20분을 이야기하더라고요. 뭐가 문제인지 정확히 알아요. 아무도 안 물어봤을 뿐이에요.
+Femke: (glimlacht) Je hebt geleerd van Bart Hendriks.
+(미소 지으며) 바르트 헨드릭스한테서 배웠네요.
+Priya: En van jou.
+그리고 펨커한테서도요.
+— Scène 4: De nachtdienst, twee uur 's nachts (새벽 2시, 야간 근무) —
+Bas: (verbaasd) De directeur? Om twee uur 's nachts?
+(놀라며) 대표님이요? 새벽 2시에요?
+Femke: Ik zei dat ik ook de nachtdienst wilde spreken. Koffie?
+야간 근무자들과도 이야기하고 싶다고 했잖아요. 커피 드릴까요?
+Bas: Graag. Uit de automaat? Die is vies.
+좋아요. 자판기 거요? 그거 맛없는데.
+Femke: (houdt een thermoskan omhoog) Van thuis.
+(보온병을 들어 보이며) 집에서 가져왔어요.
+Bas: (lacht) Dan bent u welkom. Bas. Nachtploeg, twaalf jaar.
+(웃으며) 그럼 환영이죠. 바스예요. 야간 조 12년차.
+Femke: Hoe is het werken 's nachts, Bas?
+밤에 일하는 건 어때요, 바스?
+Bas: Rustig. Te rustig soms. Kijk, drie machines staan uit. Er is geen werk voor ze, want de planning is overdag niet goed doorgegeven.
+조용해요. 가끔은 너무 조용하죠. 보세요, 기계 세 대가 꺼져 있어요. 낮에 계획이 제대로 넘어오지 않아서 할 일이 없어요.
+Femke: Hoe vaak gebeurt dat?
+얼마나 자주 그래요?
+Bas: Drie, vier nachten per week. Dan staan we te wachten tot de ochtendploeg komt en de nieuwe opdrachten klaarzet.
+일주일에 서너 번이요. 그러면 아침 조가 와서 새 작업을 준비해 줄 때까지 기다려요.
+Femke: En de klant wacht op zijn onderdelen.
+그리고 고객은 부품을 기다리고요.
+Bas: Precies. Iedereen weet het. Maar Gerrit heeft de planning in zijn laptop, en Gerrit slaapt 's nachts. Gelukkig maar, de man is eenenzestig.
+맞아요. 다들 알아요. 하지만 계획은 헤릿 노트북에 있고, 헤릿은 밤에 자요. 다행이죠, 그 양반 예순하나예요.
+Femke: Wat zou jij doen als je mij was?
+바스가 제 입장이라면 어떻게 하겠어요?
+Bas: (denkt na) Een echte planner aannemen. Iemand die dat Excelbestand vervangt door een systeem dat iedereen kan zien. Ook 's nachts.
+(생각하며) 제대로 된 생산 계획 담당자를 뽑을 거예요. 그 엑셀 파일을 모두가 볼 수 있는 시스템으로 바꿀 사람이요. 밤에도요.
+Femke: Dat is precies wat mijn collega Priya vanmiddag ook zei.
+제 동료 프리야도 오늘 오후에 똑같은 말을 했어요.
+Bas: Die jonge vrouw met de laptop? Die heeft vanmiddag een uur naast Ruud gezeten. Ruud lachte. Dat heb ik in jaren niet gezien.
+노트북 든 그 젊은 분이요? 오늘 오후에 한 시간 동안 뤼트 옆에 앉아 있었어요. 뤼트가 웃더라고요. 몇 년 만에 처음 봤어요.
+Femke: Dat is goed nieuws.
+좋은 소식이네요.
+Bas: Mag ik ook iets zeggen? De nachtploeg krijgt altijd als laatste nieuws te horen. Bij die bijeenkomst vanochtend lag ik te slapen.
+저도 하나 말해도 돼요? 야간 조는 항상 소식을 제일 늦게 들어요. 오늘 아침 모임 때 저는 자고 있었어요.
+Femke: Dat is een terecht punt. Ik kom erop terug. Volgende keer houd ik de bijeenkomst ook om tien uur 's avonds.
+정당한 지적이에요. 다시 답할게요. 다음엔 밤 10시에도 모임을 열게요.
+Bas: (lacht) Dan neem ik koekjes mee.
+(웃으며) 그럼 제가 과자 가져올게요.
+— Scène 5: Donderdag, overleg met de ondernemingsraad (목요일, 노동자평의회와의 협의) —
+Sevda: Welkom in ons hok. Vijf OR-leden, één koffiezetapparaat en een raam dat niet open kan.
+우리 방에 오신 걸 환영해요. OR 위원 다섯, 커피 머신 하나, 그리고 안 열리는 창문 하나.
+Femke: Dat raam zet ik op mijn lijst. Wat zijn jullie grootste zorgen?
+그 창문은 제 목록에 올릴게요. 가장 큰 걱정은 뭐예요?
+Sevda: Drie. Werkdruk, omdat er zoveel vacatures zijn. Veiligheid, want moe mensen maken fouten aan machines. En onzekerheid over de toekomst.
+세 가지예요. 업무 부담, 공석이 너무 많아서요. 안전, 지친 사람은 기계 앞에서 실수하니까요. 그리고 미래에 대한 불확실성.
+OR-lid Henk: En dat we pas horen wat er gebeurt als het al besloten is. Bij Jan ging dat via de wandelgangen.
+그리고 이미 결정된 다음에야 무슨 일인지 듣는 거요. 얀 때는 복도 소문으로 들었어요.
+Femke: Dan wil ik een afspraak voorstellen. Elke maand een overleg, en bij elke grote beslissing horen jullie het vóór de rest van het bedrijf.
+그럼 약속 하나를 제안할게요. 매달 협의를 하고, 큰 결정이 있을 때마다 회사의 다른 사람들보다 먼저 듣게 해 드릴게요.
+Sevda: Dat staat ook in de wet. Bij grote besluiten hebben wij adviesrecht.
+그건 법에도 있어요. 큰 결정에는 우리에게 자문권이 있어요.
+Femke: Klopt. Maar ik wil niet alleen doen wat de wet zegt. Ik wil dat jullie meedenken voordat er een plan ligt.
+맞아요. 하지만 법이 정한 것만 하고 싶진 않아요. 계획이 나오기 전에 함께 생각해 주셨으면 해요.
+OR-lid Henk: Dat klinkt mooi. Bij de vorige reorganisatie, acht jaar geleden, zeiden ze dat ook.
+듣기엔 좋네요. 8년 전 구조조정 때도 그렇게 말했어요.
+Femke: Wat ging er toen mis?
+그때 뭐가 잘못됐어요?
+Sevda: Ze vroegen ons advies, en twee dagen later stond het besluit al in de krant. Ons advies heeft niemand gelezen.
+우리 의견을 물어 놓고, 이틀 뒤에 결정이 신문에 나왔어요. 우리 의견은 아무도 안 읽었죠.
+Femke: Dan is dat mijn maatstaf. Als jullie ooit het gevoel hebben dat jullie advies niet gelezen is, zeg het me. Dan heb ik gefaald.
+그럼 그게 제 기준이에요. 의견이 읽히지 않았다는 느낌이 들면 언제든 말해 주세요. 그럼 제가 실패한 거예요.
+Sevda: (kijkt de andere leden aan) Dat noteren we.
+(다른 위원들을 바라보며) 그거 기록해 둘게요.
+Femke: En wat kan ik deze maand al doen?
+그럼 이번 달에 제가 당장 할 수 있는 건 뭐예요?
+Sevda: De nachtploeg krijgt geen warme maaltijd meer sinds de kantine 's nachts dicht is. Dat lijkt klein, maar het steekt.
+식당이 밤에 문을 닫은 뒤로 야간 조는 따뜻한 식사를 못 해요. 작은 일 같지만 마음에 걸려요.
+Femke: Dan is dat volgende week opgelost.
+그럼 다음 주에 해결할게요.
+Sevda: (glimlacht voor het eerst) Dan hebben we een begin.
+(처음으로 미소 지으며) 그럼 시작은 됐네요.
+— Scène 6: Dag honderd, de raad van commissarissen (100일째, 감독이사회) —
+Frans: Honderd dagen, mevrouw Hoekstra. Wat heeft u gezien en wat gaat u doen?
+100일이에요, 훅스트라 씨. 무엇을 봤고 무엇을 할 건가요?
+Femke: Ik heb met tweehonderdtachtig van de driehonderdveertig medewerkers gesproken. Ook met de nachtploeg. Drie conclusies.
+직원 340명 중 280명과 이야기했어요. 야간 조와도요. 결론은 세 가지예요.
+Femke: Eén: we verdienen te weinig geld met te veel stilstand. Twee: het bedrijf draait op het hoofd van een paar mensen en op een Excelbestand. Drie: de mensen zijn goed en trots, maar ze worden niet gehoord.
+첫째, 가동 중단이 너무 많아서 돈을 너무 적게 벌고 있어요. 둘째, 회사가 몇몇 사람의 머리와 엑셀 파일 하나로 돌아가요. 셋째, 직원들은 실력 있고 자부심이 있지만 목소리를 내지 못하고 있어요.
+Marloes: Wat heeft u al gedaan?
+이미 한 일은 뭐예요?
+Femke: Drie kleine dingen. De machines zijn losgekoppeld van internet. Er is een planner aangenomen die ook 's nachts bereikbaar is. En we geven elke maand cijfers aan de OR en de hele fabriek. Iedereen ziet hoe we ervoor staan.
+작은 일 세 가지요. 기계들을 인터넷에서 분리했어요. 밤에도 연락되는 생산 계획 담당자를 뽑았어요. 그리고 매달 OR과 공장 전체에 숫자를 공유해요. 다들 우리 상황이 어떤지 알 수 있게요.
+Frans: En de grote dingen?
+그럼 큰일들은요?
+Thijs: Die komen nu. Ik heb na drie weken de echte cijfers. En die zijn niet goed. Daar wil ik de volgende vergadering over praten. Uitgebreid.
+이제 시작이에요. 3주 걸려서 실제 숫자를 파악했어요. 좋지 않아요. 다음 회의 때 그걸 자세히 이야기하고 싶어요.
+Gerrit: (onverwacht) Mag ik iets zeggen?
+(뜻밖에) 제가 한마디 해도 될까요?
+Frans: Natuurlijk, Gerrit.
+물론이죠, 헤릿.
+Gerrit: Toen ze kwam, dacht ik: drie maanden. Ze heeft om twee uur 's nachts met Bas koffie gedronken. Ze kent de naam van Wim. Ze vroeg Ruud wat hij zou doen. Dat deed Jan ook.
+처음 왔을 때 저는 석 달 버티겠다고 생각했어요. 그런데 새벽 2시에 바스랑 커피를 마셨어요. 빔 이름도 알아요. 뤼트한테 어떻게 하겠냐고 물었고요. 얀도 그랬어요.
+Marloes: (zacht) Dat is veel, van jou.
+(작게) 삼촌이 그런 말 하는 거면 대단한 거네요.
+Gerrit: Ik ben nog niet overtuigd. Maar mijn schoenen knellen ook niet meer. (tegen Femke) En de jouwe?
+아직 완전히 믿진 않아요. 그래도 제 신발은 이제 안 끼네요. (펨커에게) 당신 건요?
+Femke: (glimlacht) De mijne ook niet meer.
+(미소 지으며) 제 것도 이제 안 껴요.
+Frans: Dan zie ik u volgende maand. Met de echte cijfers.
+그럼 다음 달에 뵙죠. 실제 숫자와 함께요.
+
+## 주요 단어
+de werkschoen | 더 베르크스훈 | 안전화, 작업화
+knellen → heeft gekneld | 크넬런 → 헤이프트 허크넬트 | (신발이) 끼다, 조이다
+de ochtendploeg | 더 오흐턴트플루흐 | 아침 조
+de nachtdienst | 더 나흐트딘스트 | 야간 근무
+de personeelsbijeenkomst | 더 페르소넬스베이엔콤스트 | 전체 직원 모임
+de deurstop | 더 되르스톱 | 문 받침
+het pensioenfonds | 헷 펜숀스폰츠 | 연금기금
+het besturingssysteem | 헷 버스튀링스시스템 | 운영체제
+aansturen → heeft aangestuurd | 안스튀런 → 헤이프트 안허스튀르트 | 제어하다, 지휘하다
+loskoppelen → heeft losgekoppeld | 로스코펄런 → 헤이프트 로스허코펄트 | 분리하다, 연결을 끊다
+de boekhouding | 더 북하우딩 | 회계, 장부
+achterlopen → heeft achtergelopen | 아흐터를로펀 → 헤이프트 아흐터르헐로펀 | 뒤처지다, 밀리다
+de planner | 더 플래너르 | 생산 계획 담당자
+de stilstand | 더 스틸스탄트 | 가동 중단
+bereikbaar | 버레이크바르 | 연락 가능한
+
+## 표현·문법 정리
+**Ik ben hier om te luisteren:** "저는 들으러 왔어요." om te + 부정사로 목적. 새 리더의 첫 메시지로 가장 강력한 문장 중 하나.
+**Hoe gaat het hier echt?:** "여기 실제로는 어때요?" echt를 붙이면 공식 답변이 아닌 솔직한 답을 원한다는 뜻이 됩니다.
+**Dat zien we dan wel:** "그건 그때 가서 보죠." 미래에 대한 판단을 유보하는 표현. 상대의 도발을 가볍게 받아넘길 때 유용합니다.
+**Wat zou jij doen als je mij was?:** "네가 나라면 어떻게 하겠어?" 비현실 조건(zou + als + 과거형). 현장의 지혜를 끌어내는 질문.
+**Ik kom erop terug:** "다시 답할게요." 즉답 대신 약속. terugkomen op iets + er 분리형. 반드시 지켜야 신뢰가 생깁니다.
+**Dat scheelt:** "그거면 차이가 나죠, 도움이 돼요." 구어에서 '그나마 낫다'는 뜻.
+**een hekel hebben aan:** "~을 몹시 싫어하다." Hij heeft een hekel aan veranderingen.
+**er valt iets te zien:** "볼 만한 게 있다." Dan ga ik zorgen dat er iets te zien valt.
+**waarmaken:** "(약속을) 지키다, 실현하다." Ik ga niets beloven wat ik niet kan waarmaken.
+**gelukkig maar:** "다행이지 뭐." 앞의 내용에 대한 안도.
+**Overdrijf niet:** "과장하지 마." 명령형 overdrijven(과장하다).
+**de mijne / de jouwe:** "내 것 / 네 것." 독립 소유대명사는 관사와 함께: Mijn schoenen knellen niet. En de jouwe?
+**브라반트 인사:** goeiemorgen(구어 '좋은 아침') · houdoe(잘 가요) · doei(안녕). Gerrit는 표준어에 가까운 구어를 씁니다.
+
+## 컨설팅 스킬 노트
+**100일 계획의 세 단계:** ① 듣기(첫 50일: 280명 인터뷰, 야간 조 포함) ② 작은 승리(인터넷 분리, 계획 담당자 채용, 숫자 공유) ③ 우선순위 선언(100일째 감독이사회에 결론 세 가지).
+**상징적 행동:** 열어 둔 문(deurstop), 새벽 2시의 보온병 커피, 방문객 주차장. 새 리더의 말보다 행동이 먼저 퍼집니다.
+**숨은 전문가 찾기:** 변화를 싫어한다던 IT 담당 Ruud는 "돈과 시간이 있다면 뭘 하겠어요?"라는 질문에 20분을 이야기했습니다. 저항은 종종 '아무도 묻지 않았다'는 데서 나옵니다.
+**핵심 인물 의존 위험:** 회사가 "몇 사람의 머리와 엑셀 파일 하나"로 돌아가면 그 사람이 떠날 때 회사도 멈춥니다(창업자 Jan의 죽음이 증명). 지식을 시스템으로 옮기는 것이 첫 과제입니다.
