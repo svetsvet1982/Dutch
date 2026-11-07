@@ -1,0 +1,291 @@
+# 2부 6화. Handen tekort (일손이 없다)
+수준: 중상급 (B2) | 장소: 인사부 회의실 → 헬몬트 직업학교(ROC) → 인도 엔지니어와의 화상 면접 → 주택조합 사무실 → 직원 식당 | 시간: 1월
+배경 현안: 기술 인력 부족, 직업교육(MBO)과 일하며 배우는 과정(BBL), 해외 인재 세금 혜택(30% 루링) 축소, 브레인포트 지역 주택난, 경력 전환자(zij-instromer)
+핵심 표현: We zoeken vakmensen · Wat bieden jullie? · Zonder huis geen medewerker · Je leert het vak op de werkvloer · Het is een kwestie van lange adem
+💼 스킬: 인력 계획(수요·공급의 여러 경로 설계)
+
+## 대화
+— Scène 1: De vergaderruimte van HR (인사부 회의실) —
+Marieke: Ik heb de cijfers. Veertig vacatures, waarvan achtentwintig technisch. Gemiddelde tijd om een draaier te vinden: elf maanden.
+숫자를 가져왔어요. 공석 40개, 그중 기술직이 28개예요. 선반공 한 명을 구하는 데 평균 11개월 걸려요.
+Femke: Elf maanden. En hoeveel mensen gaan er de komende vijf jaar met pensioen?
+11개월이라. 앞으로 5년 동안 은퇴하는 사람은 몇 명이에요?
+Marieke: Zesenvijftig. Bijna allemaal ervaren vakmensen.
+56명이요. 거의 다 숙련 기술자예요.
+Thijs: Dus het probleem wordt elk jaar groter.
+그러니까 문제가 매년 커지네요.
+Marieke: Precies. En iedereen in de regio vist in dezelfde vijver. De grote chipmachinebouwer, de andere toeleveranciers, de autofabrikant in Born.
+맞아요. 그리고 지역 전체가 같은 연못에서 낚시를 해요. 큰 반도체 장비 회사, 다른 협력업체들, 보른의 자동차 공장까지요.
+Femke: Wat doen jullie nu om mensen te vinden?
+지금은 사람을 찾으려고 뭘 해요?
+Marieke: Vacatures op de website en bij vacaturesites. Een recruitmentbureau. Een bonus van duizend euro als een medewerker iemand aanbrengt.
+웹사이트랑 구인 사이트에 공고 올리기. 채용 대행사. 직원이 누굴 소개하면 천 유로 보너스.
+Femke: En wat werkt?
+그중에 뭐가 효과가 있어요?
+Marieke: Eerlijk? Alleen dat laatste een beetje. Mensen komen omdat ze iemand kennen.
+솔직히요? 마지막 것만 조금요. 아는 사람이 있어서 오는 거예요.
+Gerrit: Vroeger kwamen jongens van de technische school hier stage lopen. Na hun stage bleven ze. Dat is gestopt.
+예전엔 공업학교 아이들이 여기 실습하러 왔어요. 실습이 끝나면 남았죠. 그게 끊겼어요.
+Femke: Waarom?
+왜요?
+Gerrit: Jan had er geen tijd meer voor. En de begeleiders gingen met pensioen.
+얀이 더는 시간이 없었어요. 그리고 지도해 주던 사람들이 은퇴했고요.
+Priya: Mag ik iets laten zien? Ik heb gekeken waar onze huidige medewerkers vandaan komen. Zeventig procent heeft hier stage gelopen of kende iemand hier.
+뭐 하나 보여 드려도 될까요? 지금 직원들이 어디서 왔는지 봤어요. 70%가 여기서 실습했거나 여기 아는 사람이 있었어요.
+Femke: Dus mensen komen niet via vacatures. Ze komen via relaties.
+그러니까 사람들은 채용 공고가 아니라 인맥으로 오는 거네요.
+Marieke: Dat zeg ik al jaren.
+제가 몇 년째 하는 말이에요.
+Femke: Wat zou jij doen, Marieke, als je geld en tijd had?
+마리커, 돈과 시간이 있다면 뭘 하겠어요?
+Marieke: (verrast) Drie dingen. Stages en leerwerkplekken terugbrengen. Mensen van buiten de sector opleiden. En iets doen aan huisvesting. Want de buitenlanders die we vinden, haken af omdat ze geen huis vinden.
+(놀라며) 세 가지요. 실습과 일하며 배우는 자리를 되살리기. 업계 밖 사람들을 교육하기. 그리고 주거 문제를 해결하기. 우리가 찾은 외국인들이 집을 못 구해서 포기하거든요.
+Thijs: Hoeveel?
+몇 명이나요?
+Marieke: Vorig jaar vier. Een Indiër, een Spanjaard, twee Polen. Allemaal getekend, allemaal afgezegd. Geen woning.
+작년에 네 명이요. 인도인 한 명, 스페인 사람 한 명, 폴란드인 두 명. 다 계약했는데 다 취소했어요. 집이 없어서요.
+Femke: Zonder huis geen medewerker.
+집이 없으면 직원도 없다.
+Marieke: Precies. En het wordt erger. De belastingvoordelen voor buitenlandse kenniswerkers worden minder. Dat maakt Nederland minder aantrekkelijk.
+맞아요. 그리고 더 나빠지고 있어요. 해외 인재 세금 혜택이 줄어들고 있어요. 네덜란드가 덜 매력적이 되는 거죠.
+Femke: Oké. Dan gaan we het op drie fronten aanpakken. Marieke, jij bent de baas van dit project. Wij helpen.
+좋아요. 그럼 세 갈래로 접근해요. 마리커가 이 프로젝트의 책임자예요. 우리가 도울게요.
+Marieke: (stil) Dat heeft nog nooit iemand tegen me gezegd.
+(조용히) 그런 말은 처음 들어 봐요.
+— Scène 2: Het ROC in Helmond (헬몬트 직업학교) —
+Docent Klaassen: Welkom. Hier zitten de mechatronici van de toekomst. Of ze het zelf al weten, is een tweede.
+환영합니다. 여기 미래의 메카트로닉스 기술자들이 앉아 있어요. 본인들이 그걸 알고 있는지는 별개지만요.
+Femke: Hoeveel studenten heeft u in de technische opleidingen?
+기술 과정에 학생이 몇 명이에요?
+Docent Klaassen: Minder dan tien jaar geleden. Ouders sturen hun kinderen liever naar de havo. Techniek klinkt voor veel mensen als vieze handen en weinig geld.
+10년 전보다 적어요. 부모들이 아이들을 인문계 고등학교에 보내고 싶어 해요. 기술이라고 하면 많은 사람한테 더러운 손과 적은 돈으로 들리거든요.
+Thijs: Terwijl een goede draaier meer verdient dan veel kantoormensen.
+좋은 선반공이 웬만한 사무직보다 더 버는데도요.
+Docent Klaassen: Dat weet ik, dat weet u. Vertel het maar aan de ouders.
+저도 알고 그쪽도 알죠. 부모들한테 말해 보세요.
+Femke: Mag ik met een paar studenten praten?
+학생 몇 명과 이야기해도 될까요?
+Docent Klaassen: Natuurlijk. Jongens, meiden, even komen!
+물론이죠. 얘들아, 잠깐 이리 와!
+Student Noah: Bent u van Verhoef? Mijn opa werkte daar. Hij zei dat het een goed bedrijf was. Maar streng.
+Verhoef에서 오셨어요? 우리 할아버지가 거기서 일했어요. 좋은 회사였대요. 근데 엄했대요.
+Femke: Dat klopt waarschijnlijk nog steeds. Wat willen jullie later doen?
+아마 지금도 그럴 거예요. 다들 나중에 뭐 하고 싶어요?
+Student Noah: Iets met robots. Maar dan bij een groot bedrijf. Die hebben betere stages en een leasebakje.
+로봇 관련된 거요. 근데 큰 회사에서요. 거긴 실습도 더 좋고 회사 차도 줘요.
+Student Yasmina: Ik wil eigenlijk ontwerpen. Maar iedereen zegt dat ik dan naar de hbo moet. En dat kost geld.
+저는 사실 설계를 하고 싶어요. 근데 다들 그러려면 고등직업대학에 가야 한대요. 그건 돈이 들고요.
+Femke: Wat als je kon werken en tegelijk leren? Vier dagen werken, één dag naar school. Met salaris.
+일하면서 동시에 배울 수 있다면요? 나흘은 일하고 하루는 학교에 가는 거예요. 월급 받으면서요.
+Student Yasmina: Dat bestaat?
+그런 게 있어요?
+Docent Klaassen: Dat heet BBL. Beroepsbegeleidende leerweg. Je leert het vak op de werkvloer, met een leermeester naast je.
+BBL이라고 해요. 직업 동반 학습 과정. 옆에 지도 선배를 두고 현장에서 일을 배우는 거예요.
+Student Noah: En wie is dan die leermeester?
+그럼 그 지도 선배는 누군데요?
+Gerrit: (die tot nu toe stil was) Ik. Of iemand zoals ik. Ik heb veertig jaar aan een draaibank gestaan.
+(지금까지 조용하던) 나요. 아니면 나 같은 사람. 나는 40년을 선반 앞에 서 있었어요.
+Student Noah: (kijkt naar zijn handen) Uw duim is half weg.
+(그의 손을 보며) 엄지가 반쯤 없네요.
+Gerrit: Een les uit 1987. Die krijg je er gratis bij. Daarna gebeurt het je nooit meer.
+1987년의 교훈이지. 덤으로 배우게 될 거야. 그다음엔 다시는 안 다쳐.
+Student Yasmina: (lacht) En als ik later toch wil ontwerpen?
+(웃으며) 그런데 나중에 그래도 설계를 하고 싶으면요?
+Femke: Dan betalen wij een deel van je hbo, als je daarna nog een paar jaar bij ons blijft. Wij hebben ook ontwerpers nodig.
+그럼 우리가 고등직업대학 학비 일부를 내 줄게요. 그다음 몇 년 우리 회사에 남는다면요. 우리도 설계자가 필요하거든요.
+Docent Klaassen: Dat is een aanbod dat ik zelden hoor. Wat bieden jullie nog meer?
+그런 제안은 거의 못 들어요. 또 뭘 제공하시나요?
+Femke: Tien leerwerkplekken per jaar. Vaste begeleiders. Open dagen voor ouders, zodat ze zien dat techniek geen vieze handen betekent. Nou ja, niet alleen vieze handen.
+1년에 실습 일자리 10개. 고정 지도 선배. 기술이 더러운 손이 아니라는 걸 부모들이 볼 수 있게 학부모 견학의 날. 뭐, 더러운 손만은 아니라는 거죠.
+Docent Klaassen: (lacht) Dat laatste moet u er wel bij zeggen. Eerlijk is eerlijk.
+(웃으며) 마지막 말은 꼭 덧붙이셔야겠네요. 솔직해야죠.
+— Scène 3: Een videogesprek met een kandidaat uit India (인도 출신 후보와의 화상 면접) —
+Arjun: Goedemorgen. Ik ben Arjun Mehta. Ik spreek een beetje Nederlands. Ik leer het al een jaar.
+좋은 아침입니다. 저는 아르준 메타입니다. 네덜란드어를 조금 해요. 1년째 배우고 있어요.
+Femke: Goedemorgen, Arjun. Dat is knap. Waarom leer je Nederlands?
+좋은 아침이에요, 아르준. 대단하네요. 왜 네덜란드어를 배워요?
+Arjun: Omdat ik in Nederland wil wonen. Niet twee jaar, maar lang. Met mijn vrouw en mijn dochter.
+네덜란드에서 살고 싶어서요. 2년이 아니라 오래요. 아내와 딸이랑요.
+Gerrit: Wat heb je gedaan in India?
+인도에선 뭘 했어요?
+Arjun: Ik werk acht jaar bij een fabrikant van precisieonderdelen in Pune. Voor de lucht- en ruimtevaart. Ik ben ingenieur, maar ik sta ook graag aan de machine.
+푸네의 정밀 부품 제조사에서 8년째 일하고 있어요. 항공우주용이요. 엔지니어지만 기계 앞에 서는 것도 좋아해요.
+Gerrit: (leunt naar voren) Welke materialen?
+(몸을 앞으로 숙이며) 어떤 소재요?
+Arjun: Titanium en keramiek. Toleranties van een paar micron.
+티타늄과 세라믹이요. 공차는 몇 마이크론이에요.
+Gerrit: (kijkt Femke aan en knikt langzaam)
+(펨커를 보며 천천히 고개를 끄덕인다)
+Femke: Wat is voor jou belangrijk bij een nieuwe werkgever?
+새 직장에서 아르준에게 중요한 건 뭐예요?
+Arjun: Dat ik kan leren. En dat mijn familie zich welkom voelt. Ik heb gelezen over de huizen in Eindhoven. Het is moeilijk, toch?
+배울 수 있는 거요. 그리고 가족이 환영받는다고 느끼는 거요. 에인트호번 집 문제에 대해 읽었어요. 어렵죠?
+Femke: Het is moeilijk. Ik ga je niet voorliegen. Maar we werken aan een oplossing.
+어려워요. 거짓말하지 않을게요. 하지만 해결책을 찾고 있어요.
+Arjun: En de belastingregeling? Ik las dat die minder wordt.
+그리고 세금 혜택은요? 줄어든다고 읽었어요.
+Thijs: Klopt. Er is nog steeds een voordeel, maar minder dan vroeger. Ik kan je precies uitrekenen wat je netto overhoudt. Dan weet je waar je aan toe bent.
+맞아요. 여전히 혜택은 있지만 예전보다 적어요. 실수령액이 정확히 얼마인지 계산해 줄게요. 그럼 어떤 상황인지 알 수 있을 거예요.
+Arjun: Dank u. Dat waardeer ik. Veel bedrijven zeggen alleen "het is prima" en dan blijkt het anders.
+감사해요. 고맙네요. 많은 회사가 그냥 "괜찮아요"라고 하고 나중에 다른 걸로 밝혀지거든요.
+Femke: Wij zeggen liever eerlijk hoe het is. Ook als het tegenvalt.
+우리는 실망스럽더라도 있는 그대로 말하는 걸 선호해요.
+Arjun: Mag ik een vraag stellen? Is er een school voor mijn dochter? Ze is zes.
+질문 하나 해도 돼요? 딸을 위한 학교가 있나요? 여섯 살이에요.
+Marieke: Er is een internationale school in Eindhoven. En veel kinderen gaan gewoon naar een Nederlandse basisschool. Kinderen leren de taal snel.
+에인트호번에 국제학교가 있어요. 그리고 많은 아이들이 그냥 네덜란드 초등학교에 가요. 아이들은 언어를 빨리 배워요.
+Arjun: Sneller dan ik, denk ik. (lacht)
+저보다 빠르겠죠. (웃음)
+Gerrit: (in het Engels, onwennig) You start when?
+(영어로, 서툴게) 언제 시작해요?
+Arjun: (in het Nederlands) Als ik een huis heb, meneer. Morgen.
+(네덜란드어로) 집이 생기면요, 선생님. 내일이라도요.
+Gerrit: (lacht hardop) Die jongen heeft humor. Die wil ik.
+(크게 웃으며) 이 친구 유머가 있네. 이 사람으로 할래요.
+— Scène 4: Bij de woningcorporatie (주택조합 사무실) —
+Directeur woningcorporatie: Ik begrijp uw probleem. Maar wij hebben een wachtlijst van negen jaar voor een sociale huurwoning. Ik kan uw medewerkers niet voorrang geven.
+문제는 이해해요. 하지만 사회 임대주택 대기 기간이 9년이에요. 귀사 직원들에게 우선권을 드릴 순 없어요.
+Femke: Dat vragen we ook niet. Dat zou oneerlijk zijn tegenover de mensen op de lijst.
+그걸 요청하는 게 아니에요. 대기 명단에 있는 분들께 불공정한 일이니까요.
+Thijs: We hebben een ander voorstel. U bouwt een nieuw complex aan de rand van Helmond, met middenhuurwoningen. Klopt dat?
+다른 제안이 있어요. 헬몬트 외곽에 중간 임대료 주택 단지를 새로 짓고 계시죠?
+Directeur woningcorporatie: Klopt. Honderdtwintig woningen. Maar de bouw ligt stil. De kosten zijn gestegen en de financiering is lastig.
+맞아요. 120가구요. 하지만 공사가 멈춰 있어요. 비용이 오르고 자금 조달이 어려워서요.
+Thijs: Wat als Verhoef tien woningen voor tien jaar huurt? Wij betalen de huur, ook als een woning tijdelijk leeg staat. Dat geeft u zekerheid bij de bank.
+Verhoef가 10가구를 10년간 임차하면 어떨까요? 한동안 비어 있더라도 임대료는 저희가 내요. 그러면 은행에서 안정성을 인정받으실 거예요.
+Directeur woningcorporatie: (denkt na) Een bedrijf als vaste huurder. Dat helpt inderdaad bij de financiering.
+(생각하며) 기업이 장기 임차인이라. 그건 정말 자금 조달에 도움이 되네요.
+Femke: En wij verhuren ze door aan nieuwe medewerkers. Voor de eerste twee jaar, tot ze iets anders hebben gevonden.
+그리고 저희는 그 집들을 신입 직원들에게 재임대해요. 다른 집을 찾을 때까지 처음 2년 동안요.
+Directeur woningcorporatie: En als ze na twee jaar niets vinden?
+2년 뒤에도 못 찾으면요?
+Femke: Dan zoeken we samen verder. Maar we willen geen werkgever worden die mensen afhankelijk maakt van een bedrijfswoning. Werk en woning in één hand is niet gezond.
+그럼 같이 계속 찾아요. 하지만 직원을 회사 숙소에 의존하게 만드는 고용주가 되고 싶진 않아요. 일과 집이 한 손에 있는 건 건강하지 않아요.
+Directeur woningcorporatie: (verrast) Dat hoor ik niet vaak van een werkgever. Meestal willen ze juist dat mensen niet weg kunnen.
+(놀라며) 고용주한테서 그런 말 자주 못 들어요. 보통은 오히려 사람들이 못 떠나게 하고 싶어 하거든요.
+Femke: Ik heb ooit een havenarbeider horen vertellen wat er gebeurt als je baan en je bed bij dezelfde baas liggen. Dat wil ik niet.
+예전에 항구 노동자에게서 일자리와 잠자리가 같은 사장한테 있으면 어떻게 되는지 들은 적이 있어요. 그건 원하지 않아요.
+Directeur woningcorporatie: Goed. Ik leg het aan mijn raad van toezicht voor. Het is een kwestie van lange adem, maar ik denk dat het kan.
+좋아요. 우리 감독이사회에 올려 볼게요. 긴 호흡이 필요한 일이지만 가능할 것 같아요.
+Thijs: Hoe lang?
+얼마나 걸려요?
+Directeur woningcorporatie: Als de bouw in maart weer start, zijn de eerste woningen over anderhalf jaar klaar.
+3월에 공사가 재개되면 첫 집들은 1년 반 뒤에 완성돼요.
+Femke: En tot die tijd?
+그때까진요?
+Directeur woningcorporatie: Tot die tijd moet u creatief zijn. Er staan boven winkels in het centrum verdiepingen leeg. Misschien kunt u met de eigenaren praten.
+그때까진 창의적이셔야죠. 도심 상가 위층들이 비어 있어요. 건물주들과 이야기해 보실 수 있을 거예요.
+Thijs: (tegen Femke) Lege verdiepingen boven winkels. Waar hebben we dat eerder gehoord?
+(펨커에게) 상가 위의 빈 층이라. 어디서 들어 본 얘기죠?
+Femke: (glimlacht) Bij Van Dam.
+(미소 지으며) Van Dam에서요.
+— Scène 5: Open avond voor ouders in de fabriek (공장에서 열린 학부모 견학의 밤) —
+Femke: Goedenavond allemaal, en welkom bij Verhoef. We zoeken vakmensen. Maar vanavond willen we vooral laten zien wat dat betekent.
+여러분 안녕하세요, Verhoef에 오신 걸 환영합니다. 저희는 숙련 기술자를 찾고 있어요. 하지만 오늘 밤엔 무엇보다 그게 어떤 의미인지 보여 드리고 싶어요.
+Moeder van Yasmina: Mag ik eerlijk zijn? Ik wil dat mijn dochter een goede toekomst heeft. Niet de hele dag in een lawaaiige fabriek.
+솔직하게 말해도 될까요? 저는 딸이 좋은 미래를 갖길 원해요. 하루 종일 시끄러운 공장에 있는 게 아니라요.
+Femke: Dat is een terechte zorg. Zullen we samen even de cleanroom in gaan?
+정당한 걱정이에요. 같이 잠깐 클린룸에 들어가 볼까요?
+Moeder van Yasmina: (in de cleanroom, verbaasd) Het is hier stiller dan in mijn keuken.
+(클린룸 안에서, 놀라며) 여기가 우리 집 부엌보다 조용하네요.
+Gerrit: En schoner dan een ziekenhuis. Elk stofje kan een onderdeel van een miljoen euro verpesten.
+그리고 병원보다 깨끗하죠. 먼지 하나가 100만 유로짜리 부품을 망칠 수 있어요.
+Vader van Noah: Wat verdient iemand die hier begint?
+여기서 시작하는 사람은 얼마나 벌어요?
+Thijs: Een leerling in de BBL krijgt salaris vanaf de eerste dag. Een ervaren draaier verdient na een paar jaar meer dan een gemiddelde kantoorbaan. En met overwerk en ploegentoeslag nog meer.
+BBL 학생도 첫날부터 월급을 받아요. 숙련 선반공은 몇 년 지나면 평균적인 사무직보다 더 벌어요. 초과근무와 교대 수당까지 하면 더 많고요.
+Moeder van Yasmina: En als ze later toch wil studeren?
+그래도 나중에 공부를 하고 싶어 하면요?
+Femke: Dan betalen wij mee. Onze beste ontwerper begon hier ooit als leerling aan een freesmachine. Hij heeft zijn ingenieursdiploma in de avonduren gehaald.
+그럼 저희가 함께 부담해요. 우리 최고의 설계자도 여기서 밀링 기계 견습생으로 시작했어요. 야간에 공부해서 엔지니어 학위를 땄죠.
+Moeder van Yasmina: (tegen Femke) En zijn er ook andere vrouwen hier?
+(펨커에게) 여기 다른 여자들도 있어요?
+Femke: Nog te weinig. Twaalf procent in de productie. Daar willen we iets aan doen. Priya, onze directeur IT, is er een van. En ikzelf.
+아직 너무 적어요. 생산직의 12%예요. 그걸 바꾸고 싶어요. IT 이사 프리야도 그중 하나고요. 저도요.
+Priya: Ik was de eerste vrouw in mijn studiejaar in Delft die voor techniek koos zonder dat iemand het haar aanraadde. Je hoeft niet te wachten tot iemand het je aanraadt.
+저는 델프트에서 우리 학년 중에 아무도 권하지 않았는데 기술을 택한 첫 여학생이었어요. 누가 권해 줄 때까지 기다릴 필요 없어요.
+Moeder van Yasmina: (na een stilte) Goed. Ze mag het proberen. Eén jaar.
+(잠시 침묵 후) 좋아요. 해 봐도 돼. 1년만이야.
+Yasmina: (grijnst) Eén jaar. Dan zie je het wel.
+(씩 웃으며) 1년이요. 그럼 알게 될 거예요.
+Vader van Noah: En de opa van Noah heeft hier gewerkt. Bestaat zijn oude draaibank nog?
+그리고 노아 할아버지가 여기서 일했어요. 그분 옛 선반이 아직 있어요?
+Gerrit: (wijst) Daar. Die staat nog steeds. Hij doet het beter dan sommige nieuwe.
+(가리키며) 저기요. 아직 있어요. 몇몇 새 기계보다 더 잘 돌아가요.
+Noah: (raakt de machine aan) Dan wil ik op die machine beginnen.
+(기계를 만지며) 그럼 이 기계로 시작하고 싶어요.
+Gerrit: Dan moet je eerst leren hoe je je duim houdt. (hij steekt zijn halve duim op)
+그럼 먼저 엄지를 어떻게 두는지부터 배워야 해. (반쪽짜리 엄지를 들어 보인다)
+— Scène 6: De kantine, een maand later (한 달 후, 직원 식당) —
+Eddy: Goedemiddag. Ik ben Eddy. Ik was vrachtwagenchauffeur bij TransBrabant, bij de buren. Twintig jaar.
+안녕하세요. 저는 에디예요. 옆 회사 트란스브라반트에서 화물차 기사였어요. 20년이요.
+Femke: Welkom, Eddy. Waarom wilde je overstappen?
+환영해요, 에디. 왜 직업을 바꾸고 싶었어요?
+Eddy: Mijn rug. En ik zag elke dag door het raam hoe jullie machines draaiden. Ik vroeg me af hoe dat werkte. Marco zei: "Vraag het gewoon."
+허리 때문에요. 그리고 매일 창문 너머로 여기 기계가 돌아가는 걸 봤어요. 어떻게 돌아가는지 궁금했죠. 마르코가 "그냥 물어봐"라고 했어요.
+Gerrit: En nu sta je drie weken naast mij aan de draaibank.
+그리고 지금 3주째 내 옆에서 선반 앞에 서 있지.
+Eddy: En hij is strenger dan mijn vroegere planner. Maar hij legt alles uit.
+그리고 예전 배차 담당자보다 엄해요. 하지만 다 설명해 줘요.
+Gerrit: Hij is goed. Hij heeft rustige handen. Dat kun je niet leren.
+이 친구 잘해요. 손이 차분해요. 그건 배울 수 있는 게 아니에요.
+Marieke: Eddy is de eerste van zes zij-instromers. Twee uit de logistiek, een kapper, een oud-militair en twee mensen die in de zorg werkten.
+에디가 경력 전환자 여섯 명 중 첫 번째예요. 물류 출신 둘, 미용사 하나, 전직 군인 하나, 돌봄 분야에서 일하던 두 사람.
+Thijs: Een kapper?
+미용사요?
+Marieke: Precisiewerk met je handen, de hele dag op je benen, en klanten die niet tevreden zijn als het een millimeter afwijkt. Ze is perfect.
+하루 종일 서서 손으로 하는 정밀 작업, 그리고 1밀리미터만 어긋나도 불만인 고객들. 완벽한 사람이에요.
+Femke: (lacht) Daar had ik nooit aan gedacht.
+(웃으며) 그건 생각도 못 했네요.
+Priya: En Arjun begint in april. We hebben een appartement boven een winkel in het centrum gevonden. De eigenaar was blij dat er eindelijk iemand woonde.
+그리고 아르준은 4월에 시작해요. 도심 상가 위에서 아파트를 찾았어요. 건물주가 드디어 누가 산다고 기뻐했어요.
+Femke: Hoeveel vacatures nog, Marieke?
+마리커, 공석은 몇 개 남았어요?
+Marieke: Eenendertig. Nog veel. Maar voor het eerst in jaren daalt het getal. En er zijn twaalf aanmeldingen voor de leerwerkplekken.
+31개요. 아직 많아요. 하지만 몇 년 만에 처음으로 숫자가 줄고 있어요. 그리고 실습 일자리에 지원자가 12명이에요.
+Gerrit: Twaalf. Daar zitten Noah en Yasmina bij. Die van het ROC.
+12명이라. 그중에 노아랑 야스미나도 있어요. 직업학교의 그 아이들이요.
+Femke: Het is een kwestie van lange adem. Maar we zijn op weg.
+긴 호흡이 필요한 일이에요. 하지만 우린 가고 있어요.
+Eddy: Mag ik nog iets zeggen? Ik heb twintig jaar in een cabine gezeten. Hier zie ik aan het eind van de dag wat ik gemaakt heb. Dat is een raar goed gevoel.
+하나만 더 말해도 돼요? 20년을 운전석에 앉아 있었어요. 여기선 하루가 끝나면 내가 뭘 만들었는지 보여요. 이상하게 좋은 기분이에요.
+Gerrit: (klopt hem op de schouder) Dat heet vakmanschap, jongen. Welkom.
+(그의 어깨를 두드리며) 그게 장인 정신이라는 거야, 친구. 환영해.
+
+## 주요 단어
+de vakman / het vakmanschap | 더 팍만 / 헷 팍만스하프 | 숙련 기술자 / 장인 정신
+het tekort | 헷 터코르트 | 부족
+de vacature | 더 파카튀러 | 공석, 채용 공고
+de stage | 더 스타저 | 실습, 인턴십
+de leerwerkplek | 더 레이르베르크플레크 | 일하며 배우는 자리
+de BBL (beroepsbegeleidende leerweg) | 더 베이베이엘 | 일과 학습 병행 직업과정
+de leermeester | 더 레이르메이스터르 | 지도 선배, 도제 스승
+de zij-instromer | 더 제이인스트로머르 | 경력 전환자
+de kenniswerker | 더 케니스베르커르 | (해외) 고급 인재
+afhaken → is afgehaakt | 아프하컨 → 이스 아프허하크트 | 포기하다, 중도에 빠지다
+de woningcorporatie | 더 보닝코르포라치 | 주택조합
+de middenhuur | 더 미던휘르 | 중간 임대료(사회주택과 시장 사이)
+de wachtlijst | 더 바흐트레이스트 | 대기 명단
+netto overhouden | 네토 오버르하우던 | 실수령으로 남다
+de tolerantie | 더 톨레란시 | (가공) 공차
+
+## 표현·문법 정리
+**We zoeken vakmensen:** "숙련 기술자를 찾고 있어요." vakmensen = vakman의 성 중립적 복수.
+**Wat bieden jullie?:** "무엇을 제공하나요?" 구직자·학교가 묻는 핵심 질문. 대답은 연봉만이 아니라 교육, 주거, 지도 선배.
+**Zonder huis geen medewerker:** "집이 없으면 직원도 없다." Zonder A geen B 구조로 짧고 강한 메시지.
+**Je leert het vak op de werkvloer:** "일은 현장에서 배운다." het vak = 직업 기술, 전문 분야.
+**Het is een kwestie van lange adem:** "긴 호흡이 필요한 일이다." 끈기와 시간이 필요하다는 관용구.
+**in dezelfde vijver vissen:** "같은 연못에서 낚시하다." 같은 인재 풀을 두고 경쟁하다.
+**iemand aanbrengen:** "(사람을) 소개해 데려오다." Als een medewerker iemand aanbrengt.
+**Of ze het zelf al weten, is een tweede:** "본인들이 알고 있는지는 별개의 문제다."
+**iemand voorliegen:** "~에게 거짓말하다." Ik ga je niet voorliegen.
+**weten waar je aan toe bent:** "자기 처지(상황)를 분명히 알다."
+**tegenvallen:** "기대보다 못하다, 실망스럽다." Ook als het tegenvalt.
+**waarvan:** "그중에." Veertig vacatures, waarvan achtentwintig technisch.
+**Nou ja:** "뭐, 그러니까." 앞말을 정정하거나 누그러뜨릴 때.
+
+## 컨설팅 스킬 노트
+**인력 계획 = 수요 × 공급 경로:** 수요(공석 40 + 5년 내 은퇴 56)를 숫자로 확정한 뒤, 공급 경로를 여러 개 설계합니다. ① 학교(BBL, 실습 10자리) ② 경력 전환자(트럭 기사, 미용사, 전직 군인) ③ 해외 인재(주거 지원) ④ 인맥 추천.
+**데이터가 말해 준 것:** 기존 직원의 70%가 실습이나 인맥으로 왔습니다. 채용 공고에 돈을 쓰는 대신 '관계를 만드는 경로'에 투자해야 했습니다.
+**병목은 종종 회사 밖에 있다:** 해외 인재 4명이 모두 집 때문에 포기했습니다. 회사가 주택조합의 장기 임차인이 되어 건설 자금 조달을 돕는 것처럼, 병목이 있는 곳으로 직접 가야 합니다.
+**책임자를 정하고 맡기기:** "Marieke, jij bent de baas van dit project." 문제를 가장 오래 본 사람에게 권한을 주면 해법이 이미 그 사람 머릿속에 있는 경우가 많습니다.
