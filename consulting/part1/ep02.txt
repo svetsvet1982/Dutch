@@ -1,0 +1,288 @@
+# 1부 2화. De stuurgroep (운영위원회)
+수준: 중급 (B1~B2) | 장소: Keizer & Co 프로젝트룸 → Fietsmand 회의실 → 노르트–주이트선 지하철 | 시간: 10월 초, 4주 후 목요일
+배경 현안: 스타트업 투자 한파, 퀵커머스 업계의 연쇄 철수
+핵심 표현: Ik begin met de conclusie · Dat is een harde boodschap · Wat als we niets doen? · Daar ben ik het niet mee eens · Wat stel je voor?
+💼 스킬: 피라미드 원칙(결론 먼저, 근거는 셋)
+
+## 대화
+— Scène 1: De projectruimte, acht uur 's ochtends (프로젝트룸, 아침 8시) —
+Femke: Goedemorgen. Over drie uur presenteren we aan de stuurgroep. Hoe staan we ervoor?
+좋은 아침이에요. 세 시간 뒤면 운영위원회에 발표해요. 상황이 어때요?
+Thijs: De financiële analyse is klaar. Het ziet er niet goed uit.
+재무 분석은 끝났어요. 상황이 좋지 않아요.
+Femke: Priya, jij hebt de cijfers per hub uitgezocht. Wat zie je?
+프리야, 허브별 숫자를 분석했죠. 뭐가 보여요?
+Priya: (opent haar laptop) Van de veertien hubs maken er maar vijf winst per bestelling.
+(노트북을 열며) 14개 허브 중에 주문당 이익을 내는 곳은 다섯 곳뿐이에요.
+Thijs: En de rest?
+나머지는요?
+Priya: Drie zitten ongeveer op nul. Zes maken zwaar verlies. Samen kosten ze bijna een miljoen per maand.
+세 곳은 대략 본전이에요. 여섯 곳은 큰 손실을 내고요. 합치면 한 달에 거의 100만 유로가 들어요.
+Femke: Een miljoen per maand. Weet Ruben dat?
+한 달에 100만이라. 뤼번은 알까요?
+Priya: Ik denk het niet. In hun eigen rapporten kijken ze alleen naar het totaal.
+아닐 거예요. 자체 보고서에서는 합계만 봐요.
+Femke: Dus jouw vraag op de pont was precies de goede vraag.
+그러니까 페리에서 했던 프리야의 질문이 정확히 맞는 질문이었네요.
+Priya: (glimlacht) Ik heb hem vorige week aan Yara gesteld. Zij wist het ook niet.
+(미소 지으며) 지난주에 야라에게 물어봤어요. 야라도 몰랐어요.
+Thijs: Waarom zijn die zes hubs zo slecht?
+그 여섯 곳은 왜 그렇게 나빠요?
+Priya: Te weinig bestellingen per uur. De bezorgers staan vaak te wachten. Vier ervan liggen buiten de ring.
+시간당 주문이 너무 적어요. 배달원들이 자주 대기 상태예요. 그중 네 곳은 순환도로 바깥에 있어요.
+Femke: En de drie in de woonwijken, met de klachten?
+민원이 많은 주거지역의 세 곳은요?
+Priya: Twee daarvan horen bij de zes slechtste.
+그중 두 곳이 최하위 여섯 곳에 들어가요.
+Femke: Interessant. Dan lossen we met één besluit twee problemen op.
+흥미롭네요. 그럼 결정 하나로 문제 두 개를 해결하는 거죠.
+Thijs: Dus ons advies is: zes hubs sluiten.
+그러니까 우리 조언은 허브 여섯 곳 폐쇄네요.
+Femke: Ja. Maar hoe zeggen we dat tegen iemand die wil groeien?
+네. 하지만 성장하고 싶어 하는 사람에게 그걸 어떻게 말하죠?
+Thijs: Gewoon recht voor zijn raap. Hij verliest een miljoen per maand.
+그냥 직설적으로요. 한 달에 100만을 잃고 있다고.
+Femke: Recht voor zijn raap is goed. Maar we bouwen het verhaal slim op.
+직설적인 건 좋아요. 하지만 이야기는 영리하게 짜야 해요.
+Priya: Beginnen we met de analyse, en dan de conclusie?
+분석부터 하고 결론으로 가요?
+Femke: Nee, andersom. Ik begin met de conclusie. Dat heet het piramideprincipe.
+아니요, 반대로요. 결론부터 시작해요. 그걸 피라미드 원칙이라고 해요.
+Thijs: Waarom niet eerst de cijfers? Dan snapt hij waarom.
+왜 숫자부터가 아니에요? 그러면 이유를 이해할 텐데요.
+Femke: Omdat een directeur na drie minuten wil weten waar het heen gaat. Anders luistert hij niet meer.
+사장은 3분 안에 이야기가 어디로 가는지 알고 싶어 하니까요. 아니면 더 이상 듣지 않아요.
+Priya: Dus eerst de boodschap, dan de argumenten.
+그러니까 먼저 메시지, 그다음 근거요.
+Femke: Precies. En maximaal drie argumenten. Mensen onthouden er geen tien.
+맞아요. 그리고 근거는 최대 세 개. 사람들은 열 개를 기억하지 못해요.
+Thijs: Welke drie?
+어떤 세 개요?
+Femke: Eén: zes hubs kosten een miljoen per maand. Twee: de gemeente maakt die locaties nog moeilijker. Drie: met negen hubs kun je in vijftien maanden break-even draaien.
+첫째, 여섯 허브가 한 달에 100만을 쓴다. 둘째, 시가 그 장소들을 더 어렵게 만든다. 셋째, 허브 아홉 곳이면 15개월 안에 손익분기에 도달할 수 있다.
+Thijs: Dat laatste moet ik nog even narekenen.
+마지막 건 다시 계산해 봐야겠어요.
+Femke: Doe dat. Een getal dat niet klopt, kost ons alle vertrouwen.
+그렇게 해요. 숫자 하나가 틀리면 신뢰를 전부 잃어요.
+Priya: Mag ik vandaag het stuk over de hubs presenteren?
+오늘 허브 부분은 제가 발표해도 될까요?
+Femke: (verrast) Graag zelfs. Het is jouw analyse. Twee minuten, niet meer.
+(놀라며) 오히려 좋아요. 프리야의 분석이잖아요. 2분, 그 이상은 안 돼요.
+— Scène 2: Vergaderruimte van Fietsmand (Fietsmand 회의실) —
+Ruben: Welkom terug! Dit is Sander Kok, van ons investeringsfonds. Hij zit in de stuurgroep.
+다시 오신 걸 환영해요! 이쪽은 우리 투자펀드의 산더르 콕이에요. 운영위원회 위원이에요.
+Sander: Goedemiddag. Ik heb vanochtend nog een andere start-up failliet zien gaan. Ik hoop dat jullie beter nieuws hebben.
+안녕하세요. 오늘 아침에도 다른 스타트업 하나가 파산하는 걸 봤어요. 여러분은 더 좋은 소식이길 바라요.
+Femke: Goedemiddag, meneer Kok. We hebben eerlijk nieuws. Of het goed is, bepalen we straks samen.
+안녕하세요, 콕 씨. 저희는 솔직한 소식을 가져왔어요. 좋은 소식인지는 이따 함께 판단하죠.
+Yara: Zullen we beginnen? Ik heb om één uur een gesprek met de bezorgers.
+시작할까요? 저는 1시에 배달원들과 면담이 있어요.
+Femke: Natuurlijk. Ik begin met de conclusie, en daarna leggen we uit waarom.
+물론이죠. 결론부터 말하고, 그다음 이유를 설명할게요.
+Ruben: Klinkt spannend.
+긴장되네요.
+Femke: Onze conclusie is: Fietsmand kan overleven, maar alleen als jullie eerst kleiner worden. Wij adviseren zes van de veertien hubs te sluiten.
+저희 결론은 이렇습니다. Fietsmand는 살아남을 수 있지만, 먼저 작아져야만 가능합니다. 14개 허브 중 6곳을 닫으실 것을 권합니다.
+Ruben: (stilte) Zes? Dat is bijna de helft.
+(침묵) 여섯 곳이요? 거의 절반이잖아요.
+Femke: Ik weet het. Dat is een harde boodschap. Laat me uitleggen waarom.
+알아요. 냉혹한 메시지죠. 왜 그런지 설명할게요.
+Sander: Graag. Ik wil de onderbouwing zien.
+부탁해요. 근거를 보고 싶어요.
+Femke: Priya heeft alle hubs één voor één geanalyseerd. Priya?
+프리야가 허브를 하나하나 분석했어요. 프리야?
+Priya: (zenuwachtig, dan rustiger) Dank je. Op deze grafiek ziet u alle veertien hubs.
+(긴장했다가 차분해지며) 고마워요. 이 그래프에 허브 14곳이 모두 나와 있습니다.
+Priya: Groen maakt winst per bestelling, oranje zit rond nul, rood maakt verlies.
+초록은 주문당 이익, 주황은 본전 근처, 빨강은 손실입니다.
+Yara: Dat zijn veel rode bolletjes.
+빨간 점이 많네요.
+Priya: Zes. Samen kosten ze bijna een miljoen euro per maand. Twee ervan zijn ook de hubs met de meeste klachten.
+여섯 곳이요. 합치면 한 달에 거의 100만 유로가 듭니다. 그중 두 곳은 민원도 가장 많은 허브예요.
+Ruben: Dat wist ik niet. In ons dashboard zie je alleen het totaal.
+그건 몰랐어요. 우리 대시보드에는 합계만 나와요.
+Priya: Daarom hebben we het per hub uitgesplitst.
+그래서 허브별로 나눠 봤어요.
+Sander: Heldere analyse. Jonge dame, hoe zeker ben je van die cijfers?
+명쾌한 분석이네요. 젊은 분, 그 숫자 얼마나 확실해요?
+Priya: Ze komen uit jullie eigen systeem. Ik heb ze gecontroleerd met Yara.
+여러분 자체 시스템에서 나온 숫자예요. 야라와 함께 검증했어요.
+Yara: Dat klopt. Ik heb ze gisteren nog nagekeken.
+맞아요. 어제도 제가 다시 확인했어요.
+Femke: Dank je, Priya. Het tweede argument: de gemeente. Thijs?
+고마워요, 프리야. 두 번째 근거는 시예요. 테이스?
+Thijs: De gemeente staat geen nieuwe hubs in de binnenstad toe en controleert de bestaande strenger. Drie van de zes rode hubs liggen precies op plekken waar de regels het strengst zijn.
+시는 도심에 새 허브를 허용하지 않고 기존 허브도 더 엄격하게 단속합니다. 빨간 허브 여섯 곳 중 세 곳이 바로 규제가 가장 엄한 곳에 있어요.
+Ruben: Dus de stad werkt tegen ons.
+그러니까 시가 우리를 방해하는 거네요.
+Thijs: De stad beschermt haar bewoners. Dat is haar taak. Wij moeten ermee rekenen.
+시는 주민을 보호하는 거죠. 그게 시의 일이에요. 우리는 그걸 감안해야 해요.
+Femke: En het derde argument is goed nieuws. Met negen hubs kunnen jullie binnen vijftien maanden break-even draaien.
+그리고 세 번째 근거는 좋은 소식이에요. 허브 아홉 곳이면 15개월 안에 손익분기에 도달할 수 있어요.
+Sander: Vijftien maanden. En jullie kas is over negen maanden leeg.
+15개월이라. 그런데 금고는 9개월 뒤에 바닥나잖아요.
+Thijs: Met negen hubs daalt het verlies per maand met bijna zestig procent. Dan reikt het geld tot ruim achttien maanden.
+허브가 아홉 곳이면 월 손실이 거의 60% 줄어요. 그러면 돈이 18개월 넘게 버텨요.
+Sander: Dat heb je goed doorgerekend?
+그거 제대로 계산한 거예요?
+Thijs: Vanochtend drie keer. Ik geef u het model mee.
+오늘 아침에 세 번 했어요. 모델을 드릴게요.
+Ruben: Maar wacht even. Daar ben ik het niet mee eens. Als we krimpen, denken de klanten dat we omvallen.
+잠깐만요. 그건 동의 못 해요. 우리가 축소하면 고객들은 우리가 망한다고 생각할 거예요.
+Femke: Dat is een terechte zorg. Wat denk je dat er gebeurt als jullie niet krimpen?
+정당한 걱정이에요. 축소하지 않으면 어떻게 될 것 같아요?
+Ruben: Dan groeien we door en halen we nieuwe investeerders binnen.
+그럼 계속 성장하고 새 투자자를 데려오죠.
+Sander: Ruben, de markt is veranderd. Niemand investeert nu in bedrijven die op elke bestelling verliezen.
+뤼번, 시장이 바뀌었어요. 지금은 주문마다 손해 보는 회사에 아무도 투자하지 않아요.
+Ruben: Vorig jaar wel.
+작년엔 했잖아요.
+Sander: Vorig jaar was de rente bijna nul. Dat feest is voorbij.
+작년엔 금리가 거의 0이었죠. 그 잔치는 끝났어요.
+Femke: Wat als we niets doen? Dan is over negen maanden de keuze niet meer aan jou. Dan kiest de bank of de curator.
+아무것도 안 하면 어떻게 될까요? 9개월 뒤엔 선택권이 더 이상 뤼번에게 없어요. 은행이나 파산관재인이 선택하죠.
+Ruben: (stil) Dat is… confronterend.
+(조용히) 그건… 아프네요.
+Femke: Dat begrijp ik. Je hebt dit bedrijf met één fiets opgebouwd. Wij willen dat het blijft bestaan.
+이해해요. 자전거 한 대로 이 회사를 일궜잖아요. 저희는 이 회사가 계속 살아남길 바라요.
+Ruben: En de bezorgers in die zes hubs? Dat zijn mensen.
+그 여섯 허브의 배달원들은요? 사람이잖아요.
+Yara: Dat is ook mijn eerste vraag.
+그게 제 첫 질문이기도 해요.
+Femke: Terecht. Volgens onze planning kunnen ongeveer twee derde naar de andere hubs. Daar is juist te weinig personeel.
+맞는 말이에요. 저희 계획으로는 약 3분의 2가 다른 허브로 갈 수 있어요. 그쪽은 오히려 인력이 부족하거든요.
+Yara: Dat klopt. In de Pijp zoeken we al maanden mensen.
+맞아요. 더 파이프에선 몇 달째 사람을 구하고 있어요.
+Yara: En de anderen? Een derde is nog steeds ruim zestig mensen.
+나머지는요? 3분의 1이라 해도 60명이 넘어요.
+Femke: Voor hen stellen we een regeling voor: voorrang bij nieuwe vacatures en hulp bij ander werk.
+그분들을 위해 대책을 제안해요. 새 일자리 우선 채용과 다른 일자리 지원이요.
+Thijs: Dat kost geld, maar veel minder dan een maand verlies.
+돈이 들지만, 한 달 손실보다는 훨씬 적어요.
+Yara: Veel bezorgers zijn studenten. Sommigen willen juist minder uren.
+배달원 중엔 학생이 많아요. 오히려 근무 시간을 줄이고 싶은 사람도 있어요.
+Femke: Dat is nuttige informatie. Kun jij dat de komende week voor ons in kaart brengen?
+유용한 정보네요. 다음 주에 그걸 정리해 줄 수 있어요?
+Yara: Ja. Ik wil wel dat de bezorgers het eerst van ons horen, niet uit de krant.
+네. 다만 배달원들이 신문이 아니라 우리에게서 먼저 들었으면 해요.
+Sander: Daar ben ik het volledig mee eens. Een lek is nu het laatste wat we nodig hebben.
+그건 전적으로 동의해요. 지금 정보 유출은 가장 피해야 할 일이에요.
+Femke: Afgesproken. Alles wat we vandaag bespreken, blijft in deze kamer tot het plan klaar is.
+약속해요. 오늘 논의한 건 계획이 완성될 때까지 이 방 밖으로 나가지 않아요.
+Ruben: En de klanten in de gebieden die we niet meer bedienen?
+그럼 더 이상 배달하지 않는 지역의 고객들은요?
+Femke: Die zijn klein in aantal. We hebben het uitgerekend: je verliest vier procent van je omzet en een miljoen aan kosten.
+수가 적어요. 계산해 봤어요. 매출의 4%를 잃고 비용 100만 유로를 아끼는 거예요.
+Thijs: Vier procent omzet weg, zestig procent verlies weg. Dat is een goede ruil.
+매출 4% 감소, 손실 60% 감소. 좋은 거래죠.
+Ruben: (denkt na) Oké. Stel dat ik ja zeg. Wat stel je voor? Wat is de volgende stap?
+(생각하며) 좋아요. 제가 동의한다고 쳐요. 무엇을 제안해요? 다음 단계는 뭔데요?
+Femke: Drie stappen. Eerst een plan voor de bezorgers, samen met Yara. Dan een bericht aan de klanten. En pas daarna de sluiting, in drie fases.
+세 단계예요. 먼저 야라와 함께 배달원 대책. 그다음 고객 공지. 그리고 그 후에야 폐쇄, 세 차례에 나눠서요.
+Sander: Ik steun dit advies. Ik wil wel binnen twee weken een uitgewerkt plan.
+저는 이 조언을 지지해요. 다만 2주 안에 구체화된 계획을 원해요.
+Femke: Dat krijgt u. Ruben, wat heb jij nodig om ja te zeggen?
+그렇게 하겠습니다. 뤼번, 동의하려면 뭐가 필요해요?
+Ruben: Eén nacht slapen. En morgen wil ik met mijn team praten voordat ik besluit.
+하룻밤 자는 거요. 그리고 결정하기 전에 내일 팀과 이야기하고 싶어요.
+Femke: Heel verstandig. Wij zijn er morgen om te helpen.
+아주 현명해요. 저희가 내일 도와드릴게요.
+— Scène 3: In de Noord/Zuidlijn naar kantoor (회사로 가는 노르트–주이트선 지하철) —
+Thijs: Nou. Hij zei geen nee.
+음. 거절하진 않았네요.
+Femke: Hij zei ook geen ja. Maar dat is normaal. Niemand sluit de helft van zijn droom in één vergadering.
+동의도 안 했죠. 하지만 그게 정상이에요. 아무도 회의 한 번에 꿈의 절반을 닫진 않아요.
+Priya: Mijn handen trilden in het begin.
+처음엔 손이 떨렸어요.
+Femke: Dat zag niemand. Je was helder en rustig. En die vraag van Sander pareerde je perfect.
+아무도 못 봤어요. 명확하고 차분했어요. 그리고 산더르의 질문을 완벽하게 받아넘겼죠.
+Priya: Ik had geluk dat Yara de cijfers had nagekeken.
+야라가 숫자를 확인해 줘서 운이 좋았어요.
+Femke: Dat is geen geluk. Dat is goed werk. Je hebt haar vooraf betrokken. Onthoud dat.
+그건 운이 아니에요. 일을 잘한 거예요. 미리 야라를 참여시켰잖아요. 그걸 기억해요.
+Thijs: En ik? Was ik te direct over de gemeente?
+그럼 저는요? 시에 대해 너무 직설적이었어요?
+Femke: Nee. "De stad beschermt haar bewoners" was precies goed. Feitelijk, zonder verwijt.
+아니요. "시는 주민을 보호한다"는 딱 좋았어요. 사실에 근거하고, 비난이 없었죠.
+Thijs: Bij de bank had ik gezegd: "Uw businessmodel deugt niet."
+은행이었으면 "귀사의 비즈니스 모델은 엉터리입니다"라고 했을 거예요.
+Femke: (lacht) Schrijf dat maar in je boekje. Bij "nooit tegen een klant zeggen".
+(웃으며) 그거 수첩에 적어 둬요. "고객에게 절대 하면 안 되는 말"에요.
+Thijs: Al gedaan. Het is mijn derde zin al.
+벌써 적었어요. 벌써 세 번째 문장이에요.
+Priya: Wat stond er in de eerste twee?
+첫 두 문장은 뭐였어요?
+Thijs: "Dat is dom" en "Waarom heeft u dat niet eerder gedaan?"
+"그건 멍청해요"랑 "왜 진작 안 하셨어요?"요.
+Priya: (lacht) Die zijn goed.
+(웃으며) 그거 좋네요.
+Femke: Wat ik vandaag geleerd heb: Ruben is bang dat klanten denken dat hij omvalt.
+제가 오늘 배운 건, 뤼번은 고객들이 회사가 망한다고 생각할까 봐 두려워한다는 거예요.
+Thijs: Is dat de vraag achter de vraag?
+그게 질문 뒤의 질문이에요?
+Femke: Misschien wel. Het gaat hem niet alleen om geld. Het gaat om zijn imago, zijn verhaal.
+아마도요. 그에게 문제는 돈만이 아니에요. 이미지, 자기 이야기가 문제죠.
+Priya: Dan moeten we hem helpen met een nieuw verhaal.
+그럼 새로운 이야기를 만드는 걸 도와야겠네요.
+Femke: Precies. Niet "Fietsmand krimpt", maar "Fietsmand kiest voor kwaliteit".
+맞아요. "Fietsmand가 축소한다"가 아니라 "Fietsmand가 품질을 선택한다".
+Thijs: Is dat niet een beetje… marketingpraat?
+그거 좀… 마케팅 말장난 아니에요?
+Femke: Alleen als het niet waar is. Met negen goede hubs bezorgen ze sneller en zijn de bezorgers minder vaak werkloos aan het wachten. Dat is gewoon waar.
+사실이 아닐 때만 그렇죠. 좋은 허브 아홉 곳이면 배달이 더 빨라지고 배달원들이 할 일 없이 기다리는 일도 줄어요. 그건 그냥 사실이에요.
+Thijs: Oké, daar zit wat in.
+알겠어요, 일리가 있네요.
+Priya: Ik maak vanavond een kaart met de bezorgtijden per wijk. Dan kunnen we het laten zien.
+오늘 밤에 동네별 배달 시간 지도를 만들게요. 그러면 보여 줄 수 있어요.
+Femke: Niet vanavond. Vanavond ga je naar huis. Morgen om acht uur, oké?
+오늘 밤은 안 돼요. 오늘 밤엔 집에 가요. 내일 아침 8시, 알았죠?
+Priya: Oké. Maar mijn hoofd stopt toch niet.
+알겠어요. 그래도 머리는 안 멈출 거예요.
+Thijs: Welkom bij consultancy.
+컨설팅 세계에 온 걸 환영해요.
+Femke: (glimlacht) Volgende halte: Station Zuid. Vanavond trakteer ik op bitterballen. Jullie hebben het verdiend.
+(미소 지으며) 다음 역은 남역이에요. 오늘 저녁 비터발런은 제가 살게요. 두 분 다 자격 있어요.
+Thijs: Op een maandag bitterballen, op een donderdag bitterballen. Ik begin dit werk leuk te vinden.
+월요일에도 비터발런, 목요일에도 비터발런. 이 일이 좋아지기 시작했어요.
+Priya: Mag ik even doorvragen? Zijn er ook vegetarische?
+조금 더 여쭤봐도 될까요? 채식용도 있나요?
+Femke: (lacht) Je leert snel, Priya. Ja, die zijn er.
+(웃으며) 빨리 배우네요, 프리야. 네, 있어요.
+
+## 주요 단어
+de stuurgroep | 더 스티르흐롭 | 운영위원회
+de conclusie | 더 콘클뤼지 | 결론
+het argument | 헷 아르휘먼트 | 근거, 논거
+de onderbouwing | 더 온더르바우잉 | 근거, 뒷받침
+de winst | 더 빈스트 | 이익
+de omzet | 더 옴제트 | 매출
+krimpen → is gekrompen | 크림펀 → 이스 허크롬펀 | 줄어들다, 축소하다
+sluiten → heeft gesloten | 슬라위턴 → 헤이프트 허슬로턴 | 닫다
+de investeerder | 더 인베스테르더르 | 투자자
+failliet gaan → is failliet gegaan | 파이이트 한 → 이스 파이이트 허한 | 파산하다
+de curator | 더 퀴라토르 | 파산관재인
+narekenen → heeft nagerekend | 나레이커넌 → 헤이프트 나허레이컨트 | 다시 계산하다
+de rente | 더 렌터 | 금리, 이자
+terecht | 터레흐트 | 정당한, 일리 있는
+de ruil | 더 라윌 | 교환, 거래
+
+## 표현·문법 정리
+**Ik begin met de conclusie:** "결론부터 말씀드리겠습니다." 발표의 첫 문장. 이어서 Daarna leg ik uit waarom.(그다음 이유를 설명하겠습니다)
+**Dat is een harde boodschap:** "냉혹한 메시지입니다." 상대의 충격을 먼저 인정하면 반발이 줄어듭니다. 비슷하게 Ik besef dat dit niet makkelijk is.(쉽지 않다는 걸 압니다)
+**Wat als we niets doen?:** "아무것도 하지 않으면요?" 현상 유지의 비용을 보여 주는 질문. Wat als…? = ~하면 어떻게 될까?
+**Daar ben ik het niet mee eens:** "그건 동의하지 않아요." het eens zijn met iets/iemand(~에 동의하다) + er/daar 분리: Ik ben het met je eens → Daar ben ik het mee eens.
+**Wat stel je voor? / Wat stelt u voor?:** "무엇을 제안하세요?" voorstellen(제안하다, 분리동사). 명사 het voorstel.
+**Hoe staan we ervoor?:** "상황이 어때요? 진행이 어디까지 됐어요?" 프로젝트 점검의 관용구.
+**recht voor zijn raap:** "직설적으로, 돌려 말하지 않고." 네덜란드식 직설 화법을 가리키는 관용구.
+**Stel dat…:** "~라고 가정해 봐요." Stel dat ik ja zeg. (제가 동의한다고 치죠) 뒤 문장은 평서문 어순(주어+동사)을 유지합니다.
+**Het gaat (hem) om…:** "(그에게) 중요한 건 ~이다." Het gaat hem niet alleen om geld.
+**twee derde / zestig procent / met … dalen:** 분수·백분율 표현. Het verlies daalt met zestig procent.(손실이 60% 줄어든다) met = 변화 폭.
+**er zit wat in:** "일리가 있어요." 상대 의견을 일부 인정할 때.
+**Graag zelfs:** "오히려 좋죠, 기꺼이요." 요청에 강한 긍정.
+**betrekken bij:** "~에 참여시키다." Je hebt Yara vooraf betrokken. (betrokken = 과거분사)
+
+## 컨설팅 스킬 노트
+**피라미드 원칙:** 맨 위에 결론 한 문장 → 그 아래 근거 세 개 → 각 근거 아래 데이터. 경영진은 3분 안에 결론을 알고 싶어 합니다.
+**이번 화의 피라미드:** 결론 "Fietsmand kan overleven als het eerst kleiner wordt" → ① zes hubs kosten een miljoen per maand ② de gemeente maakt die locaties moeilijker ③ met negen hubs break-even binnen vijftien maanden.
+**반론은 질문으로 받기:** Ruben이 반대할 때 Femke는 반박하지 않고 "Wat als we niets doen?"으로 현상 유지의 결과를 스스로 보게 했습니다.
+**결정 전에 동의 얻기:** 숫자를 고객 측 담당자(Yara)와 미리 검증하면 회의 중 신뢰 공격을 막을 수 있습니다. 마지막 질문 "Wat heb je nodig om ja te zeggen?"은 결정을 앞당깁니다.
