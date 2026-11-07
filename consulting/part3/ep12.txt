@@ -1,0 +1,293 @@
+# 3부 12화. Het algoritme (알고리즘)
+수준: 고급 (C1) | 장소: 베스테르뷔르흐 시 옴부즈맨 사무실 → 근로·소득과 → 데이터팀 → 한부모 가정 → HBR 창고 → 근로 담당 부시장실 → 시의회 위원회 | 시간: 8년차 12월
+배경 현안: 생계 지원(bijstand) 부정수급 탐지 알고리즘의 차별 논란, 보육수당 스캔들(toeslagenaffaire)의 교훈, EU AI법상 고위험 시스템, 인권 기관
+핵심 표현: Het systeem discrimineert · Dat was nooit de bedoeling · Bedoeling is niet hetzelfde als effect · Op welke gronden? · Dit raakt aan grondrechten
+💼 스킬: 알고리즘 감사 프레임(목적·입력·결과·사람의 개입)
+
+## 대화
+— Scène 1: Het kantoor van de gemeentelijke ombudsman van Westerburg (베스테르뷔르흐 시 옴부즈맨 사무실) —
+Ombudsman: Ik heb het afgelopen jaar honderdveertig klachten gekregen over heronderzoeken in de bijstand. Bijna allemaal van vrouwen. Bijna allemaal alleenstaande moeders. Veel met een migratieachtergrond.
+작년 한 해 생계 지원 재조사에 관한 민원을 140건 받았어요. 거의 다 여성이에요. 거의 다 한부모 엄마고요. 이민 배경을 가진 사람이 많아요.
+Priya: Wat vertellen ze?
+그분들이 뭐라고 해요?
+Ombudsman: Dat ze steeds opnieuw worden onderzocht. Huisbezoeken, vragen over hun relaties, over wie er 's nachts slaapt. En dat ze niet weten waarom zij worden gekozen.
+계속 반복해서 조사받는다고요. 가정 방문, 연애 관계에 대한 질문, 누가 밤에 자고 가느냐는 질문까지요. 그리고 왜 자기가 선택되는지 모른다고요.
+Femke: Hoe worden mensen gekozen voor een heronderzoek?
+재조사 대상은 어떻게 선택돼요?
+Ombudsman: Door een risicomodel. Een algoritme dat elke bijstandsgerechtigde een score geeft. Hoe hoger de score, hoe groter de kans op een onderzoek.
+위험 모델이요. 생계 지원 수급자마다 점수를 매기는 알고리즘이에요. 점수가 높을수록 조사받을 확률이 높아요.
+Priya: Op welke gronden? Welke gegevens gebruikt het model?
+무엇을 근거로요? 모델이 어떤 데이터를 써요?
+Ombudsman: Dat is precies wat niemand me wil vertellen. De afdeling zegt dat het "bedrijfsgevoelig" is, omdat fraudeurs anders weten hoe ze het systeem kunnen omzeilen.
+그게 바로 아무도 말해 주지 않는 거예요. 담당 부서는 그걸 알면 부정수급자들이 시스템을 피해 갈 수 있으니 "민감 정보"라고 해요.
+Femke: En u wilt dat wij dat onderzoeken.
+그래서 저희가 조사하길 원하시는 거군요.
+Ombudsman: Samen met de gemeenteraad. De raad heeft het onderzoek unaniem gesteund. Na de toeslagenaffaire wil niemand meer dat de overheid mensen discrimineert met een computer.
+시의회와 함께요. 시의회가 만장일치로 조사를 지지했어요. 보육수당 스캔들 이후로 정부가 컴퓨터로 사람을 차별하는 걸 원하는 사람은 아무도 없어요.
+Femke: (kijkt naar Priya) Priya, dit is jouw onderzoek. Jij leidt het. Thijs en ik helpen waar nodig.
+(프리야를 보며) 프리야, 이건 프리야의 조사예요. 프리야가 이끌어요. 테이스랑 저는 필요한 데서 도울게요.
+Priya: (stil) Weet je het zeker?
+(조용히) 확실해요?
+Femke: Jij hebt bij Noordbank gezien wat een systeem met mensen kan doen. Niemand kan dit beter.
+Noordbank에서 시스템이 사람에게 무슨 짓을 할 수 있는지 봤잖아요. 이건 프리야보다 잘할 사람이 없어요.
+Ombudsman: (tegen Priya) Dan hoop ik dat u volledige toegang krijgt. Tot de code, de data en de mensen.
+(프리야에게) 그럼 전체 접근 권한을 받으시길 바라요. 코드, 데이터, 사람까지요.
+Priya: Dat is onze voorwaarde. Anders beginnen we niet.
+그게 저희 조건이에요. 아니면 시작하지 않아요.
+— Scène 2: Bij het hoofd van de afdeling Werk en Inkomen (근로·소득과장) —
+Arjan: Arjan Visser, hoofd Werk en Inkomen. Ik wil vooraf zeggen: het model is gebouwd om eerlijker te werken. Vroeger koos een medewerker op gevoel wie werd onderzocht. Dat was willekeurig.
+근로·소득과장 아르얀 피서르입니다. 미리 말씀드리자면, 그 모델은 더 공정하게 일하려고 만든 거예요. 예전엔 직원이 감으로 조사 대상을 골랐어요. 자의적이었죠.
+Priya: Dat is een goed doel. Hoe werkt het model?
+좋은 목적이네요. 모델은 어떻게 작동해요?
+Arjan: Het kijkt naar ruim driehonderd kenmerken. Hoe lang iemand in de bijstand zit, of iemand eerder fraude heeft gepleegd, de woonsituatie. Daaruit berekent het een risicoscore.
+300개가 넘는 특성을 봐요. 생계 지원을 받은 기간, 이전 부정수급 이력, 주거 상황. 거기서 위험 점수를 계산해요.
+Priya: Mogen we de lijst van alle kenmerken zien?
+특성 전체 목록을 볼 수 있을까요?
+Arjan: (aarzelt) Die lijst is vertrouwelijk.
+(머뭇거리며) 그 목록은 기밀이에요.
+Priya: Wij hebben een opdracht van de raad met volledige toegang. Vertrouwelijk tegenover ons geldt niet. Wij publiceren de lijst ook niet zonder overleg.
+저희는 전체 접근 권한을 가진 시의회 의뢰를 받았어요. 저희한테는 기밀이 적용되지 않아요. 그리고 협의 없이 목록을 공개하지도 않을 거예요.
+Arjan: (zucht) Goed. U krijgt hem.
+(한숨) 알겠어요. 드리죠.
+Thijs: Hoeveel fraude wordt er gevonden dankzij het model?
+그 모델 덕분에 부정수급을 얼마나 찾아내요?
+Arjan: Ongeveer twaalf procent van de heronderzoeken leidt tot een terugvordering of een stopzetting.
+재조사의 약 12%가 환수나 지급 중단으로 이어져요.
+Priya: En voordat het model er was? Toen medewerkers op gevoel kozen?
+그럼 모델이 생기기 전에는요? 직원들이 감으로 고를 때는요?
+Arjan: (kort stilte) Dat weet ik niet precies. Ongeveer hetzelfde, denk ik.
+(잠깐 침묵) 정확히는 몰라요. 비슷했을 거예요.
+Priya: Dus het model vindt niet meer fraude dan vroeger.
+그러니까 모델이 예전보다 더 많은 부정수급을 찾아내는 건 아니네요.
+Arjan: Het is efficiënter. Het kost minder tijd om te kiezen.
+더 효율적이에요. 고르는 데 시간이 덜 들어요.
+Femke: Is het model ooit getoetst op discriminatie?
+모델이 차별 여부에 대해 검증받은 적 있어요?
+Arjan: Er is een privacytoets gedaan. En het model gebruikt geen nationaliteit. Dat hebben we na de toeslagenaffaire bewust verwijderd.
+개인정보 영향 평가는 했어요. 그리고 모델은 국적을 쓰지 않아요. 보육수당 스캔들 이후 의도적으로 뺐어요.
+Priya: Maar misschien wel andere kenmerken die met nationaliteit samenhangen. Dat ga ik onderzoeken.
+하지만 국적과 연관된 다른 특성은 쓸 수도 있죠. 그걸 조사할게요.
+— Scène 3: Met de data-analist die het model bouwde (모델을 만든 데이터 분석가와) —
+Sem: Sem Kuipers. Ik heb het model gebouwd, vier jaar geleden. Samen met een extern bureau.
+셈 코이퍼르스예요. 4년 전에 그 모델을 만들었어요. 외부 업체와 함께요.
+Priya: Ik heb de lijst met kenmerken bekeken. Mag ik je een paar vragen stellen? Als collega.
+특성 목록을 봤어요. 몇 가지 물어봐도 될까요? 동료로서요.
+Sem: Graag. Eerlijk gezegd ben ik blij dat iemand er eindelijk naar kijkt.
+좋아요. 솔직히 누가 드디어 들여다봐서 기뻐요.
+Priya: Kenmerk zevenenveertig: "beheersing van de Nederlandse taal". Waarom zit dat erin?
+47번 특성: "네덜란드어 구사 능력". 왜 그게 들어가 있어요?
+Sem: Omdat mensen die de taal niet goed beheersen, vaker fouten maken op formulieren. Dat zag het model als een risico.
+언어를 잘 못하는 사람이 서류에서 실수를 더 자주 하니까요. 모델이 그걸 위험으로 봤어요.
+Priya: Fouten zijn geen fraude.
+실수는 부정수급이 아니잖아요.
+Sem: (stil) Nee. Dat is waar.
+(조용히) 아니죠. 맞아요.
+Priya: Kenmerk honderdtwaalf: "alleenstaand met kinderen onder de twaalf". Kenmerk honderdachtenvijftig: "woonachtig in wijk Noordhaven". Kenmerk tweehonderdnegen: "opmerkingen van de consulent over gedrag".
+112번: "12세 미만 자녀를 둔 한부모". 158번: "노르트하번 동네 거주". 209번: "상담원의 행동 관련 메모".
+Sem: Die laatste is een vrij tekstveld. Consulenten schrijven wat ze opvalt. Het model zoekt naar woorden.
+마지막 건 자유 텍스트 칸이에요. 상담원들이 눈에 띄는 걸 써요. 모델이 단어를 찾아요.
+Priya: Welke woorden?
+어떤 단어요?
+Sem: (aarzelt) "Onduidelijk", "wantrouwig", "niet meewerkend". En… "cultureel bepaald".
+(머뭇거리며) "불분명함", "의심스러워함", "비협조적". 그리고… "문화적으로 규정된".
+Priya: (lange stilte) Cultureel bepaald.
+(긴 침묵) 문화적으로 규정된.
+Sem: Ik weet het. Ik heb het destijds gemeld bij mijn leidinggevende. Hij zei dat het model "zelf leert" wat belangrijk is. Dat wij er niets aan moesten veranderen.
+알아요. 그때 제 상사한테 보고했어요. 모델이 뭐가 중요한지 "스스로 배운다"고, 우리가 손대면 안 된다고 하더라고요.
+Priya: Heb je dat schriftelijk?
+그거 문서로 있어요?
+Sem: Ja. Een mail. Drie jaar geleden.
+네. 메일이요. 3년 전이요.
+Priya: Dank je, Sem. Je hebt er goed aan gedaan om het toen al te zeggen.
+고마워요, 셈. 그때 이미 말한 건 잘한 거예요.
+Sem: Ik heb het niet genoeg gezegd. Ik ben gaan zwijgen toen niemand luisterde.
+충분히 말하지 않았어요. 아무도 안 들으니까 입을 다물어 버렸어요.
+— Scène 4: Bij een alleenstaande moeder thuis (한부모 엄마의 집) —
+Samira: Komt u binnen. Sorry voor de rommel. De kinderen zijn net naar school.
+들어오세요. 어수선해서 죄송해요. 애들이 막 학교에 갔어요.
+Priya: Dank u dat u met ons wilt praten. U hoeft niets te vertellen wat u niet wilt.
+이야기해 주셔서 감사합니다. 원하지 않는 건 말씀 안 하셔도 돼요.
+Samira: Ik wil het juist vertellen. Ik ben in drie jaar vier keer onderzocht. Vier keer. Ik heb nooit iets verkeerd gedaan.
+오히려 말하고 싶어요. 3년 동안 네 번 조사받았어요. 네 번이요. 한 번도 잘못한 적 없어요.
+Priya: Hoe ging zo'n onderzoek?
+조사는 어떻게 진행됐어요?
+Samira: Er kwamen twee mensen. Ze keken in mijn slaapkamer. Ze telden de tandenborstels in de badkamer. Ze vroegen of de vader van mijn kinderen hier slaapt. Mijn dochter van acht stond erbij.
+두 사람이 왔어요. 침실을 들여다봤어요. 욕실 칫솔 개수를 셌어요. 애들 아빠가 여기서 자고 가냐고 물었어요. 여덟 살 딸이 옆에 서 있었어요.
+Femke: (zacht) Dat moet vernederend zijn geweest.
+(작게) 굴욕적이셨겠네요.
+Samira: Mijn dochter vroeg daarna: "Mama, zijn wij slecht?" (stilte) Wat zeg je dan?
+딸이 나중에 물었어요. "엄마, 우리 나쁜 사람이야?" (침묵) 그럴 땐 뭐라고 해요?
+Priya: (slikt) Ik weet het niet.
+(침을 삼키며) 모르겠어요.
+Samira: Ik heb gezegd: nee, schat. De computer denkt dat. Maar de computer kent ons niet.
+"아니야, 아가. 컴퓨터가 그렇게 생각하는 거야. 하지만 컴퓨터는 우리를 몰라"라고 했어요.
+Thijs: Wist u waarom u steeds werd gekozen?
+왜 계속 선택되는지 알았어요?
+Samira: Nee. Ik heb het drie keer gevraagd. Ze zeiden: "Het is een willekeurige steekproef." Maar mijn buurvrouw, een Nederlandse vrouw, alleenstaand zonder kinderen, is nooit onderzocht.
+아니요. 세 번 물어봤어요. "무작위 표본"이래요. 그런데 우리 이웃집 네덜란드 여자, 아이 없는 독신인데 한 번도 조사받은 적이 없어요.
+Priya: Mag ik uw verhaal gebruiken, zonder uw naam?
+이름 없이 말씀하신 이야기를 사용해도 될까요?
+Samira: Gebruik het. Zodat mijn dochter later niet hetzelfde meemaakt.
+쓰세요. 우리 딸이 나중에 같은 일을 겪지 않게요.
+Priya: (bij de deur, zacht) Mijn moeder heeft ook een tijd van de bijstand geleefd. Toen ik klein was. In Den Haag.
+(문 앞에서, 작게) 저희 엄마도 한동안 생계 지원으로 사셨어요. 제가 어렸을 때요. 헤이그에서요.
+Samira: (kijkt haar aan) Dan weet u het.
+(그녀를 바라보며) 그럼 아시겠네요.
+Priya: Dan weet ik het.
+네, 알아요.
+— Scène 5: Het pakhuis, laat in de avond (밤늦게, 창고) —
+Priya: Ik heb de analyse af. Alleenstaande moeders met een migratieachtergrond hebben een drie keer zo grote kans om onderzocht te worden als andere bijstandsgerechtigden.
+분석을 끝냈어요. 이민 배경이 있는 한부모 엄마는 다른 생계 지원 수급자보다 조사받을 확률이 세 배 높아요.
+Thijs: En vinden ze bij hen meer fraude?
+그럼 그들한테서 부정수급을 더 찾아내요?
+Priya: Nee. Precies hetzelfde percentage. Twaalf procent. Ze worden drie keer zo vaak onderzocht, zonder dat er meer wordt gevonden.
+아니요. 정확히 같은 비율이에요. 12%. 세 배 더 자주 조사받는데 더 많이 찾아내지도 않아요.
+Femke: Dus het model bestraft een groep zonder reden.
+그러니까 모델이 아무 이유 없이 한 집단을 벌하는 거네요.
+Priya: Het systeem discrimineert. Niet omdat het nationaliteit gebruikt, maar omdat taal, wijk, gezinssituatie en de opmerkingen van consulenten samen precies dezelfde groep aanwijzen.
+시스템이 차별해요. 국적을 써서가 아니라, 언어, 동네, 가족 상황, 상담원의 메모가 합쳐져서 정확히 같은 집단을 가리키니까요.
+Thijs: Weet je het zeker? Dit is een zware conclusie.
+확실해요? 무거운 결론이에요.
+Priya: Ik heb het drie keer gecontroleerd. En een onafhankelijke statisticus van de universiteit heeft mijn code nagelopen. Zelfde uitkomst.
+세 번 확인했어요. 그리고 대학의 독립 통계학자가 제 코드를 검토했어요. 같은 결과예요.
+Femke: (na een stilte) Hoe voel je je?
+(잠시 침묵 후) 기분이 어때요?
+Priya: (zet haar laptop dicht) Boos. En bang dat mijn boosheid de analyse kleurt. Weet je nog, bij Noordbank? Ik zei hetzelfde.
+(노트북을 닫으며) 화가 나요. 그리고 제 분노가 분석을 왜곡할까 봐 두려워요. Noordbank 때 기억나요? 그때도 똑같은 말을 했어요.
+Femke: Ik weet het nog. En toen deed je het goed. Je liet anderen meekijken. Dat heb je nu ook gedaan, met de statisticus.
+기억나요. 그때 잘했어요. 다른 사람들이 같이 보게 했잖아요. 이번에도 통계학자와 그렇게 했고요.
+Priya: Wie presenteert het aan de raad?
+시의회엔 누가 발표해요?
+Femke: Jij. Alleen.
+프리야요. 혼자서.
+Priya: (verrast) Alleen?
+(놀라며) 혼자서요?
+Femke: Het is jouw onderzoek. Als ik naast je sta, gaan ze naar mij kijken. Ze moeten naar jou kijken.
+프리야의 조사예요. 제가 옆에 서면 다들 저를 볼 거예요. 프리야를 봐야 해요.
+Thijs: En wij zitten op de publieke tribune. Met koffie. Uit een thermoskan.
+그리고 우린 방청석에 앉아 있을게요. 커피 들고요. 보온병에 담아서.
+— Scène 6: Hoor en wederhoor met de wethouder van Werk (근로 담당 부시장에게 소명 기회 주기) —
+Wethouder: U zegt dat ons model discrimineert. Dat is een zware beschuldiging.
+우리 모델이 차별한다고 하시네요. 무거운 비난이에요.
+Priya: Het is geen beschuldiging. Het is een bevinding. Hier zijn de cijfers. Drie keer zoveel onderzoeken, dezelfde opbrengst.
+비난이 아니에요. 조사 결과예요. 여기 숫자가 있어요. 조사는 세 배, 성과는 같음.
+Wethouder: (leest lang) Dat was nooit de bedoeling. Wij wilden juist objectiever werken dan vroeger.
+(한참 읽으며) 그건 결코 의도가 아니었어요. 우리는 오히려 예전보다 더 객관적으로 일하고 싶었어요.
+Priya: Dat geloof ik. En dat schrijven we ook op. Maar bedoeling is niet hetzelfde als effect.
+그렇게 믿어요. 그것도 적을게요. 하지만 의도와 결과는 같지 않아요.
+Wethouder: Wat moet ik nu doen?
+그럼 저는 이제 어떻게 해야 하죠?
+Priya: Dat is aan u en de raad. Wij stellen vast dat het model in de huidige vorm een groep onevenredig hard raakt, zonder dat het meer fraude vindt. En dat er drie jaar geleden al een interne waarschuwing was.
+그건 부시장님과 시의회가 정할 일이에요. 저희는 현재 형태의 모델이 부정수급을 더 찾아내지도 못하면서 한 집단에 불균형적으로 큰 피해를 준다는 것을 확인했어요. 그리고 3년 전에 이미 내부 경고가 있었다는 것도요.
+Wethouder: (stil) Van wie?
+(조용히) 누구한테서요?
+Priya: Van de ontwikkelaar zelf. Er is een mail.
+개발자 본인한테서요. 메일이 있어요.
+Wethouder: (sluit zijn ogen) Dit raakt aan grondrechten. Dat begrijp ik. Ik wil reageren in het rapport.
+(눈을 감으며) 이건 기본권에 관한 문제네요. 이해해요. 보고서에 답변을 싣고 싶어요.
+Priya: Dat kan. Letterlijk.
+그러세요. 그대로 실을게요.
+Wethouder: "De wethouder erkent de bevindingen. Hij heeft opdracht gegeven het model per direct stop te zetten in afwachting van het debat in de raad."
+"부시장은 조사 결과를 인정한다. 그는 시의회 토론 결과가 나올 때까지 모델을 즉시 중단하라고 지시했다."
+— Scène 7: Bij Priya's moeder in Den Haag, de avond voor de presentatie (발표 전날 밤, 헤이그 프리야의 어머니 집) —
+Moeder van Priya: Je eet niet. Je eet altijd als je zenuwachtig bent. Nu niet. Wat is er?
+밥을 안 먹네. 너는 긴장하면 늘 먹잖아. 오늘은 안 먹고. 무슨 일이야?
+Priya: Morgen presenteer ik een onderzoek. Alleen. Voor de gemeenteraad van Westerburg. Over de bijstand.
+내일 조사 결과를 발표해요. 혼자서요. 베스테르뷔르흐 시의회 앞에서요. 생계 지원에 관한 거예요.
+Moeder van Priya: (legt haar lepel neer) De bijstand.
+(숟가락을 내려놓으며) 생계 지원이라.
+Priya: Mam, toen wij in de bijstand zaten, toen ik klein was. Werd jij ook onderzocht?
+엄마, 우리가 생계 지원 받을 때, 제가 어렸을 때요. 엄마도 조사받았어요?
+Moeder van Priya: (na een lange stilte) Twee keer. Jij was zes. Je zat onder de tafel met je knuffel, terwijl een man in mijn kast keek.
+(긴 침묵 끝에) 두 번. 너는 여섯 살이었어. 어떤 남자가 내 옷장을 들여다보는 동안 넌 인형을 안고 식탁 밑에 앉아 있었지.
+Priya: (stil) Dat weet ik niet meer.
+(조용히) 기억 안 나요.
+Moeder van Priya: Gelukkig. Ik wel. Ik heb me nooit zo klein gevoeld. Daarna heb ik twee banen genomen. Schoonmaken en in de toko van je oom. Zodat dat nooit meer zou gebeuren.
+다행이다. 나는 기억해. 그때만큼 작아진 기분은 처음이었어. 그 뒤로 일을 두 개 했어. 청소랑 네 삼촌 가게 일. 다시는 그런 일이 없게.
+Priya: Waarom heb je het me nooit verteld?
+왜 한 번도 말 안 했어요?
+Moeder van Priya: Omdat je moest leren, niet je schamen. (pakt haar hand) En wat ga je morgen zeggen?
+너는 부끄러워할 게 아니라 공부해야 했으니까. (손을 잡으며) 그래서 내일은 뭐라고 할 거야?
+Priya: Dat het systeem vrouwen zoals jij drie keer zo vaak onderzoekt. Zonder dat er meer fraude wordt gevonden.
+엄마 같은 여성들을 시스템이 세 배 더 자주 조사한다고요. 부정수급을 더 찾아내지도 못하면서요.
+Moeder van Priya: (knikt langzaam) Zeg het rustig. Zonder boosheid. Dan geloven ze je.
+(천천히 고개를 끄덕이며) 차분하게 말해. 화내지 말고. 그래야 믿어.
+Priya: Dat zegt Femke ook.
+펨커도 그렇게 말해요.
+Moeder van Priya: Dan is Femke een verstandige vrouw. (schuift het bord naar haar toe) En nu eten. Morgen heb je energie nodig.
+그럼 펨커는 현명한 사람이구나. (접시를 그녀 쪽으로 밀며) 이제 먹어. 내일은 힘이 필요하잖아.
+Priya: (glimlacht voor het eerst die avond) Ja, mam.
+(그날 밤 처음으로 미소 지으며) 네, 엄마.
+— Scène 8: De commissievergadering van de gemeenteraad (시의회 위원회 회의) —
+Voorzitter: Mevrouw Ramdin, u heeft het woord.
+람딘 씨, 발언하시죠.
+Priya: (staat op, kijkt even naar de tribune waar Femke en Thijs zitten) Dank u. Ik begin met de conclusie. Het risicomodel voor de bijstand selecteert alleenstaande moeders met een migratieachtergrond drie keer zo vaak voor een heronderzoek als andere bijstandsgerechtigden. Bij hen wordt niet meer fraude gevonden.
+(일어서서 펨커와 테이스가 앉은 방청석을 잠깐 바라보며) 감사합니다. 결론부터 말씀드리겠습니다. 생계 지원 위험 모델은 이민 배경이 있는 한부모 엄마를 다른 수급자보다 세 배 더 자주 재조사 대상으로 선택합니다. 그들에게서 더 많은 부정수급이 발견되지는 않습니다.
+Raadslid: Hoe kan dat, als het model geen nationaliteit gebruikt?
+모델이 국적을 쓰지 않는데 어떻게 그럴 수 있죠?
+Priya: Omdat andere kenmerken samen dezelfde groep aanwijzen. Taalbeheersing, de wijk, de gezinssituatie, en opmerkingen van consulenten zoals "cultureel bepaald". Een algoritme hoeft niet naar afkomst te vragen om op afkomst te selecteren.
+다른 특성들이 합쳐져 같은 집단을 가리키기 때문입니다. 언어 능력, 동네, 가족 상황, 그리고 "문화적으로 규정된" 같은 상담원 메모. 알고리즘은 출신을 묻지 않고도 출신으로 선별할 수 있습니다.
+Raadslid 2: Was dit te voorzien?
+이건 예견할 수 있었나요?
+Priya: De ontwikkelaar heeft drie jaar geleden gewaarschuwd. Dat is niet opgevolgd. Er is nooit getoetst of het model groepen ongelijk behandelt. Alleen of het privacy respecteerde.
+개발자가 3년 전에 경고했습니다. 후속 조치는 없었습니다. 모델이 집단을 불평등하게 대하는지는 한 번도 검증되지 않았습니다. 개인정보를 존중하는지만 검증했죠.
+Raadslid 3: Is het hetzelfde als de toeslagenaffaire?
+보육수당 스캔들과 같은 건가요?
+Priya: Dat oordeel laat ik aan u. Wat ik kan zeggen: het mechanisme lijkt op elkaar. Een systeem dat bedoeld was om eerlijker te zijn, maakte een groep onevenredig verdacht. En de mensen wisten niet waarom.
+그 판단은 여러분께 맡기겠습니다. 제가 말씀드릴 수 있는 건, 작동 방식이 닮았다는 것입니다. 더 공정해지려고 만든 시스템이 한 집단을 불균형적으로 의심스럽게 만들었습니다. 그리고 사람들은 이유를 몰랐습니다.
+Raadslid 3: Wat raadt u aan?
+무엇을 권하세요?
+Priya: Binnen ons onderzoek kunnen we zeggen wat ontbrak. Een toets op discriminatie, vooraf en elk jaar. Uitleg aan mensen waarom ze worden onderzocht. En een mens die elke selectie controleert, niet alleen een score. Of het model moet blijven bestaan, is aan u.
+조사 범위 안에서 무엇이 빠졌는지 말씀드릴 수 있습니다. 사전에, 그리고 매년 하는 차별 검증. 왜 조사받는지 당사자에게 하는 설명. 그리고 점수만이 아니라 모든 선택을 확인하는 사람. 모델을 계속 유지할지는 여러분이 정하실 일입니다.
+Voorzitter: (na een stilte) Dank u, mevrouw Ramdin. Dat was helder.
+(잠시 침묵 후) 감사합니다, 람딘 씨. 명확했습니다.
+Thijs: (op de tribune, zacht tegen Femke) Ze heeft geen woord teveel gezegd.
+(방청석에서 펨커에게 작게) 쓸데없는 말을 한마디도 안 했네요.
+Femke: (zacht, met tranen in haar ogen) Weet je nog, haar eerste vergadering bij Fietsmand? Ze zei niets.
+(작게, 눈물을 머금고) 기억나요? Fietsmand에서 프리야의 첫 회의. 아무 말도 못 했잖아요.
+Thijs: Nu zei ze precies genoeg.
+이젠 딱 필요한 만큼 말했네요.
+Samira: (komt na afloop naar Priya, met haar dochter) Mijn dochter wilde u iets geven.
+(회의 후 딸과 함께 프리야에게 다가오며) 딸이 뭘 드리고 싶대요.
+Dochter: (geeft een tekening) Dit bent u. U bent een computerdokter.
+(그림을 건네며) 이게 언니예요. 언니는 컴퓨터 의사예요.
+Priya: (kijkt lang naar de tekening, met tranen) Dan ga ik hem ophangen. Op de droge muur.
+(눈물을 머금고 그림을 오래 바라보며) 그럼 이거 걸어 둘게. 마른 벽에.
+
+## 주요 단어
+de bijstand | 더 베이스탄트 | 생계 지원(기초생활보장)
+de bijstandsgerechtigde | 더 베이스탄츠허레흐터흐더 | 생계 지원 수급자
+het heronderzoek | 헷 헤르온더르죽 | 재조사
+het risicomodel | 헷 리시코모델 | 위험 모델
+de risicoscore | 더 리시코스코러 | 위험 점수
+het kenmerk | 헷 켄메르크 | 특성, 변수
+de consulent | 더 콘쉴렌트 | (사회복지) 상담원
+de terugvordering | 더 터뤼흐포르더링 | 환수
+willekeurig | 빌러쾨러흐 | 자의적인, 무작위의
+onevenredig | 온에이번레이더흐 | 불균형적인, 과도한
+vernederend | 버르네이더런트 | 굴욕적인
+de grondrechten | 더 흐론트레흐턴 | 기본권
+de toeslagenaffaire | 더 투슬라헌아페러 | 보육수당 스캔들
+de statisticus | 더 스타티스티퀴스 | 통계학자
+stopzetten → heeft stopgezet | 스톱제턴 → 헤이프트 스톱허제트 | 중단하다
+
+## 표현·문법 정리
+**Het systeem discrimineert:** "시스템이 차별한다." 비난이 아니라 측정된 결과(세 배 선택, 같은 적발률)로 뒷받침될 때만 쓸 수 있는 결론.
+**Dat was nooit de bedoeling:** "그건 결코 의도가 아니었다." 책임자의 전형적 첫 반응.
+**Bedoeling is niet hetzelfde als effect:** "의도와 결과는 같지 않다." 알고리즘 감사의 핵심 원칙.
+**Op welke gronden?:** "무슨 근거로요?" grond = 근거, 이유. Op grond van… = ~에 근거하여.
+**Dit raakt aan grondrechten:** "이건 기본권에 관한(닿는) 문제다." raken aan = ~에 닿다, 관련되다.
+**Het is geen beschuldiging. Het is een bevinding:** "비난이 아니라 조사 결과다." 감사 언어의 핵심 구분.
+**in afwachting van:** "~을 기다리는 동안, ~까지." in afwachting van het debat in de raad.
+**samenhangen met:** "~와 연관되다." Kenmerken die met nationaliteit samenhangen.
+**Je hebt er goed aan gedaan om…:** "~한 건 잘한 일이다." ergens goed aan doen.
+**Ik ben gaan zwijgen:** "입을 다물어 버렸다." gaan + 부정사의 현재완료(ben gaan zwijgen) = ~하기 시작했다.
+**Een algoritme hoeft niet naar afkomst te vragen om op afkomst te selecteren:** "알고리즘은 출신을 묻지 않고도 출신으로 선별할 수 있다." hoeven niet … te + 부정사.
+**geen woord teveel:** "쓸데없는 말 한마디 없이." 정확히는 te veel로 띄어 쓰는 경우가 많습니다.
+**Dan weet u het:** "그럼 아시겠네요." 공감의 표현.
+
+## 컨설팅 스킬 노트
+**알고리즘 감사 네 칸:** ① 목적(무엇을 위해 만들었나: 더 공정한 선별) ② 입력(어떤 특성을 쓰나: 언어, 동네, 가족, 자유 텍스트) ③ 결과(누가 선택되고, 무엇이 발견되나: 3배 선택, 같은 12%) ④ 사람의 개입(누가 확인하고, 당사자에게 설명하나: 없음).
+**대리 변수(proxy) 찾기:** 국적을 빼도 국적과 연관된 특성들이 합쳐지면 같은 집단을 가리킵니다. 입력 목록만 보지 말고 결과를 집단별로 나눠 봐야 합니다.
+**효과의 근거 확인:** "더 효율적"이라는 주장에 대해 "모델 이전과 비교해 더 많이 찾나?"를 묻습니다. 같은 적발률에 세 배의 조사라면 효율이 아니라 부담의 이동입니다.
+**분노와 분석의 분리:** 개인적 경험이 있을수록 외부 검증(독립 통계학자)을 거칩니다. 그리고 발견을 가장 잘 아는 사람이 직접 발표하게 하는 것이 리더의 역할입니다.
