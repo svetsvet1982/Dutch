@@ -1,0 +1,291 @@
+# 3부 2화. Schimmel in de boeken (장부 속의 곰팡이)
+수준: 중상급~고급 (B2~C1) | 장소: 주택조합 Woonstede Zaanstreek 본사 → 유지보수부 → HBR 창고 사무실 → 카페(전직 직원) → 대표이사실 | 시간: 6년차 1월 ~ 2월
+배경 현안: 주택조합의 유지보수 부실과 곰팡이·습기 문제, 신규 주택 건설 목표와 유지보수 예산의 충돌, 성과지표(KPI)의 왜곡
+핵심 표현: Uit de stukken blijkt… · Wanneer wist u dit? · Dat is mij niet bekend · Kunt u dat toelichten? · Voor zover ik weet…
+💼 스킬: 감사 인터뷰 설계(열린 질문 → 문서 대조 → 시점 확인)
+
+## 대화
+— Scène 1: De kick-off bij Woonstede Zaanstreek (Woonstede Zaanstreek 착수 회의) —
+Robert: Welkom. Ik ben Robert Swart, bestuurder van Woonstede. Ik wil vooraf zeggen: ik werk volledig mee. Wij hebben niets te verbergen.
+환영합니다. Woonstede 대표이사 로버르트 스바르트입니다. 미리 말씀드리자면, 전적으로 협조하겠습니다. 숨길 게 없어요.
+Femke: Dank u. Dat waarderen we. Mag ik eerst vragen hoe u zelf het schimmelprobleem ziet?
+감사합니다. 고맙게 생각해요. 먼저 대표님께서 곰팡이 문제를 어떻게 보시는지 여쭤봐도 될까요?
+Robert: Het is een bekend probleem in oudere woningen. Maar het komt vaak ook door het gedrag van bewoners. Ze drogen de was binnen, ze luchten niet. Dat zien we overal.
+오래된 주택에선 잘 알려진 문제예요. 하지만 거주자 행동 때문인 경우도 많아요. 빨래를 실내에서 말리고, 환기를 안 하죠. 어디서나 보는 일이에요.
+Femke: Kunt u dat toelichten? Hoe weet u dat het aan het gedrag ligt?
+조금 더 설명해 주시겠어요? 거주자 행동 때문이라는 걸 어떻게 아세요?
+Robert: Dat zeggen onze opzichters. Zij komen bij de mensen thuis.
+우리 현장 감독관들이 그렇게 말해요. 그 사람들이 집에 직접 가니까요.
+Thijs: Heeft u dat ooit laten onderzoeken? Door een bouwkundige, bijvoorbeeld?
+그걸 조사해 본 적 있으세요? 예를 들어 건축 전문가를 통해서요?
+Robert: (aarzelt) Niet systematisch. Daar was geen budget voor.
+(머뭇거리며) 체계적으로는 아니에요. 그럴 예산이 없었어요.
+Femke: Hoeveel schimmelmeldingen kreeg Woonstede vorig jaar?
+작년에 Woonstede에 곰팡이 신고가 몇 건 들어왔어요?
+Robert: Voor zover ik weet een paar honderd. Waarvan het overgrote deel binnen twee dagen is afgehandeld. Dat is een mooie prestatie.
+제가 알기로는 몇백 건이요. 그중 대부분은 이틀 안에 처리됐어요. 훌륭한 성과죠.
+Priya: Afgehandeld betekent?
+처리됐다는 건 무슨 뜻이에요?
+Robert: Dat de melding is gesloten. Een opzichter is langs geweest, heeft advies gegeven.
+신고가 종결됐다는 거예요. 감독관이 방문해서 조언을 했다는 거죠.
+Priya: En is de schimmel daarna weg?
+그 뒤에 곰팡이는 없어지나요?
+Robert: Dat hangt van de bewoner af.
+그건 거주자에게 달렸죠.
+Femke: Dank u. Dat helpt ons om te begrijpen hoe het systeem werkt. Wij willen de komende weken met verschillende mensen spreken. Uw opzichters, de afdeling onderhoud, het klantcontactcentrum, en een aantal bewoners.
+감사합니다. 시스템이 어떻게 돌아가는지 이해하는 데 도움이 돼요. 앞으로 몇 주 동안 여러 사람과 이야기하고 싶어요. 감독관들, 유지보수부, 고객센터, 그리고 일부 거주자들이요.
+Robert: Natuurlijk. Mijn secretaresse plant alles in. En ik wil graag bij de gesprekken met mijn medewerkers aanwezig zijn.
+물론이죠. 제 비서가 일정을 다 잡을 거예요. 그리고 직원들과의 면담엔 제가 함께 있고 싶어요.
+Femke: Dat gaat helaas niet. De gesprekken zijn vertrouwelijk. Mensen moeten vrijuit kunnen spreken. Dat hebben we met de raad van toezicht afgesproken.
+안타깝지만 그건 안 됩니다. 면담은 비공개예요. 사람들이 자유롭게 말할 수 있어야 하거든요. 감독이사회와 그렇게 합의했어요.
+Robert: (kort stilte) Ik begrijp het. Ik heb het niet zo bedoeld.
+(잠깐 침묵) 이해해요. 그런 뜻은 아니었어요.
+Thijs: Wij willen ook graag alle stukken over onderhoud van de afgelopen vijf jaar. Begrotingen, contracten met aannemers, rapportages aan het bestuur en de raad.
+그리고 지난 5년간 유지보수 관련 문서를 전부 받고 싶어요. 예산, 시공사 계약서, 이사회와 감독이사회 보고서요.
+Robert: Vijf jaar? Dat is veel.
+5년이요? 많네요.
+Thijs: Dat is nodig. Een probleem dat vier jaar duurt, begint niet vorig jaar.
+필요해요. 4년째 이어진 문제는 작년에 시작된 게 아니니까요.
+Robert: Goed. U krijgt alles.
+알겠어요. 전부 드리죠.
+Femke: (na afloop, op de gang, zacht) "Wij hebben niets te verbergen." Waarom zeggen mensen dat altijd als eerste zin?
+(회의 후 복도에서, 작게) "숨길 게 없다." 사람들은 왜 늘 첫 문장으로 그 말을 할까요?
+Thijs: Omdat ze bang zijn dat er wel iets is.
+뭔가 있을까 봐 겁나니까요.
+— Scène 2: Interview met het hoofd onderhoud (유지보수부장 인터뷰) —
+Kees: Kees de Ridder. Ik werk hier achttien jaar. Waar wilt u beginnen?
+케이스 더 리더르예요. 여기서 18년 일했어요. 어디서부터 시작할까요?
+Femke: Bij u. Hoe ziet uw werk eruit?
+케이스 씨부터요. 일이 어떻게 돌아가요?
+Kees: Ik ben verantwoordelijk voor het onderhoud van achtduizend woningen. Ik heb een budget, een team van opzichters en contracten met aannemers.
+주택 8천 채의 유지보수를 책임지고 있어요. 예산이 있고, 감독관 팀이 있고, 시공사들과 계약이 있어요.
+Femke: Hoe is dat budget de afgelopen jaren veranderd?
+지난 몇 년 동안 그 예산은 어떻게 바뀌었어요?
+Kees: (zucht) Het is vijf jaar op rij verlaagd. Het geld ging naar nieuwbouw. De corporatie heeft afspraken gemaakt met de gemeente over nieuwe woningen. Iedereen wil nieuwe woningen.
+(한숨) 5년 연속 깎였어요. 그 돈은 신축으로 갔어요. 주택조합이 시와 신규 주택 건설 약속을 했거든요. 다들 새 집을 원하니까요.
+Thijs: Met hoeveel is het verlaagd?
+얼마나 깎였어요?
+Kees: Ongeveer een kwart. Terwijl de woningen elk jaar ouder worden.
+4분의 1 정도요. 집들은 해마다 더 낡아 가는데요.
+Femke: Hoe worden schimmelmeldingen afgehandeld?
+곰팡이 신고는 어떻게 처리돼요?
+Kees: Een bewoner meldt het bij het klantcontactcentrum. Dan gaat er een opzichter langs. Als het om een klein probleem gaat, geeft hij advies. Als het groter is, maakt hij een werkorder voor de aannemer.
+거주자가 고객센터에 신고해요. 그럼 감독관이 방문하죠. 작은 문제면 조언을 해요. 더 크면 시공사에 작업 지시를 내리고요.
+Femke: En wanneer wordt de melding gesloten?
+신고는 언제 종결돼요?
+Kees: Na het bezoek van de opzichter.
+감독관 방문 후에요.
+Priya: Dus ook als er een werkorder voor de aannemer ligt die nog niet is uitgevoerd?
+그러니까 아직 수행되지 않은 시공사 작업 지시가 있어도요?
+Kees: (stilte) Ja. Dan staat de melding als afgehandeld. De werkorder loopt apart.
+(침묵) 네. 그럼 신고는 처리 완료로 표시돼요. 작업 지시는 따로 진행되고요.
+Femke: Waarom is het zo ingericht?
+왜 그렇게 설계됐어요?
+Kees: Omdat er een prestatie-indicator is: tachtig procent van de meldingen moet binnen twee dagen afgehandeld zijn. Dat rapporteren we elk kwartaal aan het bestuur.
+성과지표가 있으니까요. 신고의 80%는 이틀 안에 처리돼야 해요. 그걸 분기마다 집행이사회에 보고하고요.
+Thijs: En wordt er ook gerapporteerd hoeveel werkorders niet zijn uitgevoerd?
+그럼 수행되지 않은 작업 지시가 몇 건인지도 보고돼요?
+Kees: Nee. Dat staat er niet in.
+아니요. 그건 안 들어가요.
+Femke: Wat je meet, krijg je.
+측정하는 것을 얻게 되죠.
+Kees: (kijkt op) Dat zeg ik al jaren.
+(고개를 들며) 제가 몇 년째 하는 말이에요.
+Femke: Tegen wie?
+누구한테요?
+Kees: Tegen mijn directeur. En één keer tegen de bestuurder.
+제 상사한테요. 그리고 한 번은 대표이사한테도요.
+Femke: Wanneer was dat?
+그게 언제였어요?
+Kees: (denkt na) Twee jaar geleden. In een mail. Na een rapport van de GGD over een kind met longproblemen in een van onze woningen.
+(생각하며) 2년 전이요. 메일로요. 우리 집에 사는 아이가 폐 질환이 있다는 지역 보건청 보고서가 나온 뒤에요.
+Femke: Heeft u die mail nog?
+그 메일 아직 갖고 계세요?
+Kees: (lange stilte) Ja.
+(긴 침묵) 네.
+— Scène 3: Interview met een opzichter (현장 감독관 인터뷰) —
+Gert: Ik weet niet of ik dit allemaal mag zeggen.
+이걸 다 말해도 되는지 모르겠어요.
+Femke: Wat u zegt, gebruiken we zonder uw naam. Dat is afgesproken met de raad van toezicht. U hoeft niets te zeggen wat u niet wilt.
+말씀하신 내용은 이름 없이 사용해요. 감독이사회와 그렇게 합의했어요. 원하지 않는 말은 안 하셔도 돼요.
+Gert: (knikt) Goed. Ik doe gemiddeld twaalf huisbezoeken per dag. Vijf jaar geleden waren het er zes.
+(고개를 끄덕이며) 좋아요. 하루 평균 열두 집을 방문해요. 5년 전엔 여섯 집이었어요.
+Thijs: Twaalf per dag? Hoeveel tijd per bezoek?
+하루 열두 집이요? 방문당 시간이 얼마나 돼요?
+Gert: Een half uur, inclusief rijden. Dan kun je niet veel meer doen dan kijken en advies geven.
+운전 포함해서 30분이요. 그럼 보고 조언하는 것 말고는 별로 할 수 있는 게 없어요.
+Femke: En als u ziet dat het niet aan het luchten ligt? Een lekkend dak, slechte isolatie?
+환기 문제가 아니라는 게 보이면요? 새는 지붕이나 단열 불량 같은 거요?
+Gert: Dan zou ik een werkorder moeten maken. Maar we kregen de instructie om dat alleen te doen bij "acute gevallen". Het budget was op.
+그럼 작업 지시를 내려야죠. 그런데 "긴급한 경우"에만 그렇게 하라는 지시를 받았어요. 예산이 바닥났거든요.
+Femke: Van wie kwam die instructie?
+그 지시는 누가 내렸어요?
+Gert: Van mijn leidinggevende. Op een werkoverleg, drie jaar geleden. Het staat in de notulen, denk ik.
+제 상사요. 3년 전 업무 회의에서요. 회의록에 있을 거예요.
+Priya: Wat is een acuut geval?
+긴급한 경우가 뭐예요?
+Gert: Dat is nooit precies gedefinieerd. In de praktijk: als er water door het plafond komt. Schimmel is langzaam. Die is nooit acuut.
+정확히 정의된 적이 없어요. 실제로는 천장으로 물이 샐 때요. 곰팡이는 천천히 퍼지니까 절대 긴급한 게 아니죠.
+Femke: Hoe voelt u zich daarbij?
+그런 상황에서 기분이 어떠세요?
+Gert: (lange stilte) Ik heb zelf kinderen. Ik kom bij mensen thuis en ik zie het zwart op de muur. En ik zeg: u moet vaker luchten. Ik schaam me ervoor.
+(긴 침묵) 저도 아이가 있어요. 남의 집에 가서 벽에 시커먼 걸 보면서 "환기를 더 자주 하세요"라고 말해요. 부끄러워요.
+Femke: Dank u voor uw eerlijkheid. Dit helpt ons echt.
+솔직하게 말씀해 주셔서 감사합니다. 정말 도움이 돼요.
+— Scène 4: Het pakhuis in de Houthavens (하우트하번스 창고) —
+Priya: Ik heb de systemen van Woonstede doorgelopen. Vijf jaar meldingen en werkorders.
+Woonstede 시스템을 다 훑어봤어요. 5년치 신고와 작업 지시요.
+Femke: En?
+그래서요?
+Priya: Uit de stukken blijkt dat er de afgelopen vijf jaar ruim tweeduizend schimmelmeldingen zijn geweest. Niet een paar honderd. Meer dan tweeduizend.
+문서에 따르면 지난 5년간 곰팡이 신고가 2천 건이 넘어요. 몇백 건이 아니라 2천 건 이상이요.
+Thijs: En de raad van toezicht kreeg te horen: een paar tientallen.
+그런데 감독이사회는 몇십 건이라고 들었고요.
+Priya: Omdat in de rapportage alleen staat hoeveel meldingen er zijn "geëscaleerd". Dat is een andere categorie.
+보고서에는 "상부 보고된" 신고 건수만 나오니까요. 그건 다른 범주예요.
+Femke: En hoeveel van die tweeduizend zijn echt opgelost?
+그럼 2천 건 중에 실제로 해결된 건 몇 건이에요?
+Priya: Dat is het rare. Negenennegentig procent staat als afgehandeld. Maar bij ruim elfhonderd meldingen kwam dezelfde bewoner binnen een jaar terug met hetzelfde probleem.
+그게 이상한 점이에요. 99%가 처리 완료로 돼 있어요. 그런데 1,100건 넘게는 같은 거주자가 1년 안에 같은 문제로 다시 신고했어요.
+Thijs: Elfhonderd keer dezelfde klacht opnieuw.
+같은 민원이 1,100번 다시 들어왔다고요.
+Priya: En de werkorders: zeshonderd werkorders voor schimmelbestrijding zijn nooit uitgevoerd. Ze staan nog open. Sommige al drie jaar.
+그리고 작업 지시는요. 곰팡이 제거 작업 지시 600건이 한 번도 수행되지 않았어요. 아직 열려 있어요. 일부는 3년째요.
+Femke: (stil) Zeshonderd gezinnen die wachten.
+(조용히) 기다리고 있는 가족이 600가구네요.
+Femke: En de aannemer?
+그럼 시공사는요?
+Thijs: (bladert door een contract) Hier. De aannemer krijgt een vast bedrag per jaar, ongeacht hoeveel werk hij doet. En het contract is drie jaar geleden verlengd zonder aanbesteding.
+(계약서를 넘기며) 여기요. 시공사는 일을 얼마나 하든 상관없이 연간 고정 금액을 받아요. 그리고 계약이 3년 전에 입찰 없이 연장됐어요.
+Femke: Wie heeft dat getekend?
+누가 서명했어요?
+Thijs: De bestuurder. Robert Swart.
+대표이사요. 로버르트 스바르트.
+Femke: We moeten voorzichtig zijn. Dat is nog geen bewijs van iets verkeerds. Het kan een slecht contract zijn, zonder kwade opzet.
+신중해야 해요. 그게 잘못을 증명하는 건 아니에요. 악의 없이 그냥 나쁜 계약일 수도 있어요.
+Priya: Hoe weten we het verschil?
+그 차이는 어떻게 알아요?
+Femke: Door te vragen wat hij wist en wanneer. Niet door te raden.
+그가 무엇을 언제 알았는지 묻는 거죠. 추측하는 게 아니라.
+— Scène 5: Een café in Zaandam, met een oud-medewerker (자안담의 카페, 전직 직원과) —
+Linda: Ik werk er sinds een jaar niet meer. Ik kon het niet meer aanzien.
+1년 전부터 거기서 일 안 해요. 더는 못 보겠더라고요.
+Femke: U werkte bij het klantcontactcentrum?
+고객센터에서 일하셨죠?
+Linda: Zes jaar. Ik heb duizenden telefoontjes gehad over schimmel. Moeders die huilden. Een oude man die niet meer in zijn slaapkamer durfde te slapen.
+6년이요. 곰팡이 때문에 전화를 수천 통 받았어요. 우는 엄마들. 더 이상 침실에서 잘 엄두를 못 내던 할아버지.
+Femke: Wat werd er van u verwacht?
+무엇을 하라고 요구받았어요?
+Linda: Dat we de meldingen snel afsloten. We kregen elke week een overzicht met wie het snelst was. Wie te veel open meldingen had, moest bij de teamleider komen.
+신고를 빨리 종결하라는 거요. 매주 누가 제일 빨랐는지 표를 받았어요. 미결 신고가 너무 많은 사람은 팀장한테 불려 갔어요.
+Thijs: Ook als het probleem niet was opgelost?
+문제가 해결되지 않았어도요?
+Linda: Vooral dan. Er was een standaardtekst: "Uw melding is afgehandeld. Wij adviseren u om dagelijks te ventileren."
+특히 그럴 때요. 정해진 문구가 있었어요. "신고가 처리되었습니다. 매일 환기하실 것을 권합니다."
+Femke: Heeft u daar ooit iets van gezegd?
+그것에 대해 말한 적 있어요?
+Linda: Twee keer. Tegen mijn teamleider. Ze zei: "Dat komt van boven. Daar kan ik niets aan doen."
+두 번이요. 팀장한테요. "위에서 내려온 거예요. 나도 어쩔 수 없어요"라고 하더라고요.
+Femke: Van boven. Weet u wie ze bedoelde?
+위에서라. 누구를 말하는 건지 아세요?
+Linda: Dat is mij niet bekend. Ik heb de bestuurder nooit gesproken. Ik weet alleen dat de cijfers in elk kwartaalbericht stonden. Groen. Altijd groen.
+그건 모르겠어요. 대표이사와는 한 번도 이야기해 본 적 없어요. 분기 보고서마다 그 숫자가 나왔다는 것만 알아요. 초록색이요. 항상 초록색.
+Priya: Mag ik u iets vragen? Waarom praat u nu met ons?
+하나 여쭤봐도 될까요? 왜 지금 저희와 이야기하세요?
+Linda: Omdat iemand eindelijk vraagt. En omdat ik een van die moeders was. Ik woon zelf in een woning van Woonstede.
+드디어 누가 물어봐 줘서요. 그리고 저도 그 엄마들 중 하나였거든요. 저도 Woonstede 집에 살아요.
+Femke: (zacht) Dank u. Wat u vertelt, gebruiken we zonder uw naam.
+(작게) 감사합니다. 말씀하신 내용은 이름 없이 사용할게요.
+Linda: Mijn naam mag erin. Ik ben niet meer bang.
+제 이름 넣어도 돼요. 이젠 무섭지 않아요.
+Femke: Dat beslist u later, als u het concept heeft gelezen. Niet vandaag.
+그건 나중에 초안을 읽고 결정하세요. 오늘 말고요.
+— Scène 6: Het tweede gesprek met de bestuurder (대표이사와의 두 번째 면담) —
+Robert: U wilde me nog een keer spreken. Ik begrijp dat u veel gegevens heeft bekeken.
+다시 보자고 하셨죠. 자료를 많이 보셨다고 들었어요.
+Femke: Dat klopt. Ik wil u een paar bevindingen voorleggen, en u de gelegenheid geven om te reageren.
+맞아요. 몇 가지 발견 사항을 말씀드리고, 대표님께 소명할 기회를 드리고 싶어요.
+Robert: Graag.
+좋아요.
+Femke: Uit de stukken blijkt dat er de afgelopen vijf jaar ruim tweeduizend schimmelmeldingen zijn geweest. In de rapportages aan de raad van toezicht stonden er tientallen. Kunt u dat verschil toelichten?
+문서에 따르면 지난 5년간 곰팡이 신고가 2천 건이 넘었어요. 감독이사회 보고서에는 몇십 건으로 나왔고요. 그 차이를 설명해 주시겠어요?
+Robert: Dat is een kwestie van definities. In de rapportage staan de ernstige gevallen.
+정의의 문제예요. 보고서엔 심각한 사례만 들어가요.
+Thijs: Wie bepaalde wat ernstig was?
+뭐가 심각한지는 누가 정했어요?
+Robert: Het systeem. Op basis van de opzichter.
+시스템이요. 감독관 판단을 바탕으로요.
+Femke: Zeshonderd werkorders voor schimmelbestrijding zijn nooit uitgevoerd. Sommige staan al drie jaar open. Wist u dat?
+곰팡이 제거 작업 지시 600건이 수행되지 않았어요. 일부는 3년째 열려 있고요. 알고 계셨어요?
+Robert: Dat is mij niet bekend. Dat is operationeel. Daar ga ik als bestuurder niet over.
+그건 몰랐어요. 그건 운영 사항이에요. 대표이사로서 제가 관여하는 일이 아니에요.
+Femke: Wanneer wist u dit?
+이걸 언제 아셨어요?
+Robert: Ik zei net: dat wist ik niet.
+방금 말했잖아요. 몰랐다고요.
+Femke: (legt een geprinte mail op tafel) Dit is een mail van Kees de Ridder aan u, van twee jaar geleden. Onderwerp: "Zorgen over openstaande schimmelwerkorders en gezondheidsrisico's." Hij noemt het aantal. Vierhonderdtwintig, op dat moment.
+(출력한 메일을 테이블에 놓으며) 이건 2년 전 케이스 더 리더르가 대표님께 보낸 메일이에요. 제목은 "미결 곰팡이 작업 지시와 건강 위험에 대한 우려." 그때의 건수도 적혀 있어요. 420건이요.
+Robert: (leest, wordt bleek) Ik… ik krijg honderden mails per week.
+(읽으며 창백해진다) 저는… 일주일에 메일을 수백 통 받아요.
+Femke: U heeft op deze mail geantwoord. (legt een tweede vel neer) Uw antwoord: "Dank je, Kees. We pakken dit op na de afronding van het nieuwbouwprogramma."
+대표님은 이 메일에 답장하셨어요. (두 번째 종이를 내려놓으며) 대표님 답장은 이거예요. "고마워요, 케이스. 신축 프로그램이 끝나면 처리합시다."
+Robert: (lange stilte) Dat is twee jaar geleden.
+(긴 침묵) 그건 2년 전이에요.
+Femke: Is het nieuwbouwprogramma afgerond?
+신축 프로그램은 끝났나요?
+Robert: (zacht) Nee.
+(작게) 아니요.
+Thijs: En het contract met de aannemer is in diezelfde maand verlengd. Zonder aanbesteding.
+그리고 시공사와의 계약이 바로 그달에 입찰 없이 연장됐어요.
+Robert: Dat had niets met elkaar te maken. Er was geen tijd voor een aanbesteding. We hadden andere prioriteiten.
+그건 서로 관계없어요. 입찰할 시간이 없었어요. 다른 우선순위가 있었으니까요.
+Femke: Dank u. Ik schrijf uw reactie letterlijk op. U krijgt het conceptrapport voordat het af is, en u mag op de feiten reageren.
+감사합니다. 대표님의 답변을 그대로 기록할게요. 보고서가 완성되기 전에 초안을 받아 보시고, 사실관계에 대해 의견을 내실 수 있어요.
+Robert: (kijkt op) U gaat toch niet schrijven dat ik… dat ik verantwoordelijk ben voor zieke kinderen?
+(고개를 들며) 설마 제가… 아픈 아이들에게 책임이 있다고 쓰시는 건 아니죠?
+Femke: Wij schrijven wat we hebben vastgesteld. Wat u wist, wanneer, en wat er daarna gebeurde. De conclusies daarover trekt de raad van toezicht. Niet wij.
+저희는 확인한 것을 씁니다. 무엇을 언제 아셨는지, 그리고 그 후에 무슨 일이 있었는지. 그에 대한 결론은 감독이사회가 내립니다. 저희가 아니라요.
+Robert: (na een stilte) Ik had het moeten oppakken.
+(잠시 침묵 후) 처리했어야 했어요.
+Femke: Dat is ook een reactie. Die schrijf ik ook op, als u dat wilt.
+그것도 하나의 답변이네요. 원하시면 그것도 기록할게요.
+Robert: (sluit zijn ogen) Schrijf het op.
+(눈을 감으며) 적으세요.
+
+## 주요 단어
+de woningcorporatie | 더 보닝코르포라치 | 주택조합(사회주택 공급 기관)
+de bestuurder | 더 버스타위르더르 | (단독) 대표이사
+de opzichter | 더 옵지흐터르 | 현장 감독관
+de melding | 더 멜딩 | 신고
+de werkorder | 더 베르크오르더르 | 작업 지시
+afgehandeld | 아프허한덜트 | 처리 완료된
+de prestatie-indicator | 더 프레스타치인디카토르 | 성과지표(KPI)
+de nieuwbouw | 더 니우바우 | 신축
+de aannemer | 더 안네이머르 | 시공사, 건설 업체
+de aanbesteding | 더 안버스테딩 | 공개 입찰
+de GGD | 더 헤이헤이데이 | 지역 보건청
+de bouwkundige | 더 바우퀸더허 | 건축 전문가
+de kwade opzet | 더 크바더 옵제트 | 악의, 고의
+vaststellen → heeft vastgesteld | 파스트스텔런 → 헤이프트 파스트허스텔트 | 확인하다, 확정하다
+het concept(rapport) | 헷 콘셉트(라포르트) | (보고서) 초안
+
+## 표현·문법 정리
+**Uit de stukken blijkt…:** "문서에 따르면 ~로 나타난다." 감사 보고의 핵심 문장. 의견이 아니라 증거에 기반한다는 신호.
+**Wanneer wist u dit?:** "이걸 언제 아셨어요?" 책임 소재를 가리는 결정적 질문. 시점이 핵심입니다.
+**Dat is mij niet bekend:** "그건 제가 알지 못합니다." 공식적이고 방어적인 답변. 문서와 대조할 수 있도록 그대로 기록합니다.
+**Kunt u dat toelichten?:** "그걸 설명해 주시겠어요?" 판단 없이 추가 설명을 요청하는 중립적 질문.
+**Voor zover ik weet…:** "제가 알기로는…" 확신을 피하는 hedging 표현. 상대가 이걸 쓰면 "근거가 뭐냐"고 확인할 지점입니다.
+**Daar ga ik niet over:** "그건 제 소관이 아닙니다." ergens over gaan = ~을 담당하다. 책임 회피의 흔한 표현.
+**Dat komt van boven:** "위에서 내려온 거예요." 지시의 출처를 흐리는 표현.
+**het overgrote deel:** "대부분." 대량을 강조하는 격식 표현.
+**ongeacht:** "~와 상관없이." ongeacht hoeveel werk hij doet.
+**iets niet meer kunnen aanzien:** "더는 지켜볼 수 없다."
+**de gelegenheid geven om te reageren:** "소명할 기회를 주다." 공정한 감사 절차(hoor en wederhoor)의 핵심.
+**de conclusies trekken:** "결론을 내리다." De raad van toezicht trekt de conclusies.
+**wordt bleek:** "창백해지다." worden + 형용사 = ~하게 되다.
+
+## 컨설팅 스킬 노트
+**감사 인터뷰의 세 단계:** ① 열린 질문으로 상대의 설명을 그대로 듣기("Hoe ziet u het probleem?") ② 문서와 대조하기("Uit de stukken blijkt…") ③ 시점을 확인하기("Wanneer wist u dit?"). 상대의 첫 답변을 반박하지 않고 기록해 두면 문서와의 차이가 드러납니다.
+**지표가 행동을 만든다:** "이틀 안 80% 처리"라는 KPI가 "환기하세요" 표준 답변과 미결 작업 지시 600건을 낳았습니다. 감사는 사람만이 아니라 측정 방식을 봅니다.
+**의심과 증거를 구분하기:** 입찰 없는 계약 연장은 의심스럽지만 그 자체로 부정의 증거는 아닙니다. "Het kan een slecht contract zijn, zonder kwade opzet." 추측 대신 질문합니다.
+**들을 기회 주기(hoor en wederhoor):** 피조사자에게 발견 사항을 직접 제시하고 답변을 그대로 기록하며, 초안에 대해 사실관계 의견을 낼 기회를 줍니다. 결론(책임 판단)은 의뢰인(감독이사회)이 내립니다.
