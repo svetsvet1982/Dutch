@@ -1,0 +1,289 @@
+# 1부 1화. Eerste dag op de Zuidas (주이다스 첫날)
+수준: 중급 (B1) | 장소: Keizer & Co 사무실(Zuidas) → Fietsmand 본사(암스테르담 노르트) → IJ 페리 | 시간: 9월 첫째 월요일
+배경 현안: 주거지역 다크스토어(배달 전용 창고) 규제, 배달원 고용 지위 논란
+핵심 표현: Welkom bij het team · Wat is de vraag achter de vraag? · Mag ik even doorvragen? · Ik ben benieuwd
+💼 스킬: 문제 정의(SCQ: 상황·문제·질문)와 첫 인터뷰
+
+## 대화
+— Scène 1: Kantoor van Keizer & Co, twaalfde verdieping (Keizer & Co 사무실, 12층) —
+Ingrid: Goedemorgen! Jullie zijn vast Thijs en Priya.
+좋은 아침이에요! 두 분이 테이스와 프리야죠?
+Thijs: Goedemorgen. Ja, ik ben Thijs Brouwer.
+좋은 아침입니다. 네, 저는 테이스 브라우어르입니다.
+Priya: En ik ben Priya Ramdin. Goedemorgen, mevrouw.
+그리고 저는 프리야 람딘이에요. 좋은 아침입니다.
+Ingrid: Zeg maar Ingrid, hoor. Hier zegt iedereen je en jij.
+그냥 잉그리드라고 불러요. 여기선 다들 말을 놓아요.
+Priya: O, oké. Dat is even wennen.
+아, 네. 좀 익숙해져야겠네요.
+Ingrid: Dat snap ik. Welkom bij Keizer & Co. Hebben jullie het kantoor al gevonden?
+이해해요. Keizer & Co에 오신 걸 환영해요. 사무실은 금방 찾았어요?
+Thijs: Ja, met de metro tot station Zuid. Het is hier wel druk.
+네, 지하철로 남역까지 왔어요. 여긴 꽤 붐비네요.
+Ingrid: Op maandagochtend is de Zuidas een mierennest. Iedereen heeft haast.
+월요일 아침의 주이다스는 개미집이에요. 다들 바쁘죠.
+Thijs: Bij de bank was dat ook zo. Alleen droegen we daar allemaal een stropdas.
+은행도 그랬어요. 다만 거기선 다들 넥타이를 맸죠.
+Ingrid: (lacht) Hier niet. Wij beoordelen je op je denkwerk, niet op je das.
+(웃으며) 여긴 아니에요. 우리는 넥타이가 아니라 생각하는 힘으로 평가해요.
+Priya: Dat is een geruststelling.
+그 말을 들으니 안심되네요.
+Ingrid: Thijs, jij hebt tien jaar bij een bank gewerkt, toch?
+테이스, 은행에서 10년 일했죠?
+Thijs: Klopt. Risicoanalyse, vooral kredieten aan bedrijven.
+맞습니다. 리스크 분석, 주로 기업 대출이요.
+Ingrid: Waarom ben je overgestapt?
+왜 이직했어요?
+Thijs: Ik wilde niet alleen rapporten schrijven. Ik wil zien dat er iets verandert.
+보고서만 쓰고 싶지 않았어요. 뭔가 바뀌는 걸 보고 싶어요.
+Ingrid: Goed antwoord. En jij, Priya? Jij komt net van de universiteit.
+좋은 대답이에요. 프리야는요? 막 대학을 졸업했죠.
+Priya: Ja, ik heb data science gestudeerd in Delft. Daarvoor een jaar rechten in Leiden.
+네, 델프트에서 데이터 사이언스를 공부했어요. 그 전에 레이던에서 1년 법학을 했고요.
+Ingrid: Rechten én data. Dat is een sterke combinatie.
+법학과 데이터라. 강한 조합이네요.
+Priya: Dank je. Ik hoop dat ik snel iets kan bijdragen.
+감사해요. 빨리 보탬이 되면 좋겠어요.
+Ingrid: Dat komt vanzelf. Vandaag beginnen jullie meteen aan een project.
+그건 저절로 돼요. 오늘 바로 프로젝트를 시작할 거예요.
+Thijs: Meteen? Geen introductieweek?
+바로요? 오리엔테이션 주간은 없나요?
+Ingrid: De beste introductie is een echte klant. Femke is jullie projectleider.
+최고의 오리엔테이션은 진짜 고객이죠. 펨커가 프로젝트 리더예요.
+Femke: (komt binnen met een laptop) Daar ben ik al. Goedemorgen allebei!
+(노트북을 들고 들어오며) 저 왔어요. 두 분 다 좋은 아침이에요!
+Ingrid: Femke, dit zijn Thijs en Priya. Ze zijn van jou.
+펨커, 이쪽은 테이스와 프리야예요. 이제 펨커 팀이에요.
+Femke: Fijn. Welkom bij het team! Ik ben Femke Hoekstra.
+좋아요. 팀에 오신 걸 환영해요! 저는 펨커 훅스트라예요.
+Thijs: Hoekstra… Is dat een Friese naam?
+훅스트라… 프리슬란트 이름인가요?
+Femke: Goed gehoord. Ik kom uit Leeuwarden. En jij hebt een Rotterdams accent.
+잘 들으셨네요. 저는 레이우아르던 출신이에요. 그리고 테이스는 로테르담 억양이 있네요.
+Thijs: Dat hoor je meteen, hè?
+바로 티가 나죠?
+Femke: Na twee zinnen. Kom, we gaan naar de projectruimte. Om elf uur zitten we bij de klant.
+두 문장 만에요. 자, 프로젝트룸으로 가요. 11시에는 고객사에 가 있어야 해요.
+Ingrid: Succes! En Femke, vergeet niet: wat is de vraag achter de vraag?
+행운을 빌어요! 그리고 펨커, 잊지 마요. 질문 뒤에 있는 질문이 뭔지.
+— Scène 2: De projectruimte (프로젝트룸) —
+Femke: Ga zitten. Ik vertel eerst kort wie de klant is.
+앉으세요. 먼저 고객이 누군지 짧게 설명할게요.
+Priya: (pakt een notitieboekje) Ik schrijf mee.
+(수첩을 꺼내며) 받아 적을게요.
+Femke: De klant heet Fietsmand. Een start-up die boodschappen binnen vijftien minuten bezorgt.
+고객 이름은 Fietsmand예요. 장 본 물건을 15분 안에 배달하는 스타트업이에요.
+Thijs: Flitsbezorging dus. Daar waren veel buurtbewoners boos over.
+그러니까 퀵커머스네요. 주민들이 그것 때문에 많이 화났었죠.
+Femke: Precies. De gemeente Amsterdam heeft nieuwe dark stores in woonwijken verboden.
+맞아요. 암스테르담시는 주거지역에 새 다크스토어를 금지했어요.
+Priya: Wat is een dark store precies?
+다크스토어가 정확히 뭐예요?
+Femke: Een klein magazijn zonder klanten. Alleen bezorgers die af en aan rijden.
+손님 없는 작은 창고예요. 배달원만 들락날락하죠.
+Thijs: Met al die scooters en fietsen op de stoep. Ik snap die buren wel.
+인도에 그 많은 스쿠터랑 자전거가 있으니. 주민들 마음은 이해해요.
+Femke: Fietsmand heeft veertien van die hubs. En het geld raakt op.
+Fietsmand는 그런 허브가 14개 있어요. 그리고 돈이 떨어져 가요.
+Thijs: Hoeveel tijd hebben ze nog?
+시간이 얼마나 남았어요?
+Femke: Volgens de oprichter ongeveer negen maanden. Dan is de kas leeg.
+창업자 말로는 9개월 정도요. 그러면 금고가 바닥나요.
+Priya: En wat is de vraag van de klant?
+고객이 원하는 건 뭐예요?
+Femke: Hun vraag is: "Hoe kunnen we sneller groeien?"
+고객의 질문은 "어떻게 하면 더 빨리 성장할 수 있을까?"예요.
+Thijs: Groeien? Terwijl het geld opraakt?
+성장이요? 돈이 떨어져 가는데요?
+Femke: Daarom zei Ingrid het net. Wat is de vraag achter de vraag?
+그래서 잉그리드가 방금 그 말을 한 거예요. 질문 뒤의 질문은 뭘까요?
+Priya: Misschien… hoe ze kunnen overleven?
+어쩌면… 어떻게 살아남느냐?
+Femke: Dat is mijn vermoeden ook. Maar we weten het nog niet zeker.
+제 짐작도 그래요. 하지만 아직 확실하진 않아요.
+Thijs: Hoe pak je dat aan?
+그건 어떻게 접근해요?
+Femke: Ik gebruik altijd drie stappen: situatie, complicatie, vraag. In het Engels heet het SCQ.
+저는 항상 세 단계를 써요. 상황, 문제, 질문. 영어로는 SCQ라고 해요.
+Priya: Situatie: Fietsmand bezorgt boodschappen met veertien hubs.
+상황: Fietsmand는 14개 허브로 장보기 배달을 한다.
+Femke: Goed. Complicatie?
+좋아요. 문제는?
+Thijs: Het geld raakt op en de gemeente maakt groei moeilijk.
+돈이 떨어져 가고 시가 성장을 어렵게 만든다.
+Femke: Uitstekend. En dan de echte vraag. Die formuleren we pas na vandaag.
+훌륭해요. 그리고 진짜 질문. 그건 오늘 이후에 정리할 거예요.
+Priya: Waarom pas daarna?
+왜 그다음에요?
+Femke: Omdat we eerst moeten luisteren. Vandaag praten we met de oprichter, Ruben Smit. Kom, de pont wacht niet.
+먼저 들어야 하니까요. 오늘은 창업자 뤼번 스밋과 이야기해요. 가요, 페리는 기다려 주지 않아요.
+— Scène 3: Hoofdkantoor van Fietsmand, Amsterdam-Noord (Fietsmand 본사, 암스테르담 노르트) —
+Ruben: Welkom in Noord! Sorry voor de rommel, we zijn net verhuisd.
+노르트에 오신 걸 환영해요! 어수선해서 죄송해요, 막 이사했거든요.
+Femke: Geen probleem. Bedankt dat u tijd voor ons maakt, meneer Smit.
+괜찮습니다. 시간 내 주셔서 감사합니다, 스밋 씨.
+Ruben: Ruben, alsjeblieft. Bij een start-up zegt niemand u.
+뤼번이라고 불러 주세요. 스타트업에서는 아무도 존댓말 안 써요.
+Femke: Prima, Ruben. Dit zijn mijn collega's Thijs en Priya.
+좋아요, 뤼번. 이쪽은 제 동료 테이스와 프리야예요.
+Ruben: Leuk. Koffie? We hebben havermelk, sojamelk, amandelmelk…
+반가워요. 커피 드실래요? 귀리우유, 두유, 아몬드우유가 있어요…
+Thijs: Gewoon zwart, graag.
+그냥 블랙으로 주세요.
+Ruben: (lacht) Een echte Rotterdammer. Goed, waar beginnen we?
+(웃으며) 진짜 로테르담 사람이네요. 자, 어디서부터 시작할까요?
+Femke: Vertel eerst eens: waarom heb je Fietsmand opgericht?
+먼저 말씀해 주세요. 왜 Fietsmand를 창업하셨어요?
+Ruben: Vier jaar geleden zat ik met een gebroken been thuis. Boodschappen doen was onmogelijk.
+4년 전에 다리가 부러져서 집에 있었어요. 장 보러 가는 게 불가능했죠.
+Femke: En toen dacht je: dat moet makkelijker kunnen.
+그래서 '이건 더 쉬워질 수 있다'고 생각하셨군요.
+Ruben: Precies. Met één fiets en een rugzak ben ik begonnen. Nu hebben we vierhonderd bezorgers.
+맞아요. 자전거 한 대랑 배낭 하나로 시작했어요. 지금은 배달원이 400명이에요.
+Femke: Indrukwekkend. En wat is nu je grootste uitdaging?
+대단하네요. 지금 가장 큰 과제는 뭔가요?
+Ruben: Groei. We moeten sneller groeien dan de concurrentie. Anders worden we opgegeten.
+성장이요. 경쟁사보다 빨리 커야 해요. 안 그러면 잡아먹혀요.
+Femke: Mag ik even doorvragen? Wat bedoel je precies met groei?
+조금 더 여쭤봐도 될까요? 성장이라는 게 정확히 무슨 뜻이에요?
+Ruben: Meer klanten, meer bestellingen, meer steden. Utrecht, Den Haag, misschien Antwerpen.
+고객 증가, 주문 증가, 도시 확장이요. 위트레흐트, 헤이그, 어쩌면 앤트워프까지요.
+Thijs: Verdient Fietsmand nu geld op een gemiddelde bestelling?
+지금 Fietsmand는 평균 주문 한 건에서 돈을 버나요?
+Ruben: Eh… nog niet. Maar dat komt met schaal.
+어… 아직은 아니에요. 하지만 규모가 커지면 돼요.
+Thijs: Hoeveel verlies je ongeveer per bestelling?
+주문 한 건당 대략 얼마나 손해를 봐요?
+Ruben: Gemiddeld zo'n twee euro. Bij sommige hubs meer, bij andere minder.
+평균 2유로 정도요. 허브에 따라 더 많기도 하고 적기도 해요.
+Thijs: Dus elke nieuwe bestelling kost je geld.
+그러니까 주문이 하나 늘 때마다 돈이 나가는 거네요.
+Ruben: (zucht) Zo klinkt het wel heel negatief.
+(한숨) 그렇게 말하니 아주 부정적으로 들리네요.
+Femke: Thijs bedoelt het niet negatief. We willen het gewoon goed begrijpen.
+테이스가 부정적인 뜻으로 말한 건 아니에요. 그냥 정확히 이해하고 싶은 거예요.
+Ruben: Oké. Eerlijk is eerlijk: de cijfers zijn niet geweldig.
+알겠어요. 솔직히 말하면 숫자가 좋진 않아요.
+Femke: Dank je voor je eerlijkheid. Hoe zit het met de nieuwe regels van de gemeente?
+솔직하게 말해 줘서 고마워요. 시의 새 규정은 어떤가요?
+Ruben: Die zijn een ramp. In de binnenstad mogen we geen nieuwe hubs openen.
+재앙이에요. 도심에서는 새 허브를 열 수 없어요.
+Femke: En de bestaande hubs?
+기존 허브는요?
+Ruben: Drie liggen in een woonwijk. Daar krijgen we elke week klachten.
+세 곳이 주거지역에 있어요. 거기선 매주 민원이 들어와요.
+Femke: Waarover klagen de buren vooral?
+주민들은 주로 무엇에 대해 불평해요?
+Ruben: Lawaai, scooters op de stoep, bezorgers die 's nachts staan te roken.
+소음, 인도 위의 스쿠터, 밤에 서서 담배 피우는 배달원들이요.
+Femke: Ik ben benieuwd hoe de bezorgers zelf hun werk ervaren.
+배달원들 스스로는 일을 어떻게 느끼는지 궁금하네요.
+Ruben: Ze zijn tevreden, denk ik. Nou ja… er is wel discussie over hun contract.
+만족할 거예요. 음… 계약 문제로 논란이 있긴 해요.
+Femke: Wat voor discussie?
+어떤 논란이요?
+Ruben: Of ze zzp'er moeten zijn of in loondienst. De rechter kijkt daar steeds strenger naar.
+프리랜서여야 하느냐 정규 고용이어야 하느냐요. 법원이 점점 더 엄격하게 보고 있어요.
+Thijs: Als ze in loondienst moeten, stijgen je kosten flink.
+고용 계약을 해야 하면 비용이 확 오르겠네요.
+Ruben: Ja. Daarom moeten we juist snel groeien.
+네. 그래서 더더욱 빨리 커야 해요.
+Femke: Ik vat even samen. Je verliest geld op elke bestelling, de gemeente beperkt de hubs en de kosten kunnen stijgen.
+잠깐 정리할게요. 주문마다 손해가 나고, 시는 허브를 제한하고, 비용은 오를 수 있어요.
+Ruben: Als je het zo zegt, klinkt het alsof ik moet stoppen.
+그렇게 말하니까 그만둬야 할 것처럼 들리네요.
+Femke: Nee, zo bedoel ik het niet. Het betekent dat we de juiste vraag moeten stellen.
+아니요, 그런 뜻이 아니에요. 올바른 질문을 던져야 한다는 뜻이에요.
+Ruben: En wat is volgens jou de juiste vraag?
+그럼 펨커가 보기에 올바른 질문은 뭔데요?
+Femke: Dat weten we over twee weken. Mogen we met je teams en een paar bezorgers praten?
+2주 뒤에 알게 될 거예요. 팀원들이랑 배달원 몇 명과 이야기해도 될까요?
+Ruben: Natuurlijk. Yara, onze operationeel manager, regelt dat voor jullie.
+물론이죠. 운영 매니저 야라가 준비해 줄 거예요.
+Femke: Perfect. En kunnen we de cijfers per hub krijgen? Bestellingen, kosten, klachten.
+완벽해요. 허브별 숫자도 받을 수 있을까요? 주문, 비용, 민원이요.
+Ruben: Dat stuur ik vanmiddag. Ik ben benieuwd wat jullie vinden.
+오늘 오후에 보낼게요. 여러분이 뭘 찾아낼지 궁금하네요.
+Femke: Wij ook. Bedankt, Ruben. Dit was een heel open gesprek.
+저희도요. 고마워요, 뤼번. 아주 솔직한 대화였어요.
+Ruben: (geeft Priya een hand) En jij was stil, maar je schreef alles op, zag ik.
+(프리야와 악수하며) 그리고 당신은 조용했지만 전부 받아 적던데요.
+Priya: (verlegen) Eh, ja. Dank u… dank je.
+(쑥스러워하며) 아, 네. 감사합니다… 고마워요.
+— Scène 4: Op de pont over het IJ (IJ 강을 건너는 페리 위에서) —
+Thijs: Nou, dat was een eerlijke man. Maar hij heeft een groot probleem.
+음, 솔직한 사람이었어요. 하지만 큰 문제가 있네요.
+Femke: Wat vond je ervan, Thijs?
+테이스는 어떻게 봤어요?
+Thijs: Groeien met verlies per bestelling is als een lekke emmer vullen.
+주문마다 손해 보면서 성장하는 건 새는 양동이에 물을 채우는 거예요.
+Femke: Mooi beeld. Maar zeg dat over twee weken nog niet zo tegen hem.
+멋진 비유네요. 하지만 2주 뒤에 그대로 말하진 말아요.
+Thijs: Waarom niet? Het is toch waar?
+왜요? 사실이잖아요?
+Femke: Waar is niet genoeg. Hij moet het ook kunnen horen. Je zag hoe hij zuchtte.
+사실인 것만으로는 부족해요. 그가 받아들일 수도 있어야 해요. 한숨 쉬는 거 봤잖아요.
+Thijs: Hm. Bij de bank zeiden we gewoon: nee, geen krediet.
+흠. 은행에선 그냥 "안 됩니다, 대출 불가"라고 했는데.
+Femke: Hier willen we dat de klant zelf ja zegt tegen de verandering.
+여기선 고객이 스스로 변화에 동의하길 원해요.
+Thijs: Dat is een ander vak. Dat moet ik nog leren.
+그건 다른 기술이네요. 아직 배워야겠어요.
+Femke: Priya, jij zei niets. Wat dacht je?
+프리야, 아무 말도 안 했죠. 어떤 생각이었어요?
+Priya: Ik had wel een vraag, maar ik durfde niet.
+질문이 있긴 했는데, 용기가 안 났어요.
+Femke: Welke vraag?
+어떤 질문이요?
+Priya: Hij zei "meer steden". Maar weet hij welke hubs in Amsterdam wél winst maken?
+"더 많은 도시"라고 했잖아요. 그런데 암스테르담 허브 중에 어디가 실제로 이익을 내는지는 알까요?
+Femke: (kijkt haar aan) Dat is een uitstekende vraag. Misschien wel de belangrijkste van vandaag.
+(프리야를 바라보며) 훌륭한 질문이에요. 어쩌면 오늘 가장 중요한 질문일지도요.
+Femke: Als hij het niet weet, is dat ons eerste inzicht. Volgende keer stel je hem gewoon.
+그가 모른다면 그게 우리의 첫 번째 통찰이에요. 다음엔 그냥 물어봐요.
+Priya: Ik zal het proberen.
+해 볼게요.
+Femke: Hier, voor jullie allebei. (geeft twee notitieboekjes) Mijn traditie voor nieuwe collega's.
+여기, 두 분 다에게요. (수첩 두 권을 건네며) 새 동료들에게 주는 제 전통이에요.
+Thijs: Wat moeten we erin schrijven?
+여기에 뭘 써야 해요?
+Femke: Elke dag één ding dat je hebt geleerd. En één ding dat je nooit tegen een klant moet zeggen. Op naar het kantoor, we hebben werk!
+매일 배운 것 하나. 그리고 고객에게 절대 하면 안 되는 말 하나. 사무실로 가요, 할 일이 있어요!
+
+## 주요 단어
+de oprichter | 더 오프리흐터르 | 창업자
+de start-up | 더 스타르트업 | 스타트업
+de klant | 더 클란트 | 고객
+de bezorger | 더 버조르허르 | 배달원
+bezorgen → heeft bezorgd | 버조르헌 → 헤이프트 버조르흐트 | 배달하다
+de boodschappen | 더 보트스하펀 | 장 본 물건, 장보기
+het magazijn | 헷 마하제인 | 창고
+de woonwijk | 더 원베이크 | 주거지역
+de gemeente | 더 허멘터 | 시(지방자치단체)
+verbieden → heeft verboden | 버르비던 → 헤이프트 버르보던 | 금지하다
+de klacht | 더 클라흐트 | 불만, 민원
+het verlies | 헷 버를리스 | 손실
+opraken → is opgeraakt | 오프라컨 → 이스 오프허라크트 | 바닥나다, 다 떨어지다
+de zzp'er | 더 제트제트페이어르 | 1인 자영업자, 프리랜서
+in loondienst | 인 론딘스트 | 고용 계약(월급 받는) 상태로
+
+## 표현·문법 정리
+**Welkom bij het team!:** "팀에 온 걸 환영해요!" bij + 조직·회사: welkom bij Keizer & Co / Ik werk bij een bank.
+**Zeg maar je / Zeg maar Ingrid:** "그냥 je라고 해요 / 잉그리드라고 불러요." 네덜란드 회사에서는 첫날부터 말을 놓는 경우가 많지만, 고객 앞에서는 상대가 먼저 제안할 때까지 u를 씁니다(Femke → Ruben 장면).
+**Wat is de vraag achter de vraag?:** "질문 뒤의 질문은 무엇인가?" 고객이 말하는 요청 뒤의 진짜 문제를 찾으라는 컨설턴트의 관용 표현. 이 시리즈 전체를 관통하는 말입니다.
+**Mag ik even doorvragen?:** "조금 더 여쭤봐도 될까요?" doorvragen = 계속 파고들어 묻다. even은 요청을 부드럽게 만듭니다(Mag ik even…? 잠깐 ~해도 될까요?).
+**Wat bedoel je precies met…?:** "~가 정확히 무슨 뜻이에요?" 모호한 단어(groei, 성장)를 구체화할 때 쓰는 핵심 질문.
+**Ik ben benieuwd (naar/wat/hoe…):** "~가 궁금해요." Ik ben benieuwd naar de cijfers. / Ik ben benieuwd hoe de bezorgers het ervaren.
+**현재완료 hebben/zijn:** 대부분 hebben(Ik heb data science gestudeerd), 상태 변화·이동은 zijn(Ik ben overgestapt, Het geld is opgeraakt).
+**분리동사:** opraken → Het geld raakt op. / oprichten → Hij heeft Fietsmand opgericht. 현재형에서는 접두사가 문장 끝으로 갑니다.
+**종속절 어순 omdat / als / dat:** 종속절에서는 동사가 끝으로. Omdat we eerst moeten luisteren. / Als ze in loondienst moeten, stijgen je kosten. (주절이 뒤에 오면 동사가 먼저: stijgen je kosten)
+**Ik vat even samen:** "잠깐 정리할게요." 회의 중간 정리의 표준 표현(samenvatten 분리동사). 끝맺을 때는 Kortom… (요컨대).
+**Eerlijk is eerlijk:** "솔직히 말하면." 불리한 사실을 인정할 때 쓰는 관용구.
+**Dat snap ik / Dat begrijp ik:** "이해해요." snappen은 구어, begrijpen은 표준·격식.
+**zo bedoel ik het niet:** "그런 뜻이 아니에요." 오해를 바로잡는 표현. 반대로 확인할 때는 Bedoel je dat…?
+
+## 컨설팅 스킬 노트
+**SCQ (Situatie – Complicatie – Vraag):** 문제를 한 문장씩 세 단계로 정리합니다. 상황(누구나 동의하는 사실) → 문제(그 상황을 흔드는 변화) → 질문(우리가 답해야 할 단 하나의 질문).
+**고객의 질문 ≠ 진짜 질문:** Ruben의 질문은 "Hoe groeien we sneller?"였지만, 숫자를 보면 진짜 질문은 "Hoe worden we winstgevend voordat het geld op is?"(돈이 떨어지기 전에 어떻게 이익을 낼까?)일 수 있습니다.
+**첫 인터뷰의 세 가지 질문:** ① 열린 질문 Vertel eens… (말씀해 주세요) ② 파고드는 질문 Mag ik even doorvragen? ③ 확인 질문 Klopt het dat…? / Ik vat even samen…
+**말하는 것과 받아들이게 하는 것:** "Waar is niet genoeg." 사실만으로는 부족하고, 고객이 들을 수 있는 방식으로 전달해야 합니다(2화 피라미드 원칙으로 이어짐).
