@@ -1,0 +1,292 @@
+# 2부 8화. Gegijzeld (인질로 잡힌 공장)
+수준: 중상급 (B2) | 장소: 야간 작업장 → 위기 대응실 → 직원 식당 → CEO실(기자 전화) → 복구 나흘째 → 밤의 주차장 | 시간: 3월, 화요일 새벽 3시부터
+배경 현안: 제조업 대상 랜섬웨어 공격, EU NIS2 지침에 따른 사이버 사고 신고 의무, 개인정보 유출 신고(개인정보보호청), 몸값 지급 논란
+핵심 표현: Wij betalen geen losgeld · Wat weten we zeker? · Wij communiceren open · Dit is geen oefening · Stap voor stap
+💼 스킬: 위기 커뮤니케이션(사실·불확실성·다음 업데이트)
+
+## 대화
+— Scène 1: De nachtploeg, drie uur 's nachts (새벽 3시, 야간 조) —
+Bas: (aan de telefoon) Priya? Sorry dat ik je wakker bel. Er is iets raars met de computers.
+(전화로) 프리야? 깨워서 미안해요. 컴퓨터가 이상해요.
+Priya: (slaperig) Wat zie je?
+(잠이 덜 깬 목소리로) 뭐가 보여요?
+Bas: Op alle schermen op kantoor staat dezelfde tekst. In het Engels. Iets met "your files are encrypted". En een rood doodshoofd.
+사무실 모니터 전부에 같은 글이 떠 있어요. 영어로요. "파일이 암호화됐다" 어쩌고. 그리고 빨간 해골이요.
+Priya: (ineens klaarwakker) Raak niets aan. Trek geen stekkers eruit. Zijn de machines in de hal nog aan?
+(갑자기 정신이 번쩍 들며) 아무것도 만지지 마요. 플러그도 뽑지 말고요. 작업장 기계들은 아직 켜져 있어요?
+Bas: Ja. Die draaien gewoon.
+네. 그냥 잘 돌아가요.
+Priya: Goed. Die staan los van het internet. Dat hebben we in september geregeld. Kun je het planbord nog zien?
+좋아요. 그건 인터넷이랑 분리돼 있어요. 9월에 그렇게 해 뒀어요. 생산 계획판은 아직 보여요?
+Bas: Nee. Het scherm met de planning is ook rood.
+아니요. 계획 화면도 빨개요.
+Priya: Oké. Wat weet je nog van de opdrachten van vannacht?
+알았어요. 오늘 밤 작업 지시는 기억나는 대로 알아요?
+Bas: Ik heb ze vanavond uitgeprint. Dat doe ik altijd. Ik vertrouw die computers niet.
+오늘 저녁에 출력해 뒀어요. 저는 항상 그래요. 컴퓨터를 안 믿거든요.
+Priya: Bas, je bent een held. Ga gewoon door met wat op papier staat. Ik ben er over twintig minuten.
+바스, 당신 영웅이에요. 종이에 있는 대로 계속 작업해요. 20분 안에 갈게요.
+Bas: Moet ik de baas bellen?
+대표님한테 전화해야 해요?
+Priya: Ik bel Femke. Jij zorgt voor de machines.
+펨커한테는 제가 전화할게요. 바스는 기계를 맡아요.
+Priya: (belt) Femke? Dit is geen oefening. We zijn gehackt. Ransomware. Ik ben onderweg.
+(전화하며) 펨커? 이건 훈련이 아니에요. 해킹당했어요. 랜섬웨어요. 지금 가는 중이에요.
+Femke: (wakker) Ik kom. Wie moet ik nog bellen?
+(깨어나며) 갈게요. 또 누구한테 전화해야 해요?
+Priya: Thijs, Gerrit en Ruud. En niemand anders, voordat we weten wat er is.
+테이스, 헤릿, 뤼트요. 무슨 일인지 알기 전까진 다른 사람은 안 돼요.
+Femke: Begrepen. Twintig minuten.
+알았어요. 20분이요.
+Priya: Femke? Geen paniek. We hebben dit geoefend. Weet je nog? In november.
+펨커? 당황하지 마요. 우리 이거 연습했잖아요. 기억나요? 11월에요.
+Femke: Ik weet het nog. Toen vonden we het een beetje overdreven.
+기억나요. 그땐 좀 과하다고 생각했죠.
+Priya: Nu niet meer.
+이젠 아니죠.
+— Scène 2: De crisisruimte, vier uur 's nachts (새벽 4시, 위기 대응실) —
+Femke: Goed. Iedereen is er. Priya, jij leidt dit. Wat weten we zeker?
+좋아요. 다 모였네요. 프리야가 지휘해요. 확실히 아는 게 뭐예요?
+Priya: Drie dingen. Eén: het kantoornetwerk is versleuteld. E-mail, de boekhouding, het planningssysteem. Twee: de machines in de hal werken nog, omdat ze apart staan. Drie: de daders vragen losgeld. Anderhalf miljoen, in bitcoin.
+세 가지요. 첫째, 사무 네트워크가 암호화됐어요. 이메일, 회계, 생산 계획 시스템. 둘째, 작업장 기계는 분리돼 있어서 아직 작동해요. 셋째, 범인들이 몸값을 요구해요. 비트코인으로 150만 유로.
+Thijs: Anderhalf miljoen. (stil) Dat is meer dan onze buffer.
+150만이라. (조용히) 우리 여유 자금보다 많네요.
+Femke: En wat weten we niet?
+그럼 모르는 건요?
+Priya: Hoe ze binnen zijn gekomen. Of ze gegevens hebben gestolen. En of ze nog in het netwerk zitten.
+어떻게 들어왔는지. 데이터를 훔쳤는지. 그리고 아직 네트워크 안에 있는지.
+Ruud: En of de back-ups veilig zijn.
+그리고 백업이 안전한지.
+Priya: Dat is de belangrijkste vraag. Ruud, de offline back-up van zondag?
+그게 가장 중요한 질문이에요. 뤼트, 일요일 오프라인 백업은요?
+Ruud: (kijkt op een losse laptop) Die staat op de schijven in de kluis. Die waren niet aangesloten. Die zouden schoon moeten zijn.
+(별도의 노트북을 보며) 금고 안 디스크에 있어요. 연결돼 있지 않았어요. 깨끗할 거예요.
+Priya: Dat hebben we in november ingevoerd. Elke zondag een kopie, daarna los van alles.
+11월에 도입한 거예요. 매주 일요일에 복사본을 만들고, 그 뒤엔 모든 것과 분리해 둬요.
+Gerrit: Dus we kunnen alles terugzetten?
+그러니까 전부 복구할 수 있어요?
+Priya: Waarschijnlijk wel, maar niet zomaar. Eerst moeten we zeker weten dat de daders er niet meer in zitten. Anders versleutelen ze het gewoon opnieuw.
+아마도요. 하지만 그냥은 안 돼요. 먼저 범인들이 더는 안에 없다는 걸 확인해야 해요. 안 그러면 그냥 다시 암호화할 거예요.
+Femke: Hoe lang duurt dat?
+얼마나 걸려요?
+Priya: Met hulp van buiten: drie tot vijf dagen.
+외부 도움을 받으면 사흘에서 닷새요.
+Thijs: En als we betalen?
+그럼 돈을 내면요?
+Femke: (kijkt hem aan)
+(그를 바라본다)
+Thijs: Ik vraag het alleen, zodat we het besproken hebben. Ik ben er zelf tegen.
+논의는 했다는 걸 남기려고 묻는 것뿐이에요. 저도 반대예요.
+Priya: Betalen is geen garantie. Vaak krijg je je bestanden niet of maar half terug. En je financiert criminelen, die het daarna bij iemand anders doen. Soms bij jou opnieuw.
+돈을 내도 보장이 없어요. 파일을 못 돌려받거나 반만 돌려받는 경우가 많아요. 그리고 범죄자들한테 자금을 대 주는 거고, 그 사람들은 그 돈으로 다른 데를 또 공격해요. 가끔은 같은 곳을 다시요.
+Femke: Dan is het duidelijk. Wij betalen geen losgeld.
+그럼 분명하네요. 우리는 몸값을 내지 않아요.
+Gerrit: Ook niet als het lang duurt?
+오래 걸려도요?
+Femke: Ook dan niet. Wat moeten we nu als eerste doen, Priya?
+그래도요. 프리야, 지금 제일 먼저 뭘 해야 해요?
+Priya: Vier dingen, stap voor stap. Een gespecialiseerd bedrijf inschakelen dat dit vaker doet. Aangifte doen bij de politie. Het incident melden, want daar zijn we wettelijk toe verplicht, binnen vierentwintig uur. En de verzekeraar bellen.
+네 가지요, 한 단계씩. 이런 일을 자주 다루는 전문 업체를 부르기. 경찰에 신고하기. 사고 신고하기, 법적으로 24시간 안에 해야 하니까요. 그리고 보험사에 전화하기.
+Thijs: We hebben een cyberverzekering. Die heb ik in oktober afgesloten.
+사이버 보험이 있어요. 10월에 가입했어요.
+Femke: (glimlacht vermoeid) Jullie hebben alles voorbereid.
+(지친 미소를 지으며) 다들 다 준비해 놨네요.
+Priya: Niet alles. Maar genoeg.
+전부는 아니에요. 하지만 충분히요.
+Femke: En de mensen? Over drie uur komt de ochtendploeg.
+그럼 직원들은요? 세 시간 뒤면 아침 조가 와요.
+Priya: Dat is jouw taak. Ik regel de techniek, jij regelt de mensen.
+그건 펨커 일이에요. 저는 기술을, 펨커는 사람을 맡아요.
+— Scène 3: De kantine, zeven uur 's ochtends (아침 7시, 직원 식당) —
+Femke: Goedemorgen allemaal. Ik ga jullie precies vertellen wat er aan de hand is. Ook wat we nog niet weten.
+모두 좋은 아침이에요. 무슨 일인지 정확히 말씀드릴게요. 아직 모르는 것까지요.
+Femke: Vannacht is ons kantoornetwerk aangevallen door criminelen. Ze hebben de bestanden versleuteld en vragen geld. Wij betalen dat niet.
+어젯밤 범죄자들이 우리 사무 네트워크를 공격했어요. 파일을 암호화하고 돈을 요구하고 있어요. 우리는 내지 않을 거예요.
+Medewerker: En de machines?
+기계는요?
+Femke: De machines werken. Die waren apart beveiligd. Bas en de nachtploeg hebben de hele nacht doorgewerkt op papier. Dank je, Bas.
+기계는 작동해요. 따로 보호돼 있었어요. 바스와 야간 조가 밤새 종이로 계속 작업했어요. 고마워요, 바스.
+Bas: (bescheiden) Ik print alles al twaalf jaar. Eindelijk heeft het zin.
+(겸손하게) 12년째 다 출력했거든요. 드디어 쓸모가 있네요.
+Femke: Wat betekent dit voor jullie vandaag? Jullie krijgen de opdrachten op papier, van Gerrit en de planner. Mail en de computers op kantoor werken een paar dagen niet.
+오늘 여러분에게는 무슨 의미냐면요. 작업 지시는 헤릿과 계획 담당자가 종이로 줄 거예요. 이메일과 사무실 컴퓨터는 며칠 동안 안 돼요.
+Medewerker 2: En onze salarissen? Die komen toch volgende week?
+그럼 월급은요? 다음 주에 나오잖아요?
+Thijs: Die komen op tijd. Ik heb vanochtend met de bank gebeld. We betalen desnoods handmatig. Dat beloof ik jullie.
+제때 나와요. 오늘 아침 은행이랑 통화했어요. 필요하면 수작업으로라도 지급할게요. 약속해요.
+Sevda: Zijn onze persoonlijke gegevens gestolen? Adressen, BSN-nummers?
+우리 개인정보가 도난당했어요? 주소, 주민번호 같은 거요?
+Femke: Dat weten we nog niet. Dat zoeken we vandaag uit. Als het zo is, horen jullie het van mij, voordat het ergens anders staat. En dan melden we het ook bij de Autoriteit Persoonsgegevens.
+아직 몰라요. 오늘 알아볼 거예요. 만약 그렇다면 다른 데 나오기 전에 저한테서 듣게 될 거예요. 그리고 개인정보보호청에도 신고할 거예요.
+Sevda: Wanneer horen we meer?
+언제 더 알 수 있어요?
+Femke: Elke dag om twaalf uur, hier in de kantine. Ook als er geen nieuws is. Dan zeg ik dat er geen nieuws is.
+매일 12시, 여기 식당에서요. 새 소식이 없어도요. 그땐 소식이 없다고 말할게요.
+Medewerker: (zacht) Dat had Jan nooit gedaan. Die zei altijd dat alles goed was.
+(작게) 얀은 절대 안 그랬을 거예요. 늘 다 괜찮다고만 했죠.
+Femke: Klik niet op links in berichten die je niet vertrouwt. En als iemand belt die zegt dat hij van onze IT is, en je kent hem niet: ophangen en Priya bellen.
+믿을 수 없는 메시지의 링크는 누르지 마세요. 그리고 누가 우리 IT 부서라며 전화했는데 모르는 사람이면, 끊고 프리야한테 전화하세요.
+— Scène 4: Het kantoor van Femke, een telefoontje (펨커의 사무실, 전화 한 통) —
+Lars: (aan de telefoon) Femke, ik hoor dat jullie gehackt zijn. Klopt dat?
+(전화로) 펨커, 해킹당했다고 들었어요. 사실이에요?
+Femke: Dat klopt, Lars. Ik wilde je over een uur bellen. Je bent me voor.
+맞아요, 라르스. 한 시간 뒤에 전화하려고 했어요. 먼저 하셨네요.
+Lars: Liggen onze tekeningen nu op straat?
+우리 도면이 지금 밖으로 새어 나간 거예요?
+Femke: Dat weten we nog niet. Jullie tekeningen staan op een aparte server met extra beveiliging. Daar lijken ze niet bij gekomen te zijn. Maar ik wil niets beloven voordat de experts het hebben bevestigd.
+아직 몰라요. 귀사 도면은 보안을 강화한 별도 서버에 있어요. 거기까지는 못 간 것 같아요. 하지만 전문가가 확인하기 전엔 아무것도 약속하지 않을게요.
+Lars: En de leveringen?
+그럼 납품은요?
+Femke: De productie draait. De leveringen van deze week gaan door. Gerrit plant op papier.
+생산은 돌아가요. 이번 주 납품은 그대로 진행돼요. 헤릿이 종이로 계획하고 있어요.
+Lars: Op papier. (lacht kort) Daar zou mijn IT-afdeling van schrikken.
+종이로라니. (짧게 웃으며) 우리 IT 부서가 들으면 기절하겠네요.
+Femke: Het werkt. Ik stuur je elke dag om vier uur een update.
+돼요. 매일 4시에 업데이트를 보낼게요.
+Lars: Dank je. Ik waardeer de openheid.
+고마워요. 솔직하게 말해 줘서 고마워요.
+Jeroen: (een uur later, aan de telefoon) Mevrouw Hoekstra? Jeroen Bos, van De Beurskoerier. We hebben elkaar ooit gesproken over Noordbank.
+(한 시간 뒤, 전화로) 훅스트라 씨? «De Beurskoerier»의 예룬 보스예요. 예전에 Noordbank 건으로 통화한 적 있죠.
+Femke: Ik herinner het me. Toen zei ik niets. Vandaag zeg ik wel iets.
+기억나요. 그땐 아무 말도 안 했죠. 오늘은 말할게요.
+Jeroen: (verrast) Dat is nieuw. Ik hoorde dat Verhoef Precisie is aangevallen met ransomware.
+(놀라며) 새롭네요. Verhoef Precisie가 랜섬웨어 공격을 당했다고 들었어요.
+Femke: Dat klopt. Vannacht is ons kantoornetwerk aangevallen. De productie draait door. Wij betalen geen losgeld. We hebben aangifte gedaan en het incident gemeld bij de bevoegde instanties.
+맞아요. 어젯밤 사무 네트워크가 공격당했어요. 생산은 계속 돌아가요. 우리는 몸값을 내지 않아요. 경찰에 신고했고, 관계 기관에 사고를 보고했어요.
+Jeroen: Waarom bent u zo open? Veel bedrijven ontkennen alles.
+왜 이렇게 솔직하세요? 많은 회사가 전부 부인하는데요.
+Femke: Omdat het toch uitkomt. En omdat andere bedrijven in Brainport moeten weten dat dit gebeurt. Dan kunnen ze zich beter voorbereiden.
+어차피 밝혀질 테니까요. 그리고 브레인포트의 다른 회사들도 이런 일이 일어난다는 걸 알아야 해요. 그래야 더 잘 대비할 수 있죠.
+Jeroen: Zijn er gegevens gestolen?
+데이터가 도난당했나요?
+Femke: Dat onderzoeken we. Wat we zeker weten, vertel ik. Wat we nog niet weten, zeg ik ook. Ik ga niet speculeren.
+조사 중이에요. 확실히 아는 건 말할게요. 아직 모르는 것도 모른다고 할게요. 추측은 하지 않을 거예요.
+Jeroen: Mag ik u citeren?
+인용해도 될까요?
+Femke: Ja. Wij communiceren open. Dat mag u citeren.
+네. 우리는 솔직하게 소통합니다. 그건 인용하셔도 돼요.
+Jeroen: (na een stilte) Bij Noordbank had ik niets. Nu heb ik een eerlijk verhaal. Dank u.
+(잠시 침묵 후) Noordbank 때는 아무것도 못 얻었는데, 이번엔 정직한 이야기를 얻었네요. 감사합니다.
+— Scène 5: Dag vier (나흘째) —
+Priya: (met wallen onder haar ogen) Update. Het externe team heeft gevonden hoe ze binnen zijn gekomen. Een nepmail aan iemand van de inkoop, drie weken geleden. Een factuur met een link.
+(눈 밑이 퀭한 채) 업데이트예요. 외부 팀이 침입 경로를 찾았어요. 3주 전 구매팀 직원에게 온 가짜 메일이요. 링크가 달린 청구서요.
+Femke: Drie weken geleden? Dan zaten ze al drie weken in ons netwerk?
+3주 전이요? 그럼 3주 동안 우리 네트워크 안에 있었던 거예요?
+Priya: Ja. Ze hebben rustig rondgekeken voordat ze toesloegen. Dat doen ze meestal.
+네. 공격하기 전에 천천히 둘러본 거예요. 보통 그래요.
+Thijs: En de gegevens?
+그럼 데이터는요?
+Priya: Ze hebben een deel van de personeelsadministratie gekopieerd. Namen, adressen. Geen bankgegevens van medewerkers, en geen tekeningen van klanten. Die stonden op de aparte server.
+인사 관리 자료 일부를 복사해 갔어요. 이름, 주소요. 직원 은행 정보는 없고, 고객 도면도 없어요. 그건 별도 서버에 있었으니까요.
+Femke: Dan moeten de medewerkers het vandaag horen. En de Autoriteit Persoonsgegevens.
+그럼 오늘 직원들에게 알려야 해요. 그리고 개인정보보호청에도요.
+Priya: De melding bij de AP heb ik al voorbereid. Hij kan vandaag de deur uit, binnen de termijn.
+개인정보보호청 신고서는 이미 준비해 뒀어요. 기한 안에 오늘 보낼 수 있어요.
+Ruud: En er is nog iets. De daders hebben gisteren een nieuw bericht gestuurd. Als we niet betalen, zetten ze de gegevens online.
+그리고 하나 더 있어요. 범인들이 어제 새 메시지를 보냈어요. 돈을 안 내면 데이터를 온라인에 올리겠대요.
+Gerrit: Smeerlappen.
+나쁜 놈들.
+Femke: Verandert dat iets aan ons besluit?
+그게 우리 결정을 바꿔요?
+Thijs: Nee. Als we betalen, hebben we geen enkele garantie dat ze het niet toch doen.
+아니요. 돈을 내도 그렇게 안 한다는 보장은 전혀 없어요.
+Femke: Dan blijft het nee. En we vertellen de medewerkers precies dat: dat hun naam en adres misschien online komen, wat ze kunnen doen, en dat we ze helpen.
+그럼 계속 거절이에요. 그리고 직원들에게 정확히 그렇게 말해요. 이름과 주소가 온라인에 올라갈 수도 있다는 것, 무엇을 할 수 있는지, 그리고 우리가 돕겠다는 것.
+Priya: En de systemen? Vanaf morgen draait het planningssysteem weer. Schoon, uit de back-up van zondag. Met extra beveiliging en een tweede inlogstap voor iedereen.
+그리고 시스템은요? 내일부터 생산 계획 시스템이 다시 돌아가요. 일요일 백업으로 깨끗하게요. 보안을 강화하고, 모두에게 2단계 로그인을 적용해서요.
+Gerrit: (zucht van opluchting) Godzijdank. Mijn handschrift is onleesbaar. De halve fabriek heeft gisteren een verkeerd onderdeel gemaakt omdat ze mijn zeven voor een één aanzagen.
+(안도의 한숨) 다행이다. 내 글씨는 못 알아보거든요. 어제 공장 절반이 내 7을 1로 보고 엉뚱한 부품을 만들었어요.
+Thijs: Een heel klein beetje van de halve fabriek.
+'공장 절반'의 아주 작은 일부죠.
+Gerrit: Het voelde als de halve fabriek.
+절반처럼 느껴졌다니까요.
+— Scène 6: Het kantoor van inkoop, die middag (그날 오후, 구매팀 사무실) —
+Sanne: (met rode ogen) Femke? Mag ik even? Ik… ik ben degene die op die link heeft geklikt.
+(눈이 빨개진 채) 펨커? 잠깐 괜찮아요? 제가… 그 링크를 누른 사람이에요.
+Femke: Kom binnen, Sanne. Ga zitten.
+들어와요, 산너. 앉아요.
+Sanne: Het leek een gewone factuur. Van een leverancier die we kennen. Ik heb er niet bij nagedacht.
+평범한 청구서 같았어요. 우리가 아는 공급업체였고요. 별생각 없이 눌렀어요.
+Femke: Dat begrijp ik. Die mails zijn gemaakt om er echt uit te zien. Daar trappen elke dag duizenden mensen in. Ook directeuren.
+이해해요. 그런 메일은 진짜처럼 보이게 만들어진 거예요. 매일 수천 명이 속아요. 대표들도요.
+Sanne: Maar door mij is alles stilgevallen. En nu staan de adressen van mijn collega's misschien online.
+하지만 저 때문에 모든 게 멈췄어요. 그리고 이제 동료들 주소가 온라인에 올라갈지도 몰라요.
+Femke: Niet door jou. Door criminelen. Jij bent niet de dader, Sanne. Jij bent ook slachtoffer.
+산너 때문이 아니에요. 범죄자들 때문이에요. 산너는 범인이 아니에요. 산너도 피해자예요.
+Sanne: (huilt zacht) Iedereen kijkt naar me.
+(조용히 울며) 다들 저를 쳐다봐요.
+Femke: Dan zeg ik het vanmiddag in de kantine: we zoeken geen schuldige. We zoeken oplossingen. Ik noem geen namen.
+그럼 오늘 오후 식당에서 말할게요. 우리는 탓할 사람을 찾는 게 아니라 해결책을 찾는다고요. 이름은 말하지 않을 거예요.
+Priya: (in de deuropening) Mag ik iets toevoegen? Sanne, je hebt het meteen gemeld toen je het hoorde. Dat helpt ons enorm. Veel mensen zwijgen uit schaamte, en dan duurt het onderzoek weken.
+(문간에서) 하나 덧붙여도 될까요? 산너, 소식을 듣자마자 바로 말해 줬잖아요. 그게 엄청 도움이 돼요. 많은 사람이 창피해서 입을 다물고, 그러면 조사가 몇 주씩 걸려요.
+Sanne: Echt?
+정말요?
+Priya: Echt. En ik heb een vraag: wil jij me helpen bij de training voor de rest van het bedrijf? Niemand kan beter uitleggen hoe echt zo'n mail eruitziet.
+정말요. 그리고 부탁이 있어요. 회사 사람들을 위한 교육을 도와줄래요? 그런 메일이 얼마나 진짜처럼 보이는지 산너보다 잘 설명할 사람은 없어요.
+Sanne: (veegt haar ogen af) Als dat helpt, ja.
+(눈물을 닦으며) 도움이 된다면, 네.
+Femke: Dat helpt. Meer dan je denkt.
+도움 돼요. 생각보다 훨씬 더요.
+— Scène 7: Op de parkeerplaats, die avond (그날 저녁, 주차장) —
+Femke: Priya. Ga naar huis. Je hebt vier dagen niet geslapen.
+프리야. 집에 가요. 나흘째 못 잤잖아요.
+Priya: Drie en een half. Ik heb op dinsdag een uur op de bank in de kantine gelegen.
+사흘 반이에요. 화요일에 식당 소파에서 한 시간 누웠어요.
+Femke: Dat telt niet. (stil) Weet je wat je hebt gedaan?
+그건 안 쳐요. (조용히) 프리야가 뭘 해냈는지 알아요?
+Priya: Mijn werk.
+제 일이요.
+Femke: Je hebt in september de machines losgekoppeld, toen iedereen vond dat het overdreven was. Je hebt in november de back-ups geregeld en een oefening gedaan. Daardoor heeft deze fabriek geen dag stilgestaan.
+9월에 다들 과하다고 할 때 기계를 분리했어요. 11월엔 백업을 마련하고 훈련까지 했고요. 그 덕분에 이 공장은 하루도 멈추지 않았어요.
+Priya: (zacht) Ik was zo bang dat het niet zou werken.
+(작게) 안 될까 봐 너무 무서웠어요.
+Femke: Dat zag niemand. Je was rustig. Je vroeg steeds: wat weten we zeker? Die vraag heeft ons gered.
+아무도 못 봤어요. 침착했어요. 계속 "확실히 아는 게 뭐냐"고 물었죠. 그 질문이 우리를 살렸어요.
+Priya: Weet je nog, mijn eerste dag bij Keizer & Co? Ik zei in de vergadering geen woord.
+기억나요? Keizer & Co 첫날. 회의에서 한마디도 못 했잖아요.
+Femke: Ik weet het nog. En deze week heb je een crisis geleid.
+기억나요. 그리고 이번 주엔 위기 대응을 지휘했죠.
+Priya: (lacht moe) Mag ik nu naar huis?
+(지친 웃음) 이제 집에 가도 돼요?
+Femke: Je moet naar huis. En morgen kom je pas om twaalf uur. Dat is een opdracht van je directeur.
+가야 해요. 그리고 내일은 12시에나 와요. 이건 대표의 지시예요.
+Priya: (glimlacht) Dan kom ik om twaalf uur. Voor de update in de kantine.
+(미소 지으며) 그럼 12시에 올게요. 식당 업데이트 시간에 맞춰서요.
+
+## 주요 단어
+de ransomware | 더 랜섬웨어 | 랜섬웨어(몸값 요구 악성코드)
+gijzelen → heeft gegijzeld | 헤이절런 → 헤이프트 허헤이절트 | 인질로 잡다
+het losgeld | 헷 로스헬트 | 몸값
+versleutelen → heeft versleuteld | 버르슬뢰털런 → 헤이프트 버르슬뢰털트 | 암호화하다
+de back-up | 더 베켭 | 백업
+de dader | 더 다더르 | 범인
+aangifte doen | 안히프터 둔 | (경찰에) 신고하다
+melden → heeft gemeld | 멜던 → 헤이프트 허멜트 | 보고하다, 신고하다
+de verzekeraar | 더 버르제이커라르 | 보험사
+de Autoriteit Persoonsgegevens (AP) | 더 아우토리테이트 페르손스허헤이번스 | 개인정보보호청
+de nepmail | 더 넵메일 | 가짜 메일(피싱 메일)
+toeslaan → heeft toegeslagen | 투슬란 → 헤이프트 투허슬라헌 | (공격을) 감행하다
+de beveiliging | 더 버페일리힝 | 보안
+speculeren → heeft gespeculeerd | 스페퀼레런 → 헤이프트 헤스페퀼레이르트 | 추측하다
+de smeerlap | 더 스메이르랍 | (욕설) 나쁜 놈
+
+## 표현·문법 정리
+**Wij betalen geen losgeld:** "우리는 몸값을 내지 않는다." 위기 초기에 원칙을 분명히 선언하면 이후 결정이 쉬워집니다.
+**Wat weten we zeker?:** "확실히 아는 게 뭐죠?" 위기 대응의 첫 질문. 이어서 Wat weten we niet?(모르는 건?)
+**Wij communiceren open:** "우리는 솔직하게 소통합니다." 언론 인용용 한 문장.
+**Dit is geen oefening:** "이건 훈련이 아닙니다." 비상 상황 선언.
+**Stap voor stap:** "한 단계씩." 혼란 속에서 순서를 정하는 말.
+**Je bent me voor:** "선수 치셨네요, 먼저 하셨네요." iemand voor zijn.
+**daar zijn we wettelijk toe verplicht:** "그건 법적 의무예요." verplicht zijn tot iets + daar…toe 분리.
+**op straat liggen:** "(정보가) 밖에 다 퍼져 있다." Liggen onze tekeningen op straat?
+**desnoods:** "필요하면, 정 안 되면." We betalen desnoods handmatig.
+**de deur uit kunnen:** "(문서가) 발송될 수 있다." De melding kan vandaag de deur uit.
+**iets aanzien voor:** "~을 ~로 착각하다." mijn zeven voor een één aanzien.
+**Dat telt niet:** "그건 안 쳐요."
+**pas:** "~에야 (비로소)." Morgen kom je pas om twaalf uur.
+
+## 컨설팅 스킬 노트
+**위기 커뮤니케이션의 세 요소:** ① 확실한 사실(kantoornetwerk aangevallen, productie draait) ② 모르는 것과 언제 알게 될지(gegevens: onderzoeken we) ③ 다음 업데이트 시각(elke dag om twaalf uur). 소식이 없어도 "소식이 없다"고 알립니다.
+**청중별 메시지:** 직원(월급·개인정보·행동 지침) · 고객(도면 안전·납품 지속·매일 4시 업데이트) · 언론(인용 가능한 한 문장) · 감독기관(법정 기한 내 신고). 같은 사실, 다른 관심사.
+**준비가 위기를 결정한다:** 9월의 인터넷 분리, 11월의 오프라인 백업과 모의 훈련, 10월의 사이버 보험, 그리고 바스의 종이 출력. 위기 당일에 할 수 있는 일은 이미 준비한 것뿐입니다.
+**역할 분담:** "Ik regel de techniek, jij regelt de mensen." 기술 책임자가 지휘하고, CEO는 사람과 외부 소통을 맡습니다. 위기 때 CEO가 모든 걸 직접 하려 하면 병목이 됩니다.
