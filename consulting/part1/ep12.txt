@@ -1,0 +1,291 @@
+# 1부 12화. Het WHOA-akkoord (법정 외 회생 합의)
+수준: 중상급 (B2) | 장소: Van Dam 본사 → 부동산 펀드 사무실(위트레흐트) → Keizer & Co 마르턴의 방 → 위트레흐트 법원 → 법원 앞 카페 | 시간: 6월 초
+배경 현안: WHOA(법정 외 구조조정 합의의 법원 인가 제도), 상업용 부동산 임대료 문제, 소매업 구조조정, 컨설팅의 이해충돌
+핵심 표현: Iedereen moet iets inleveren · Dit is ons laatste bod · Daar teken ik niet voor · Wat is uw alternatief? · Dat is de prijs die we betalen
+💼 스킬: 협상(BATNA: 합의가 안 될 때의 최선의 대안)
+
+## 대화
+— Scène 1: Vergaderruimte op het hoofdkantoor van Van Dam (Van Dam 본사 회의실) —
+Saskia: Goedemorgen. Saskia Vos, advocaat insolventierecht. Ronald heeft me gevraagd jullie de WHOA uit te leggen.
+안녕하세요. 도산법 변호사 사스키아 포스예요. 로날트가 여러분께 WHOA를 설명해 달라고 했어요.
+Priya: Graag. Ik ken alleen de afkorting.
+부탁드려요. 저는 약자만 알아요.
+Saskia: Wet homologatie onderhands akkoord. Simpel gezegd: een bedrijf in de problemen kan zijn schuldeisers een plan voorleggen, zonder failliet te gaan. De rechter kan dat plan dan bekrachtigen.
+'법정 외 합의 인가에 관한 법'이에요. 간단히 말해, 어려움에 처한 회사가 파산하지 않고 채권자들에게 계획을 제시할 수 있어요. 그러면 법원이 그 계획을 인가할 수 있죠.
+Thijs: Ook als niet iedereen het ermee eens is?
+모두가 동의하지 않아도요?
+Saskia: Onder voorwaarden, ja. De schuldeisers stemmen in klassen: de bank, de verhuurders, de leveranciers. Als minstens één klasse die er iets mee wint akkoord gaat, kan de rechter het plan ook opleggen aan klassen die tegen stemmen.
+조건을 갖추면, 네. 채권자들은 그룹별로 투표해요. 은행, 임대인, 공급업체. 이득을 보는 그룹 중 최소 한 그룹이 동의하면, 법원은 반대한 그룹에도 계획을 적용할 수 있어요.
+Femke: Wat zijn die voorwaarden?
+그 조건이 뭐예요?
+Saskia: De belangrijkste: niemand mag er slechter van worden dan bij een faillissement. En de verdeling moet redelijk zijn.
+가장 중요한 건, 누구도 파산했을 때보다 더 나빠지면 안 된다는 거예요. 그리고 분배가 합리적이어야 하고요.
+Ronald: Dus iedereen moet iets inleveren, maar niemand mag meer verliezen dan bij een faillissement.
+그러니까 모두 뭔가를 내놓아야 하지만, 누구도 파산 때보다 더 잃어선 안 되는 거군요.
+Priya: En de kleine leveranciers? Sommigen zijn familiebedrijfjes die alleen aan Van Dam leveren.
+그럼 소규모 공급업체는요? 일부는 Van Dam에만 납품하는 작은 가족 회사예요.
+Saskia: Die vormen meestal een aparte klasse. Zij krijgen vaak een hoger percentage, juist omdat ze kwetsbaar zijn.
+그들은 보통 별도 그룹을 이뤄요. 취약하기 때문에 오히려 더 높은 비율을 받는 경우가 많아요.
+Femke: Hoeveel kunnen we hun bieden?
+그들에게 얼마를 제시할 수 있어요?
+Thijs: Veertig procent, direct. Meer kan niet zonder dat de bank afhaakt.
+40%를 즉시요. 그 이상은 은행이 빠져나가지 않고서는 불가능해요.
+Ronald: Veertig procent is weinig voor een bakker die al dertig jaar onze stroopwafels levert.
+30년째 우리한테 스트룹와플을 납품하는 제빵사한테 40%는 적어요.
+Femke: Dat is het. Maar bij een faillissement krijgt hij bijna niets. En met het akkoord blijft hij leverancier. Dat moeten we hem persoonlijk uitleggen.
+그렇죠. 하지만 파산하면 거의 아무것도 못 받아요. 그리고 합의안으로는 계속 공급업체로 남아요. 그걸 직접 만나서 설명해야 해요.
+Saskia: Precies. Wie zijn uw grootste schuldeisers?
+맞아요. 가장 큰 채권자는 누구예요?
+Thijs: De bank en de verhuurders. Vooral Kroonvast, een vastgoedfonds. Zij bezitten negentien van onze panden.
+은행과 임대인들이요. 특히 부동산 펀드인 크론파스트예요. 우리 건물 중 19채를 소유하고 있어요.
+Femke: En die huren liggen vaak twintig, dertig procent boven de markt. Afgesproken in de tijd dat winkelstraten nog vol waren.
+그리고 그 임대료가 시세보다 20~30% 높은 경우가 많아요. 상점가가 아직 꽉 차 있던 시절에 맺은 계약이죠.
+Saskia: Wat willen jullie van Kroonvast?
+크론파스트에 뭘 원하세요?
+Thijs: Drie dingen. Vier panden teruggeven. In zes andere panden de bovenste verdiepingen teruggeven. En een huurverlaging van vijfentwintig procent op de rest.
+세 가지요. 건물 4채 반환. 다른 6채에서는 위층 반환. 나머지는 임대료 25% 인하.
+Saskia: Dat is veel. Ze zullen zeggen dat ze daarmee miljoenen verliezen.
+많네요. 그러면 수백만 유로를 잃는다고 할 거예요.
+Femke: Wat verliezen ze als Van Dam failliet gaat?
+Van Dam이 파산하면 그들은 뭘 잃어요?
+Thijs: Negentien lege warenhuizen in winkelstraten die al half leeg zijn. Die verhuur je niet zomaar aan iemand anders.
+이미 반쯤 빈 상점가의 텅 빈 백화점 19채요. 그걸 다른 사람한테 쉽게 임대할 수는 없죠.
+Saskia: Dan is dat jullie sterkste argument. Wat is hun alternatief?
+그럼 그게 가장 강한 논거네요. 그들의 대안은 뭘까요?
+Priya: En Deventer? Thijs heeft uitgerekend dat die winkel open kan blijven als de bovenste verdiepingen weg zijn.
+그리고 데벤터르는요? 테이스가 위층을 반환하면 그 매장은 계속 문을 열 수 있다고 계산했어요.
+Thijs: Klopt. Dan gaat de lijst van twaalf naar tien.
+맞아요. 그러면 목록이 12곳에서 10곳으로 줄어요.
+Ronald: (glimlacht) Wilma zal blij zijn. En haar zus.
+(미소 지으며) 빌마가 기뻐하겠네요. 그 언니도요.
+Saskia: Eerst Kroonvast overtuigen. Daarna feest.
+먼저 크론파스트를 설득해야죠. 축하는 그다음에요.
+— Scène 2: Het kantoor van Kroonvast in Utrecht (위트레흐트, 크론파스트 사무실) —
+Bert: Meneer Kuijpers, ik heb uw voorstel gelezen. Eerlijk gezegd vind ik het brutaal.
+카위퍼르스 씨, 제안서를 읽었어요. 솔직히 뻔뻔하다고 생각해요.
+Ronald: Dat begrijp ik. Het is ook geen prettig voorstel.
+이해해요. 유쾌한 제안이 아니긴 하죠.
+Bert: Vier panden terug, verdiepingen terug en een kwart minder huur. Onze beleggers zijn pensioenfondsen. Mensen die van hun pensioen moeten leven.
+건물 4채 반환, 층 반환, 그리고 임대료 4분의 1 인하. 우리 투자자는 연금기금이에요. 연금으로 생활해야 하는 사람들이죠.
+Femke: Dat weten we. Daarom willen we een oplossing waarbij uw beleggers zo weinig mogelijk verliezen.
+알아요. 그래서 투자자분들이 최대한 적게 잃는 해법을 원하는 거예요.
+Bert: Dan betaalt u gewoon de huur die we hebben afgesproken.
+그럼 약속한 임대료를 그냥 내시면 되죠.
+Thijs: Als we dat doen, is Van Dam binnen zes maanden failliet. Dan krijgt u in een faillissement een paar procent van wat u gevorderd heeft. En negentien lege panden.
+그렇게 하면 Van Dam은 6개월 안에 파산해요. 파산하면 청구액의 몇 퍼센트밖에 못 받으세요. 그리고 빈 건물 19채가 남고요.
+Bert: Lege panden kunnen we opnieuw verhuren.
+빈 건물은 다시 임대할 수 있어요.
+Femke: Aan wie? Wat is uw alternatief? Hoe lang heeft het pand in Zwolle leeggestaan voordat Van Dam erin kwam?
+누구한테요? 대안이 뭐예요? 즈볼러 건물은 Van Dam이 들어오기 전에 얼마나 비어 있었죠?
+Bert: (stilte) Twee jaar.
+(침묵) 2년이요.
+Femke: En dat was toen de winkelstraten het nog goed deden.
+그때는 상점가가 아직 잘되던 시절이었고요.
+Bert: U heeft uw huiswerk gedaan.
+숙제를 해 오셨군요.
+Thijs: Wij hebben het doorgerekend. Met ons voorstel krijgt Kroonvast de komende tien jaar ongeveer zeventig procent van de huidige huur. Bij een faillissement minder dan twintig.
+계산해 봤어요. 저희 제안대로라면 크론파스트는 앞으로 10년간 현재 임대료의 약 70%를 받아요. 파산하면 20%도 안 되고요.
+Bert: En de vier panden die u teruggeeft?
+그럼 반환하는 건물 4채는요?
+Femke: Twee daarvan staan in binnensteden waar de gemeente woningen wil. U kunt ze ombouwen tot appartementen. In deze woningmarkt is dat geen verlies.
+그중 2채는 시가 주택을 원하는 도심에 있어요. 아파트로 개조하실 수 있어요. 지금 같은 주택 시장에선 손해가 아니에요.
+Bert: (leunt achterover) Dat is eigenlijk niet dom.
+(의자에 기대며) 사실 나쁘지 않은 생각이네요.
+Ronald: Wij willen een partner blijven, meneer Lammers. Geen schuldenaar die u voor de rechter moet slepen.
+저희는 계속 파트너로 남고 싶어요, 라머르스 씨. 법정에 끌고 가야 하는 채무자가 아니라요.
+Bert: Twintig procent huurverlaging. Geen vijfentwintig.
+임대료 20% 인하. 25%는 안 돼요.
+Thijs: Vijfentwintig, maar we tekenen voor tien jaar in plaats van vijf. Dat geeft uw beleggers zekerheid.
+25%요. 대신 계약 기간을 5년이 아니라 10년으로 할게요. 투자자분들께 안정성을 드리는 거죠.
+Bert: (na een lange stilte) Tweeëntwintig en een half. Tien jaar. Dit is ons laatste bod.
+(긴 침묵 끝에) 22.5%. 10년. 이게 우리의 마지막 제안이에요.
+Ronald: (kijkt naar Thijs, die knikt) Akkoord.
+(고개를 끄덕이는 테이스를 보고) 동의합니다.
+Bert: Dan stemt Kroonvast voor het akkoord. Maar ik wil het allemaal zwart op wit.
+그럼 크론파스트는 합의에 찬성표를 던질게요. 하지만 전부 문서로 남겨 주세요.
+Saskia: Dat regel ik vandaag nog.
+오늘 바로 처리할게요.
+Bert: (tegen Femke) U onderhandelt hard, mevrouw.
+(펨커에게) 협상을 세게 하시네요.
+Femke: Ik onderhandel eerlijk. Dat voelt soms hetzelfde.
+저는 정직하게 협상해요. 가끔은 그게 같게 느껴지죠.
+— Scène 3: Bij de huisbank van Van Dam (Van Dam의 주거래 은행) —
+Bankier: Goedemiddag. Ik heb begrepen dat Kroonvast akkoord is. Dat verandert de zaak.
+안녕하세요. 크론파스트가 동의했다고 들었어요. 그럼 얘기가 달라지죠.
+Ronald: Dat hoopten we. Kan de bank ook voor het akkoord stemmen?
+그러길 바랐어요. 은행도 합의에 찬성할 수 있을까요?
+Bankier: Onder twee voorwaarden. Eén: wij blijven de eerste die terugbetaald wordt. Twee: elk kwartaal een rapportage over de kasstroom.
+두 가지 조건이 있어요. 첫째, 우리가 계속 최우선 상환 대상일 것. 둘째, 분기마다 현금흐름 보고서를 낼 것.
+Thijs: De eerste is al geregeld in het plan. De tweede vinden wij verstandig. Wij zouden het zelf ook adviseren.
+첫째는 이미 계획에 반영돼 있어요. 둘째는 현명하다고 봐요. 저희도 그렇게 권했을 거예요.
+Bankier: (verrast) Een consultant die om meer controle vraagt. Dat is nieuw.
+(놀라며) 통제를 더 해 달라는 컨설턴트라. 새롭네요.
+Thijs: Ik heb tien jaar aan uw kant van de tafel gezeten. Ik weet wat een bank wil zien.
+저는 10년을 그쪽 자리에 앉아 있었어요. 은행이 뭘 보고 싶어 하는지 알아요.
+Bankier: Waar zit voor ons het grootste risico?
+우리에게 가장 큰 위험은 어디 있죠?
+Thijs: In de eerste twaalf maanden. De sluiting van tien winkels kost eerst geld voordat het geld oplevert. Daarom hebben we een buffer van zes miljoen ingebouwd.
+첫 12개월이요. 매장 10곳 폐쇄는 돈을 벌어 주기 전에 먼저 돈이 들어요. 그래서 600만 유로의 완충 자금을 넣어 뒀어요.
+Bankier: En als die buffer niet genoeg is?
+그 완충 자금이 모자라면요?
+Femke: Dan ziet u het als eerste, in de kwartaalrapportage. Niet pas als het te laat is.
+그럼 분기 보고서에서 제일 먼저 보시게 될 거예요. 너무 늦었을 때가 아니라요.
+Bankier: (knikt) Goed. Dan adviseer ik onze kredietcommissie om voor te stemmen.
+(고개를 끄덕이며) 좋아요. 그럼 우리 여신위원회에 찬성하라고 권하겠습니다.
+Ronald: Dank u. Dat is een enorme opluchting.
+감사합니다. 정말 큰 안도예요.
+— Scène 4: Het kantoor van Maarten op de Zuidas (주이다스, 마르턴의 사무실) —
+Maarten: Femke! Kom binnen. Ik hoor geweldige verhalen over Van Dam.
+펨커! 들어와요. Van Dam 건으로 대단한 소식이 들려요.
+Femke: Kroonvast stemt voor. De bank waarschijnlijk ook. Over twee weken is de zitting bij de rechtbank.
+크론파스트가 찬성해요. 은행도 아마 그럴 거고요. 2주 뒤에 법원 심리가 있어요.
+Maarten: Prachtig. En daarna? Ik heb met Ronald gesproken. Hij is enthousiast over ons.
+훌륭해요. 그다음엔요? 로날트와 이야기했어요. 우리한테 아주 열광하더군요.
+Femke: Daarna is onze opdracht klaar.
+그다음엔 우리 일은 끝나죠.
+Maarten: Juist niet. Daarna begint het echte werk. Een transformatieprogramma. Twee jaar, een team van zes. Ik heb al een voorstel geschreven.
+천만에요. 그다음부터 진짜 일이 시작돼요. 혁신 프로그램이요. 2년, 6명 팀. 벌써 제안서를 써 놨어요.
+Femke: (leest) Twee komma vier miljoen euro.
+(읽으며) 240만 유로.
+Maarten: Een koopje, voor wat we leveren.
+우리가 제공하는 걸 생각하면 싼 거죠.
+Femke: Maarten, Van Dam vraagt zijn verhuurders om tweeëntwintig procent huur in te leveren. De medewerkers in tien winkels verliezen hun baan. En wij sturen een factuur van twee komma vier miljoen?
+마르턴, Van Dam은 건물주들에게 임대료 22%를 깎아 달라고 하고 있어요. 매장 10곳 직원들은 일자리를 잃어요. 그런데 우리가 240만 유로짜리 청구서를 보낸다고요?
+Maarten: Ronald heeft hulp nodig. Dat zegt hij zelf.
+로날트는 도움이 필요해요. 본인이 그렇게 말해요.
+Femke: Hij heeft hulp nodig, ja. Maar hij heeft eerst geld nodig om te overleven. Als de rechter dit plan ziet en daarnaast een dure consultancyopdracht, vraagt hij zich af of de schuldeisers niet voor ons betalen.
+도움이 필요한 건 맞아요. 하지만 먼저 살아남을 돈이 필요해요. 법원이 이 계획 옆에 비싼 컨설팅 계약까지 보면, 채권자들이 우리 비용을 대는 건 아닌지 의문을 가질 거예요.
+Maarten: Dat is een juridische spitsvondigheid.
+그건 법률적 트집이에요.
+Femke: Het is een kwestie van fatsoen. Daar teken ik niet voor.
+그건 품위의 문제예요. 저는 거기에 서명하지 않겠어요.
+Maarten: (scherp) Jij hoeft nergens voor te tekenen. Ik ben de partner.
+(날카롭게) 당신은 어디에도 서명할 필요 없어요. 파트너는 나예요.
+Femke: Dan zeg ik het anders. Mijn naam staat op het WHOA-plan. Als u dit voorstel stuurt, vraag ik u mijn naam van het project te halen.
+그럼 다르게 말할게요. WHOA 계획에는 제 이름이 들어가요. 그 제안서를 보내시면, 프로젝트에서 제 이름을 빼 달라고 할 거예요.
+Maarten: (na een stilte) Je dreigt me?
+(잠시 침묵 후) 나를 협박하는 거예요?
+Femke: Nee. Ik vertel u waar mijn grens ligt. Na de homologatie, als Van Dam weer kan ademen, kunnen we praten over een klein vervolg. Tegen een eerlijke prijs.
+아니요. 제 한계선이 어디인지 말씀드리는 거예요. 인가가 나고 Van Dam이 숨을 돌리면, 작은 후속 작업은 이야기할 수 있어요. 정직한 가격으로요.
+Maarten: (leunt achterover, kijkt naar het raam) Weet je wat het probleem is met idealisten, Femke? Ze hebben vaak gelijk. Dat maakt ze zo vermoeiend.
+(의자에 기대 창밖을 보며) 이상주의자의 문제가 뭔지 알아요, 펨커? 맞는 말을 할 때가 많다는 거예요. 그래서 그렇게 피곤하죠.
+Femke: Dat is de prijs die we betalen voor een goede naam.
+그게 좋은 평판을 위해 치르는 대가예요.
+Maarten: Goed. Het voorstel blijft in mijn la. Tot na de rechtbank. Maar dit vergeet ik niet.
+좋아요. 제안서는 서랍에 넣어 둘게요. 법원 심리가 끝날 때까지는요. 하지만 이건 잊지 않을 거예요.
+Femke: Ik ook niet.
+저도요.
+— Scène 5: De rechtbank in Utrecht (위트레흐트 법원) —
+Rechter: De zitting is geopend. Aan de orde is het verzoek tot homologatie van het akkoord van Van Dam Warenhuizen. Mevrouw Vos?
+개정합니다. 오늘 안건은 Van Dam 백화점의 합의안 인가 신청입니다. 포스 변호사님?
+Saskia: Dank u, edelachtbare. Het akkoord is aangeboden aan vier klassen schuldeisers. De bank, de verhuurders en de leveranciers hebben voor gestemd. De klasse van de kleine crediteuren heeft tegen gestemd.
+감사합니다, 재판장님. 합의안은 네 그룹의 채권자에게 제시되었습니다. 은행, 임대인, 공급업체는 찬성했습니다. 소액 채권자 그룹은 반대했습니다.
+Rechter: Waarom heeft die klasse tegen gestemd?
+그 그룹은 왜 반대했죠?
+Advocaat leveranciers: Edelachtbare, de kleine leveranciers krijgen slechts veertig procent van hun vordering. Voor een kleine onderneming is dat een zware klap.
+재판장님, 소규모 공급업체들은 채권액의 40%만 받습니다. 작은 회사에게는 큰 타격입니다.
+Rechter: Mevrouw Vos, wat zou deze groep bij een faillissement ontvangen?
+포스 변호사님, 이 그룹은 파산 시 얼마를 받게 됩니까?
+Saskia: Volgens de onafhankelijke berekening, edelachtbare, nul tot vijf procent. Met het akkoord ontvangen zij veertig procent, en ze kunnen bovendien leverancier blijven.
+독립된 계산에 따르면, 재판장님, 0~5%입니다. 합의안으로는 40%를 받고, 게다가 계속 공급업체로 남을 수 있습니다.
+Rechter: Die berekening heb ik gezien. Meneer Brouwer, u heeft de cijfers opgesteld?
+그 계산은 봤습니다. 브라우어르 씨, 그 숫자를 작성하셨죠?
+Thijs: Ja, edelachtbare. Samen met een onafhankelijke accountant, die alles heeft gecontroleerd.
+네, 재판장님. 전부 검증한 독립 회계사와 함께요.
+Rechter: Ik heb een vraag. Hoe zeker is het dat Van Dam na dit akkoord kan overleven?
+질문이 있습니다. 이 합의 후 Van Dam이 살아남을 수 있다는 건 얼마나 확실합니까?
+Thijs: Zekerheid bestaat niet, edelachtbare. Maar met de lagere huren, tien winkels minder en de nieuwe formule draait Van Dam volgens het basisscenario binnen twee jaar weer break-even.
+확실성이란 없습니다, 재판장님. 하지만 낮아진 임대료, 매장 10곳 감축, 새 콘셉트로 기본 시나리오상 2년 안에 다시 손익분기에 도달합니다.
+Rechter: Zijn er kosten in het plan opgenomen die niet direct met de sanering te maken hebben? Bijvoorbeeld adviseurs?
+계획에 구조조정과 직접 관련 없는 비용이 포함되어 있습니까? 예를 들어 자문료 같은 거요?
+Femke: (kijkt even naar Thijs) Alleen de kosten die in de bijlage staan, edelachtbare. Er zijn geen vervolgopdrachten afgesproken.
+(잠시 테이스를 보며) 부록에 기재된 비용뿐입니다, 재판장님. 약정된 후속 계약은 없습니다.
+Rechter: Dank u. Dat is goed om te horen. Ik doe over een week uitspraak. Maar ik zeg alvast: het akkoord lijkt mij zorgvuldig voorbereid.
+감사합니다. 다행입니다. 일주일 뒤 선고하겠습니다. 하지만 미리 말씀드리면, 합의안은 신중하게 준비된 것으로 보입니다.
+Ronald: (zacht) Is dat goed?
+(작게) 좋은 거예요?
+Saskia: (zacht) Dat is heel goed.
+(작게) 아주 좋은 거예요.
+— Scène 6: Een café tegenover de rechtbank (법원 맞은편 카페) —
+Ronald: Ik heb de afgelopen maand niet geslapen. Vannacht ga ik slapen als een roos.
+지난 한 달 동안 잠을 못 잤어요. 오늘 밤엔 푹 잘 거예요.
+Priya: Wat zei Wilma toen u het belde?
+빌마한테 전화했을 때 뭐라고 했어요?
+Ronald: Ze zei: "Mooi zo. En nu niet weer verpesten." (lacht) En haar zus nodigt Thijs uit voor de heropening van Deventer.
+"잘됐네요. 이제 다시 망치지만 마요." (웃으며) 그리고 그 언니가 데벤터르 재개장에 테이스를 초대했어요.
+Thijs: Met appeltaart, hoop ik.
+애플파이도 있으면 좋겠네요.
+Femke: (telefoon trilt; ze leest) Ingrid. "Ik hoorde over de rechtbank. En over Maarten. Goed gedaan. Laten we volgende week lunchen."
+(휴대폰이 진동하고, 그녀가 읽는다) 잉그리드예요. "법원 얘기 들었어요. 마르턴 얘기도요. 잘했어요. 다음 주에 점심 같이 해요."
+Thijs: Wat was er met Maarten?
+마르턴이랑 무슨 일 있었어요?
+Femke: Hij wilde Van Dam een programma van twee miljoen verkopen. Ik heb nee gezegd.
+Van Dam에 200만 유로짜리 프로그램을 팔고 싶어 했어요. 제가 안 된다고 했어요.
+Priya: Tegen een partner? Durfde je dat?
+파트너한테요? 그럴 용기가 났어요?
+Femke: Ik moest wel. Als de rechter het had gezien, was het hele akkoord in gevaar geweest. En het zou niet eerlijk zijn geweest.
+그래야만 했어요. 법원이 그걸 봤다면 합의 전체가 위험해졌을 거예요. 그리고 공정하지도 않았을 거고요.
+Ronald: Wacht. Daarom vroeg de rechter naar vervolgopdrachten?
+잠깐만요. 그래서 판사가 후속 계약에 대해 물은 거예요?
+Femke: Rechters zijn niet naïef.
+판사들은 순진하지 않아요.
+Ronald: (stil) Dank u. Ik had ja gezegd tegen Maarten. Ik was zo blij met jullie dat ik alles had getekend.
+(조용히) 고마워요. 저는 마르턴한테 동의했을 거예요. 여러분이 너무 고마워서 뭐든 서명했을 거예요.
+Femke: Dat weet ik. Daarom moest iemand nee zeggen.
+알아요. 그래서 누군가는 안 된다고 해야 했어요.
+Thijs: (heft zijn glas) Op Van Dam. En op de appeltaart in Deventer.
+(잔을 들며) Van Dam을 위하여. 그리고 데벤터르의 애플파이를 위하여.
+Priya: En op nee zeggen tegen partners.
+그리고 파트너에게 안 된다고 말하기를 위하여.
+Femke: (lacht) Dat laatste niet te hard. Hij heeft overal oren.
+(웃으며) 그건 너무 크게 말하지 마요. 그 사람은 사방에 귀가 있어요.
+Ronald: (een week later, aan de telefoon) Saskia? En?
+(일주일 후, 전화로) 사스키아? 그래서요?
+Saskia: Gehomologeerd, Ronald. De rechter heeft het akkoord goedgekeurd. Voor alle klassen.
+인가됐어요, 로날트. 법원이 합의안을 승인했어요. 모든 그룹에 대해서요.
+Ronald: (sluit zijn ogen) Dank je. Dank je wel.
+(눈을 감으며) 고마워요. 정말 고마워요.
+Saskia: En er staat een zin in de uitspraak die je moet lezen: "Het akkoord getuigt van een evenwichtige verdeling van de lasten."
+그리고 판결문에 꼭 읽어 봐야 할 문장이 있어요. "이 합의안은 부담을 균형 있게 분배하고 있음을 보여 준다."
+Ronald: Die zin hang ik in mijn kantoor.
+그 문장은 제 사무실에 걸어 둘게요.
+Saskia: Hang hem maar naast de foto van je grootvader.
+할아버님 사진 옆에 걸어 두세요.
+
+## 주요 단어
+de schuldeiser | 더 스휠트에이서르 | 채권자
+de crediteur | 더 크레디퇴르 | 채권자(특히 거래 채권)
+het faillissement | 헷 파이이서먼트 | 파산
+de rechtbank | 더 레흐트방크 | 법원
+de zitting | 더 지팅 | (법원) 심리, 공판
+homologeren → heeft gehomologeerd | 호몰로헤런 → 헤이프트 허호몰로헤이르트 | (법원이) 인가하다
+bekrachtigen → heeft bekrachtigd | 버크라흐터헌 → 헤이프트 버크라흐터흐트 | 승인하다, 확정하다
+de vordering | 더 포르더링 | 채권, 청구액
+de verhuurder | 더 버르휘르더르 | 임대인
+de huurverlaging | 더 휘르버를라힝 | 임대료 인하
+de belegger | 더 벌레이허르 | 투자자
+het vastgoedfonds | 헷 파스트후트폰츠 | 부동산 펀드
+de sanering | 더 사네이링 | 구조조정, 정리
+de uitspraak | 더 아위트스프라크 | 판결, 선고
+het fatsoen | 헷 팟순 | 품위, 예의
+
+## 표현·문법 정리
+**Iedereen moet iets inleveren:** "모두가 뭔가를 내놓아야 한다." inleveren = 반납하다, (권리·이익을) 포기하다. 구조조정의 기본 원칙.
+**Dit is ons laatste bod:** "이게 우리의 마지막 제안이에요." het bod = 제시 가격. een bod doen(가격을 제시하다).
+**Daar teken ik niet voor:** "저는 거기에 서명(동의)하지 않겠어요." tekenen voor = ~에 서명하다, 동의하다. 원칙적 거부.
+**Wat is uw alternatief?:** "대안이 뭐예요?" 상대가 합의를 거부하면 어떻게 될지 스스로 보게 하는 질문(BATNA).
+**Dat is de prijs die we betalen (voor…):** "그게 (~을 위해) 우리가 치르는 대가예요."
+**er slechter van worden:** "그것 때문에 더 나빠지다." Niemand mag er slechter van worden dan bij een faillissement.
+**zwart op wit:** "문서로, 확실하게." Ik wil het zwart op wit.
+**edelachtbare:** "재판장님." 법정에서 판사를 부르는 호칭.
+**aan de orde zijn:** "안건이다, 다루어지다." Aan de orde is het verzoek tot homologatie.
+**uitspraak doen:** "판결을 선고하다." Ik doe over een week uitspraak.
+**bij een faillissement / in een faillissement:** "파산 시 / 파산 절차에서."
+**Ik moest wel:** "그래야만 했어요." wel이 '어쩔 수 없이'를 강조합니다.
+**slapen als een roos:** "푹 자다." 직역하면 '장미처럼 자다'.
+
+## 컨설팅 스킬 노트
+**BATNA:** Best Alternative To a Negotiated Agreement(협상이 결렬될 때의 최선의 대안). 상대의 BATNA가 나쁠수록 내 협상력은 커집니다. 크론파스트의 BATNA = 파산 시 20% 미만 회수 + 빈 건물 19채(즈볼러는 2년 공실).
+**상대에게 계산하게 하기:** "Hoe lang heeft het pand in Zwolle leeggestaan?" 위협하지 않고 상대가 자기 대안을 떠올리게 하는 질문이 가장 강합니다.
+**교환 조건 만들기:** 임대료 인하 폭(상대가 싫어함)과 계약 기간(상대가 좋아함)을 맞바꿔 20% vs 25%의 교착을 22.5% + 10년으로 풀었습니다.
+**이해충돌을 경계하기:** 고객이 위기일 때 큰 후속 계약을 파는 것은 고객 신뢰와 절차 정당성(법원의 판단)을 모두 해칩니다. 한계선은 "Daar teken ik niet voor"처럼 분명하게 말합니다.
