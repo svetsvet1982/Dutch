@@ -1,5 +1,5 @@
 # 2부 1화. De eerste honderd dagen (첫 100일)
-수준: 중상급 (B2) | 장소: Verhoef Precisie 정문 → 직원 식당 → CEO실 → 야간 근무 작업장 → 감독이사회 회의실 | 시간: 9월 1일 ~ 12월 초
+수준: 중상급 (B2) | 장소: Verhoef Precisie 정문 → 직원 식당 → CEO실 → 야간 근무 작업장 → 감독이사회 회의실 | 시간: 9월 1일 ~ 10월 초
 배경 현안: 브레인포트 지역의 제조업 정체성, 외부 경영자에 대한 현장의 불신, 노후한 IT 시스템
 핵심 표현: Ik ben hier om te luisteren · Hoe gaat het hier echt? · Dat zien we dan wel · Wat zou jij doen als je mij was? · Ik kom erop terug
 💼 스킬: 100일 계획(듣기 → 작은 승리 → 우선순위)
@@ -222,11 +222,11 @@ Femke: Dan is dat volgende week opgelost.
 그럼 다음 주에 해결할게요.
 Sevda: (glimlacht voor het eerst) Dan hebben we een begin.
 (처음으로 미소 지으며) 그럼 시작은 됐네요.
-— Scène 6: Dag honderd, de raad van commissarissen (100일째, 감독이사회) —
-Frans: Honderd dagen, mevrouw Hoekstra. Wat heeft u gezien en wat gaat u doen?
-100일이에요, 훅스트라 씨. 무엇을 봤고 무엇을 할 건가요?
-Femke: Ik heb met tweehonderdtachtig van de driehonderdveertig medewerkers gesproken. Ook met de nachtploeg. Drie conclusies.
-직원 340명 중 280명과 이야기했어요. 야간 조와도요. 결론은 세 가지예요.
+— Scène 6: Dag dertig, de raad van commissarissen (30일째, 감독이사회) —
+Frans: Dertig dagen, mevrouw Hoekstra. Wat heeft u gezien, en wat is uw plan voor de eerste honderd dagen?
+30일이 지났어요, 훅스트라 씨. 무엇을 봤고, 첫 100일 계획은 뭔가요?
+Femke: Ik heb met honderdvijftig van de driehonderdveertig medewerkers gesproken. Ook met de nachtploeg. Drie conclusies tot nu toe.
+직원 340명 중 150명과 이야기했어요. 야간 조와도요. 지금까지의 결론은 세 가지예요.
 Femke: Eén: we verdienen te weinig geld met te veel stilstand. Twee: het bedrijf draait op het hoofd van een paar mensen en op een Excelbestand. Drie: de mensen zijn goed en trots, maar ze worden niet gehoord.
 첫째, 가동 중단이 너무 많아서 돈을 너무 적게 벌고 있어요. 둘째, 회사가 몇몇 사람의 머리와 엑셀 파일 하나로 돌아가요. 셋째, 직원들은 실력 있고 자부심이 있지만 목소리를 내지 못하고 있어요.
 Marloes: Wat heeft u al gedaan?
@@ -235,8 +235,8 @@ Femke: Drie kleine dingen. De machines zijn losgekoppeld van internet. Er is een
 작은 일 세 가지요. 기계들을 인터넷에서 분리했어요. 밤에도 연락되는 생산 계획 담당자를 뽑았어요. 그리고 매달 OR과 공장 전체에 숫자를 공유해요. 다들 우리 상황이 어떤지 알 수 있게요.
 Frans: En de grote dingen?
 그럼 큰일들은요?
-Thijs: Die komen nu. Ik heb na drie weken de echte cijfers. En die zijn niet goed. Daar wil ik de volgende vergadering over praten. Uitgebreid.
-이제 시작이에요. 3주 걸려서 실제 숫자를 파악했어요. 좋지 않아요. 다음 회의 때 그걸 자세히 이야기하고 싶어요.
+Thijs: Die komen in de komende zeventig dagen. Over twee weken heb ik de echte cijfers. Ik vermoed dat ze niet goed zijn. Daar wil ik dan uitgebreid over praten.
+앞으로 70일 동안 다룰 거예요. 2주 뒤면 실제 숫자가 나와요. 좋지 않을 것 같아요. 그때 자세히 이야기하고 싶어요.
 Gerrit: (onverwacht) Mag ik iets zeggen?
 (뜻밖에) 제가 한마디 해도 될까요?
 Frans: Natuurlijk, Gerrit.
@@ -285,7 +285,7 @@ bereikbaar | 버레이크바르 | 연락 가능한
 **브라반트 인사:** goeiemorgen(구어 '좋은 아침') · houdoe(잘 가요) · doei(안녕). Gerrit는 표준어에 가까운 구어를 씁니다.
 
 ## 컨설팅 스킬 노트
-**100일 계획의 세 단계:** ① 듣기(첫 50일: 280명 인터뷰, 야간 조 포함) ② 작은 승리(인터넷 분리, 계획 담당자 채용, 숫자 공유) ③ 우선순위 선언(100일째 감독이사회에 결론 세 가지).
+**100일 계획의 세 단계:** ① 듣기(첫 50일 목표, 30일 만에 150명 인터뷰, 야간 조 포함) ② 작은 승리(인터넷 분리, 계획 담당자 채용, 숫자 공유) ③ 우선순위 선언(30일째 감독이사회에 중간 결론 세 가지와 남은 70일의 계획).
 **상징적 행동:** 열어 둔 문(deurstop), 새벽 2시의 보온병 커피, 방문객 주차장. 새 리더의 말보다 행동이 먼저 퍼집니다.
 **숨은 전문가 찾기:** 변화를 싫어한다던 IT 담당 Ruud는 "돈과 시간이 있다면 뭘 하겠어요?"라는 질문에 20분을 이야기했습니다. 저항은 종종 '아무도 묻지 않았다'는 데서 나옵니다.
 **핵심 인물 의존 위험:** 회사가 "몇 사람의 머리와 엑셀 파일 하나"로 돌아가면 그 사람이 떠날 때 회사도 멈춥니다(창업자 Jan의 죽음이 증명). 지식을 시스템으로 옮기는 것이 첫 과제입니다.
