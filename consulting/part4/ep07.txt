@@ -1,0 +1,294 @@
+# 4부 7화. Het lek (유출)
+수준: 고급 (C1) | 장소: 심야의 당사 위기 회의 → 후보 3번의 집 → 사무총장실 → 주이다스로 건 전화 → 캠프 데이터실(유출 경로 추적) → 기자회견 → 새벽의 당사 | 시간: 5월 말, 선거 20일 전
+배경 현안: 후보 검증(screening)의 허점, 정치인의 과거 사업 실패와 세금 체납, 선거 캠프 내부 유출, 선거 막판의 네거티브 보도
+핵심 표현: Wie A zegt, moet ook B zeggen · Wij zijn niet perfect, wel eerlijk · Dit blijft niet bij één dag · Wat weten we zeker? · Hij moet het zelf vertellen
+💼 스킬: 스캔들 대응(사실 확인 → 당사자가 먼저 말하기 → 구조적 원인 인정)
+
+## 대화
+— Scène 1: Het partijbureau, middernacht (자정, 당사) —
+Mark: (rent binnen met zijn telefoon) Morgen in De Nieuwe Courant. Ik heb net een voorpublicatie gekregen. "Nummer drie van Brug liet schulden achter bij faillissement. Belastingdienst wacht nog op geld."
+(휴대폰을 들고 뛰어 들어오며) 내일 «De Nieuwe Courant»에 실린대요. 방금 사전 기사를 받았어요. "Brug 3번 후보, 파산하며 빚 남겨. 국세청은 아직 돈을 기다리는 중."
+Kees: (wordt bleek) Willem-Jan.
+(창백해지며) 빌럼얀이네.
+Femke: Wat weten we zeker?
+확실히 아는 게 뭐예요?
+Mark: Dat Willem-Jan Brouwers twaalf jaar geleden een restaurantketen had die failliet ging. Dat staat in het faillissementsregister. Dat is openbaar.
+빌럼얀 브라우어르스가 12년 전에 파산한 레스토랑 체인을 갖고 있었다는 거요. 파산 등록부에 나와 있어요. 공개 정보예요.
+Femke: En de belastingschuld?
+그럼 세금 체납은요?
+Mark: Volgens de krant is er nog tweehonderdduizend euro open bij de Belastingdienst. En een paar leveranciers zijn nooit betaald.
+신문 말로는 국세청에 아직 20만 유로가 미납이래요. 그리고 납품업자 몇 명은 한 푼도 못 받았고요.
+Kees: Dat wist ik niet. Dat stond niet in zijn screening.
+그건 몰랐어요. 후보 검증 때 안 나왔어요.
+Femke: Wie deed de screening?
+검증은 누가 했어요?
+Kees: (stil) Een commissie van drie partijleden. Ik zat erin. We hebben een gesprek met hem gevoerd en een verklaring laten tekenen dat er "geen zaken uit het verleden zijn die de partij kunnen schaden".
+(조용히) 당원 세 명으로 된 위원회요. 나도 들어가 있었어요. 그 사람과 면담하고 "당에 해가 될 만한 과거 일은 없다"는 확인서에 서명을 받았어요.
+Thijs: Heeft iemand het faillissementsregister nagekeken?
+파산 등록부를 확인한 사람은 있었어요?
+Kees: (na een lange stilte) Nee.
+(긴 침묵 끝에) 아니요.
+Femke: Dan is dit geen probleem van Willem-Jan alleen. Het is ook een probleem van ons.
+그럼 이건 빌럼얀만의 문제가 아니에요. 우리 문제이기도 해요.
+Anouk: (komt binnen in een jas over haar pyjama) Ik kwam zo snel ik kon. Wat is er?
+(잠옷 위에 외투를 걸치고 들어오며) 최대한 빨리 왔어요. 무슨 일이에요?
+Mark: (geeft haar zijn telefoon) Lees zelf maar.
+(그녀에게 휴대폰을 건네며) 직접 읽어 보세요.
+Anouk: (leest, zucht diep) Twintig dagen voor de verkiezingen.
+(읽고 깊게 한숨 쉬며) 선거 20일 전에.
+Kees: Het moet gelekt zijn. Iemand die Willem-Jan kent en ons kwaad wil doen. (aarzelt) Willem-Jan heeft me ooit verteld wie hem adviseerde bij het faillissement. Maarten Keizer.
+누가 흘렸을 거예요. 빌럼얀을 알고 우리를 해치고 싶은 사람이요. (머뭇거리며) 빌럼얀이 예전에 파산 때 누가 자문해 줬는지 말해 준 적이 있어요. 마르턴 케이저르요.
+Femke: (kijkt op) Maarten?
+(고개를 들며) 마르턴이요?
+Kees: Hij heeft een reden. Jij hebt hem vorig jaar in een rapport neergezet. Payvaart. Dit is wraak.
+동기가 있잖아요. 작년에 당신이 보고서에 그를 적어 넣었잖아요. Payvaart 건. 이건 복수예요.
+Femke: Dat is een vermoeden, Kees. Geen feit. We gaan niemand beschuldigen voordat we het weten.
+그건 의심이에요, 케이스. 사실이 아니라요. 알기 전에는 누구도 탓하지 않아요.
+Anouk: Wat doen we eerst?
+뭐부터 해요?
+Femke: Eerst Willem-Jan. Vannacht nog. Wij moeten zijn verhaal horen voordat de krant het vertelt.
+먼저 빌럼얀이요. 오늘 밤 바로요. 신문이 말하기 전에 그 사람 이야기를 들어야 해요.
+— Scène 2: In de auto naar Willem-Jan (빌럼얀에게 가는 차 안) —
+Mark: We kunnen een verklaring sturen. Kort. "Brug heeft vertrouwen in de heer Brouwers." En verder niets.
+성명을 보낼 수 있어요. 짧게요. "Brug는 브라우어르스 씨를 신뢰한다." 그리고 끝.
+Femke: Dan vraagt elke journalist morgen: waarom? En dan hebben we geen antwoord.
+그럼 내일 모든 기자가 물을 거예요. 왜요? 그럼 우리는 답이 없죠.
+Kees: Of hij trekt zich terug. Vandaag nog. Dan is het verhaal morgen voorbij.
+아니면 본인이 물러나는 거죠. 오늘 바로. 그럼 내일이면 이야기가 끝나요.
+Femke: Misschien. Maar dan weten we nog steeds niet of het verhaal klopt. Misschien sturen we een eerlijke man weg om een krantenkop.
+그럴 수도요. 하지만 그래도 그 이야기가 맞는지 우린 여전히 몰라요. 신문 제목 하나 때문에 정직한 사람을 내보내는 걸 수도 있어요.
+Anouk: Wat stel jij voor?
+그럼 펨커는 뭘 제안해요?
+Femke: Eerst zijn verhaal horen. Dan de bewijzen zien. En als het verhaal klopt, hij moet het zelf vertellen. Niet de partij. Niet de woordvoerder. Hij.
+먼저 그 사람 이야기를 듣고, 그다음 증거를 보는 거예요. 그리고 이야기가 맞다면 본인이 직접 말해야 해요. 당도 대변인도 아니고, 그 사람이요.
+Mark: Hij moet het zelf vertellen. Dat is riskant. Wat als hij huilt op tv?
+본인이 직접 말해야 한다라. 위험해요. TV에서 울면 어떡해요?
+Femke: Dan huilt hij. Mensen zien het verschil tussen iemand die huilt omdat hij betrapt is en iemand die huilt omdat hij zich schaamt.
+그럼 우는 거죠. 사람들은 들켜서 우는 사람과 부끄러워서 우는 사람의 차이를 알아봐요.
+Kees: (kijkt uit het raam) In 1998 hadden we een kandidaat die een bekeuring had verzwegen. We lieten de woordvoerder het uitleggen. Het verhaal duurde drie weken.
+(창밖을 보며) 1998년에 과태료를 숨긴 후보가 있었어요. 대변인이 설명하게 했죠. 그 이야기가 3주를 갔어요.
+Anouk: En als hij het zelf had verteld?
+본인이 직접 말했다면요?
+Kees: Dan had het misschien één dag geduurd. Maar dat hebben we nooit geprobeerd.
+그럼 하루면 끝났을지도요. 하지만 그건 한 번도 시도해 보지 않았어요.
+— Scène 3: Bij Willem-Jan thuis, één uur 's nachts (새벽 1시, 빌럼얀의 집) —
+Willem-Jan: (in de deuropening, verward) Femke? Kees? Wat is er?
+(문간에서 어리둥절해하며) 펨커? 케이스? 무슨 일이에요?
+Kees: Mogen we binnenkomen? Het staat morgen in de krant.
+들어가도 될까요? 내일 신문에 나와요.
+Willem-Jan: (wordt stil, laat ze binnen) Het restaurant.
+(조용해지며 들어오게 한다) 레스토랑 일이군요.
+Femke: Vertel het ons. Alles. Ook wat niet in de krant staat.
+전부 말해 주세요. 신문에 안 나온 것까지요.
+Willem-Jan: (gaat zitten) Twaalf jaar geleden had ik vier restaurants. Het ging goed, en toen niet meer. De crisis. Ik heb te lang doorgezet. Ik dacht dat het weer zou aantrekken.
+(자리에 앉으며) 12년 전에 레스토랑이 네 곳 있었어요. 잘되다가 안 되기 시작했죠. 경제 위기요. 너무 오래 버텼어요. 다시 좋아질 줄 알았거든요.
+Thijs: En de belastingschuld?
+그럼 세금 체납은요?
+Willem-Jan: Na het faillissement had ik persoonlijk nog een schuld bij de Belastingdienst. Driehonderdduizend. Ik heb een regeling getroffen. Ik betaal al tien jaar elke maand. Er staat nog honderdtwintigduizend open. Niet tweehonderdduizend.
+파산 후에 국세청에 개인 채무가 남았어요. 30만 유로요. 분할 납부 약정을 맺었어요. 10년째 매달 내고 있어요. 남은 건 12만이에요. 20만이 아니라요.
+Femke: Kunt u dat bewijzen?
+증명할 수 있어요?
+Willem-Jan: (staat op, pakt een map) Hier. Elke afschrijving. Elke brief van de Belastingdienst. Ik heb nooit een maand gemist.
+(일어나 파일을 꺼내며) 여기요. 이체 내역 하나하나. 국세청 편지 하나하나. 한 달도 빠뜨린 적 없어요.
+Thijs: (bladert) Het klopt. Een betalingsregeling, keurig nagekomen.
+(넘겨 보며) 맞네요. 분할 납부 약정을 깔끔하게 지켜 왔어요.
+Femke: En de leveranciers?
+그럼 납품업자들은요?
+Willem-Jan: (kijkt naar de grond) Die heb ik niet betaald. Dat kon niet. Bij een faillissement krijgen leveranciers vaak niets. Een groenteboer uit Breda. Een slager uit Tilburg. Ik heb ze nooit meer durven bellen.
+(바닥을 내려다보며) 그분들은 못 갚았어요. 그럴 수가 없었어요. 파산하면 납품업자들은 대개 아무것도 못 받거든요. 브레다의 채소 가게 주인. 틸뷔르흐의 정육점 주인. 다시는 전화할 엄두가 안 났어요.
+Kees: Waarom heb je dit niet verteld bij de screening?
+왜 검증 때 이걸 말하지 않았어요?
+Willem-Jan: Omdat ik dacht dat het voorbij was. Ik betaal netjes. Het faillissement is twaalf jaar geleden. En ik schaamde me.
+끝난 일이라고 생각했으니까요. 꼬박꼬박 내고 있고, 파산은 12년 전 일이고. 그리고 부끄러웠어요.
+Femke: Dat begrijp ik. Maar dat ligt morgen op de keukentafel van een miljoen mensen. Wie A zegt, moet ook B zeggen. Als u de kandidatuur heeft aangenomen, moet u nu ook het hele verhaal vertellen. Zelf.
+이해해요. 하지만 내일 그게 백만 명의 부엌 식탁에 올라가요. A를 말했으면 B도 말해야 해요. 후보직을 받아들였다면 이제 전체 이야기도 말해야 해요. 직접요.
+Willem-Jan: Zelf? Op tv?
+직접요? TV에서요?
+Femke: Morgenochtend. Voordat iemand anders het vertelt. Met de bewijzen van de regeling. En met wat u niet heeft gedaan: de leveranciers.
+내일 아침에요. 다른 사람이 말하기 전에요. 분할 납부 증거와 함께요. 그리고 하지 못한 것까지요. 납품업자들 얘기요.
+Willem-Jan: (zacht) En als ik dat niet kan?
+(작게) 그걸 못 하겠으면요?
+Anouk: Dan moeten we samen beslissen of u op de lijst kunt blijven. De lijst is al ingediend, we kunnen u er niet meer afhalen. Maar u kunt zeggen dat u uw zetel niet inneemt.
+그럼 후보 명부에 남을 수 있을지 같이 결정해야 해요. 명부는 이미 제출돼서 우리가 뺄 수는 없어요. 하지만 당선돼도 의석을 받지 않겠다고 말할 수는 있어요.
+Willem-Jan: (na een lange stilte) Ik vertel het. Zelf. Maar dan wil ik ook iets doen voor die groenteboer en die slager.
+(긴 침묵 끝에) 말할게요. 직접요. 하지만 그 채소 가게 주인과 정육점 주인을 위해서도 뭔가를 하고 싶어요.
+Femke: Wat?
+뭘요?
+Willem-Jan: Ze terugbetalen. Van mijn eigen geld. Het is niet veel, twintigduizend samen. Ik had het jaren geleden moeten doen.
+갚는 거요. 제 돈으로요. 많지 않아요, 둘이 합쳐서 2만 유로요. 몇 년 전에 했어야 했어요.
+— Scène 4: Het kantoor van Kees, drie uur 's nachts (새벽 3시, 케이스의 사무실) —
+Kees: (giet twee koppen koffie in) Het is mijn schuld. Ik heb hem gescreend. Ik heb een papier laten tekenen en niets nagekeken.
+(커피 두 잔을 따르며) 내 잘못이에요. 내가 검증했어요. 서류에 서명만 받고 아무것도 확인하지 않았어요.
+Femke: Hoe ging een screening vroeger?
+예전엔 검증을 어떻게 했어요?
+Kees: Je kende elkaar. Je wist wie iemand was. Een gesprek, een handtekening, en dan vertrouwde je elkaar.
+서로 아는 사이였죠. 누가 어떤 사람인지 알았어요. 면담 한 번, 서명 하나, 그리고 서로 믿었죠.
+Femke: En nu?
+그럼 지금은요?
+Kees: Nu staat alles online, en vindt een journalist in tien minuten wat ik in tien jaar niet heb gezocht.
+지금은 다 온라인에 있고, 내가 10년 동안 찾아보지 않은 걸 기자는 10분 만에 찾아내죠.
+Femke: Dan moeten we dat ook zeggen. Dat de screening niet goed genoeg was. Dat is geen schande. Het is een fout die we herstellen.
+그럼 그것도 말해야 해요. 검증이 충분하지 않았다고요. 그건 수치가 아니에요. 바로잡을 실수예요.
+Kees: (kijkt haar aan) U wilt dat de partij zegt dat ze een fout heeft gemaakt? Twintig dagen voor de verkiezingen?
+(그녀를 바라보며) 선거 20일 전에 당이 실수했다고 말하길 원한다고요?
+Femke: Ik heb dat vorig jaar zelf gedaan. Met een bijlage in een rapport. Het kostte ons een opdracht. En het leverde ons een nieuwe op. Van iemand die zei: wie zijn fouten zo openlijk toegeeft, durven wij te vertrouwen.
+작년에 제가 직접 그렇게 했어요. 보고서 부록 때문에요. 일 하나를 잃었죠. 그리고 새 일 하나를 얻었어요. 실수를 이렇게 공개적으로 인정하는 사람이라면 믿을 수 있겠다는 사람한테서요.
+Kees: (lange stilte) En Maarten?
+(긴 침묵) 그럼 마르턴은요?
+Femke: Die bel ik. Nu.
+지금 전화할게요.
+Kees: Om drie uur 's nachts?
+새벽 3시에요?
+Femke: Als hij het gelekt heeft, slaapt hij toch niet. En als hij het niet heeft gedaan, wil hij het weten voordat u hem beschuldigt.
+그 사람이 흘렸다면 어차피 못 자고 있을 거예요. 안 그랬다면 당신이 그 사람을 탓하기 전에 알고 싶어 할 거고요.
+— Scène 5: Femke belt Maarten (펨커, 마르턴에게 전화하다) —
+Maarten: (slaperig) Hoekstra. Het is drie uur. Is er iemand dood?
+(졸린 목소리로) 훅스트라. 새벽 3시예요. 누가 죽었어요?
+Femke: Nee. Maar ik moet je iets vragen, en ik wil dat je eerlijk antwoordt. Morgen staat in de krant dat Willem-Jan Brouwers schulden heeft van een faillissement. Heb jij dat aan een journalist verteld?
+아니요. 하지만 물어볼 게 있어요. 솔직하게 대답해 줘요. 내일 신문에 빌럼얀 브라우어르스가 파산으로 빚을 졌다는 기사가 나와요. 당신이 그걸 기자한테 말했어요?
+Maarten: (nu klaarwakker, na een stilte) Nee.
+(잠이 확 깨서, 잠시 침묵 후) 아니요.
+Femke: Kees denkt van wel. Omdat je hem bij het faillissement hebt geadviseerd. En omdat ik je vorig jaar in een rapport heb gezet.
+케이스는 당신이라고 생각해요. 파산 때 그를 자문했고, 작년에 제가 당신을 보고서에 적었으니까요.
+Maarten: (lacht bitter) Kees Dijkhuizen. Natuurlijk. We hebben in 1994 samen een campagne verloren en hij denkt nog steeds dat het mijn schuld was.
+(씁쓸하게 웃으며) 케이스 데이크하위전. 당연하지. 1994년에 같이 선거를 졌는데 아직도 그게 내 탓이라고 생각해요.
+Femke: Ik vraag het niet voor Kees. Ik vraag het voor mezelf.
+케이스를 위해 묻는 게 아니에요. 저 자신을 위해서 묻는 거예요.
+Maarten: (na een lange stilte) Femke, ik heb Willem-Jan geholpen omdat ik vond dat een eerlijke ondernemer die pech had, een tweede kans verdiende. Ik zou dat nooit gebruiken om iemand kapot te maken. En ik zou jou nooit kapot willen maken. Ook niet na Payvaart.
+(긴 침묵 끝에) 펨커, 나는 운이 나빴던 정직한 사업가는 두 번째 기회를 받을 자격이 있다고 생각해서 빌럼얀을 도왔어요. 그걸 누구를 망가뜨리는 데 쓰진 않을 거예요. 그리고 당신을 망가뜨리고 싶지도 않아요. Payvaart 이후에도요.
+Femke: Weet je wie het wel weet?
+그럼 누가 알고 있을지 알아요?
+Maarten: Zijn oude zakenpartner. Ruud Kemper. Ze hebben ruzie gekregen na het faillissement. Kemper heeft altijd gezegd dat Willem-Jan hem heeft laten vallen. En Kemper staat sinds vorig jaar op de lijst van de Partij voor Zekerheid in Brabant. Plaats achtentwintig.
+옛 동업자요. 뤼트 켐퍼르. 파산 후에 둘이 싸웠어요. 켐퍼르는 늘 빌럼얀이 자기를 버렸다고 했죠. 그리고 켐퍼르는 작년부터 브라반트에서 «Partij voor Zekerheid» 명부에 올라 있어요. 28번이요.
+Femke: (stil) Dat kan ik nakijken.
+(조용히) 그건 확인해 볼 수 있겠네요.
+Maarten: Kijk het na. Vertrouw me niet op mijn woord. Dat heb ik je zelf geleerd.
+확인해요. 내 말만 믿지 말고요. 그건 내가 직접 가르쳐 준 거잖아요.
+Femke: Dat was Ingrid.
+그건 잉그리드였어요.
+Maarten: (lacht) Altijd Ingrid. Zeg tegen Kees dat ik hem nog steeds een fles wijn schuld ben. Van 1994. Hij had gelijk over de affiches.
+(웃으며) 늘 잉그리드지. 케이스한테 1994년 와인 한 병 아직 빚졌다고 전해 줘요. 포스터 건은 그 사람 말이 맞았다고요.
+— Scène 6: De dataruimte, vijf uur 's ochtends (새벽 5시, 데이터실) —
+Sara: (met rode ogen voor haar scherm) Maarten had gelijk. Ruud Kemper staat op plaats achtentwintig van de Partij voor Zekerheid in Noord-Brabant. En de journalist van De Nieuwe Courant heeft vorige maand een interview met hem gedaan. Over "ondernemers die door de overheid in de steek zijn gelaten".
+(빨개진 눈으로 화면 앞에서) 마르턴 말이 맞았어요. 뤼트 켐퍼르는 북브라반트 «Partij voor Zekerheid» 명부 28번이에요. 그리고 «De Nieuwe Courant» 기자가 지난달 그 사람을 인터뷰했어요. "정부에 버림받은 사업가들"에 대해서요.
+Thijs: Dat bewijst niet dat hij het gelekt heeft.
+그게 그 사람이 흘렸다는 증거는 아니잖아요.
+Sara: Nee. Maar het bedrag in het artikel. Tweehonderdduizend. Dat was de schuld vijf jaar geleden, toen ze nog met elkaar praatten. Iemand met oude informatie.
+아니죠. 하지만 기사에 나온 금액이요. 20만. 그건 5년 전, 둘이 아직 연락하던 때의 채무 금액이에요. 오래된 정보를 가진 사람이죠.
+Femke: Dat is interessant. Maar we gaan niet zeggen dat de Partij voor Zekerheid achter het lek zit. Dat kunnen we niet bewijzen. En het maakt het verhaal over Willem-Jan niet minder waar.
+흥미롭네요. 하지만 «Partij voor Zekerheid»가 유출 배후라고 말하진 않을 거예요. 증명할 수 없으니까요. 그리고 그렇다고 빌럼얀 이야기가 덜 사실이 되는 것도 아니고요.
+Thijs: Wat doen we dan met deze informatie?
+그럼 이 정보로 뭘 해요?
+Femke: Niets. We houden het vast. Als iemand ons vraagt waarom het bedrag niet klopt, zeggen we: omdat de bron oude informatie had. Niet wie de bron is.
+아무것도요. 갖고만 있어요. 누가 왜 금액이 틀리냐고 물으면, 출처가 오래된 정보를 갖고 있었기 때문이라고 해요. 출처가 누군지는 말하지 않고요.
+Thijs: En het filmpje van de repetitie? Dat lek?
+그럼 리허설 영상은요? 그 유출은요?
+Sara: (na een stilte) Dat heb ik ook uitgezocht. Het kwam van een telefoon in de studio. Een stagiair. Tim. Hij heeft het naar een vriend gestuurd, "omdat het grappig was". Die vriend heeft het online gezet.
+(잠시 침묵 후) 그것도 알아봤어요. 스튜디오에 있던 휴대폰에서 나왔어요. 인턴이요. 팀. "웃겨서" 친구한테 보냈대요. 그 친구가 온라인에 올렸고요.
+Kees: (in de deuropening) Een stagiair. Geen samenzwering. Geen Maarten.
+(문간에서) 인턴이라. 음모가 아니었네. 마르턴도 아니고.
+Femke: Wat doen we met Tim?
+팀은 어떻게 할까요?
+Kees: (zucht) Vroeger had ik hem op straat gezet. (stil) Laat hem morgen bij me komen. Ik ga hem uitleggen waarom je in een campagne niets doorstuurt omdat het grappig is. Een stagiair die een fout maakt, leert meer dan een stagiair die wordt ontslagen.
+(한숨) 예전 같으면 쫓아냈을 거예요. (조용히) 내일 나한테 오라고 해요. 선거 캠프에선 웃기다는 이유로 아무것도 보내면 안 되는 이유를 설명해 줄게요. 실수한 인턴이 해고된 인턴보다 더 많이 배워요.
+Femke: (glimlacht) Dat klinkt als iets uit mijn boekje.
+(미소 지으며) 제 수첩에 있는 말 같네요.
+Kees: Ik heb er ook een, sinds vorige maand. Zeg het tegen niemand.
+나도 지난달부터 하나 생겼어요. 아무한테도 말하지 마요.
+— Scène 7: De repetitie met Willem-Jan, zeven uur 's ochtends (아침 7시, 빌럼얀과의 리허설) —
+Willem-Jan: (met trillende handen, een vel papier) Ik heb een tekst geschreven. Twee pagina's.
+(떨리는 손으로 종이를 들고) 원고를 썼어요. 두 쪽이요.
+Femke: Mag ik hem lezen? (leest) Dit is goed. Maar het is te lang. Na drie zinnen luistert niemand meer naar een verdediging.
+읽어 봐도 될까요? (읽으며) 좋아요. 하지만 너무 길어요. 변명은 세 문장만 지나도 아무도 안 들어요.
+Willem-Jan: Wat moet ik dan zeggen?
+그럼 뭐라고 해야 해요?
+Femke: Eerst: het is waar. Dan: wat u wel heeft gedaan. Tien jaar afbetalen, met bewijzen. Dan: wat u niet heeft gedaan. De groenteboer en de slager. En dan: wat u nu doet.
+먼저, 사실이다. 그다음, 한 일. 10년 동안 갚았고 증거가 있다. 그다음, 하지 못한 일. 채소 가게 주인과 정육점 주인. 그리고 지금 하는 일.
+Willem-Jan: Waarom de leveranciers? Die staan niet eens in de krant.
+납품업자들 얘기는 왜요? 그건 신문에도 안 나왔잖아요.
+Femke: Nog niet. Over drie dagen wel. En dan is het een tweede verhaal. Als u het vandaag zelf zegt, is er geen tweede verhaal.
+아직은요. 사흘 뒤면 나올 거예요. 그럼 두 번째 기사가 되죠. 오늘 직접 말하면 두 번째 기사는 없어요.
+Willem-Jan: (stil) Ik heb de groenteboer vanochtend gebeld. Om zes uur. Hij stond al op de veiling.
+(조용히) 오늘 아침에 채소 가게 주인한테 전화했어요. 6시에요. 벌써 경매장에 나가 있더군요.
+Willem-Jan: Hij zei: "Ik dacht dat je dood was." En toen begon hij te lachen. En toen ik ook.
+"네가 죽은 줄 알았다"고 하더라고요. 그러고 웃기 시작했어요. 저도 그랬고요.
+Femke: Vertel dat niet op de persconferentie. Maar onthoud het. Het is waarom u daar staat.
+그건 기자회견에서 말하지 마세요. 하지만 기억하세요. 그게 당신이 거기 서는 이유예요.
+— Scène 8: De persconferentie, acht uur 's ochtends (아침 8시, 기자회견) —
+Willem-Jan: (voor de camera's, met zijn map) Goedemorgen. Vandaag staat in de krant dat ik schulden heb achtergelaten bij een faillissement. Dat is waar. Ik wil u het hele verhaal vertellen.
+(카메라 앞에서 파일을 들고) 안녕하십니까. 오늘 신문에 제가 파산하면서 빚을 남겼다는 기사가 나왔습니다. 사실입니다. 전체 이야기를 말씀드리고 싶습니다.
+Willem-Jan: Twaalf jaar geleden ging mijn restaurantketen failliet. Ik heb te lang doorgezet. Daarna had ik een schuld bij de Belastingdienst. Ik betaal die al tien jaar af, elke maand. Hier zijn de bewijzen. Er staat nog honderdtwintigduizend euro open.
+12년 전 제 레스토랑 체인이 파산했습니다. 너무 오래 버텼습니다. 그 뒤 국세청에 빚이 남았습니다. 10년째 매달 갚고 있습니다. 여기 증거가 있습니다. 남은 금액은 12만 유로입니다.
+Willem-Jan: Maar er is ook iets wat ik niet heb gedaan. Twee kleine leveranciers, een groenteboer en een slager, heb ik nooit terugbetaald. Dat had ik moeten doen. Vanochtend heb ik ze allebei gebeld. Ik betaal ze deze week terug, van mijn eigen geld.
+하지만 제가 하지 않은 일도 있습니다. 작은 납품업자 두 분, 채소 가게 주인과 정육점 주인께 한 번도 돈을 갚지 않았습니다. 갚았어야 했습니다. 오늘 아침 두 분께 전화드렸습니다. 이번 주에 제 돈으로 갚겠습니다.
+Journalist: Waarom heeft u dit niet eerder verteld?
+왜 진작 말하지 않으셨습니까?
+Willem-Jan: Omdat ik me schaamde. Dat is geen excuus. Het is de waarheid.
+부끄러웠습니다. 핑계는 아닙니다. 사실입니다.
+Anouk: (stapt naar voren) En ik wil iets toevoegen. Brug heeft Willem-Jan gescreend, en we hebben het faillissementsregister niet gecontroleerd. Dat was onze fout. Vanaf vandaag controleren we bij elke kandidaat alle openbare registers. Wij zijn niet perfect, wel eerlijk.
+(앞으로 나서며) 그리고 덧붙이고 싶은 게 있습니다. Brug는 빌럼얀을 검증했지만 파산 등록부를 확인하지 않았습니다. 그건 우리 실수였습니다. 오늘부터 모든 후보에 대해 공개된 모든 등록부를 확인하겠습니다. 우리는 완벽하지 않습니다. 하지만 정직합니다.
+Journalist 2: In de krant stond tweehonderdduizend. U zegt honderdtwintig. Wie heeft gelijk?
+신문엔 20만이라고 나왔는데 120,000이라고 하시네요. 누가 맞습니까?
+Thijs: (deelt kopieën uit) Hier zijn de afschriften van de Belastingdienst. Het bedrag in de krant klopte vijf jaar geleden. De bron had kennelijk oude informatie.
+(사본을 나눠 주며) 여기 국세청 납부 내역입니다. 신문의 금액은 5년 전에는 맞았습니다. 출처가 오래된 정보를 갖고 있었던 것 같습니다.
+Jeroen: (achterin) Mevrouw Verbruggen. Blijft meneer Brouwers op de lijst?
+(뒤쪽에서) 페르브뤼헌 씨. 브라우어르스 씨는 명부에 남습니까?
+Anouk: De lijst is ingediend. En ik vind dat iemand die tien jaar lang elke maand zijn schuld afbetaalt en vandaag zijn fouten toegeeft, mag blijven. De kiezer beslist.
+명부는 제출됐습니다. 그리고 10년 동안 매달 빚을 갚아 왔고 오늘 자기 실수를 인정한 사람은 남아도 된다고 생각합니다. 판단은 유권자가 합니다.
+Jeroen: Dit blijft niet bij één dag, dat weet u.
+이게 하루로 끝나지 않을 거라는 거 아시죠.
+Femke: (naast hem, zacht) Dat weten we. Daarom vertellen we vandaag alles. Dan is er morgen niets meer om te vinden.
+(그의 옆에서 작게) 알아요. 그래서 오늘 다 말하는 거예요. 그럼 내일은 더 찾을 게 없으니까요.
+— Scène 9: Het partijbureau, die avond (그날 저녁, 당사) —
+Sara: De eerste peiling na het lek. We zijn een halve zetel gezakt. Van zes naar vijfenhalf.
+유출 이후 첫 여론조사예요. 반 석 떨어졌어요. 6석에서 5.5석으로요.
+Kees: Een halve zetel. Ik had er drie verwacht.
+반 석이라. 세 석은 떨어질 줄 알았는데.
+Mark: En de reacties online zijn verdeeld. Maar de meest gedeelde zin is van Anouk. "Wij zijn niet perfect, wel eerlijk."
+그리고 온라인 반응은 갈려요. 하지만 가장 많이 공유된 문장은 아나우크 거예요. "우리는 완벽하지 않다. 하지만 정직하다."
+Willem-Jan: (komt binnen met een doos) De groenteboer uit Breda heeft me een krat aardbeien gestuurd. Met een briefje. "Twaalf jaar te laat. Maar beter laat dan nooit."
+(상자를 들고 들어오며) 브레다의 채소 가게 주인이 딸기 한 상자를 보냈어요. 쪽지랑 같이요. "12년 늦었네. 하지만 안 하는 것보단 늦게라도 하는 게 낫지."
+Kees: (pakt een aardbei, en een fles wijn uit zijn la) En deze kwam vanmiddag. Van Maarten Keizer. Met een kaartje: "Voor 1994. Je had gelijk over de affiches."
+(딸기 하나를 집고 서랍에서 와인 한 병을 꺼내며) 그리고 이건 오늘 오후에 왔어요. 마르턴 케이저르한테서요. 카드가 같이 왔어요. "1994년 몫. 포스터 건은 네 말이 맞았어."
+Femke: (lacht) Wat was er met die affiches?
+(웃으며) 그 포스터는 무슨 일이었어요?
+Kees: (opent de fles) Hij wilde zijn gezicht erop. Ik wilde een woning erop. We kozen zijn gezicht. We verloren. (schenkt in) Dertig jaar te laat. Maar beter laat dan nooit.
+(병을 따며) 그 사람은 자기 얼굴을 넣고 싶어 했고, 나는 집 사진을 넣고 싶었어요. 그 사람 얼굴로 갔고, 졌죠. (잔을 채우며) 30년 늦었네요. 하지만 안 하는 것보단 늦게라도 하는 게 낫죠.
+
+## 주요 단어
+het lek | 헷 렉 | 유출(처), 새는 곳
+lekken → heeft gelekt | 레컨 → 헤이프트 헐레크트 | 유출하다
+de screening | 더 스크리닝 | (후보) 검증
+het faillissementsregister | 헷 파이이서먼츠레히스터르 | 파산 등록부
+de belastingschuld | 더 벌라스팅스휠트 | 세금 체납액
+de betalingsregeling | 더 버탈링스레이헐링 | 분할 납부 약정
+nakomen → heeft nagekomen | 나코먼 → 헤이프트 나허코먼 | (약속을) 지키다
+de afschrijving | 더 아프스흐레이빙 | (계좌) 이체, 인출 내역
+de kandidatenlijst | 더 칸디다턴레이스트 | 후보 명부
+de zetel innemen | 더 제이털 인네이먼 | 의석을 차지하다
+de zakenpartner | 더 자컨파르트너르 | 동업자
+de stagiair | 더 스타지에르 | 인턴, 실습생
+de samenzwering | 더 사먼즈베이링 | 음모
+de voorpublicatie | 더 포르퓌블리카치 | 사전 공개 기사
+de krat | 더 크라트 | (과일·병) 상자
+
+## 표현·문법 정리
+**Wie A zegt, moet ook B zeggen:** "A를 말했으면 B도 말해야 한다." 일을 시작했으면 끝까지 책임지라는 속담.
+**Wij zijn niet perfect, wel eerlijk:** "우리는 완벽하지 않지만 정직하다." niet A, wel B(A는 아니지만 B는 맞다) 구조.
+**Dit blijft niet bij één dag:** "이건 하루로 끝나지 않을 것이다." blijven bij = ~에 그치다.
+**Wat weten we zeker?:** "확실히 아는 게 뭐죠?" 2부 8화 위기 대응의 첫 질문이 다시 등장.
+**Hij moet het zelf vertellen:** "당사자가 직접 말해야 한다." 스캔들 대응의 핵심 원칙.
+**doorzetten:** "끝까지 버티다, 밀어붙이다." Ik heb te lang doorgezet.
+**weer aantrekken:** "(경기가) 다시 좋아지다."
+**een regeling treffen:** "약정을 맺다."
+**iemand laten vallen:** "~를 저버리다, 버리다." Willem-Jan heeft hem laten vallen.
+**op iemands woord vertrouwen:** "~의 말만 믿다." Vertrouw me niet op mijn woord.
+**iemand iets schuldig zijn / schuld zijn:** "~에게 ~을 빚지다." Ik ben hem nog een fles wijn schuld.
+**Beter laat dan nooit:** "안 하는 것보다 늦게라도 하는 게 낫다."
+**kennelijk:** "보아하니, 분명히." De bron had kennelijk oude informatie.
+
+## 컨설팅 스킬 노트
+**스캔들 대응 네 단계:** ① 사실 확인(공개 기록과 당사자 문서로: 파산 등록부, 국세청 납부 내역) ② 당사자가 직접, 먼저, 전부 말하기(신문에 없는 불리한 사실까지: 납품업자 미변제) ③ 조직의 구조적 실수 인정(검증 절차의 허점)과 개선 약속 ④ 틀린 정보는 증거로 정정하되 상대를 공격하지 않기.
+**의심과 사실을 끝까지 구분:** "마르턴이 복수했다"는 의심이었고, 확인해 보니 사실이 아니었습니다. 유출 경로가 상대 정당과 연결돼 보여도 증명할 수 없으면 말하지 않습니다. 3부 7화의 원칙이 정치판에서도 그대로 적용됩니다.
+**작은 실수와 큰 실수를 다르게 다루기:** 리허설 영상을 보낸 인턴은 해고가 아니라 교육 대상입니다. 실수의 크기와 의도를 구분하면 조직이 두려움이 아니라 배움으로 움직입니다.
+**모든 걸 오늘 말하기:** "Daarom vertellen we vandaag alles. Dan is er morgen niets meer om te vinden." 조금씩 드러나는 스캔들은 매일 새 기사가 되고, 한 번에 다 말한 스캔들은 하루 기사가 됩니다.
