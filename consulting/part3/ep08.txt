@@ -1,0 +1,292 @@
+# 3부 8화. Wie wist wat? (누가 무엇을 알았나)
+수준: 고급 (C1) | 장소: Payvaart 본사(CEO 면담) → CFO 면담 → 회계법인 → HBR 창고 → 주이다스 Keizer & Co 마르턴의 방 → Payvaart 감독이사회 | 시간: 8년차 4월
+배경 현안: 상장 전 핀테크의 매출 부풀리기, 감사인의 전문가적 회의주의 부족, 자문역의 책임, 금융시장감독청과 검찰 신고
+핵심 표현: Wie wist wat, en wanneer? · U had het kunnen weten · Ik zeg dit niet graag · Dit verandert alles · Daar ga ik niet over speculeren
+💼 스킬: 불리한 결론 전달(가까운 사람에게도 같은 기준으로)
+
+## 대화
+— Scène 1: Het hoofdkantoor van Payvaart, het gesprek met de CEO (Payvaart 본사, CEO 면담) —
+Sven: (in sneakers en een hoodie) Sven Roelofs. Ik heb Payvaart opgericht in mijn studentenkamer. Ik begrijp eerlijk gezegd niet waarom de raad u heeft ingehuurd.
+(운동화에 후드티 차림으로) 스벤 루룰프스예요. 대학 기숙사 방에서 Payvaart를 창업했어요. 솔직히 감독이사회가 왜 여러분을 고용했는지 모르겠네요.
+Femke: De raad wil een onafhankelijk beeld van de omzetgroei, voorafgaand aan de beursgang. Mag ik vragen hoe u die groei verklaart?
+감독이사회는 상장을 앞두고 매출 성장에 대한 독립적인 시각을 원해요. 그 성장을 어떻게 설명하시는지 여쭤봐도 될까요?
+Sven: Eenvoudig. Ons product is beter. Lagere kosten voor handelaren, snellere uitbetaling. Webwinkels stappen massaal over.
+간단해요. 우리 제품이 더 좋아요. 가맹점 수수료가 낮고, 정산이 빨라요. 온라인 상점들이 대거 넘어오고 있어요.
+Thijs: Driehonderdtwaalf nieuwe handelaren die met een V beginnen. Samen achtendertig procent van uw groei. Kunt u daar iets over zeggen?
+V로 시작하는 신규 가맹점 312곳. 합치면 성장의 38%예요. 그에 대해 말씀해 주실 수 있어요?
+Sven: (kort stilte) Dat zijn partnerhandelaren. Ze komen via een netwerk van een zakenpartner in België.
+(잠깐 침묵) 제휴 가맹점들이에요. 벨기에 사업 파트너의 네트워크를 통해 들어와요.
+Femke: Wie is die zakenpartner?
+그 사업 파트너가 누구예요?
+Sven: Dat is vertrouwelijk.
+그건 기밀이에요.
+Femke: Wij hebben een opdracht van de raad met volledige toegang. Vertrouwelijk tegenover ons bestaat niet. Wel tegenover de buitenwereld.
+저희는 전체 접근 권한을 가진 감독이사회 의뢰를 받았어요. 저희한테 기밀이란 없어요. 외부에 대해서는 있지만요.
+Sven: (zucht) Een advocaat in Antwerpen. Hij brengt handelaren aan. Wij betalen hem een commissie per handelaar.
+(한숨) 앤트워프의 변호사예요. 가맹점을 데려와요. 우리는 가맹점당 수수료를 줘요.
+Priya: Weet u dat honderdveertig van die handelaren op hetzelfde postbusadres staan ingeschreven? En dat tweehonderdzeventig van hen uitbetalen naar zeven rekeningen op Cyprus?
+그 가맹점 중 140곳이 같은 우편함 주소로 등록돼 있다는 거 아세요? 그리고 270곳이 키프로스의 계좌 일곱 개로 정산받는다는 것도요?
+Sven: (lange stilte) Dat wist ik niet.
+(긴 침묵) 그건 몰랐어요.
+Femke: Wie wist wat, en wanneer? Dat is wat wij moeten vaststellen. Wanneer hoorde u voor het eerst dat er vragen waren over deze handelaren?
+누가 무엇을, 언제 알았나. 그게 저희가 확인해야 할 거예요. 이 가맹점들에 대해 의문이 있다는 걸 처음 들은 게 언제예요?
+Sven: Ik… er was een analist die iets zei. Maar dat leek me jaloezie op het salesteam.
+저는… 어떤 분석가가 뭔가 말하긴 했어요. 하지만 영업팀을 질투하는 걸로 보였어요.
+Femke: Wanneer?
+언제요?
+Sven: Een paar maanden geleden.
+몇 달 전에요.
+Thijs: En wat heeft u daarmee gedaan?
+그래서 어떻게 하셨어요?
+Sven: Niets. We waren midden in een financieringsronde.
+아무것도요. 투자 유치 한가운데 있었으니까요.
+Femke: Is daarna de toegang van die analist tot de data beperkt?
+그 뒤에 그 분석가의 데이터 접근이 제한됐나요?
+Sven: (scherp) Daar ga ik niet over speculeren. Dat is een HR-kwestie.
+(날카롭게) 그건 추측하지 않을게요. 인사 문제예요.
+Femke: Ik vraag u niet te speculeren. Ik vraag wat u weet. Heeft u daar opdracht voor gegeven?
+추측하라는 게 아니에요. 아시는 걸 묻는 거예요. 그렇게 하라고 지시하셨어요?
+Sven: (na een stilte) Ik heb gezegd dat hij zich moest concentreren op zijn eigen werk.
+(잠시 침묵 후) 자기 일에나 집중하라고 했어요.
+Femke: (schrijft letterlijk op) Dank u. U krijgt de gelegenheid om op het concept te reageren.
+(그대로 받아 적으며) 감사합니다. 초안에 대해 의견을 내실 기회를 드릴게요.
+Sven: (staat op) Weet u wat dit doet met mijn bedrijf? Met tweehonderd mensen die hier werken?
+(일어서며) 이게 내 회사에 무슨 짓을 하는지 아세요? 여기서 일하는 200명한테요?
+Femke: Ja. Daarom is het beter dat de raad het nu weet, en niet na de beursgang.
+네. 그래서 상장 후가 아니라 지금 감독이사회가 아는 게 나은 거예요.
+— Scène 2: Het gesprek met de CFO (CFO 면담) —
+Nadia: (met rode ogen) Nadia Hamdi, CFO. Ik wilde dit gesprek eigenlijk al maanden.
+(눈이 빨개진 채) CFO 나디아 함디예요. 사실 몇 달 전부터 이런 대화를 원했어요.
+Femke: Neem de tijd. Er is geen haast.
+천천히 하세요. 서두를 거 없어요.
+Nadia: Ik zag de cijfers van de V-handelaren een jaar geleden. Ik vond het vreemd. Hoge volumes, bijna geen terugboekingen, bijna geen klachten. Echte webwinkels hebben altijd klachten.
+1년 전에 V 가맹점들 숫자를 봤어요. 이상하다고 생각했어요. 거래량은 많은데 환불도 거의 없고, 불만도 거의 없었어요. 진짜 온라인 상점은 항상 불만이 있거든요.
+Thijs: Wat heeft u gedaan?
+어떻게 하셨어요?
+Nadia: Ik heb het tegen Sven gezegd. Hij zei: "Dit is ons groeiverhaal. Daar ga je niet aan zitten." En ik heb het tegen de strategisch adviseur van het bestuur gezegd.
+스벤한테 말했어요. 그랬더니 "이게 우리 성장 스토리야. 건드리지 마"라고 했어요. 그리고 경영진의 전략 자문역한테도 말했어요.
+Femke: (stil) Meneer Keizer.
+(조용히) 케이저르 씨요.
+Nadia: Ja. (pakt haar telefoon) Ik heb hem een mail gestuurd. Negen maanden geleden. Hier.
+네. (휴대폰을 꺼내며) 메일을 보냈어요. 9개월 전에요. 여기요.
+Priya: (leest voor) "Maarten, ik maak me zorgen over de V-klanten. De volumes passen niet bij wat ik van webwinkels verwacht. Kunnen we dit bespreken voordat we het in de investeerderspresentatie zetten?"
+(소리 내어 읽으며) "마르턴, V 고객들이 걱정돼요. 거래량이 제가 아는 온라인 상점들과 맞지 않아요. 투자자 발표에 넣기 전에 이야기할 수 있을까요?"
+Femke: En wat antwoordde hij?
+그분은 뭐라고 답했어요?
+Nadia: (laat een tweede mail zien) "Nadia, goed dat je kritisch bent. Maar groeiende markten zijn altijd een beetje rommelig. Laten we het na de ronde bekijken."
+(두 번째 메일을 보여 주며) "나디아, 비판적인 건 좋아요. 하지만 성장하는 시장은 원래 좀 어수선해요. 투자 유치 끝나고 봅시다."
+Thijs: (zacht) Na de ronde. Net als "na de afronding van het nieuwbouwprogramma".
+(작게) 투자 유치 끝나고. "신축 프로그램이 끝나면"이랑 똑같네요.
+Femke: Is het daarna besproken?
+그 뒤에 논의됐어요?
+Nadia: Nooit. Na de ronde was er een volgende ronde. En de beursgang.
+한 번도요. 그 투자 유치가 끝나니 다음 투자 유치가 있었고, 그다음엔 상장이었죠.
+Femke: Waarom heeft u het niet bij de raad van commissarissen gemeld?
+왜 감독이사회에 보고하지 않았어요?
+Nadia: (huilt zacht) Omdat ik bang was. Ik ben de enige vrouw in het bestuur. De enige met een migratieachtergrond. Als ik moeilijk deed, was ik "niet ambitieus genoeg". Ik had een hypotheek en twee kinderen.
+(조용히 울며) 무서웠어요. 저는 경영진 중 유일한 여성이에요. 유일한 이민 배경이고요. 까다롭게 굴면 "야망이 부족하다"는 소리를 들었어요. 대출도 있고 아이가 둘이에요.
+Femke: Dat begrijp ik. En ik moet het toch opschrijven: u wist het, en u heeft het niet gemeld bij de raad.
+이해해요. 그래도 적어야 해요. 알고 계셨고, 감독이사회에 보고하지 않으셨다는 것.
+Nadia: (knikt) Schrijf het op. Het is waar. Ik schaam me ervoor.
+(고개를 끄덕이며) 적으세요. 사실이에요. 부끄러워요.
+Femke: We schrijven ook op dat u het wél bij de CEO en de adviseur heeft aangekaart, en wat zij antwoordden. Dat hoort bij het volledige beeld.
+CEO와 자문역에게는 문제를 제기했고, 그들이 뭐라고 답했는지도 적을게요. 그것도 전체 그림의 일부니까요.
+Nadia: Mag ik iets vragen? Wie is de melder? Ik wil die persoon bedanken.
+하나 물어봐도 돼요? 제보자가 누구예요? 그 사람한테 고맙다고 하고 싶어요.
+Femke: Dat zeg ik niet. Maar ik zal uw bedankje doorgeven.
+그건 말할 수 없어요. 하지만 감사 인사는 전해 드릴게요.
+— Scène 3: Bij het accountantskantoor (회계법인) —
+Gert-Jan: Gert-Jan Smit, partner bij Van Rossum. Wij hebben de jaarrekening van Payvaart volgens de standaarden gecontroleerd.
+판 로쉼 파트너 헤르트얀 스밋입니다. 저희는 기준에 따라 Payvaart 결산을 감사했어요.
+Thijs: Heeft u gecontroleerd of de handelaren echt bestaan?
+가맹점들이 실제로 존재하는지 확인하셨어요?
+Gert-Jan: Wij hebben een steekproef van transacties gecontroleerd. Die waren correct verwerkt. Het geld kwam binnen en ging weer uit.
+거래를 표본으로 확인했어요. 정확하게 처리돼 있었어요. 돈이 들어왔다가 다시 나갔죠.
+Thijs: Het geld kwam binnen en ging weer uit. Naar Cyprus.
+돈이 들어왔다가 다시 나갔다. 키프로스로요.
+Gert-Jan: Dat is niet ongebruikelijk bij internationale handelaren.
+국제 가맹점에선 드문 일이 아니에요.
+Priya: Heeft iemand in uw team vragen gesteld over de V-handelaren?
+팀원 중에 V 가맹점에 대해 의문을 제기한 사람이 있었어요?
+Gert-Jan: (aarzelt) Een junior medewerker heeft een notitie gemaakt. Maar na bespreking met de klant vonden wij de uitleg afdoende.
+(머뭇거리며) 주니어 직원이 메모를 남겼어요. 하지만 고객과 논의한 뒤 설명이 충분하다고 판단했어요.
+Femke: Na bespreking met de klant. Met wie?
+고객과 논의한 뒤라. 누구와요?
+Gert-Jan: Met de CEO.
+CEO와요.
+Femke: Dus de persoon over wie de vraag ging, gaf het antwoord.
+그러니까 의문의 대상인 사람이 답을 준 거네요.
+Gert-Jan: (na een stilte) Zo kunt u het zien. Achteraf.
+(잠시 침묵 후) 돌이켜 보면 그렇게 볼 수도 있겠네요.
+Femke: Wij gaan dat zo opschrijven. Met uw reactie erbij. En het oordeel over uw controle is aan de AFM, niet aan ons.
+그렇게 적을게요. 답변도 함께요. 그리고 감사 품질에 대한 판단은 저희가 아니라 금융시장감독청 몫이에요.
+— Scène 4: Het pakhuis, de avond voor het gesprek met Maarten (마르턴 면담 전날 밤, 창고) —
+Priya: Je hebt niets gegeten.
+아무것도 안 먹었네요.
+Femke: Ik heb geen honger.
+배가 안 고파요.
+Thijs: Wil je dat ik het gesprek leid?
+제가 면담을 이끌까요?
+Femke: Nee. Als ik het niet zelf doe, denkt iedereen dat ik hem spaar. Of dat ik hem niet aankan.
+아니요. 제가 직접 안 하면 다들 제가 그를 봐준다고 생각할 거예요. 아니면 제가 감당 못 한다고요.
+Priya: Wat ga je zeggen?
+뭐라고 할 거예요?
+Femke: Hetzelfde als tegen Robert Swart. Hetzelfde als tegen Sven. De mail. Het antwoord. Wat er daarna gebeurde. Niet meer, niet minder.
+로버르트 스바르트나 스벤한테 한 말과 똑같이요. 메일. 답장. 그 뒤에 일어난 일. 더도 덜도 아니게요.
+Thijs: En de introductie van de advocaat in Antwerpen?
+그럼 앤트워프 변호사를 소개한 건요?
+Femke: (kijkt op) Welke introductie?
+(고개를 들며) 무슨 소개요?
+Thijs: Ik vond het vanmiddag. Een mail van Maarten aan Sven, zestien maanden geleden. "Sven, ik stel je voor aan meester Verbeke uit Antwerpen. Hij heeft een netwerk van handelaren dat jullie groei kan versnellen."
+오늘 오후에 찾았어요. 16개월 전 마르턴이 스벤에게 보낸 메일이에요. "스벤, 앤트워프의 페르베커 변호사를 소개해 줄게요. 성장을 가속할 수 있는 가맹점 네트워크를 갖고 있어요."
+Femke: (lange stilte) De stroman.
+(긴 침묵) 그 명의 대여자네요.
+Thijs: De bestuurder van Stichting Vlietbeheer. Ja.
+플리트베헤이르 재단의 이사요. 네.
+Priya: Dat verandert alles.
+그럼 모든 게 달라지네요.
+Femke: Nee. Dat verandert veel. Maar het bewijst nog niet dat hij wist wat Verbeke deed. Dat moeten we hem vragen.
+아니요. 많은 게 달라지죠. 하지만 그가 페르베커가 뭘 하는지 알았다는 증거는 아직 아니에요. 그걸 물어봐야 해요.
+— Scène 5: Het kantoor van Maarten Keizer op de Zuidas (주이다스, 마르턴 케이저르의 사무실) —
+Maarten: Femke. Ik had niet gedacht dat ik je zo terug zou zien. Als onderzoeker.
+펨커. 이렇게 다시 볼 줄은 몰랐네요. 조사관으로.
+Femke: Ik ook niet, Maarten. Ik wil vooraf zeggen: ik heb de raad van Payvaart verteld dat je mijn mentor was. Een tweede bureau kijkt mee. Dit gesprek wordt opgenomen, als je daarmee akkoord bent.
+저도요, 마르턴. 미리 말할게요. Payvaart 감독이사회에 당신이 제 멘토였다고 말했어요. 다른 회사가 함께 검토하고 있어요. 동의하시면 이 면담은 녹음돼요.
+Maarten: (glimlacht flauw) Altijd zo zorgvuldig. Ja. Neem maar op.
+(희미하게 웃으며) 늘 그렇게 신중하네. 좋아요. 녹음해요.
+Femke: Wat was je rol bij Payvaart?
+Payvaart에서 당신 역할은 뭐였어요?
+Maarten: Strategisch adviseur van het bestuur. Ik help Sven met zijn groeiverhaal en de voorbereiding van de beursgang.
+경영진의 전략 자문역이요. 스벤의 성장 스토리와 상장 준비를 도와요.
+Femke: Ken je meester Verbeke uit Antwerpen?
+앤트워프의 페르베커 변호사를 알아요?
+Maarten: (kort stilte) Ja. Een oude relatie. Hij heeft een netwerk in de e-commerce.
+(잠깐 침묵) 네. 오래된 인맥이에요. 전자상거래 쪽 네트워크가 있어요.
+Femke: Heb je hem aan Sven voorgesteld?
+그를 스벤에게 소개했어요?
+Maarten: Dat heb ik. Ik stel mensen aan elkaar voor. Dat is mijn werk.
+했어요. 나는 사람들을 서로 소개해요. 그게 내 일이에요.
+Femke: Wist je dat Verbeke bestuurder is van een stichting die tweeënnegentig van de V-handelaren bestuurt? Allemaal op hetzelfde postbusadres?
+페르베커가 V 가맹점 중 92곳을 운영하는 재단의 이사라는 거 알았어요? 전부 같은 우편함 주소에 있는?
+Maarten: (lange stilte) Nee. Dat wist ik niet.
+(긴 침묵) 아니요. 그건 몰랐어요.
+Femke: Ik heb een mail van Nadia Hamdi aan jou, van negen maanden geleden. Ze schrijft dat ze zich zorgen maakt over de V-klanten. Je antwoordde: "Laten we het na de ronde bekijken." Is het daarna bekeken?
+나디아 함디가 9개월 전 당신에게 보낸 메일이 있어요. V 고객들이 걱정된다고 썼죠. 당신은 "투자 유치 끝나고 봅시다"라고 답했어요. 그 뒤에 봤어요?
+Maarten: (kijkt naar het raam) Nee.
+(창밖을 보며) 아니요.
+Femke: Waarom niet?
+왜요?
+Maarten: Omdat er altijd een volgende ronde was. Omdat het verhaal goed was. Omdat ik dacht dat Nadia te voorzichtig was.
+늘 다음 투자 유치가 있었으니까요. 이야기가 좋았으니까요. 나디아가 너무 조심스럽다고 생각했으니까요.
+Femke: Maarten, ik zeg dit niet graag. Wij hebben geen bewijs dat je wist dat de handelaren niet echt waren. Maar je hebt de persoon geïntroduceerd die achter de handelaren zit. En je kreeg een duidelijke waarschuwing van de CFO, en je hebt die laten liggen. U had het kunnen weten. Jij had het kunnen weten.
+마르턴, 이런 말 하고 싶지 않아요. 당신이 가맹점들이 가짜라는 걸 알았다는 증거는 없어요. 하지만 그 가맹점들 뒤에 있는 사람을 소개했어요. 그리고 CFO로부터 분명한 경고를 받고도 묵혀 뒀어요. 당신은 알 수 있었어요. 알 수 있었다고요.
+Maarten: (heel stil, dan zacht) Weet je wat het ergste is? Ik heb jou geleerd om naar de vraag achter de vraag te zoeken. En ik heb het zelf niet gedaan.
+(아주 조용하다가, 작게) 제일 끔찍한 게 뭔지 알아요? 질문 뒤의 질문을 찾으라고 내가 당신한테 가르쳤어요. 그런데 정작 나는 안 했네요.
+Femke: Dat was Ingrid. Maar je hebt het nooit tegengesproken.
+그건 잉그리드였어요. 하지만 당신은 한 번도 반박하지 않았죠.
+Maarten: (lacht kort, zonder vreugde) Nee. Dat heb ik nooit.
+(기쁨 없이 짧게 웃으며) 그래요. 한 번도요.
+Femke: Wil je reageren? Je reactie komt letterlijk in het rapport.
+답변하시겠어요? 답변은 그대로 보고서에 들어가요.
+Maarten: (na een lange stilte) Schrijf dit op. "De adviseur erkent dat hij de waarschuwing van de CFO niet heeft opgevolgd en dat hij de commerciële belangen van de beursgang zwaarder heeft laten wegen dan zijn eigen twijfels. Hij had niet weet van de rol van de heer Verbeke bij de handelaren."
+(긴 침묵 끝에) 이렇게 적어요. "자문역은 CFO의 경고를 따르지 않았고, 상장의 상업적 이익을 자신의 의구심보다 무겁게 여겼음을 인정한다. 그는 가맹점들에서 페르베커 씨가 한 역할은 알지 못했다."
+Femke: Dank je, Maarten.
+고마워요, 마르턴.
+Maarten: (bij de deur) Femke? Ik zei ooit: bij mij een audit, dat wil ik nog wel eens zien.
+(문 앞에서) 펨커? 내가 예전에 그랬죠. 나를 감사한다고? 그거 한번 보고 싶네.
+Femke: Ik weet het.
+알아요.
+Maarten: Nu heb ik het gezien. (stil) Je hebt het goed gedaan. Vermoeiend goed.
+이제 봤네요. (조용히) 잘했어요. 피곤할 만큼 잘했어요.
+— Scène 6: Buiten op de Zuidas, Gustav Mahlerplein (주이다스 바깥, 구스타프 말러 광장) —
+Ingrid: (komt de draaideur uit) Femke. Ik zag je naar boven gaan. Ik heb een uur in de lobby gewacht.
+(회전문을 나서며) 펨커. 올라가는 거 봤어요. 로비에서 한 시간 기다렸어요.
+Femke: (zit op een bankje, kijkt naar de torens) Je hoefde niet te wachten.
+(벤치에 앉아 빌딩들을 바라보며) 기다리지 않아도 됐는데.
+Ingrid: Dat weet ik. (gaat naast haar zitten) Hoe was het?
+알아요. (옆에 앉으며) 어땠어요?
+Femke: Ik mag niet over de inhoud praten. Maar het was het moeilijkste gesprek dat ik ooit heb gevoerd.
+내용은 말할 수 없어요. 하지만 지금까지 해 본 대화 중 가장 어려웠어요.
+Ingrid: Moeilijker dan de familie Van Leeuwen? Dan de OR in Helmond?
+판 레이우언 가족보다요? 헬몬트 OR보다요?
+Femke: Daar zat ik tegenover vreemden. Vandaag zat ik tegenover de man die me heeft aangenomen. Die me leerde dat een klant nooit "nee" mag horen zonder alternatief.
+거기선 낯선 사람들과 마주 앉았죠. 오늘은 저를 채용한 사람과 마주 앉았어요. 대안 없이는 고객에게 절대 '아니요'라고 하면 안 된다고 가르쳐 준 사람이요.
+Ingrid: Heb je hem gespaard?
+봐줬어요?
+Femke: Nee. En ik heb hem ook niet harder aangepakt dan de anderen. Dat was het moeilijkste. Precies hetzelfde blijven.
+아니요. 그리고 다른 사람보다 더 세게 다루지도 않았어요. 그게 제일 어려웠어요. 정확히 똑같이 하는 거요.
+Ingrid: Dat is wat een goede onderzoeker doet.
+그게 좋은 조사관이 하는 일이에요.
+Femke: Hij zei aan het eind dat ik het goed had gedaan. Vermoeiend goed.
+마지막에 제가 잘했다고 하더라고요. 피곤할 만큼 잘했다고.
+Ingrid: (glimlacht) Dat is het grootste compliment dat Maarten Keizer kan geven. Hij heeft het mij in vijfentwintig jaar één keer gezegd.
+(미소 지으며) 그건 마르턴 케이저르가 줄 수 있는 최고의 칭찬이에요. 25년 동안 저한테 딱 한 번 했어요.
+Femke: Wanneer?
+언제요?
+Ingrid: Toen ik weigerde een rapport aan te passen voor een klant. Twintig jaar geleden. Hij was woedend. Een week later zei hij: vermoeiend goed.
+고객을 위해 보고서를 고치길 거부했을 때요. 20년 전에. 엄청 화를 냈어요. 일주일 뒤에 "피곤할 만큼 잘했다"고 하더군요.
+Femke: (lacht zacht, door haar tranen) Hij is consequent.
+(눈물을 머금고 작게 웃으며) 한결같은 사람이네요.
+Ingrid: In zijn complimenten wel. Kom. Ik trakteer op een bitterbal. Net als op je eerste dag.
+칭찬에선 그렇죠. 가요. 비터발런 살게요. 첫날처럼요.
+— Scène 7: De raad van commissarissen van Payvaart (Payvaart 감독이사회) —
+Laura: Wij hebben uw rapport gelezen. Dit verandert alles.
+보고서를 읽었어요. 모든 게 바뀌네요.
+Femke: Onze conclusies in het kort. Achtendertig procent van de omzetgroei komt van handelaren waarvan wij geen bedrijfsactiviteiten hebben kunnen vaststellen. Waarschuwingen van een analist en van de CFO zijn niet opgevolgd door de CEO en de adviseur. En de accountant heeft vragen van een eigen medewerker laten beantwoorden door de CEO.
+결론을 짧게 말씀드리겠습니다. 매출 성장의 38%는 사업 활동을 확인할 수 없는 가맹점에서 나왔습니다. 분석가와 CFO의 경고를 CEO와 자문역이 따르지 않았습니다. 그리고 회계감사인은 자기 직원의 의문을 CEO가 답하게 했습니다.
+Laura: Wat raadt u aan?
+무엇을 권하세요?
+Femke: Over de personen doen wij geen uitspraak. Maar binnen ons onderzoek kunnen we zeggen: wat wij hebben gevonden, kan wijzen op strafbare feiten. Daarvoor zijn de AFM en het Openbaar Ministerie de juiste instanties. Niet wij.
+개인에 대해서는 판단하지 않습니다. 하지만 조사 범위 안에서 말씀드릴 수 있는 건, 저희가 찾은 것이 범죄 사실을 가리킬 수 있다는 겁니다. 그건 금융시장감독청과 검찰이 다룰 일이지 저희가 아닙니다.
+Laura: (kijkt rond de tafel) Dan besluiten wij het volgende. De beursgang wordt uitgesteld. De CEO wordt per direct op non-actief gesteld. Wij melden de bevindingen bij de AFM en doen aangifte. En het contract met de adviseur wordt beëindigd.
+(테이블을 둘러보며) 그럼 다음과 같이 결정합니다. 상장은 연기합니다. CEO는 즉시 직무 정지합니다. 발견 사항을 금융시장감독청에 보고하고 고발합니다. 그리고 자문역과의 계약을 종료합니다.
+Commissaris: En de CFO?
+그럼 CFO는요?
+Laura: Zij blijft voorlopig, met een interim-CEO naast zich. Zij heeft gewaarschuwd, ook al had ze verder moeten gaan. En we hebben haar kennis nodig om dit op te lossen.
+당분간 유지합니다. 임시 CEO를 옆에 두고요. 더 나아갔어야 했지만 경고는 했어요. 그리고 이걸 해결하려면 그 사람의 지식이 필요해요.
+Femke: En de melder?
+그리고 제보자는요?
+Laura: Wordt beschermd. De slechte beoordeling wordt ingetrokken, de toegang hersteld. En ik wil die persoon persoonlijk bedanken, als hij of zij dat wil.
+보호받을 겁니다. 나쁜 평가는 철회하고 접근 권한은 복원합니다. 그리고 본인이 원한다면 제가 직접 감사 인사를 하고 싶어요.
+Priya: (later, aan de telefoon) Jesse? Het is voorbij. Je bent beschermd. En de voorzitter wil je bedanken.
+(나중에, 전화로) 제시? 다 끝났어요. 보호받게 됐어요. 그리고 의장님이 고맙다고 하고 싶대요.
+Jesse: (zacht) Ik kan vannacht eindelijk slapen.
+(작게) 오늘 밤엔 드디어 잘 수 있겠네요.
+
+## 주요 단어
+de omzetgroei | 더 옴제트흐루이 | 매출 성장
+de financieringsronde | 더 피난시이링스론더 | 투자 유치 라운드
+de terugboeking | 더 터뤼흐부킹 | 결제 취소, 환불(지불 거절)
+de commissie | 더 코미시 | 수수료
+de stroman | 더 스트로만 | 명의 대여자, 허수아비
+aankaarten → heeft aangekaart | 안카르턴 → 헤이프트 안허카르트 | (문제를) 제기하다
+opvolgen → heeft opgevolgd | 오프폴헌 → 헤이프트 오프허폴흐트 | (경고·조언을) 따르다, 후속 조치하다
+afdoende | 아프두언더 | 충분한, 만족스러운
+op non-actief stellen | 옵 논악티프 스텔런 | 직무 정지시키다
+het Openbaar Ministerie (OM) | 헷 오펀바르 미니스테리 | 검찰
+strafbare feiten | 스트라프바러 페이턴 | 범죄 사실
+intrekken → heeft ingetrokken | 인트레컨 → 헤이프트 인허트로컨 | 철회하다
+beëindigen → heeft beëindigd | 버에인더헌 → 헤이프트 버에인더흐트 | 종료하다
+zwaarder laten wegen | 즈바르더르 라턴 베이헌 | 더 무겁게 여기다
+weet hebben van | 베이트 헤번 판 | ~에 대해 알다
+
+## 표현·문법 정리
+**Wie wist wat, en wanneer?:** "누가 무엇을, 언제 알았나?" 조사의 핵심 질문 세 가지(who, what, when)를 한 문장에 담았습니다.
+**U had het kunnen weten:** "알 수 있었습니다." had + kunnen + weten(과거의 가능성). 고의가 아니라 주의 의무 위반을 지적하는 정확한 표현. Femke는 이어서 je로 바꿔 말해 개인적인 무게를 더합니다.
+**Ik zeg dit niet graag:** "이런 말을 하고 싶지 않지만." 불리한 결론을 전하기 전의 완충.
+**Dit verandert alles:** "이게 모든 걸 바꾼다." Femke는 "Dat verandert veel"로 고쳐 과장을 피합니다.
+**Daar ga ik niet over speculeren:** "그에 대해 추측하지 않겠다." 답변 회피 표현. 대응: "Ik vraag u niet te speculeren. Ik vraag wat u weet."
+**Daar ga je niet aan zitten:** "그건 건드리지 마." ergens aan zitten = 손대다.
+**iets laten liggen:** "~을 묵혀 두다, 방치하다."
+**na de ronde / na de afronding:** "라운드 후에 / 마무리 후에." 문제를 미루는 핑계의 공통 패턴.
+**Zo kunt u het zien. Achteraf.:** "돌이켜 보면 그렇게 볼 수도 있겠네요." 마지못한 인정.
+**wijzen op:** "~을 가리키다, 시사하다." Wat wij hebben gevonden, kan wijzen op strafbare feiten.
+**per direct:** "즉시."
+**ook al had ze verder moeten gaan:** "더 나아갔어야 했지만." ook al = ~이긴 하지만(양보).
+**Vermoeiend goed:** "피곤할 만큼 잘했다." 1부의 "vermoeiend"(피곤한 이상주의자)를 회수하는 말.
+
+## 컨설팅 스킬 노트
+**같은 기준, 다른 사람:** 대표(Sven), CFO(Nadia), 감사인(Gert-Jan), 옛 멘토(Maarten) 모두에게 같은 순서로 묻습니다. 문서(메일) → 답변(그대로 기록) → 그 뒤에 일어난 일. 가까운 사람일수록 기준을 엄격하게 지켜야 보고서 전체가 신뢰를 얻습니다.
+**알았다 vs 알 수 있었다:** "Wij hebben geen bewijs dat je wist… Maar je had het kunnen weten." 고의(wetenschap)와 주의 의무(had kunnen weten)를 구분하는 것이 공정하고 방어 가능한 결론의 핵심입니다.
+**이해충돌 관리:** 미리 고지 → 제3자 공동 검토 → 동의를 받은 녹음 → 결론에 피조사자 본인의 문장 그대로 수록.
+**권고의 한계:** 사람에 대한 처분은 의뢰인(감독이사회)이, 범죄 여부는 감독청과 검찰이 정합니다. 감사인은 "무엇을 확인했고 무엇을 확인하지 못했는지"를 말합니다.
