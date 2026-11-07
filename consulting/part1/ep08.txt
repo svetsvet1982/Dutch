@@ -1,0 +1,291 @@
+# 1부 8화. Containers en cocaïne (컨테이너와 코카인)
+수준: 중상급 (B2) | 장소: 로테르담 마스플락터 컨테이너 터미널 → 직원 식당 → 로테르담 샤를루아의 카페 → 터미널 회의실 → 에라스뮈스 다리 | 시간: 3월 초
+배경 현안: 로테르담 항을 통한 코카인 밀수, 범죄 조직의 항만 노동자 매수(내부자 범죄), 터미널 자동화
+핵심 표현: Hier praat niemand graag over · Dit valt buiten onze opdracht, maar… · Veiligheid gaat voor alles · Dat blijft tussen ons · Ik kan je niet beloven dat…
+💼 스킬: 프로젝트 범위 관리(scope)와 범위 밖 문제를 발견했을 때
+
+## 대화
+— Scène 1: De terminal op de Maasvlakte (마스플락터 터미널) —
+Hans: Welkom op de Maasvlakte. Zet uw helm op en blijf achter de gele lijn. Hier is alles groter dan u denkt.
+마스플락터에 오신 걸 환영합니다. 안전모 쓰시고 노란 선 뒤에 계세요. 여긴 모든 게 생각보다 커요.
+Thijs: Dat weet ik. Mijn vader heeft hier dertig jaar gewerkt. Als sjorder.
+알아요. 제 아버지가 여기서 30년 일했어요. 래싱공으로요.
+Hans: Echt? Dan bent u een havenkind. Dan weet u ook hoe zwaar dat werk was.
+정말요? 그럼 항구 아이네요. 그 일이 얼마나 고됐는지도 아시겠네요.
+Thijs: Hij had op zijn vijftigste een kapotte rug. Maar hij was trots op de haven.
+쉰 살에 허리가 망가졌어요. 그래도 항구를 자랑스러워했어요.
+Femke: Meneer Vermeulen, kunt u kort uitleggen wat u van ons verwacht?
+페르묄런 씨, 저희에게 기대하시는 걸 짧게 설명해 주시겠어요?
+Hans: Een strategie voor verdere automatisering. Onze concurrenten in Antwerpen en Hamburg investeren fors. Als wij achterblijven, gaan de rederijen naar hen.
+추가 자동화 전략이요. 앤트워프와 함부르크의 경쟁사들이 대규모로 투자하고 있어요. 우리가 뒤처지면 해운사들이 그쪽으로 가요.
+Priya: Wat is nu al geautomatiseerd?
+지금 이미 자동화된 건 뭐예요?
+Hans: Kijk daar. Die voertuigen rijden zonder chauffeur. Ze brengen containers van de kade naar de stack. De kranen op de stack werken ook automatisch.
+저기 보세요. 저 차량들은 운전자 없이 달려요. 컨테이너를 부두에서 적재장으로 옮기죠. 적재장 크레인도 자동으로 움직여요.
+Femke: En de grote kranen langs het water?
+그럼 물가의 큰 크레인들은요?
+Hans: Die worden nog op afstand bediend door mensen in een kantoor. En het sjorwerk, het vastzetten van containers op het schip, is nog handwerk.
+그건 아직 사무실에 있는 사람들이 원격으로 조종해요. 그리고 배 위에서 컨테이너를 고정하는 래싱 작업은 아직 수작업이에요.
+Thijs: Het werk van mijn vader.
+제 아버지가 하던 일이네요.
+Hans: Precies. En daar zit het grootste deel van onze personeelskosten. Daar wil het bestuur naar kijken.
+맞아요. 그리고 인건비 대부분이 거기서 나와요. 이사회가 들여다보고 싶어 하는 부분이에요.
+Femke: Hoeveel mensen werken hier in totaal?
+여기서 일하는 사람은 모두 몇 명이에요?
+Hans: Ongeveer elfhonderd. Ploegendiensten, dag en nacht. De haven slaapt nooit.
+약 1,100명이요. 교대 근무로 밤낮없이요. 항구는 절대 잠들지 않아요.
+Femke: Wat is uw grootste zorg, los van de concurrentie?
+경쟁 말고, 가장 큰 걱정은 뭐예요?
+Hans: (aarzelt) De vakbond. Iedereen weet dat automatisering banen kost. Als het uitlekt voordat we een plan hebben, ligt de haven stil.
+(망설이며) 노조요. 자동화가 일자리를 줄인다는 건 다들 알아요. 계획이 서기 전에 새어 나가면 항구가 멈춰요.
+Femke: Dan moeten we zorgvuldig zijn met wie we spreken.
+그럼 누구와 이야기할지 신중해야겠네요.
+Hans: Maar u moet wel met de mensen op de vloer praten. Anders wordt het een plan van papier.
+하지만 현장 사람들과는 꼭 이야기하셔야 해요. 안 그러면 종이 위의 계획이 돼요.
+Femke: Dat zijn we ook van plan. Morgen in de kantine, met een paar ploegleiders.
+그럴 계획이에요. 내일 직원 식당에서 조장 몇 분과요.
+Hans: Goed. Nog één ding. Overal hangen camera's en voor elke zone heeft u een pasje nodig. Niet zelf rondlopen.
+좋아요. 하나 더요. 곳곳에 카메라가 있고 구역마다 출입증이 필요해요. 혼자 돌아다니지 마세요.
+Priya: Waarom zo streng?
+왜 그렇게 엄격해요?
+Hans: (kijkt haar even aan) Veiligheid gaat voor alles. Ik leg het later uit.
+(잠시 그녀를 바라보며) 안전이 최우선이에요. 나중에 설명할게요.
+Thijs: (zacht tegen Femke) Hij bedoelt drugs.
+(펨커에게 작게) 마약 얘기예요.
+Femke: (zacht) Dat dacht ik al.
+(작게) 그럴 거라 생각했어요.
+— Scène 2: De kantine, de volgende ochtend (다음 날 아침, 직원 식당) —
+Femke: Bedankt dat jullie tijd maken. We willen begrijpen hoe het werk hier gaat, en wat er beter kan.
+시간 내 주셔서 고마워요. 여기서 일이 어떻게 돌아가는지, 무엇이 나아질 수 있는지 이해하고 싶어요.
+Ploegleider Sandra: Als je komt vragen of robots ons werk kunnen doen, is het antwoord: ja, maar slechter.
+로봇이 우리 일을 할 수 있냐고 물으러 왔다면, 답은 '할 수 있지만 더 못한다'예요.
+Femke: (glimlacht) Dat noteer ik. Wat doen mensen beter dan machines?
+(미소 지으며) 적어 둘게요. 사람이 기계보다 잘하는 건 뭐예요?
+Sandra: Zien wat er niet klopt. Een container die anders hangt, een zegel dat beschadigd is, iemand die er niet hoort.
+이상한 걸 알아차리는 거요. 다르게 매달린 컨테이너, 손상된 봉인, 거기 있으면 안 되는 사람.
+Thijs: Iemand die er niet hoort?
+거기 있으면 안 되는 사람이요?
+Sandra: (kijkt om zich heen) Daar praat niemand graag over. Hier praat niemand graag over.
+(주위를 둘러보며) 그건 아무도 이야기하고 싶어 하지 않아요. 여기선 아무도 그 얘기를 하고 싶어 하지 않아요.
+Femke: Dat begrijp ik. U hoeft niets te zeggen wat u niet wilt.
+이해해요. 원하지 않는 말은 안 하셔도 돼요.
+Ploegleider Erik: Ik zeg het wel. Iedereen weet dat er cocaïne door de haven komt. In bananendozen, in koelcontainers. Het gaat om tonnen per jaar.
+제가 말하죠. 항구로 코카인이 들어온다는 건 다들 알아요. 바나나 상자에, 냉장 컨테이너에. 1년에 수 톤이에요.
+Priya: En wat heeft dat met het werk te maken?
+그게 일과 무슨 상관이에요?
+Erik: Criminelen hebben mensen binnen nodig. Iemand die een container verplaatst, een code doorgeeft, even de andere kant op kijkt. Ze bieden veel geld.
+범죄자들은 내부에 사람이 필요해요. 컨테이너를 옮기거나, 코드를 넘기거나, 잠깐 딴 데를 보는 사람이요. 큰돈을 제시해요.
+Thijs: Hoeveel?
+얼마나요?
+Erik: Voor een containercode hoor je bedragen van tienduizenden euro's. Voor een jonge jongen met schulden is dat een jaarsalaris.
+컨테이너 코드 하나에 수만 유로라고 들어요. 빚이 있는 젊은 애한텐 연봉이죠.
+Sandra: En als je nee zegt, weten ze waar je woont.
+그리고 거절하면, 그 사람들이 당신이 어디 사는지 알아요.
+Femke: (stil) Dat is zwaar.
+(조용히) 무거운 이야기네요.
+Erik: Daarom praat niemand. Niet omdat ze meedoen, maar omdat ze bang zijn.
+그래서 아무도 말하지 않아요. 가담해서가 아니라 무서워서요.
+Femke: Wat zou helpen, volgens jullie?
+두 분이 보시기에 뭐가 도움이 될까요?
+Sandra: Minder mensen die zomaar overal kunnen komen. Betere controle. En een plek waar je anoniem iets kunt melden, zonder dat je baas het hoort.
+아무 데나 드나들 수 있는 사람을 줄이는 거요. 더 나은 통제. 그리고 상사가 모르게 익명으로 신고할 수 있는 곳이요.
+Erik: Ironisch, hè. Automatisering kost onze banen, maar maakt het misschien veiliger.
+아이러니하죠. 자동화는 우리 일자리를 빼앗지만, 어쩌면 더 안전하게 만들기도 해요.
+Femke: Dat is een belangrijk inzicht. Mag ik dat meenemen, zonder uw namen?
+중요한 통찰이에요. 이름 없이 그 내용을 가져가도 될까요?
+Erik: Zonder namen. Dat blijft tussen ons.
+이름 없이요. 이건 우리끼리만 아는 거예요.
+— Scène 3: Een café in Charlois, 's avonds (저녁, 샤를루아의 카페) —
+Kevin: Thijs Brouwer! In een pak! Wat is er met jou gebeurd?
+테이스 브라우어르! 양복을 입었네! 너 무슨 일 있었냐?
+Thijs: (lacht) Kevin. Jij bent geen haar veranderd. Behalve dat je minder haar hebt.
+(웃으며) 케빈. 너는 하나도 안 변했다. 머리카락 줄어든 거 빼고.
+Kevin: Grappig. Twee biertjes, Ria! Wat doe je in Charlois? Je woont toch in Amsterdam tussen de bakfietsen?
+웃기네. 리아, 맥주 두 잔! 샤를루아엔 웬일이야? 너 암스테르담에서 짐자전거들 사이에 살잖아?
+Thijs: Ik werk aan een project op de Maasvlakte. Bij jouw terminal.
+마스플락터에서 프로젝트를 하고 있어. 네 터미널에서.
+Kevin: (zet zijn glas neer) Bij ons? Wat voor project?
+(잔을 내려놓으며) 우리 터미널에서? 무슨 프로젝트인데?
+Thijs: Dat mag ik niet zeggen, jongen. Je kent het.
+그건 말 못 해, 친구. 알잖아.
+Kevin: Automatisering. Iedereen fluistert het al weken. Klopt het?
+자동화지. 몇 주째 다들 수군거려. 맞아?
+Thijs: Ik kan het niet bevestigen. En niet ontkennen.
+확인도 부인도 못 해.
+Kevin: Dat is dus ja. (zucht) Ik heb twee kinderen, Thijs. Een hypotheek.
+그럼 맞다는 거네. (한숨) 나 애가 둘이야, 테이스. 대출도 있고.
+Thijs: Dat weet ik. Ik ga mijn best doen dat de mensen niet zomaar op straat komen te staan. Dat is alles wat ik kan zeggen.
+알아. 사람들이 그냥 길거리로 나앉지 않게 최선을 다할게. 내가 할 수 있는 말은 그게 다야.
+Kevin: (na een stilte) Mag ik jou iets vertellen? Maar dan echt tussen ons.
+(잠시 침묵 후) 너한테 뭐 하나 말해도 돼? 근데 진짜 우리끼리만.
+Thijs: Zeg het maar.
+말해 봐.
+Kevin: Vorige maand stond er een gast bij mijn auto. Na mijn nachtdienst. Hij wist mijn naam. Hij wist hoe mijn dochter heet.
+지난달에 어떤 놈이 내 차 옆에 서 있었어. 야간 근무 끝나고. 내 이름을 알더라. 내 딸 이름까지.
+Thijs: (koud) Wat wilde hij?
+(굳은 얼굴로) 뭘 원했는데?
+Kevin: Een code van een container. Eén keer. Twintigduizend euro, contant.
+컨테이너 코드 하나. 딱 한 번. 2만 유로, 현금으로.
+Thijs: En wat heb je gezegd?
+그래서 뭐라고 했어?
+Kevin: Niks. Ik ben in mijn auto gestapt en weggereden. Sindsdien slaap ik slecht.
+아무 말도. 차에 타서 그냥 가 버렸어. 그 뒤로 잠을 잘 못 자.
+Thijs: Heb je het gemeld?
+신고했어?
+Kevin: Bij wie? Mijn baas? Iedereen kent iedereen hier. Ik weet niet wie te vertrouwen is.
+누구한테? 상사한테? 여긴 다들 서로 알아. 누굴 믿어야 할지 모르겠어.
+Thijs: Er zijn manieren om anoniem te melden. Bij de politie, of bij Meld Misdaad Anoniem. Dan hoort niemand op de terminal je naam.
+익명으로 신고하는 방법이 있어. 경찰이나 '익명 범죄 신고' 같은 데. 그러면 터미널에선 아무도 네 이름을 몰라.
+Kevin: En dan? Dan staan ze weer bij mijn auto.
+그다음엔? 그놈들이 또 내 차 옆에 서 있겠지.
+Thijs: Ik kan je niet beloven dat het makkelijk wordt. Maar alleen blijven zwijgen is gevaarlijker.
+쉬워질 거라고 약속은 못 해. 하지만 혼자 계속 입 다물고 있는 게 더 위험해.
+Kevin: (drinkt) Je bent veranderd, Thijs. Vroeger zei je nooit zulke wijze dingen.
+(술을 마시며) 너 변했다, 테이스. 예전엔 이렇게 현명한 말 한 적 없었는데.
+Thijs: Vroeger had ik ook nog haar. (stil) Beloof me dat je erover nadenkt.
+예전엔 나도 머리카락이 있었지. (조용히) 생각해 보겠다고 약속해.
+Kevin: Ik beloof het. Proost, havenkind.
+약속할게. 건배, 항구 아이.
+— Scène 4: In de auto naar de Maasvlakte, de volgende ochtend (다음 날 아침, 마스플락터로 가는 차 안) —
+Femke: Je ziet eruit alsof je niet geslapen hebt.
+잠을 한숨도 못 잔 얼굴이네요.
+Thijs: Klopt. Ik heb gisteren een oude vriend gesproken. Hij werkt op de terminal.
+맞아요. 어제 옛 친구를 만났어요. 터미널에서 일해요.
+Femke: En?
+그래서요?
+Thijs: Hij is benaderd door criminelen. Twintigduizend euro voor een containercode. Hij heeft nee gezegd, maar hij is doodsbang.
+범죄자들한테 접근을 받았대요. 컨테이너 코드 하나에 2만 유로. 거절했지만 겁에 질려 있어요.
+Femke: (stil) Wat erg voor hem. Weet hij dat hij het anoniem kan melden?
+(조용히) 정말 안됐네요. 익명으로 신고할 수 있다는 건 알아요?
+Thijs: Dat heb ik hem verteld. Hij denkt erover na.
+제가 말해 줬어요. 생각해 보겠대요.
+Femke: Goed. Dan de lastige vraag: wat doen wij met deze informatie?
+좋아요. 그럼 어려운 질문이요. 우리는 이 정보로 뭘 해야 할까요?
+Thijs: Niets. Ik heb hem beloofd dat het tussen ons blijft. Zijn naam komt nergens.
+아무것도요. 우리끼리만 아는 걸로 하겠다고 약속했어요. 그 친구 이름은 어디에도 안 나가요.
+Femke: Zijn naam niet, absoluut niet. Maar Sandra en Erik vertelden hetzelfde verhaal. Dit is geen los incident. Het is een patroon.
+이름은 절대 안 되죠. 하지만 산드라랑 에릭도 같은 얘기를 했어요. 이건 개별 사건이 아니라 패턴이에요.
+Priya: (vanaf de achterbank) En het is niet onze opdracht. We zijn hier voor automatisering.
+(뒷좌석에서) 그리고 우리 업무가 아니잖아요. 우린 자동화 때문에 온 거예요.
+Femke: Klopt. Maar als wij een plan schrijven dat dit risico negeert, is het een slecht plan.
+맞아요. 하지만 이 위험을 무시하는 계획을 쓴다면 그건 나쁜 계획이에요.
+Thijs: En als Hans het niet wil horen?
+그런데 한스가 듣고 싶어 하지 않으면요?
+Femke: Hij zei zelf: veiligheid gaat voor alles. Dan houden we hem aan zijn woord.
+본인이 직접 "안전이 최우선"이라고 했잖아요. 그럼 그 말을 지키게 하면 돼요.
+Priya: Wat zeggen we precies?
+정확히 뭐라고 말해요?
+Femke: Alleen wat we in de kantine hoorden, zonder namen. En dat mensen het meldpunt niet vertrouwen. Het verhaal van jouw vriend houden we erbuiten.
+식당에서 들은 것만, 이름 없이요. 그리고 직원들이 신고 창구를 믿지 않는다는 것. 테이스 친구 이야기는 빼요.
+Thijs: Dank je. Dat is belangrijk voor me.
+고마워요. 저한텐 중요한 일이에요.
+Femke: Voor mij ook. Een bron beschermen gaat boven een mooi rapport.
+저한테도요. 정보원 보호가 멋진 보고서보다 먼저예요.
+Priya: Dat schrijf ik op.
+그거 적을게요.
+— Scène 5: Een vergaderruimte op de terminal (터미널 회의실) —
+Femke: Voordat we beginnen: we moeten iets bespreken wat niet in de opdracht staat.
+시작하기 전에, 계약서에 없는 걸 이야기해야 해요.
+Hans: Dat klinkt ernstig.
+심각하게 들리네요.
+Femke: Dit valt buiten onze opdracht, maar we kunnen het niet negeren. In de gesprekken hoorden we dat medewerkers benaderd worden door criminelen. Sommigen zijn bang.
+이건 저희 업무 범위 밖이지만, 무시할 수 없어요. 인터뷰에서 직원들이 범죄자들의 접근을 받는다고 들었어요. 두려워하는 사람들이 있어요.
+Hans: (zucht) Dat verbaast me helaas niet. Inge, wil jij hier iets over zeggen?
+(한숨) 안타깝지만 놀랍진 않네요. 잉어, 이 얘기 좀 해 줄래요?
+Inge: Inge Boersma, hoofd beveiliging. Ja, we weten dat het gebeurt. Elk jaar worden er in de haven mensen opgepakt die voor criminelen werkten. Ook bij ons.
+보안 책임자 잉어 부르스마예요. 네, 그런 일이 있다는 걸 알아요. 매년 항구에서 범죄 조직을 위해 일한 사람들이 체포돼요. 우리 회사에서도요.
+Thijs: Weten de medewerkers waar ze terechtkunnen als ze benaderd worden?
+직원들은 접근을 받았을 때 어디로 가야 하는지 알아요?
+Inge: Er is een meldpunt. Maar eerlijk gezegd wordt het weinig gebruikt.
+신고 창구가 있어요. 하지만 솔직히 거의 사용되지 않아요.
+Femke: Omdat mensen niet weten of het echt anoniem is. Dat hoorden we meerdere keren.
+정말 익명인지 몰라서요. 저희는 그 말을 여러 번 들었어요.
+Inge: (knikt langzaam) Dat is een eerlijk punt.
+(천천히 고개를 끄덕이며) 정당한 지적이네요.
+Hans: Wat raadt u aan? Dit is niet uw vakgebied.
+무엇을 권하세요? 이건 여러분 전문 분야가 아니잖아요.
+Femke: Klopt. Daarom stellen we voor dit apart te behandelen, met experts van de politie en de douane. Wij geven alleen door wat we gehoord hebben, zonder namen.
+맞아요. 그래서 이 건은 경찰과 세관 전문가들과 별도로 다루시길 제안해요. 저희는 들은 내용만 이름 없이 전달할게요.
+Inge: Dat waardeer ik. Namen zouden mensen in gevaar brengen.
+감사해요. 이름이 나가면 사람들이 위험해질 거예요.
+Femke: Maar er is één punt dat wél bij onze opdracht hoort. Veiligheid moet een onderdeel zijn van de automatiseringsstrategie.
+하지만 저희 업무에 해당하는 게 하나 있어요. 안전이 자동화 전략의 일부가 돼야 해요.
+Hans: Hoe bedoelt u?
+무슨 뜻이에요?
+Femke: Minder mensen die overal toegang hebben, betere controle op wie welke code ziet, en meer camera's waar mensen werken. Automatisering is niet alleen een kostenvraag. Het is ook een veiligheidsvraag.
+모든 곳에 접근할 수 있는 사람을 줄이고, 누가 어떤 코드를 보는지 더 잘 통제하고, 사람들이 일하는 곳에 카메라를 늘리는 거요. 자동화는 비용 문제만이 아니라 안전 문제이기도 해요.
+Hans: Dat had ik zo nog niet bekeken.
+그렇게는 생각해 보지 못했어요.
+Thijs: En nog iets. De mensen die nu het meest kwetsbaar zijn, zijn jonge medewerkers met schulden en tijdelijke contracten. Als u hen onzekerheid geeft over hun baan, worden ze nog kwetsbaarder.
+그리고 하나 더요. 지금 가장 취약한 건 빚이 있고 임시 계약인 젊은 직원들이에요. 그들에게 일자리 불안까지 주면 더 취약해져요.
+Hans: U bedoelt: hoe we de automatisering aankondigen, is ook een veiligheidsrisico.
+그러니까 자동화를 어떻게 발표하느냐도 안전 위험이라는 거군요.
+Thijs: Precies. Mensen die bang zijn voor hun toekomst, zijn makkelijker om te kopen.
+맞아요. 미래가 두려운 사람은 매수하기가 더 쉬워요.
+Inge: Dat is helaas wat wij ook zien.
+안타깝지만 저희도 그걸 보고 있어요.
+Hans: Goed. Inge, plan jij een gesprek met de havenpolitie? En mevrouw Hoekstra, neem dit mee in het plan. Veiligheid gaat voor alles. Dat meende ik gisteren al.
+좋아요. 잉어, 항만 경찰과의 면담을 잡아 줄래요? 그리고 훅스트라 씨, 이걸 계획에 포함해 주세요. 안전이 최우선이에요. 어제도 그런 뜻이었어요.
+Femke: Dat doen we.
+그렇게 하겠습니다.
+— Scène 6: Op de Erasmusbrug (에라스뮈스 다리 위에서) —
+Femke: Je was stil in de auto. Gaat het?
+차에서 조용하던데요. 괜찮아요?
+Thijs: Ik moet steeds aan mijn vriend denken. Hij heeft gelukkig nee gezegd, maar hij slaapt slecht.
+자꾸 그 친구 생각이 나요. 다행히 거절했지만 잠을 잘 못 잔대요.
+Femke: Dat moet je raken.
+마음이 많이 쓰이겠어요.
+Thijs: Ik ben hier opgegroeid. Mijn vader zei altijd: de haven geeft je brood. Nu geeft ze sommigen angst.
+여기서 자랐어요. 아버지는 늘 "항구가 밥을 먹여 준다"고 했어요. 이제는 누군가에게 두려움을 주네요.
+Femke: En wij komen een plan maken dat banen kost.
+그리고 우리는 일자리를 줄이는 계획을 만들러 왔고요.
+Thijs: Ja. Daar zit ik mee. Maar ik denk dat het eerlijk kan. Als we de mensen meenemen.
+네. 그게 마음에 걸려요. 하지만 공정하게 할 수 있다고 생각해요. 사람들을 함께 데려간다면요.
+Femke: Dan moet jij dat gesprek leiden, Thijs. Met de vakbond. Jij spreekt hun taal.
+그럼 테이스가 그 대화를 이끌어야 해요. 노조와요. 테이스는 그 사람들 언어를 쓰잖아요.
+Thijs: (kijkt naar het water) Ik? Ik ben de man van de cijfers.
+(물을 바라보며) 저요? 저는 숫자 담당인데요.
+Femke: Je bent de man die zijn vader begrijpt. Dat is meer waard dan een spreadsheet.
+테이스는 아버지를 이해하는 사람이에요. 그건 스프레드시트보다 값어치가 있어요.
+Thijs: (na een tijdje) Oké. Ik doe het. Maar als het misgaat, krijg jij de schuld.
+(잠시 후) 좋아요. 할게요. 근데 잘못되면 펨커 탓이에요.
+Femke: (lacht) Afgesproken.
+(웃으며) 그렇게 해요.
+
+## 주요 단어
+de haven | 더 하번 | 항구
+de kade | 더 카더 | 부두
+de kraan | 더 크란 | 크레인
+de sjorder | 더 쇼르더르 | 래싱공(컨테이너 고정 작업자)
+de rederij | 더 레이더레이 | 해운사
+de ploegendienst | 더 플루헌딘스트 | 교대 근무
+de vakbond | 더 팍본트 | 노동조합
+de beveiliging | 더 버페일리힝 | 보안
+benaderen → heeft benaderd | 버나더런 → 헤이프트 버나데르트 | 접근하다, 연락해 오다
+omkopen → heeft omgekocht | 옴코펀 → 헤이프트 옴허코흐트 | 매수하다
+het meldpunt | 헷 멜트퓐트 | 신고 창구
+kwetsbaar | 크베츠바르 | 취약한
+de douane | 더 두와너 | 세관
+de opdracht | 더 옵드라흐트 | 의뢰, 업무(계약 범위)
+de automatisering | 더 아우토마티세이링 | 자동화
+
+## 표현·문법 정리
+**Hier praat niemand graag over:** "여기선 아무도 그 얘기를 하고 싶어 하지 않아요." praten over + hier(여기/이것)의 분리. 강조할 때 Daar praat niemand graag over.
+**Dit valt buiten onze opdracht, maar…:** "이건 저희 업무 범위 밖이지만…" vallen binnen/buiten = 범위 안/밖에 들다. Dat valt binnen de afspraken.
+**Veiligheid gaat voor alles:** "안전이 최우선이다." A gaat voor B = A가 B보다 우선이다.
+**Dat blijft tussen ons:** "이건 우리끼리만 아는 거예요." 비밀 유지 약속. Dat blijft onder ons도 같은 뜻.
+**Ik kan je niet beloven dat…:** "~라고 약속할 수는 없어." 정직한 기대치 관리. 뒤에 Maar…로 할 수 있는 것을 말합니다.
+**Waar kun je terecht?:** "어디로 가면 되나요(도움받을 곳)?" terechtkunnen bij = ~에 도움을 청할 수 있다.
+**op straat komen te staan:** "길거리로 나앉다(실직·퇴거)." komen te + 부정사 = (결과적으로) ~하게 되다.
+**geen haar veranderd:** "하나도 안 변했다." 말장난: minder haar(머리카락이 줄었다).
+**zomaar:** "그냥, 아무 이유 없이, 함부로." Mensen die zomaar overal kunnen komen.
+**Daar zit ik mee:** "그게 마음에 걸려요." ergens mee zitten = 고민하다.
+**Zeg het maar:** "말해 봐(요)." 상대가 말하기 주저할 때 부드럽게 권하는 표현.
+**iemand meenemen (in een verandering):** "사람들을 (변화에) 함께 데려가다", 즉 이해시키고 참여시키다.
+**om te kopen (te + 분리동사):** omkopen → makkelijker om te kopen. 분리동사는 te가 접두사와 어간 사이에 들어갑니다(op te lossen, aan te kondigen).
+
+## 컨설팅 스킬 노트
+**범위(scope)는 계약이지만 눈은 감지 않는다:** 의뢰 범위 밖의 중대한 문제를 발견하면 무시하지도, 혼자 해결하지도 않습니다. "Dit valt buiten onze opdracht, maar…"로 고객 경영진에 알리고 적절한 전문가(경찰·세관·보안 책임자)에게 넘깁니다.
+**정보원 보호:** 현장 인터뷰에서 들은 민감한 내용은 이름 없이(zonder namen) 전달합니다. 신뢰가 깨지면 다시는 진실을 들을 수 없습니다.
+**범위 밖 문제를 범위 안의 질문으로:** 마약 범죄 자체는 컨설턴트의 일이 아니지만, "자동화 전략에 안전을 포함한다"는 것은 업무 범위 안에 있습니다. 문제를 의뢰 범위와 연결하는 다리를 찾습니다.
+**발표 방식도 위험 요인:** 일자리 불안은 범죄 조직의 매수 위험을 키웁니다. 변화의 내용뿐 아니라 '어떻게 알릴지'도 전략의 일부입니다(9화 노사 협상으로 이어짐).
