@@ -1,0 +1,346 @@
+# 2부 11화. Ontdekt? (들켰나?)
+수준: 중급~중상급 (B1~B2) | 장소: 베리타스 출입문 → 회의실 «Transparantie» → 플로리스의 유리 방 → 위트레흐트의 공원 → 노르의 집 | 시간: 2027년 4월, 금요일 아침 → 밤
+핵심 표현: Kun je even meekomen? · Dat was voor mijn werk · We moeten dit melden · Dat is privé · Ze hebben de logs veranderd
+
+## 대화
+Noor: (bij de draaideur van Veritas, om negen uur; ze houdt haar pasje tegen de lezer; een rood lampje) Hè?
+(아침 아홉 시, 베리타스 회전문 앞; 출입증을 단말기에 댄다; 빨간불) 어?
+Noor: (probeert het nog een keer; weer rood)
+(한 번 더 시도한다; 또 빨간불)
+Receptioniste: (achter de balie) Goedemorgen. Werkt uw pasje niet?
+(안내 데스크 뒤에서) 좋은 아침이에요. 출입증이 안 되세요?
+Noor: (glimlacht) Hij doet het niet. Misschien is hij kapot.
+(미소 지으며) 안 되네요. 고장 났나 봐요.
+Receptioniste: (kijkt op haar scherm; haar glimlach wordt kleiner) Ah. Nour Amrani. Wacht u even. Mirjam komt u halen.
+(화면을 본다; 미소가 작아진다) 아. 누르 암라니 씨. 잠깐만 기다리세요. 미르얌이 모시러 올 거예요.
+Noor: (draait zich om, kijkt naar de straat; zachter, tegen zichzelf) Rustig blijven. Handen plat.
+(돌아서서 거리를 본다; 혼잣말로 더 조용히) 침착하자. 손은 평평하게.
+Noor: (pakt haar telefoon, typt snel in haar jaszak, zonder te kijken) [Bericht aan Femke] Pasje geblokkeerd.
+(외투 주머니 속에서 보지도 않고 휴대전화로 빠르게 입력한다) [펨커에게 메시지] 출입증 차단됨.
+Femke: [Bericht] Ik sta in de auto bij het station. Tien minuten. Codewoord als het nodig is.
+[메시지] 역 근처 차 안에 있어. 10분 거리. 필요하면 암호 보내.
+Mirjam: (komt de lobby in; haar glimlach is nog steeds groot, maar niet meer warm) Nour! Goedemorgen. Sorry voor het pasje. Kun je even meekomen?
+(로비로 들어온다; 미소는 여전히 크지만 더는 따뜻하지 않다) 누르! 좋은 아침이에요. 출입증은 미안해요. 잠깐 같이 갈래요?
+Noor: Natuurlijk. Waar naartoe?
+그럼요. 어디로요?
+Mirjam: Even een gesprekje. Met twee collega's van beveiliging. Puur routine. (loopt voor haar uit) Iedereen krijgt dat in zijn proeftijd.
+잠깐 얘기 좀 하려고요. 보안팀 동료 두 명이랑요. 그냥 절차예요. (앞장서 걸으며) 수습 기간엔 다들 해요.
+Noor: (volgt haar) Iedereen?
+(따라가며) 다들요?
+Mirjam: (zonder om te kijken) Bijna iedereen.
+(돌아보지 않고) 거의 다요.
+Noor: Wat voor gesprekje?
+어떤 얘기요?
+Mirjam: (blijft staan bij de lift; zachter) Ik weet het ook niet precies, Nour. Ik kreeg vanochtend om zeven uur een mail. "Pasje Amrani blokkeren. Gesprek met beveiliging." Meer niet.
+(엘리베이터 앞에서 멈춰 서서, 목소리를 낮추며) 나도 정확히는 몰라요, 누르. 오늘 아침 일곱 시에 메일을 받았어요. "암라니 출입증 차단. 보안팀 면담." 그게 다예요.
+Noor: Van wie?
+누구한테서요?
+Mirjam: (kijkt naar de camera in de liftcabine en zegt niets meer; de deuren gaan open) Na jou.
+(엘리베이터 안의 카메라를 보더니 더는 아무 말도 하지 않는다; 문이 열린다) 먼저 타요.
+Van Bergen: (in de vergaderzaal "Transparantie", een man met grijs haar en een laptop; naast hem een jongere man met een notitieblok) Goedemorgen, mevrouw Amrani. Ik ben Van Bergen. Dit is mijn collega Smit. Wij doen de informatiebeveiliging.
+(«투명성» 회의실에서, 노트북을 든 회색 머리 남자; 옆에는 수첩을 든 젊은 남자) 좋은 아침입니다, 암라니 씨. 저는 판 베르헌입니다. 이쪽은 제 동료 스밋이고요. 우리는 정보 보안을 맡고 있어요.
+Noor: Goedemorgen.
+안녕하세요.
+Van Bergen: Gaat u zitten. (draait zijn laptop naar haar toe) Wij doen elke week een controle van de logbestanden. Wat er gebeurt op de laptops van het bedrijf. En bij u zagen we iets.
+앉으세요. (노트북을 그녀 쪽으로 돌리며) 우리는 매주 로그 파일을 점검해요. 회사 노트북에서 무슨 일이 일어나는지요. 그런데 당신 쪽에서 뭔가가 보였어요.
+Noor: (kijkt naar het scherm) Wat zagen jullie?
+(화면을 보며) 뭐가 보였는데요?
+Van Bergen: (wijst) "Maandag, 10.14 uur. USB-massaopslagapparaat aangesloten op laptop NA-0347." Dat is uw laptop.
+(가리키며) "월요일 10시 14분. 노트북 NA-0347에 USB 대용량 저장 장치 연결." 당신 노트북이죠.
+Noor: (een fractie van een seconde stilte; dan rustig) Maandag om tien uur.
+(아주 잠깐 침묵; 그리고 차분하게) 월요일 열 시라.
+Smit: U weet dat usb-sticks hier verboden zijn? Dat staat in uw contract. Artikel twaalf.
+여기서 USB가 금지된 거 아시죠? 계약서에 있어요. 12조.
+Noor: Dat weet ik. Ik heb geen usb-stick gebruikt.
+알아요. USB 안 썼어요.
+Van Bergen: Het systeem zegt iets anders.
+시스템은 다르게 말하는데요.
+Noor: (denkt na; dan, met een klein glimlachje) Maandag om tien uur… Mijn telefoon was bijna leeg. Ik had mijn oplader vergeten. Ik heb hem met een kabel aan mijn laptop gehangen. Dat was voor mijn werk. Ik moest Mirjam bellen over mijn pasje.
+(생각하다가 작게 미소 지으며) 월요일 열 시라… 휴대전화 배터리가 거의 없었어요. 충전기를 깜빡했거든요. 케이블로 노트북에 연결했어요. 업무 때문이었어요. 출입증 때문에 미르얌한테 전화해야 했거든요.
+Van Bergen: Uw telefoon.
+휴대전화라.
+Noor: Een telefoon is ook een usb-apparaat, toch? Als je hem aan een laptop hangt, ziet de computer hem als opslag.
+휴대전화도 USB 장치잖아요? 노트북에 연결하면 컴퓨터는 저장 장치로 인식하죠.
+Smit: (kijkt naar Van Bergen; schrijft iets op)
+(판 베르헌을 보며 뭔가를 적는다)
+Van Bergen: Dat kan. (stilte) Mogen we uw telefoon zien? Om dat te controleren?
+그럴 수 있죠. (침묵) 그걸 확인하게 휴대전화를 볼 수 있을까요?
+Noor: (haar handen liggen plat op tafel) Nee.
+(두 손을 테이블 위에 평평하게 올려놓은 채) 아니요.
+Van Bergen: Nee?
+안 된다고요?
+Noor: Mijn telefoon is privé. Daar staan mijn berichten op, mijn foto's, de berichten van mijn moeder. Dat is privé. Dat valt niet onder mijn contract.
+제 휴대전화는 사적인 거예요. 제 메시지, 사진, 엄마 메시지가 다 있어요. 그건 사적인 거예요. 제 계약에 해당하지 않아요.
+Smit: Als u niets te verbergen heeft…
+숨길 게 없다면…
+Noor: (kijkt hem aan) Dan hoef ik ook niets te laten zien. Dat is precies hoe privacy werkt, meneer Smit. Daar maken jullie toch modellen over?
+(그를 쳐다보며) 그럼 보여 줄 필요도 없죠. 그게 바로 사생활이 작동하는 방식이에요, 스밋 씨. 여러분이 그런 걸로 모델을 만드는 거 아니에요?
+Van Bergen: (een kort, droog lachje) Goed punt. (klikt verder) Andere vraag. Waar was u gisteravond?
+(짧고 건조하게 웃으며) 일리가 있네요. (계속 클릭하며) 다른 질문이요. 어젯밤엔 어디 있었어요?
+Noor: Hier. Tot half elf. Ik werkte aan de validatie van versie 5.0.
+여기요. 10시 반까지요. 버전 5.0 검증 작업을 했어요.
+Van Bergen: Waarom zo laat?
+왜 그렇게 늦게까지요?
+Noor: Omdat ik in mijn proeftijd zit. En omdat Marcel zei dat ik te veel vragen stel en te weinig werk lever. Ik wilde laten zien dat hij ongelijk had.
+수습 기간이니까요. 그리고 마르설이 제가 질문은 너무 많고 일은 너무 적게 한다고 해서요. 그 말이 틀렸다는 걸 보여 주고 싶었어요.
+Smit: (schrijft) "Bewijsdrang."
+(적으며) "인정 욕구."
+Noor: (droog) Schrijf maar "ijverig". Dat klinkt beter.
+(건조하게) "근면함"이라고 써요. 그게 더 낫게 들리니까.
+Van Bergen: (draait de laptop opnieuw; een stilstaand camerabeeld: Noor, die één seconde stilstaat bij de glazen kamer van Floris) Gisterochtend. Negen uur twaalf. U staat stil bij het bureau van meneer Kampman. Wat deed u daar?
+(노트북을 다시 돌린다; 정지된 카메라 화면: 플로리스의 유리 방 앞에 1초 멈춰 선 노르) 어제 아침. 9시 12분. 캄프만 씨 책상 옆에 서 있네요. 거기서 뭘 했어요?
+Noor: (kijkt naar het beeld; haar hart bonst, haar stem niet) Ik keek of hij er was. Ik wilde hem iets vragen. Over mijn proeftijd. Over toegang tot de productieomgeving.
+(화면을 본다; 심장은 쿵쾅거리지만 목소리는 아니다) 그분이 계신지 봤어요. 뭘 좀 여쭤보고 싶어서요. 수습 기간에 대해서요. 운영 환경 접근 권한에 대해서요.
+Van Bergen: En?
+그래서요?
+Noor: Hij was er niet. Dus ik liep door. (glimlacht) Eén seconde. Staat er een regel in mijn contract over hoe lang ik bij een deur mag staan?
+안 계셨어요. 그래서 그냥 지나갔죠. (미소 지으며) 1초요. 문 앞에 얼마나 서 있어도 되는지 계약서에 규정이라도 있나요?
+Smit: (kan een glimlach niet onderdrukken)
+(미소를 참지 못한다)
+Van Bergen: (zucht) Mevrouw Amrani. Ik ga eerlijk zijn. Er is een lek bij dit bedrijf. Informatie gaat naar buiten. Naar de pers. We moeten dit melden bij de directie. Met namen.
+(한숨 쉬며) 암라니 씨. 솔직하게 말할게요. 이 회사에 유출이 있어요. 정보가 밖으로 나가고 있어요. 언론으로요. 우리는 이걸 경영진에 보고해야 해요. 이름과 함께요.
+Noor: Met welke namen?
+어떤 이름이요?
+Van Bergen: Met de namen van mensen die zich vreemd gedragen.
+이상하게 행동하는 사람들 이름이요.
+Noor: (heel rustig) Dan moet u een lange lijst maken, meneer Van Bergen. Iedereen gedraagt zich hier vreemd. Daan speelt elke dag drie uur pingpong. Priya werkt heel langzaam aan tickets die ze niet leuk vindt. En Sven was vorige week drie dagen "ziek".
+(아주 차분하게) 그럼 명단이 길어야겠네요, 판 베르헌 씨. 여기선 다들 이상하게 행동하잖아요. 다안은 매일 세 시간씩 탁구를 치고. 프리야는 마음에 안 드는 티켓은 아주 느리게 처리하고. 스벤은 지난주에 사흘 동안 "아팠고요".
+Van Bergen: (kijkt haar lang aan) U let goed op.
+(그녀를 오래 쳐다보며) 관찰력이 좋네요.
+Noor: Ik ben data-analist. Opletten is mijn werk.
+전 데이터 분석가예요. 관찰하는 게 제 일이죠.
+Smit: (zacht tegen Van Bergen) Ze heeft gelijk over Sven.
+(판 베르헌에게 조용히) 스벤 얘기는 맞아요.
+Van Bergen: (werpt hem een blik toe; Smit zwijgt)
+(그에게 눈짓을 보낸다; 스밋은 입을 다문다)
+Smit: (later, in de gang, als Van Bergen al weg is; zacht) Mevrouw Amrani?
+(나중에 복도에서, 판 베르헌이 먼저 가고 나자; 조용히) 암라니 씨?
+Noor: Ja?
+네?
+Smit: Uw telefoon. Dat klopte, hè? Het opladen.
+휴대전화요. 그거 맞죠? 충전한 거요.
+Noor: Het klopte.
+맞아요.
+Smit: Dat dacht ik al. (kijkt rond) Ik moest gisteravond om half elf thuisblijven. Van Bergen en twee mannen van een extern bedrijf gingen naar de serverruimte. Ik mocht niet mee. Twintig jaar beveiliging, en ik mocht niet mee.
+그럴 줄 알았어요. (주위를 둘러보며) 어젯밤 10시 반에 저는 집에 있으라고 하더라고요. 판 베르헌이랑 외부 업체 남자 둘이 서버실에 갔어요. 저는 못 따라갔고요. 보안 일 20년인데, 못 따라갔어요.
+Noor: Wat deden ze daar?
+거기서 뭘 했는데요?
+Smit: (haalt zijn schouders op) Dat weet ik niet. Maar vanochtend was het logboek van de serverruimte leeg. Van tien uur tot middernacht. Leeg. (loopt weg) Dat heb ik niet gezegd.
+(어깨를 으쓱하며) 몰라요. 근데 오늘 아침에 서버실 출입 기록이 비어 있었어요. 열 시부터 자정까지요. 텅 비어 있었어요. (걸어가며) 제가 말한 거 아니에요.
+Floris: (opent de deur zonder te kloppen, met een espresso in zijn hand) Mirjam zei dat jullie Nour hadden. (glimlacht) Is het klaar?
+(노크도 없이 문을 열고, 에스프레소를 든 채) 미르얌이 당신들이 누르를 데리고 있다더군. (미소 지으며) 끝났나?
+Van Bergen: (staat op) Meneer Kampman, we waren nog bezig met…
+(일어서며) 캄프만 씨, 아직 진행 중이었습니다…
+Floris: Het is klaar. (tegen Noor) Kom even mee naar mijn kamer, Nour. (tegen Van Bergen) Haar pasje werkt weer over vijf minuten. Toch?
+끝났어. (노르에게) 잠깐 내 방으로 와요, 누르. (판 베르헌에게) 그녀 출입증은 5분 뒤에 다시 될 거야. 그렇지?
+Van Bergen: (stilte) Natuurlijk, meneer Kampman.
+(침묵) 물론입니다, 캄프만 씨.
+Floris: (in zijn glazen kamer; hij doet de deur dicht; de leren agenda ligt dicht op het bureau) Sorry daarvoor. Van Bergen is een paranoïde oude man. Ik huur hem in omdat paranoïde oude mannen goede beveiligers zijn.
+(유리 방 안; 문을 닫는다; 가죽 다이어리는 책상 위에 덮여 있다) 미안해요. 판 베르헌은 편집증 있는 노인이에요. 편집증 있는 노인들이 좋은 보안 요원이라서 고용한 거죠.
+Noor: Hij denkt dat ik het lek ben.
+그분은 제가 유출자라고 생각해요.
+Floris: Hij denkt dat iedereen het lek is. Dat is zijn werk. (gaat zitten) Ik niet.
+그 사람은 모두가 유출자라고 생각해요. 그게 그 사람 일이죠. (앉으며) 나는 아니에요.
+Noor: (gaat ook zitten; haar handen plat op haar knieën) Waarom niet?
+(그녀도 앉는다; 두 손은 무릎 위에 평평하게) 왜요?
+Floris: Omdat ik je scriptie heb gelezen, Nour. En je sollicitatie heb gezien. Je bent slim. Je bent kritisch. Je vertrouwt niets. (glimlacht) Dat wil ik juist.
+당신 논문을 읽었으니까요, 누르. 그리고 면접도 봤고요. 당신은 똑똑해요. 비판적이고요. 아무것도 안 믿죠. (미소 지으며) 내가 바로 그걸 원해요.
+Noor: Waarvoor?
+뭘 위해서요?
+Floris: Voor de persconferentie. Over drie weken. (leunt naar voren) Ik wil dat jij versie 5.0 presenteert.
+기자회견이요. 3주 뒤에요. (몸을 앞으로 숙이며) 당신이 버전 5.0을 발표했으면 해요.
+Noor: (verstijft) Ik?
+(굳어지며) 제가요?
+Floris: Jij. Een jonge vrouw. Een econometrist. Met een Marokkaanse achtergrond. Die voor de camera zegt: "Ik heb dit model zelf gecontroleerd. Het gebruikt geen nationaliteit. Het is eerlijk."
+당신이요. 젊은 여성. 계량경제학자. 모로코 배경을 가진. 카메라 앞에서 이렇게 말하는 거예요: "이 모델은 제가 직접 검증했습니다. 국적을 쓰지 않습니다. 공정합니다."
+Noor: (heel zacht) Omdat ik Marokkaans ben.
+(아주 조용히) 제가 모로코계니까요.
+Floris: Omdat je geloofwaardig bent. (stilte) Ja. Ook omdat je Marokkaans bent. Ik ben eerlijk tegen je. Dat waardeer je toch, eerlijkheid?
+당신이 신뢰를 주니까요. (침묵) 네. 모로코계라서이기도 하죠. 솔직하게 말하는 거예요. 솔직함, 그거 좋아하잖아요?
+Noor: En als ik het model niet eerlijk vind?
+그럼 제가 그 모델이 공정하지 않다고 생각하면요?
+Floris: Dan maak je het eerlijk. Je krijgt vanaf maandag toegang tot de productieomgeving. Alles. Je mag alles zien. Alle logs, alle data. Zoek maar. Als je iets vindt, verbeter je het. Voor de persconferentie.
+그럼 공정하게 만들면 돼요. 월요일부터 운영 환경 접근 권한을 줄게요. 전부요. 다 볼 수 있어요. 모든 로그, 모든 데이터. 찾아봐요. 뭔가 찾으면 고쳐요. 기자회견 전에요.
+Noor: (stilte) Na twee weken? De proeftijd duurt toch twee maanden?
+(침묵) 2주 만에요? 수습 기간은 두 달이잖아요?
+Floris: Regels zijn er voor gewone mensen. (staat op, kijkt uit het raam naar de parkeerplaats) Weet je, ik heb gisteravond een journalist ontmoet. In Den Haag. Bram Hoekstra. Ken je hem?
+규칙은 평범한 사람들을 위한 거예요. (일어서서 창밖의 주차장을 본다) 그거 알아요? 어젯밤에 헤이그에서 기자 한 명을 만났어요. 브람 후크스트라. 알아요?
+Noor: (haar stem blijft gelijk) Van naam. Van dat stuk over de haven.
+(목소리는 그대로) 이름은요. 그 항구 기사로요.
+Floris: Een goede journalist. Hij werkt met mensen die data begrijpen. (draait zich om) Ik zou zulke mensen liever aan mijn kant hebben. Dan tegenover me.
+좋은 기자예요. 데이터를 이해하는 사람들이랑 일하죠. (돌아서며) 그런 사람들은 내 편에 두고 싶어요. 내 맞은편 말고.
+Noor: (kijkt hem aan)
+(그를 쳐다본다)
+Floris: Denk erover na, Nour. Tot maandag. (opent de deur voor haar) O, en je pasje werkt weer.
+생각해 봐요, 누르. 월요일까지요. (그녀를 위해 문을 열어 주며) 아, 그리고 출입증 다시 될 거예요.
+Daan: (bij haar bureau, met grote ogen) Nour! Waar was je? Mirjam zei dat je bij beveiliging zat!
+(그녀 책상 옆에서, 눈이 휘둥그레져서) 누르! 어디 있었어요? 미르얌이 보안팀에 있다던데요!
+Noor: Een usb-log. Mijn telefoon aan de oplader. (glimlacht) Opgelost.
+USB 기록이요. 충전 중이던 휴대전화요. (미소 지으며) 해결됐어요.
+Daan: (fluistert) Bij mij hebben ze nooit iets gecontroleerd. In twee jaar niet.
+(속삭이며) 나는 2년 동안 한 번도 점검받은 적 없는데요.
+Priya: (zonder op te kijken van haar scherm) Omdat jij Daan heet, Daan.
+(화면에서 눈을 떼지 않고) 당신 이름이 다안이니까요, 다안.
+Daan: (stilte) Wat bedoel je?
+(침묵) 무슨 뜻이에요?
+Priya: Niets. Een grapje. (kijkt Noor eindelijk aan; zacht) Gaat het?
+아무것도 아니에요. 농담이에요. (마침내 노르를 쳐다보며; 조용히) 괜찮아요?
+Noor: Het gaat.
+괜찮아요.
+Priya: Mooi. (weer naar haar scherm) Soep om twaalf uur?
+다행이네요. (다시 화면을 보며) 열두 시에 수프 먹을래요?
+Sven: (bij de trap naar de parkeergarage, waar geen camera hangt) Wat wilde hij?
+(카메라가 없는 지하 주차장 계단에서) 그 사람이 뭘 원했어요?
+Noor: Dat ik versie 5.0 presenteer. Op de persconferentie. Als "geloofwaardige jonge vrouw".
+제가 버전 5.0을 발표하길요. 기자회견에서요. "신뢰를 주는 젊은 여성"으로요.
+Sven: (sluit zijn ogen) Natuurlijk. (opent ze) Doe het niet.
+(눈을 감으며) 그렇겠죠. (눈을 뜨며) 하지 마요.
+Noor: Ik doe het niet.
+안 해요.
+Sven: En hij geeft je toegang tot productie, zeker? Zodat je "alles kunt zien"?
+그리고 운영 환경 접근 권한을 준다고 했죠? "다 볼 수 있게"?
+Noor: (verrast) Hoe weet je dat?
+(놀라며) 그걸 어떻게 알아요?
+Sven: Omdat hij dat bij mij ook deed. Vijf jaar geleden. "Je mag alles zien, Sven." (lacht bitter) Je mag alles zien wat hij je laat zien.
+나한테도 그랬으니까요. 5년 전에요. "다 봐도 돼, 스벤." (씁쓸하게 웃으며) 그 사람이 보여 주는 건 다 볼 수 있죠.
+Noor: (in het Wilhelminapark, om één uur, op een bankje, met een telefoon die ze bij een kiosk heeft gekocht) Femke? Ik bel van een andere telefoon. Een prepaid.
+(오후 한 시, 빌헬미나 공원 벤치에서, 매점에서 산 휴대전화로) 펨커? 다른 전화로 걸고 있어요. 선불폰이요.
+Femke: Goed zo. Wat is er gebeurd?
+잘했어. 무슨 일이야?
+Noor: Pasje geblokkeerd. Verhoor door beveiliging. Een usb-log van maandag. Mijn telefoon aan de oplader. Een camerabeeld van mij bij Floris' agenda. (stilte) En toen kwam Floris. Hij wil dat ik versie 5.0 presenteer op de persconferentie.
+출입증 차단. 보안팀 심문. 월요일 USB 기록. 충전 중이던 제 휴대전화요. 플로리스 다이어리 옆에 있던 제 카메라 영상. (침묵) 그리고 플로리스가 왔어요. 기자회견에서 제가 버전 5.0을 발표했으면 한대요.
+Femke: (lange stilte) Hij wil jou op het podium.
+(긴 침묵) 너를 무대에 세우고 싶어 한다고.
+Noor: Een Marokkaanse vrouw die zegt dat het model eerlijk is. Zijn woorden.
+모로코 여성이 모델이 공정하다고 말하는 거요. 그 사람 표현이에요.
+Femke: En als hij weet wie je bent?
+그럼 그가 네 정체를 안다면?
+Noor: Dan is het nog slimmer. Dan staat een journalist van De Lantaarn op een podium om Veritas te verdedigen. Daarna kan niemand ons meer geloven.
+그럼 더 영리한 거죠. 데 란타른 기자가 무대에 서서 베리타스를 변호하는 거니까요. 그 뒤로는 아무도 우리를 못 믿겠죠.
+Femke: (zacht) Precies.
+(조용히) 바로 그거야.
+Bram: (komt erbij in het gesprek) Noor, ik hoor alles. Hanneke ook. We zitten in de redactie. Margreet ook.
+(통화에 들어오며) 노르, 다 듣고 있어. 하네커도. 편집국에 다 같이 있어. 마르흐레이트도.
+Margreet: (via de luidspreker) Noor, lieverd. Gaat het?
+(스피커로) 노르, 우리 아가. 괜찮아요?
+Noor: Het gaat.
+괜찮아요.
+Margreet: (na een korte stilte) Ik zeg iets wat jullie misschien niet leuk vinden. Misschien moet je het doen.
+(짧은 침묵 뒤) 다들 마음에 안 들 수도 있는 말을 할게요. 어쩌면 해야 할지도 몰라요.
+Bram: Wat?
+뭐라고요?
+Margreet: Denk erover na. Als je ja zegt, krijg je toegang tot alles. Productie. Alle logs. Je staat zo dicht bij de waarheid als je maar kunt komen. Je kunt op de laatste dag weggaan. Voor de persconferentie.
+생각해 봐요. 좋다고 하면 전부 접근할 수 있어요. 운영 환경. 모든 로그. 진실에 가장 가까이 갈 수 있는 거죠. 마지막 날, 기자회견 전에 빠져나오면 돼요.
+Hanneke: (scherp) Nee, Margreet. Als Noor ja zegt tegen het presenteren van een product, gaat ze een grens over. Dan doet ze mee. Dan is ze geen getuige meer. En als ze op de laatste dag weggaat, zegt Veritas: "Zij heeft het model zelf gecontroleerd en goedgekeurd." Op tape.
+(날카롭게) 안 돼요, 마르흐레이트. 노르가 제품 발표를 하겠다고 하면 선을 넘는 거예요. 가담하는 거죠. 더 이상 증인이 아니에요. 그리고 마지막 날 빠져나와도 베리타스는 이렇게 말할 거예요: "그녀가 모델을 직접 검증하고 승인했다." 기록으로요.
+Femke: Hanneke heeft gelijk. Het is een val. Twee vallen tegelijk.
+하네커 말이 맞아요. 함정이에요. 함정 두 개가 동시에요.
+Margreet: (stilte) Ik zei alleen: denk erover na. (zachter) Het is Noors beslissing.
+(침묵) 그냥 생각해 보라고 했을 뿐이에요. (목소리를 낮추며) 노르가 결정할 일이에요.
+Bram: Noor?
+노르?
+Noor: (kijkt naar de eenden in de vijver) Ik ga niet op dat podium staan. (stilte) Maar ik ga maandag wel kijken in de productieomgeving. Eén keer. Kijken mag.
+(연못의 오리들을 바라보며) 그 무대엔 안 서요. (침묵) 그래도 월요일에 운영 환경은 볼 거예요. 한 번만요. 보는 건 괜찮잖아요.
+Hanneke: Kijken mag. Niets kopiëren. Niets veranderen. En daarna stop je.
+보는 건 돼요. 아무것도 복사하지 말고. 아무것도 바꾸지 말고. 그다음엔 그만둬요.
+Femke: Vier weken was de afspraak. Je zit nu in week drie. Volgende vrijdag is je laatste dag. Wat er ook gebeurt.
+4주가 약속이었어. 지금 3주째고. 다음 주 금요일이 마지막 날이야. 무슨 일이 있어도.
+Noor: (knikt, ook al kan niemand het zien) Volgende vrijdag.
+(아무도 볼 수 없지만 고개를 끄덕이며) 다음 주 금요일.
+Bram: En Noor? Wat Smit zei over het logboek van de serverruimte… schrijf het vanavond op. Woord voor woord.
+그리고 노르? 스밋이 서버실 출입 기록에 대해 한 말… 오늘 밤에 적어 둬. 한 마디도 빠짐없이.
+Noor: Al gedaan. In mijn hoofd.
+벌써 했어요. 머릿속에요.
+Bram: Op papier. Hoofden vergeten.
+종이에. 머리는 잊어버려.
+Margreet: (warm) Goed, lieverd. Ik ben trots op je. Laat me weten wanneer je maandag inlogt. Hoe laat precies.
+(따뜻하게) 좋아요, 우리 아가. 자랑스러워요. 월요일에 언제 로그인하는지 알려 줘요. 정확히 몇 시인지요.
+Noor: (een korte stilte) Ik laat het Femke weten.
+(짧은 침묵) 펨커한테 알릴게요.
+Noor: (thuis, die avond, op de laptop van Veritas; een mail van IT) "Uw toegang tot de productieomgeving is geactiveerd. Per direct."
+(그날 밤 집에서, 베리타스 노트북; IT팀의 메일) "운영 환경 접근 권한이 활성화되었습니다. 즉시 적용."
+Noor: (fluistert) Per direct. Niet maandag. Nu.
+(속삭이며) 즉시라. 월요일이 아니라. 지금.
+Noor: (typt aan Femke via de prepaid) "Toegang nu al. Niet maandag. Moet ik kijken?"
+(선불폰으로 펨커에게 입력하며) "벌써 접근 권한이 생겼어요. 월요일이 아니라. 봐도 돼요?"
+Femke: [Bericht] Eén keer kijken. Vijf minuten. Dan dicht. En je weet dat ze zien wat jij ziet.
+[메시지] 한 번만 봐. 5분. 그리고 닫아. 그리고 네가 보는 걸 그쪽도 본다는 거 알고 있지.
+Noor: (opent de map "Productie — Rotterdam — Logs"; klikt op "Feature importance — maart")
+(«운영 — 로테르담 — 로그» 폴더를 연다; «피처 중요도 — 3월»을 클릭한다)
+Noor: (leest; haar adem stokt) Eerdere terugvordering: nul komma vierentwintig. Duur uitkering: nul komma tweeëntwintig. Eenoudergezin: nul komma vijftien. Taalvrijstelling: nul komma dertien.
+(읽는다; 숨이 막힌다) 과거 환수: 0.24. 수급 기간: 0.22. 한부모: 0.15. 언어 면제: 0.13.
+Noor: (scrolt; scrolt nog eens) Geen NAT_CAT. Nergens.
+(스크롤한다; 또 스크롤한다) NAT_CAT이 없어. 어디에도.
+Noor: (pakt haar schrift, slaat de pagina open van vorige week: "0,18 — NAT_CAT") Vorige week stond hij erop. Derde plaats. Nul komma achttien. In de auto van Sven.
+(공책을 집어 지난주 페이지를 편다: "0.18 — NAT_CAT") 지난주엔 있었어. 3위. 0.18. 스벤의 차 안에서.
+Noor: (kijkt naar de datum onderaan het logbestand) "Laatst gewijzigd: gisteren, 23.47 uur."
+(로그 파일 맨 아래 날짜를 본다) "마지막 수정: 어제 23시 47분."
+Noor: (heel zacht) Gisteravond. Toen Floris met de mannen van beveiliging naar de serverruimte liep.
+(아주 조용히) 어젯밤. 플로리스가 보안팀 남자들이랑 서버실로 걸어가던 그때.
+Noor: (klapt de laptop dicht; ze trilt) Ze hebben de logs veranderd.
+(노트북을 덮는다; 떨고 있다) 그 사람들이 로그를 바꿨어.
+Noor: (pakt de prepaid, typt aan het nummer dat Sven haar in de garage op een papiertje gaf) "Ze hebben de logs veranderd. Gisteravond 23.47. NAT_CAT is weg."
+(선불폰을 집어, 스벤이 주차장에서 쪽지에 적어 준 번호로 입력한다) "그 사람들이 로그를 바꿨어요. 어젯밤 23시 47분. NAT_CAT이 없어졌어요."
+Noor: (wacht; een minuut; twee minuten)
+(기다린다; 1분; 2분)
+Sven: [SMS] Ik weet het.
+[문자] 알아요.
+Noor: (typt snel) "Dan is het bewijs weg."
+(빠르게 입력하며) "그럼 증거가 없어진 거네요."
+Noor: (wacht; niets; dan typt ze opnieuw) "Sven?"
+(기다린다; 아무 답이 없다; 다시 입력한다) "스벤?"
+Sven: [SMS] Niet helemaal. Ik heb een kopie. Van vorige week. Van vóór gisteravond. Met de handtekening van het systeem.
+[문자] 완전히는 아니에요. 사본이 있어요. 지난주 거요. 어젯밤 전 거요. 시스템 서명까지 있는 거요.
+Noor: (staart naar het scherm; haar hart bonst) "Waarom vertel je me dat?"
+(화면을 응시한다; 심장이 쿵쾅거린다) "왜 저한테 그걸 말해요?"
+Sven: [SMS] Omdat ik morgen een beslissing neem. Zaterdag. Utrecht. Park Lepelenburg. Tien uur. Kom alleen. Of met je chef. Niemand anders.
+[문자] 내일 결정을 내릴 거니까요. 토요일. 위트레흐트. 레펄렌뷔르흐 공원. 열 시. 혼자 와요. 아니면 당신 선임이랑. 다른 사람은 안 돼요.
+Noor: (typt) "Mijn chef. Bram."
+(입력하며) "제 선임이요. 브람."
+Sven: [SMS] Die van het stuk over de haven. (stilte) Goed. Alleen hij.
+[문자] 항구 기사 쓴 사람이요. (침묵) 좋아요. 그 사람만.
+Noor: (legt de prepaid neer, pakt haar schrift en schrijft) Zaterdag. Lepelenburg. 10 uur. Sven. Bram. (stilte; ze schrijft eronder) Niemand anders. Ook niet Margreet.
+(선불폰을 내려놓고, 공책을 집어 적는다) 토요일. 레펄렌뷔르흐. 10시. 스벤. 브람. (침묵; 그 아래에 적는다) 다른 사람은 안 됨. 마르흐레이트도.
+Noor: (kijkt naar wat ze net heeft geschreven; lange stilte) Waarom schrijf ik dat?
+(방금 쓴 글을 바라본다; 긴 침묵) 내가 왜 이걸 쓰지?
+
+## 주요 단어
+ontdekken → ontdekt | 온트데컨 → 온트데크트 | 발견하다, 들키다
+de draaideur | 더 드라이되르 | 회전문
+blokkeren → geblokkeerd | 블로케이런 | 차단하다
+de informatiebeveiliging | 더 인포르마치버베일러힝 | 정보 보안
+het logbestand | 헷 로흐버스탄트 | 로그 파일
+het massaopslagapparaat | 헷 마사옵슬라흐아파라트 | 대용량 저장 장치
+aansluiten → aangesloten | 안슬라위턴 | 연결하다
+de oplader | 더 옵라더르 | 충전기
+het camerabeeld | 헷 카메라베일트 | 카메라 영상
+zich gedragen | 지흐 허드라헌 | 행동하다
+paranoïde | 파라노이더 | 편집증적인
+geloofwaardig | 헐로프바르더흐 | 신뢰할 만한
+waarderen → gewaardeerd | 바르데이런 | 높이 평가하다
+het podium | 헷 포디윔 | 무대, 연단
+de prepaid | 더 프리페이트 | 선불폰
+activeren → geactiveerd | 악티베이런 | 활성화하다
+per direct | 페르 디렉트 | 즉시
+wijzigen → gewijzigd | 베이저헌 | 수정하다, 변경하다
+de grens overgaan | 더 흐렌스 오버르한 | 선을 넘다
+
+## 문법·표현 정리
+**Kun je even meekomen? — 분리동사 meekomen:** "잠깐 같이 갈래요?" 부드럽지만 거절하기 어려운 요청. meekomen(따라오다) · meenemen(데려가다) · meedoen(참여하다)
+**Dat was voor mijn werk — voor + 목적:** "업무 때문이었어요." Dat was voor mijn werk. · Dit is voor de zekerheid.(이건 만일을 위해서예요)
+**We moeten dit melden — melden bij:** "~에 보고하다." melden bij de directie(경영진에 보고하다) · melden bij de politie(경찰에 신고하다)
+**Dat is privé / Dat valt niet onder mijn contract:** 개인 영역을 지키는 표현. vallen onder(~에 해당하다) — 이번 부에서 계속 반복되는 구조입니다.
+**Ze hebben de logs veranderd — 현재완료 + 결과:** veranderen(바꾸다) → veranderd. 과거의 행위가 지금 결과로 남아 있음을 강조.
+**Als u niets te verbergen heeft… — 감시의 논리:** "숨길 게 없다면…" 노르의 반박: Dan hoef ik ook niets te laten zien.(그럼 보여 줄 필요도 없죠) — 사생활 논쟁의 고전적 대화.
+**liever… dan…(~보다 ~을 원하다):** Ik zou zulke mensen liever aan mijn kant hebben dan tegenover me.(그런 사람들은 내 맞은편보다 내 편에 두고 싶다)
+**zo … als je maar kunt(최대한 ~하게):** Je staat zo dicht bij de waarheid als je maar kunt komen.(진실에 최대한 가까이 간다)
+**Regels zijn er voor gewone mensen:** er zijn voor(~을 위해 존재하다). 권력자의 오만을 보여 주는 문장. Ik ben er voor jou.(난 너를 위해 여기 있어)
+**ook al(비록 ~일지라도):** Ze knikt, ook al kan niemand het zien.(아무도 볼 수 없지만 고개를 끄덕인다) ook al + 동사 + 주어 어순도 가능합니다.
+**Wat er ook gebeurt(무슨 일이 있어도):** wat … ook(무엇이 ~하든). Wat je ook doet…(네가 뭘 하든) · Waar je ook bent…(네가 어디 있든)
+**Per direct(즉시):** 공문서·업무 메일 표현. per direct ingaan(즉시 발효되다) · per 1 mei(5월 1일부로)
+**Kijken mag(보는 건 된다):** 부정사가 주어. Roken mag niet.(흡연 금지) · Vragen mag altijd.(질문은 언제든 된다)
+**Schrijf maar "ijverig" — 단어 선택의 싸움:** bewijsdrang(인정 욕구, 증명하려는 충동) vs ijverig(근면한). 같은 행동도 어떤 단어로 기록하느냐에 따라 평가가 달라집니다.
+
+## 취재 노트
+기업이 직원 노트북의 USB 연결·파일 이동을 기록하는 «데이터 유출 방지(DLP)» 시스템은 흔하다. 휴대전화 충전도 저장 장치 연결로 기록될 수 있다. 회사가 직원에게 개인 휴대전화 제출을 강요할 법적 근거는 원칙적으로 없다.
+기자가 위장 취재 대상의 제품을 공개적으로 홍보·승인하는 것은 언론 윤리상 넘을 수 없는 선으로 여겨진다. 로그 파일을 사후에 고치는 것은 증거 인멸에 해당할 수 있다. 판 베르헌·스밋, 수치(0.24 등), 수정 시각은 가상이다.
