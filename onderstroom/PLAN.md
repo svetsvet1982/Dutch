@@ -381,7 +381,7 @@ Margreet의 마지막 변명(7부 10화): **"Ik heb deze krant overeind gehouden
 | 부 | 상태 | 파일 |
 |---|---|---|
 | 1부 Witte Haven | **완료** (15화 × 150턴) | `onderstroom/part1/ep01.txt` … `ep15.txt` → `part1/part1-witte-haven.docx` |
-| 2부 Het Algoritme | 기획 완료 | `onderstroom/part2/` (예정) |
+| 2부 Het Algoritme | **완료** (15화 × 150턴) | `onderstroom/part2/ep01.txt` … `ep15.txt` → `part2/part2-het-algoritme.docx` |
 | 3부 Gif | 기획 완료 | `onderstroom/part3/` (예정) |
 | 4부 Silicium | 기획 완료 | `onderstroom/part4/` (예정) |
 | 5부 Hybride | 기획 완료 | `onderstroom/part5/` (예정) |
