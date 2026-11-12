@@ -1,0 +1,346 @@
+# 3부 14화. De rekensom (계산)
+수준: 고급 (C1) | 장소: 편집국 «전쟁실»(작은 회의실) → 룩셈부르크 상업 등기 화상 통화 → 위트레흐트 카페(소피) → 자위다스 폴더르 캐피털 사무실 33층 → 편집국 | 시간: 2027년 8월 셋째 주, 월요일 → 목요일
+핵심 표현: Volg het geld · Het klopt tot op de cent · Een brievenbusfirma · Wij handelen binnen de wet
+
+## 대화
+Noor: (maandagochtend, in de kleine vergaderkamer die nu "de oorlogskamer" heet; op het whiteboard staat een schema met pijlen, bedragen en landvlaggetjes) Goed. Iedereen zitten. Ik leg het één keer uit. Daarna stellen jullie vragen. Niet tussendoor.
+(월요일 아침, 이제 «전쟁실»이라고 불리는 작은 회의실; 화이트보드에 화살표·금액·국기 스티커가 붙은 도표) 좋아요. 다들 앉으세요. 한 번만 설명할게요. 질문은 그다음에요. 중간에 말고요.
+Jip: (fluistert tegen Lucas) Ze heeft drie nachten niet geslapen.
+(뤼카스에게 속삭이며) 사흘 밤을 안 잤대.
+Noor: Twee. Ik hoorde dat. (ze tikt op de eerste pijl) Stap één. De provincie Noord-Brabant betaalt voor de uitkoop van piekbelasters. Zes bedrijven die Polder Capital Agrarisch vóór de publicatie kocht. Uitkoopbedrag in totaal: zevenentwintig miljoen euro.
+이틀이요. 들었어요. (첫 번째 화살표를 톡 치며) 1단계. 북브라반트 도청이 최대 배출원 매입 대금을 냅니다. 폴더르 캐피털 농업이 공개 전에 산 농장 여섯 곳이요. 매입 총액: 2,700만 유로.
+Lucas: En wat betaalde Polder Capital zelf aan de boeren?
+그럼 폴더르 캐피털이 농부들한테 직접 낸 돈은요?
+Noor: (wijst naar hem) Tussendoor. Maar goed. Negen komma vier miljoen. (ze schrijft het op) Verschil: zeventien komma zes miljoen. In drie tot zes maanden.
+(그를 가리키며) 중간에 질문했네요. 뭐, 좋아요. 940만 유로요. (적으며) 차액: 1,760만 유로. 석 달에서 여섯 달 사이에요.
+Bram: (zacht) Plus de stikstof.
+(조용히) 거기에 질소까지.
+Noor: Plus de stikstof. Stap twee. De stikstofruimte van die zes bedrijven is niet allemaal teruggegeven aan de natuur. Een deel is via extern salderen doorverkocht. Aan het distributiecentrum bij de A50. Aan de varkenshouder in Boxmeer. Totaal: vier komma twee miljoen.
+거기에 질소까지요. 2단계. 그 여섯 농장의 질소 여유분이 전부 자연으로 돌아간 게 아니에요. 일부는 외부 상쇄로 되팔렸어요. A50 옆 유통 센터에. 박스메이르 양돈 농가에. 총 420만이요.
+Jip: (wordt bleek) De berekening die ik moest aanpassen.
+(창백해지며) 제가 고쳐야 했던 그 계산이요.
+Noor: Die berekening. (ze zet een rood kruis bij de pijl) Stap drie. Het geld blijft niet in Nederland. Polder Capital Agrarisch B.V. leent elk kwartaal het hele overschot uit aan… (ze tikt op een vlaggetje) Polder Capital Holding S.à r.l. Luxemburg.
+그 계산이요. (화살표 옆에 빨간 X를 그리며) 3단계. 돈은 네덜란드에 머물지 않아요. 폴더르 캐피털 농업 유한회사는 매 분기 잉여금 전부를 빌려줘요… (국기 스티커를 톡 치며) 룩셈부르크의 폴더르 캐피털 홀딩 S.à r.l.에요.
+Femke: Een lening. Aan de eigen moeder.
+대출이네. 자기 모회사한테.
+Noor: Tegen nul procent rente. Zonder aflossingsschema. (stilte) Een lening die nooit wordt terugbetaald, is geen lening. Het is een manier om winst te verplaatsen zonder belasting.
+금리 0%로요. 상환 일정도 없이요. (침묵) 절대 갚지 않는 대출은 대출이 아니에요. 세금 없이 이익을 옮기는 방법이죠.
+Bram: En in Luxemburg?
+그럼 룩셈부르크에선?
+Noor: Daar wordt het spannend. (ze opent haar laptop en draait het scherm) Ik heb het handelsregister van Luxemburg doorzocht. Polder Capital Holding heeft een adres in de Boulevard Royal. Op dat adres zitten… tweehonderdzestien bedrijven.
+거기서부터 흥미로워져요. (노트북을 열어 화면을 돌린다) 룩셈부르크 상업 등기부를 뒤져 봤어요. 폴더르 캐피털 홀딩 주소는 불바르 루아얄이에요. 그 주소에 있는 회사가… 216개예요.
+Lucas: Tweehonderdzestien? In één gebouw?
+216개요? 한 건물에요?
+Noor: In één kantoor. Van een trustkantoor. Met vier medewerkers. Een brievenbusfirma. Geen personeel. Geen bureau. Alleen een brievenbus en een stempel.
+사무실 하나에요. 신탁 회사 사무실이요. 직원은 네 명. 페이퍼 컴퍼니예요. 직원도 없고. 책상도 없고. 우편함이랑 도장만 있어요.
+Lucas: Hoe kom je aan de Luxemburgse cijfers? Die zijn toch geheim?
+룩셈부르크 숫자는 어떻게 구했어요? 그거 비밀 아니에요?
+Noor: Niet alles. De jaarrekeningen moeten openbaar. Op papier. In het Frans. (ze trekt een gezicht) Ik heb tweehonderd pagina's Frans gelezen. Met een woordenboek. Mijn middelbareschoolleraar zou trots zijn.
+전부는 아니에요. 연간 결산서는 공개해야 하거든요. 종이로요. 프랑스어로요. (얼굴을 찡그리며) 프랑스어 이백 쪽을 읽었어요. 사전 끼고요. 고등학교 선생님이 자랑스러워하실 거예요.
+Jip: En de rest?
+나머지는요?
+Noor: De rest komt uit de Nederlandse jaarrekening van Polder Capital Agrarisch. Daar staat de lening aan Luxemburg gewoon in. In een voetnoot. Op pagina zesendertig. (stilte) Mensen verstoppen dingen altijd in voetnoten. Ze denken dat niemand voetnoten leest.
+나머지는 폴더르 캐피털 농업의 네덜란드 결산서에서 나왔어요. 거기에 룩셈부르크 대출이 그냥 적혀 있어요. 각주에요. 36쪽에. (침묵) 사람들은 늘 각주에 뭘 숨겨요. 아무도 각주를 안 읽는다고 생각하거든요.
+Femke: Noor leest alleen voetnoten.
+노르는 각주만 읽어.
+Noor: Voetnoten zijn de waarheid. De rest is marketing.
+각주가 진실이에요. 나머지는 마케팅이고요.
+Femke: En daarna?
+그다음엔?
+Noor: Stap vier. (ze wijst naar het laatste vlaggetje: geel, blauw, met sterren) Curaçao. Polder Capital Holding betaalt elk jaar een "dividend" aan een stichting particulier fonds. In Willemstad. "Stichting Eikenhorst Fonds."
+4단계. (마지막 국기 스티커를 가리킨다: 노랑, 파랑, 별) 퀴라소요. 폴더르 캐피털 홀딩은 매년 "배당금"을 한 개인 재단 펀드에 지급해요. 빌렘스타트에 있는. "에이컨호르스트 재단 펀드."
+Jip: Eikenhorst. Zoals het landgoed.
+에이컨호르스트. 그 영지랑 같네요.
+Noor: Zoals het landgoed. En een stichting particulier fonds op Curaçao hoeft zijn begunstigden niet openbaar te maken. Niemand weet wie het geld krijgt.
+그 영지랑 같아요. 그리고 퀴라소의 개인 재단 펀드는 수익자를 공개할 필요가 없어요. 누가 돈을 받는지 아무도 몰라요.
+Bram: Niemand?
+아무도?
+Noor: (glimlacht voor het eerst) Bijna niemand. Want de oprichtingsakte van de stichting is in 2021 gepasseerd. Niet op Curaçao. In Amsterdam. Door een notaris. (ze legt een kopie op tafel) Op de zevenentwintigste verdieping.
+(처음으로 미소 지으며) 거의 아무도요. 그 재단 설립 증서는 2021년에 작성됐거든요. 퀴라소에서가 아니라. 암스테르담에서. 한 공증인이. (사본을 탁자에 올려놓으며) 27층에서요.
+Bram: (leest het aktenummer hardop) VO/2021/0611/087.
+(증서 번호를 소리 내어 읽으며) VO/2021/0611/087.
+Femke: Het formaat van de USB.
+USB에 있던 형식이네.
+Noor: En op de USB staat nummer VO/2021/0611/087. Kees had het. Vier jaar geleden. Met één woord erachter: "Eikenhorst".
+그리고 USB에 VO/2021/0611/087번이 있어요. 케이스가 갖고 있었어요. 4년 전에. 뒤에 단어 하나와 함께요: "에이컨호르스트".
+Bram: (zit doodstil) Kees wist het al.
+(꼼짝 않고 앉아) 케이스는 이미 알았구나.
+Noor: Kees wist de naam. Niet het bedrag. (ze schrijft een laatste getal op het bord) Totaal van Brabant naar Curaçao, in drie jaar, via Luxemburg: eenentwintig komma acht miljoen euro. Belastingvrij.
+케이스는 이름을 알았어요. 금액은 몰랐고요. (보드에 마지막 숫자를 적으며) 3년 동안 룩셈부르크를 거쳐 브라반트에서 퀴라소로 간 총액: 2,180만 유로. 비과세로요.
+Lucas: (fluit zacht) Volg het geld.
+(조용히 휘파람을 불며) 돈을 따라가라.
+Noor: Volg het geld. Het klopt tot op de cent. Ik heb het drie keer nagerekend. Jip heeft het twee keer nagerekend. En Femke heeft het één keer nagerekend en twee fouten gevonden in míjn rekenwerk. Allebei verbeterd.
+돈을 따라가라. 1센트까지 맞아요. 제가 세 번 다시 계산했어요. 입이 두 번 했고요. 그리고 펨커가 한 번 해서 제 계산에서 오류 두 개를 찾았어요. 둘 다 고쳤어요.
+Femke: (droog) Ze waren klein.
+(무덤덤하게) 작은 거였어.
+Noor: Vierhonderd euro. Dat is niet klein. (stilte) Nu de vragen.
+400유로요. 작은 거 아니에요. (침묵) 이제 질문하세요.
+Hanneke: (vanuit de deuropening, waar ze al een tijdje staat) Eén vraag. Is dit allemaal legaal?
+(한참 전부터 서 있던 문간에서) 질문 하나. 이거 전부 합법이야?
+Noor: (stilte) De constructie? Grotendeels wel. Lenen aan je moederbedrijf mag. Luxemburg mag. Een stichting op Curaçao mag.
+(침묵) 구조요? 대부분은 합법이에요. 모회사에 대출해 주는 것도 되고. 룩셈부르크도 되고. 퀴라소 재단도 돼요.
+Hanneke: Dan is het geen misdaad. Dan is het belastingontwijking. Daar zijn wij in Nederland heel goed in. Helaas.
+그럼 범죄가 아니야. 조세 회피지. 우리 네덜란드가 그런 거 아주 잘하잖아. 안타깝게도.
+Bram: Behalve als het begin niet legaal was. Als de bedrijven gekocht zijn met een gelekte lijst.
+처음이 합법이 아니었다면 얘기가 다르죠. 농장들을 흘러나온 명단으로 샀다면요.
+Hanneke: Dan wordt het witwassen van de opbrengst van een ambtsmisdrijf. (ze komt binnen en gaat zitten) Dat is een heel ander verhaal. Maar daarvoor moet je het lek bewijzen.
+그럼 공무상 범죄로 얻은 수익의 자금 세탁이 되지. (들어와서 앉으며) 그건 완전히 다른 얘기야. 그런데 그러려면 누설을 증명해야 해.
+Bram: Daar werk ik aan.
+그걸 하고 있어요.
+Bram: (later, in de gang, aan de telefoon) Toon. Het duurt niet lang meer. Een week. Misschien minder.
+(나중에, 복도에서 전화로) 톤. 이제 오래 안 걸려요. 일주일. 어쩌면 그보다 덜.
+Toon: (op de achtergrond rammelt een melkbus) Een week. Dat zei ge vorige week ook.
+(뒤에서 우유 통이 덜컹거린다) 일주일이라. 지난주에도 그렇게 말했잖소.
+Bram: Deze keer is het waar. Zeg tegen Bart: niets tekenen.
+이번엔 진짜예요. 바르트한테 전하세요: 아무것도 서명하지 말라고요.
+Toon: Bart tekent niks. Riet heeft zijn pen verstopt. (hij lacht kort) In de koekjestrommel.
+바르트는 아무것도 서명 안 하오. 리트가 그 애 펜을 숨겼소. (짧게 웃으며) 과자 통에.
+Sophie: (dinsdag, in een drukke koffiebar op station Utrecht Centraal, met een zonnebril op en haar haar onder een pet; ze schuift een envelop over de tafel) Ik heb gezegd dat ik dit gesprek nooit heb gevoerd. Dit gesprek heb ik ook nooit gevoerd.
+(화요일, 위트레흐트 중앙역의 붐비는 커피숍; 선글라스를 쓰고 머리를 모자 속에 넣은 채 봉투를 탁자 너머로 민다) 그 대화는 나눈 적 없다고 했죠. 이 대화도 나눈 적 없는 거예요.
+Bram: Begrepen.
+알겠습니다.
+Sophie: De mail van november. Van Paul aan mij. Uitgeprint. En de mail daarvóór. Die Paul zelf kreeg. Die hij aan mij doorstuurde zonder te kijken wat eronder stond.
+11월 메일이요. 파울이 저한테 보낸 거. 출력했어요. 그리고 그 전 메일도요. 파울이 받은 거요. 아래에 뭐가 있는지 보지도 않고 저한테 전달했더라고요.
+Bram: (opent de envelop; hij leest) "Beste Paul. Zoals besproken op Eikenhorst: GroenGrond is uitstekend voor de modellering. Discreet en snel. Hartelijke groet, Hugo."
+(봉투를 열어 읽는다) "파울에게. 에이컨호르스트에서 얘기했던 대로: 그룬흐론트가 모델링에 아주 적격이야. 신중하고 빠르지. 진심을 담아, 휘호."
+Sophie: (kijkt naar de mensen die langs lopen) Gestuurd op tien november. Van een privéadres. Naar Pauls privéadres. Paul stuurde het om 23:40 door naar mijn werkadres. Met alleen die ene zin erboven. Hij was moe. Of hij had wijn op.
+(지나가는 사람들을 보며) 11월 10일에 보낸 거예요. 개인 주소에서. 파울의 개인 주소로요. 파울은 그걸 밤 11시 40분에 제 업무용 주소로 전달했어요. 위에 그 한 문장만 붙여서요. 피곤했거나. 와인을 마셨거나요.
+Bram: "Zoals besproken op Eikenhorst." (stilte) Hermans zei dat hij Hugo alleen van recepties kende.
+"에이컨호르스트에서 얘기했던 대로." (침묵) 헤르만스는 휘호를 리셉션에서나 안다고 했는데요.
+Sophie: Eikenhorst is een receptie. Elke maand. (ze staat op) Ik heb nog één ding. Paul heeft de lijst in januari mee naar huis genomen. Op een USB-stick. "Om in het weekend te lezen." Ik heb hem die stick zelf gegeven.
+에이컨호르스트가 리셉션이잖아요. 매달 하는. (일어서며) 하나 더 있어요. 파울은 1월에 명단을 집에 가져갔어요. USB 스틱에 담아서요. "주말에 읽으려고." 그 스틱은 제가 직접 줬어요.
+Bram: En het weekend daarna?
+그다음 주말은요?
+Sophie: Was er een receptie op Eikenhorst. Ik weet het, omdat zijn vrouw me vroeg of ik de zaal wilde helpen versieren. (stilte) Ik heb nee gezegd.
+에이컨호르스트에서 리셉션이 있었어요. 제가 아는 건 그분 부인이 홀 장식을 도와줄 수 있냐고 물어봤거든요. (침묵) 거절했어요.
+Bram: Waarom vertelt u dit nu?
+왜 지금 이걸 말씀해 주세요?
+Bram: Wist mevrouw Hermans wat er op die stick stond?
+헤르만스 부인은 그 스틱에 뭐가 있었는지 알았나요?
+Sophie: (aarzelt) Ik denk het niet. Ze is… ze houdt van oude gebouwen. Van bloemstukken. Ze vroeg me ooit wat "piekbelaster" betekende. (stilte) Laat haar erbuiten, meneer Hoekstra. Als u kunt.
+(망설이며) 아닐 거예요. 그분은… 오래된 건물을 좋아하세요. 꽃꽂이를요. 언젠가 저한테 "최대 배출원"이 무슨 뜻이냐고 물어보신 적도 있어요. (침묵) 그분은 빼 주세요, 후크스트라 씨. 가능하면요.
+Bram: Dat is ook wat mijn hoofdredacteur zei.
+제 편집국장도 그렇게 말했어요.
+Sophie: (zet haar zonnebril recht) Omdat ik las wat er met de dochter van een journalist gebeurde. En ik heb zelf een dochter. (ze loopt weg in de menigte)
+(선글라스를 고쳐 쓰며) 어느 기자 딸한테 무슨 일이 있었는지 읽었거든요. 그리고 저도 딸이 있어요. (인파 속으로 걸어간다)
+Bram: (aan de telefoon, op het perron) Hanneke. Ik heb het lek.
+(승강장에서 전화로) 하네커. 누설 찾았어요.
+Hanneke: Bewezen?
+증명됐어?
+Bram: Een mail van Hugo aan Hermans. "Zoals besproken op Eikenhorst." Een USB-stick met de lijst die Hermans in januari mee naar huis nam. Een receptie op Eikenhorst het weekend erna. En zes aankopen in de maanden daarna.
+휘호가 헤르만스한테 보낸 메일. "에이컨호르스트에서 얘기했던 대로." 헤르만스가 1월에 집에 가져간 명단 USB 스틱. 그다음 주말 에이컨호르스트 리셉션. 그리고 그 뒤 몇 달 동안 매입 여섯 건.
+Hanneke: (lange stilte) Dat is geen bewijs dat hij de stick aan Hugo gaf.
+(긴 침묵) 그게 헤르만스가 휘호한테 스틱을 줬다는 증거는 아니야.
+Bram: Nee. Het is een rij dominostenen. Elke steen staat op zijn plek.
+아니죠. 도미노 줄이에요. 돌 하나하나가 제자리에 서 있어요.
+Hanneke: Dan schrijf je de dominostenen op. Feitelijk. Eén voor één. En je laat de lezer ze zelf omduwen. (stilte) En je vraagt wederhoor. Bij Hugo. Persoonlijk.
+그럼 도미노를 적어. 사실 그대로. 하나씩. 그리고 독자가 직접 쓰러뜨리게 둬. (침묵) 그리고 반론을 받아. 휘호한테. 직접.
+Receptioniste: (woensdag, op de drieëndertigste verdieping van een glazen toren op de Zuidas; het uitzicht reikt tot Schiphol) Meneer Hoekstra. Mr. Van Oosterhout verwacht u. Wilt u uw telefoon hier achterlaten?
+(수요일, 자위다스 유리 타워 33층; 스히폴까지 보이는 전망) 후크스트라 씨. 판 오스터하우트 변호사님이 기다리고 계십니다. 휴대폰은 여기 두고 가시겠어요?
+Bram: Nee.
+아니요.
+Receptioniste: (glimlacht onverstoorbaar) Natuurlijk. Volgt u mij.
+(흔들림 없이 미소 지으며) 물론이죠. 따라오세요.
+Hugo: (in een hoekkantoor zonder papieren; op het bureau staat alleen een schaal met appels; hij staat op en geeft Bram een hand, warm en droog) Meneer Hoekstra. Eindelijk. Ik heb zoveel over u gehoord.
+(서류 한 장 없는 코너 사무실; 책상 위엔 사과 한 접시뿐; 일어서서 브람과 악수한다, 따뜻하고 건조한 손) 후크스트라 씨. 드디어. 말씀 많이 들었습니다.
+Bram: Van wie?
+누구한테서요?
+Hugo: (glimlacht) Van uw artikelen. Ik lees ze allemaal. (hij gaat zitten) Een appel? Uit de Betuwe. Van een boer die wij niet hebben opgekocht.
+(미소 지으며) 기사들에서요. 전부 읽습니다. (앉으며) 사과 드실래요? 베튀어산이에요. 저희가 사들이지 않은 농부의 사과죠.
+Bram: (gaat zitten; hij legt een map op tafel) Ik heb vragen. Over de lijst met piekbelasters. Over zes aankopen tussen maart en mei. Over eenentwintig komma acht miljoen naar Curaçao. Over een mail aan Paul Hermans.
+(앉아서 탁자 위에 서류철을 놓으며) 질문이 있습니다. 최대 배출원 명단에 관해. 3월에서 5월 사이 매입 여섯 건에 관해. 퀴라소로 간 2,180만 유로에 관해. 파울 헤르만스에게 보낸 메일에 관해.
+Hugo: (kijkt niet naar de map) Laat me raden. "Zoals besproken op Eikenhorst."
+(서류철은 보지도 않고) 맞혀 볼까요. "에이컨호르스트에서 얘기했던 대로."
+Bram: (een seconde stilte) U weet welke mail ik bedoel.
+(1초간 침묵) 어떤 메일인지 아시네요.
+Hugo: Ik weet welke mails ik stuur. (hij pakt een appel en draait hem rond in zijn hand) Ik adviseerde een gedeputeerde over een goed bureau. Dat doe ik vaker. Mensen vragen mij om advies. Dat is mijn werk.
+제가 보내는 메일은 제가 알죠. (사과 하나를 집어 손안에서 돌리며) 한 집행위원에게 좋은 업체를 추천했습니다. 자주 하는 일이에요. 사람들이 저한테 조언을 구하죠. 그게 제 일이고요.
+Bram: Een bureau dat tegelijk voor u werkte.
+동시에 당신을 위해 일하던 업체를요.
+Hugo: Een bureau dat goed is. Goede mensen werken voor veel klanten. (stilte) U werkt toch ook voor veel lezers?
+좋은 업체를요. 좋은 사람들은 많은 고객을 위해 일하죠. (침묵) 당신도 많은 독자를 위해 일하잖아요?
+Bram: De lijst. Paul Hermans nam hem in januari mee naar huis. Op een stick. Het weekend erna was er een receptie op Eikenhorst. U was er.
+명단이요. 파울 헤르만스는 1월에 그걸 집에 가져갔습니다. 스틱에 담아서요. 그다음 주말 에이컨호르스트에서 리셉션이 있었고요. 당신도 거기 있었죠.
+Hugo: Ik ben er elke maand. Het is mijn stichting. (hij legt de appel neer) Meneer Hoekstra. Wij handelen binnen de wet. Altijd. Wij kopen grond van mensen die willen verkopen. Tegen een prijs waar zij ja tegen zeggen. Niemand is gedwongen.
+전 매달 거기 있습니다. 제 재단이니까요. (사과를 내려놓으며) 후크스트라 씨. 저희는 법 안에서 움직입니다. 언제나요. 팔고 싶어 하는 사람들에게서 땅을 삽니다. 그들이 좋다고 하는 가격에요. 아무도 강요받지 않았어요.
+Bram: Hendriks verkocht in maart voor de normale prijs. In april hoorde hij dat zijn bedrijf op een geheime lijst stond. Hij zegt dat hij twee keer bestolen is.
+헨드릭스는 3월에 정상 가격에 팔았습니다. 4월에 자기 농장이 비밀 명단에 있었다는 걸 들었고요. 두 번 털렸다고 하더군요.
+Hugo: Hendriks is een man met problemen. Dat is triest. (stilte) Maar zijn schuur verhuurde hij zelf. Daar heb ik niets mee te maken.
+헨드릭스는 문제가 많은 사람이죠. 안타까운 일이에요. (침묵) 그런데 헛간은 본인이 직접 세를 놨죠. 그건 저와 아무 상관없습니다.
+Bram: Robbie Snijders werkt voor u.
+로비 스네이더르스가 당신 밑에서 일하죠.
+Hugo: Robbie's bedrijf verzorgt beveiliging op onze evenementen. Zoals een cateraar de hapjes verzorgt. Wat Robbie in zijn vrije tijd doet, is zijn zaak.
+로비의 회사가 저희 행사 경호를 맡고 있죠. 케이터링 업체가 핑거푸드를 맡듯이요. 로비가 여가 시간에 뭘 하는지는 그 사람 일이고요.
+Bram: Zijn vrije tijd. Op de A12. Met hooibalen en een jerrycan. Uw bedrijf betaalde vorig jaar vierhonderdduizend euro aan zijn bedrijf.
+그 사람 여가 시간이라. A12에서. 건초 더미와 기름통을 들고요. 당신 회사가 작년에 그의 회사에 40만 유로를 지급했어요.
+Hugo: (zijn glimlach blijft precies hetzelfde) Voor beveiliging. U kunt de facturen opvragen. Ze kloppen tot op de cent.
+(미소가 조금도 변하지 않는다) 경호비로요. 청구서를 요청하셔도 됩니다. 1센트까지 맞을 겁니다.
+Bram: Iedereen zegt tegenwoordig dat het klopt tot op de cent.
+요즘엔 다들 1센트까지 맞는다고 하네요.
+Hugo: Omdat het zo is. (hij staat op en loopt naar het raam) Weet u wat het verschil is tussen u en mij, meneer Hoekstra? U denkt in verhalen. Ik denk in rekensommen. Een verhaal heeft een schurk nodig. Een rekensom niet.
+그게 사실이니까요. (일어나서 창가로 걸어간다) 당신과 저의 차이가 뭔지 아세요, 후크스트라 씨? 당신은 이야기로 생각하죠. 전 계산으로 생각합니다. 이야기엔 악당이 필요해요. 계산엔 필요 없죠.
+Bram: Een rekensom heeft ook slachtoffers.
+계산에도 피해자는 있어요.
+Hugo: (draait zich om) Elke rekensom heeft een min. (stilte) Hoe gaat het eigenlijk met uw dochter?
+(돌아서며) 모든 계산엔 마이너스가 있죠. (침묵) 그건 그렇고, 따님은 잘 지내세요?
+Bram: (zijn handen worden heel stil op de map) Wat zei u?
+(서류철 위의 손이 아주 조용해진다) 뭐라고 하셨죠?
+Hugo: Uw dochter. Ik las dat ze bedreigd werd. In Friesland. Verschrikkelijk. (hij kijkt Bram aan, vriendelijk) Friesland is mooi in de zomer. Het IJsselmeer. Ik zeil zelf ook. Een prachtige, diepe zee.
+따님이요. 협박을 받았다고 읽었습니다. 프리슬란트에서요. 끔찍한 일이죠. (친절하게 브람을 바라보며) 프리슬란트는 여름에 아름답죠. 에이설호요. 저도 요트를 탑니다. 아름답고 깊은 바다죠.
+Bram: (staat langzaam op; zijn stem is heel rustig) U weet dat ik dit opschrijf.
+(천천히 일어선다; 목소리가 아주 침착하다) 제가 이걸 기사에 쓸 거라는 거 아시죠.
+Hugo: Wat? Dat ik medeleven heb met een vader? (glimlacht) Schrijf het op. "Van Oosterhout betuigde zijn medeleven." Dat staat heel netjes.
+뭘요? 제가 한 아버지에게 위로를 전했다는 걸요? (미소 지으며) 쓰세요. "판 오스터하우트는 위로의 뜻을 전했다." 아주 깔끔하게 보일 겁니다.
+Bram: (pakt zijn map) Mijn vragen staan op papier. U heeft tot vrijdag twaalf uur om te reageren. Schriftelijk.
+(서류철을 집으며) 제 질문은 서면에 있습니다. 금요일 12시까지 답변하실 수 있습니다. 서면으로요.
+Hugo: (loopt met hem mee naar de deur) U krijgt een reactie. Van mijn advocaten. (bij de deur, zachter) Meneer Hoekstra. Mijn vader zegt altijd dat elke journalist iets wil. Wat wilt u?
+(그와 함께 문까지 걸어가며) 답변 받으실 겁니다. 제 변호사들한테서요. (문 옆에서, 더 조용히) 후크스트라 씨. 우리 아버지는 늘 기자는 다들 뭔가를 원한다고 하시죠. 당신은 뭘 원하세요?
+Bram: (kijkt hem recht aan) Dat Toon van Gils zijn land houdt.
+(그를 똑바로 보며) 톤 판 힐스가 자기 땅을 지키는 거요.
+Hugo: (een korte stilte; voor het eerst lijkt hij oprecht verbaasd) Dat is alles?
+(짧은 침묵; 처음으로 진심으로 놀란 듯하다) 그게 다예요?
+Bram: Dat is alles.
+그게 다예요.
+Hugo: (sluit de deur weer, zachtjes) Dan heb ik een voorstel. (stilte) Toon van Gils houdt zijn land. De provincie trekt de onteigening in. Daar zorg ik voor. Eén telefoontje. (hij glimlacht) Hij mag zelfs uitbreiden. Met stikstofruimte van ons. Gratis.
+(문을 다시 살며시 닫으며) 그럼 제안이 하나 있습니다. (침묵) 톤 판 힐스는 땅을 지킵니다. 도청은 수용을 철회하고요. 그건 제가 책임지죠. 전화 한 통이면 됩니다. (미소 지으며) 확장해도 됩니다. 저희 질소 여유분으로요. 무료로.
+Bram: (heel stil) En in ruil?
+(아주 조용히) 그 대가는요?
+Hugo: In ruil wacht u. Een jaar. Tot de rekensom klaar is. Dan schrijft u wat u wilt. Dan maakt het niemand meer uit.
+그 대가로 당신은 기다리는 거죠. 1년만. 계산이 끝날 때까지. 그다음엔 원하는 대로 쓰세요. 그때쯤이면 아무도 신경 안 쓸 테니까요.
+Bram: En de andere elf boeren? Hendriks?
+나머지 농부 열한 명은요? 헨드릭스는요?
+Hugo: (haalt zijn schouders op) U vroeg naar Toon. Niet naar elf boeren. (stilte) U zei dat het alles was wat u wilde.
+(어깨를 으쓱하며) 당신은 톤을 말했죠. 농부 열한 명이 아니라. (침묵) 그게 원하는 전부라고 하셨잖아요.
+Bram: (opent zelf de deur) Ik vroeg het niet aan u, meneer Van Oosterhout. Ik vertelde het u.
+(직접 문을 열며) 당신한테 부탁한 게 아니었어요, 판 오스터하우트 씨. 말해 준 거였죠.
+Hugo: (lacht zacht) Dan bent u de eerste die nee zegt. (stilte) Doe de groeten aan Margreet.
+(조용히 웃으며) 그럼 거절한 건 당신이 처음이네요. (침묵) 마르흐릿한테 안부 전해 주세요.
+Bram: (blijft staan in de deuropening) U kent Margreet?
+(문간에 멈춰 선다) 마르흐릿을 아세요?
+Hugo: Iedereen kent Margreet. (glimlacht) Mijn vader kende haar al toen ik nog in een matrozenpakje liep. (de deur gaat dicht)
+모두가 마르흐릿을 알죠. (미소 지으며) 제가 세일러복 입고 다닐 때부터 우리 아버지는 그분을 알았어요. (문이 닫힌다)
+Bram: (in de lift, alleen; hij leunt met zijn voorhoofd tegen de spiegel) Een matrozenpakje.
+(엘리베이터 안, 혼자; 이마를 거울에 기댄다) 세일러복이라.
+Femke: (woensdagavond, in de oorlogskamer; Bram heeft alles verteld) Hij zei "matrozenpakje"?
+(수요일 저녁, 전쟁실; 브람이 다 이야기했다) 그가 "세일러복"이라고 했어?
+Bram: Hetzelfde woord als Margreet in juni. "Een jongetje van tien in een matrozenpakje." Op een borrel van de krant.
+6월에 마르흐릿이 쓴 단어랑 같아. "세일러복 입은 열 살 꼬마." 신문사 모임에서.
+Femke: Dan klopt het in ieder geval. Ze kenden elkaar. Twintig jaar geleden. Dat heeft ze zelf gezegd.
+그럼 적어도 그건 맞네. 서로 알았던 거. 20년도 더 전에. 본인이 그렇게 말했잖아.
+Bram: Ja. Ze heeft het zelf gezegd. (stilte) Hij noemde het IJsselmeer, Femke. "Een diepe zee." Het woord uit het bericht aan Lieke.
+그래. 본인이 말했어. (침묵) 그가 에이설호를 말했어, 펨커. "깊은 바다." 리커한테 온 메시지의 단어야.
+Femke: (heel stil) Dat is geen toeval.
+(아주 조용히) 그건 우연이 아니야.
+Bram: Dat is geen toeval. Maar het is ook geen bewijs. Het is een man die medeleven betuigt. "Dat staat heel netjes."
+우연이 아니지. 그런데 증거도 아니야. 위로를 전한 남자일 뿐이지. "아주 깔끔하게 보일 겁니다."
+Femke: En het voorstel? Toon zijn land, voor een jaar stilte?
+그럼 그 제안은? 1년 침묵을 대가로 톤의 땅?
+Bram: (wrijft over zijn gezicht) Een seconde lang wilde ik ja zeggen, Femke. Eén seconde. Ik zag Toon aan zijn keukentafel. En Riet met haar worstenbroodjes.
+(얼굴을 문지르며) 1초 동안은 좋다고 말하고 싶었어, 펨커. 딱 1초. 식탁에 앉은 톤이 보였거든. 소시지빵 든 리트도.
+Femke: En toen?
+그다음엔?
+Bram: Toen zag ik Hendriks. Met zijn kleren aan in bed. (stilte) Hugo koopt geen grond. Hugo koopt mensen. Eén voor één. Met precies wat ze willen.
+그다음엔 헨드릭스가 보였어. 옷 입은 채로 침대에 누운. (침묵) 휘호는 땅을 사는 게 아니야. 사람을 사지. 한 명씩. 그 사람이 원하는 바로 그걸로.
+Femke: (zacht) "Iedereen wil iets." Dat zei zijn vader.
+(조용히) "다들 뭔가를 원한다." 그의 아버지가 한 말이지.
+Hermans: (woensdagavond, aan de telefoon; zijn stem is anders dan in Den Bosch, kleiner) Meneer Hoekstra. Ik heb uw vragen ontvangen. Over de mail. Over de stick.
+(수요일 저녁, 전화로; 덴보스에서와는 다른, 작아진 목소리) 후크스트라 씨. 질문 받았습니다. 메일에 관해. 스틱에 관해.
+Bram: U heeft tot vrijdag twaalf uur.
+금요일 12시까지 시간 있으세요.
+Hermans: (lange stilte) Heeft u met mijn vrouw gesproken?
+(긴 침묵) 제 아내와 얘기하셨습니까?
+Bram: Nee. En ik ga het niet doen. Zij staat niet in het stuk. Tenzij u mij iets anders vertelt.
+아니요. 그리고 안 할 겁니다. 부인은 기사에 안 나와요. 당신이 다른 말을 해 주지 않는 한요.
+Hermans: (zijn stem trilt even) Dank u. (stilte) Ik… ik heb nooit gedacht dat het zo ver zou gaan. Het was een receptie. Een glas wijn. Hugo vroeg alleen of hij "even mocht kijken". Om "de markt te begrijpen".
+(목소리가 잠깐 떨린다) 감사합니다. (침묵) 저는… 이렇게까지 될 줄은 몰랐습니다. 리셉션이었어요. 와인 한 잔이었고요. 휘호는 그저 "잠깐 봐도 되냐"고 물었을 뿐입니다. "시장을 이해하려고"요.
+Bram: (heel rustig) Mag ik dat citeren?
+(아주 침착하게) 그거 인용해도 될까요?
+Hermans: (stilte; dan, bijna fluisterend) Ik bel u vrijdag. Eerst wil ik met mijn advocaat praten. (hij hangt op)
+(침묵; 그리고 거의 속삭이듯) 금요일에 전화드리겠습니다. 먼저 변호사와 얘기하고 싶어요. (전화를 끊는다)
+Margreet: (donderdagochtend, in haar kantoor; ze heeft de reactie van Hugo's advocaten op haar bureau, een brief van twaalf pagina's) Twaalf pagina's. Ze dreigen met een kort geding. Ze willen dat we niet publiceren tot "alle feiten zorgvuldig zijn geverifieerd".
+(목요일 아침, 자기 사무실; 책상 위에 휘호 측 변호사들의 답변서, 12쪽짜리 편지) 12쪽이야. 가처분 소송을 하겠대. "모든 사실이 신중하게 검증될 때까지" 보도하지 말래.
+Bram: Ze zijn geverifieerd. Tot op de cent.
+검증됐어요. 1센트까지요.
+Margreet: (leest verder) En ze schrijven dat je de heer Van Oosterhout gisteren "op agressieve wijze" hebt ondervraagd. Over zijn persoonlijke contacten.
+(계속 읽으며) 그리고 네가 어제 판 오스터하우트 씨를 개인적 인맥에 관해 "공격적인 방식으로" 추궁했다고 썼어.
+Bram: Hij vroeg naar mijn dochter.
+그 사람이 제 딸에 대해 물었어요.
+Margreet: (kijkt op) Wat?
+(고개를 들며) 뭐?
+Bram: Hij vroeg hoe het met Lieke ging. En hij zei dat het IJsselmeer een diepe zee is.
+리커가 어떻게 지내냐고 물었어요. 그리고 에이설호가 깊은 바다라고 하더군요.
+Margreet: (wordt wit; ze zet haar bril af) Mijn god. (lange stilte) Bram. Dat… dat is…
+(하얗게 질린다; 안경을 벗으며) 세상에. (긴 침묵) 브람. 그건… 그건…
+Bram: Dat is een man die medeleven betuigt. Zei hij.
+위로를 전한 남자죠. 본인 말로는요.
+Margreet: (staat op en loopt naar het raam; haar stem is zacht en vreemd) Ik had nooit gedacht dat hij… (ze stopt)
+(일어서서 창가로 걸어간다; 목소리가 작고 낯설다) 그 애가 그럴 줄은 정말… (말을 멈춘다)
+Bram: Dat hij wat, Margreet?
+그 애가 뭘요, 마르흐릿?
+Margreet: (draait zich om; haar gezicht is weer gewoon) Dat hij zo ver zou gaan. Een kind. (stilte) Publiceer het. Volgende week dinsdag. Hanneke zorgt voor het kort geding. (stilte) En zet erin wat hij over Lieke zei. Woord voor woord.
+(돌아선다; 얼굴이 다시 평소대로다) 그렇게까지 할 줄은. 아이한테. (침묵) 보도해. 다음 주 화요일에. 가처분은 하네커가 맡을 거야. (침묵) 그리고 그가 리커에 대해 한 말도 넣어. 토씨 하나 안 틀리게.
+Bram: (stilte) Volgende week dinsdag.
+(침묵) 다음 주 화요일이요.
+Femke: [Signal] Ze zei "hij". Niet "Van Oosterhout". "Ik had nooit gedacht dat hij…"
+[시그널] 그녀가 "그 애"라고 했어. "판 오스터하우트"가 아니라. "그 애가 그럴 줄은 정말…"
+Bram: [Signal] Ze kende hem als kind. Je noemt een kind dat je kende geen achternaam.
+[시그널] 어릴 때부터 알았잖아. 어릴 때 알던 애를 성으로 부르진 않지.
+Femke: [Signal] Misschien. (stilte) Wanneer publiceren we echt?
+[시그널] 그럴지도. (침묵) 진짜로는 언제 보도해?
+Bram: [Signal] Zondagavond om tien uur. Online. Noor zet het zondag om negen klaar. Niemand anders weet het. Ook Hanneke niet tot zondag om acht.
+[시그널] 일요일 밤 열 시. 온라인으로. 노르가 일요일 아홉 시에 준비해 놓을 거야. 다른 사람은 아무도 몰라. 하네커도 일요일 여덟 시까지는 몰라.
+Femke: [Signal] En Margreet denkt dinsdag.
+[시그널] 그리고 마르흐릿은 화요일인 줄 알고.
+Bram: [Signal] Nummer 40.
+[시그널] 40번.
+Lieke: [Bericht] Zonnig. Mama zegt dat je op tv was. Bij het journaal. Met de visser. Je had je haar niet gekamd.
+[메시지] 맑음. 엄마가 아빠 TV 나왔대. 뉴스에. 그 어부랑. 머리 안 빗었더라.
+Bram: [Bericht] Zonnig. Ik had geen tijd om mijn haar te kammen. Ik was een rekensom aan het maken.
+[메시지] 맑음. 머리 빗을 시간이 없었어. 계산하느라고.
+Lieke: [Bericht] Klopte hij?
+[메시지] 맞았어?
+Bram: [Bericht] Tot op de cent.
+[메시지] 1센트까지.
+Lieke: [Bericht] Nerd. 🙂
+[메시지] 범생이. 🙂
+
+## 주요 단어
+de rekensom | 더 레컨솜 | 계산, 셈
+het overschot | 헷 오페르스홋 | 잉여금, 초과분
+de lening | 더 레닝 | 대출
+het moederbedrijf | 헷 무더르버드레이프 | 모회사
+het aflossingsschema | 헷 아플로싱스스헤마 | 상환 일정
+het handelsregister | 헷 한덜스레히스터르 | 상업 등기부
+het trustkantoor | 헷 트러스트칸토르 | 신탁 회사
+de brievenbusfirma | 더 브리펀뷔스피르마 | 페이퍼 컴퍼니(우편함 회사)
+het dividend | 헷 디피덴트 | 배당금
+de stichting particulier fonds | 더 스티흐팅 파르티퀼리르 폰츠 | (퀴라소) 개인 재단 펀드
+de begunstigde | 더 버휜스티흐더 | 수익자
+de oprichtingsakte | 더 옵리흐팅스악터 | 설립 증서
+belastingvrij | 벌라스팅프레이 | 비과세의
+de belastingontwijking | 더 벌라스팅온트베이킹 | 조세 회피
+het witwassen | 헷 비트바선 | 자금 세탁
+het ambtsmisdrijf | 헷 암츠미스드레이프 | 공무상 범죄
+de dominosteen | 더 도미노스테인 | 도미노 패
+het medeleven betuigen | 헷 메이더레이펀 버타위헌 | 위로의 뜻을 전하다
+het kort geding | 헷 코르트 허딩 | 가처분 소송
+
+## 문법·표현 정리
+**Volg het geld(돈을 따라가라):** 명령형. 탐사 보도의 기본 원칙(Follow the money). volgen = 따라가다.
+**Het klopt tot op de cent(1센트까지 맞다):** kloppen = (숫자·사실이) 맞다. tot op + 단위 = ~단위까지 정확하게. tot op de minuut(분 단위까지).
+**Een brievenbusfirma(페이퍼 컴퍼니):** brievenbus(우편함) + firma(회사). 실체 없이 주소만 있는 회사. 영어 letterbox company.
+**Wij handelen binnen de wet(저희는 법 안에서 움직입니다):** handelen = 행동하다/거래하다. binnen = ~안에서. 기업·투자자의 방어 문장.
+**Niet tussendoor(중간에 말고):** tussendoor = 중간에, 틈틈이. Ik eet niet tussendoor.(간식 안 먹어)
+**Een lening die nooit wordt terugbetaald, is geen lening:** 관계절이 주어 안에 들어간 구조. 쉼표 뒤 동사 is로 주절 재개.
+**Daar zijn wij in Nederland heel goed in(우리 네덜란드는 그걸 아주 잘한다):** goed zijn in iets = ~을 잘하다. daar … in 분리.
+**Ik heb het lek(누설 찾았어요):** het lek = 새는 곳, 누설. lekken(새다)의 명사형. 8화 Wie heeft die lijst gelekt?와 연결.
+**je laat de lezer ze zelf omduwen — laten + 부정사:** "독자가 스스로 쓰러뜨리게 둬라." omduwen = 밀어 넘어뜨리다. 저널리즘의 원칙 «Show, don't tell».
+**Elke rekensom heeft een min(모든 계산엔 마이너스가 있다):** 휘호의 냉소. min = 빼기, 마이너스. 피해자를 숫자로 환원하는 말.
+**Hoe gaat het eigenlijk met…? — eigenlijk(그건 그렇고):** 화제를 돌릴 때. 여기서는 위협을 일상 대화처럼 포장합니다.
+**Dat staat heel netjes(아주 깔끔하게 보이죠):** staan = (글·옷이) ~하게 보이다. Dat staat je goed.(너한테 잘 어울려)
+**op agressieve wijze(공격적인 방식으로):** op … wijze = ~한 방식으로. 공식 문체. op deze wijze(이런 방식으로).
+**Je noemt een kind dat je kende geen achternaam:** iemand iets noemen = ~를 ~라고 부르다. 이중 목적어 구조.
+
+## 취재 노트
+네덜란드는 오랫동안 기업들이 지주 회사와 우편함 회사(brievenbusfirma's)를 통해 이익을 이전하는 «조세 회피의 경유지»로 비판받아 왔고, 룩셈부르크 역시 다국적 기업의 세금 구조로 자주 거론되었다(룩스리크스, 2014). 퀴라소의 개인 재단 펀드(SPF)는 수익자 비공개가 가능한 구조로 알려져 있다. 네덜란드는 이후 조세 회피 방지 규정을 강화해 왔다.
+보도 전 상대방에게 반론 기회를 주는 «wederhoor»는 네덜란드 언론 윤리의 핵심이며, 보도를 막으려는 가처분 소송(kort geding)도 자주 제기된다. 폴더르 캐피털의 구조, 금액, 메일, 휘호와의 대화는 모두 가상이다.
