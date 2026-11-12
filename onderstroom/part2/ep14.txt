@@ -1,0 +1,346 @@
+# 2부 14화. Kort geding (가처분 심리)
+수준: 중상급 (B2, 일부 C1) | 장소: 위트레흐트 법원(중부 네덜란드 지방법원) 앞 → 법정 → 복도 | 시간: 2027년 5월, 수요일 오전 → 오후
+핵심 표현: De publicatie is onrechtmatig · Het publiek belang weegt zwaarder · Wij gaan in verweer · Ik geef het woord aan… · De uitspraak volgt op…
+
+## 대화
+Lucas: (voor de rechtbank in Utrecht, om half negen, met zijn camera) Er staan al drie cameraploegen. NOS, RTV Utrecht en iemand van een techblog.
+(아침 8시 반, 위트레흐트 법원 앞에서, 카메라를 들고) 벌써 촬영팀이 셋이나 와 있어요. NOS, RTV 위트레흐트, 그리고 테크 블로그 사람 하나요.
+Bram: Kartosen heeft gisteren schriftelijke vragen gesteld. Met de datum van deze zitting erbij. Nu weet iedereen het.
+카르토선이 어제 서면 질의를 냈어. 이 심리 날짜까지 넣어서. 이제 다들 알지.
+Noor: (in een donkerblauw pak, haar handen om een bekertje koffie) Ik heb nog nooit in een rechtszaal gezeten. Niet als verdachte, niet als getuige.
+(짙은 남색 정장 차림, 두 손으로 커피 컵을 감싸며) 법정엔 한 번도 앉아 본 적 없어요. 피고인으로도, 증인으로도요.
+Hanneke: Je bent geen verdachte. Wij zijn de gedaagde partij. Dat is iets anders. (strikt haar sjaal) Veritas vraagt de rechter om publicatie te verbieden. Wij zeggen: nee.
+당신은 피고인이 아니에요. 우리가 피신청인이죠. 그건 달라요. (스카프를 매며) 베리타스는 판사한테 보도를 금지해 달라고 요청하는 거고. 우리는 안 된다고 하는 거예요.
+Noor: Moet ik iets zeggen?
+제가 뭔가 말해야 해요?
+Hanneke: Alleen als de rechter je iets vraagt. Kort. Rustig. En je kijkt naar de rechter, niet naar Floris.
+판사가 물어볼 때만요. 짧게. 침착하게. 그리고 판사를 봐요, 플로리스 말고.
+Noor: (haar telefoon trilt; de prepaid) Sven.
+(휴대전화가 진동한다; 선불폰) 스벤이에요.
+Sven: [SMS] Ik ben er niet. Floris zou me zien. Maar ik denk aan jullie. Mila ook. (Ze slaapt.)
+[문자] 난 못 가요. 플로리스가 날 볼 테니까요. 그래도 당신들 생각하고 있어요. 밀라도요. (자고 있지만요.)
+Noor: (typt) "Dank je. Je vingerafdruk zit in bijlage negen."
+(입력하며) "고마워요. 당신 지문이 첨부 9에 들어 있어요."
+Sven: [SMS] Niet mijn vingerafdruk. Die van het systeem. (stilte) Dat is het mooie van een hash. Hij liegt nooit, en hij heeft geen naam.
+[문자] 내 지문이 아니라. 시스템 지문이죠. (침묵) 그게 해시의 좋은 점이에요. 절대 거짓말을 안 하고, 이름도 없죠.
+Khadija: (komt de trap op met Fatima, allebei in hun beste jas) Noor!
+(가장 좋은 외투를 입은 파티마와 함께 계단을 올라오며) 노르!
+Noor: (verrast) Mama? Tante? Wat doen jullie hier?
+(놀라며) 엄마? 이모? 여기서 뭐 해요?
+Fatima: Je moeder zei: "Een rechtszaal is openbaar." Dus wij zijn het publiek. (glimlacht) En ik heb een printer gekocht. Voor als ik weer een brief moet sturen.
+네 엄마가 "법정은 공개된 곳"이라고 하더라. 그래서 우리가 방청객이야. (미소 지으며) 그리고 나 프린터 샀어. 또 편지 보내야 할 때를 대비해서.
+Khadija: (pakt Noors handen) We zitten achterin. We zeggen niets. Maar je moet weten dat we er zijn.
+(노르의 손을 잡으며) 우린 뒤에 앉을게. 아무 말도 안 해. 그래도 우리가 여기 있다는 건 알아야지.
+Margreet: (komt aanlopen met een map onder haar arm) Goedemorgen, allemaal. Ik heb gisteren tot middernacht gelezen. Hanneke, je pleitnota is uitstekend.
+(서류철을 끼고 다가오며) 좋은 아침이에요, 다들. 어제 자정까지 읽었어요. 하네커, 변론서 아주 훌륭해요.
+Hanneke: Dank je. (kijkt naar de ingang) Daar zijn ze.
+고마워요. (입구를 보며) 저기 왔네요.
+Femke: (zacht) Floris. En een advocaat. Duur pak. Duur horloge.
+(조용히) 플로리스. 그리고 변호사 하나. 비싼 정장. 비싼 시계.
+Margreet: (kijkt naar de advocaat; een korte stilte) Mr. Van Wijk. Van een kantoor op de Zuidas. Hij is goed. Heel goed.
+(변호사를 본다; 짧은 침묵) 판 베이크 변호사. 자위다스에 있는 사무소 사람이에요. 잘해요. 아주 잘해요.
+Bram: Ken je hem?
+그 사람 알아요?
+Margreet: Iedereen in de media kent hem. Hij heeft drie kranten op de knieën gekregen. (pakt Noors arm) Kom. Naar binnen. Wij gaan in verweer.
+언론계에선 다 알아요. 신문사 세 곳을 무릎 꿇렸죠. (노르의 팔을 잡으며) 가요. 들어가요. 우리는 맞설 거예요.
+Bode: (in de rechtszaal) Opstaan, alstublieft.
+(법정에서) 모두 일어서 주십시오.
+Rechter: (een vrouw van in de vijftig met een leesbril, gaat zitten) Gaat u zitten. Ik open de zitting in de zaak van Veritas Data B.V. tegen de Stichting De Lantaarn. Ik ben mr. De Haan, voorzieningenrechter.
+(돋보기를 쓴 50대 여성 판사, 자리에 앉으며) 앉으십시오. 베리타스 데이터 유한회사 대 데 란타른 재단 사건의 심리를 개정합니다. 저는 가처분 담당 판사 더 한입니다.
+Rechter: Ik heb de stukken gelezen. Allemaal. Ook de bijlagen. (kijkt over haar bril) Het zijn er veel.
+서류는 다 읽었습니다. 전부요. 첨부 서류까지요. (안경 너머로 보며) 많더군요.
+Rechter: Veritas vordert drie dingen. Eén: een verbod op publicatie. Twee: de afgifte van alle documenten die De Lantaarn heeft over Veritas. Drie: een dwangsom van vijftigduizend euro per dag als De Lantaarn zich daar niet aan houdt.
+베리타스는 세 가지를 청구합니다. 첫째: 보도 금지. 둘째: 데 란타른이 보유한 베리타스 관련 모든 서류의 인도. 셋째: 데 란타른이 이를 지키지 않을 경우 하루 5만 유로의 이행강제금.
+Lucas: (fluistert tegen Jip, op de publieke banken) Vijftigduizend per dag? Dan zijn we na een week failliet.
+(방청석에서 입에게 속삭이며) 하루 5만이요? 그럼 일주일이면 파산이에요.
+Jip: (fluistert terug) Na vier dagen. Ik heb het uitgerekend.
+(속삭이며 대답한다) 나흘이면. 계산해 봤어.
+Rechter: Ik geef het woord aan mr. Van Wijk, namens Veritas.
+베리타스를 대리하는 판 베이크 변호사께 발언권을 드립니다.
+Van Wijk: (staat op, knoopt zijn jasje dicht) Dank u, edelachtbare. Laat ik beginnen met wat deze zaak niet is. Deze zaak gaat niet over persvrijheid. Veritas heeft groot respect voor de pers.
+(일어서서 재킷 단추를 채우며) 감사합니다, 재판장님. 이 사건이 무엇이 아닌지부터 말씀드리겠습니다. 이 사건은 언론의 자유에 관한 것이 아닙니다. 베리타스는 언론을 깊이 존중합니다.
+Rechter: (droog) Dat lees ik in uw dagvaarding. Op pagina drie. En op pagina zeven vraagt u een dwangsom van vijftigduizend euro per dag aan een krant.
+(건조하게) 소장에서 읽었습니다. 3쪽에요. 그리고 7쪽에선 신문사에 하루 5만 유로의 이행강제금을 청구하시더군요.
+Van Wijk: (glimlacht beleefd) Respect en duidelijkheid gaan samen, edelachtbare.
+(예의 바르게 미소 지으며) 존중과 명확함은 함께 가는 겁니다, 재판장님.
+Van Wijk: Deze zaak gaat over misleiding. Een journaliste van De Lantaarn heeft zich onder een valse naam laten aannemen bij mijn cliënte. Ze heeft een geheimhoudingsverklaring getekend. En ze heeft die geschonden.
+이 사건은 기만에 관한 것입니다. 데 란타른의 한 여기자가 가명으로 제 의뢰인 회사에 채용되었습니다. 비밀 유지 서약서에 서명했습니다. 그리고 그것을 위반했습니다.
+Rechter: Hoe heeft ze die geschonden, mr. Van Wijk? Er is nog niets gepubliceerd.
+어떻게 위반했다는 겁니까, 판 베이크 변호사? 아직 아무것도 보도되지 않았는데요.
+Van Wijk: Door informatie te delen met haar redactie, edelachtbare. Elke avond.
+편집국과 정보를 공유함으로써요, 재판장님. 매일 밤요.
+Rechter: Hoe weet u dat ze elke avond informatie deelde?
+그녀가 매일 밤 정보를 공유했다는 건 어떻게 압니까?
+Van Wijk: (een korte stilte) Dat volgt logisch uit haar opdracht.
+(짧은 침묵) 그녀의 임무상 논리적으로 그렇습니다.
+Rechter: (schrijft iets op) "Logisch." Goed. Gaat u verder.
+(뭔가를 적으며) "논리적으로"라. 좋습니다. 계속하십시오.
+Femke: (heel zacht, naast Bram) "Elke avond." Precies zo. Elke avond een bericht. Dat was onze afspraak.
+(브람 옆에서 아주 조용히) "매일 밤." 딱 그대로네. 매일 밤 메시지 한 통. 그게 우리 약속이었잖아.
+Hanneke: (staat half op) Edelachtbare, mijn cliënte heeft haar eigen naam gebruikt. Zoals op haar geboorteakte.
+(반쯤 일어서며) 재판장님, 제 의뢰인은 자기 이름을 썼습니다. 출생증명서에 적힌 대로요.
+Rechter: U krijgt straks het woord, mr. Van der Laan. Mr. Van Wijk, gaat u verder.
+곧 발언 기회를 드리겠습니다, 판 데르 란 변호사. 판 베이크 변호사, 계속하십시오.
+Van Wijk: (glimlacht) Dank u. "Nour Amrani" in plaats van "Noor el Amrani". Technisch haar eigen naam. Maar met maar één doel: verbergen wie ze was.
+(미소 지으며) 감사합니다. "노르 엘 암라니" 대신 "누르 암라니". 기술적으로는 자기 이름이죠. 하지만 목적은 하나뿐이었습니다: 자신이 누구인지 숨기는 것.
+Van Wijk: Tweede punt. De Lantaarn beschikt over documenten die bedrijfsgeheimen bevatten. Interne handleidingen, broncode, logbestanden. Die zijn beschermd door de Wet bescherming bedrijfsgeheimen. Ze zijn gestolen. Waarschijnlijk door een ontevreden medewerker.
+두 번째 요점입니다. 데 란타른은 영업 비밀이 담긴 서류를 보유하고 있습니다. 내부 매뉴얼, 소스 코드, 로그 파일. 이것들은 영업비밀보호법의 보호를 받습니다. 도난당한 것입니다. 아마도 불만을 품은 직원에 의해서요.
+Noor: (fluistert tegen Bram) Ze weten niet dat het Sven is.
+(브람에게 속삭이며) 스벤이라는 건 모르네요.
+Bram: (fluistert terug) Of ze doen alsof.
+(속삭이며 대답한다) 아니면 모르는 척하거나.
+Rechter: Welke medewerker, mr. Van Wijk?
+어떤 직원입니까, 판 베이크 변호사?
+Van Wijk: Dat onderzoeken we nog, edelachtbare. Mijn cliënte heeft een extern bureau ingeschakeld.
+그건 아직 조사 중입니다, 재판장님. 제 의뢰인이 외부 업체를 고용했습니다.
+Rechter: Hetzelfde bureau dat donderdagavond om 23.47 uur in de serverruimte was?
+목요일 밤 23시 47분에 서버실에 있었던 바로 그 업체입니까?
+Van Wijk: (een korte pauze) Dat weet ik niet, edelachtbare.
+(잠깐 멈췄다가) 그건 모르겠습니다, 재판장님.
+Rechter: (schrijft) Dat weet u niet. Derde punt?
+(적으며) 모르신다고요. 세 번째 요점은요?
+Van Wijk: Derde punt. En dit vind ik het belangrijkste, edelachtbare. Deze publicatie is niet neutraal. Mevrouw El Amrani heeft een persoonlijk motief.
+세 번째 요점입니다. 그리고 이게 가장 중요하다고 생각합니다, 재판장님. 이 보도는 중립적이지 않습니다. 엘 암라니 씨에게는 개인적인 동기가 있습니다.
+Noor: (verstijft)
+(굳는다)
+Van Wijk: Haar moeder, mevrouw Khadija el Amrani, is een gedupeerde van de toeslagenaffaire. Haar tante kreeg dit jaar een brief van de gemeente Amsterdam. Mevrouw El Amrani wil wraak. Op de overheid, op algoritmes, en op mijn cliënte. Dat is geen journalistiek. Dat is een vendetta.
+그녀의 어머니 카디자 엘 암라니 씨는 보육 수당 스캔들 피해자입니다. 그녀의 이모는 올해 암스테르담시로부터 편지를 받았습니다. 엘 암라니 씨는 복수를 원합니다. 정부에, 알고리즘에, 그리고 제 의뢰인에게요. 이건 저널리즘이 아닙니다. 사적 복수입니다.
+Femke: (heel zacht, op de publieke banken) Hoe weet hij van haar tante?
+(방청석에서 아주 조용히) 이모 얘기는 어떻게 알았지?
+Fatima: (achterin, tegen Khadija, fluisterend) Hij zei mijn naam niet. Maar hij bedoelde mij.
+(뒤쪽에서 카디자에게 속삭이며) 내 이름은 말 안 했어. 근데 나를 말한 거야.
+Khadija: (pakt haar hand) Hij bedoelde ons allemaal.
+(그녀의 손을 잡으며) 우리 모두를 말한 거지.
+Noor: (haar handen liggen plat op tafel; ze ademt langzaam in en uit)
+(두 손을 테이블 위에 평평하게 올려놓은 채, 천천히 숨을 들이쉬고 내쉰다)
+Hanneke: (schrijft iets op een briefje en schuift het naar Noor: "Laat hem praten. Hij helpt ons.")
+(쪽지에 뭔가를 적어 노르 쪽으로 밀어 준다: "말하게 둬요. 우리를 돕고 있는 거예요.")
+Van Wijk: Daarom vorderen wij een verbod. Niet om de waarheid te verbergen. Maar om een onschuldig bedrijf te beschermen tegen een persoonlijke kruistocht. De publicatie is onrechtmatig. (gaat zitten)
+그래서 우리는 금지를 청구합니다. 진실을 숨기려는 게 아닙니다. 개인적인 성전으로부터 무고한 기업을 보호하기 위해서입니다. 이 보도는 불법입니다. (앉는다)
+Rechter: Dank u. Mr. Van der Laan.
+감사합니다. 판 데르 란 변호사.
+Hanneke: (staat op; ze heeft geen papier in haar hand) Edelachtbare. Mijn collega zegt dat deze zaak niet over persvrijheid gaat. Dan wil ik graag uitleggen waarom deze zaak precies daarover gaat.
+(일어선다; 손에 종이가 없다) 재판장님. 상대측 변호사님은 이 사건이 언론의 자유에 관한 것이 아니라고 하십니다. 그렇다면 왜 이 사건이 바로 그것에 관한 것인지 설명드리고 싶습니다.
+Hanneke: Artikel tien van het Europees Verdrag voor de Rechten van de Mens beschermt de vrijheid van meningsuiting. En het Europees Hof heeft keer op keer gezegd: een verbod vooraf, vóór publicatie, is de zwaarste beperking die er bestaat. Dat mag alleen in de meest uitzonderlijke gevallen.
+유럽인권협약 제10조는 표현의 자유를 보호합니다. 그리고 유럽인권재판소는 거듭 판시했습니다: 사전 금지, 즉 보도 전의 금지는 존재하는 가장 무거운 제한이라고요. 그것은 가장 예외적인 경우에만 허용됩니다.
+Hanneke: Dit is geen uitzonderlijk geval. Dit is een gewoon geval van een bedrijf dat niet wil dat het publiek weet wat het doet. Met publiek geld. Met de gegevens van burgers.
+이건 예외적인 경우가 아닙니다. 자기가 하는 일을 대중이 아는 걸 원치 않는 기업의 평범한 사례일 뿐입니다. 공적 자금으로요. 시민들의 정보로요.
+Van Wijk: (staat op) Edelachtbare, mijn cliënte is een privaat bedrijf…
+(일어서며) 재판장님, 제 의뢰인은 민간 기업으로…
+Rechter: Dat betaald wordt door zevenendertig gemeenten, mr. Van Wijk. Met belastinggeld. Gaat u zitten.
+지자체 37곳에서 돈을 받는 기업이죠, 판 베이크 변호사. 세금으로요. 앉으십시오.
+Van Wijk: (gaat zitten) Edelachtbare.
+(앉으며) 재판장님.
+Lucas: (fluistert tegen Jip) Ze is goed, die rechter.
+(입에게 속삭이며) 저 판사 대단하네요.
+Jip: (fluistert terug) Ze heeft de bijlagen gelezen. Allemaal. Dat doet bijna niemand.
+(속삭이며 대답한다) 첨부 서류를 다 읽었잖아. 그런 사람은 거의 없어.
+Hanneke: Dan de undercover. De Raad voor de Journalistiek staat misleiding toe onder drie voorwaarden. Een ernstige misstand. Geen andere manier. En niet meer dan nodig. (telt op haar vingers) Een model dat nationaliteit gebruikt bij zevenendertig gemeenten: ernstig. Een Woo-verzoek dat volledig werd zwartgelakt: geen andere manier. En mijn cliënte heeft niets meegenomen. Geen usb-stick, geen bestand, geen foto. Alleen haar geheugen.
+그다음은 위장 취재입니다. 언론평의회는 세 가지 조건에서 기만을 허용합니다. 심각한 비리. 다른 방법이 없을 것. 필요 이상을 하지 않을 것. (손가락으로 세며) 37개 지자체에서 국적을 쓰는 모델: 심각합니다. 완전히 검게 지워진 정보공개 청구: 다른 방법이 없었습니다. 그리고 제 의뢰인은 아무것도 가져 나오지 않았습니다. USB도, 파일도, 사진도요. 오직 기억만요.
+Van Wijk: (zonder op te staan) En het camerabeeld bij het bureau van mijn cliënt?
+(일어서지도 않고) 그럼 제 의뢰인 책상 옆의 카메라 영상은요?
+Rechter: Mr. Van Wijk. U heeft uw beurt gehad.
+판 베이크 변호사. 발언 차례는 끝났습니다.
+Hanneke: Dan de documenten. Ze zijn niet gestolen. Ze zijn ons gegeven door een klokkenluider. Iemand die eerst intern heeft gemeld, twee keer, en daarna bij de Autoriteit Persoonsgegevens en het Huis voor Klokkenluiders. Daarvan zit de ontvangstbevestiging bij de stukken. Bijlage veertien.
+다음은 서류입니다. 도난당한 게 아닙니다. 한 내부고발자가 우리에게 준 것입니다. 먼저 내부에 두 번 신고하고, 그다음에 개인정보보호청과 내부고발자의 집에 신고한 사람입니다. 그 접수 확인서가 첨부 서류에 있습니다. 첨부 14입니다.
+Rechter: (bladert) Ik zie hem.
+(서류를 넘기며) 확인했습니다.
+Rechter: Wie is deze klokkenluider?
+이 내부고발자는 누구입니까?
+Hanneke: Edelachtbare, de wet beschermt zijn identiteit. Als u erop staat, kan ik zijn naam vertrouwelijk aan u laten zien. Niet aan de wederpartij.
+재판장님, 법이 그 사람의 신원을 보호합니다. 꼭 필요하시다면 상대측이 아닌 재판장님께만 비공개로 이름을 보여 드릴 수 있습니다.
+Rechter: (denkt na) Dat is niet nodig. De ontvangstbevestiging van het Huis voor Klokkenluiders is voor mij voldoende.
+(생각하며) 그럴 필요는 없습니다. 내부고발자의 집 접수 확인서로 충분합니다.
+Floris: (fluistert iets tegen Van Wijk; Van Wijk schudt zijn hoofd)
+(판 베이크에게 뭔가를 속삭인다; 판 베이크가 고개를 젓는다)
+Hanneke: En dan het "persoonlijke motief". (stilte) Ja. De moeder van mijn cliënte is een gedupeerde. Dat is waar. Net als tienduizenden andere moeders. Mr. Van Wijk zegt dat dat haar ongeschikt maakt om erover te schrijven. Ik zeg: het maakt haar juist geschikt om te zien wat anderen niet zien.
+그리고 "개인적 동기"입니다. (침묵) 네. 제 의뢰인의 어머니는 피해자입니다. 사실입니다. 다른 수만 명의 어머니들처럼요. 판 베이크 변호사님은 그것이 그녀를 이 주제를 쓰기에 부적합하게 만든다고 하십니다. 저는 말씀드립니다: 그것이야말로 그녀가 남들이 못 보는 것을 보게 만든다고요.
+Hanneke: En zelfs als ze een motief had: een motief maakt feiten niet minder waar. De vraag is niet waarom ze schrijft. De vraag is of wat ze schrijft klopt.
+그리고 설령 동기가 있다 해도: 동기가 사실을 덜 사실로 만들지는 않습니다. 문제는 그녀가 왜 쓰느냐가 아닙니다. 그녀가 쓰는 것이 맞느냐입니다.
+Hanneke: (pakt eindelijk één papier) En het klopt. Bijlage negen. Een verklaring van de externe auditor van Veritas. De digitale vingerafdruk van het logbestand van maart is op donderdag om 23.47 uur veranderd. Iemand heeft de logs aangepast. Nadat De Lantaarn vragen begon te stellen.
+(마침내 종이 한 장을 집어 든다) 그리고 맞습니다. 첨부 9. 베리타스 외부 감사인의 확인서입니다. 3월 로그 파일의 디지털 지문이 목요일 23시 47분에 바뀌었습니다. 누군가 로그를 고쳤습니다. 데 란타른이 질문을 하기 시작한 뒤에요.
+Hanneke: Het publiek belang weegt zwaarder, edelachtbare. Veel zwaarder. Wij vragen u de vorderingen af te wijzen. (gaat zitten)
+공익이 더 무겁습니다, 재판장님. 훨씬 더요. 청구를 기각해 주실 것을 요청합니다. (앉는다)
+Rechter: (zet haar bril af) Dank u. Ik heb een paar vragen. Eerst aan mr. Van Wijk.
+(안경을 벗으며) 감사합니다. 몇 가지 질문이 있습니다. 먼저 판 베이크 변호사에게.
+Van Wijk: Edelachtbare.
+재판장님.
+Rechter: Klopt het dat de logbestanden op donderdag om 23.47 uur zijn gewijzigd?
+로그 파일이 목요일 23시 47분에 수정된 것이 사실입니까?
+Van Wijk: (kijkt kort naar Floris) Er heeft die avond regulier onderhoud plaatsgevonden, edelachtbare.
+(잠깐 플로리스를 쳐다보며) 그날 밤 정기 유지 보수가 있었습니다, 재판장님.
+Rechter: Regulier onderhoud. Op donderdagavond om 23.47 uur. Met twee externe medewerkers en de directeur zelf.
+정기 유지 보수라. 목요일 밤 23시 47분에. 외부 직원 두 명과 대표 본인까지 와서요.
+Van Wijk: (een korte stilte) Mijn cliënt is een betrokken directeur.
+(짧은 침묵) 제 의뢰인은 헌신적인 대표입니다.
+Rechter: (droog) Dat blijkt. (schrijft iets op) En klopt het dat versie 4.2 van RisicoRadar een veld voor nationaliteit gebruikt?
+(건조하게) 그런 것 같군요. (뭔가를 적으며) 그리고 리시코라다르 버전 4.2가 국적 필드를 쓴다는 것이 사실입니까?
+Van Wijk: Versie 4.2 bevat een historisch veld. Dat veld wordt niet actief gebruikt bij de selectie.
+버전 4.2에는 과거의 필드가 있습니다. 그 필드는 선정에 활발히 쓰이지 않습니다.
+Rechter: "Niet actief." (kijkt naar Hanneke) Mr. Van der Laan, wat zegt u daarop?
+"활발히 쓰이지 않는다." (하네커를 보며) 판 데르 란 변호사, 그것에 대해 어떻게 생각합니까?
+Hanneke: Bijlage negen, edelachtbare. Vóór de wijziging stond dat veld op de derde plaats van de belangrijkste factoren. Nul komma achttien. Dat is niet "niet actief". Dat is heel actief.
+첨부 9입니다, 재판장님. 수정 전에는 그 필드가 가장 중요한 요인 중 3위에 있었습니다. 0.18이요. 그건 "활발히 쓰이지 않는" 게 아닙니다. 아주 활발히 쓰이는 겁니다.
+Rechter: (knikt langzaam) Dan een vraag aan u, mr. Van der Laan. Waarom moet het nu? Waarom kan De Lantaarn niet wachten tot de Autoriteit Persoonsgegevens haar onderzoek heeft afgerond?
+(천천히 고개를 끄덕이며) 그럼 판 데르 란 변호사에게 질문입니다. 왜 지금이어야 합니까? 왜 데 란타른은 개인정보보호청이 조사를 마칠 때까지 기다릴 수 없습니까?
+Hanneke: Omdat over tien dagen versie 5.0 wordt gelanceerd. Met een persconferentie. Als dat model landelijk wordt uitgerold zonder dat het publiek weet dat het het geboorteland van de ouders gebruikt, krijgen duizenden mensen een brief. Elke dag. Een onderzoek van de toezichthouder duurt maanden. Mensen hebben geen maanden.
+열흘 뒤에 버전 5.0이 출시되기 때문입니다. 기자회견과 함께요. 그 모델이 부모의 출생국을 쓴다는 걸 대중이 모른 채 전국으로 확대되면, 수천 명이 편지를 받게 됩니다. 매일요. 감독 기관의 조사는 몇 달이 걸립니다. 사람들에겐 몇 달이 없습니다.
+Rechter: (kijkt naar Noor) Mevrouw El Amrani. Mag ik u één vraag stellen?
+(노르를 보며) 엘 암라니 씨. 질문 하나 해도 될까요?
+Noor: (staat op; haar handen liggen plat op de tafel) Ja, edelachtbare.
+(일어선다; 두 손을 테이블 위에 평평하게 올려놓고) 네, 재판장님.
+Rechter: Heeft u bij Veritas iets meegenomen? Een document, een bestand, een foto?
+베리타스에서 뭔가 가져 나온 게 있습니까? 서류, 파일, 사진 같은 것이요?
+Noor: (een fractie van een seconde stilte) Eén foto, edelachtbare. Van een uitnodiging op het bureau van de directeur. Voor een borrel. Ik heb verder niets meegenomen. De rest heb ik onthouden en thuis opgeschreven.
+(아주 잠깐 침묵) 사진 한 장이요, 재판장님. 대표 책상 위에 있던 초대장이요. 모임 초대장이었어요. 그 외엔 아무것도 가져 나오지 않았습니다. 나머지는 기억했다가 집에서 적었습니다.
+Hanneke: (kijkt haar verrast aan; dan een klein knikje)
+(놀란 얼굴로 그녀를 보다가, 작게 고개를 끄덕인다)
+Rechter: (een korte stilte) Dank u voor uw eerlijkheid, mevrouw. Gaat u zitten.
+(짧은 침묵) 솔직하게 말해 줘서 고맙습니다. 앉으십시오.
+Van Wijk: (staat op) Edelachtbare, ze geeft het zelf toe. Ze heeft een foto gemaakt in het kantoor van mijn cliënt. Dat is…
+(일어서며) 재판장님, 본인이 인정했습니다. 제 의뢰인 사무실에서 사진을 찍었습니다. 그건…
+Rechter: Een foto van een uitnodiging voor een borrel, mr. Van Wijk. Heeft uw cliënt ernstige bedrijfsgeheimen op zijn borreluitnodigingen staan?
+모임 초대장 사진이죠, 판 베이크 변호사. 의뢰인의 모임 초대장에 중대한 영업 비밀이라도 적혀 있습니까?
+Van Wijk: (stilte) Nee, edelachtbare.
+(침묵) 아닙니다, 재판장님.
+Rechter: Dan noteer ik dat. Gaat u zitten.
+그럼 그렇게 기록하겠습니다. 앉으십시오.
+Rechter: (sluit haar map) Ik heb genoeg gehoord. De uitspraak volgt op vrijdag, om tien uur. Tot die tijd publiceert De Lantaarn niet. Afgesproken, mr. Van der Laan?
+(서류철을 덮으며) 충분히 들었습니다. 판결은 금요일 열 시에 선고합니다. 그때까지 데 란타른은 보도하지 않습니다. 동의합니까, 판 데르 란 변호사?
+Hanneke: Afgesproken, edelachtbare.
+동의합니다, 재판장님.
+Rechter: Dan sluit ik de zitting.
+그럼 심리를 마칩니다.
+Lucas: (in de gang, tijdens het naar buiten lopen) Wat denken jullie? Winnen we?
+(복도에서, 밖으로 나가며) 어떻게 생각해요? 우리가 이겨요?
+Jip: Ik denk het. Ze vroeg twee keer naar 23.47 uur.
+그런 것 같아. 23시 47분에 대해 두 번이나 물었잖아.
+Margreet: (rustig) Rechters vragen veel. Dat zegt niets. Ik heb rechters gezien die alle goede vragen stelden en toch het verkeerde besluit namen.
+(차분하게) 판사들은 질문을 많이 해요. 그게 아무 의미도 없어요. 좋은 질문은 다 하고도 잘못된 결정을 내리는 판사들을 봤거든요.
+Lucas: Wanneer?
+언제요?
+Margreet: In 1998. (stilte) Het was een andere zaak. Een andere tijd.
+1998년에요. (침묵) 다른 사건이었어요. 다른 시대였고요.
+Bram: (kijkt haar aan) Welke zaak?
+(그녀를 쳐다보며) 어떤 사건이요?
+Margreet: (glimlacht vermoeid) Een zaak die niet meer bestaat, Bram. Kom. Koffie. Ik betaal.
+(피곤하게 미소 지으며) 더 이상 존재하지 않는 사건이에요, 브람. 가요. 커피. 내가 살게요.
+Noor: (in de gang, tegen Hanneke) Sorry. Over die foto. Ik moest het zeggen. Ze had het toch kunnen vragen.
+(복도에서, 하네커에게) 미안해요. 그 사진 얘기요. 말해야 했어요. 어차피 물어볼 수도 있었잖아요.
+Hanneke: (pakt haar hand) Je hoeft geen sorry te zeggen. Je hebt vandaag misschien de zaak gewonnen. Rechters houden van mensen die meer vertellen dan ze moeten.
+(그녀의 손을 잡으며) 미안할 거 없어요. 오늘 어쩌면 당신이 이 사건을 이긴 건지도 몰라요. 판사들은 해야 하는 것보다 더 말하는 사람을 좋아하거든요.
+Floris: (komt langs met Van Wijk; blijft staan bij Noor) Nour. Of Noor. (glimlacht) Je zei het mooi. "Alleen mijn geheugen."
+(판 베이크와 함께 지나가다가 노르 옆에 멈춰 선다) 누르. 아니면 노르. (미소 지으며) 멋지게 말하던데요. "오직 기억만."
+Noor: (kijkt hem aan; haar stem is rustig) Dag, Floris.
+(그를 쳐다본다; 목소리는 차분하다) 안녕하세요, 플로리스.
+Floris: Je moeder zou trots op je zijn. (stilte) Of misschien niet. Als ze wist dat je liegt voor je werk.
+당신 어머니가 자랑스러워하시겠네요. (침묵) 아니면 아닐 수도 있고요. 당신이 일 때문에 거짓말한다는 걸 아신다면요.
+Margreet: (stapt tussen hen in; haar stem is scherp en koud) Meneer Kampman. Genoeg. U spreekt niet over de moeder van mijn journalist.
+(그들 사이로 들어선다; 목소리가 날카롭고 차갑다) 캄프만 씨. 그만하세요. 내 기자의 어머니에 대해 말하지 마세요.
+Floris: (kijkt Margreet een lange seconde aan; dan glimlacht hij weer) Mevrouw Zwart. Natuurlijk. Mijn excuses. (loopt weg met Van Wijk)
+(마르흐레이트를 긴 1초 동안 쳐다보다가 다시 미소 짓는다) 즈바르트 씨. 물론이죠. 사과드립니다. (판 베이크와 함께 걸어간다)
+Noor: (zacht) Dank je, Margreet.
+(조용히) 고마워요, 마르흐레이트.
+Margreet: (legt een hand op haar wang) Niemand praat zo tegen jou. Niet zolang ik er ben.
+(그녀의 뺨에 손을 얹으며) 아무도 당신한테 그렇게 말 못 해요. 내가 있는 한은요.
+Khadija: (komt van achteren aanlopen; ze heeft alles gehoord) Wie was dat? Die man in het dure pak?
+(뒤에서 걸어온다; 다 들었다) 저 사람 누구야? 비싼 정장 입은 남자?
+Noor: De directeur van Veritas, mama.
+베리타스 대표예요, 엄마.
+Khadija: (kijkt Floris na) Hij praatte over mij. Alsof hij mij kende.
+(플로리스가 가는 쪽을 보며) 나에 대해 얘기하더라. 나를 아는 것처럼.
+Noor: Hij kent je niet.
+엄마를 몰라요.
+Khadija: (zacht) Nee. Maar hij weet mijn naam. (kijkt naar Margreet) Dank u, mevrouw. Dat u voor haar opkwam.
+(조용히) 그렇지. 근데 내 이름은 알더라. (마르흐레이트를 보며) 고마워요. 이 애 편을 들어 줘서요.
+Margreet: (een korte stilte; dan pakt ze Khadija's hand) Dat is het minste wat ik kan doen, mevrouw El Amrani. Het minste.
+(짧은 침묵; 그리고 카디자의 손을 잡는다) 그건 제가 할 수 있는 최소한의 일이에요, 엘 암라니 부인. 최소한의요.
+Bram: (later, buiten op het plein, naast Femke) Ze was geweldig, Margreet. Daar binnen.
+(나중에, 밖의 광장에서, 펨커 옆에서) 마르흐레이트 대단했어. 안에서.
+Femke: (kijkt naar Margreet, die met Noor en Hanneke praat) Ze was geweldig. (stilte) Bram. Hoe wist die advocaat van de tante?
+(노르, 하네커와 얘기하는 마르흐레이트를 보며) 대단했지. (침묵) 브람. 그 변호사는 이모 얘기를 어떻게 알았을까?
+Bram: Fatima? Misschien van de gemeente. Of van de brief.
+파티마? 시청에서 알았겠지. 아니면 편지에서.
+Femke: De gemeente geeft geen informatie over bijstandsdossiers aan een advocaat van een softwarebedrijf. Dat mag niet. En de brief heeft Noor alleen aan ons laten zien. Op de redactie. In februari.
+시청은 소프트웨어 회사 변호사한테 생계 보조금 서류 정보를 안 줘. 그건 안 되거든. 그리고 그 편지는 노르가 우리한테만 보여 줬어. 편집국에서. 2월에.
+Bram: (stilte) En de moeder? Khadija heeft in 2019 op televisie gehuild. Dat is openbaar.
+(침묵) 그럼 어머니는? 카디자는 2019년에 텔레비전에서 울었잖아. 그건 공개된 거고.
+Femke: Ik heb die uitzending vannacht bekeken. Ze werd "Khadija, moeder van drie" genoemd. Zonder achternaam. (kijkt hem aan) Van Wijk zei: "mevrouw Khadija el Amrani." Met achternaam. Met de spelling die Noor gebruikt.
+어젯밤에 그 방송을 봤어. "세 아이의 엄마 카디자"라고만 나왔어. 성 없이. (그를 쳐다보며) 판 베이크는 "카디자 엘 암라니 씨"라고 했어. 성까지. 노르가 쓰는 철자로.
+Bram: (lange stilte; hij kijkt naar Margreet, die lacht om iets wat Hanneke zegt) Er zijn honderd manieren waarop een advocaat dat kan vinden, Femke.
+(긴 침묵; 하네커가 한 말에 웃고 있는 마르흐레이트를 바라본다) 변호사가 그걸 알아낼 방법은 백 가지도 넘어, 펨커.
+Femke: Honderd manieren. (knikt) Ik zoek ze allemaal uit. Eén voor één.
+백 가지 방법이라. (고개를 끄덕이며) 내가 하나하나 다 찾아볼게. 하나씩.
+Bram: (zacht) En als je er een vindt die je niet bevalt?
+(조용히) 그럼 마음에 안 드는 방법을 찾게 되면?
+Femke: Dan vertel ik het jou. Alleen jou. En dan beslissen we samen.
+그럼 너한테 말할게. 너한테만. 그리고 같이 결정하자.
+Bram: (kijkt nog steeds naar Margreet) Afgesproken.
+(여전히 마르흐레이트를 바라보며) 약속해.
+Hanneke: (die avond, op de redactie, met twee versies van het artikel voor zich) Als we winnen, publiceren we vrijdag om twaalf uur. Twee uur na de uitspraak. Versie A.
+(그날 밤, 편집국에서, 기사 두 버전을 앞에 놓고) 이기면 금요일 열두 시에 발행해요. 판결 두 시간 뒤에요. 버전 A로요.
+Noor: En als we verliezen?
+지면요?
+Hanneke: Dan gaan we in hoger beroep. En dan publiceert Kartosen het in de Kamer. Daar kan geen rechter haar tegenhouden. Versie B is haar schriftelijke vraag, met onze bijlagen.
+그럼 항소하는 거죠. 그리고 카르토선이 의회에서 공개할 거예요. 거기선 어떤 판사도 막을 수 없어요. 버전 B는 우리 첨부 서류를 붙인 그녀의 서면 질의예요.
+Noor: (glimlacht) Twee plekken tegelijk.
+(미소 지으며) 두 군데 동시에.
+Hanneke: (kijkt op) Wat?
+(고개를 들며) 뭐라고요?
+Noor: Niets. Iets wat een vogel zei.
+아무것도 아니에요. 어떤 새가 한 말이에요.
+Margreet: (komt binnen met een fles wijn en glazen) Geen alcohol tot vrijdag, maar ik wilde de fles alvast laten zien. (zet hem op tafel) Voor als we winnen.
+(와인 한 병과 잔을 들고 들어오며) 금요일까진 술 금지지만, 미리 병만 보여 주고 싶었어요. (테이블 위에 올려놓으며) 이기면 마시려고요.
+Noor: En als we verliezen?
+지면요?
+Margreet: Dan drinken we hem ook. (glimlacht) Maar langzamer.
+그래도 마셔야죠. (미소 지으며) 대신 더 천천히요.
+Noor: (later, alleen, op de prepaid) [Bericht aan Sven] De rechter vroeg twee keer naar 23.47. Uitspraak vrijdag tien uur.
+(나중에, 혼자, 선불폰으로) [스벤에게 메시지] 판사가 23시 47분에 대해 두 번 물었어요. 판결은 금요일 열 시예요.
+Sven: [SMS] Dan heeft de vingerafdruk gesproken. Zonder naam.
+[문자] 그럼 지문이 말한 거네요. 이름 없이.
+Noor: (typt) "Floris weet nog steeds niet wie je bent."
+(입력하며) "플로리스는 아직도 당신이 누군지 몰라요."
+Sven: [SMS] Na vrijdag maakt dat niet meer uit. Dan sta ik voor mijn eigen naam. (stilte) Mila heeft vandaag voor het eerst gelachen. Goed teken, toch?
+[문자] 금요일 지나면 상관없어요. 그땐 내 이름으로 나설 거니까요. (침묵) 밀라가 오늘 처음으로 웃었어요. 좋은 징조죠?
+
+## 주요 단어
+het kort geding | 헷 코르트 허딩 | 가처분 (신청·심리)
+de rechtbank | 더 레흐트방크 | (지방) 법원
+de gedaagde | 더 허다흐더 | 피신청인, 피고
+de pleitnota | 더 플레이트노타 | 변론서
+op de knieën krijgen | 옵 더 크니언 크레이헌 | 무릎 꿇리다
+de voorzieningenrechter | 더 보르지닝언레흐터르 | 가처분 담당 판사
+vorderen → gevorderd | 포르더런 | 청구하다
+de afgifte | 더 아프히프터 | 인도, 제출
+de dwangsom | 더 드방솜 | 이행강제금
+edelachtbare | 에이덜아흐트바러 | 재판장님(호칭)
+de misleiding | 더 미스레이딩 | 기만
+schenden → geschonden | 스헨던 → 허스혼던 | 위반하다, 침해하다
+het motief | 헷 모티프 | 동기
+de kruistocht | 더 크라위스토흐트 | 십자군, 성전(聖戰)
+onrechtmatig | 온레흐트마터흐 | 불법적인
+de vrijheid van meningsuiting | 더 프레이헤이트 판 메이닝스아위팅 | 표현의 자유
+uitzonderlijk | 아위트존더를럭 | 예외적인
+afwijzen → afgewezen | 아프베이전 | 기각하다
+de uitspraak | 더 아위트스프라크 | 판결 (선고)
+
+## 문법·표현 정리
+**De publicatie is onrechtmatig — on- 접두사:** on- + 형용사 = 반대 의미. rechtmatig(적법한) → onrechtmatig(불법적인) · eerlijk → oneerlijk · terecht → onterecht
+**Het publiek belang weegt zwaarder — wegen(무게가 나가다):** 법률 논증의 핵심 표현. Het publiek belang weegt zwaarder dan het bedrijfsbelang.(공익이 기업의 이익보다 무겁다) · zwaar wegen(중요하게 고려되다)
+**Wij gaan in verweer — in verweer gaan/komen:** "반론하다, 맞서다." Wij gaan in verweer.(우리는 맞선다) · het verweer(항변, 방어)
+**Ik geef het woord aan… — 법정·회의 진행 정형구:** Ik geef het woord aan mr. Van Wijk.(판 베이크 변호사에게 발언권을 드립니다) · U krijgt straks het woord.(곧 발언 기회를 드리겠습니다) · U heeft uw beurt gehad.(발언 차례는 끝났습니다)
+**De uitspraak volgt op…(판결은 ~에 선고됩니다):** De uitspraak volgt op vrijdag om tien uur. 법원 정형구. uitspraak doen(판결을 선고하다)
+**Edelachtbare(재판장님):** 판사를 부르는 호칭. 변호사는 판사를 3인칭으로도 부릅니다: Als de rechter mij toestaat…(재판장께서 허락하신다면…)
+**Laat ik beginnen met wat deze zaak niet is:** "이 사건이 무엇이 아닌지부터 말씀드리겠습니다." 변론에서 상대의 프레임을 미리 차단하는 수사법.
+**keer op keer(거듭, 몇 번이고):** Het Hof heeft keer op keer gezegd…(재판소는 거듭 판시했다) · steeds weer(계속해서)
+**zich laten aannemen(채용되도록 하다):** Ze heeft zich onder een valse naam laten aannemen.(가명으로 채용되었다) laten + 재귀대명사 + 부정사 = 스스로 ~되게 하다. (도전 C1)
+**beschikken over(~을 보유하다):** De Lantaarn beschikt over documenten…(데 란타른은 서류를 보유하고 있다) 격식체.
+**Dat blijkt(그런 것 같군요, 그렇게 드러나네요):** 판사의 건조한 반어. Mijn cliënt is een betrokken directeur. — Dat blijkt.
+**Wat zegt u daarop? — reageren/zeggen op:** "그것에 대해 어떻게 말하겠습니까?" daarop = 그것에 대해. Wat vindt u daarvan?(어떻게 생각하세요?)
+**zolang(~하는 한):** Niet zolang ik er ben.(내가 있는 한은 안 돼) · zolang het duurt(지속되는 동안)
+**변론의 대비 구조:** De vraag is niet waarom ze schrijft. De vraag is of wat ze schrijft klopt.(문제는 왜 쓰느냐가 아니라, 쓴 것이 맞느냐다) — niet X, maar Y 형식의 강력한 결론.
+
+## 취재 노트
+네덜란드에서 «가처분(kort geding)»은 급박한 사안을 다루는 신속 절차로, 보도 전 사전 금지 청구는 유럽인권협약 제10조에 따라 극히 예외적으로만 받아들여진다. 이행강제금(dwangsom)은 법원 명령을 지키지 않을 때 부과되는 금액이다.
+2018년 시행된 영업비밀보호법(Wet bescherming bedrijfsgeheimen)은 공익을 위한 내부 고발이나 언론의 자유 행사를 예외로 둔다. 더 한 판사, 판 베이크 변호사, 심리 내용은 가상이다.
