@@ -1,0 +1,346 @@
+# 2부 9화. De ambtenaar (공무원)
+수준: 중상급 (B2) | 장소: 베리타스 전 직원 회의 → 노르트의 Bram 집 → 편집국 → 헤이그 내무부 앞 카페 | 시간: 2027년 3월 말 → 4월 중순(2주 뒤)
+핵심 표현: Wie zat er bij dat overleg? · Dat kan geen toeval zijn · Mijn bron zegt dat hij schoon is · Hij werkte er vroeger · Ik heb me vergist
+
+## 대화
+Floris: (in de grote zaal van Veritas, voor het hele personeel, met een glas bubbels in zijn hand) Mensen! Even jullie aandacht. Ik heb goed nieuws.
+(베리타스 대회의실, 전 직원 앞에서 스파클링 와인 잔을 들고) 여러분! 잠깐 주목해 주세요. 좋은 소식이 있어요.
+Daan: (fluistert tegen Noor) Bubbels op een woensdagmiddag. Dan is het echt goed nieuws.
+(노르에게 속삭이며) 수요일 오후에 스파클링 와인이라니. 진짜 좋은 소식인가 봐요.
+Floris: Het ministerie van Binnenlandse Zaken werkt aan nieuwe regels voor algoritmes bij de overheid. Toezicht, audits, transparantie. Veel bedrijven zijn er bang voor.
+내무부가 정부 알고리즘에 대한 새 규정을 만들고 있어요. 감독, 감사, 투명성. 많은 회사들이 그걸 두려워하죠.
+Floris: (klikt; op het scherm verschijnt een document met een rode stempel "CONCEPT — NIET VERSPREIDEN") Wij niet. Want wij weten al wat erin staat.
+(클릭하자, 화면에 "초안 — 배포 금지"라는 빨간 도장이 찍힌 문서가 나타난다) 우리는 아니에요. 우린 거기 뭐가 들어 있는지 이미 아니까요.
+Marcel: (lacht) Een kleine voorsprong.
+(웃으며) 작은 선점이죠.
+Floris: Een grote voorsprong. Kijk naar artikel vier. "Risicomodellen die geen nationaliteit als directe variabele gebruiken, vallen onder het lichte toezichtregime." (spreidt zijn armen) Versie 5.0 gebruikt geen nationaliteit. Dus wij vallen onder licht toezicht.
+큰 선점이에요. 4조를 봐요. "국적을 직접 변수로 쓰지 않는 위험 모델은 경감된 감독 체계를 적용받는다." (팔을 벌리며) 버전 5.0은 국적을 안 써요. 그러니까 우리는 경감된 감독을 받는 거예요.
+Noor: (haar handen plat op haar knieën; zacht tegen zichzelf) "Als directe variabele."
+(두 손을 무릎 위에 평평하게 둔 채, 혼잣말로 조용히) "직접 변수로."
+Floris: Daarom moet 5.0 voor de zomer live. Voordat de regels officieel worden. Dan zijn we de eersten die voldoen. Proost!
+그래서 5.0은 여름 전에 가동해야 해요. 규정이 공식화되기 전에요. 그럼 우리가 제일 먼저 기준을 충족하는 거죠. 건배!
+Iedereen: Proost!
+건배!
+Priya: (zacht, naast Noor) Weet je wanneer het concept openbaar wordt? Voor de internetconsultatie?
+(노르 옆에서 조용히) 그 초안이 언제 공개되는지 알아요? 인터넷 의견 수렴 때요?
+Noor: Nee.
+아니요.
+Priya: Over drie weken. Ik heb het opgezocht. (neemt een slok) Wij hebben het nu al.
+3주 뒤예요. 찾아봤어요. (한 모금 마시며) 우리는 지금 벌써 갖고 있고요.
+Noor: (kijkt naar het scherm, naar de kleine letters onderaan de dia) Onderaan staat iets. "Versie 0.7 — M.dR — BZK/DGDOO."
+(화면 속 슬라이드 맨 아래 작은 글씨를 보며) 맨 아래 뭔가 적혀 있어요. "버전 0.7 — M.dR — BZK/DGDOO."
+Priya: Initialen van de schrijver. Ambtenaren zetten altijd hun initialen onder hun stukken. (glimlacht) Net als ik onder mijn code.
+작성자 이니셜이에요. 공무원들은 늘 자기 문서 밑에 이니셜을 넣거든요. (미소 지으며) 내가 내 코드 밑에 넣는 것처럼요.
+Noor: (onthoudt het; zegt het zachtjes na) M.dR.
+(기억한다; 조용히 따라 말한다) M.dR.
+Sven: (komt naast haar staan bij het raam, met een glas water in plaats van bubbels) Je drinkt niet mee?
+(스파클링 와인 대신 물 한 잔을 들고 창가의 그녀 옆에 선다) 같이 안 마셔요?
+Noor: Ik drink niet op woensdag.
+수요일엔 안 마셔요.
+Sven: (zacht) Ik drink niet op leugens. (kijkt naar het scherm) "Als directe variabele." Heb je dat gehoord?
+(조용히) 나는 거짓말에 건배 안 해요. (화면을 보며) "직접 변수로." 들었어요?
+Noor: Ik heb het gehoord.
+들었어요.
+Sven: Iemand heeft die twee woorden er speciaal voor ons in geschreven. Zonder die twee woorden valt versie 5.0 onder zwaar toezicht. Met die twee woorden niet.
+누군가 그 두 단어를 일부러 우리를 위해 넣어 줬어요. 그 두 단어가 없으면 버전 5.0은 엄격한 감독을 받아요. 그 두 단어가 있으면 아니고요.
+Noor: (heel zacht) Wie?
+(아주 조용히) 누가요?
+Sven: (drinkt zijn water op en loopt weg) Lees de initialen.
+(물을 다 마시고 걸어가며) 이니셜을 읽어 봐요.
+Hanneke: (in Brams keuken, via de luidspreker) Een concept van een ministerie, met de stempel "niet verspreiden", bij een commercieel bedrijf. Drie weken voor de consultatie. Dat is ernstig. Dat is schending van het ambtsgeheim.
+(브람 부엌에서, 스피커로) "배포 금지" 도장이 찍힌 부처 초안이 민간 기업에 있다. 의견 수렴 3주 전에. 심각하네요. 직무상 비밀 누설이에요.
+Bram: Door wie?
+누가 그랬는데요?
+Noor: M.dR. Directoraat-generaal Digitalisering en Overheidsorganisatie. Ik heb gezocht in het openbare organogram. Er werken daar twee mensen met die initialen.
+M.dR. 디지털화·정부조직 총국. 공개된 조직도에서 찾아봤어요. 거기 그 이니셜을 가진 사람이 두 명 있어요.
+Jip: (leest van zijn laptop) Martijn de Ruiter, senior beleidsmedewerker. En Marieke de Roo, juridisch adviseur.
+(노트북을 보며 읽는다) 마르테인 더라위터르, 선임 정책관. 그리고 마리커 더로, 법률 자문관.
+Femke: Wie van de twee schrijft beleidsteksten?
+둘 중에 누가 정책 문서를 써요?
+Noor: Allebei. Maar de Ruiter staat in de Staatscourant als "projectleider Algoritmetoezicht".
+둘 다요. 근데 더라위터르는 관보에 "알고리즘 감독 프로젝트 책임자"로 올라 있어요.
+Bram: Dan beginnen we bij hem.
+그럼 그 사람부터 시작하자.
+Femke: Rustig. Twee namen. Eén document. Het kan ook zijn dat het concept via een derde partij is gegaan. Een adviesbureau. Een ander ministerie.
+진정해. 이름 둘. 문서 하나. 초안이 제3자를 통해 갔을 수도 있어. 컨설팅 회사나. 다른 부처나.
+Bram: (pakt zijn telefoon) Margreet heeft een bron bij Binnenlandse Zaken. Al jaren. Ik vraag het haar.
+(휴대전화를 집으며) 마르흐레이트한테 내무부 취재원이 있어. 몇 년째. 물어볼게.
+Femke: (een korte stilte) Moet dat?
+(짧은 침묵) 꼭 그래야 해?
+Bram: Ze is onze hoofdredacteur, Femke. En ze kent dat ministerie beter dan wij allemaal.
+그녀는 우리 편집장이야, 펨커. 그리고 그 부처를 우리 중 누구보다 잘 알아.
+Femke: (knikt langzaam) Natuurlijk.
+(천천히 고개를 끄덕이며) 그렇지.
+Margreet: (aan de telefoon, de volgende ochtend) Bram. Ik heb mijn bron gesproken. Gisteravond nog.
+(다음 날 아침, 전화로) 브람. 내 취재원이랑 얘기했어요. 어젯밤에 바로요.
+Bram: En?
+그래서요?
+Margreet: Martijn de Ruiter is schoon. Mijn bron kent hem al tien jaar. Hij is de strengste ambtenaar van het hele directoraat. Hij heeft het concept nooit buiten het ministerie gestuurd.
+마르테인 더라위터르는 깨끗해요. 내 취재원이 그 사람을 10년째 알아요. 총국 전체에서 제일 깐깐한 공무원이래요. 초안을 부처 밖으로 보낸 적이 한 번도 없대요.
+Bram: Hoe weet je bron dat zo zeker?
+취재원이 그걸 어떻게 그렇게 확신해요?
+Margreet: Omdat het concept versie 0.7 ook naar Economische Zaken is gegaan. Voor een interdepartementaal overleg. Daar zitten een paar mensen die nauw contact hebben met de techindustrie. Daar zit je lek.
+초안 0.7이 경제부에도 갔거든요. 부처 간 협의를 위해서요. 거기에 테크 업계랑 가깝게 지내는 사람들이 몇 있대요. 거기가 새는 곳이에요.
+Bram: Economische Zaken. (schrijft het op) Mijn bron zegt dat hij schoon is, zeg je.
+경제부라. (적으며) 당신 취재원 말로는 그 사람이 깨끗하다는 거죠.
+Margreet: Mijn bron zegt dat hij schoon is. Ik zou niet te veel tijd aan de Ruiter besteden. Kijk naar EZ.
+내 취재원 말로는 깨끗해요. 더라위터르한테 시간을 너무 많이 쓰지 마요. 경제부를 봐요.
+Bram: Dank je, Margreet.
+고마워요, 마르흐레이트.
+Margreet: Graag gedaan. En Bram… zeg tegen Noor dat ze voorzichtig moet zijn met die persconferentie. Als Veritas zich zo goed voorbereidt, zijn ze ook voorbereid op vragen.
+천만에요. 그리고 브람… 노르한테 그 기자회견 조심하라고 전해요. 베리타스가 그렇게 준비를 잘한다면 질문에도 대비하고 있을 거예요.
+Bram: (een week later, in een café bij het ministerie van Economische Zaken in Den Haag, tegenover een ambtenaar in een grijs pak) Meneer Verhoef, dank dat u tijd heeft.
+(일주일 뒤, 헤이그 경제부 근처 카페에서, 회색 정장의 공무원 맞은편에 앉아) 페르후프 씨, 시간 내 주셔서 감사합니다.
+Verhoef: Vijf minuten. Off the record. Waar gaat het over?
+5분이요. 비공개로요. 무슨 일이죠?
+Bram: Over het interdepartementale overleg over algoritmetoezicht. In maart. U zat erbij.
+알고리즘 감독에 관한 부처 간 협의요. 3월에요. 거기 계셨죠.
+Verhoef: Ik zat erbij. Samen met zes anderen. Hoezo?
+있었죠. 다른 여섯 명이랑 같이요. 왜요?
+Bram: Een concept van dat overleg is bij een commercieel bedrijf terechtgekomen. Drie weken voor de consultatie.
+그 협의의 초안이 한 민간 기업에 흘러 들어갔어요. 의견 수렴 3주 전에요.
+Verhoef: (fronst) Welk concept? Wij kregen bij dat overleg geen concept. Alleen een presentatie van vier dia's. BZK hield de tekst zelf. Ze waren er heel streng in.
+(얼굴을 찌푸리며) 어떤 초안이요? 그 협의 때 우린 초안을 받은 적이 없어요. 슬라이드 네 장짜리 발표만 받았죠. 내무부가 본문은 직접 갖고 있었어요. 그 부분은 아주 엄격했어요.
+Bram: (langzaam) Jullie hebben de tekst nooit gehad?
+(천천히) 본문을 받은 적이 없다고요?
+Verhoef: Nooit. Versie 0.7 heb ik pas vorige week gezien. Op de website, bij de consultatie. Net als iedereen.
+한 번도요. 버전 0.7은 지난주에야 봤어요. 의견 수렴 웹사이트에서요. 다른 사람들처럼요.
+Bram: Dus het lek kan niet bij Economische Zaken zitten.
+그럼 새는 곳이 경제부일 리 없네요.
+Verhoef: Niet bij ons. (staat op) Als u een lek zoekt, meneer Hoekstra, kijk dan naar wie de tekst wél had. Dat zijn er niet veel.
+우리 쪽은 아니에요. (일어서며) 새는 곳을 찾는다면, 후크스트라 씨, 본문을 실제로 갖고 있던 사람을 봐요. 몇 명 안 되니까요.
+Lucas: (na het gesprek, op straat) Dus Margreets bron zat ernaast.
+(대화가 끝나고, 거리에서) 그러니까 마르흐레이트의 취재원이 틀렸던 거네요.
+Bram: Of Margreets bron wist het niet beter. Bronnen vergissen zich. (kijkt naar de grijze gebouwen) Een week, Lucas. Een hele week.
+아니면 마르흐레이트의 취재원도 그 이상은 몰랐거나. 취재원도 틀릴 수 있어. (회색 건물들을 바라보며) 일주일이야, 뤼카스. 꼬박 일주일.
+Lucas: Moeten we het Margreet vertellen?
+마르흐레이트한테 말해야 해요?
+Bram: Natuurlijk. We vertellen haar alles. (zet zijn kraag op tegen de wind) Maar eerst Jip. Ik wil dat hij nog één week Economische Zaken doorzoekt. Voor de zekerheid.
+당연하지. 다 말해야지. (바람을 막으려 옷깃을 세우며) 그래도 먼저 입한테. 일주일만 더 경제부를 뒤져 보라고 할 거야. 확실히 하려고.
+Bram: Als Verhoef liegt, wil ik het weten. Als hij niet liegt, hebben we een week extra verloren. (zucht) Dat is journalistiek, Lucas. Soms graaf je twee weken in de verkeerde tuin.
+페르후프가 거짓말하는 거라면 알고 싶어. 거짓말이 아니라면 일주일을 더 날리는 거고. (한숨 쉬며) 그게 저널리즘이야, 뤼카스. 가끔은 엉뚱한 정원을 2주씩 파기도 하지.
+Jip: (twee weken later, op de redactie, met zijn hoofd op zijn bureau) Niets. Twee weken Economische Zaken. Niets.
+(2주 뒤, 편집국에서, 책상에 머리를 박고) 아무것도 없어요. 2주 동안 경제부를 팠는데. 아무것도요.
+Bram: Helemaal niets?
+완전히 아무것도?
+Jip: Ik heb alle mensen van dat interdepartementale overleg gevonden. Zeven ambtenaren. Ik heb hun LinkedIn, hun Twitter, hun publicaties, hun lezingen bekeken. Niemand heeft iets met Veritas te maken. Niemand.
+그 부처 간 협의에 나온 사람들을 다 찾았어요. 공무원 일곱 명. 링크드인, 트위터, 논문, 강연까지 다 봤어요. 베리타스랑 관련된 사람은 아무도 없어요. 아무도요.
+Noor: En intussen gaat versie 5.0 over zes weken live.
+그동안 버전 5.0은 6주 뒤에 가동되고요.
+Bram: En Sven? Is hij terug?
+스벤은? 돌아왔어?
+Noor: Na drie dagen "griep". Hij zegt bijna niets tegen me. Maar gisteren, bij de printer, zei hij: "Ik heb een advocaat gebeld. Over klokkenluiders." En toen liep hij weg.
+사흘간 "독감" 앓고 나서요. 저한테 말을 거의 안 해요. 그런데 어제 프린터 옆에서 이렇게 말했어요: "변호사한테 전화했어요. 내부고발자 문제로요." 그러고는 가 버렸어요.
+Femke: Dat is goed. Dat is heel goed. Iemand die een advocaat belt, denkt na over de volgende stap.
+좋은 거야. 아주 좋은 거지. 변호사한테 전화하는 사람은 다음 단계를 생각하고 있는 거야.
+Noor: Of hij wil zichzelf beschermen. Tegen mij.
+아니면 자기 자신을 보호하려는 거죠. 저로부터요.
+Femke: Allebei. Dat is altijd allebei.
+둘 다지. 그건 늘 둘 다야.
+Lucas: Twee weken kwijt.
+2주를 날렸네요.
+Bram: (zucht) Twee weken kwijt. (kijkt naar Jip) Oké. Terug naar het begin. Martijn de Ruiter.
+(한숨 쉬며) 2주를 날렸지. (입을 보며) 좋아. 처음으로 돌아가자. 마르테인 더라위터르.
+Jip: Margreet zei dat hij schoon was.
+마르흐레이트가 깨끗하다고 했잖아요.
+Bram: Margreets bron zei dat hij schoon was. Dat is iets anders. Eerst checken, dan schrijven. Ook als de check van je hoofdredacteur komt.
+마르흐레이트의 취재원이 깨끗하다고 한 거지. 그건 다른 얘기야. 먼저 확인하고, 그다음에 쓴다. 편집장한테서 온 확인이라도.
+Jip: (typt) Martijn de Ruiter. LinkedIn. (stilte) Huidige functie: projectleider Algoritmetoezicht, ministerie van BZK, sinds 2023.
+(입력하며) 마르테인 더라위터르. 링크드인. (침묵) 현재 직책: 내무부 알고리즘 감독 프로젝트 책임자, 2023년부터.
+Noor: En daarvoor?
+그 전엔요?
+Jip: (scrolt naar beneden; zijn gezicht verandert) 2019 tot 2022: "Senior Consultant Public Sector". (kijkt op) Bij Veritas Data.
+(아래로 스크롤한다; 표정이 바뀐다) 2019년부터 2022년: "공공 부문 선임 컨설턴트". (고개를 들며) 베리타스 데이터에서요.
+Noor: (heel stil) Hij werkte er vroeger.
+(아주 조용히) 그 사람 예전에 거기서 일했네요.
+Lucas: Bij Veritas? En nu schrijft hij de regels voor bedrijven zoals Veritas?
+베리타스에서요? 그리고 지금은 베리타스 같은 회사들을 위한 규정을 쓰고 있고요?
+Bram: Een draaideur. Van het bedrijf naar het ministerie. Dat is niet verboden. Maar dan moet je wel heel voorzichtig zijn.
+회전문이네. 회사에서 부처로. 금지된 건 아니야. 그래도 그러면 아주 조심해야 하지.
+Noor: En Margreets bron zei dat hij de strengste ambtenaar van het directoraat was.
+그런데 마르흐레이트의 취재원은 그 사람이 총국에서 제일 깐깐한 공무원이라고 했잖아요.
+Bram: (stilte) Dat zei ze.
+(침묵) 그랬지.
+Femke: (later, alleen met Bram bij het raam) Twee weken, Bram.
+(나중에, 창가에서 브람과 단둘이) 2주야, 브람.
+Bram: Ik weet het.
+알아.
+Femke: Twee weken. Precies de tijd die Veritas nodig had om versie 5.0 af te maken. Precies de tijd die de Ruiter nodig had om zijn sporen uit te wissen. Als hij dat heeft gedaan.
+2주. 베리타스가 버전 5.0을 끝내는 데 필요했던 딱 그 시간. 더라위터르가 흔적을 지우는 데 필요했던 딱 그 시간. 그 사람이 그랬다면.
+Bram: (scherp) Wat bedoel je, Femke?
+(날카롭게) 무슨 뜻이야, 펨커?
+Femke: Ik bedoel niets. Ik zeg wat ik zie. Zoals altijd.
+아무 뜻도 없어. 보이는 걸 말하는 거야. 늘 그렇듯이.
+Bram: Margreet heeft dertig jaar journalistiek gedaan. Ze heeft De Lantaarn opgericht. Ze heeft mijn baan gered. En die van jou.
+마르흐레이트는 30년 동안 기자 생활을 했어. 데 란타른을 세웠고. 내 일자리를 구해 줬어. 네 것도.
+Femke: (zacht) Dat weet ik. Daarom zeg ik het alleen tegen jou. En alleen één keer. (draait zich om) Haar bron zat ernaast. Dat is alles.
+(조용히) 알아. 그래서 너한테만 말하는 거야. 그리고 딱 한 번만. (돌아서며) 그녀의 취재원이 틀렸어. 그게 다야.
+Margreet: (in haar kamer, als Bram het haar vertelt; ze zet haar bril af) Bij Veritas? Van 2019 tot 2022?
+(자기 방에서, 브람이 말하자 안경을 벗으며) 베리타스에서요? 2019년부터 2022년까지요?
+Bram: Het staat op zijn eigen LinkedIn.
+본인 링크드인에 나와 있어요.
+Margreet: (lange stilte) Dan heeft mijn bron zich vergist. Of hij heeft me verkeerd ingelicht. (wrijft over haar ogen) Ik heb me vergist, Bram. Ik had het zelf moeten checken. Twee weken. Het spijt me.
+(긴 침묵) 그럼 내 취재원이 착각했네요. 아니면 나한테 잘못 알려 줬거나요. (눈을 비비며) 내가 잘못 알았어요, 브람. 직접 확인했어야 했는데. 2주를. 미안해요.
+Bram: Iedereen vergist zich weleens.
+누구나 가끔 착각하죠.
+Margreet: Niet zo. Niet met jullie tijd. (zet haar bril weer op) Wie is je volgende stap?
+이렇게는 안 돼요. 여러분 시간을 갖고는요. (다시 안경을 쓰며) 다음 단계는 누구예요?
+Bram: Wie zat er bij dat overleg? Waar Veritas het concept kreeg. Dat moeten we weten.
+그 협의에 누가 있었나. 베리타스가 초안을 받은 곳이요. 그걸 알아야 해요.
+Margreet: (knikt) Goed. En deze keer check ik niets voor jullie. Ik wil niet nog een keer in de weg staan.
+(고개를 끄덕이며) 좋아요. 이번엔 내가 여러분 대신 아무것도 확인하지 않을게요. 또 방해가 되고 싶지 않아요.
+Bram: Je stond niet in de weg. Je probeerde te helpen.
+방해한 게 아니에요. 도우려고 한 거죠.
+Margreet: (een flauw glimlachje) Dat is wat mensen altijd zeggen tegen iemand die in de weg stond. (stilte) Hoe gaat het eigenlijk met Noor?
+(희미하게 웃으며) 그게 방해한 사람한테 사람들이 늘 하는 말이에요. (침묵) 그런데 노르는 어때요?
+Bram: Moe. Maar scherp. (stilte) En hoe gaat het met het geld? Je zei vorige maand dat het "zoals altijd" ging.
+피곤하지만 날카로워요. (침묵) 그럼 돈 사정은 어때요? 지난달에 "늘 그렇다"고 했잖아요.
+Margreet: (kijkt naar de foto met de cheque aan de muur) Open Venster heeft beloofd dat ze ook volgend jaar doneren. Dus we overleven nog een jaar. (zachter) Zoals altijd.
+(벽에 걸린 수표 사진을 보며) 오픈 펜스터가 내년에도 후원하겠다고 약속했어요. 그러니까 1년 더 버티는 거죠. (목소리를 낮추며) 늘 그렇듯이요.
+Bram: (bij de deur) Margreet… wie is je bron eigenlijk? Bij BZK?
+(문가에서) 마르흐레이트… 근데 내무부 취재원이 누구예요?
+Margreet: (glimlacht) Bram. Je weet dat ik dat niet zeg. Bronbescherming geldt ook voor hoofdredacteuren.
+(미소 지으며) 브람. 내가 그건 말 안 하는 거 알잖아요. 취재원 보호는 편집장한테도 적용돼요.
+Bram: (glimlacht terug) Natuurlijk.
+(마주 미소 지으며) 물론이죠.
+Noor: (op de redactie, met drie stapels papier) Woo-antwoorden van BZK. Van vorig jaar. Over iets heel anders: "overleg met marktpartijen over digitale overheid". Agenda's, deelnemerslijsten.
+(편집국에서, 서류 세 더미를 놓고) 내무부의 정보공개 답변이에요. 작년 거요. 완전히 다른 주제예요: "디지털 정부에 관한 시장 참여자 협의". 안건, 참석자 명단.
+Jip: Waarom heb je die?
+그건 왜 갖고 있어요?
+Noor: Omdat iemand anders er vorig jaar om vroeg en ze online staan. (bladert) Overleg van 14 februari. Onderwerp: "Toekomstig toezicht op algoritmes — input van de markt." Deelnemers…
+작년에 누가 청구한 게 온라인에 올라와 있어서요. (넘기며) 2월 14일 협의. 주제: "향후 알고리즘 감독 — 시장 의견." 참석자…
+Bram: Wie zat er bij dat overleg?
+그 협의에 누가 있었어?
+Noor: (leest) M. de Ruiter, BZK, voorzitter. Vier mensen van grote techbedrijven. En… (stopt) F. Kampman, Veritas Data.
+(읽으며) M. 더라위터르, 내무부, 의장. 대형 테크 기업 직원 넷. 그리고… (멈춘다) F. 캄프만, 베리타스 데이터.
+Lucas: Floris.
+플로리스네요.
+Noor: Twee weken later is versie 0.1 van het concept geschreven. Door M.dR.
+그로부터 2주 뒤에 초안 0.1이 작성됐어요. M.dR이.
+Bram: Dat kan geen toeval zijn.
+그게 우연일 리 없어.
+Hanneke: (vanaf haar stoel) Het kan wel toeval zijn. Overleg met de markt is normaal. Ambtenaren mogen met bedrijven praten. Dat bewijst nog niet dat de Ruiter het concept heeft doorgestuurd.
+(자기 의자에서) 우연일 수도 있어요. 시장과의 협의는 정상이에요. 공무원은 기업과 얘기해도 돼요. 그게 더라위터르가 초안을 넘겼다는 증거는 아니에요.
+Jip: Dan heb ik misschien iets anders. (draait zijn scherm) Strava.
+그럼 다른 게 있을지도 몰라요. (화면을 돌리며) 스트라바요.
+Lucas: Strava? De hardloopapp?
+스트라바요? 달리기 앱이요?
+Jip: Martijn de Ruiter rent elke donderdag om zeven uur 's ochtends. Langs de Vecht, bij Maarssen. Zijn profiel is openbaar. (zoomt in) En kijk wie hij elke keer tagt.
+마르테인 더라위터르는 매주 목요일 아침 일곱 시에 달려요. 마르선 근처 페흐트강을 따라서요. 프로필이 공개예요. (확대하며) 그리고 매번 누구를 태그하는지 봐요.
+Noor: (leest) "Ochtendrondje met FK. 12 km. Mooie gesprekken."
+(읽으며) "FK랑 아침 한 바퀴. 12킬로. 좋은 대화."
+Jip: FK heeft ook een profiel. Floris Kampman. Woonplaats: Maarssen.
+FK도 프로필이 있어요. 플로리스 캄프만. 거주지: 마르선.
+Bram: (leunt achterover) Elke donderdag. Twaalf kilometer. "Mooie gesprekken."
+(의자에 등을 기대며) 매주 목요일. 12킬로. "좋은 대화."
+Jip: Sinds januari 2026. Bijna zestig keer.
+2026년 1월부터요. 거의 예순 번이에요.
+Noor: (buigt zich naar het scherm) Kun je zien wanneer ze voor het laatst samen hebben gerend?
+(화면 쪽으로 몸을 숙이며) 마지막으로 같이 달린 게 언제인지 볼 수 있어?
+Jip: Vorige week donderdag. En de donderdag ervoor. (scrolt) Wacht. In de week van het overleg op 14 februari renden ze twee keer. Dinsdag én donderdag.
+지난주 목요일이요. 그리고 그 전 목요일도요. (스크롤하며) 잠깐만요. 2월 14일 협의가 있던 주엔 두 번 달렸어요. 화요일하고 목요일 둘 다요.
+Bram: Extra rondje. Om iets te bespreken.
+한 바퀴 더 뛰었네. 뭘 의논하려고.
+Jip: En hier, op de dinsdag: "Tempo laag. Veel te bespreken." (lacht ongelovig) Hij schrijft het er gewoon bij.
+그리고 여기, 화요일에: "페이스 느림. 의논할 게 많음." (믿을 수 없다는 듯 웃으며) 그냥 적어 놨네요.
+Femke: Mensen denken dat niemand hun hardloopapp leest.
+사람들은 아무도 자기 달리기 앱을 안 읽는다고 생각하지.
+Hanneke: (stilte) Oké. Dat is geen bewijs. Maar het is ook geen toeval meer.
+(침묵) 좋아요. 그건 증거는 아니에요. 그래도 더 이상 우연도 아니네요.
+Lucas: Kunnen we gewoon naar ze toe rennen? Donderdag? Met een camera?
+그냥 그쪽으로 뛰어가면 안 돼요? 목요일에? 카메라 들고요?
+Bram: (lacht) Op een hardlooppad? Nee. Dan rennen ze weg. Letterlijk.
+(웃으며) 달리기 길에서? 안 돼. 그럼 도망가겠지. 말 그대로.
+Noor: We hebben iets beters nodig. Een moment waarop ze samen zijn, en niet kunnen wegrennen.
+더 나은 게 필요해요. 둘이 함께 있는데 도망갈 수 없는 순간이요.
+Femke: (die tot nu toe stil was) Een diner.
+(지금까지 조용하던 펨커가) 저녁 식사.
+Noor: Hoe weet jij dat ze gaan dineren?
+그 둘이 저녁을 먹을 걸 어떻게 알아요?
+Femke: Ik weet het niet. Maar mannen die zestig keer samen rennen, eten ook samen. Noor, heeft Floris een agenda op zijn bureau? Op papier?
+몰라. 그래도 같이 예순 번 달리는 남자들은 밥도 같이 먹어. 노르, 플로리스 책상에 다이어리 있어? 종이로 된 거?
+Noor: (denkt na) Een grote leren agenda. Hij schrijft alles erin met een vulpen. Hij zegt dat hij digitale agenda's niet vertrouwt.
+(생각하며) 커다란 가죽 다이어리요. 만년필로 다 적어요. 디지털 다이어리는 안 믿는대요.
+Femke: (glimlacht) Dan heeft hij gelijk. Digitale agenda's lekken. Papieren agenda's liggen gewoon open op een bureau.
+(미소 지으며) 그럼 그 사람 말이 맞네. 디지털 다이어리는 새거든. 종이 다이어리는 그냥 책상 위에 펼쳐져 있고.
+Margreet: (in de deuropening, met een kop thee) Een diner? Laat me weten wanneer. Als jullie het doen, wil ik erbij zijn. Om juridische redenen. Voor de zekerheid.
+(차를 들고 문간에서) 저녁 식사요? 언제인지 알려 줘요. 그걸 한다면 나도 같이 가고 싶어요. 법적인 이유로요. 만일을 위해서요.
+Bram: (een korte pauze) We laten het je weten.
+(잠깐 멈췄다가) 알려 드릴게요.
+Jip: (die nacht, thuis, aan de telefoon met Noor; zijn stem is paniekerig) Noor. Ik heb iets heel doms gedaan.
+(그날 밤 집에서, 노르와 통화 중; 목소리가 다급하다) 노르. 나 엄청 멍청한 짓을 했어요.
+Noor: Wat?
+뭔데?
+Jip: Ik heb vanmiddag het LinkedIn-profiel van de Ruiter bekeken. Met mijn eigen account. Niet in privémodus. Ik was zo blij met die Veritas-regel dat ik het vergat.
+오늘 오후에 더라위터르의 링크드인 프로필을 봤잖아요. 제 계정으로요. 비공개 모드가 아니라요. 베리타스 경력 보고 너무 신나서 깜빡했어요.
+Noor: (sluit haar ogen) Dus hij ziet: "Iemand van De Lantaarn heeft je profiel bekeken."
+(눈을 감으며) 그러니까 그 사람한테 "데 란타른의 누군가가 당신 프로필을 봤습니다"라고 뜨겠네.
+Jip: Precies dat. En net keek ik weer. (stilte) De regel "Veritas Data, 2019–2022" is weg. Verwijderd. Twee uur geleden.
+딱 그거예요. 그리고 방금 다시 봤는데. (침묵) "베리타스 데이터, 2019–2022" 줄이 없어졌어요. 삭제됐어요. 두 시간 전에요.
+Noor: (opent haar ogen) Heb je een kopie?
+(눈을 뜨며) 사본 있어?
+Jip: Screenshot, pdf en een kopie in het Internet Archive. Van vanmiddag. Met datum.
+스크린숏, PDF, 그리고 인터넷 아카이브에도 사본이 있어요. 오늘 오후 거로요. 날짜까지요.
+Noor: (ademt uit) Dan hebben ze niets weggehaald. Ze hebben alleen laten zien dat ze iets te verbergen hebben.
+(숨을 내쉬며) 그럼 아무것도 지운 게 아니네. 숨길 게 있다는 걸 보여 준 것뿐이지.
+Jip: (zacht) Maar nu weten ze dat we kijken.
+(조용히) 근데 이제 우리가 보고 있다는 걸 알잖아요.
+Noor: (kijkt naar haar pasje van Veritas op tafel, met haar eigen foto en de naam Nour Amrani) Ja. Nu weten ze dat we kijken.
+(테이블 위에 놓인, 자기 사진과 누르 암라니라는 이름이 적힌 베리타스 출입증을 보며) 그래. 이제 우리가 보고 있다는 걸 알지.
+Jip: Moet ik het Bram vertellen? En Margreet?
+브람한테 말해야 해요? 마르흐레이트한테도요?
+Noor: Bram, ja. Morgen vroeg. (stilte) Margreet… vertelt Bram het zelf. Als hij dat wil.
+브람한텐, 응. 내일 일찍. (침묵) 마르흐레이트한텐… 브람이 원하면 직접 말하겠지.
+Noor: (de volgende ochtend, bij Veritas, loopt ze langs de glazen kamer van Floris; hij is er niet; zijn leren agenda ligt open op het bureau)
+(다음 날 아침 베리타스에서, 플로리스의 유리 방 앞을 지나간다; 그는 없다; 가죽 다이어리가 책상 위에 펼쳐져 있다)
+Noor: (blijft één seconde staan, alsof ze haar schoenveter vastmaakt, en leest zonder haar hoofd te bewegen) "Donderdag. 19.30. M. — Des Indes."
+(신발 끈을 묶는 척 1초 동안 멈춰 서서, 고개를 움직이지 않고 읽는다) "목요일. 19시 30분. M. — 데스 인더스."
+Daan: (vanachter haar) Nour! Pingpong vanmiddag? Revanche?
+(그녀 뒤에서) 누르! 오늘 오후에 탁구? 설욕전?
+Noor: (komt overeind, glimlacht) Ik ga weer verliezen, Daan.
+(일어서며 미소 짓는다) 또 질 거예요, 다안.
+Daan: Daarom vraag ik het. (loopt verder) Je bent de enige tegen wie ik win!
+그러니까 묻는 거죠. (걸어가며) 내가 이기는 사람은 당신밖에 없거든요!
+Noor: (zacht, tegen zichzelf, terwijl ze naar haar bureau loopt) Donderdag. Hotel Des Indes. Den Haag.
+(자기 책상으로 걸어가며 혼잣말로 조용히) 목요일. 데스 인더스 호텔. 헤이그.
+
+## 주요 단어
+de ambtenaar | 더 암트나르 | 공무원
+Binnenlandse Zaken (BZK) | 빈넌란트서 자컨 | 내무부
+het toezicht | 헷 투지흐트 | 감독
+de audit | 더 아우딧 | 감사
+het concept | 헷 콘셉트 | 초안
+de voorsprong | 더 보르스프롱 | 선점, 앞섬
+voldoen aan | 폴둔 안 | (기준을) 충족하다
+de internetconsultatie | 더 인터르넷콘쉴타치 | 인터넷 의견 수렴
+het ambtsgeheim | 헷 암츠허헤임 | 직무상 비밀
+het directoraat-generaal | 헷 디렉토라트 헤네랄 | 총국
+het organogram | 헷 오르하노흐람 | 조직도
+de Staatscourant | 더 스타츠쿠란트 | 관보
+interdepartementaal | 인터르데파르트먼탈 | 부처 간의
+inlichten → ingelicht | 인리흐턴 → 인헐리흐트 | 알려 주다, 정보를 주다
+de draaideur | 더 드라이되르 | 회전문 (인사)
+de marktpartij | 더 마르크트파르테이 | 시장 참여자(기업)
+de deelnemerslijst | 더 데일네이머르스레이스트 | 참석자 명단
+de vulpen | 더 퓔펜 | 만년필
+privémodus | 프리베모뒤스 | 비공개 모드
+
+## 문법·표현 정리
+**Wie zat er bij dat overleg? — erbij zitten:** "그 자리에 있다." Wie zat er bij dat overleg?(그 협의에 누가 있었어?) · Ik zat er niet bij.(난 그 자리에 없었어)
+**Dat kan geen toeval zijn — kunnen의 추론:** "~일 리가 없다." Dat kan geen toeval zijn.(그게 우연일 리 없어) · Dat kan niet waar zijn.(그게 사실일 리 없어) ↔ Het kan wel toeval zijn.(우연일 수도 있다)
+**Mijn bron zegt dat hij schoon is — 간접화법:** 남의 말을 전할 때 dat-절 + 현재형. 확인되지 않은 정보임을 표시하는 장치이기도 합니다. Volgens mijn bron is hij schoon.(내 취재원에 따르면 그는 깨끗하다)
+**Hij werkte er vroeger — er(그곳에):** er가 장소(베리타스)를 받습니다. Hij werkte er vroeger.(그는 예전에 거기서 일했다) · Ik ben er nooit geweest.(난 거기 가 본 적 없어)
+**Ik heb me vergist — zich vergissen:** 재귀동사. Ik heb me vergist.(내가 잘못 알았어) · Je vergist je.(네가 착각하는 거야) · Mijn bron heeft zich vergist.
+**iemand verkeerd inlichten(잘못된 정보를 주다):** Hij heeft me verkeerd ingelicht.(그가 나한테 잘못 알려 줬다) · Ik ben goed ingelicht.(나는 정보를 잘 알고 있다)
+**vallen onder(~의 적용을 받다):** vallen onder het lichte toezichtregime(경감된 감독 체계의 적용을 받다) — 7화의 Dat valt onder mijn beroepsgeheim과 같은 구조.
+**tijd besteden aan(~에 시간을 쓰다):** Ik zou niet te veel tijd aan de Ruiter besteden.(더라위터르한테 시간을 너무 많이 쓰지 않겠다) zou = 조언의 완곡 표현.
+**in de weg staan(방해가 되다):** Ik wil niet nog een keer in de weg staan.(또 방해가 되고 싶지 않다) · Sta niet in de weg!(비켜!)
+**sinds + 시점 + 현재형:** Hij rent sinds januari elke donderdag.(1월부터 매주 목요일에 달린다) — 지속은 현재형. 1화의 Ik wacht al jaren과 같은 원리.
+**voor de zekerheid(만일을 위해):** Ik wil erbij zijn. Voor de zekerheid.(같이 가고 싶어요. 만일을 위해서요) · Neem voor de zekerheid een paraplu mee.
+**laten zien dat(~임을 보여 주다):** Ze hebben alleen laten zien dat ze iets te verbergen hebben.(숨길 게 있다는 걸 보여 줬을 뿐이다)
+**공문서 표기:** M.dR = Martijn de Ruiter의 이니셜. 네덜란드 성의 소문자 접두어(de, van, van der)는 성만 쓸 때 대문자로 시작합니다: de Ruiter → De Ruiter(문장 첫머리나 이름 없이 단독으로 쓸 때).
+**Proost!(건배!):** 건배사. Op ons!(우리를 위하여!) · Gezondheid!(건강을 위하여!)
+
+## 취재 노트
+네덜란드에서는 법령·정책 초안을 공개하기 전에 «인터넷 의견 수렴(internetconsultatie)»을 거친다. 공개 전 초안을 특정 기업에 넘기는 것은 공무원의 직무상 비밀 누설에 해당할 수 있다. 민간에서 정부로, 정부에서 민간으로 옮겨 가는 «회전문(draaideur)» 인사는 이해충돌 규정의 대상이다.
+EU 인공지능법(AI Act)은 공공 서비스에 쓰이는 위험 평가 시스템을 «고위험»으로 분류해 엄격한 의무를 부과한다. 달리기 앱의 공개 프로필에서 인물 간 관계를 찾아내는 OSINT 기법은 실제 탐사보도에서 쓰여 왔다. 더라위터르, «알고리즘 감독 초안 4조», 스트라바 기록은 가상이다.
