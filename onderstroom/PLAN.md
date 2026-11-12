@@ -380,7 +380,7 @@ Margreet의 마지막 변명(7부 10화): **"Ik heb deze krant overeind gehouden
 
 | 부 | 상태 | 파일 |
 |---|---|---|
-| 1부 Witte Haven | **샘플 1화 완료** (150턴, 단어 19, 문법 14) | `onderstroom/part1/ep01.txt` → `part1/sample-ep01.docx` |
+| 1부 Witte Haven | **완료** (15화 × 150턴) | `onderstroom/part1/ep01.txt` … `ep15.txt` → `part1/part1-witte-haven.docx` |
 | 2부 Het Algoritme | 기획 완료 | `onderstroom/part2/` (예정) |
 | 3부 Gif | 기획 완료 | `onderstroom/part3/` (예정) |
 | 4부 Silicium | 기획 완료 | `onderstroom/part4/` (예정) |
