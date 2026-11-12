@@ -1,0 +1,352 @@
+# 5부 9화. De kanarieval (카나리아 트랩)
+수준: B2~C1 | 장소: 브람의 집 식탁 → 편집국(짧은 장면들) → 편집장실 → 브람의 집 | 시간: 2028년 3월 첫째 주, 목요일 밤 → 금요일
+핵심 표현: Iedereen krijgt een andere versie · Ook ik? · Ook jij
+
+## 대화
+Femke: (donderdagavond, aan Brams keukentafel, vijf lege vellen papier voor zich) Voor we beginnen: zeg het hardop. Weet je zeker dat je dit wilt?
+(목요일 저녁, 브람의 부엌 식탁에서, 앞에 빈 종이 다섯 장) 시작하기 전에: 소리 내서 말해. 정말 이걸 하고 싶은 거 확실해?
+Bram: Nee. Maar ik weet zeker dat ik niet verder kan zonder het te weten. Dat is niet hetzelfde als willen.
+아니. 그런데 모른 채로는 더 못 간다는 건 확실해. 그건 원하는 거랑은 달라.
+Femke: Dan nog iets. Dit blijft tussen ons twee. Niet omdat ik de anderen wantrouw, maar omdat een lektest waarvan het team weet, geen lektest is.
+그럼 하나 더. 이건 우리 둘 사이에만 남아. 다른 사람들을 못 믿어서가 아니라, 팀이 아는 유출 테스트는 유출 테스트가 아니니까.
+Bram: Begrepen. Maar waarom nu? We hebben drie weken niet aan een mol gedacht.
+알았어. 그런데 왜 지금이야? 우린 삼 주 동안 첩자 생각은 안 했잖아.
+Femke: Door Daan. Een tipgever die "Vuurtoren" heet, betaald door Brugwachter, een paar dagen na "iets". Dat "iets" bleef me wakker houden.
+단 때문이야. "뷔르토런"이라는 제보자, 브뤼흐바흐터가 돈을 주고, "뭔가" 며칠 뒤. 그 "뭔가"가 날 잠 못 들게 했어.
+Bram: Je denkt dat het "iets" onze eigen plannen zijn.
+그 "뭔가"가 우리 계획이라고 생각하는구나.
+Femke: Ik denk niks zeker. Daarom bouwen we de val. Een vermoeden is geen bewijs, en een bewijs begint bij een test die ook fout kan uitpakken.
+확실히는 아무것도 생각 안 해. 그래서 함정을 짓는 거야. 의심은 증거가 아니고, 증거는 틀릴 수도 있는 테스트에서 시작하니까.
+Bram: Fout uitpakken — je bedoelt: leeg blijven.
+틀리게 나온다 — 비어 있는 거 말이지.
+Femke: Precies. Een goede test wil net zo graag onschuld bewijzen als schuld. Wie alleen schuld zoekt, vindt hem altijd, ook waar hij niet is.
+그렇지. 좋은 테스트는 유죄만큼 무죄도 똑같이 증명하고 싶어 해. 유죄만 찾는 사람은 없는 데서도 늘 찾아내거든.
+Bram: (knikt) Daarom doe ik dit met jou en niet alleen.
+(끄덕이며) 그래서 혼자가 아니라 너랑 하는 거야.
+Femke: Goed. Dan leg ik uit hoe een kanarieval werkt. Heel precies, want één fout en we leren niks — of erger, we beschuldigen de verkeerde.
+좋아. 그럼 카나리아 트랩이 어떻게 작동하는지 설명할게. 아주 정확하게. 실수 하나면 아무것도 못 배우거나 — 더 나쁘게는 엉뚱한 사람을 지목하니까.
+Bram: Leg uit.
+설명해 봐.
+Femke: Het idee is simpel. We hebben één verhaal dat we nog niet gepubliceerd hebben. Iets wat Brugwachter graag vooraf zou willen weten. En dat verhaal vertellen we aan iedereen in het team — maar iedereen krijgt een andere versie.
+생각은 단순해. 우린 아직 안 낸 기사가 하나 있어. 브뤼흐바흐터가 미리 알고 싶어 할 만한 것. 그 기사를 팀 전원에게 말하되 — 모두가 다른 버전을 받는 거야.
+Bram: Iedereen krijgt een andere versie.
+모두가 다른 버전을 받는다.
+Femke: Precies. Klein verschil, geen groot verschil. Eén detail dat alleen in die ene versie klopt. Een datum. Een plaats. Een naam die net anders gespeld is.
+그렇지. 큰 차이가 아니라 작은 차이. 그 한 버전에서만 맞는 세부 하나. 날짜. 장소. 철자가 살짝 다른 이름.
+Bram: En als er dan iets naar buiten lekt...
+그럼 뭔가 밖으로 새면...
+Femke: ...dan zit er in dat lek precies één detail. En dat detail hoort bij precies één persoon. De kanarie heeft gezongen, en haar lied verraadt uit welke kooi ze komt.
+...그 유출 안에 세부가 딱 하나 들어 있어. 그리고 그 세부는 딱 한 사람한테 속하지. 카나리아가 노래했고, 그 노래가 어느 새장에서 왔는지 들통나는 거야.
+Bram: Waarom "kanarie"? Waar komt die naam vandaan?
+왜 "카나리아"야? 그 이름은 어디서 온 거야?
+Femke: Mijnwerkers namen vroeger een kanarie mee de mijn in. Zong de vogel niet meer, dan was er gas, en vluchtten ze. De vogel verraadt het gevaar met haar stem.
+예전에 광부들이 카나리아를 데리고 갱도에 들어갔어. 새가 더 안 울면 가스가 있는 거라 도망쳤지. 새가 자기 소리로 위험을 알려 주는 거야.
+Bram: En hier verraadt de kanarie niet het gas, maar de kooi.
+그런데 여기선 카나리아가 가스가 아니라 새장을 들통내는 거네.
+Femke: Precies. Elke versie is een andere kooi. Hoor je het lied buiten, dan weet je welke kooi openstond.
+그렇지. 버전마다 다른 새장이야. 밖에서 노래가 들리면, 어느 새장이 열려 있었는지 아는 거지.
+Bram: Het is een mooi beeld voor iets lelijks.
+추한 걸 두고 참 예쁜 비유네.
+Femke: Dat zijn de beste beelden in dit vak. Ze maken het draaglijk om naar te kijken.
+이 바닥에선 그런 게 제일 좋은 비유야. 바라보는 걸 견딜 만하게 해 주거든.
+Bram: (kijkt naar de vijf vellen) Vijf vellen. Dus vijf mensen.
+(종이 다섯 장을 본다) 다섯 장. 그럼 다섯 명.
+Femke: Noor. Jip. Lucas. Margreet. En jij.
+노르. 집. 뤼카스. 마르흐레이트. 그리고 너.
+Bram: (verrast) Ik? Ik lek niks. Ik ben de hoofdredacteur van dit onderzoek.
+(놀라며) 나? 난 아무것도 안 흘려. 내가 이 취재의 책임자야.
+Femke: Iedereen. Ook jij, ook ik.
+전원. 너도, 나도.
+Bram: Ook ik?
+나도?
+Femke: Ook jij. Niet omdat ik denk dat jij het bent. Maar omdat een val met een gat geen val is. Als één persoon buiten de test staat, dan is dat de eerste naam die een slimme mol zou kiezen om achter te schuilen. Jij geeft jezelf ook een detail dat alleen in jouw hoofd zit. Zo weet je absoluut zeker dat jij het niet bent — ook niet per ongeluk, in een gesprek dat je vergeten was.
+너도. 네가 범인이라고 생각해서가 아니라, 구멍 뚫린 함정은 함정이 아니거든. 한 사람이 테스트 밖에 있으면, 그게 영리한 첩자가 뒤에 숨으려고 제일 먼저 고를 이름이야. 너도 네 머릿속에만 있는 세부 하나를 스스로한테 줘. 그래야 네가 아니라는 걸 절대적으로 확신해 — 잊고 있던 대화에서 실수로조차 아니라는 걸.
+Bram: (langzaam) En jij? Geef jij jezelf er ook een?
+(천천히) 그럼 너는? 너도 너한테 하나 줘?
+Femke: Dat deed ik al. Gisteravond. Ik heb mijn eigen detail opgeschreven en in een envelop bij een advocaat gelegd. Zodat als het mijn versie is die lekt, jij het ziet zonder dat ik het je hoef te vertellen.
+벌써 했어. 어젯밤에. 내 세부를 적어서 변호사한테 봉투째 맡겼어. 새는 게 내 버전이면, 내가 말 안 해도 네가 보도록.
+Bram: (stil) Je hebt jezelf verdacht gemaakt bij een advocaat.
+(침묵) 넌 변호사한테 네 스스로를 용의자로 만들어 놨구나.
+Femke: Ik heb mezelf controleerbaar gemaakt. Dat is het enige verschil tussen een onderzoeker en een verdachte: of je je laat controleren.
+난 나를 확인 가능하게 만든 거야. 조사하는 사람과 용의자의 유일한 차이가 그거야. 자길 확인하게 두느냐 마느냐.
+Bram: (pakt een pen, legt hem weer neer) Dit voelt verkeerd, Femke. Deze mensen vertrouwen mij. Noor kwam hier als stagiair. Jip zou voor me door het vuur gaan. En nu ga ik tegen ze liegen aan mijn eigen keukentafel.
+(펜을 집었다 다시 내려놓는다) 이건 잘못된 것 같아, 펨커. 이 사람들은 날 믿어. 노르는 인턴으로 왔고. 집은 날 위해 불구덩이에도 뛰어들 거야. 그런데 이제 내 부엌 식탁에서 걔네한테 거짓말을 하려는 거잖아.
+Femke: Je liegt niet over wie ze zijn. Je geeft ze een verhaal met een onzichtbare streep eronder. Als niemand lekt, komt er niets naar buiten en heeft niemand ooit iets gemerkt. De val die niemand voelt doet niemand pijn.
+사람됨에 대해 거짓말하는 게 아냐. 보이지 않는 밑줄이 그어진 이야기를 주는 거야. 아무도 안 흘리면 밖으로 아무것도 안 나오고 아무도 뭘 눈치채지 못해. 아무도 못 느끼는 함정은 아무도 아프게 하지 않아.
+Bram: En als iemand wél lekt?
+그런데 누군가 흘리면?
+Femke: Dan heeft die persoon ervoor gekozen. Niet jij. Onthoud dat. Jij hebt niemand tot iets gedwongen. Je hebt alleen een deur opengezet en gekeken wie er doorheen loopt.
+그럼 그건 그 사람이 선택한 거야. 네가 아니라. 그걸 기억해. 넌 아무에게도 뭘 강요 안 했어. 그냥 문 하나를 열어 두고 누가 지나가는지 본 것뿐이야.
+Bram: (ademt uit) Oké. Help me de vijf verhalen bouwen. Ze moeten geloofwaardig zijn. Als ze te glad zijn, ruikt iedereen de val.
+(숨을 내쉰다) 좋아. 다섯 이야기 짜는 거 도와줘. 그럴듯해야 해. 너무 매끄러우면 다들 함정 냄새를 맡아.
+Femke: Daarom bouwen we ze rond het echte verhaal. We hebben het valse alarm, weet je nog? De veertig slapende accounts in Vechtzijl. Dat is echt, en dat weet het team al half. We zeggen tegen iedereen: "We hebben de persoon gevonden die de accounts aanstuurde."
+그래서 진짜 기사를 중심으로 짜. 가짜 경보 기억나? 페흐트자일의 잠자던 계정 마흔 개. 그건 진짜고 팀도 절반쯤은 알아. 다들한테 이렇게 말해. "계정들을 조종한 사람을 찾았다."
+Bram: Maar dat hebben we niet.
+그런데 우린 안 찾았잖아.
+Femke: Nee. En dat is de kracht. Er ís geen persoon, dus er kan niets echt uitlekken — behalve ons verzinsel. Elk verzinsel is net anders. Bij Noor is de ontmoeting op dinsdag in Utrecht. Bij Jip op woensdag in Amersfoort. Bij Lucas op donderdag in Zwolle.
+아니. 그게 바로 힘이야. 그 사람은 존재하지 않으니 진짜로 샐 게 없어 — 우리가 꾸민 것 말고는. 꾸며 낸 것마다 조금씩 달라. 노르한텐 화요일 위트레흐트에서 만남. 집한텐 수요일 아머스포르트에서. 뤼카스한텐 목요일 즈볼러에서.
+Bram: Dag, stad, telkens anders. En als Brugwachter iemand naar "donderdag, Zwolle" stuurt...
+요일, 도시, 매번 다르게. 그럼 브뤼흐바흐터가 "목요일, 즈볼러"로 누굴 보내면...
+Femke: ...dan weten we dat het Lucas' versie was die de reis maakte. Niet dat Lucas het deed — dat Lucas' verháál het deed. Het verschil is alles. We jagen op een lek, niet op een mens.
+...뤼카스 버전이 그 여정을 했다는 걸 아는 거지. 뤼카스가 했다는 게 아니라 — 뤼카스의 이야기가 했다는 거. 그 차이가 전부야. 우린 유출을 쫓지, 사람을 쫓는 게 아냐.
+Bram: (schrijft) En Margreet? Welke dag krijgt zij?
+(적으며) 그럼 마르흐레이트는? 무슨 요일을 받아?
+Femke: Vrijdag. In Den Haag. En dat vertel je haar niet in de wandelgangen. Je loopt haar kantoor in, je sluit de deur, en je rapporteert de hele kanarieval netjes zoals het hoort — behalve de inhoud van de andere vier versies. Je zegt: "Ik zet een lektest op. Dit is jouw versie. Hou hem strikt voor je."
+금요일. 헤이그에서. 그리고 그건 복도에서 말하지 마. 그 사람 사무실에 들어가서 문을 닫고, 카나리아 트랩 전체를 규정대로 깔끔하게 보고해 — 다른 네 버전의 내용만 빼고. 이렇게 말해. "유출 테스트를 설치합니다. 이게 당신 버전입니다. 철저히 함구해 주세요."
+Bram: (stopt met schrijven) Dat is wreed, Femke. Als zij onschuldig is, heb ik mijn eigen baas een valstrik gezet en dat kan ik nooit meer terugnemen.
+(쓰기를 멈춘다) 그건 잔인해, 펨커. 그 사람이 결백하면, 난 내 상사한테 덫을 놓은 거고 그건 영영 못 돌이켜.
+Femke: Als zij onschuldig is, lekt haar versie nooit, en dan weet niemand ooit dat zij in de test zat. Behalve jij en ik. En dan mag je je schamen in stilte en haar nooit iets zeggen. Dat is de prijs. Ik zeg niet dat het geen prijs heeft.
+그 사람이 결백하면 그 버전은 절대 안 새고, 그럼 그 사람이 테스트에 있었다는 걸 아무도 몰라. 너랑 나 말고는. 그땐 조용히 부끄러워하고 영영 아무 말도 안 하면 돼. 그게 대가야. 대가가 없다는 말은 안 해.
+Bram: (zacht) Rapporteren aan de verdachte. Dat is het vreemde. Als zij de mol is, weet ze nu dat er een val staat.
+(작게) 용의자한테 보고하기. 그게 이상해. 그 사람이 첩자면, 이제 함정이 있다는 걸 아는 거잖아.
+Femke: Juist daarom geef je háár ook maar één detail: vrijdag, Den Haag. Als zij de mol is, is dat het enige wat ze kan doorgeven. En áls "vrijdag, Den Haag" bij Brugwachter opduikt terwijl zij de enige was die dat hoorde — dan heb je je antwoord, en het is het antwoord dat je het minst wilt.
+바로 그래서 그 사람한테도 세부를 딱 하나만 줘. 금요일, 헤이그. 그 사람이 첩자면 넘길 수 있는 건 그것뿐이야. 그리고 그걸 들은 사람이 그 사람뿐인데 "금요일, 헤이그"가 브뤼흐바흐터에 뜨면 — 네 답을 얻는 거야. 네가 제일 원하지 않는 답을.
+Bram: (lange stilte) En hoe zien we het aankomen bij Brugwachter? We hebben geen toegang tot hun kantoor.
+(오랜 침묵) 그런데 브뤼흐바흐터에 도착하는 걸 우리가 어떻게 봐? 걔네 사무실에 접근 못 하잖아.
+Femke: Niet het kantoor. De val zelf trekt de reiziger. Op elke "ontmoeting" — vrijdag Den Haag, donderdag Zwolle — zet ik twee dingen klaar. Een camera op afstand bij de afgesproken plek. En een persoon die niet bestaat, met een telefoon die één keer afgaat.
+사무실이 아냐. 함정 자체가 여행자를 끌어와. 각 "만남"마다 — 금요일 헤이그, 목요일 즈볼러 — 내가 두 가지를 준비해 둬. 약속 장소 근처 원격 카메라 하나. 그리고 존재하지 않는 사람, 딱 한 번 울리는 전화 한 대.
+Bram: Je bedoelt: als er op donderdag in Zwolle iemand komt opdagen om die niet-bestaande bron te ontmoeten...
+그러니까: 목요일 즈볼러에 그 존재하지 않는 취재원을 만나러 누가 나타나면...
+Femke: ...dan is Lucas' versie gereisd. We filmen wie er komt. Niet om hem te pakken — om te weten langs welke kooi het lied ging.
+...그럼 뤼카스 버전이 여행한 거야. 오는 사람을 찍어. 그 사람을 잡으려는 게 아니라 — 노래가 어느 새장을 지났는지 알려고.
+Bram: (wrijft over zijn gezicht) Dit is geen journalistiek meer. Dit is wat jij vroeger deed.
+(얼굴을 문지르며) 이건 더 이상 저널리즘이 아냐. 이건 네가 예전에 하던 거야.
+Femke: (rustig) Ja. Dit is precies wat ik vroeger deed. En ik ben ermee gestopt omdat ik niet meer wilde weten wie mensen écht zijn. Het is een zwaar soort weten, Bram. Je kunt het niet meer afleren.
+(차분히) 응. 이건 딱 내가 예전에 하던 거야. 그리고 난 사람이 진짜 어떤지 더는 알고 싶지 않아서 그만뒀어. 그건 무거운 종류의 앎이야, 브람. 다시 모르게 될 수가 없어.
+Bram: Waarom help je me er dan weer in?
+그럼 왜 날 거기 다시 끌어들여?
+Femke: Omdat jij het anders alleen zou doen, slecht, en jezelf kapot zou maken. Als er dan toch iemand een wapen uit de kast haalt, dan liever iemand die weet hoe je het weer veilig opbergt.
+안 그러면 네가 혼자, 서툴게 하다가 널 망가뜨릴 테니까. 어차피 누가 벽장에서 무기를 꺼낼 거면, 그걸 다시 안전하게 넣는 법을 아는 사람이 낫지.
+Bram: (knikt langzaam, pakt de pen weer) Goed. Vel één. Noor.
+(천천히 끄덕이고 다시 펜을 든다) 좋아. 첫 장. 노르.
+Femke: Noor krijgt: dinsdag, Utrecht, café bij het station. De bron is "een vrouw van rond de vijftig." Onthoud: bij Noor is het een vróuw.
+노르는: 화요일, 위트레흐트, 역 옆 카페. 취재원은 "쉰쯤 된 여자." 기억해. 노르한텐 여자야.
+Bram: (schrijft) Vrouw, vijftig, Utrecht, dinsdag. Vel twee. Jip.
+(적으며) 여자, 쉰, 위트레흐트, 화요일. 둘째 장. 집.
+Femke: Jip krijgt: woensdag, Amersfoort, een parkeerplaats. De bron is "een man met een grijze jas." Bij Jip is het een mán.
+집은: 수요일, 아머스포르트, 주차장. 취재원은 "회색 외투를 입은 남자." 집한텐 남자야.
+Bram: (schrijft) En Lucas.
+(적으며) 그리고 뤼카스.
+Femke: Lucas: donderdag, Zwolle, de bibliotheek. De bron "belt vooraf met een afgeschermd nummer." Dat detail — het afgeschermde nummer — krijgt alleen Lucas.
+뤼카스: 목요일, 즈볼러, 도서관. 취재원이 "비공개 번호로 미리 전화한다." 그 세부 — 비공개 번호 — 는 뤼카스만 받아.
+Bram: (stopt) Waarom juist bij Lucas iets extra's? Dat voelt alsof je hem al...
+(멈춘다) 왜 하필 뤼카스한테 추가 세부를? 벌써 그를...
+Femke: Nee. Elke versie krijgt één uniek extra. Noor de vrouw, Jip de man, Lucas het nummer, Margreet de stad Den Haag, jij... iets wat je mij zo meteen zelf influistert zodat zelfs ik het niet opschrijf. Vijf sloten, vijf sleutels. Geen van allen groter dan de ander.
+아니. 모든 버전이 고유한 추가 하나씩 받아. 노르는 여자, 집은 남자, 뤼카스는 번호, 마르흐레이트는 헤이그라는 도시, 너는... 이따가 나한테 직접 속삭여서 나조차 안 적게 할 뭔가. 자물쇠 다섯, 열쇠 다섯. 어느 것도 다른 것보다 크지 않아.
+Bram: (schaamt zich bijna) Sorry. Ik zoek al een schuldige voor de val klaarstaat.
+(거의 부끄러워하며) 미안. 함정이 준비되기도 전에 벌써 범인을 찾고 있네.
+Femke: Dat is menselijk. En dat is precies waarom we dit meten en niet voelen. Een gevoel beschuldigt Lucas omdat hij twee telefoons had. Een val beschuldigt alleen wie door de deur loopt.
+그게 사람이지. 그리고 그게 바로 우리가 이걸 느끼지 않고 재는 이유야. 느낌은 뤼카스가 폰을 두 대 가졌다고 그를 의심해. 함정은 문으로 걸어 들어오는 사람만 의심하지.
+Bram: (knikt) Nog iets wat me dwarszit. Als Brugwachter slim is — en dat zijn ze — ruiken ze een val. Vijf losse ontmoetingen in vijf steden in één week?
+(끄덕이며) 아직 걸리는 게 하나 더. 브뤼흐바흐터가 영리하면 — 그렇고 — 함정 냄새를 맡아. 한 주에 다섯 도시에서 따로따로 다섯 만남?
+Femke: Daarom lekt niet het team alles tegelijk. We laten de versies op verschillende dagen vallen, in losse gesprekken, alsof het per ongeluk gaat. "O ja, ik moet donderdag naar Zwolle, vervelend." Terloops. Een val die naar een val ruikt is al mislukt.
+그래서 팀이 전부를 동시에 흘리는 게 아냐. 버전들을 다른 날에, 따로따로 대화에서, 우연인 것처럼 떨어뜨려. "아 맞다, 나 목요일에 즈볼러 가야 해, 귀찮게." 지나가듯. 함정 냄새가 나는 함정은 이미 실패한 거야.
+Bram: (legt de pen neer, kijkt naar de vijf vellen naast elkaar) Vijf namen. Vier mensen van wie ik hou en één die ik dertig jaar ken. En ik hoop met heel mijn hart dat alle vijf de vellen leeg blijven.
+(펜을 내려놓고 나란히 놓인 다섯 장을 본다) 다섯 이름. 내가 아끼는 네 사람과 삼십 년을 알고 지낸 한 사람. 그리고 난 다섯 장이 전부 비어 있기를 온 마음으로 바라.
+Femke: Dat hoop ik ook. Een lege val is het beste nieuws dat er bestaat. Dan was het geen van hen, en zoeken we buiten.
+나도 그래. 빈 함정이 세상에서 제일 좋은 소식이야. 그럼 걔네 중 아무도 아니었던 거고, 우린 밖에서 찾는 거지.
+Bram: En als hij niet leeg blijft?
+그런데 안 비어 있으면?
+Femke: Dan heb je iets ergs geleerd op een nette manier. Dat is nog altijd beter dan iets ergs nooit weten, of het op een lelijke manier ontdekken, te laat, als iemand gewond is.
+그럼 끔찍한 걸 깔끔한 방식으로 안 거야. 그건 끔찍한 걸 영영 모르거나, 추하게, 누가 다친 뒤 너무 늦게 알아내는 것보단 늘 나아.
+Bram: (heel zacht) Zoals Keizer. Te laat.
+(아주 작게) 케이스처럼. 너무 늦게.
+Femke: (kijkt hem aan, zegt niets een tel) Zoals Keizer. Daarom doen we het netjes, op tijd, met vijf vellen op een keukentafel in plaats van met gok en woede.
+(그를 바라보며 한 박자 침묵) 케이스처럼. 그래서 우린 깔끔하게, 제때, 어림짐작과 분노가 아니라 부엌 식탁 위 다섯 장으로 하는 거야.
+Bram: (schuift zijn stoel naar achteren) Ik fluister je mijn eigen detail nu in. Daarna schrijf jij niks. Het blijft tussen mijn oor en jouw geheugen.
+(의자를 뒤로 민다) 내 세부를 지금 너한테 속삭일게. 그다음 넌 아무것도 안 적어. 그건 내 입과 네 기억 사이에만 남아.
+Femke: (buigt zich naar hem toe) Zeg maar.
+(그에게 몸을 기울인다) 말해.
+Bram: (fluistert onhoorbaar; dan weer rechtop) Heb je het?
+(들리지 않게 속삭인다; 그런 뒤 다시 똑바로) 됐어?
+Femke: Ik heb het. En ik vergeet het nooit, en ik zeg het nooit. Als jouw detail ooit bij Brugwachter opduikt, Bram, dan ligt het aan jou of aan mij. Aan niemand anders. Zo zuiver is deze val.
+됐어. 그리고 절대 안 잊고 절대 말 안 해. 네 세부가 언젠가 브뤼흐바흐터에 뜨면, 브람, 그건 너 아니면 나야. 다른 누구도 아니라. 이 함정은 그만큼 순수해.
+Bram: (even een flauwe glimlach) Dus nu verdenken wij elkaar ook.
+(살짝 희미한 미소) 그럼 이제 우리 둘도 서로를 의심하네.
+Femke: Nee. Nu kunnen wij elkaar eindelijk vrijspreken. Verdenking die je kunt toetsen is geen verdenking meer. Het is bijna een vorm van vertrouwen.
+아니. 이제 우리가 드디어 서로를 무죄로 풀어 줄 수 있는 거야. 검증할 수 있는 의심은 더 이상 의심이 아냐. 그건 거의 신뢰의 한 형태지.
+Bram: (vrijdagochtend, op de redactie, loopt langs Noors bureau) Noor, heb je even? Ik vertel je iets, maar hou het nog strikt voor je. We hebben de vrouw gevonden die de accounts aanstuurde. Dinsdag zie ik haar, Utrecht, café bij het station.
+(금요일 아침, 편집국, 노르의 책상 옆을 지나며) 노르, 잠깐 돼? 하나 말해 줄게, 근데 아직 철저히 함구해. 계정들을 조종한 여자를 찾았어. 화요일에 만나, 위트레흐트, 역 옆 카페.
+Noor: (fluistert terug) Een vrouw? Eindelijk een gezicht. Mag ik mee?
+(속삭여 되묻는다) 여자요? 드디어 얼굴이 생기네요. 저도 같이 가요?
+Bram: (met pijn in zijn stem die hij verbergt) Deze keer alleen. Ze vertrouwt maar één persoon. Hou het binnen.
+(숨기지만 목소리에 아픔이 밴 채로) 이번엔 혼자. 그 여자는 딱 한 사람만 믿어. 네 선에서 지켜.
+Noor: (knikt ernstig) Natuurlijk. Succes, Bram.
+(진지하게 끄덕인다) 당연하죠. 잘돼요, 브람.
+Bram: (nog even) Noor — als iemand ernaar vraagt, wie dan ook: niks zeggen. Ook niet dat er een ontmoeting is.
+(잠깐 더) 노르 — 누가 물어보면, 누구든: 아무 말 마. 만남이 있다는 것도.
+Noor: Ik snap het. Geheim betekent geheim. (lacht) Je kent me — ik verklap nog geen verjaardagscadeau.
+알겠어요. 비밀은 비밀이죠. (웃으며) 저 아시잖아요 — 생일 선물도 안 흘려요.
+Bram: (glimlacht met moeite) Dat weet ik, Noor. Dat is juist het punt.
+(힘겹게 미소 지으며) 알아, 노르. 그게 바로 핵심이야.
+Noor: (al weer naar haar scherm) Dinsdag duim ik voor je. Eindelijk een gezicht achter al die accounts.
+(벌써 화면으로 돌아가며) 화요일에 응원할게요. 드디어 그 많은 계정 뒤에 얼굴이 생기네요.
+Bram: (bij Jips bureau, zachter) Jip. Onder ons. De man achter de accounts — ik ontmoet hem woensdag, Amersfoort, op een parkeerplaats. Grijze jas. Zeg niets, ook niet tegen Noor.
+(집의 책상에서, 더 작게) 집. 우리끼리만. 계정 배후의 남자 — 수요일에 만나, 아머스포르트, 주차장에서. 회색 외투. 아무 말도 하지 마, 노르한테도.
+Jip: (ogen groot) Een man? Wauw. Hoe heb je hem...? Nee, laat maar. Ik zeg niks. Echt niks.
+(눈이 커지며) 남자요? 와. 어떻게 그를...? 아니, 됐어요. 아무 말 안 할게요. 진짜 아무 말도.
+Bram: (even zijn hand op Jips schouder, schuldig) Goed zo. Ik reken op je.
+(잠시 집의 어깨에 손을 얹으며, 죄책감에) 좋아. 너만 믿는다.
+Jip: (zacht, ernstig) Bram, mag ik iets vragen? Waarom ik de man en niet Noor? Normaal doen we dit soort dingen samen.
+(작게, 진지하게) 브람, 하나 물어도 돼요? 왜 노르 말고 저예요? 보통 이런 건 같이 하잖아요.
+Bram: (even uit het veld geslagen, herstelt) Omdat jij beter bent met cijfers, en deze man praat in bedragen. Ik heb jouw hoofd nodig.
+(잠깐 당황했다가 추스르며) 넌 숫자에 더 밝고, 이 남자는 금액으로 말하거든. 네 머리가 필요해.
+Jip: (trots, gerustgesteld) Oké. Cijfers kan ik. (zachter) Ik laat je niet vallen.
+(뿌듯하고 안심하며) 알았어요. 숫자는 제가 하죠. (더 작게) 실망 안 시킬게요.
+Bram: (slikt) Dat weet ik, jongen.
+(침을 삼키며) 알아, 녀석.
+Lucas: (komt net binnen met zijn camera) Bram! Je wilde me spreken?
+(마침 카메라를 들고 들어오며) 브람! 저 보자고 하셨죠?
+Bram: (haalt diep adem, houdt zijn stem gewoon) Ja. Loop even mee naar de gang. (zachter, in de gang) De bron belt donderdag vooraf, met een afgeschermd nummer. Dan hoor ik waar in Zwolle. Bibliotheek, waarschijnlijk. Ik wil dat jij stand-by staat met de camera, maar nog niemand mag het weten.
+(깊게 숨을 들이쉬고 목소리를 평범하게 유지하며) 응. 복도로 잠깐 나와. (더 작게, 복도에서) 취재원이 목요일에 비공개 번호로 미리 전화해. 그럼 즈볼러 어디인지 들어. 아마 도서관. 네가 카메라 들고 대기해 줬으면 하는데, 아직 아무도 몰라야 해.
+Lucas: (knikt gretig) Afgeschermd nummer, donderdag, Zwolle. Genoteerd — nou ja, niet genoteerd, hier. (tikt tegen zijn slaap) Je kunt op me rekenen, Bram. Echt. Na alles wil ik dit goeddoen.
+(열심히 끄덕이며) 비공개 번호, 목요일, 즈볼러. 적어 뒀어요 — 아니, 안 적고, 여기. (관자놀이를 톡톡 친다) 저만 믿으세요, 브람. 진짜요. 다 겪고 나서 이번엔 잘하고 싶어요.
+Bram: (dwingt een glimlach) Dat weet ik, Lucas. Dat weet ik.
+(억지로 미소 지으며) 알아, 뤼카스. 알아.
+Lucas: (aarzelt) Mag ik... één ding zeggen? Ik weet dat er dingen zijn misgegaan. Die twee telefoons, in de Silicium-zaak. Ik had het moeten uitleggen, en ik deed het niet, en dat kleeft nog aan me.
+(망설이며) 하나... 말해도 돼요? 뭔가 틀어진 게 있다는 거 알아요. 그 폰 두 대, 실리시움 건에서. 설명했어야 했는데 안 했고, 그게 아직 저한테 들러붙어 있어요.
+Bram: (zijn maag draait om) Dat hoeft nu niet, Lucas.
+(속이 뒤틀린다) 지금은 안 해도 돼, 뤼카스.
+Lucas: Jawel. Ik wil dat je weet: ik heb nooit iemand buiten het team iets verteld. Nooit. Wat je ook hoort.
+아뇨. 알아 주셨으면 해요. 저 팀 밖 누구한테도 아무 말 한 적 없어요. 한 번도요. 뭘 들으시든.
+Bram: (kan hem bijna niet aankijken) Ik hoor niks, Lucas. Ik geef je gewoon een opdracht.
+(그를 거의 못 쳐다본다) 아무것도 안 들어, 뤼카스. 그냥 일 하나 맡기는 거야.
+Lucas: (opgelucht) Goed. Donderdag, Zwolle, afgeschermd nummer. Ik ben er. (weg)
+(안도하며) 좋아요. 목요일, 즈볼러, 비공개 번호. 저 갈게요. (떠난다)
+Bram: (alleen in de gang, zacht) Vergeef me dat ik je net dat ene detail gaf.
+(복도에 혼자, 작게) 하필 그 세부를 네게 준 걸 용서해 줘.
+Margreet: (in haar kantoor, als Bram binnenkomt en de deur sluit) Je sluit de deur. Dat doe je bijna nooit. Zeg het eens.
+(사무실에서, 브람이 들어와 문을 닫자) 문을 닫네. 거의 안 그러잖아. 말해 봐.
+Bram: Ik zet een lektest op. Een kanarieval. Omdat telkens als we dicht bij iets komen, het aan de overkant al bekend lijkt.
+유출 테스트를 설치합니다. 카나리아 트랩이요. 우리가 뭔가에 가까워질 때마다 건너편에선 이미 아는 것 같아서요.
+Margreet: (leunt achterover, kalm) Een kanarieval. Dus je verdenkt je eigen team.
+(의자에 기대며, 침착하게) 카나리아 트랩. 그럼 네 팀을 의심하는 거네.
+Bram: Ik verdenk niemand. Ik meet. Dat is het verschil, zei iemand me. Iedereen in het team krijgt een iets andere versie van hetzelfde verhaal.
+전 아무도 의심 안 합니다. 재는 겁니다. 그게 차이라고 누가 그러더군요. 팀 전원이 같은 이야기의 조금씩 다른 버전을 받습니다.
+Margreet: Iedereen. Ook ik?
+전원. 나도?
+Bram: (kijkt haar recht aan) Ook jij.
+(그녀를 똑바로 본다) 당신도요.
+Margreet: (een stilte; dan, bijna geamuseerd) Je verdenkt dus ook mij. Dertig jaar, en je legt een val onder mijn stoel.
+(침묵; 그런 뒤 거의 재미있다는 듯) 그럼 나도 의심하는 거네. 삼십 년인데, 내 의자 밑에 함정을 놓는구나.
+Bram: Niet onder jouw stoel in het bijzonder. Onder alle stoelen, tegelijk, inclusief de mijne. Een val met een uitzondering is geen val. Dat heb ik geleerd.
+특별히 당신 의자 밑만은 아닙니다. 모든 의자 밑에, 동시에, 제 것까지 포함해서요. 예외가 있는 함정은 함정이 아니거든요. 그걸 배웠습니다.
+Margreet: (lang, onleesbaar; dan knikt ze) Goed. Het is professioneel. Ik had het zelf moeten voorstellen. Wat is mijn versie?
+(길게, 읽을 수 없게; 그런 뒤 끄덕인다) 좋아. 전문적이야. 내가 먼저 제안했어야 했는데. 내 버전은 뭐야?
+Bram: De bron, een persoon achter de accounts, ontmoet ik vrijdag. In Den Haag. Dat is alles wat jij hebt: vrijdag, Den Haag. Hou het strikt voor je. Deel het met niemand, ook niet met de uitgever, ook niet als iemand ernaar vraagt.
+취재원, 계정 배후의 한 사람을 금요일에 만납니다. 헤이그에서요. 당신이 가진 건 그게 전부입니다. 금요일, 헤이그. 철저히 함구해 주세요. 누구와도 공유하지 마세요, 발행인한테도, 누가 물어도요.
+Margreet: (noteert niks, herhaalt niks hardop) Vrijdag. Den Haag. Begrepen. (glimlacht dun) En nu zit ik dus te wachten of mijn eigen naam oplicht. Weet je hoe dat voelt, Bram?
+(아무것도 안 적고, 큰 소리로 되뇌지도 않는다) 금요일. 헤이그. 알겠어. (엷게 미소 짓는다) 그럼 이제 난 내 이름이 켜지는지 기다리는 거네. 그게 어떤 기분인지 알아, 브람?
+Bram: (eerlijk) Nee. En ik hoop dat ik het nooit hoef te weten, omdat jouw vel leeg blijft.
+(솔직하게) 모릅니다. 그리고 당신 장이 비어 있어서 제가 영영 몰라도 되기를 바랍니다.
+Margreet: Mag ik vragen van wie je deze methode hebt? Dit is niet jouw stijl, Bram. Jij vertrouwt mensen tot het pijn doet.
+이 방법을 누구한테서 배웠는지 물어도 돼? 이건 네 스타일이 아냐, 브람. 넌 아플 때까지 사람을 믿잖아.
+Bram: (voorzichtig) Van iemand met ervaring. Meer zeg ik niet.
+(조심스럽게) 경험 있는 사람한테서요. 그 이상은 말 안 합니다.
+Margreet: Femke. Natuurlijk. De infiltrant. (een korte, scherpe blik) Weet je zeker dat je háár vertrouwt, uitgerekend bij een test over vertrouwen?
+펨커구나. 그렇겠지. 잠입 요원. (짧고 날카로운 시선) 하필 신뢰에 관한 테스트에서, 그 사람을 믿는 거 확실해?
+Bram: Ze zit zelf in de test, Margreet. Met een detail bij een advocaat. Ze heeft zichzelf controleerbaar gemaakt.
+그 사람도 테스트 안에 있어요, 마르흐레이트. 세부를 변호사한테 맡기고요. 자길 확인 가능하게 만들었어요.
+Margreet: (langzaam) Slim. Heel slim. De persoon die zichzelf als eerste verdacht maakt, lijkt het minst verdacht. Dat is een oud trucje, Bram. Let daarop.
+(천천히) 영리해. 아주 영리해. 자길 제일 먼저 용의자로 만드는 사람이 가장 덜 의심스러워 보이지. 그건 오래된 수법이야, 브람. 주의해.
+Bram: (stil; dat is exact wat Femke over Margreet zelf zei) Ik let overal op. Dat is de hele bedoeling van deze week.
+(침묵; 그건 펨커가 마르흐레이트 본인을 두고 한 말과 똑같다) 전 모든 걸 주의해요. 그게 이번 주의 목적 전부니까요.
+Margreet: (glimlacht dun) Goed geantwoord. Je leert snel.
+(엷게 미소 지으며) 잘 답했어. 빨리 배우는구나.
+Bram: Van goede leraren.
+좋은 스승들한테서요.
+Margreet: (zacht, bijna warm) Dat is het aardigste dreigement dat ik ooit heb gekregen. Ga maar. Zet je val. En Bram — wie het ook is, of niemand: je hebt het juiste gedaan door te meten in plaats van te gokken.
+(작게, 거의 따뜻하게) 내가 받은 협박 중에 제일 다정한 협박이네. 가 봐. 함정을 놔. 그리고 브람 — 누구든, 아무도 아니든: 넌 어림짐작 대신 재기로 한 걸로 옳게 한 거야.
+Bram: (bij de deur, draait zich om) Waarom zeg je dat zo?
+(문가에서 돌아선다) 왜 그렇게 말해?
+Margreet: Omdat ik dertig jaar lang je redacteur ben geweest en ik je ken. Je gaat vannacht niet slapen. Ik wil dat je weet dat dit — wat er ook uitkomt — geen verraad is. Dit is zorg.
+삼십 년을 네 편집자로 지냈고 널 아니까. 넌 오늘 밤 못 잘 거야. 이게 — 뭐가 나오든 — 배신이 아니라는 걸 알았으면 해. 이건 돌봄이야.
+Bram: (vrijdagavond, weer thuis, belt Femke) Het staat. Alle vijf de versies zijn verteld. Noor de vrouw, Jip de man, Lucas het nummer, Margreet Den Haag, ik mijn eigen woord.
+(금요일 저녁, 다시 집에서 펨커에게 전화한다) 다 설치됐어. 다섯 버전 전부 전달했어. 노르는 여자, 집은 남자, 뤼카스는 번호, 마르흐레이트는 헤이그, 나는 내 단어.
+Femke: (door de telefoon) En de camera's en de niet-bestaande bronnen staan klaar op alle vijf de plekken. Nu doen we het moeilijkste wat er is.
+(전화기 너머로) 그리고 카메라와 존재하지 않는 취재원들을 다섯 장소에 다 준비해 놨어. 이제 세상에서 제일 어려운 걸 하는 거야.
+Bram: Namelijk?
+그게 뭔데?
+Femke: Niks. We wachten. We kijken wie er op welke dag in welke stad opduikt. En tot die tijd behandelen we iedereen precies zoals altijd. Dat is de zwaarste rol: gewoon blijven doen.
+아무것도. 기다려. 무슨 요일 어느 도시에 누가 나타나는지 봐. 그때까지 우린 모두를 늘 하던 대로 정확히 대해. 그게 제일 힘든 역할이야. 그냥 하던 대로 계속하기.
+Bram: Hoelang?
+얼마나?
+Femke: Dinsdag begint het. Utrecht, Noors dag. En dan tellen we af, kooi voor kooi, tot vrijdag. Vier dagen waarin ik hoop dat er nergens iemand komt.
+화요일에 시작해. 위트레흐트, 노르의 날. 그리고 새장 하나씩, 금요일까지 세어 내려가. 어디에도 아무도 안 오기를 바라는 나흘.
+Bram: En als er wél iemand komt — hoe weten we zeker dat het onze reiziger is en geen toevallige voorbijganger?
+그런데 정말 누가 오면 — 그 사람이 우연한 행인이 아니라 우리 여행자라는 걸 어떻게 확신해?
+Femke: Omdat niemand op dat exacte uur, op die exacte plek, een bron komt ontmoeten die niet bestaat — tenzij hij ernaartoe is gestuurd. Toeval komt niet met een afspraak.
+그 정확한 시각, 정확한 장소에, 존재하지도 않는 취재원을 만나러 오는 사람은 없거든 — 누가 보내지 않는 한. 우연은 약속을 잡고 오지 않아.
+Bram: "Toeval bestaat niet." Dat zei de kustwacht in Den Helder ook, drie weken geleden.
+"우연은 없다." 삼 주 전 덴헬더르 해안경비대도 그렇게 말했지.
+Femke: Het is dezelfde zaak, Bram. Van de eerste kabel tot deze keukentafel. Eén lijn.
+같은 사건이야, 브람. 첫 케이블부터 이 부엌 식탁까지. 한 줄.
+Bram: En die lijn loopt nu misschien door mijn eigen redactie.
+그리고 그 줄이 어쩌면 지금 내 편집국을 지나는 거고.
+Femke: Misschien. Of hij loopt eromheen en we bewijzen vrijdag dat het niemand van ons is. Dat zou de mooiste vrijdag van het jaar zijn.
+어쩌면. 아니면 그 줄이 우릴 비껴가고 금요일에 우리 중 아무도 아니라는 걸 증명하는 거지. 그럼 올해 가장 아름다운 금요일일 거야.
+Bram: Ik durf er niet op te hopen.
+그걸 바랄 엄두가 안 나.
+Femke: Hoop zachtjes. Verwacht niks. Dat is de houding voor deze vier dagen.
+조용히 바라고. 아무것도 기대하진 마. 그게 이 나흘의 자세야.
+Bram: En jij, Femke? Slaap jij vannacht?
+그럼 너는, 펨커? 넌 오늘 밤 자?
+Femke: Ik heb jaren niet geslapen in weken als deze. Je went eraan. Dat is het ergste wat eraan went.
+이런 주간엔 몇 년을 못 잤어. 익숙해져. 그게 익숙해지는 것 중 제일 나빠.
+Bram: (bij het raam, kijkt naar de lichten van de stad) Vier dagen. (stil) Femke, als op een van die dagen iemand komt opdagen — beloof me dan één ding.
+(창가에서 도시의 불빛을 본다) 나흘. (침묵) 펨커, 그 나흘 중 하루에 누가 나타나면 — 한 가지만 약속해.
+Femke: Wat?
+뭘?
+Bram: Dat we eerst kijken, en pas daarna oordelen. Dat we niet meteen een mens veroordelen omdat zijn verhaal is gereisd. Mensen zijn groter dan hun ene fout.
+먼저 보고, 그다음에야 판단하자고. 누군가의 이야기가 여행했다고 그 사람을 곧바로 단죄하지 말자고. 사람은 자기 실수 하나보다 커.
+Femke: (stilte aan de lijn; dan zacht) Dat beloof ik. Eerst kijken. Welterusten, Bram. Probeer te slapen.
+(수화기 너머 침묵; 그런 뒤 작게) 약속할게. 먼저 보기. 잘 자, 브람. 자 보려고 해 봐.
+Bram: (legt neer, blijft bij het raam staan, zegt tegen niemand) Blijf alsjeblieft leeg. Alle vijf.
+(전화를 끊고 창가에 선 채, 아무에게도 아니게 말한다) 제발 비어 있어 줘. 다섯 장 전부.
+
+## 주요 단어
+de kanarieval — 카나리아 트랩(유출자 색출 함정)
+de versie — 버전, 판본
+het verzinsel — 지어낸 이야기, 꾸며 낸 것
+de lektest — 유출 테스트
+het lek — 누수, (정보) 유출
+lekken — 새다, 흘리다
+afgeschermd — 비공개의, 가려진(번호 등)
+terloops — 지나가듯, 무심한 척
+geloofwaardig — 그럴듯한, 믿을 만한
+de verdachte — 용의자
+verdenken — 의심하다
+vrijspreken — 무죄로 하다, 혐의를 풀다
+toetsen — 검증하다, 시험하다
+de kooi — 새장, 우리
+meten — 재다, 측정하다
+gokken — 어림짐작하다, 도박하다
+dwarszitten — (마음에) 걸리다, 거슬리다
+influisteren — 귓속말로 알려 주다
+stand-by staan — 대기하다
+veroordelen — 단죄하다, 유죄 판결하다
+
+## 문법·표현 정리
+Iedereen krijgt een andere versie — "모두가 다른 버전을 받는다": iedereen(단수 취급) + 현재형으로 규칙·원리 진술
+Ook ik? / Ook jij — ook + 대명사의 최소 응답으로 긴장을 압축(나도? / 너도)
+een val met een gat is geen val — "구멍 있는 함정은 함정이 아니다": A met B is geen A 형식의 격언식 정의
+Niet omdat…, maar omdat… — "~라서가 아니라 ~라서": 이유를 부정·정정하는 대조 구문
+zodat je zeker weet dat jij het niet bent — zodat(목적) + dat절, 강조의 jij
+De val die niemand voelt doet niemand pijn — 관계절 주어 + 일반화된 현재, 두 개의 niemand로 대칭
+Het verschil is alles — 짧은 단정으로 핵심 강조
+alsof het per ongeluk gaat — alsof + 직설법, "우연인 척"의 위장 화법
+of je je laat controleren — zich laten + 동사원형(남이 ~하게 두다)으로 수동적 허용
+Verdenking die je kunt toetsen is geen verdenking meer — 관계절 + geen…meer(더는 ~아니다)의 역설
+Mensen zijn groter dan hun ene fout — 비교급 groter dan + 소유대명사, 윤리적 일반화
+wie het ook is, of niemand — wie…ook(누구든) + of niemand(아니면 아무도)의 양보 병치
+Dit is geen verraad, dit is zorg — geen A, (maar) B의 재정의로 행위의 의미를 바꿈
+Blijf alsjeblieft leeg — 사물(vel)을 향한 명령형으로 인물의 간절함을 드러내는 수사
+
+## 취재 노트
+🗞️ 이 화는 «카나리아 트랩(canary trap)»의 작동 원리를 정확히 보여 준다. 실존하는 방첩·보안 기법으로, 조직 안에 정보 유출자가 의심될 때 구성원마다 조금씩 다른(대개 허위인) 정보를 흘린 뒤, 외부로 어떤 버전이 새어 나가는지로 출처를 역추적한다. 여기서 핵심 윤리 장치는 세 가지다. ① 꾸며 낸 내용을 흘리므로 "진짜 정보"는 유출되지 않는다(아무도 다치지 않는 함정). ② 설계자(브람)와 제안자(펨커)도 테스트 대상에 포함된다 — 예외가 있는 함정은 "영리한 첩자가 숨을 자리"를 만든다. ③ 펨커는 자기 세부를 변호사 봉투에 넣어 "확인 가능하게" 만든다("조사자와 용의자의 차이는 자길 확인하게 두느냐").
+
+🗞️ 작품은 "사람을 쫓는 것"과 "유출을 쫓는 것"을 의도적으로 구분한다. 펨커의 반복되는 원칙 — "뤼카스가 했다는 게 아니라 뤼카스의 '이야기'가 여행했다는 것" — 은 다음 화들(11~13화)에서 뤼카스가 누명을 쓰는 비극의 복선이자, 동시에 그 비극을 피할 수 있었던 윤리적 기준으로 기능한다. 브람이 마지막에 받아 내는 약속("먼저 보고, 그다음에 판단하자")은 결말의 오심과 대비된다.
+
+🗞️ 극적 아이러니: 브람은 마르흐레이트에게 함정을 "규정대로" 보고하고 승인받는다. 마르흐레이트의 반응("내가 먼저 제안했어야 했다", "이건 배신이 아니라 돌봄이다")은 결백한 상사의 품격으로도, 덫을 미리 파악한 진짜 첩자의 침착함으로도 읽히도록 양면적으로 썼다. 그녀가 받은 유일한 세부는 «금요일, 헤이그» — 이 단서가 뒤에서 어떻게 움직이는지가 5-1장(진짜 유출 구조)의 핵심이다.
+
+🗞️ 연속성: 다섯 버전의 고유 표지 — 노르=여자/화요일/위트레흐트, 집=남자/수요일/아머스포르트, 뤼카스=비공개 번호/목요일/즈볼러, 마르흐레이트=헤이그/금요일, 브람=자기만 아는 단어 — 는 뒤 화에서 "어느 버전이 샜는가"를 가리는 장치다. «케이스(Keizer)»의 죽음("너무 늦게")이 함정을 "제때, 깔끔하게" 하려는 동기로 명시적으로 연결된다. 모든 인물·취재원·장소는 가상이다.
