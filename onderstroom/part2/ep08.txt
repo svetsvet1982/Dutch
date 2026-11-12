@@ -1,0 +1,346 @@
+# 2부 8화. Het datalek (데이터 유출)
+수준: 중상급 (B2) | 장소: 편집국(금요일 밤) → 노르트의 Bram 집 → 베리타스 구내식당 → 지하 주차장 → 파티마 이모 집 | 시간: 2027년 3월, 금요일 밤 → 화요일
+핵심 표현: Waar komen deze gegevens vandaan? · Dat is strafbaar · We kunnen het niet publiceren zonder… · Niet vragen · Ze moeten het binnen 72 uur melden
+
+## 대화
+Jip: (alleen op de redactie, vrijdagnacht, in het licht van drie schermen) Kom op… kom op… (typt) Daar ben je.
+(금요일 밤, 혼자 편집국에서, 모니터 세 개의 불빛 속에서) 자… 자… (입력하며) 찾았다.
+Bram: (komt binnen met twee pizzadozen) Jip, het is half twaalf. Waarom belde je?
+(피자 상자 두 개를 들고 들어오며) 입, 열한 시 반이야. 왜 전화했어?
+Jip: Omdat je dit moet zien voordat ik ga denken dat ik gek ben.
+내가 미쳤다고 생각하기 전에 형이 이걸 봐야 하니까요.
+Bram: (zet de pizza's neer) Wat is het?
+(피자를 내려놓으며) 뭔데?
+Jip: Een forum op het darkweb. Hier verkopen mensen gestolen data. Creditcards, wachtwoorden, medische dossiers.
+다크웹 포럼이에요. 여기서 사람들이 훔친 데이터를 팔아요. 신용카드, 비밀번호, 의료 기록.
+Bram: Je hebt toch niets gekocht?
+설마 뭘 산 건 아니지?
+Jip: Natuurlijk niet. Dat is strafbaar. Ik kijk alleen. (wijst naar een scherm) Dit is gisteren geplaatst. "NL gemeenten — bijstand 2025 — 1,2 miljoen records. Volledig. Met BSN."
+당연히 아니죠. 그건 범죄예요. 그냥 보기만 하는 거예요. (화면 하나를 가리키며) 이게 어제 올라왔어요. "네덜란드 지자체 — 생계 보조금 2025 — 120만 건. 전체. 시민번호 포함."
+Bram: (gaat zitten) Eén komma twee miljoen. Met burgerservicenummer?
+(앉으며) 120만이라. 시민 서비스 번호까지?
+Jip: Met burgerservicenummer. Naam, adres, geboortedatum, uitkering. Ze vragen veertig bitcoin. Ongeveer twee miljoen euro.
+시민 서비스 번호까지요. 이름, 주소, 생년월일, 급여. 40비트코인을 달래요. 대략 200만 유로요.
+Bram: Twee miljoen. Voor de gegevens van de armste mensen van Nederland.
+200만이라. 네덜란드에서 제일 가난한 사람들의 정보에.
+Jip: De verkoper heeft een voorbeeld gepost. Tien regels. Om te laten zien dat het echt is. Zonder de laatste cijfers van de BSN.
+판매자가 샘플을 올렸어요. 열 줄이요. 진짜라는 걸 보여 주려고요. 시민 번호 끝자리는 빼고요.
+Bram: En?
+그래서?
+Jip: (vergroot het scherm) Kijk naar de kolomnamen.
+(화면을 확대하며) 열 이름들을 봐요.
+Bram: (leest langzaam) "NAT_CAT. TERUGV_FLAG. TAAL_VRIJST. GEBLAND_OUDERS." (kijkt op) Zijn dat niet…?
+(천천히 읽으며) "NAT_CAT. TERUGV_FLAG. TAAL_VRIJST. GEBLAND_OUDERS." (고개를 들며) 이거 설마…?
+Jip: Precies dezelfde namen als in de handleiding die Noor las. Tot op de underscore. Geen gemeente noemt een kolom zo. Alleen Veritas.
+노르가 읽은 매뉴얼이랑 똑같은 이름이에요. 밑줄까지요. 이렇게 칸 이름을 붙이는 지자체는 없어요. 베리타스뿐이에요.
+Bram: (heel stil) Dit is de data van Veritas.
+(아주 조용히) 이건 베리타스 데이터구나.
+Jip: Of de data die Veritas gebruikt. Of allebei. (pakt een stuk pizza, maar eet niet) Ik heb nog iets gezien. Ik wilde het jou eerst laten zien. Niet Noor.
+아니면 베리타스가 쓰는 데이터거나요. 아니면 둘 다거나. (피자 한 조각을 집지만 먹지 않는다) 하나 더 봤어요. 노르 말고 형한테 먼저 보여 주고 싶었어요.
+Bram: Waarom niet Noor?
+왜 노르 말고?
+Jip: (scrolt naar regel zeven) Daarom.
+(일곱 번째 줄로 스크롤하며) 이것 때문에요.
+Bram: (leest) "El Amrani, F. Osdorp. 1963. NAT_CAT: overig. TERUGV_FLAG: 0. Score: 64."
+(읽으며) "엘 암라니, F. 오스도르프. 1963년생. NAT_CAT: 기타. TERUGV_FLAG: 0. 점수: 64."
+Jip: Haar tante. Fatima.
+그 이모예요. 파티마.
+Bram: (legt zijn hand over zijn mond; lange stilte) Haar tante staat te koop op het darkweb.
+(손으로 입을 가린다; 긴 침묵) 그 이모가 다크웹에 매물로 올라와 있구나.
+Jip: Voor ongeveer anderhalve euro. Als je de prijs deelt door het aantal mensen.
+대략 1.5유로에요. 가격을 사람 수로 나누면요.
+Bram: Wie is de verkoper?
+판매자는 누구야?
+Jip: Een account dat "Reiger" heet. Hij is hier al twee jaar actief. (scrolt) Kijk wat hij nog meer heeft verkocht. "Politiepersoneel NL — contactgegevens — 2024." "Ziekenhuis Noord-Brabant — patiëntdossiers — 2025."
+"레이허르"(왜가리)라는 계정이에요. 여기서 2년째 활동하고 있어요. (스크롤하며) 이것 말고 뭘 팔았는지 봐요. "네덜란드 경찰 직원 — 연락처 — 2024." "북브라반트 병원 — 환자 기록 — 2025."
+Bram: Politiepersoneel. Dat was die grote hack. Toen alle agenten hun telefoonnummer moesten veranderen.
+경찰 직원이라. 그 대형 해킹이네. 경찰관 전원이 전화번호를 바꿔야 했던 때.
+Jip: Dezelfde verkoper. Of iemand die zich zo noemt. Reigers zijn geduldig. Ze staan uren stil en dan slaan ze toe.
+같은 판매자예요. 아니면 그렇게 자칭하는 누군가거나요. 왜가리는 인내심이 많아요. 몇 시간이고 가만히 서 있다가 낚아채죠.
+Bram: (staat op) We vertellen het Noor. Vanavond nog. Maar niet hier.
+(일어서며) 노르한테 말하자. 오늘 밤 안에. 근데 여기선 말고.
+Jip: Waarom niet hier?
+왜 여기선 안 돼요?
+Bram: (kijkt rond in de lege redactie, naar het glas van Margreets kamer) Omdat Femke gelijk heeft. Na de haven vertrouw ik geen enkele kamer meer. Ook deze niet.
+(텅 빈 편집국을, 마르흐레이트 방의 유리를 둘러보며) 펨커 말이 맞으니까. 항구 일 이후로 난 어떤 방도 안 믿어. 이 방도.
+Jip: Margreet zei toch dat de mailserver het probleem was? En dat het is opgelost?
+마르흐레이트가 메일 서버가 문제였고 해결됐다고 했잖아요?
+Bram: Dat zei ze. (pakt zijn jas) Ik geloof haar. Maar ik geloof ook in voorzichtig zijn.
+그렇게 말했지. (외투를 집으며) 난 그녀를 믿어. 그래도 조심하는 것도 믿어.
+Femke: (in Brams keuken in Noord, half één 's nachts) Goed. Wie weet hiervan?
+(새벽 12시 반, 노르트의 브람 집 부엌에서) 좋아. 이거 누가 알아?
+Bram: Wij vieren. Jip, jij, Noor en ik.
+우리 넷. 입, 너, 노르, 그리고 나.
+Femke: En Margreet?
+마르흐레이트는?
+Bram: Morgen. Ze slaapt. (stilte) En ze hoeft niet alles om middernacht te weten.
+내일. 자고 있을 거야. (침묵) 그리고 모든 걸 자정에 알아야 하는 건 아니잖아.
+Femke: (kijkt hem aan; zegt niets)
+(그를 쳐다본다; 아무 말도 하지 않는다)
+Noor: (komt binnen, nog in haar jas, met rode ogen) Jip zei dat het dringend was. Wat is er?
+(외투도 벗지 않은 채, 눈이 빨개진 채 들어오며) 입이 급하다고 했어요. 무슨 일이에요?
+Bram: Ga zitten, Noor.
+앉아, 노르.
+Noor: Ik wil niet zitten. Zeg het.
+앉고 싶지 않아요. 말해요.
+Jip: (draait zijn laptop naar haar toe) Een datalek. Eén komma twee miljoen mensen in de bijstand. Met de kolomnamen van Veritas.
+(노트북을 그녀 쪽으로 돌리며) 데이터 유출이에요. 생계 보조금 받는 사람 120만 명. 베리타스 열 이름으로요.
+Noor: (leest; haar gezicht verandert niet) NAT_CAT. TERUGV_FLAG. Dat zijn hun namen. (scrolt) Waar komen deze gegevens vandaan?
+(읽는다; 표정 변화가 없다) NAT_CAT. TERUGV_FLAG. 그쪽 이름들이에요. (스크롤하며) 이 데이터는 어디서 나온 거예요?
+Jip: Dat weten we nog niet. Noor… kijk naar regel zeven.
+아직 몰라요. 노르… 일곱 번째 줄을 봐요.
+Noor: (leest; een lange stilte; dan, heel zacht) Tante.
+(읽는다; 긴 침묵; 그리고 아주 조용히) 이모.
+Bram: Het spijt me, Noor.
+미안해, 노르.
+Noor: (gaat eindelijk zitten) "Score: 64." Ze heeft vierenzestig. En daarna kreeg ze een brief. (lacht zonder geluid) Ze weet niet eens wat het darkweb is. Ze heeft geen printer.
+(마침내 앉으며) "점수: 64." 이모가 64점이래요. 그러고 나서 편지를 받은 거고요. (소리 없이 웃으며) 이모는 다크웹이 뭔지도 몰라요. 프린터도 없는데.
+Femke: (legt een hand op haar schouder) Adem.
+(그녀의 어깨에 손을 얹으며) 숨 쉬어.
+Noor: (ademt) Oké. Oké. (veegt haar ogen af) We moeten weten waar het lek zit. Bij een gemeente? Bij Veritas? Of ergens daartussen?
+(숨을 쉬며) 그래요. 그래요. (눈물을 닦으며) 어디서 샜는지 알아야 해요. 지자체? 베리타스? 아니면 그 사이 어딘가?
+Bram: Denk je dat Veritas gehackt is?
+베리타스가 해킹당했다고 생각해?
+Noor: Of Veritas heeft de data zelf ergens vandaan. (denkt na) Priya zei iets op mijn eerste dag. Over data uit Den Haag met lege velden. Ze vullen die aan met "verrijkingsdata".
+아니면 베리타스가 그 데이터를 어딘가에서 직접 가져왔거나요. (생각하며) 첫날 프리야가 뭔가 말했어요. 헤이그에서 온 빈칸 많은 데이터에 대해서요. 그걸 «보강 데이터»로 채운대요.
+Femke: Verrijkingsdata?
+보강 데이터?
+Noor: Data die je koopt om je eigen data "rijker" te maken. Van databrokers. Bedrijven die alles over iedereen verzamelen.
+자기 데이터를 "풍부하게" 만들려고 사는 데이터요. 데이터 브로커들한테서요. 모든 사람에 대한 모든 걸 모으는 회사들이요.
+Jip: En waar halen die databrokers het vandaan?
+그럼 그 데이터 브로커들은 그걸 어디서 구해요?
+Noor: (kijkt naar het scherm) Misschien van fora zoals dit.
+(화면을 보며) 어쩌면 이런 포럼에서요.
+Hanneke: (via de luidspreker van Brams telefoon, slaperig maar scherp) Even voor de duidelijkheid. Niemand downloadt iets. Niemand koopt iets. Niemand contacteert de verkoper. Als jullie dat doen, ben ik jullie advocaat niet meer, maar jullie medeverdachte.
+(브람 휴대전화 스피커로, 졸리지만 날카롭게) 분명히 해 둘게요. 아무도 아무것도 내려받지 마요. 아무도 아무것도 사지 마요. 아무도 판매자한테 연락하지 마요. 그러면 난 여러분 변호사가 아니라 공동 피의자가 돼요.
+Jip: Ik heb alleen screenshots van het openbare voorbeeld.
+공개된 샘플 스크린숏만 갖고 있어요.
+Hanneke: Goed. Bewaar die. En verder: als dit echt een datalek bij een organisatie is, moet die organisatie het binnen 72 uur melden bij de Autoriteit Persoonsgegevens. Dat is de wet.
+좋아요. 그건 보관해요. 그리고 또: 이게 정말 어떤 조직의 데이터 유출이라면, 그 조직은 72시간 안에 개인정보보호청에 신고해야 해요. 그게 법이에요.
+Noor: En als ze het niet melden?
+신고 안 하면요?
+Hanneke: Dan is dat een tweede overtreding. Bovenop de eerste. En dan wordt het voor ons een verhaal.
+그럼 첫 번째 위반 위에 두 번째 위반이 되는 거죠. 그리고 그때 우리한텐 기사가 돼요.
+Bram: Kunnen we het publiceren?
+그걸 발행할 수 있어요?
+Hanneke: We kunnen het niet publiceren zonder te weten waar het vandaan komt. Als we zeggen "Veritas is gelekt" en het blijkt een gemeente te zijn, krijgen we een rechtszaak. Terecht.
+출처를 모르고는 발행할 수 없어요. "베리타스에서 샜다"고 했는데 지자체로 밝혀지면 소송을 당할 거예요. 당연히요.
+Femke: Dus Noor moet uitzoeken waar Veritas haar verrijkingsdata koopt.
+그러니까 노르가 베리타스가 보강 데이터를 어디서 사는지 알아내야 하네요.
+Noor: (staat op) Maandag. Bij de koffiemachine. Priya.
+(일어서며) 월요일에요. 커피 기계 옆에서. 프리야한테.
+Bram: Noor… wil je dat we je tante waarschuwen?
+노르… 이모한테 알려 드릴까?
+Noor: (bij de deur, zonder om te kijken) Nee. Dat doe ik zelf.
+(문가에서, 돌아보지 않고) 아니요. 제가 직접 할게요.
+Bram: (zaterdagochtend, aan de telefoon) Margreet. Goedemorgen. Ik moet je iets vertellen.
+(토요일 아침, 전화로) 마르흐레이트. 좋은 아침이에요. 할 얘기가 있어요.
+Margreet: (met geluiden van een markt op de achtergrond) Bram? Ik sta op de Noordermarkt. Zeg het maar.
+(뒤로 시장 소리가 들린다) 브람? 나 노르데르마르크트에 있어요. 말해 봐요.
+Bram: Jip heeft een datalek gevonden. Eén komma twee miljoen mensen in de bijstand. Met de kolomnamen van Veritas.
+입이 데이터 유출을 찾아냈어요. 생계 보조금 받는 사람 120만 명이요. 베리타스 열 이름으로요.
+Margreet: (stilte; het marktgeluid lijkt even weg te vallen) Eén komma twee miljoen. Weet Veritas ervan?
+(침묵; 시장 소리가 잠깐 사라지는 듯하다) 120만이라. 베리타스는 알아요?
+Bram: Dat weten we nog niet. Noor zoekt het uit.
+아직 몰라요. 노르가 알아보고 있어요.
+Margreet: Via die collega?
+그 동료를 통해서요?
+Bram: Via haar eigen weg. Ik weet ook niet precies hoe.
+자기 방식대로요. 저도 정확히는 몰라요.
+Margreet: (een korte stilte) Goed. Waarom vertel je me dit pas nu? Jullie hebben het gisteravond gevonden, zei je.
+(짧은 침묵) 좋아요. 그런데 왜 이제야 말해요? 어젯밤에 찾았다면서요.
+Bram: Je sliep. En het kon tot vanochtend wachten.
+자고 있었잖아요. 그리고 아침까지 기다려도 되는 일이었고요.
+Margreet: (lacht kort) Bram, ik slaap nooit. Dat weet je. (dan zachter) Bel me de volgende keer gewoon. Ook om middernacht. Ik wil niet de laatste zijn die het hoort.
+(짧게 웃으며) 브람, 난 절대 안 자요. 알잖아요. (그리고 목소리를 낮추며) 다음엔 그냥 전화해요. 자정이라도요. 제일 늦게 듣는 사람이 되고 싶지 않아요.
+Bram: Afgesproken.
+그렇게 할게요.
+Marcel: (maandagochtend, bij de stand-up, met een strak gezicht) Eén mededeling van Floris voordat we beginnen. De komende weken krijgen we misschien vragen van journalisten. Over onze data, over versie 5.0. Niemand praat met de pers. Niemand. Alles gaat via Floris.
+(월요일 아침 스탠드업 회의에서, 굳은 얼굴로) 시작하기 전에 플로리스의 공지가 하나 있어요. 앞으로 몇 주 동안 기자들한테 질문을 받을 수도 있어요. 우리 데이터나 버전 5.0에 관해서요. 아무도 언론이랑 얘기하지 마요. 아무도요. 전부 플로리스를 통해서요.
+Daan: Waarom zouden journalisten vragen stellen?
+기자들이 왜 질문을 하는데요?
+Marcel: Omdat we volgende maand een persconferentie geven. Dan worden ze nieuwsgierig. (kijkt rond; zijn ogen blijven een halve seconde te lang op Noor rusten) En er is een kleine beveiligingsupdate. Vanaf vandaag kunnen jullie niet meer bij de oude testservers.
+다음 달에 기자회견을 하니까요. 그럼 궁금해하겠죠. (주위를 둘러본다; 눈길이 0.5초쯤 너무 오래 노르에게 머문다) 그리고 작은 보안 업데이트가 있어요. 오늘부터 예전 테스트 서버엔 접근할 수 없어요.
+Priya: (zacht) Waarom?
+(조용히) 왜요?
+Marcel: Onderhoud. (glimlacht) Laten we de wereld eerlijker maken.
+유지 보수요. (미소 지으며) 세상을 더 공정하게 만들어 봅시다.
+Daan: (fluistert tegen Noor) Hij klapte niet. Hij klapt altijd.
+(노르에게 속삭이며) 박수를 안 쳤어요. 맨날 치는데.
+Noor: (fluistert terug) Misschien heeft hij koude handen.
+(속삭이며 대답한다) 손이 시린가 보죠.
+Priya: (maandag, later, in de kantine, met een kom soep) Verrijkingsdata? Waarom wil je dat weten?
+(월요일, 구내식당에서 수프 그릇을 들고) 보강 데이터요? 그건 왜 알고 싶어요?
+Noor: Voor de validatie van versie 5.0. Sven wil weten hoeveel velden we aanvullen met data van buiten. Om de kwaliteit te checken.
+버전 5.0 검증 때문에요. 스벤이 외부 데이터로 채우는 칸이 몇 개인지 알고 싶어 해요. 품질 확인하려고요.
+Priya: (kijkt haar aan over de rand van haar kom) Sven wil dat weten.
+(그릇 가장자리 너머로 그녀를 보며) 스벤이 그걸 알고 싶어 한다고요.
+Noor: Dat zei hij, ja.
+그렇게 말했어요.
+Priya: (stilte) We kopen het bij een bedrijf in Cyprus. DataPunt Europe. Ze leveren adressen, gezinssamenstelling, schulden, soms zelfs nationaliteit als de gemeente het niet heeft.
+(침묵) 키프로스에 있는 회사에서 사요. 데이터펀트 유럽. 주소, 가족 구성, 부채, 지자체에 없으면 가끔 국적까지 줘요.
+Noor: Nationaliteit? Hoe weten zij dat?
+국적이요? 그쪽은 그걸 어떻게 알아요?
+Priya: Niet vragen.
+묻지 마요.
+Noor: Ik vraag het alleen voor de kwaliteit.
+품질 때문에 묻는 것뿐이에요.
+Priya: (zet haar kom neer; zachter) Nour. Ik heb dat één keer gevraagd. Aan Marcel. Twee dagen later kreeg ik een mail van HR over mijn visum. "Een herinnering dat uw verblijfsvergunning gekoppeld is aan uw werkgever." (glimlacht zonder plezier) Niet vragen.
+(그릇을 내려놓으며, 목소리를 낮춰) 누르. 나도 한 번 물어봤어요. 마르설한테요. 이틀 뒤에 인사팀에서 내 비자에 관한 메일이 왔어요. "귀하의 체류 허가가 고용주에 연동되어 있음을 다시 알려 드립니다." (즐겁지 않게 웃으며) 묻지 마요.
+Noor: (zacht) Het spijt me, Priya.
+(조용히) 미안해요, 프리야.
+Priya: Mij ook. (pakt haar kom weer op) DataPunt Europe. Limassol. Dat heb je niet van mij.
+나도요. (그릇을 다시 들며) 데이터펀트 유럽. 리마솔. 나한테 들은 거 아니에요.
+Daan: (gaat erbij zitten met een tosti) Hé! Waar hebben jullie het over?
+(토스티를 들고 와서 앉으며) 어이! 무슨 얘기 해요?
+Priya: Over soep.
+수프 얘기요.
+Daan: (kijkt van de een naar de ander) Jullie hebben het altijd over soep als ik kom.
+(둘을 번갈아 보며) 내가 오면 맨날 수프 얘기네요.
+Noor: (glimlacht) Het is goede soep, Daan.
+(미소 지으며) 맛있는 수프거든요, 다안.
+Sven: (dinsdagavond, in zijn auto in de garage; hij heeft de motor niet uitgezet en de radio staat zacht aan) Je hebt Priya gevraagd naar DataPunt.
+(화요일 밤, 주차장의 자기 차 안; 시동은 켜져 있고 라디오가 작게 틀어져 있다) 프리야한테 데이터펀트에 대해 물어봤죠.
+Noor: Hoe weet je dat?
+그걸 어떻게 알아요?
+Sven: Ze zei het tegen mij. Ze wilde weten of ik echt de vraag had gesteld. (kijkt haar aan) Ik zei ja.
+나한테 말했어요. 내가 정말 그 질문을 했는지 알고 싶어 했어요. (그녀를 쳐다보며) 그렇다고 했어요.
+Noor: Dank je.
+고마워요.
+Sven: Je hoeft me niet te bedanken. (stilte) Er is een lek, Nour. Bij ons. Drie weken geleden heeft iemand de trainingsdata van versie 4.2 van een testserver gehaald. De hele set.
+고맙다고 할 필요 없어요. (침묵) 유출이 있었어요, 누르. 우리 쪽에서요. 3주 전에 누가 테스트 서버에서 버전 4.2 학습 데이터를 빼 갔어요. 통째로요.
+Noor: (heel stil) Drie weken.
+(아주 조용히) 3주.
+Sven: Floris weet het al drie weken. Ik heb het hem zelf verteld. Op de dag dat het gebeurde.
+플로리스는 3주째 알고 있어요. 그 일이 있던 날 내가 직접 말했으니까요.
+Noor: En heeft hij het gemeld? Bij de Autoriteit Persoonsgegevens? Ze moeten het binnen 72 uur melden.
+그럼 신고했어요? 개인정보보호청에요? 72시간 안에 신고해야 하잖아요.
+Sven: (schudt zijn hoofd) Hij zei: "Als we het melden, staan we in de krant. Dan zijn we al onze klanten kwijt. En de persconferentie van versie 5.0 kunnen we vergeten."
+(고개를 저으며) 이렇게 말했어요: "신고하면 신문에 나. 그럼 고객을 다 잃어. 버전 5.0 기자회견도 물 건너가고."
+Noor: Dus hij zwijgt.
+그래서 침묵하는 거군요.
+Sven: Hij zwijgt. En hij heeft een extern bedrijf ingehuurd om "het probleem op te lossen". (lacht bitter) Ze proberen de data terug te kopen. Van de hackers.
+침묵하죠. 그리고 "문제를 해결하라"고 외부 업체를 고용했어요. (씁쓸하게 웃으며) 해커들한테서 데이터를 되사려고 하고 있어요.
+Noor: (verbijsterd) Terugkopen? Met welk geld?
+(어안이 벙벙해서) 되산다고요? 무슨 돈으로요?
+Sven: Met het geld van de succesfees. Het geld van de terugvorderingen. (stilte) Het geld van Fatima's en Priscilla's.
+성공 보수로 번 돈으로요. 환수한 돈이요. (침묵) 파티마들과 프리실라들의 돈이죠.
+Noor: (draait langzaam haar hoofd naar hem) Hoe weet jij die namen?
+(천천히 그를 향해 고개를 돌리며) 그 이름들은 어떻게 알아요?
+Sven: (een lange stilte) Ik weet niet wie jij bent, Nour. Dat heb ik gezegd. Maar ik lees ook kranten. (zachter) Ik heb het stuk over de haven gelezen. En ik heb gezien wie er bij De Lantaarn werken. Er staat geen foto bij. Maar er staat wel een naam. "Data: Noor el Amrani."
+(긴 침묵) 당신이 누군지 모른다고 했죠. 그래도 나도 신문은 읽어요. (목소리를 낮추며) 항구 기사를 읽었어요. 그리고 데 란타른에서 누가 일하는지도 봤어요. 사진은 없어요. 그래도 이름은 있죠. "데이터: 노르 엘 암라니."
+Noor: (verstijft; haar handen liggen plat op haar knieën)
+(굳는다; 두 손은 무릎 위에 평평하게 놓여 있다)
+Sven: (kijkt naar de slagboom in de verte) Ik zei dat ik het niet wilde weten. Ik weet het nog steeds niet. Officieel.
+(멀리 있는 차단기를 보며) 알고 싶지 않다고 했죠. 지금도 몰라요. 공식적으로는요.
+Noor: (heel zacht) En onofficieel?
+(아주 조용히) 그럼 비공식적으로는요?
+Sven: Onofficieel ben ik blij dat je er bent. (start de auto niet) Ga nu. Morgen ben ik er niet. Ik ben "ziek". Ik moet nadenken.
+비공식적으로는 당신이 여기 있어서 기뻐요. (시동은 걸지 않는다) 이제 가요. 내일 난 안 나와요. "아파요". 생각할 게 있어서요.
+Noor: Sven… als iemand anders het ook weet? Wie ik ben?
+스벤… 다른 사람도 알고 있다면요? 제가 누군지요?
+Sven: (kijkt haar eindelijk aan) Floris leest alles over de mensen die hij aanneemt. Dat zei hij toch?
+(마침내 그녀를 바라보며) 플로리스는 자기가 뽑는 사람에 대해 전부 읽는다고 했잖아요?
+Noor: Dus hij weet het.
+그러니까 알고 있다는 거네요.
+Sven: Dat zeg ik niet. Ik zeg dat hij leest. (stilte) Als hij het weet, waarom heeft hij je dan aangenomen?
+그렇게 말하진 않았어요. 읽는다고 했죠. (침묵) 알고 있다면, 왜 당신을 뽑았을까요?
+Noor: Om me in de gaten te houden. Of om me iets te laten zien wat hij wil dat ik zie.
+나를 감시하려고요. 아니면 자기가 보여 주고 싶은 걸 나한테 보여 주려고요.
+Sven: Versie 5.0. Zonder nationaliteit. (knikt langzaam) Dat zou slim zijn. Een journalist die schrijft dat het nieuwe model schoon is.
+버전 5.0. 국적 없는 거요. (천천히 고개를 끄덕이며) 그럼 영리하겠네요. 새 모델은 깨끗하다고 쓰는 기자라니.
+Noor: Behalve als die journalist ook de productielogs heeft gezien.
+그 기자가 운영 로그까지 봤다면 얘기가 다르죠.
+Noor: (bij Fatima, die avond, aan de keukentafel) Tante. Ik moet je iets vertellen. Over je gegevens.
+(그날 밤, 파티마 집 부엌 식탁에서) 이모. 이모 정보에 관해 할 얘기가 있어요.
+Fatima: (schenkt thee in) Mijn gegevens? Ik heb toch alles naar de gemeente gestuurd? Met de printer van de bibliotheek.
+(차를 따르며) 내 정보? 시청에 다 보냈잖아? 도서관 프린터로.
+Noor: Dat weet ik. Maar iemand heeft je gegevens gestolen. Je naam, je adres, je uitkering. Ze staan op internet. Te koop.
+알아요. 근데 누가 이모 정보를 훔쳐 갔어요. 이름, 주소, 보조금. 인터넷에 올라와 있어요. 팔려고요.
+Fatima: (zet de theepot neer) Te koop? Wie koopt er nou de gegevens van een oude vrouw?
+(찻주전자를 내려놓으며) 판다고? 누가 늙은 여자 정보를 사?
+Noor: Criminelen. Voor oplichting. Ze kunnen je bellen en doen alsof ze van de bank zijn. Of van de gemeente.
+범죄자들이요. 사기 치려고요. 은행이나 시청 직원인 척 전화할 수 있어요.
+Fatima: (gaat langzaam zitten) Eerst zegt een computer dat ik een fraudeur ben. En nu verkoopt diezelfde computer mij aan criminelen.
+(천천히 앉으며) 처음엔 컴퓨터가 내가 사기꾼이라고 하더니. 이제는 그 컴퓨터가 나를 범죄자들한테 팔아넘기는구나.
+Noor: (pakt haar hand) Niet dezelfde computer, tante. Maar wel dezelfde mensen.
+(그녀의 손을 잡으며) 같은 컴퓨터는 아니에요, 이모. 그래도 같은 사람들이에요.
+Fatima: (kijkt naar Noor, lang) Habibti. Jij werkt niet alleen voor een krant, hè? Je werkt ergens binnen. Bij die mensen.
+(노르를 오래 바라보며) 아가. 너 신문사에서만 일하는 거 아니지? 어딘가 안에서 일하고 있지. 그 사람들 쪽에서.
+Noor: (stilte) Hoe weet je dat?
+(침묵) 어떻게 아세요?
+Fatima: Je hebt een bril op. Je hebt nog nooit een bril gehad. (een klein lachje) Je moeder had vroeger ook een bril op. Toen ze in het verzorgingshuis werkte en niet wilde dat de directeur haar herkende van de demonstratie.
+안경을 썼잖아. 너 평생 안경 쓴 적 없잖아. (작게 웃으며) 네 엄마도 예전에 안경을 썼었어. 요양원에서 일할 때, 시위에서 본 얼굴이라고 원장이 알아볼까 봐.
+Noor: (lacht door haar tranen) Mama?
+(눈물 사이로 웃으며) 엄마가요?
+Fatima: Je bent net als zij. (knijpt in haar hand) Wees voorzichtig. En kom terug met je eigen gezicht.
+넌 꼭 네 엄마 같아. (그녀의 손을 꼭 쥐며) 조심해. 그리고 네 얼굴로 돌아와.
+Noor: Tante… als er iemand belt van de "bank" of de "gemeente", geef je niets. Geen nummers, geen codes. Je hangt op en je belt mij.
+이모… "은행"이나 "시청"이라면서 누가 전화하면 아무것도 주지 마세요. 번호도, 코드도요. 끊고 저한테 전화하세요.
+Fatima: Ik hang op en ik bel jou. (lacht) Zoals vroeger, toen je klein was. "Als er een vreemde man aan de deur komt…"
+끊고 너한테 전화하라고. (웃으며) 옛날처럼. 너 어렸을 때. "모르는 아저씨가 문 앞에 오면…"
+Noor: "…doe je niet open." Precies.
+"…문 열지 마." 그거요.
+Fatima: (schudt haar hoofd) Eerst moest ik jou beschermen. Nu bescherm jij mij. (stilte) Zo hoort het, denk ik.
+(고개를 저으며) 처음엔 내가 너를 지켜야 했는데. 이젠 네가 나를 지키는구나. (침묵) 원래 그런 거겠지.
+Bram: (een bericht via Signal, laat in de avond) Kraai.
+(늦은 밤, 시그널 메시지) 까마귀야.
+Kraai: [Signal] Veritas heeft vorige week 480.000 euro overgemaakt aan een bedrijf in Limassol. Niet aan DataPunt. Aan een ander bedrijf, op hetzelfde adres. Volg die betaling.
+[시그널] 베리타스가 지난주 리마솔의 한 회사에 48만 유로를 송금했어. 데이터펀트가 아니라. 같은 주소의 다른 회사에. 그 송금을 따라가.
+Bram: (typt) "Wie zit erachter?"
+(입력하며) "그 뒤에 누가 있어?"
+Kraai: [Signal] Nog niet. Eerst checken. Dan schrijven.
+[시그널] 아직은 안 돼. 먼저 확인해. 그다음에 써.
+Bram: (typt aan Noor) "Kraai zegt: 480.000 van Veritas naar Limassol. Niet aan DataPunt. Ander bedrijf, zelfde adres."
+(노르에게 입력하며) "까마귀 말로는: 베리타스에서 리마솔로 48만. 데이터펀트가 아니라. 다른 회사, 같은 주소."
+Noor: [Bericht] 480.000. Sven zei dat ze de data proberen terug te kopen. Van de hackers.
+[메시지] 48만이라. 스벤이 해커들한테서 데이터를 되사려고 한다고 했어요.
+Bram: [Bericht] Of ze betalen de mensen die de data eerst hebben verkocht. Aan hen.
+[메시지] 아니면 애초에 그 데이터를 자기들한테 판 사람들한테 돈을 주는 거거나.
+Noor: [Bericht] Dan is het geen lek. Dan is het een markt.
+[메시지] 그럼 유출이 아니죠. 시장이죠.
+Bram: [Bericht] Slaap, Noor. Morgen heeft Sven "griep". Jij niet.
+[메시지] 자, 노르. 내일 스벤은 "독감"이고. 너는 아니잖아.
+Noor: (typt, wist het, typt opnieuw) "Ik probeer het."
+(입력했다가 지우고 다시 입력한다) "노력해 볼게요."
+
+## 주요 단어
+het datalek | 헷 다타렉 | 데이터 유출
+het darkweb | 헷 다르크웹 | 다크웹
+het burgerservicenummer (BSN) | 헷 뷔르허르쉬르비스뉘머르 | 시민 서비스 번호(주민번호)
+het record (mv. records) | 헷 레코르트 | 기록, 레코드
+het voorbeeld | 헷 보르베일트 | 샘플, 예시
+de kolomnaam | 더 콜롬남 | 열 이름
+te koop staan | 터 코프 스탄 | 팔려고 내놓아져 있다
+de verrijkingsdata | 더 버르레이킹스다타 | 보강 데이터
+de databroker | 더 데이터브로커르 | 데이터 브로커
+de medeverdachte | 더 메이더버르다흐터 | 공동 피의자
+terecht | 터레흐트 | 정당하게, 마땅히
+de verblijfsvergunning | 더 버르블레이프스버르휘닝 | 체류 허가
+gekoppeld zijn aan | 허코펄트 제인 안 | ~에 연동되어 있다
+de trainingsdata | 더 트레이닝스다타 | 학습 데이터
+inhuren → ingehuurd | 인휘런 → 인허휘르트 | 고용하다, 용역을 맡기다
+terugkopen → teruggekocht | 터뤼흐코펀 | 되사다
+de oplichting | 더 옵리흐팅 | 사기
+overmaken → overgemaakt | 오버르마컨 | 송금하다
+onofficieel | 온오피시엘 | 비공식적으로
+
+## 문법·표현 정리
+**Waar komen deze gegevens vandaan? — waar … vandaan:** "어디에서 오나?" 출처를 묻는 분리형 의문사. Waar kom je vandaan?(어디 출신이야?) · Waar heb je dat vandaan?(그거 어디서 났어?)
+**Dat is strafbaar — -baar 형용사:** strafbaar(처벌 가능한, 범죄가 되는) · leesbaar(읽을 수 있는) · betaalbaar(감당할 수 있는 가격의)
+**We kunnen het niet publiceren zonder te weten… — zonder te + 부정사:** "~하지 않고는 ~할 수 없다." zonder te weten waar het vandaan komt(출처를 모르고는) · zonder iets te zeggen(아무 말 없이)
+**Niet vragen — 짧은 금지:** 부정사 명령으로 "묻지 마." · Niet doen!(하지 마!) · Niet aankomen!(만지지 마!)
+**binnen 72 uur(72시간 안에):** binnen + 시간 = 기한. binnen een week(일주일 안에) · binnen veertien dagen(14일 이내)
+**blijken + te(~로 드러나다):** als het een gemeente blijkt te zijn(지자체로 밝혀지면) · Het bleek waar te zijn.(사실로 드러났다)
+**Tot op…(~까지 정확히):** Tot op de underscore.(밑줄까지 똑같이) · tot op de cent(1센트까지)
+**doen alsof(~인 척하다):** Ze doen alsof ze van de bank zijn.(은행 직원인 척한다) · Hij doet alsof hij niets weet.(아무것도 모르는 척한다)
+**diezelfde / datzelfde(바로 그):** diezelfde computer(바로 그 컴퓨터) · datzelfde moment(바로 그 순간) — die/dat + zelfde를 붙여 씁니다.
+**iets kwijt zijn(~을 잃다):** Dan zijn we al onze klanten kwijt.(그럼 고객을 다 잃는다) · Ik ben mijn sleutels kwijt.(열쇠를 잃어버렸어)
+**Even voor de duidelijkheid(분명히 해 두자면):** 법률가·관리자가 규칙을 못 박을 때. Voor de duidelijkheid: niemand downloadt iets.
+**gekoppeld zijn aan(~에 연결되어 있다):** Uw verblijfsvergunning is gekoppeld aan uw werkgever.(체류 허가가 고용주에 연동되어 있다) — 공문서 속 은근한 협박.
+**Officieel / Onofficieel:** Officieel weet ik het niet.(공식적으로는 몰라) — 공식·비공식의 구분으로 책임을 피하는 화법.
+**kom terug met je eigen gezicht:** 직역 "네 얼굴로 돌아와" — 위장을 끝내고 원래의 너로 돌아오라는 비유.
+
+## 취재 노트
+EU 일반 개인정보보호법(AVG/GDPR)은 개인정보 유출을 안 날로부터 72시간 안에 감독 기관(네덜란드는 개인정보보호청, AP)에 신고하도록 의무화하고 있다. 2024년 9월에는 네덜란드 경찰 전 직원의 업무용 연락처가 해킹으로 유출됐고, 네덜란드 정보기관은 2025년 이를 러시아 국가 연계 해커 집단의 소행으로 지목했다.
+시민 서비스 번호(BSN)가 포함된 대량 유출 데이터는 사기·신원 도용에 악용될 위험이 크다. 데이터 브로커가 출처 불명의 데이터를 «보강 데이터»로 판매하는 문제는 유럽에서 규제 논의의 대상이다. 다크웹 판매 글, 데이터펀트 유럽, 리마솔 송금 48만 유로는 가상이다.
