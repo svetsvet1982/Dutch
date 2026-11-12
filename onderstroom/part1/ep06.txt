@@ -1,0 +1,347 @@
+# 1부 6화. Versleuteld (암호화)
+수준: 중급 (B1) | 장소: 암스테르담-오스트의 휴대전화 수리점 → 편집국 → 암스텔역 근처 카페 → WCT 보안실 | 시간: 11월, 화요일 오후 → 밤
+핵심 표현: Dit blijft tussen ons · Je hebt dit niet van mij · Ik check het even voor je · Als er iets misgaat, bel ik jou · Daar kan ik niets over zeggen
+
+## 대화
+Verkoper: (achter de toonbank) Scherm kapot? Batterij?
+(계산대 뒤에서) 화면 깨졌어요? 배터리요?
+Jip: Nee. Ik zoek een… speciale telefoon.
+아니요. 저… 특별한 휴대전화를 찾고 있어요.
+Verkoper: Hoe bedoel je, speciaal?
+특별하다니, 무슨 뜻이에요?
+Jip: Een telefoon die niemand kan lezen. Een vriend zei dat jullie die hebben.
+아무도 못 읽는 휴대전화요. 친구가 여기 있다고 했어요.
+Verkoper: (kijkt naar Lucas bij de deur) Wie is hij?
+(문 옆의 뤼카스를 보며) 저 사람은 누구예요?
+Jip: Mijn neef. Hij wacht alleen.
+제 사촌이에요. 그냥 기다리는 거예요.
+Verkoper: (zachter) Welke vriend?
+(목소리를 낮추며) 어떤 친구요?
+Jip: Gewoon, een vriend uit West. Hij wil niet dat ik zijn naam zeg.
+그냥, 서쪽 동네 친구요. 자기 이름은 말하지 말래요.
+Verkoper: (lacht kort) Slimme vriend. (pakt een doos onder de toonbank) Zes maanden. Achttienhonderd euro. Contant.
+(짧게 웃으며) 똑똑한 친구네. (계산대 밑에서 상자를 꺼내며) 6개월. 1,800유로. 현금으로.
+Jip: Achttienhonderd? Voor een telefoon?
+1,800이요? 휴대전화 하나에요?
+Verkoper: Je betaalt niet voor de telefoon. Je betaalt voor de rust. Geen camera, geen gps, geen gewone apps. Alleen berichten. Na zeven dagen is alles weg.
+휴대전화 값을 내는 게 아니에요. 마음의 평화 값을 내는 거지. 카메라도, GPS도, 일반 앱도 없어요. 메시지만. 7일 뒤면 다 사라져요.
+Jip: En als de politie hem pakt?
+경찰이 압수하면요?
+Verkoper: Dan typ je een code, en de telefoon wist zichzelf. (schuift de doos terug) Kom terug met het geld. En zonder je neef.
+그럼 코드를 입력하면 휴대전화가 스스로 다 지워요. (상자를 다시 밀어 넣으며) 돈 가지고 다시 와요. 사촌은 빼고.
+Jip: (bij de deur, tegen Lucas) Weg hier. Nu.
+(문가에서 뤼카스에게) 나가자. 지금.
+Lucas: (buiten, op de fiets) Wat zei hij? Ik kon het niet goed horen.
+(밖에서, 자전거를 타며) 뭐래요? 잘 안 들렸어요.
+Jip: Achttienhonderd euro voor zes maanden. Contant. En ik moest terugkomen zonder jou.
+6개월에 1,800유로. 현금으로. 그리고 너 없이 다시 오래.
+Lucas: Zonder mij? Waarom?
+나 없이? 왜?
+Jip: Omdat je eruitziet als iemand die zijn moeder elke zondag belt.
+넌 매주 일요일 엄마한테 전화하는 사람처럼 생겼거든.
+Margreet: Achttienhonderd euro, in een telefoonwinkel in Oost? Gewoon onder de toonbank?
+1,800유로를, 오스트의 휴대전화 가게에서요? 그냥 계산대 밑에서요?
+Jip: Gewoon onder de toonbank. Tussen de oplaadkabels.
+그냥 계산대 밑에서요. 충전 케이블들 사이에요.
+Lucas: Ik stond bij de deur. Ik dacht dat mijn hart uit mijn borst sprong.
+저는 문 옆에 서 있었어요. 심장이 튀어나오는 줄 알았어요.
+Femke: Je hebt het goed gedaan, Jip. Niet te veel gevraagd, en op tijd weg.
+잘했어, 입. 너무 많이 묻지 않았고, 제때 빠져나왔어.
+Noor: Ik snap het niet helemaal. Ik dacht dat de politie die cryptotelefoons al jaren geleden had gekraakt.
+전 잘 모르겠어요. 경찰이 그런 암호폰을 몇 년 전에 이미 뚫은 줄 알았는데요.
+Bram: Klopt. EncroChat in 2020, Sky ECC in 2021. Franse, Belgische en Nederlandse politie lazen maanden mee. Miljoenen berichten.
+맞아. 2020년에 엔크로챗, 2021년에 스카이 ECC. 프랑스, 벨기에, 네덜란드 경찰이 몇 달 동안 같이 읽었지. 메시지 수백만 개를.
+Noor: En daarna?
+그다음엔요?
+Bram: Daarna kwamen er nieuwe. Kleinere bedrijven, nieuwe namen. De criminelen zijn niet gestopt. Ze zijn alleen voorzichtiger geworden.
+그다음엔 새로운 게 나왔지. 더 작은 회사들, 새 이름들. 범죄자들은 멈추지 않았어. 그냥 더 조심스러워졌을 뿐이야.
+Noor: Ik heb trouwens ook Polderwind Trading uitgezocht. De directeur is een vrouw van tweeëntachtig. Ze woont in een verzorgingshuis in Spijkenisse.
+그런데 폴더르빈트 트레이딩도 알아봤어요. 대표가 여든두 살 할머니예요. 스페이케니서의 요양원에 살아요.
+Lucas: Tweeëntachtig? Die runt toch geen handelsbedrijf?
+여든둘이요? 그분이 무역 회사를 운영할 리가 없잖아요?
+Noor: Ze weet waarschijnlijk niet eens dat het bestaat. Iemand heeft haar naam gebruikt.
+아마 그런 회사가 있는지도 모를 거예요. 누가 그분 이름을 쓴 거죠.
+Bram: Weer een katvanger. Een student en een oma. Wie bedenkt dit?
+또 명의 대여자네. 대학생 하나랑 할머니 하나. 누가 이런 걸 생각해 내는 거야?
+Margreet: Goed. Nu jouw bericht, Bram. "Welkom bij WCT, Bert." Hoe kennen ze dat nummer?
+좋아요. 이제 당신 메시지요, 브람. "WCT에 온 걸 환영해, 버르트." 그 번호를 어떻게 알았을까요?
+Femke: Dat heb ik uitgezocht. Bram heeft dat nummer op het formulier van FlexHaven gezet. Het staat in hun systeem.
+제가 알아봤어요. 브람이 그 번호를 플렉스하번 서류에 적었어요. 그쪽 시스템에 있어요.
+Margreet: Dus Sandra.
+그러니까 산드라네요.
+Femke: Sandra, of iemand die bij haar computer kan. Het betekent dat ze hem in de gaten houden. Niet dat ze weten wie hij is.
+산드라거나, 그녀 컴퓨터에 접근할 수 있는 누군가요. 그를 지켜보고 있다는 뜻이지, 그가 누군지 안다는 뜻은 아니에요.
+Bram: Het was een test. Als ik schrik en de telefoon weggooi, weten ze genoeg.
+시험이었어요. 내가 놀라서 휴대전화를 버리면 그걸로 충분히 알 수 있으니까요.
+Hanneke: Dan het grote punt. Vrijdagnacht. Bram, je weet dat je die poort niet mag openen.
+그럼 중요한 문제요. 금요일 밤이요. 브람, 그 문을 열면 안 된다는 거 알죠.
+Bram: Natuurlijk weet ik dat.
+당연히 알죠.
+Hanneke: Ik zeg het toch. Als journalist mag je kijken en luisteren. Maar je mag niet meedoen aan een misdrijf. Dan ben je geen journalist meer, dan ben je medeplichtig.
+그래도 말할게요. 기자는 보고 들을 수 있어요. 하지만 범죄에 가담하면 안 돼요. 그러면 기자가 아니라 공범이에요.
+Lucas: Maar als hij nee zegt, wordt Dennis misschien wantrouwig.
+그런데 싫다고 하면, 데니스가 의심할 수도 있잖아요.
+Femke: En als hij ja zegt en niet komt, ook.
+좋다고 하고 안 나타나도 마찬가지고.
+Margreet: Daar beslissen we vanavond over. Eerst wil ik weten wat de politie al weet. (kijkt naar Bram) Heb je het al bij Erik gecheckt?
+그건 오늘 밤에 결정해요. 먼저 경찰이 이미 뭘 아는지 알고 싶어요. (브람을 보며) 에릭한테 확인은 했어요?
+Bram: Ik zie hem om zes uur.
+여섯 시에 만나요.
+Margreet: Goed. Vraag hem naar Kadezicht, naar Dennis Kok, en naar die zwarte auto. En kom daarna direct hierheen.
+좋아요. 카더지흐트랑 데니스 콕, 그리고 그 검은 차에 대해 물어봐요. 그다음에 곧장 이리로 와요.
+Lucas: Wie is Erik?
+에릭이 누구예요?
+Noor: Bram zijn beste bron. Rechercheur. Ze kennen elkaar al twintig jaar.
+브람의 최고 취재원이요. 형사예요. 둘이 20년째 알고 지내요.
+Femke: (zachtjes) Erik Veenstra. Ik heb hem gekend bij de politie. Hij weet veel. Misschien iets te veel.
+(조용히) 에릭 페인스트라. 경찰에 있을 때 알았어. 아는 게 많아. 어쩌면 좀 너무 많이.
+Bram: Wat bedoel je daarmee?
+그게 무슨 뜻이야?
+Femke: Niets. Gewoon een gevoel. Doe hem de groeten.
+아무것도. 그냥 느낌이야. 안부 전해 줘.
+Erik: (in het café, met een biertje) Bram Hoekstra. Je ziet er tien jaar jonger uit. Wat heb je met je baard gedaan?
+(카페에서, 맥주를 들고) 브람 후크스트라. 열 살은 젊어 보이네. 수염은 어떻게 한 거야?
+Bram: Een vriendin met een schaar.
+가위 든 친구 하나.
+Erik: (lacht) Een vriendin. Eindelijk. Na Sanne dacht ik dat je in een klooster zou gaan.
+(웃으며) 친구라. 드디어. 산너 이후론 수도원에 들어갈 줄 알았지.
+Bram: Niet dat soort vriendin, Erik.
+그런 친구 아니야, 에릭.
+Erik: Jammer. Wat drink je?
+아쉽네. 뭐 마실래?
+Bram: Koffie.
+커피.
+Erik: Koffie. Om zes uur 's avonds. Dan is het ernstig. (tegen de barman) Eén koffie, Wim. Zwart.
+커피라. 저녁 여섯 시에. 그럼 심각한 거네. (바텐더에게) 커피 하나, 빔. 블랙으로.
+Bram: Ik heb je hulp nodig.
+네 도움이 필요해.
+Erik: Dat zei je in 2008 ook. En in 2015. En in 2022.
+2008년에도 그렇게 말했지. 2015년에도. 2022년에도.
+Bram: En elke keer heb je me geholpen.
+그리고 넌 매번 도와줬지.
+Erik: Elke keer heb ik er bijna mijn baan door verloren. (zachter) Zeg het maar.
+매번 그 때문에 일자리를 잃을 뻔했지. (목소리를 낮추며) 말해 봐.
+Bram: Weet je nog, 2008? De zaak van de verdwenen boekhouder?
+2008년 기억나? 사라진 회계사 사건?
+Erik: Of ik dat nog weet. Jij schreef het verhaal, ik kreeg een berisping.
+기억나냐고. 넌 기사를 썼고, 난 징계를 받았지.
+Bram: En de boekhouder kwam terug. Levend.
+그리고 회계사는 돌아왔지. 살아서.
+Erik: Dankzij jouw verhaal, ja. Daarom zit ik hier nog. (drinkt) Kees zei toen al: "Die Hoekstra wordt goed, of hij wordt dood."
+네 기사 덕분이지. 그래서 내가 아직 여기 앉아 있는 거고. (마시며) 케이스가 그때 벌써 그랬어: "저 후크스트라는 대단한 기자가 되든가, 죽든가 할 거다."
+Bram: Kees zegt veel.
+케이스는 말이 많아요.
+Erik: Kees heeft meestal gelijk. Hoe gaat het met de oude man?
+케이스는 대개 맞는 말을 하지. 그 영감님은 어떻게 지내?
+Bram: Kadezicht Logistiek. Zegt die naam je iets?
+카더지흐트 물류. 그 이름 들어 봤어?
+Erik: (drinkt) Misschien. Waarom?
+(마시며) 아마도. 왜?
+Bram: Ze betalen mensen in de haven. Elke maand. Vijfduizend euro per persoon.
+항구 사람들한테 돈을 줘. 매달. 한 사람당 5천 유로씩.
+Erik: Waar heb je dat vandaan?
+그거 어디서 알았어?
+Bram: Dat weet je dat ik dat niet zeg.
+내가 그건 말 안 하는 거 알잖아.
+Erik: (glimlacht) Bronbescherming. Natuurlijk. (kijkt rond) Dit blijft tussen ons?
+(미소 지으며) 취재원 보호. 당연하지. (주위를 둘러보며) 이건 우리끼리만이야?
+Bram: Dit blijft tussen ons.
+우리끼리만이야.
+Erik: Er lopen signalen over Kadezicht. Bij ons, bij de CIE. Meer kan ik niet zeggen.
+카더지흐트에 관한 첩보가 있어. 우리 쪽, 범죄정보팀에. 더는 말 못 해.
+Bram: Signalen. Wat voor signalen?
+첩보라. 어떤 첩보?
+Erik: Daar kan ik niets over zeggen, Bram. Echt niet.
+그건 말할 수 없어, 브람. 진짜로.
+Bram: Dennis Kok. Beveiliger bij WCT.
+데니스 콕. WCT 보안 요원.
+Erik: (denkt na) Kok… Kok… Dat zegt me niets. Maar ik check het even voor je.
+(생각하며) 콕… 콕… 모르는 이름인데. 그래도 내가 확인해 줄게.
+Bram: Hoe lang duurt dat?
+얼마나 걸려?
+Erik: Een dag. Misschien twee. Ik kan niet zomaar in systemen zoeken. Alles wordt gelogd.
+하루. 어쩌면 이틀. 아무 때나 시스템을 뒤질 순 없어. 다 기록이 남거든.
+Bram: En een grote zwarte auto, Duits, die bij getuigen voor de deur staat? In Rotterdam en in Amsterdam?
+그리고 증인들 집 앞에 서 있는 크고 검은 독일 차는? 로테르담에도 암스테르담에도?
+Erik: (lacht zonder plezier) Bram, de helft van de criminelen in Nederland rijdt in een grote zwarte Duitse auto. Dat is geen spoor. Dat is een cliché.
+(즐겁지 않게 웃으며) 브람, 네덜란드 범죄자 절반이 크고 검은 독일 차를 타. 그건 단서가 아니라 클리셰야.
+Bram: Toch wil ik het weten.
+그래도 알고 싶어.
+Erik: Je wilt altijd alles weten. Dat is je probleem. (drinkt) Je hebt dit niet van mij, hè? Niets van wat ik vanavond zeg.
+넌 늘 다 알고 싶어 하지. 그게 네 문제야. (마시며) 이건 나한테 들은 거 아니다, 알지? 오늘 밤 내가 하는 말 전부.
+Bram: Ik heb jou vanavond niet eens gezien.
+오늘 밤 난 너를 보지도 않았어.
+Erik: Goed zo. (stilte) Wat doe je echt, Bram? Een journalist scheert zijn baard niet af voor een paar telefoontjes.
+좋아. (침묵) 너 진짜로 뭘 하는 거야, 브람? 기자가 전화 몇 통 하자고 수염을 밀진 않잖아.
+Bram: (aarzelt) Ik werk 's nachts bij WCT. Als beveiliger. Onder een andere naam.
+(망설이며) WCT에서 밤에 일해. 보안 요원으로. 다른 이름으로.
+Erik: (zet zijn glas neer) Ben je gek geworden?
+(잔을 내려놓으며) 너 미쳤어?
+Bram: Margreet weet ervan. Onze advocaat ook. We doen het volgens de regels.
+마르흐레이트도 알아. 우리 변호사도. 규칙대로 하고 있어.
+Erik: De regels. In de haven zijn er geen regels, Bram. Er zijn alleen mensen die verdwijnen.
+규칙이라. 항구엔 규칙 같은 거 없어, 브람. 사라지는 사람들만 있을 뿐이지.
+Bram: Daarom vertel ik het jou. Ik werk maandag, dinsdag en donderdag. Van tien tot zes.
+그래서 너한테 말하는 거야. 월요일, 화요일, 목요일에 일해. 열 시부터 여섯 시까지.
+Erik: Waarom vertel je me je rooster?
+왜 나한테 근무표를 말하는 건데?
+Bram: Als er iets misgaat, bel ik jou. Niet 112. Jou. Jij weet tenminste waar het over gaat.
+뭔가 잘못되면 너한테 전화할게. 112 말고. 너한테. 넌 적어도 무슨 일인지 아니까.
+Erik: (zucht lang) En vrijdag?
+(길게 한숨 쉬며) 그럼 금요일은?
+Bram: Hoe weet je dat er iets met vrijdag is?
+금요일에 뭐가 있는지 어떻게 알아?
+Erik: Omdat je gezicht verandert als je je rooster opnoemt en vrijdag overslaat. Twintig jaar, Bram. Ik ken je.
+네가 근무표를 말하면서 금요일을 건너뛸 때 얼굴이 변했으니까. 20년이야, 브람. 난 너를 알아.
+Bram: (stilte) Ze hebben me gevraagd om vrijdagnacht een poort open te zetten. Tien minuten.
+(침묵) 금요일 밤에 문 하나를 열어 두라고 했어. 10분 동안.
+Erik: En wat ga je doen?
+그래서 어떻게 할 건데?
+Bram: Dat weet ik nog niet. In elk geval niet die poort openen.
+아직 몰라. 어쨌든 그 문은 안 열어.
+Erik: Gelukkig. (draait zijn glas rond) Luister. Misschien loop je ons voor de voeten. Misschien loopt er al iets. Ik zeg niet dat het zo is. Ik zeg dat het zou kunnen.
+다행이다. (잔을 돌리며) 들어 봐. 어쩌면 네가 우리 일을 방해하고 있을지도 몰라. 어쩌면 이미 뭔가 진행 중일지도. 그렇다는 게 아니야. 그럴 수도 있다는 거지.
+Bram: Een lopend onderzoek?
+진행 중인 수사?
+Erik: Ik zeg niks. Ik drink bier. (staat op) Ik check Kok voor je. En jij belt me als het misgaat. Dag of nacht.
+난 아무 말도 안 해. 맥주를 마실 뿐이야. (일어서며) 콕은 확인해 줄게. 그리고 넌 잘못되면 나한테 전화해. 낮이든 밤이든.
+Bram: Dank je, Erik.
+고마워, 에릭.
+Erik: Bedank me maar niet. Bedank me als je nog leeft in december.
+고맙단 말은 하지 마. 12월에도 살아 있으면 그때 고마워해.
+Bram: Erik, nog één ding. Kees… hij zei iets raars. Dat het verhaal over de haven al jaren wacht.
+에릭, 하나만 더. 케이스가… 이상한 말을 했어. 항구 얘기가 벌써 몇 년째 기다리고 있다고.
+Erik: (blijft even staan) Kees heeft veertig jaar aan verhalen in zijn hoofd. Vraag het hem zelf.
+(잠시 멈춰 서서) 케이스 머릿속엔 40년 치 이야기가 들어 있어. 본인한테 직접 물어봐.
+Bram: Dat doe ik, als hij terug is uit Groningen.
+그럴 거야, 흐로닝언에서 돌아오시면.
+Erik: Doe hem de groeten. (loopt weg) En scheer je niet te vaak. Het staat je niet.
+안부 전해 줘. (걸어 나가며) 그리고 면도는 너무 자주 하지 마. 안 어울려.
+Jip: (aan de telefoon) Bram! Ben je klaar met je bron? Ik heb iets.
+(전화로) 브람! 취재원이랑 얘기 끝났어요? 뭔가 찾았어요.
+Bram: Zeg het.
+말해.
+Jip: Die winkel in Oost heeft een Telegramkanaal voor klanten. Daar staan aanbiedingen. Nieuwe telefoons, nieuwe abonnementen.
+그 오스트 가게에 손님용 텔레그램 채널이 있어요. 거기 할인 정보가 올라와요. 새 휴대전화, 새 요금제.
+Bram: En?
+그래서?
+Jip: De beheerder van dat kanaal is dezelfde als de beheerder van het kanaal met de klus in West. Dezelfde gebruikersnaam, dezelfde schrijffouten.
+그 채널 관리자가 서부 일거리 채널 관리자랑 같아요. 똑같은 사용자 이름, 똑같은 맞춤법 실수.
+Bram: Dezelfde persoon verkoopt cryptotelefoons en plaatst opdrachten voor bommen.
+같은 사람이 암호폰을 팔고 폭탄 의뢰도 올린다는 거네.
+Jip: Of hetzelfde bedrijf. Het is een winkel, Bram. Een complete winkel.
+아니면 같은 회사거나요. 이건 가게예요, 브람. 다 갖춘 가게.
+Bram: Een winkel voor criminelen. Je koopt er een telefoon, en daarna kun je er ook een bom bestellen.
+범죄자를 위한 가게라. 거기서 휴대전화를 사고, 그다음엔 폭탄도 주문할 수 있는 거지.
+Jip: Met een klantenkaart, waarschijnlijk.
+아마 포인트 카드까지 있겠죠.
+Bram: Niet lachen, Jip. Bewaar alles. En ga niet meer naar die winkel.
+웃지 마, 입. 다 저장해 둬. 그리고 그 가게엔 다시 가지 마.
+Jip: Ik had het niet van plan. Die man keek naar me alsof hij mijn adres al wist.
+그럴 생각 없었어요. 그 사람이 내 주소를 벌써 아는 것처럼 쳐다봤거든요.
+Margreet: (in haar kamer, laat op de avond) En? Wat zei Erik?
+(자기 방에서, 늦은 저녁) 그래서요? 에릭은 뭐래요?
+Bram: Er zijn signalen over Kadezicht bij de CIE. Hij checkt Dennis Kok. En hij denkt dat er misschien al een onderzoek loopt.
+범죄정보팀에 카더지흐트 관련 첩보가 있대요. 데니스 콕은 확인해 준대요. 그리고 이미 수사가 진행 중일 수도 있다고 생각해요.
+Margreet: Misschien. (schrijft) Wat heb je hem verteld?
+그럴지도요. (적으며) 당신은 그에게 뭘 말했어요?
+Bram: Dat ik bij WCT werk. Mijn rooster. En over vrijdag.
+WCT에서 일한다는 거요. 근무표. 그리고 금요일 얘기도요.
+Margreet: (kijkt op) Alles? Ook vrijdag?
+(고개를 들며) 전부요? 금요일까지요?
+Bram: Hij is de enige bij de politie die ik vertrouw. Als er iets gebeurt, moet iemand het weten.
+경찰 중에 내가 믿는 건 그 사람뿐이에요. 무슨 일이 생기면 누군가는 알아야죠.
+Margreet: (stilte) Goed. Je hebt gelijk. Iemand moet het weten. (legt haar pen neer) En wat doen we met vrijdag?
+(침묵) 좋아요. 당신 말이 맞아요. 누군가는 알아야죠. (펜을 내려놓으며) 그럼 금요일은 어떻게 하죠?
+Bram: Femke heeft een idee. Donderdagnacht zeg ik ja. Dan vraag ik zoveel mogelijk: hoe laat, welke container, wie er komt.
+펨커한테 아이디어가 있어요. 목요일 밤에 좋다고 해요. 그리고 최대한 많이 물어봐요: 몇 시인지, 어느 컨테이너인지, 누가 오는지.
+Margreet: En vrijdag?
+그럼 금요일은요?
+Bram: Vrijdagmiddag meld ik me ziek. Rugpijn. Bert heeft toch een slechte rug.
+금요일 오후에 아프다고 할게요. 허리 통증으로요. 버르트는 어차피 허리가 안 좋잖아요.
+Margreet: En Hanneke?
+하네커는요?
+Bram: Hanneke zegt dat het mag. Ja zeggen is geen misdrijf. Een poort openen wel.
+하네커가 괜찮대요. 좋다고 말하는 건 범죄가 아니에요. 문을 여는 건 범죄지만요.
+Margreet: (knikt langzaam) Donderdag ja, vrijdag ziek. (schrijft het op) Goed. Ik vertrouw jullie. Maar Bram, als Dennis je donderdag vreemd aankijkt, ga je weg. Meteen.
+(천천히 고개를 끄덕이며) 목요일엔 좋다, 금요일엔 병가. (적으며) 좋아요. 여러분을 믿어요. 그래도 브람, 목요일에 데니스가 이상한 눈으로 보면 나와요. 바로요.
+Bram: Afgesproken.
+그렇게 할게요.
+Margreet: En je slaapt vanavond een paar uur. Voor je dienst.
+그리고 오늘 밤엔 근무 전에 몇 시간 자요.
+Bram: Ja, mam.
+네, 엄마.
+Margreet: (glimlacht vermoeid) Je zegt dat elke keer. En je doet het nooit.
+(피곤하게 미소 지으며) 맨날 그 말 하죠. 그리고 한 번도 안 하고.
+Bram: En jij? Jij slaapt ook nooit.
+그럼 당신은요? 당신도 절대 안 자잖아요.
+Margreet: Ik ben hoofdredacteur. Ik slaap als de krant betaald is. (kijkt naar de foto met de cheque) Dat is al lang niet meer gebeurd.
+난 편집장이에요. 매체 돈 문제가 해결되면 잘 거예요. (수표 사진을 보며) 그런 일은 벌써 오래전부터 없었네요.
+Bram: Gaat het slecht? Met het geld?
+안 좋아요? 돈 사정이요?
+Margreet: Het gaat zoals altijd. Maak jij je maar zorgen om de haven. Om het geld maak ik me zorgen.
+늘 그렇죠. 당신은 항구 걱정이나 해요. 돈 걱정은 내가 할게요.
+Dennis: (in het hok, tien uur 's avonds) Bert! Daar ben je. Ik heb een cadeautje voor je.
+(대기실에서, 밤 열 시) 버르트! 왔구나. 너한테 줄 선물이 있어.
+Bram: Een cadeautje? Waarom?
+선물이요? 왜요?
+Dennis: (geeft hem een kleine doos) Voor als je ja zegt. En ook als je nee zegt. Het is maar een telefoon.
+(작은 상자를 건네며) 네가 좋다고 할 때를 위해서. 싫다고 해도 괜찮고. 그냥 휴대전화야.
+Bram: (opent de doos; een zwarte telefoon zonder camera) Hij heeft geen camera.
+(상자를 연다; 카메라 없는 검은 휴대전화) 카메라가 없네요.
+Dennis: Geen camera, geen gps, geen gezeur. Alleen berichten. Na zeven dagen is alles weg.
+카메라도, GPS도, 잔소리도 없어. 메시지만. 7일 지나면 다 사라져.
+Bram: (zijn stem blijft rustig) Handig.
+(목소리는 차분하게) 편리하네요.
+Dennis: Wat kost zo'n ding, denk je?
+이런 게 얼마나 할 것 같아?
+Bram: Geen idee. Honderd euro?
+모르겠어요. 100유로?
+Dennis: (lacht) Honderd! Meer, Bert. Veel meer. Maar voor jou is hij gratis. Zie het als een voorschot.
+(웃으며) 100! 그것보다 많아, 버르트. 훨씬 많지. 근데 너한텐 공짜야. 선불이라고 생각해.
+Dennis: Heel handig. Vanaf nu praten we alleen nog hiermee. (tikt op de doos) Over vrijdag.
+아주 편리하지. 이제부터 우린 이걸로만 얘기하는 거야. (상자를 톡톡 치며) 금요일에 대해서.
+Bram: (tegen zichzelf, terwijl Dennis wegloopt) Achttienhonderd euro. Onder de toonbank. Tussen de oplaadkabels.
+(데니스가 걸어가는 동안 혼잣말로) 1,800유로. 계산대 밑에서. 충전 케이블들 사이에서.
+
+## 주요 단어
+versleuteld | 버르슬뢰털트 | 암호화된
+de cryptotelefoon | 더 크립토텔레폰 | 암호화 휴대전화
+de toonbank | 더 톤방크 | 계산대, 판매대
+kraken → gekraakt | 크라컨 → 허크라크트 | (암호를) 뚫다, 해독하다
+meelezen → meegelezen | 메일레이전 → 메이허레이전 | 함께(몰래) 읽다
+wissen → gewist | 비선 → 허비스트 | 지우다, 삭제하다
+uitzoeken → uitgezocht | 아위트주컨 → 아위트허조흐트 | 알아내다, 조사하다
+in de gaten houden | 인 더 하턴 하우던 | 지켜보다, 감시하다
+het misdrijf | 헷 미스드레이프 | 범죄(중범죄)
+medeplichtig | 메이더플리흐터흐 | 공범인
+wantrouwig | 반트라우어흐 | 의심이 많은
+de rechercheur | 더 러셰르쇠르 | 형사
+de bronbescherming | 더 브론버스헤르밍 | 취재원 보호
+het signaal (mv. signalen) | 헷 시냘 | 신호; (수사) 첩보
+het spoor | 헷 스포르 | 흔적, 단서
+het rooster | 헷 로스터르 | 근무표, 일정표
+het lopend onderzoek | 헷 로펀트 온더르주크 | 진행 중인 수사
+de beheerder | 더 버헤이르더르 | 관리자
+zich ziek melden | 지흐 지크 멜던 | 병가를 내다
+
+## 문법·표현 정리
+**Dit blijft tussen ons — 비밀 약속:** Dit blijft tussen ons.(이건 우리끼리만이야) · Onder ons gezegd…(우리끼리 얘기지만…) · Mondje dicht!(입 다물어!)
+**Je hebt dit niet van mij — 출처를 숨기는 말:** van iemand hebben = ~에게서 들었다/얻었다. Waar heb je dat vandaan?(그거 어디서 들었어?) · Dat heb ik van Noor.(노르한테 들었어)
+**Ik check het even voor je — even + voor je:** 가벼운 도움 제안. even(잠깐)이 부담을 줄여 줍니다. Ik zoek het even voor je op.(찾아봐 줄게) · Ik bel even voor je.(전화해 줄게)
+**Als er iets misgaat — 분리동사 misgaan:** misgaan(잘못되다) → Het gaat mis.(잘못되고 있어) / 종속절에서는 붙여 씀: als er iets misgaat. 비슷하게 meedoen(참여하다): Je mag niet meedoen aan een misdrijf.
+**Daar kan ik niets over zeggen — er/daar + 전치사 분리:** daarover → Daar kan ik niets over zeggen. daar는 앞으로, over는 뒤로 갈라집니다. Daar beslissen we vanavond over.(그건 오늘 밤에 결정해요)
+**zou kunnen — 조심스러운 가능성:** Ik zeg niet dat het zo is. Ik zeg dat het zou kunnen.(그렇다는 게 아니라, 그럴 수도 있다는 거야) 경찰·정보원의 애매한 화법.
+**worden + 과거분사 (현재 수동):** Alles wordt gelogd.(모든 게 기록된다) · Het wordt gewist.(지워진다) 주어가 행위의 대상일 때.
+**zijn geworden(~하게 되었다):** Ze zijn voorzichtiger geworden.(그들은 더 조심스러워졌다) · Ben je gek geworden?(너 미쳤어?) worden의 현재완료는 zijn + geworden.
+**비교급 + -er:** voorzichtig → voorzichtiger, klein → kleiner, jong → jonger. Je ziet er tien jaar jonger uit.(열 살은 젊어 보여)
+**zoveel mogelijk(가능한 한 많이):** Ik vraag zoveel mogelijk.(최대한 많이 물어볼게) · zo snel mogelijk(가능한 한 빨리)
+**tenminste vs ten minste:** Jij weet tenminste waar het over gaat.(넌 적어도 무슨 일인지는 알잖아 — "그나마") / ten minste vijf(최소한 다섯) — 띄어 쓰면 수량의 "최소".
+**doe hem de groeten(안부 전해 줘):** Doe Erik de groeten.(에릭한테 안부 전해) · De groeten aan je moeder!(어머니께 안부 전해 줘!)
+**nog + 부정사 강조: alleen nog:** Vanaf nu praten we alleen nog hiermee.(이제부터는 오직 이걸로만 얘기해) alleen nog = 이제는 ~만
+**'s avonds / 's nachts / 's ochtends:** 옛 소유격 's(= des)가 남은 시간 표현. om zes uur 's avonds(저녁 여섯 시) · van tien tot zes 's nachts
+
+## 취재 노트
+2020년 엔크로챗(EncroChat), 2021년 스카이 ECC(Sky ECC) 암호 통신망을 프랑스·벨기에·네덜란드 수사기관이 해독해 수백만 건의 메시지를 확보했고, 이는 네덜란드 조직범죄 재판의 핵심 증거가 되었다. 이후에도 소규모 암호폰 서비스가 계속 생겨나고 있다.
+경찰 범죄정보팀(CIE, Criminele Inlichtingen Eenheid)은 제보자·첩보를 관리하는 부서다. 경찰관이 수사 정보를 외부에 흘리는 것은 직무상 비밀 누설(schending van het ambtsgeheim)로 처벌 대상이다.
+기자가 범죄 행위에 직접 가담하는 것은 위장 취재에서도 허용되지 않는다. 가게·인물·채널은 가상이다.
