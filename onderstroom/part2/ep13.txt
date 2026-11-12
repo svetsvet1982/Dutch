@@ -1,0 +1,346 @@
+# 2부 13화. Kamerdebat (의회 토론)
+수준: 중상급 (B2, 일부 C1) | 장소: 하네커의 사무실 → 헤이그 하원 본회의장 방청석 → 하원 로비 «Statenpassage» → 편집국 | 시간: 2027년 5월, 월요일 → 화요일 밤
+핵심 표현: Ik dank de geachte afgevaardigde · Daar kom ik later op terug · Dat is niet aan mij · Dat is mij niet bekend · Voorzitter, …
+
+## 대화
+Hanneke: (in haar kantoor, maandagochtend, met een stapel brieven) Drieëntwintig vragen aan Veritas. Twaalf aan de gemeente Rotterdam. Acht aan het ministerie. En vijf persoonlijk aan de heer De Ruiter.
+(월요일 아침, 자기 사무실에서 편지 더미를 놓고) 베리타스에 질문 스물세 개. 로테르담시에 열두 개. 내무부에 여덟 개. 그리고 더라위터르 씨 개인에게 다섯 개.
+Noor: Hoeveel tijd krijgen ze?
+시간은 얼마나 줘요?
+Hanneke: Zeven dagen. Tot volgende maandag, twaalf uur. Dat is ruim. Niemand kan zeggen dat we ze hebben overvallen.
+7일이요. 다음 주 월요일 정오까지요. 넉넉하죠. 우리가 기습했다고 아무도 말 못 해요.
+Noor: (leest de eerste brief) "Klopt het dat versie 4.2 van RisicoRadar het veld NAT_CAT gebruikt met een gewicht van 0,18 in de productieomgeving van de gemeente Rotterdam?"
+(첫 번째 편지를 읽으며) "리시코라다르 버전 4.2가 로테르담시 운영 환경에서 NAT_CAT 필드를 0.18의 가중치로 사용한다는 것이 사실입니까?"
+Hanneke: Concreet. Zonder bijvoeglijke naamwoorden. Geen "schandalig", geen "discriminerend". Alleen feiten die ze kunnen bevestigen of ontkennen.
+구체적이죠. 형용사 없이요. "충격적인", "차별적인" 같은 말 없이. 그쪽이 인정하거나 부인할 수 있는 사실만요.
+Noor: En vraag zeventien. "Klopt het dat de logbestanden op donderdag om 23.47 uur zijn gewijzigd?"
+그리고 17번 질문. "로그 파일이 목요일 23시 47분에 수정된 것이 사실입니까?"
+Hanneke: Die vraag gaat ze slapeloze nachten bezorgen. (kijkt op) Margreet heeft alles gelezen?
+그 질문이 그쪽을 잠 못 들게 할 거예요. (고개를 들며) 마르흐레이트는 다 읽었어요?
+Bram: Gisteravond. Ze heeft twee komma's veranderd en één zin geschrapt.
+어젯밤에요. 쉼표 두 개 고치고 문장 하나 뺐어요.
+Noor: Welke zin?
+어떤 문장이요?
+Bram: "Klopt het dat de oprichting van de Stichting Administratiekantoor Veritas plaatsvond op de zevenentwintigste verdieping van een kantoortoren aan de Zuidas?" Ze zei: "Dat is een ander verhaal. Bewaar het. Eén verhaal tegelijk."
+"베리타스 관리 사무 재단이 자위다스 사무실 빌딩 27층에서 설립되었다는 것이 사실입니까?" 이렇게 말했어요: "그건 다른 기사예요. 아껴 둬요. 한 번에 기사 하나씩."
+Hanneke: (knikt langzaam) Juridisch heeft ze gelijk. Hoe meer je vraagt, hoe meer je moet bewijzen.
+(천천히 고개를 끄덕이며) 법적으로는 그녀 말이 맞아요. 많이 물을수록 증명할 것도 많아지거든요.
+Noor: (stilte) Eén verhaal tegelijk. Dat zei ze in februari ook.
+(침묵) 한 번에 하나씩. 2월에도 그렇게 말했어요.
+Hanneke: (tekent de brieven) Verstuurd om tien uur. Aangetekend en per mail. (glimlacht) Nu begint het wachten.
+(편지에 서명하며) 열 시에 발송. 등기랑 메일로요. (미소 지으며) 이제 기다림이 시작되네요.
+Priscilla: (maandagmiddag, in haar keuken in Zuidoost, met Noor) Dus nu weten ze het. Veritas, de gemeente, het ministerie.
+(월요일 오후, 자위트오스트의 자기 부엌에서 노르와 함께) 그럼 이제 그 사람들도 아는 거네. 베리타스, 시청, 내무부.
+Noor: Nu weten ze welke vragen we hebben. Niet wie jij bent. Jouw naam staat nergens.
+이제 우리가 무슨 질문을 하는지 알죠. 당신이 누군지는 몰라요. 당신 이름은 어디에도 없어요.
+Priscilla: (roert in haar koffie) Ik ben bang, Noor. Niet voor mezelf. Voor de anderen. Mehmet heeft al een brief van Handhaving gehad. Samira ook.
+(커피를 저으며) 무서워, 노르. 나 때문이 아니라. 다른 사람들 때문에. 메흐메트는 벌써 단속과 편지를 받았어. 사미라도.
+Noor: Als het verhaal uit is, kunnen ze die brieven niet meer zomaar sturen. Dan kijkt iedereen mee.
+기사가 나가면 그런 편지를 더는 함부로 못 보내요. 그땐 다들 지켜볼 테니까요.
+Priscilla: En als het verhaal niet uitkomt?
+기사가 안 나가면?
+Noor: (stilte) Het komt uit.
+(침묵) 나가요.
+Priscilla: (kijkt haar aan) Dat zei die vrouw van de televisie in 2019 ook.
+(그녀를 바라보며) 2019년에 텔레비전에 나온 여자도 그렇게 말했어.
+Noor: Die vrouw van de televisie had geen klokkenluider. (glimlacht) Wij wel.
+그 텔레비전 여자한텐 내부고발자가 없었잖아요. (미소 지으며) 우린 있어요.
+Ilse: (aan de telefoon, dinsdagochtend vroeg) Noor? Met Ilse. Ik moet je iets vertellen. Ik hoop dat je niet boos wordt.
+(화요일 이른 아침, 전화로) 노르? 일서야. 할 얘기가 있어. 화내지 않았으면 좋겠는데.
+Noor: Wat is er?
+무슨 일이에요?
+Ilse: Vorige week heb ik onze negen brieven naar een Kamerlid gestuurd. Mevrouw Kartosen. Ze was in 2021 een van de weinigen die echt naar ons luisterde.
+지난주에 우리 편지 아홉 통을 국회의원한테 보냈어. 카르토선 의원. 2021년에 우리 말을 진심으로 들어 준 몇 안 되는 사람이야.
+Noor: (gaat rechtop zitten) En?
+(똑바로 앉으며) 그래서요?
+Ilse: Ze stelt vanmiddag een vraag in het vragenuur. Over RisicoRadar. Over de "terugvorderingen". (stilte) Ik heb jouw naam niet genoemd. Of je krant. Alleen de brieven.
+오늘 오후 질의 시간에 질문을 할 거래. 리시코라다르에 대해서. «환수 기록»에 대해서. (침묵) 네 이름이나 신문사 이름은 말 안 했어. 편지만 줬지.
+Noor: (lange stilte) Het is jullie recht, Ilse. Het zijn jullie brieven.
+(긴 침묵) 그건 여러분 권리예요, 일서. 여러분 편지니까요.
+Ilse: Komen jullie kijken? Op de publieke tribune? Priscilla komt. En Mehmet.
+보러 올래? 방청석에서? 프리실라도 오고. 메흐메트도.
+Noor: (kijkt naar de foto van haar moeder op haar bureau) Ik neem mijn moeder mee.
+(책상 위 엄마 사진을 보며) 엄마도 모시고 갈게요.
+Bram: (op de redactie, als Noor het vertelt) Het vragenuur? Vanmiddag?
+(편집국에서, 노르가 얘기하자) 질의 시간? 오늘 오후에?
+Lucas: Is dat goed of slecht? Voor ons verhaal?
+그게 우리 기사에 좋은 거예요, 나쁜 거예요?
+Bram: Allebei. Goed, omdat de minister moet antwoorden. Slecht, omdat Veritas en het ministerie nu nog beter weten wat er komt.
+둘 다. 장관이 답해야 하니까 좋고. 베리타스랑 내무부가 이제 뭐가 올지 더 잘 알게 되니까 나쁘고.
+Margreet: (vanuit haar deur) En omdat een Kamerlid nu "jouw" verhaal vertelt. Voordat jij het hebt verteld.
+(자기 방 문간에서) 그리고 이제 국회의원이 "당신" 기사를 먼저 말하게 되니까요. 당신이 쓰기도 전에요.
+Noor: Het is niet "mijn" verhaal, Margreet. Het is hun verhaal. Ik schrijf het alleen op.
+그건 "제" 기사가 아니에요, 마르흐레이트. 그 사람들 이야기예요. 저는 받아 적을 뿐이에요.
+Margreet: (glimlacht) Goed antwoord. (zachter) Ga ernaartoe. Neem je moeder mee. Ik wil weten wat de minister zegt. Woord voor woord.
+(미소 지으며) 좋은 대답이에요. (목소리를 낮추며) 가 봐요. 어머니 모시고요. 장관이 뭐라고 하는지 알고 싶어요. 한 마디도 빠짐없이.
+Lucas: Hoe werkt dat eigenlijk, een vragenuur? Ik ben er nog nooit geweest.
+근데 질의 시간은 어떻게 돌아가요? 한 번도 가 본 적 없어요.
+Margreet: (komt erbij zitten; haar ogen beginnen te glanzen) Elke dinsdagmiddag om twee uur. Kamerleden melden 's ochtends een vraag aan bij de voorzitter. Over iets uit het nieuws. De minister hoort pas een paar uur van tevoren welke vraag komt.
+(옆에 와서 앉는다; 눈이 반짝이기 시작한다) 매주 화요일 오후 두 시요. 의원들이 아침에 의장한테 질문을 신청해요. 뉴스에 나온 일에 대해서요. 장관은 몇 시간 전에야 어떤 질문이 올지 알게 되죠.
+Lucas: Een paar uur? Dat is weinig.
+몇 시간이요? 짧네요.
+Margreet: Genoeg voor een ambtenaar om een spiekbriefje te schrijven. (glimlacht) Let op de ambtenaren op de eerste rij achter de minister. Als de minister niet weet wat ze moet zeggen, kijkt ze naar hen. Dan weet je dat het antwoord niet van haar komt.
+공무원이 커닝 페이퍼 하나 쓰기엔 충분하죠. (미소 지으며) 장관 뒤 첫째 줄의 공무원들을 잘 봐요. 장관이 뭐라고 해야 할지 모르면 그들을 쳐다봐요. 그럼 그 답이 장관한테서 나온 게 아니라는 걸 알 수 있죠.
+Lucas: Hoe weet je dat allemaal?
+그걸 다 어떻게 알아요?
+Margreet: Ik heb vijftien jaar op de perstribune gezeten. Met Kees. (stilte) Hij noemde het "het theater". Hij zei: "Het echte werk gebeurt in de gang. In het theater wordt alleen voorgelezen."
+15년 동안 기자석에 앉아 있었거든요. 케이스랑요. (침묵) 그 사람은 그걸 "극장"이라고 불렀어요. 이렇게 말했죠: "진짜 일은 복도에서 일어난다. 극장에선 낭독만 할 뿐이다."
+Noor: Dan ga ik ook naar de gang.
+그럼 저도 복도로 갈게요.
+Margreet: Ga naar de Statenpassage, na afloop. Daar lopen ze allemaal door. Kamerleden, ambtenaren, lobbyisten. (staat op) Bram gaat mee. Hij kent de gang.
+끝나고 슈타턴파사허로 가요. 다들 거길 지나가요. 의원, 공무원, 로비스트. (일어서며) 브람도 같이 가요. 그 사람은 복도를 알아요.
+Lucas: (als Margreet weg is) Ze kende Kees echt goed, hè?
+(마르흐레이트가 가자) 정말 케이스를 잘 알았네요?
+Bram: (kijkt naar de foto van Kees aan de muur) Beter dan ik dacht.
+(벽에 걸린 케이스 사진을 보며) 내가 생각했던 것보다 더.
+Khadija: (op de publieke tribune van de Tweede Kamer, naast Noor; ze kijkt naar beneden, naar de blauwe stoelen) Ik heb hier gezeten. In 2019. Op deze rij.
+(하원 방청석에서, 노르 옆에 앉아; 아래의 파란 의석들을 내려다보며) 여기 앉아 있었어. 2019년에. 바로 이 줄에.
+Noor: Ik weet het, mama. Ik zat naast je.
+알아요, 엄마. 제가 옆에 있었잖아요.
+Khadija: Je was zestien en je had een boze brief geschreven aan de premier. Je wilde hem van de tribune naar beneden gooien.
+넌 열여섯 살이었고 총리한테 화난 편지를 썼었지. 방청석에서 아래로 던지고 싶어 했어.
+Noor: (glimlacht) Dat mocht niet van de bode.
+(미소 지으며) 경위가 못 하게 했죠.
+Ilse: (komt de tribune op met Mehmet; ze gaat naast Khadija zitten) Mevrouw El Amrani? Ik ben Ilse. Noor heeft over u verteld.
+(메흐메트와 함께 방청석으로 올라와 카디자 옆에 앉는다) 엘 암라니 부인이세요? 일서예요. 노르가 부인 얘기를 했어요.
+Khadija: (geeft haar een hand) Khadija. Zeg maar je. We zitten toch in hetzelfde schuitje.
+(악수하며) 카디자예요. 말 편하게 해요. 우린 같은 배를 탄 사이잖아요.
+Mehmet: Al acht jaar. Met een lek erin.
+8년째요. 구멍까지 난 배로요.
+Khadija: (lacht zacht) Met een lek erin.
+(조용히 웃으며) 구멍까지 난 배로라.
+Priscilla: (komt als laatste, met een bos tulpen) Voor na afloop. Om te vieren, of om te huilen. We zien wel.
+(마지막으로, 튤립 다발을 들고 온다) 끝나고 줄 거예요. 축하할지, 울지. 두고 봐야죠.
+Bode: (vriendelijk maar streng) Mevrouw, bloemen mogen niet mee op de tribune.
+(친절하지만 엄격하게) 부인, 꽃은 방청석에 가지고 들어올 수 없습니다.
+Priscilla: (zucht) Natuurlijk niet. Niets mag hier. (geeft de tulpen aan de bode) Bewaart u ze voor me?
+(한숨 쉬며) 당연히 안 되겠죠. 여긴 뭐든 안 돼. (튤립을 경위에게 건네며) 맡아 주실래요?
+Bode: (een man in een donker uniform, zacht) Dames, mag ik u vragen stil te zijn? Het vragenuur begint.
+(어두운 제복 차림의 남자, 조용히) 숙녀분들, 조용히 해 주시겠어요? 질의 시간이 시작됩니다.
+Voorzitter: (met een hamer) Ik open de vergadering. Aan de orde is het vragenuur. Ik geef het woord aan mevrouw Kartosen.
+(의사봉을 두드리며) 회의를 개회합니다. 질의 시간입니다. 카르토선 의원께 발언권을 드립니다.
+Kartosen: (achter het spreekgestoelte, met een paar brieven in haar hand) Dank u wel, voorzitter. Ik heb hier negen brieven. Negen brieven van gemeenten aan mensen in de bijstand. "U bent geselecteerd op basis van een risicoanalyse."
+(연단 뒤에서, 편지 몇 통을 손에 들고) 감사합니다, 의장님. 여기 편지 아홉 통이 있습니다. 지자체가 생계 보조금 수급자들에게 보낸 편지 아홉 통이요. "귀하는 위험 분석을 근거로 선정되었습니다."
+Kartosen: Alle negen ontvangers zijn gedupeerden van de toeslagenaffaire. Dezelfde ouders die de overheid in 2021 haar excuses aanbood.
+수신자 아홉 명 모두 보육 수당 스캔들 피해자입니다. 정부가 2021년에 사과했던 바로 그 부모들입니다.
+Kartosen: Mijn vraag aan de minister is eenvoudig. Gebruiken gemeenten algoritmes waarin een eerdere terugvordering, ook een onterechte terugvordering uit de toeslagenaffaire, als risicofactor meetelt?
+장관께 드리는 제 질문은 간단합니다. 지자체들이 과거의 환수 기록, 그것도 보육 수당 스캔들의 부당한 환수 기록까지 위험 요인으로 반영하는 알고리즘을 쓰고 있습니까?
+Voorzitter: Dank u wel. Het woord is aan de minister van Binnenlandse Zaken.
+감사합니다. 내무부 장관께 발언권을 드립니다.
+Minister: (staat op, schikt haar papieren) Voorzitter. Ik dank de geachte afgevaardigde voor haar vraag. Het is een belangrijke vraag. Een vraag die mij zeer aan het hart gaat.
+(일어서서 서류를 정리하며) 의장님. 존경하는 의원님의 질문에 감사드립니다. 중요한 질문입니다. 제 마음에 아주 깊이 와닿는 질문이기도 합니다.
+Khadija: (fluistert) Dat zei de vorige minister ook. "Zeer aan het hart."
+(속삭이며) 전 장관도 그렇게 말했어. "마음에 깊이 와닿는다."
+Minister: Laat ik vooropstellen: het kabinet heeft na de toeslagenaffaire grote stappen gezet. We hebben een algoritmeregister. We werken aan nieuwe regels voor toezicht. Discriminatie is en blijft verboden.
+먼저 말씀드리자면: 내각은 보육 수당 스캔들 이후 큰 진전을 이뤘습니다. 알고리즘 등록부가 있습니다. 감독에 관한 새 규정을 준비하고 있습니다. 차별은 금지되어 있으며 앞으로도 그럴 것입니다.
+Minister: Over de specifieke algoritmes die gemeenten gebruiken: dat is niet aan mij. Gemeenten zijn zelf verantwoordelijk voor hun uitvoering. Ik ga niet over individuele gemeenten, en zeker niet over individuele bedrijven.
+지자체가 쓰는 구체적인 알고리즘에 관해서는: 그건 제 소관이 아닙니다. 지자체가 스스로 집행에 책임을 집니다. 저는 개별 지자체를, 더구나 개별 기업을 관할하지 않습니다.
+Priscilla: (heel zacht, op de tribune) Dat is niet aan mij.
+(방청석에서 아주 작게) 제 소관이 아닙니다라.
+Minister: Wel kan ik de geachte afgevaardigde toezeggen dat ik de VNG, de Vereniging van Nederlandse Gemeenten, zal vragen om dit te inventariseren. Daar kom ik later schriftelijk op terug.
+다만 존경하는 의원님께 네덜란드 지자체 협회(VNG)에 이 문제를 조사해 달라고 요청하겠다고 약속드릴 수 있습니다. 그 결과는 추후 서면으로 답변드리겠습니다.
+Voorzitter: Mevrouw Kartosen, uw vervolgvraag.
+카르토선 의원, 추가 질문하십시오.
+Kartosen: Voorzitter, "later schriftelijk" hebben deze ouders al acht jaar gehoord. Ik vraag het concreter. Is de minister bekend met het model RisicoRadar, dat door een commercieel bedrijf aan minstens zevenendertig gemeenten wordt geleverd?
+의장님, 이 부모들은 "추후 서면으로"를 이미 8년째 듣고 있습니다. 더 구체적으로 묻겠습니다. 장관께서는 한 민간 기업이 최소 37개 지자체에 공급하는 리시코라다르라는 모델을 알고 계십니까?
+Minister: (een korte stilte; ze kijkt even naar een ambtenaar op de eerste rij achter haar) Voorzitter, ik ken de naam. Ik ken niet de technische details.
+(짧은 침묵; 뒤쪽 첫째 줄의 공무원을 잠깐 쳐다본다) 의장님, 이름은 알고 있습니다. 기술적인 세부 사항은 모릅니다.
+Noor: (verstijft; kijkt naar de ambtenaar op de eerste rij) Mama… die man achter de minister.
+(굳는다; 첫째 줄의 공무원을 바라보며) 엄마… 장관 뒤에 있는 저 남자.
+Khadija: Wie is dat?
+누군데?
+Noor: (fluistert) Martijn de Ruiter.
+(속삭이며) 마르테인 더라위터르요.
+Kartosen: Dan een laatste vraag, voorzitter. Er circuleren berichten dat een conceptversie van de nieuwe regels voor algoritmetoezicht al bij marktpartijen lag, weken voordat de internetconsultatie begon. Is de minister daarmee bekend?
+그럼 마지막 질문입니다, 의장님. 새 알고리즘 감독 규정의 초안이 인터넷 의견 수렴이 시작되기 몇 주 전에 이미 시장 참여자들 손에 있었다는 소문이 돌고 있습니다. 장관께서는 이 사실을 알고 계십니까?
+Minister: (een langere stilte; de ambtenaar achter haar buigt zich naar voren en fluistert iets) Voorzitter. Dat is mij niet bekend.
+(더 긴 침묵; 뒤의 공무원이 몸을 숙여 뭔가를 속삭인다) 의장님. 그 사실은 제가 알지 못합니다.
+Kartosen: Zou de minister het willen uitzoeken?
+장관께서 알아봐 주시겠습니까?
+Minister: Ik zal het nagaan. Uiteraard. Integriteit binnen het ministerie heeft voor mij de hoogste prioriteit.
+확인해 보겠습니다. 당연히요. 부처 내 청렴은 제게 최우선 과제입니다.
+Mehmet: (zacht, naast Priscilla) De hoogste prioriteit. Iedereen heeft de hoogste prioriteit.
+(프리실라 옆에서 조용히) 최우선 과제라. 다들 최우선 과제래.
+Voorzitter: Dank u wel. Mevrouw De Graaf, ook over dit onderwerp?
+감사합니다. 더 흐라프 의원, 같은 주제입니까?
+De Graaf: (een vrouw van een coalitiepartij, vanaf de interruptiemicrofoon) Voorzitter, kort. De minister noemde het algoritmeregister. Staat RisicoRadar daarin?
+(여당 소속 여성 의원, 발언 마이크 앞에서) 의장님, 짧게 하겠습니다. 장관께서 알고리즘 등록부를 언급하셨는데요. 리시코라다르가 거기 올라 있습니까?
+Minister: (kijkt weer naar de eerste rij; een ambtenaar schudt kort zijn hoofd) Voorzitter, het register is nog niet volledig. Gemeenten vullen het zelf in, op vrijwillige basis.
+(다시 첫째 줄을 본다; 한 공무원이 짧게 고개를 젓는다) 의장님, 등록부는 아직 완전하지 않습니다. 지자체가 자율적으로 직접 입력합니다.
+De Graaf: Dus het antwoord is nee.
+그러니까 답은 "아니요"군요.
+Minister: Daar kom ik later op terug.
+그 문제는 나중에 답변드리겠습니다.
+Noor: (fluistert tegen haar moeder) Ze keek weer naar de eerste rij.
+(엄마에게 속삭이며) 또 첫째 줄을 봤어요.
+Khadija: (fluistert terug) Dan komt het antwoord niet van haar.
+(속삭이며 대답한다) 그럼 그 답은 장관한테서 나온 게 아니구나.
+Voorzitter: Dank u wel. Dan geef ik het woord aan de heer Van Rijn, voor een vraag over hetzelfde onderwerp.
+감사합니다. 그럼 같은 주제로 질문하실 판 레인 의원께 발언권을 드립니다.
+Van Rijn: (een jongere man in een strak pak, vanuit de bankjes) Voorzitter, laten we ook eerlijk zijn. Fraude kost de samenleving miljoenen. Gemeenten moeten toch kunnen controleren? Of wil mevrouw Kartosen dat we de ogen sluiten?
+(몸에 꼭 맞는 정장을 입은 젊은 남자가 의석에서) 의장님, 솔직해집시다. 부정 수급은 사회에 수백만 유로의 손실을 줍니다. 지자체가 점검은 할 수 있어야 하지 않습니까? 아니면 카르토선 의원은 우리가 눈을 감길 원하는 겁니까?
+Kartosen: (bij de interruptiemicrofoon) Voorzitter, niemand wil de ogen sluiten. Ik wil dat we ze openen. Ook voor wat het systeem zelf doet.
+(발언 마이크 앞에서) 의장님, 누구도 눈을 감길 원하지 않습니다. 저는 우리가 눈을 뜨길 원합니다. 시스템 자체가 하는 일에 대해서도요.
+Van Rijn: Dat klinkt mooi. Maar gewone Nederlanders die hard werken willen dat hun belastinggeld niet naar fraudeurs gaat.
+멋진 말이네요. 하지만 열심히 일하는 평범한 네덜란드인들은 자기 세금이 부정 수급자에게 가는 걸 원하지 않습니다.
+Kartosen: Deze negen mensen zijn geen fraudeurs, voorzitter. Dat heeft de overheid zelf vastgesteld. In 2021.
+이 아홉 명은 부정 수급자가 아닙니다, 의장님. 그건 정부 스스로 2021년에 확인했습니다.
+Voorzitter: (tikt met de hamer) Ik ga het debat hier niet laten ontstaan. Dit is het vragenuur. Dank u wel.
+(의사봉을 두드리며) 여기서 토론이 벌어지게 두지 않겠습니다. 질의 시간입니다. 감사합니다.
+Priscilla: (staat half op van haar stoel) Wij zijn geen fraudeurs!
+(의자에서 반쯤 일어서며) 우리는 사기꾼이 아니에요!
+Bode: (komt meteen aanlopen) Mevrouw, op de tribune mag u niet spreken. Ik moet u vragen te gaan zitten, of de zaal te verlaten.
+(곧바로 다가오며) 부인, 방청석에서는 발언할 수 없습니다. 앉아 주시든지, 아니면 나가 주셔야 합니다.
+Priscilla: (gaat langzaam weer zitten; haar ogen vol tranen) Acht jaar, meneer. Acht jaar mag ik niet spreken.
+(천천히 다시 앉는다; 눈에 눈물이 가득하다) 8년이에요, 선생님. 8년 동안 말을 못 하게 하네요.
+Bode: (zachter, na een stilte) Het spijt me, mevrouw. Echt.
+(잠시 침묵 뒤, 목소리를 낮추며) 죄송합니다, 부인. 정말로요.
+Khadija: (pakt Priscilla's hand; tegen Noor, zacht) Zij mag niet spreken. Maar jij mag schrijven.
+(프리실라의 손을 잡는다; 노르에게 조용히) 저 사람은 말을 못 해. 그래도 너는 쓸 수 있잖아.
+Khadija: (om vijf uur, na alles, op de trappen bij het Binnenhof, in de zon; Priscilla heeft haar tulpen terug) Weet je wat ik voelde, daarboven?
+(다섯 시, 모든 일이 끝난 뒤, 햇빛 아래 비넨호프 계단에서; 프리실라는 튤립을 돌려받았다) 저 위에서 내가 뭘 느꼈는지 알아?
+Noor: Woede?
+분노요?
+Khadija: Nee. Dat dacht ik ook. Maar nee. (kijkt naar het water van de Hofvijver) Ik voelde dat ik niet meer alleen was. In 2019 zaten we met z'n tweeën. Vandaag met z'n vijven. En een Kamerlid. En jij met een pen.
+아니. 나도 그럴 줄 알았어. 근데 아니었어. (호프베이버 연못물을 바라보며) 더 이상 혼자가 아니라는 걸 느꼈어. 2019년엔 우리 둘이었잖아. 오늘은 다섯 명이었고. 국회의원도 있었고. 그리고 펜을 든 너도.
+Noor: (pakt haar hand) Mama…
+(그녀의 손을 잡으며) 엄마…
+Khadija: Ik heb gezegd dat je het moest laten. Twee maanden geleden. In mijn keuken. (stilte) Ik had ongelijk. Laat het niet.
+두 달 전에 우리 부엌에서 그만두라고 했지. (침묵) 내가 틀렸어. 그만두지 마.
+Noor: (haar ogen vullen zich met tranen) Ik laat het niet, mama.
+(눈에 눈물이 차오르며) 안 그만둘게요, 엄마.
+Khadija: En breng mijn map terug als je klaar bent. Die van tien centimeter. (glimlacht) Misschien wordt hij binnenkort dunner.
+그리고 다 끝나면 내 서류철 돌려줘. 그 10센티짜리. (미소 지으며) 어쩌면 곧 얇아질지도 모르니까.
+Priscilla: (geeft Khadija een tulp) Voor jou. Om te vieren. (stilte) Of om te huilen. Allebei mag.
+(카디자에게 튤립 한 송이를 건네며) 당신 거예요. 축하하라고요. (침묵) 아니면 울라고요. 둘 다 돼요.
+Bram: (eerder, direct na het vragenuur, in de Statenpassage, de lange gang waar journalisten en Kamerleden door elkaar lopen) Mevrouw Kartosen? Bram Hoekstra, De Lantaarn.
+(그보다 앞서, 질의 시간이 끝나자마자, 기자와 의원들이 뒤섞여 다니는 긴 복도 «슈타턴파사허»에서) 카르토선 의원님? 데 란타른의 브람 후크스트라입니다.
+Kartosen: (blijft staan) De Lantaarn. Van het stuk over de haven.
+(멈춰 서서) 데 란타른. 항구 기사 쓴 곳이죠.
+Bram: Dat klopt. Mag ik u iets vragen? Waar haalde u het idee dat het concept al bij marktpartijen lag?
+맞습니다. 하나 여쭤봐도 될까요? 초안이 이미 시장 참여자들한테 있었다는 얘기는 어디서 들으셨어요?
+Kartosen: (glimlacht) Van dezelfde plek als u, vermoed ik. Een klein vogeltje. (zachter) Een vogel die wil dat het op twee plekken tegelijk bekend wordt. In de Kamer én in de krant.
+(미소 지으며) 아마 당신이랑 같은 곳에서요. 작은 새 한 마리가요. (목소리를 낮추며) 의회랑 신문 두 군데에서 동시에 알려지길 바라는 새요.
+Bram: (verstijft even) Een vogel?
+(잠깐 굳으며) 새요?
+Kartosen: Een zwarte vogel. (loopt door) Wanneer publiceert u?
+검은 새요. (계속 걸어가며) 언제 발행하세요?
+Bram: Volgende week. Na het wederhoor.
+다음 주요. 반론 청취가 끝나면요.
+Kartosen: Goed. Dan stel ik daarna schriftelijke vragen. Met uw stuk erbij. (over haar schouder) Dan kan ze niet meer zeggen dat het haar niet bekend is.
+좋아요. 그럼 그다음에 서면 질의를 할게요. 당신 기사를 첨부해서요. (어깨 너머로) 그럼 장관이 더는 몰랐다고 할 수 없겠죠.
+Lucas: (zacht, naast Bram) Een zwarte vogel. Een kraai?
+(브람 옆에서 조용히) 검은 새요. 까마귀?
+Bram: (kijkt de gang in; aan het eind staat Martijn de Ruiter, met een map onder zijn arm; hij ziet Bram, en kijkt meteen weg) Kraai heeft haar ook getipt.
+(복도 끝을 바라본다; 거기 마르테인 더라위터르가 서류철을 끼고 서 있다; 브람을 보고 곧바로 시선을 돌린다) 까마귀가 그녀한테도 제보했구나.
+Lucas: Waarom zou Kraai dat doen? Ons verhaal weggeven?
+까마귀는 왜 그랬을까요? 우리 기사를 넘겨주다니요?
+Bram: Hij geeft het niet weg. Hij zorgt dat niemand het kan tegenhouden. (stilte) Als alleen wij het weten, kan iemand ons stoppen. Met een rechter. Met geld. Met… iets anders. Als een Kamerlid het ook weet, gaat het niet meer weg.
+넘겨준 게 아니야. 아무도 못 막게 하는 거지. (침묵) 우리만 알면 누군가 우리를 막을 수 있어. 판사로. 돈으로. 아니면… 다른 걸로. 국회의원도 알면 더 이상 사라지지 않아.
+Lucas: Met iets anders?
+다른 걸로요?
+Bram: (kijkt hem aan; zegt niets)
+(그를 쳐다본다; 아무 말도 하지 않는다)
+Woordvoerder: (een vrouw van het ministerie, met een badge) Meneer Hoekstra? Over uw vragen van gisteren. De minister antwoordt donderdag. Schriftelijk.
+(출입증을 단 내무부 여성 직원) 후크스트라 씨? 어제 보내신 질문 말인데요. 장관님이 목요일에 답변하실 거예요. 서면으로요.
+Bram: En de vijf vragen aan de heer De Ruiter persoonlijk?
+그럼 더라위터르 씨 개인에게 보낸 다섯 개 질문은요?
+Woordvoerder: (een korte pauze) Die worden ook door de minister beantwoord. Medewerkers reageren niet individueel.
+(잠깐 멈췄다가) 그것도 장관님이 답하실 거예요. 직원들은 개별적으로 답하지 않습니다.
+Bram: Ook niet als ze persoonlijk een map met een concept aan een directeur hebben gegeven?
+개인적으로 대표한테 초안 서류철을 건넸는데도요?
+Woordvoerder: (haar glimlach verdwijnt) Ik heb daar geen commentaar op. Donderdag.
+(미소가 사라지며) 그것에 대해선 할 말이 없습니다. 목요일이요.
+Noor: (komt aanlopen vanaf de trap van de tribune) Bram! Heb je De Ruiter gezien? Achter de minister?
+(방청석 계단에서 내려오며) 브람! 더라위터르 봤어요? 장관 뒤에요?
+Bram: Ik heb hem gezien. Hij zag mij ook. Hij keek weg.
+봤어. 그 사람도 나를 봤고. 시선을 피하더라.
+Noor: Hij fluisterde de minister het antwoord in. "Dat is mij niet bekend." Hij schreef de regels, hij lekte ze, en nu fluistert hij dat de minister het niet weet.
+장관한테 답을 귀띔했어요. "그 사실은 제가 알지 못합니다." 규정을 쓰고, 흘리고, 이제는 장관이 모른다고 귓속말하네요.
+Bram: (kijkt naar het eind van de gang, waar De Ruiter verdwenen is) Het theater, zei Kees. In het theater wordt alleen voorgelezen.
+(더라위터르가 사라진 복도 끝을 바라보며) 케이스가 극장이라고 했지. 극장에선 낭독만 할 뿐이라고.
+Ilse: (komt erbij met Kartosen, die haar op de schouder klopt) Noor! Mevrouw Kartosen wil je moeder ontmoeten.
+(카르토선 의원과 함께 다가온다, 의원이 그녀의 어깨를 토닥인다) 노르! 카르토선 의원님이 네 어머니를 만나고 싶어 하셔.
+Kartosen: (geeft Khadija een hand) Mevrouw. Ik herinner me u. Van de hoorzitting in 2020. U had een map bij u. Een hele dikke.
+(카디자와 악수하며) 부인. 기억나요. 2020년 공청회 때요. 서류철을 갖고 계셨죠. 아주 두꺼운 거요.
+Khadija: (verrast) Die heb ik nog steeds.
+(놀라며) 아직도 갖고 있어요.
+Hanneke: (op de redactie, 's avonds, met een brief in haar hand) Hij is er al. Een brief van de advocaten van Veritas. Twee dagen voor de deadline.
+(저녁, 편집국에서, 편지 한 통을 손에 들고) 벌써 왔어요. 베리타스 변호사들한테서 온 편지예요. 마감 이틀 전에요.
+Noor: Wat staat erin?
+뭐라고 쓰여 있어요?
+Hanneke: (leest) "Namens onze cliënte Veritas Data B.V. sommeren wij u om af te zien van publicatie. Uw informatie is verkregen door een voormalig werknemer die zich onder valse voorwendselen toegang heeft verschaft. Indien u publiceert, zullen wij een kort geding aanspannen en een schadevergoeding vorderen."
+(읽는다) "의뢰인 베리타스 데이터 유한회사를 대리하여 귀사에 보도를 철회할 것을 촉구합니다. 귀사의 정보는 거짓 명분으로 접근한 전 직원을 통해 입수되었습니다. 보도할 경우 당사는 가처분을 신청하고 손해배상을 청구할 것입니다."
+Noor: (heel stil) "Een voormalig werknemer onder valse voorwendselen."
+(아주 조용히) "거짓 명분으로 접근한 전 직원"이라.
+Bram: Ze bedoelen jou.
+너를 말하는 거야.
+Noor: Ze bedoelen mij. Ze weten het. Officieel. Op papier.
+저를 말하는 거죠. 알고 있어요. 공식적으로. 서면으로요.
+Hanneke: Ze hebben het nu opgeschreven. Dat is goed. Dan weten we waar we staan. (legt de brief neer) Ze zijn snel. Ze hadden deze brief al klaar.
+이제 그걸 문서로 남겼네요. 그건 좋아요. 그럼 우리가 어디 서 있는지 아니까요. (편지를 내려놓으며) 빠르네요. 이 편지를 미리 준비해 뒀던 거예요.
+Margreet: (in de deuropening; zacht) Ik zei het toch. Zodra jullie wederhoor sturen, gaan ze naar de rechter.
+(문간에서; 조용히) 내가 그랬잖아요. 반론 요청을 보내자마자 법원으로 갈 거라고.
+Bram: (kijkt haar aan) Je zei het, ja.
+(그녀를 쳐다보며) 그랬죠.
+Margreet: (komt binnen, legt een hand op Noors schouder) We gaan in verweer. Allemaal samen. Hanneke, wat heb je nodig?
+(들어와서 노르의 어깨에 손을 얹으며) 우리는 맞설 거예요. 다 같이요. 하네커, 뭐가 필요해요?
+Hanneke: Alles. Sven's documenten. Noors aantekeningen. De foto's uit Den Haag. En een goede nachtrust. Die krijgen we niet.
+전부요. 스벤의 서류. 노르의 메모. 헤이그 사진들. 그리고 푹 자는 거요. 그건 못 하겠지만요.
+Noor: (kijkt naar Margreets hand op haar schouder; zegt niets)
+(자기 어깨 위의 마르흐레이트 손을 바라본다; 아무 말도 하지 않는다)
+Bram: (zijn telefoon trilt; Signal) Kraai.
+(휴대전화가 진동한다; 시그널) 까마귀야.
+Kraai: [Signal] Twee plekken tegelijk. De Kamer en de krant. Dan kan niemand het meer stoppen. Ook niet van binnenuit.
+[시그널] 두 군데 동시에. 의회랑 신문. 그럼 더는 아무도 못 막아. 안에서도.
+Bram: (staart naar het scherm) "Ook niet van binnenuit."
+(화면을 응시하며) "안에서도"라.
+Femke: (later, alleen met Bram bij het raam; zacht) Ze zei: "Ik zei het toch." Ze zei het vorige week al. Zaterdag. Over een kort geding. Voordat er een brief was.
+(나중에, 창가에서 브람과 단둘이; 조용히) 그녀가 "내가 그랬잖아요"라고 했지. 지난주에 벌써 말했었어. 토요일에. 가처분 얘기를. 편지가 오기도 전에.
+Bram: (zonder zich om te draaien) Ze heeft dertig jaar ervaring, Femke. Iedereen weet dat bedrijven zoals Veritas naar de rechter gaan.
+(돌아보지도 않고) 그녀는 30년 경력이야, 펨커. 베리타스 같은 회사들이 법원으로 간다는 건 누구나 알아.
+Femke: Iedereen weet het. (stilte) En toch kijk je al een minuut naar dat bericht van Kraai.
+누구나 알지. (침묵) 그런데도 넌 1분째 까마귀 메시지만 보고 있잖아.
+Bram: (stopt zijn telefoon weg) Ik kijk naar niets.
+(휴대전화를 집어넣으며) 아무것도 안 보고 있어.
+
+## 주요 단어
+het vragenuur | 헷 브라헌위르 | (의회) 질의 시간
+de publieke tribune | 더 퓌블리커 트리뷔너 | 방청석
+de bode | 더 보더 | (의회) 경위, 안내원
+de voorzitter | 더 보르지터르 | 의장
+het spreekgestoelte | 헷 스프레이크허스툴터 | 연단
+de geachte afgevaardigde | 더 허아흐터 아프허파르더흐더 | 존경하는 의원님
+aan het hart gaan | 안 헷 하르트 한 | 마음에 깊이 와닿다
+toezeggen → toegezegd | 투제헌 | 약속하다
+inventariseren → geïnventariseerd | 인펜타리세이런 | 조사·목록화하다
+schriftelijk terugkomen op | 스흐리프털럭 터뤼흐코먼 옵 | 추후 서면으로 답하다
+de vervolgvraag | 더 버르폴흐브라흐 | 추가 질문
+nagaan → nagegaan | 나한 | 확인하다, 알아보다
+de interruptiemicrofoon | 더 인터뤼프시미크로폰 | (의회) 발언 마이크
+de schriftelijke vragen | 더 스흐리프털러커 브라헌 | 서면 질의
+sommeren → gesommeerd | 소메이런 | (법적으로) 촉구하다, 최고하다
+onder valse voorwendselen | 온더르 팔서 보르벤트설런 | 거짓 명분으로
+een kort geding aanspannen | 언 코르트 허딩 안스파넌 | 가처분을 신청하다
+de schadevergoeding | 더 스하더버르후딩 | 손해배상
+in verweer gaan | 인 버르베이르 한 | 반론하다, 맞서다
+
+## 문법·표현 정리
+**Voorzitter, … — 의회 화법의 규칙:** 네덜란드 하원에서는 의원끼리 직접 말하지 않고 의장을 거칩니다. 모든 발언이 Voorzitter로 시작하고, 상대는 3인칭(de minister, mevrouw Kartosen)으로 부릅니다.
+**Ik dank de geachte afgevaardigde — 존칭 정형구:** "존경하는 의원님께 감사드립니다." de geachte afgevaardigde(존경하는 의원)는 장관이 의원을 부를 때 쓰는 격식어입니다.
+**Daar kom ik later (schriftelijk) op terug — terugkomen op:** "그것에 대해서는 나중에(서면으로) 답하겠습니다." daarop → daar … op 분리. 정치인의 대표적인 미루기 표현.
+**Dat is niet aan mij — aan iemand zijn:** "그건 제 소관이 아닙니다." Het is aan jou.(네가 결정할 일이야) · Dat is aan de gemeenten.(그건 지자체가 할 일이다)
+**Dat is mij niet bekend — bekend zijn(알려져 있다):** 주어는 사실, 사람은 간접목적어. Dat is mij niet bekend.(그건 제가 알지 못합니다) · Is de minister daarmee bekend?(장관은 그걸 알고 있습니까?)
+**Laat ik vooropstellen…:** 8화에 이어 다시. 장관·대변인이 원칙부터 늘어놓을 때 쓰는 서두.
+**zeker niet(더구나 ~은 아니다):** Ik ga niet over individuele gemeenten, en zeker niet over individuele bedrijven.(개별 지자체를 관할하지 않으며, 더구나 개별 기업은 아니다)
+**gaan over(~을 관할하다):** Ik ga niet over individuele bedrijven.(저는 개별 기업을 관할하지 않습니다) — "~에 관한 것이다"라는 뜻과 함께 "~에 권한이 있다"는 뜻도 있습니다.
+**Ik zal het nagaan / Uiteraard:** "확인해 보겠습니다 / 당연히요." uiteraard(당연히)는 natuurlijk의 격식체.
+**laten ontstaan(생기게 두다):** Ik ga het debat hier niet laten ontstaan.(여기서 토론이 벌어지게 두지 않겠다)
+**namens(~을 대리하여):** Namens onze cliënte…(의뢰인을 대리하여) · namens het bestuur(이사회를 대표하여)
+**afzien van(~을 단념하다):** af te zien van publicatie(보도를 철회하다) — 법률 서신의 문체. 일상어로는 niet publiceren.
+**indien(만약 ~하면, 격식체):** Indien u publiceert…(보도할 경우) = Als u publiceert… 공문서·계약서에서 als 대신 씁니다.
+**zich toegang verschaffen(접근하다, 들어가다):** die zich onder valse voorwendselen toegang heeft verschaft(거짓 명분으로 접근한) — 법률 문서의 재귀 표현. (도전 C1)
+
+## 취재 노트
+네덜란드 하원은 매주 화요일 «질의 시간(vragenuur)»을 열어 의원이 장관에게 시사 문제를 즉석에서 묻는다. 의원은 의장을 통해 발언하며, 방청석에서는 발언·박수가 금지되고 경위(bode)가 질서를 유지한다. 정부는 공공 알고리즘을 공개하는 «알고리즘 등록부(Algoritmeregister)»를 운영하고 있다.
+기업이 보도 전에 변호사를 통해 «최고서(sommatiebrief)»를 보내 보도 철회를 요구하고 가처분(kort geding)을 예고하는 것은 흔한 대응이며, 법원은 표현의 자유와 공익을 기준으로 판단한다(→ 14화). 카르토선·판 레인 의원, 장관의 답변은 가상이다.
