@@ -1,0 +1,346 @@
+# 4부 9화. Het patroon (패턴) 🔍
+수준: 중상급 (B2) | 장소: 입의 작업실(편집국 지하 창고) → 카페 → 하나의 연구실(화상 통화) → 편집국 전쟁실 → 마르흐레이트의 사무실 | 시간: 2027년 11월 첫째 주, 금요일 → 화요일
+핵심 표현: Kijk naar de data · Steeds dezelfde recruiter · Dat profiel bestaat niet · Naar het zich laat aanzien…
+
+## 대화
+Jip: (vrijdagochtend, in een kelderruimte onder de redactie die hij "het hok" noemt; drie schermen, een oude bank, een koffiezetapparaat en een whiteboard vol lijnen) Welkom in het hok. Ga zitten. Niet op de bank. Daar ligt mijn jas. En mijn ontbijt.
+(금요일 아침, 편집국 아래 그가 "우리"라고 부르는 지하 창고; 모니터 세 대, 낡은 소파, 커피 머신, 선으로 가득한 화이트보드) 우리에 오신 걸 환영해요. 앉으세요. 소파 말고요. 거기 제 외투 있어요. 아침밥도요.
+Bram: (gaat op een omgekeerde krat zitten) Je hebt hier geslapen.
+(뒤집힌 상자 위에 앉으며) 여기서 잤구나.
+Jip: Twee nachten. (hij tikt op het eerste scherm) Kijk naar de data. Niet naar mij.
+이틀 밤이요. (첫 번째 모니터를 톡톡 치며) 데이터를 보세요. 저 말고요.
+Bram: Laat zien.
+보여 줘.
+Jip: "Senior Talent Partner" van Northgate. Profiel aangemaakt op 14 juli. Sindsdien heeft hij drieënveertig mensen benaderd. Allemaal in de Brainport-regio. (stilte) Drie engineers stuurden me hun berichten. Via hen vond ik er nog elf. Via die elf nog negentien.
+노스게이트의 "시니어 탤런트 파트너". 7월 14일 프로필 생성. 그 뒤로 마흔세 명한테 접근했어요. 전부 브레인포트 지역이요. (침묵) 엔지니어 세 명이 메시지를 보내 줬죠. 그 사람들을 통해 열한 명을 더 찾았어요. 그 열한 명을 통해 열아홉 명을 더 찾았고요.
+Bram: En?
+그래서?
+Jip: Steeds dezelfde recruiter. Steeds hetzelfde bericht. Bijna woord voor woord. "Uw profiel sprak ons bijzonder aan. Een klant in Singapore. Discretie is belangrijk. Koffie op Schiphol?" (stilte) Maar het interessante is niet het bericht. Het is wie het kreeg.
+늘 같은 리크루터. 늘 같은 메시지. 거의 토씨 하나 안 틀리고요. "귀하의 프로필에 특별히 관심이 갔습니다. 싱가포르의 한 고객. 비밀 유지가 중요합니다. 스히폴에서 커피?" (침묵) 그런데 흥미로운 건 메시지가 아니에요. 누가 받았느냐예요.
+Bram: Wie kreeg het?
+누가 받았는데?
+Jip: (opent een spreadsheet met drieënveertig rijen en kleuren) Ik heb van iedereen drie dingen bekeken. Eén: werkt hij of zij aan EUV-optiek? Twee: is er recent iets veranderd in de carrière? Een promotie die niet kwam. Een reorganisatie. Drie… (hij aarzelt) …zijn er openbare signalen van geldproblemen?
+(마흔세 줄짜리 색칠된 스프레드시트를 열며) 모두에 대해 세 가지를 봤어요. 하나: EUV 광학 일을 하는가? 둘: 최근 경력에 변화가 있었나? 안 된 승진. 구조 조정. 셋… (망설이며) …돈 문제의 공개적 신호가 있나?
+Bram: Openbare signalen?
+공개적 신호?
+Jip: Een tweede hypotheek in het Kadaster. Een huis dat te koop staat. Een beslaglegging in de Staatscourant. Een GoFundMe voor een ziek kind. (stilte) Allemaal openbaar. Allemaal te vinden. Als je zoekt.
+토지 등기소의 두 번째 주택 담보 대출. 매물로 내놓은 집. 관보의 압류 공고. 아픈 아이를 위한 고펀드미 모금. (침묵) 전부 공개된 거예요. 전부 찾을 수 있어요. 찾으면요.
+Bram: (heel stil) En?
+(아주 조용히) 그래서?
+Jip: (kleurt de kolommen) Van de drieënveertig werken er achtendertig aan EUV-optiek. Van de achtendertig hadden er eenendertig een gemiste promotie of een reorganisatie. En van die eenendertig… (hij draait het scherm) …hebben er zesentwintig een openbaar geldprobleem.
+(열에 색을 칠하며) 마흔셋 중 서른여덟이 EUV 광학 일을 해요. 서른여덟 중 서른하나는 승진에서 밀렸거나 구조 조정을 겪었고요. 그리고 그 서른하나 중… (화면을 돌리며) …스물여섯 명이 공개적인 돈 문제가 있어요.
+Bram: Zesentwintig van de drieënveertig.
+마흔셋 중 스물여섯.
+Jip: Toeval zou zes zijn. Misschien acht. Niet zesentwintig. (stilte) Iemand zocht niet naar engineers. Iemand zocht naar engineers die je kunt kopen.
+우연이라면 여섯. 많아야 여덟이요. 스물여섯은 아니에요. (침묵) 누군가는 엔지니어를 찾은 게 아니에요. 살 수 있는 엔지니어를 찾은 거예요.
+Bram: (stilte) Jip. Die zesentwintig mensen. Hun hypotheken. Hun scheidingen. Hun zieke kinderen. Dat gaat niet in de krant.
+(침묵) 입. 그 스물여섯 명. 그 사람들 주택 대출. 이혼. 아픈 아이들. 그건 신문에 안 나가.
+Jip: Natuurlijk niet. (stilte) Ik heb het gezocht om te bewijzen dat iemand anders het ook gezocht heeft. Niet om het te gebruiken.
+당연하죠. (침묵) 다른 누군가도 그걸 찾았다는 걸 증명하려고 찾은 거예요. 쓰려고가 아니라요.
+Bram: Dat is precies wat Brugwachter ook zou zeggen.
+브뤼흐바흐터도 똑같이 말할 거야.
+Jip: (stilte; hij kijkt naar zijn scherm) Ik weet het. (stilte) Daarom verwijder ik het bestand als we klaar zijn. Alle drieënveertig rijen. Ik heb het al in mijn agenda gezet.
+(침묵; 화면을 바라보며) 알아요. (침묵) 그래서 다 끝나면 파일을 지울 거예요. 마흔세 줄 전부요. 벌써 일정에 넣어 뒀어요.
+Bram: Goed. (stilte) Wat het verschil is tussen ons en hen, is niet wat we weten. Het is wat we ermee doen.
+좋아. (침묵) 우리와 그들의 차이는 뭘 아느냐가 아니야. 그걸로 뭘 하느냐지.
+Bram: (leunt achterover op de krat) Brugwachter verkoopt het juiste moment.
+(상자 위에서 뒤로 기대며) 브뤼흐바흐터는 딱 맞는 순간을 판다.
+Jip: En het juiste moment heeft een hypotheek. (stilte) Sander Wolters staat op rij zeventien. Tweede hypotheek in 2025. Gemiste promotie in 2026. Hij kreeg het bericht op 2 september. (stilte) Hij was de eerste die ja zei. Denk ik.
+그리고 딱 맞는 순간엔 주택 대출이 있죠. (침묵) 산더르 볼터르스는 열일곱 번째 줄이에요. 2025년 두 번째 주택 대출. 2026년 승진 탈락. 9월 2일에 메시지를 받았어요. (침묵) 처음으로 좋다고 한 사람일 거예요. 아마도요.
+Bram: En de recruiter zelf?
+그럼 리크루터 본인은?
+Jip: (opent het tweede scherm) Dat profiel bestaat niet. (stilte) Ik bedoel: het bestaat wel. Maar de persoon niet. Foto van een fotobank. "Business Man Smiling 4", zei Gerard. Ervaring: "Senior Partner bij Hartwell Search, Londen, 2015–2022". Hartwell Search bestaat niet. Geen KvK. Geen website. Niets.
+(두 번째 모니터를 열며) 그 프로필은 존재하지 않아요. (침묵) 그러니까: 프로필은 있어요. 그런데 사람은 없어요. 이미지 사이트 사진. 헤라르트 말로는 "웃는 사업가 4". 경력: "하트웰 서치 시니어 파트너, 런던, 2015~2022". 하트웰 서치는 존재하지 않아요. 상업 등기도 없고. 웹사이트도 없고. 아무것도요.
+Bram: Een nep-recruiter.
+가짜 리크루터네.
+Jip: Maar wel met echte vierhonderd connecties. En echte likes. (hij scrolt) En kijk wie zijn berichten liket. Steeds dezelfde vijf mensen. Allemaal met echte namen. Allemaal "consultants" in Den Haag. (stilte) Allemaal oud-medewerkers van de politie, de marechaussee of de AIVD. Volgens hun eigen profiel.
+그래도 연결은 진짜 사백 명이에요. 좋아요도 진짜고요. (스크롤하며) 그리고 누가 그 사람 글에 좋아요를 누르는지 보세요. 늘 같은 다섯 명이에요. 전부 실명이에요. 전부 헤이그의 "컨설턴트"고요. (침묵) 전부 자기 프로필에 따르면 경찰, 헌병대, 아니면 AIVD 출신이에요.
+Bram: (buigt zich voorover) Is Bas Kroon erbij?
+(몸을 앞으로 숙이며) 바스 크론도 있어?
+Jip: (wijst) Rij drie. "Bas Kroon — Senior Analyst, Brugwachter Intelligence." (stilte) Hij liket elke post van de nep-recruiter. Binnen een minuut. Altijd als eerste.
+(가리키며) 세 번째 줄이요. "바스 크론 — 브뤼흐바흐터 인텔리전스 시니어 애널리스트." (침묵) 가짜 리크루터의 모든 게시물에 좋아요를 눌러요. 1분 안에요. 늘 제일 먼저요.
+Bram: (lange stilte) Hij liket zijn eigen werk.
+(긴 침묵) 자기 작품에 좋아요를 누르는 거네.
+Jip: Iedereen is trots op zijn eigen werk. (stilte) Dat is de zwakte van slimme mensen. Ze willen dat iemand ziet hoe slim ze zijn. Al is het maar een duimpje op LinkedIn.
+다들 자기 작품은 자랑스럽잖아요. (침묵) 그게 똑똑한 사람들의 약점이에요. 누군가 자기가 얼마나 똑똑한지 봐 주길 바라죠. 링크드인 엄지 하나라도요.
+Jip: En nog iets. (hij opent een derde scherm: foto's van een zonnig strand) De vrouw van Sander heeft een openbaar Facebook-account. Augustus: "Eindelijk vakantie na een zwaar jaar! ☀️" Limassol. Cyprus.
+그리고 하나 더요. (세 번째 모니터를 연다: 햇살 가득한 해변 사진들) 산더르 아내가 공개 페이스북 계정이 있어요. 8월: "힘든 한 해 끝에 드디어 휴가! ☀️" 리마솔이요. 키프로스.
+Bram: Cyprus. Waar Northgate zijn bankrekening heeft.
+키프로스. 노스게이트 은행 계좌가 있는 곳.
+Jip: Ze gingen er een week heen. (stilte) Op dezelfde dag dat ze landden, staat er een foto van Sander in een pak. Op een terras. Met een man die je niet ziet. Alleen zijn hand. Met een dure horloge.
+일주일 다녀왔대요. (침묵) 도착한 날 정장 입은 산더르 사진이 있어요. 테라스에서요. 안 보이는 남자랑요. 손만 보여요. 비싼 시계를 찬 손이요.
+Bram: (kijkt lang naar de hand op de foto) Hugo draagt geen horloge.
+(사진 속 손을 오래 바라보며) 휘호는 시계를 안 차.
+Jip: (kijkt hem aan) Hoe weet je dat?
+(그를 바라보며) 그걸 어떻게 아세요?
+Bram: Jij zei het. In augustus. Na het landgoed. "Hij draagt geen horloge."
+네가 그랬잖아. 8월에. 영지 다녀와서. "그 사람은 시계를 안 차요."
+Jip: (stil) Dus het is niet Hugo.
+(조용히) 그럼 휘호는 아니네요.
+Bram: Of Hugo draagt een horloge als hij niet op een landgoed is. (stilte) We weten het niet. Leg het opzij.
+아니면 휘호가 영지가 아닐 땐 시계를 차거나. (침묵) 모르는 거야. 일단 옆으로 치워 둬.
+Lucas: (vrijdagmiddag, in een bruin café in de Jordaan, aan een tafel achterin; hij heeft twee biertjes besteld, maar drinkt het zijne niet) Ik beloofde je dat ik het zou vertellen. Als het klaar was.
+(금요일 오후, 요르단의 한 갈색 카페 뒤쪽 테이블; 맥주 두 잔을 시켰지만 자기 것은 마시지 않는다) 다 되면 말해 주겠다고 약속했죠.
+Bram: Is het klaar?
+다 됐어?
+Lucas: (draait zijn glas rond) Bijna. (stilte) Mijn bron werkt bij de politie. Al twintig jaar. Hij kent Brugwachter. Hij kent Bas Kroon. Hij zegt dat Brugwachter een klantenlijst heeft. En dat er een Nederlands chipbedrijf op staat. Uit Twente.
+(잔을 돌리며) 거의요. (침묵) 제 취재원은 경찰에서 일해요. 20년째요. 브뤼흐바흐터를 알아요. 바스 크론도 알고요. 브뤼흐바흐터한테 고객 명단이 있대요. 그리고 거기 네덜란드 반도체 회사가 하나 있대요. 트벤터에 있는.
+Bram: (stil) Twentech.
+(조용히) 트벤테크.
+Lucas: (kijkt op) Hoe weet jij dat?
+(고개를 들며) 그걸 어떻게 아세요?
+Bram: Femke schreef het op een whiteboard. Twee weken geleden. (stilte) Wie is je bron, Lucas?
+펨커가 2주 전에 화이트보드에 적었어. (침묵) 네 취재원은 누구야, 뤼카스?
+Lucas: (lange stilte) Ik heb hem beloofd zijn naam niet te noemen. Ook niet aan jou. (stilte) Jij zou hetzelfde doen.
+(긴 침묵) 이름을 말하지 않겠다고 약속했어요. 선배한테도요. (침묵) 선배라도 그렇게 했을 거예요.
+Bram: Ik heb een regel. Niemand van het team belt politiebronnen zonder dat ik het weet. (stilte) Na Kees.
+나한텐 규칙이 있어. 팀원은 내가 모르게 경찰 취재원한테 전화하지 않는다. (침묵) 케이스 이후로.
+Lucas: Ik weet het. (stilte) Daarom zei ik dat ik een regel had gebroken. (hij duwt het bier van zich af) Maar ik heb niets doorgegeven, Bram. Ik heb alleen gecheckt. Ik vroeg hem of dingen klopten. Ik vertelde hem niks wat hij nog niet wist.
+알아요. (침묵) 그래서 규칙을 어겼다고 말씀드린 거예요. (맥주를 밀어내며) 그래도 아무것도 넘기지 않았어요, 브람. 확인만 했어요. 맞는지 물어보기만 했어요. 그 사람이 모르던 건 하나도 말 안 했어요.
+Bram: Hoe weet je wat hij niet wist?
+그가 뭘 몰랐는지 넌 어떻게 알아?
+Lucas: (opent zijn mond; sluit hem dan weer) …
+(입을 열었다가 다시 닫는다) …
+Bram: (zacht) Dat is precies wat ik bedoel. Je weet het niet. Niemand weet het. Daarom heb ik die regel.
+(조용히) 내 말이 바로 그거야. 넌 몰라. 아무도 몰라. 그래서 그 규칙이 있는 거야.
+Lucas: (kijkt naar zijn handen) Hij helpt ons, Bram. Hij wil dat Brugwachter valt. Net als wij.
+(자기 손을 내려다보며) 그 사람은 우릴 돕고 있어요, 브람. 브뤼흐바흐터가 무너지길 원해요. 우리처럼요.
+Bram: Iedereen wil iets. (stilte) Dat zei iemand op een landgoed.
+다들 뭔가를 원하지. (침묵) 누가 어느 영지에서 그렇게 말했어.
+Lucas: (stilte) Ben je boos?
+(침묵) 화나셨어요?
+Bram: (pakt zijn eigen bier en drinkt) Ik ben moe. (stilte) Bel hem niet meer zonder dat ik het weet. Niet omdat ik je niet vertrouw. Omdat ik niet weet wie hém vertrouwt.
+(자기 맥주를 집어 마시며) 피곤해. (침묵) 이제 나 모르게 전화하지 마. 널 못 믿어서가 아니야. 누가 그 사람을 믿는지 내가 모르니까.
+Lucas: (knikt langzaam) Oké. (stilte) Beloofd.
+(천천히 고개를 끄덕이며) 알겠어요. (침묵) 약속해요.
+Lucas: (stilte; dan, zachter) Bram. Mijn bron zei nog iets. Hij zei: "Kijk niet alleen naar Brugwachter. Kijk ook naar jullie eigen huis." (stilte) Ik dacht dat hij mij bedoelde. Dat hij me waarschuwde dat ik verdacht ben.
+(침묵; 그리고 더 조용히) 브람. 제 취재원이 하나 더 말했어요. 그러더라고요: "브뤼흐바흐터만 보지 마. 너희 집 안도 봐." (침묵) 저를 말하는 줄 알았어요. 제가 의심받고 있다고 경고하는 줄요.
+Bram: (heel stil) En nu?
+(아주 조용히) 그럼 지금은?
+Lucas: Nu denk ik dat hij iets weet wat hij niet mag zeggen. (stilte) Over iemand bij ons.
+지금은 그 사람이 말하면 안 되는 뭔가를 안다고 생각해요. (침묵) 우리 쪽 누군가에 대해서요.
+Bram: Wie?
+누구?
+Lucas: Dat zei hij niet. Hij zei alleen: "Het lek zit hoger dan je denkt." (hij pakt zijn jas) Ik weet niet wat dat betekent. Hoger dan mij? Dat is niet moeilijk. Ik ben de nieuwste.
+그건 말 안 했어요. 이렇게만 했어요: "새는 데는 네 생각보다 높은 곳에 있다." (외투를 집으며) 무슨 뜻인지 모르겠어요. 저보다 높은 곳? 그건 어렵지 않죠. 전 제일 막내니까요.
+Bram: (blijft zitten als Lucas opstaat) Lucas. Vertel dat aan niemand anders. Niet aan Noor. Niet aan Jip. Niet aan Margreet.
+(뤼카스가 일어서는데 그대로 앉아서) 뤼카스. 그 말 다른 누구한테도 하지 마. 노르한테도. 입한테도. 마르흐레이트한테도.
+Lucas: (blijft staan bij de deur van het café; hij kijkt Bram lang aan) Waarom niet aan Margreet?
+(카페 문 옆에 멈춰 서서 브람을 오래 바라본다) 왜 마르흐레이트한테는요?
+Bram: (drinkt zijn bier leeg) Omdat ze de hoogste is.
+(맥주를 비우며) 제일 높은 사람이니까.
+Lieke: (zaterdagochtend, op een kunstgrasveld in Haarlem; ze rent naar de zijlijn in haar blauwe shirt, met haar blauwe hockeystick) Papa! Je bent er! Je bent echt gekomen!
+(토요일 아침, 하를럼의 인조 잔디 구장; 파란 유니폼에 파란 하키 스틱을 들고 사이드라인으로 달려온다) 아빠! 왔네! 진짜 왔네!
+Bram: (met een thermosbeker koffie in zijn hand) Zoals bij hockey de tweede keer. En de derde.
+(보온 커피잔을 손에 들고) 하키 두 번째 때처럼. 그리고 세 번째도.
+Lieke: We spelen tegen Bloemendaal. Ze zijn heel goed. En heel rijk. Ze hebben allemaal nieuwe sticks.
+블루먼달이랑 해. 걔들 엄청 잘해. 그리고 엄청 부자야. 다 새 스틱이야.
+Bram: Jij hebt een blauwe stick. Dat is beter dan nieuw.
+넌 파란 스틱이 있잖아. 새것보다 낫지.
+Sanne: (komt naast hem staan, met twee bekertjes thee; ze geeft er één aan Bram, hoewel hij al koffie heeft) Ze heeft de hele week over vandaag gepraat. "Papa komt. Papa komt."
+(차 두 잔을 들고 그의 옆에 선다; 이미 커피가 있는데도 한 잔을 건넨다) 이번 주 내내 오늘 얘기만 했어. "아빠 온다. 아빠 온다."
+Bram: (neemt de thee aan) Dank je. (stilte) Hoe gaat het met haar? Echt?
+(차를 받으며) 고마워. (침묵) 리커 어때? 진짜로?
+Sanne: (kijkt naar het veld, waar Lieke de bal afpakt van een groter meisje) Beter. Ze slaapt weer door. Ze praat over Yifan. Over meneer De Vries en zijn vlinderdas. (stilte) Ze praat niet meer over het IJsselmeer.
+(리커가 키 큰 여자애한테서 공을 빼앗는 경기장을 바라보며) 나아졌어. 다시 푹 자. 이판 얘기를 해. 더 프리스 선생님이랑 나비넥타이 얘기도. (침묵) 이제 에이설호 얘기는 안 해.
+Bram: (zacht) Dat is goed.
+(조용히) 다행이다.
+Sanne: Dat is goed. (stilte) En jij? Je ziet eruit alsof je niet slaapt.
+다행이지. (침묵) 그럼 넌? 잠 못 자는 사람 같아.
+Bram: Iedereen zegt dat.
+다들 그렇게 말해.
+Sanne: Omdat het waar is. (stilte) Bram. Ik heb je nooit gevraagd te stoppen. Ook niet in augustus. Ik vroeg je haar erbuiten te laten. (ze kijkt hem aan) Je hebt het gedaan. Dat zie ik.
+사실이니까. (침묵) 브람. 난 너한테 그만두라고 한 적 없어. 8월에도. 리커는 빼 달라고 한 거지. (그를 바라보며) 넌 그렇게 했어. 보여.
+Bram: (zijn stem is even weg) Dank je, Sanne.
+(목소리가 잠깐 안 나온다) 고마워, 산너.
+Lieke: (vanaf het veld, schreeuwend, terwijl ze haar stick in de lucht steekt) Papa! Heb je dat gezien?! Ik heb gescoord!
+(경기장에서 스틱을 하늘로 치켜들고 외치며) 아빠! 봤어?! 나 골 넣었어!
+Bram: (steekt zijn thermosbeker en zijn thee tegelijk in de lucht en morst op zijn jas) Ik heb het gezien!
+(보온컵이랑 찻잔을 동시에 들어 올리다가 외투에 쏟는다) 봤어!
+Sanne: (lacht) Je jas.
+(웃으며) 외투.
+Bram: (kijkt naar de vlek; dan lacht hij ook, voor het eerst in dagen) Het is een vreselijke jas. Dat zei Kees ook al.
+(얼룩을 내려다보다가 그도 웃는다, 며칠 만에 처음으로) 끔찍한 외투야. 케이스도 그렇게 말했어.
+Femke: (maandagochtend, in de oorlogskamer, met Jip, Noor, Bram en Hanneke; op tafel ligt een blanco formulier) Ik wil erin. Bij Northgate. Als engineer.
+(월요일 아침, 전쟁실에서 입, 노르, 브람, 하네커와 함께; 탁자 위에 빈 서류 한 장) 들어가고 싶어. 노스게이트에. 엔지니어로.
+Noor: Jij? Jij weet niets van spiegels.
+선배가요? 거울에 대해선 아무것도 모르잖아요.
+Femke: Ik hoef niets van spiegels te weten. Ik moet weten hoe iemand eruitziet die te koop is. (stilte) Daar weet ik veel van.
+거울에 대해선 알 필요 없어. 팔려 나갈 사람이 어떻게 보이는지만 알면 돼. (침묵) 그건 내가 많이 알지.
+Jip: We bouwen een profiel. Op LinkedIn. Een vrouw van zevenendertig. Optisch ingenieur. Werkt bij een kleine toeleverancier van Lumion in Veldhoven. Net een promotie misgelopen. (stilte) En een huis dat te koop staat. In het Kadaster. Na een scheiding.
+프로필을 만들게요. 링크드인에요. 서른일곱 살 여자. 광학 엔지니어. 펠트호번의 루미온 소형 협력사 근무. 막 승진에서 밀렸고요. (침묵) 그리고 매물로 나온 집이요. 토지 등기소에요. 이혼 후에요.
+Hanneke: Een vals huis in het Kadaster? Dat kan niet. Dat is valsheid in geschrifte.
+토지 등기소에 가짜 집을? 그건 안 돼. 문서 위조야.
+Jip: (snel) Geen vals huis. Een echt huis. Van een echte vrouw die echt gescheiden is en het echt verkoopt. Met dezelfde achternaam als Femke's legende. (stilte) Dijkstra. Er zijn er duizenden.
+(재빨리) 가짜 집이 아니에요. 진짜 집이요. 진짜로 이혼해서 진짜로 집을 파는 진짜 여자의 집이요. 펨커 위장 신분이랑 같은 성이에요. (침묵) 데이크스트라. 수천 명 있어요.
+Femke: (droog) Dat is mijn echte achternaam, Jip.
+(무덤덤하게) 그건 내 진짜 성이야, 입.
+Jip: (bloost) Juist daarom. Een legende met je echte achternaam is moeilijker te ontmaskeren.
+(얼굴이 빨개지며) 그러니까요. 진짜 성을 쓴 위장 신분은 들키기 더 어려워요.
+Femke: (glimlacht, voor het eerst die ochtend) Dat is waar. (stilte) Wie heeft je dat geleerd?
+(그날 아침 처음으로 미소 지으며) 그건 맞아. (침묵) 그건 누가 가르쳐 줬어?
+Jip: Jij. In juli. Toen je mijn legende voor GroenGrond maakte.
+선배가요. 7월에요. 그룬흐론트용 제 위장 신분 만들어 줄 때요.
+Femke: (knikt) Dan nog de rest. Waar woon ik? Wie was mijn man? Waarom zijn we gescheiden?
+(고개를 끄덕이며) 그럼 나머지도. 난 어디 살아? 남편은 누구였어? 왜 이혼했어?
+Jip: Eindhoven-Strijp. Een appartement. Je man was… (hij kijkt naar zijn scherm) …een leraar. Jullie zijn uit elkaar gegroeid. Geen drama.
+아인트호번 스트레이프. 아파트요. 남편은… (화면을 보며) …교사였어요. 서로 멀어졌어요. 드라마 같은 건 없고요.
+Femke: Geen drama is goed. Drama onthoud je. "Uit elkaar gegroeid" vergeet iedereen. (stilte) En kinderen?
+드라마 없는 게 좋아. 드라마는 기억에 남거든. "서로 멀어졌다"는 다들 잊어버려. (침묵) 그럼 아이는?
+Jip: Geen. (stilte) Is dat goed?
+없어요. (침묵) 그거 괜찮아요?
+Femke: (een korte stilte) Dat is makkelijk. Dan hoef ik niet over iemand te liegen die ik niet ken.
+(짧은 침묵) 그게 쉬워. 모르는 아이에 대해 거짓말할 필요가 없으니까.
+Hanna: (op het scherm, via een videoverbinding, vanuit haar kantoor in Eindhoven; achter haar een poster van een spiegel) Ik help met het profiel. Ik weet welke woorden een echte optisch ingenieur gebruikt. En welke woorden een recruiter wil horen. (stilte) Maar mijn naam staat nergens.
+(화면 속, 아인트호번 연구실에서 화상 연결; 뒤에 거울 포스터) 프로필 만드는 거 도울게요. 진짜 광학 엔지니어가 어떤 단어를 쓰는지 알아요. 리크루터가 어떤 단어를 듣고 싶어 하는지도요. (침묵) 그래도 제 이름은 어디에도 안 나가요.
+Femke: Afgesproken. (stilte) Hanna. Wat zou een ingenieur zeggen die zich niet gewaardeerd voelt?
+그러기로 해요. (침묵) 하나. 인정받지 못한다고 느끼는 엔지니어라면 뭐라고 할까요?
+Hanna: (denkt na) Niet "ik word niet gewaardeerd". Dat zegt niemand. (stilte) Ze zou zeggen: "Ik zoek een omgeving waar mijn expertise beter tot zijn recht komt." Dat betekent hetzelfde. Maar het klinkt als een professional.
+(생각하며) "난 인정받지 못한다"라고는 안 하죠. 그런 말 하는 사람은 없어요. (침묵) 이렇게 말할 거예요: "제 전문성이 더 잘 발휘될 수 있는 환경을 찾고 있습니다." 같은 뜻이에요. 그래도 전문가처럼 들리죠.
+Noor: (schrijft het op) "Beter tot zijn recht komt." Ik ga dat gebruiken als ik ontslag neem.
+(받아 적으며) "더 잘 발휘될 수 있는." 저 사직할 때 그거 써먹어야겠다.
+Hanna: (op het scherm, met een flauwe glimlach) En nog één ding, Femke. Een echte optisch ingenieur zegt nooit "spiegel". Ze zegt "optiek". Of "het element". Een spiegel is iets in je badkamer.
+(화면 속에서 희미하게 웃으며) 그리고 하나 더요, 펨커. 진짜 광학 엔지니어는 절대 "거울"이라고 안 해요. "광학계"라고 하죠. 아니면 "소자"라고요. 거울은 욕실에 있는 거고요.
+Femke: (schrijft het op) "Het element." (stilte) Bij de politie zeiden we ook nooit "verdachte" in de kantine. We zeiden "de klant".
+(받아 적으며) "소자." (침묵) 경찰에서도 구내식당에선 절대 "용의자"라고 안 했어. "고객"이라고 했지.
+Noor: (kijkt op) Bij de politie?
+(고개를 들며) 경찰에서요?
+Femke: (zonder op te kijken, na een halve seconde) In een film. Een saaie.
+(고개를 들지 않은 채, 반 초 뒤에) 영화에서. 지루한 거.
+Noor: (kijkt naar Bram; Bram kijkt naar het formulier)
+(브람을 바라본다; 브람은 서류를 바라본다)
+Hanneke: (tikt op het blanco formulier) Voordat iemand ergens in gaat: dit formulier. Undercover vereist schriftelijke goedkeuring van de hoofdredactie. Vooraf. Met naam, plek en duur. (stilte) Zoals in juli.
+(빈 서류를 톡톡 치며) 누가 어디 들어가기 전에: 이 서류. 잠입은 편집국장의 사전 서면 승인이 필요해. 이름, 장소, 기간까지. (침묵) 7월처럼.
+Bram: (een lange stilte) In juli ging dat formulier naar Margreet. En vier dagen later wist GroenGrond wie Jip was.
+(긴 침묵) 7월에 그 서류가 마르흐레이트한테 갔지. 그리고 나흘 뒤 그룬흐론트는 입이 누군지 알았어.
+Hanneke: (verstijft) Wat zeg je?
+(굳으며) 무슨 말이야?
+Bram: Ik zeg niets. Ik leg twee dingen naast elkaar.
+아무 말도 안 해요. 두 가지를 나란히 놓을 뿐이에요.
+Hanneke: (zet haar bril af; haar stem wordt koud) Bram. Dat formulier ging ook naar mij. Ik heb het gemaakt. Ik heb het gescand. Ik heb het in het archief gezet. (stilte) Zeg het maar hardop, als je het denkt.
+(안경을 벗는다; 목소리가 차가워진다) 브람. 그 서류는 나한테도 왔어. 내가 만들었어. 내가 스캔했어. 내가 자료실에 넣었어. (침묵) 그렇게 생각하면 소리 내서 말해.
+Bram: (kijkt haar recht aan) Ik denk het niet over jou, Hanneke.
+(그녀를 똑바로 보며) 당신에 대해 그렇게 생각하는 건 아니에요, 하네커.
+Hanneke: (stilte) Over wie dan wel?
+(침묵) 그럼 누구에 대해선데?
+Femke: (zacht) Over niemand. Nog niet. (stilte) Hanneke. Het formulier moet. Dat weet ik. Het is de wet. Maar mag het zo zijn dat er staat: "Undercover-onderzoek naar wervingspraktijken in de chipsector. Medewerker: F. Dijkstra. Duur: twee weken." Zonder Northgate. Zonder Schiphol.
+(조용히) 아무에 대해서도. 아직은. (침묵) 하네커. 서류는 필요해. 알아. 법이니까. 그런데 이렇게 써도 될까: "반도체 업계 인재 영입 관행에 대한 잠입 취재. 담당: F. 데이크스트라. 기간: 2주." 노스게이트 빼고. 스히폴 빼고.
+Hanneke: (lange stilte) Dat is… juridisch voldoende. Net. De hoofdredactie moet weten dát je undercover gaat. Niet per se waar precies. (stilte) Maar als Margreet ernaar vraagt, moeten jullie het zeggen.
+(긴 침묵) 그건… 법적으로 충분해. 아슬아슬하게. 편집국장은 잠입한다는 사실을 알아야 해. 정확히 어디인지는 꼭 아니어도 돼. (침묵) 그래도 마르흐레이트가 물으면, 말해야 해.
+Bram: Dan zeggen we het als ze ernaar vraagt.
+그럼 물으면 말하죠.
+Femke: (schrijft het formulier in, netjes, in blokletters) En als ze er niet naar vraagt, weten we ook iets.
+(서류를 또박또박 대문자로 깔끔하게 작성하며) 그리고 안 물으면, 그것도 하나 알게 되는 거고.
+Margreet: (maandagmiddag, in haar kantoor; ze leest het formulier; haar leesbril op het puntje van haar neus) "Undercover-onderzoek naar wervingspraktijken in de chipsector." (ze kijkt op) Femke. Jij?
+(월요일 오후, 자기 사무실에서 서류를 읽는다; 돋보기가 코끝에 걸려 있다) "반도체 업계 인재 영입 관행에 대한 잠입 취재." (고개를 들며) 펨커. 네가?
+Femke: Ik.
+저요.
+Margreet: Je bent geen ingenieur.
+넌 엔지니어가 아니잖아.
+Femke: Ik hoef niet te ingenieuren. Ik moet koffie drinken met een man die me geld biedt. (stilte) Daar ben ik goed in.
+엔지니어 일을 할 필요는 없어요. 돈을 제안하는 남자랑 커피만 마시면 돼요. (침묵) 그건 제가 잘해요.
+Margreet: (een korte, onduidelijke stilte) Waar? Met wie?
+(짧고 애매한 침묵) 어디서? 누구랑?
+Femke: (zonder te aarzelen) Met een recruiter van Northgate Talent. Op Schiphol. Volgende week dinsdag.
+(망설임 없이) 노스게이트 탤런트 리크루터랑요. 스히폴에서요. 다음 주 화요일에요.
+Margreet: (schrijft het niet op; ze tekent het formulier) Goedgekeurd. (stilte) Wees voorzichtig, Femke. Mensen die geld bieden, willen meestal iets terug.
+(받아 적지 않는다; 서류에 서명한다) 승인. (침묵) 조심해, 펨커. 돈을 제안하는 사람들은 대개 뭔가를 돌려받길 원하거든.
+Femke: (neemt het formulier aan) Dat weet ik. (stilte) Iedereen wil iets.
+(서류를 받으며) 알아요. (침묵) 다들 뭔가를 원하죠.
+Margreet: (als Femke bij de deur is) Femke. (stilte) Ik heb jouw cv nooit goed gelezen. Toen we je aannamen. Hanneke deed dat. (glimlacht) Waar werkte je voordat je bij ons kwam?
+(펨커가 문 옆에 있을 때) 펨커. (침묵) 너 뽑을 때 내가 이력서를 제대로 안 읽었어. 하네커가 했지. (미소 지으며) 우리 오기 전엔 어디서 일했었어?
+Femke: (een seconde stilte) Bij de overheid. Iets saais. Met dossiers.
+(1초간 침묵) 정부 쪽이요. 지루한 거요. 서류 일.
+Margreet: (knikt langzaam) Dossiers. (stilte) Die blijven je bij, hè? Dossiers.
+(천천히 고개를 끄덕이며) 서류 일이라. (침묵) 그런 건 오래 남지, 그치? 서류 일은.
+Femke: (in de oorlogskamer, tegen Bram, heel zacht) Ze vroeg naar mijn vorige werk. Voor het eerst in vier jaar.
+(전쟁실에서 브람에게 아주 조용히) 내 예전 직장을 물어봤어. 4년 만에 처음으로.
+Bram: Op de dag dat je undercover gaat.
+네가 잠입하는 날에.
+Femke: Op de dag dat ik undercover ga. (stilte) "Dossiers blijven je bij." (ze kijkt naar het glas) Wie heeft haar verteld dat ik met dossiers werkte?
+내가 잠입하는 날에. (침묵) "서류 일은 오래 남지." (유리를 바라보며) 내가 서류 일을 했다고 누가 그녀한테 말했을까?
+Bram: Jij. Net.
+너. 방금.
+Femke: (een korte, droge lach) Ja. Ik. (stilte) Maar ze zei het alsof ze het al wist.
+(짧고 건조하게 웃으며) 그래. 나. (침묵) 그런데 그녀는 이미 알고 있었다는 듯이 말했어.
+Bram: (bij het raam van de oorlogskamer, als Femke terugkomt) Ze vroeg ernaar.
+(펨커가 돌아오자 전쟁실 창가에서) 물어봤구나.
+Femke: Ze vroeg ernaar. (stilte) Ik heb het gezegd. Northgate. Schiphol. Dinsdag. Zoals Hanneke wilde.
+물어봤어. (침묵) 말했어. 노스게이트. 스히폴. 화요일. 하네커가 원한 대로.
+Bram: (zacht) Dan weten we dinsdag iets.
+(조용히) 그럼 화요일에 뭔가 알게 되겠네.
+Femke: Of de recruiter komt. Of hij komt niet. (stilte) Nummer 47. Het eerlijkste nummer dat ik ooit heb opgeschreven. Ik heb niks verzonnen. Ik heb alleen de waarheid gezegd. Aan de enige die erom vroeg.
+리크루터가 오거나. 안 오거나. (침묵) 47번. 내가 적은 것 중 제일 정직한 번호야. 아무것도 지어내지 않았어. 물어본 단 한 사람한테 사실만 말했을 뿐이야.
+Jip: (komt binnen met zijn laptop) Het profiel staat live. "Femke Dijkstra, Senior Optical Engineer." Hanna heeft elke zin nagekeken. (stilte) Ik heb het zelfde bericht gestuurd dat Sander kreeg. Aan de nep-recruiter. "Interesse in een nieuwe uitdaging."
+(노트북을 들고 들어오며) 프로필 올라갔어요. "펨커 데이크스트라, 시니어 광학 엔지니어." 하나가 문장 하나하나 다 검토했어요. (침묵) 산더르가 받은 것과 같은 메시지를 보냈어요. 가짜 리크루터한테요. "새로운 도전에 관심 있음."
+Noor: (kijkt over zijn schouder) Hoe lang duurt het voordat hij antwoordt?
+(그의 어깨 너머로 보며) 답장 오는 데 얼마나 걸려?
+Jip: Bij Sander: zes uur. (zijn laptop pingt) Bij Femke… (hij staart naar het scherm) …veertien minuten.
+산더르 땐 여섯 시간이요. (노트북에서 알림음) 펨커는… (화면을 노려보며) …14분이요.
+Femke: (leest over zijn schouder) "Beste Femke, uw profiel sprak ons bijzonder aan." (stilte) Steeds dezelfde recruiter. Steeds dezelfde zin.
+(그의 어깨 너머로 읽으며) "펨커 님께, 귀하의 프로필에 특별히 관심이 갔습니다." (침묵) 늘 같은 리크루터. 늘 같은 문장.
+Bram: (heel zacht) Veertien minuten. Voor een profiel dat twee uur bestaat.
+(아주 조용히) 14분이라. 생긴 지 두 시간 된 프로필한테.
+Jip: Naar het zich laat aanzien heeft iemand op ons gewacht. (stilte) Of op een profiel als dat van haar.
+보아하니 누가 우릴 기다리고 있었던 것 같아요. (침묵) 아니면 선배 같은 프로필을요.
+Femke: (glimlacht dun) Of iemand weet al dat ik geen ingenieur ben. En wil zien hoe ver ik ga.
+(옅게 웃으며) 아니면 내가 엔지니어가 아니라는 걸 누가 이미 알고. 내가 어디까지 가는지 보고 싶은 거거나.
+Jip: (leest het vervolg van het bericht voor) "Zou u volgende week dinsdag om 14.00 uur beschikbaar zijn voor een kennismaking? Hilton Schiphol, lobby. Mijn collega zal u ontvangen." (stilte) Dinsdag. Schiphol. Precies zoals Femke het Margreet vertelde.
+(메시지 뒷부분을 소리 내어 읽으며) "다음 주 화요일 14시에 첫 만남이 가능하실까요? 힐턴 스히폴 로비. 제 동료가 맞이할 겁니다." (침묵) 화요일. 스히폴. 펨커가 마르흐레이트한테 말한 그대로요.
+Noor: Maar dat had Jip al in zijn eerste bericht voorgesteld. "Koffie op Schiphol?" Dat stond in alle berichten.
+그런데 그건 입이 첫 메시지에서 벌써 제안했잖아요. "스히폴에서 커피?" 모든 메시지에 그게 있었고요.
+Femke: (knikt) Schiphol staat in elk bericht. Dinsdag niet. (stilte) Maar dinsdag is een gewone dag om af te spreken. Ik schrijf: nog niets.
+(고개를 끄덕이며) 스히폴은 모든 메시지에 있어. 화요일은 아니고. (침묵) 그래도 화요일은 약속 잡기 흔한 날이야. "아직 아무것도 아님"이라고 적을게.
+Bram: "Mijn collega zal u ontvangen." Niet hij. Een collega.
+"제 동료가 맞이할 겁니다." 그 사람이 아니라. 동료가.
+Femke: (glimlacht dun) Natuurlijk niet hij. Hij bestaat niet. (stilte) Ik ben benieuwd wie er dinsdag in de lobby zit.
+(옅게 웃으며) 당연히 그 사람은 아니지. 존재하지 않으니까. (침묵) 화요일에 로비에 누가 앉아 있을지 궁금하네.
+Lieke: [Bericht] (maandagavond) Papa. Ik heb nog steeds de foto van jou met de thee over je jas. Mama heeft hem gemaakt. Mag ik hem als achtergrond?
+[메시지] (월요일 저녁) 아빠. 외투에 차 쏟은 아빠 사진 아직 있어. 엄마가 찍었어. 배경 화면으로 해도 돼?
+Bram: [Bericht] Alleen als je hem aan niemand laat zien.
+[메시지] 아무한테도 안 보여 준다면.
+Lieke: [Bericht] Te laat. Yifan heeft hem al gezien. Ze zegt dat je er "lief" uitziet. 😂
+[메시지] 너무 늦었어. 이판이 벌써 봤어. 아빠가 "귀여워" 보인대. 😂
+Bram: [Bericht] Lief. Na twintig jaar journalistiek. 🙄
+[메시지] 귀엽다라. 기자 생활 20년 만에. 🙄
+
+## 주요 단어
+het patroon | 헷 파트론 | 패턴
+het hok | 헷 혹 | 우리, 좁은 방(구어)
+de krat | 더 크랏 | 상자, 박스
+benaderen | 버나더런 | 접근하다, 연락하다
+de reorganisatie | 더 레오르하니자시 | 구조 조정
+de beslaglegging | 더 버슬라흐레힝 | 압류
+de Staatscourant | 더 스타츠쿠란트 | 관보
+het geldprobleem | 헷 헬트프로블레임 | 돈 문제
+de fotobank | 더 포토방크 | 이미지 판매 사이트
+de marechaussee | 더 마러쇼세이 | 헌병대
+het duimpje | 헷 다위엠프여 | 엄지(좋아요)
+de klantenlijst | 더 클란턴레이스트 | 고객 명단
+de legende | 더 레헨더 | 위장 신분(잠입용 가상 경력)
+ontmaskeren | 온트마스커런 | 정체를 폭로하다
+de scheiding | 더 스헤이딩 | 이혼, 분리
+tot zijn recht komen | 톳 제인 레흐트 코먼 | 제대로 발휘되다
+de wervingspraktijk | 더 베르빙스프락테이크 | 인재 영입 관행
+in blokletters | 인 블록레터르스 | 또박또박 대문자로
+de uitdaging | 더 아위트다힝 | 도전
+
+## 문법·표현 정리
+**Kijk naar de data(데이터를 보세요):** kijken naar = ~을 보다. 입의 원칙 — 사람이 아니라 숫자를 먼저.
+**Steeds dezelfde recruiter(늘 같은 리크루터):** steeds = 계속, 늘. steeds meer(점점 더), steeds weer(거듭).
+**Dat profiel bestaat niet(그 프로필은 존재하지 않아요):** 입의 정정 — "프로필은 있지만 사람은 없다." bestaan = 존재하다.
+**Naar het zich laat aanzien…(보아하니 ~인 것 같다):** 4부의 격식 있는 유보 표현. zich laten aanzien = ~처럼 보이다. Het laat zich aanzien dat… 도 같은 뜻.
+**Toeval zou zes zijn(우연이라면 여섯일 것이다):** zou로 가정적 수치를 제시. 통계 논증의 화법.
+**Iemand zocht niet naar engineers. Iemand zocht naar engineers die je kunt kopen:** 관계절 die je kunt kopen — 일반 주어 je로 "살 수 있는".
+**Al is het maar een duimpje(엄지 하나라도):** al is het maar = 비록 ~일 뿐이라도. Al is het maar vijf minuten.(5분만이라도)
+**Ik heb hem beloofd zijn naam niet te noemen:** beloven + te 부정사. niet은 te 앞.
+**Hoe weet je wat hij niet wist?(그가 뭘 몰랐는지 넌 어떻게 알아?):** 간접 의문문 안의 간접 의문문. 브람의 핵심 논리.
+**Ik hoef niet te ingenieuren(엔지니어 일을 할 필요는 없다):** niet hoeven te = ~할 필요 없다. ingenieuren은 펨커가 즉석에서 만든 동사(재치 있는 신조어).
+**…waar mijn expertise beter tot zijn recht komt:** 직장 언어의 완곡 표현. "인정받지 못한다"를 전문가답게 바꾸는 방법.
+**Zeg het maar hardop, als je het denkt(그렇게 생각하면 소리 내서 말해):** maar = 명령을 부추기는 불변사. hardop(소리 내어).
+**De hoofdredactie moet weten dát je undercover gaat(잠입한다는 사실 자체를):** dát 강조 — 내용이 아니라 «사실 여부». 법률가의 정밀한 구분.
+**Het eerlijkste nummer dat ik ooit heb opgeschreven:** 최상급 + dat … ooit = 지금까지 ~한 것 중 가장.
+
+## 취재 노트
+가짜 헤드헌터를 내세워 첨단 기술 인력에게 접근하는 수법은 여러 나라 정보기관이 경고해 온 대표적 포섭 방식이다. 링크드인 등에서 그럴듯한 가짜 프로필로 접근해 고액 연봉과 해외 일자리를 미끼로 삼고, 재정적 어려움이나 경력 불만이 있는 사람을 노린다는 분석이 공개되어 왔다. 네덜란드 정보기관(AIVD·MIVD)도 연례 보고서에서 이런 위험을 지적했다.
+이 화의 노스게이트 탤런트, 하트웰 서치, 바스 크론, 43명 데이터 분석, 펨커의 위장 프로필은 모두 가상이다.
