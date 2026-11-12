@@ -1,0 +1,346 @@
+# 4부 7화. De promovendus (박사과정생)
+수준: 중상급 (B2) | 장소: TU/e «Flux» 건물 지식안보 담당관실 → 리웨이의 기숙사 → 캠퍼스 카페 → 편집국 전쟁실(논쟁) → 마르흐레이트의 사무실 | 시간: 2027년 10월 넷째 주, 월요일 → 화요일
+핵심 표현: We mogen niemand verdacht maken op afkomst · Waar is het bewijs? · Dat is precies het probleem · Er blijkt…
+
+## 대화
+Hanna: (maandagochtend om acht uur, aan de telefoon; ze klinkt buiten adem) Meneer Hoekstra. Wei is om negen uur opgeroepen. Bij de kennisveiligheidsadviseur van de universiteit. Er zijn downloads gevonden. Via zijn account.
+(월요일 아침 여덟 시, 전화로; 숨이 찬 목소리) 후크스트라 씨. 웨이가 아홉 시에 소환됐어요. 대학의 지식안보 자문관한테요. 다운로드 기록이 발견됐대요. 그 애 계정으로요.
+Bram: (staat op van zijn keukentafel) Wat voor downloads?
+(부엌 식탁에서 일어나며) 어떤 다운로드요?
+Hanna: Specificaties van spiegels. Uit een gedeeld project met Lumion. Onder NDA. Drie keer. Telkens om drie uur 's nachts. (stilte) Hij zweert dat hij het niet was.
+거울 사양서요. 루미온과의 공동 프로젝트에서 나온 거요. 비밀 유지 계약 대상이에요. 세 번이요. 매번 새벽 세 시에요. (침묵) 그 애는 자기가 아니라고 맹세해요.
+Bram: Ik kom. Twee uur.
+갈게요. 두 시간이요.
+Hanna: Hij mag niemand meenemen naar het gesprek. Alleen een vertrouwenspersoon. (stilte) Hij vroeg of ik dat wilde zijn. Ik ben zijn begeleider. En ik werk voor Lumion. (ze lacht bitter) Ik ben de slechtst mogelijke vertrouwenspersoon.
+면담엔 아무도 데려갈 수 없대요. 신뢰인 한 명만요. (침묵) 저더러 그걸 해 달래요. 전 지도 교수고. 루미온 직원이고요. (씁쓸하게 웃으며) 최악의 신뢰인이죠.
+Jip: (in de auto op de A2, om half negen; hij heeft zijn laptop open op zijn knieën) Ik heb gisteravond met Li Wei gemaild. Via Signal. Ik vroeg hem of hij de afgelopen weken rare mails kreeg.
+(여덟 시 반 A2 위 차 안, 무릎에 노트북을 펼친 채) 어젯밤에 리웨이랑 연락했어요. 시그널로요. 지난 몇 주 동안 이상한 메일 받은 적 있냐고 물었어요.
+Bram: (rijdt) En?
+(운전하며) 그래서?
+Jip: Op 28 september kreeg hij een mail van de "Senior Talent Partner" van Northgate. "We hebben een fantastische functie voor u in Singapore. Upload uw cv via ons portaal." (stilte) Het portaal vroeg om in te loggen. Met zijn universiteitsaccount. "Voor verificatie."
+9월 28일에 노스게이트의 "시니어 탤런트 파트너"한테서 메일을 받았대요. "싱가포르에 아주 좋은 자리가 있습니다. 저희 포털로 이력서를 올려 주세요." (침묵) 그 포털이 로그인을 요구했대요. 대학 계정으로요. "확인을 위해서"라면서요.
+Bram: (zijn handen klemmen het stuur) Heeft hij het gedaan?
+(핸들을 꽉 쥐며) 했대?
+Jip: Hij zei dat hij het opende. Dat hij zijn wachtwoord intypte. En dat de pagina toen "foutmelding" gaf. Hij dacht dat het kapot was. (stilte) Vier dagen later, op 2 oktober, was de eerste download.
+열어 봤대요. 비밀번호를 입력했대요. 그랬더니 페이지에 "오류"가 떴대요. 고장 난 줄 알았대요. (침묵) 나흘 뒤, 10월 2일에 첫 다운로드가 있었어요.
+Bram: Phishing.
+피싱이네.
+Jip: Een vals portaal. Om zijn wachtwoord te stelen. (stilte) Hij schaamt zich dood. Hij zei: "Ik heb een doctoraat in natuurkunde en ik trapte erin als mijn oma."
+가짜 포털이요. 비밀번호를 훔치려고요. (침묵) 엄청 부끄러워해요. 그러더라고요: "물리학 박사과정인데 우리 할머니처럼 속았어요."
+Bram: Iedereen trapt erin. Als de lokker goed genoeg is. (stilte) Singapore. Tweehonderdvijftigduizend. Voor een promovendus die net hoort dat Nederland hem misschien niet wil.
+누구나 속아. 미끼가 충분히 좋으면. (침묵) 싱가포르. 25만. 네덜란드가 자기를 원하지 않을지도 모른다는 얘기를 막 들은 박사과정생한테.
+Jip: De perfecte lokker. Op het perfecte moment.
+완벽한 미끼네요. 완벽한 타이밍에.
+Brandt: (om negen uur, in een licht kantoor op de vierde verdieping van gebouw Flux; een vrouw van vijftig met een leesbril aan een koordje; op tafel een map met logbestanden; Li Wei en Hanna tegenover haar) Meneer Li. Dank u dat u gekomen bent. Dit is geen beschuldiging. Het is een gesprek.
+(아홉 시, «플럭스» 건물 4층의 밝은 사무실; 줄 달린 돋보기를 건 쉰 살 여자; 탁자 위엔 로그 파일 서류철; 맞은편에 리웨이와 하나) 리 씨. 와 주셔서 감사합니다. 이건 고발이 아니에요. 면담이에요.
+Li Wei: (zijn handen liggen plat op tafel, alsof hij ze moet laten zien) Ja, mevrouw Brandt.
+(두 손을 탁자 위에 납작하게 올려놓고 있다, 마치 손을 보여 줘야 하는 것처럼) 네, 브란트 씨.
+Brandt: Op 2, 9 en 16 oktober zijn er via uw universiteitsaccount documenten gedownload uit de gedeelde map van het Lumion-project. Om 03:04, 03:11 en 02:58 uur. (ze kijkt op) Kunt u dat verklaren?
+10월 2일, 9일, 16일에 당신 대학 계정으로 루미온 프로젝트 공유 폴더의 문서들이 다운로드됐어요. 03시 04분, 03시 11분, 02시 58분에요. (고개를 들며) 설명할 수 있나요?
+Li Wei: Ik sliep. (stilte) Elke keer. Ik slaap om twaalf uur. Ik sta op om zeven. Mijn kat maakt me wakker.
+자고 있었어요. (침묵) 매번이요. 전 열두 시에 자요. 일곱 시에 일어나고요. 고양이가 깨워요.
+Brandt: Iemand anders heeft uw wachtwoord?
+다른 사람이 당신 비밀번호를 알아요?
+Li Wei: Nee. Niemand. (stilte) Ik heb het nooit opgeschreven.
+아니요. 아무도요. (침묵) 한 번도 적어 둔 적이 없어요.
+Hanna: (rustig) Mag ik iets vragen? Vanaf welke plek werden de bestanden gedownload?
+(침착하게) 하나 물어봐도 될까요? 그 파일들은 어디서 다운로드됐나요?
+Brandt: (kijkt in de map) Vanaf een vaste terminal. Op de campus. In dit gebouw. Lab 4.12.
+(서류철을 보며) 고정 단말기에서요. 캠퍼스 안이요. 이 건물. 4.12 실험실이요.
+Hanna: (heel stil) Lab 4.12 is ons lab. Daar heb je een badge voor nodig. Om drie uur 's nachts.
+(아주 조용히) 4.12는 우리 실험실이에요. 출입증이 있어야 들어가요. 새벽 세 시에도요.
+Brandt: Precies. Daarom vraag ik het meneer Li. Hij heeft een badge.
+바로 그거예요. 그래서 리 씨한테 묻는 거예요. 출입증이 있으니까요.
+Li Wei: Twintig mensen hebben een badge voor 4.12.
+4.12 출입증 있는 사람은 스무 명이에요.
+Brandt: (een korte stilte) Dat klopt.
+(짧은 침묵) 맞아요.
+Li Wei: Waarom vraagt u het dan alleen aan mij?
+그럼 왜 저한테만 물으세요?
+Brandt: (zet haar leesbril af; ze kijkt hem voor het eerst echt aan) Omdat de downloads via úw account gingen, meneer Li. (stilte) En omdat er Kamervragen over u zijn gesteld. Dat maakt het… lastig.
+(돋보기를 벗고 처음으로 그를 제대로 바라본다) 다운로드가 당신 계정으로 이뤄졌으니까요, 리 씨. (침묵) 그리고 당신에 관한 국회 질의가 있었으니까요. 그게… 일을 어렵게 만들죠.
+Hanna: (scherp) De Kamervragen waren gebaseerd op een anoniem LinkedIn-profiel. Zonder bewijs.
+(날카롭게) 그 국회 질의는 익명 링크드인 프로필에 근거한 거였어요. 증거 없이요.
+Brandt: (zacht) Ik weet het, Hanna. Daarom is dit een gesprek. En geen aangifte. (stilte) Nog niet.
+(조용히) 알아요, 하나. 그래서 이게 고발이 아니라 면담인 거예요. (침묵) 아직은요.
+Li Wei: (zacht) Mevrouw Brandt. Op 28 september kreeg ik een mail. Van een recruiter. Met een link. Ik heb mijn wachtwoord daar ingetypt. (stilte) Ik denk dat het gestolen is.
+(조용히) 브란트 씨. 9월 28일에 메일을 받았어요. 리크루터한테서요. 링크가 있었어요. 거기에 비밀번호를 입력했어요. (침묵) 도둑맞은 것 같아요.
+Brandt: (schrijft het op; haar gezicht verandert) Heeft u die mail nog?
+(받아 적는다; 얼굴이 달라진다) 그 메일 아직 있어요?
+Li Wei: Ja. (stilte) Maar dat bewijst niet dat ik het niet was. Toch? Dat zegt u nu.
+네. (침묵) 그래도 그게 제가 안 했다는 증거는 아니죠? 지금 그렇게 말씀하실 거죠.
+Brandt: (een lange stilte) Het bewijst dat iemand anders het ook gekund heeft. (stilte) Dat is meer dan ik vanochtend had.
+(긴 침묵) 다른 누군가도 할 수 있었다는 증거는 되죠. (침묵) 그건 오늘 아침 제가 가진 것보다 많아요.
+Hanna: (legt een hand op Li Wei's arm) Dank u, Marjolein.
+(리웨이의 팔에 손을 얹으며) 고마워요, 마르욜레인.
+Brandt: (bij de deur, als Li Wei en Hanna al op de gang zijn; ze houdt Hanna even tegen) Hanna. Ik moet je iets zeggen. Niet officieel.
+(문 옆에서, 리웨이와 하나가 이미 복도에 나갔을 때; 하나를 잠깐 붙잡는다) 하나. 할 말이 있어. 비공식으로.
+Hanna: Ja?
+뭔데?
+Brandt: De melding over de downloads kwam niet van ons eigen systeem. Iemand stuurde ons zondag een anonieme tip. Met de exacte tijden. (stilte) Ons systeem had het pas over een maand gezien. Als het het al had gezien.
+다운로드 신고는 우리 시스템에서 나온 게 아니었어. 일요일에 누가 익명 제보를 보냈어. 정확한 시각까지 적어서. (침묵) 우리 시스템은 한 달 뒤에야 봤을 거야. 그나마 봤다면.
+Hanna: (heel stil) Iemand wist de tijden. Voordat jullie het wisten.
+(아주 조용히) 누가 시각을 알았다고. 너희가 알기도 전에.
+Li Wei: (in zijn kamer, die middag; Bram en Jip zitten op het bed, naast Einstein; op het bureau staat een klein wit camera'tje gericht op de kamer) Ik heb dit vorig jaar gekocht. Voor Einstein. Als ik op conferentie ben, kijk ik via de app of hij nog leeft. (stilte) Hij filmt de hele kamer. Ook het bed.
+(그날 오후, 그의 방; 브람과 입이 아인슈타인 옆 침대에 앉아 있다; 책상 위에 방을 향한 작은 흰색 카메라) 작년에 산 거예요. 아인슈타인 때문에요. 학회 가 있을 때 앱으로 아직 살아 있나 봐요. (침묵) 방 전체를 찍어요. 침대도요.
+Jip: (pakt zijn laptop) Bewaart hij de beelden?
+(노트북을 집으며) 영상이 저장돼요?
+Li Wei: Dertig dagen. In de cloud. Alleen als er beweging is. (stilte) Einstein beweegt veel. 's Nachts loopt hij over mijn hoofd.
+30일이요. 클라우드에요. 움직임이 있을 때만요. (침묵) 아인슈타인이 많이 움직여요. 밤엔 제 머리 위로 걸어 다녀요.
+Jip: (typt, scrolt; dan, langzaam) Twee oktober. 03:02. (hij draait het scherm) Kijk.
+(입력하고 스크롤하다가 천천히) 10월 2일. 03시 02분. (화면을 돌리며) 보세요.
+Bram: (kijkt; op het scherm, in grijs nachtzicht: een grijze kat die over een slapende jongen heen loopt; de jongen draait zich om en trekt het dekbed over zijn hoofd) Dat bent u.
+(바라본다; 화면 속 회색 야간 화면: 잠든 청년 위로 회색 고양이가 걸어간다; 청년이 돌아누워 이불을 머리까지 끌어당긴다) 당신이네요.
+Jip: Negen oktober. 03:09. (stilte) Zestien oktober. 02:55. (hij laat de beelden zien: telkens dezelfde kat, dezelfde slapende jongen) Elke keer. Twee minuten voor de download. Hier. In bed.
+10월 9일. 03시 09분. (침묵) 10월 16일. 02시 55분. (영상을 보여 준다: 매번 같은 고양이, 같은 잠든 청년) 매번이요. 다운로드 2분 전에요. 여기. 침대에서요.
+Li Wei: (staart naar het scherm; zijn stem breekt) Einstein heeft het gezien.
+(화면을 노려보다가 목소리가 갈라진다) 아인슈타인이 봤네요.
+Li Wei: (pakt de kat op en houdt hem tegen zich aan) Ik heb hem gekocht in mijn eerste week in Nederland. In een asiel in Eindhoven. Niemand wilde hem. Hij had één oog dicht. (stilte) Nu heeft hij me gered.
+(고양이를 안아 올려 끌어안으며) 네덜란드 온 첫 주에 데려왔어요. 아인트호번 보호소에서요. 아무도 안 데려가려 했어요. 한쪽 눈이 감겨 있었거든요. (침묵) 그런데 이제 얘가 저를 구했네요.
+Jip: (glimlacht) Einstein met één oog. Hij ziet meer dan de universiteit.
+(미소 지으며) 한쪽 눈 아인슈타인. 대학보다 더 많이 보네요.
+Bram: (zacht) Einstein is een goede getuige. (stilte) Het lab is drie kilometer van hier. Niemand kan om 03:02 in bed liggen en om 03:04 achter een terminal zitten.
+(조용히) 아인슈타인은 좋은 증인이에요. (침묵) 실험실은 여기서 3킬로미터 떨어져 있어요. 03시 02분에 침대에 누워 있다가 03시 04분에 단말기 앞에 앉을 수는 없죠.
+Jip: Behalve als je op afstand inlogt. Maar Brandt zei: een vaste terminal. In 4.12. (stilte) Iemand zat in dat lab. Met Li Wei's wachtwoord.
+원격 접속을 하면 모를까요. 그런데 브란트가 그랬잖아요: 고정 단말기. 4.12에서. (침묵) 누군가 그 실험실에 앉아 있었던 거예요. 리웨이의 비밀번호로요.
+Li Wei: Maar niemand kent mijn wachtwoord.
+그런데 아무도 제 비밀번호를 몰라요.
+Jip: (kijkt naar het bureau, waar een toetsenbord ligt) Typt u het weleens in het lab? Met mensen achter u?
+(키보드가 놓인 책상을 보며) 실험실에서 입력할 때도 있죠? 뒤에 사람들이 있을 때요?
+Li Wei: (een lange stilte) Elke dag. (stilte) Iedereen staat achter iedereen in dat lab. Het is klein.
+(긴 침묵) 매일이요. (침묵) 그 실험실에선 다들 서로 뒤에 서 있어요. 좁거든요.
+Bram: Wie was er op die avonden in het gebouw?
+그날 밤들에 건물에 누가 있었죠?
+Li Wei: Dat weet de beveiliging. Badges registreren alles. (stilte) Maar mevrouw Brandt zei dat die gegevens "privacygevoelig" zijn. Ze mag ze niet aan mij laten zien.
+그건 보안 쪽이 알아요. 출입증은 다 기록되니까요. (침묵) 그런데 브란트 씨가 그 자료는 "개인정보 민감 정보"래요. 저한테 보여 줄 수 없대요.
+Jip: Dus de enige die bewezen heeft waar hij was, is de verdachte. Met een kattencamera.
+그러니까 자기가 어디 있었는지 증명한 유일한 사람이 용의자네요. 고양이 카메라로요.
+Bram: (staat op) En iemand anders heeft een badge, een wachtwoord en een reden. (stilte) Wij moeten weten wie.
+(일어서며) 그리고 다른 누군가는 출입증과 비밀번호와 이유를 갖고 있지. (침묵) 그게 누군지 알아야 해.
+Thomas: (op de gang van gebouw Flux, als Bram en Jip naar de lift lopen; hij komt net uit 4.12 met een koffie) U weer. Hoe gaat het met hem?
+(«플럭스» 건물 복도, 브람과 입이 엘리베이터로 걸어갈 때; 커피를 들고 4.12에서 막 나온다) 또 오셨네요. 그 애는 어때요?
+Bram: Hij heeft een goede kat. (stilte) Thomas. Wie werkt hier 's nachts?
+좋은 고양이가 있어요. (침묵) 토마스. 여기서 밤에 누가 일해요?
+Thomas: (denkt na) 's Nachts? Bijna niemand. De metingen lopen automatisch. (stilte) Behalve Sander. Van Lumion. Hij zit hier twee dagen per week voor het gedeelde project. Hij zegt dat hij 's nachts beter kan denken. Zonder studenten die vragen stellen.
+(생각하며) 밤에요? 거의 없어요. 측정은 자동으로 돌아가요. (침묵) 산더르 빼고요. 루미온에서 온 사람이요. 공동 프로젝트 때문에 일주일에 이틀 여기 있어요. 밤에 생각이 더 잘된대요. 질문하는 학생들 없이요.
+Jip: (heel neutraal) Sander?
+(아주 무덤덤하게) 산더르요?
+Thomas: Sander Wolters. Senior optisch ingenieur. Aardige vent. Hij neemt stroopwafels mee voor het hele lab. (stilte) Waarom?
+산더르 볼터르스. 시니어 광학 엔지니어요. 괜찮은 사람이에요. 실험실 사람들 다 먹으라고 스트롭와플을 사 와요. (침묵) 왜요?
+Bram: Zomaar. (stilte) Staat hij weleens achter Li Wei als die inlogt?
+그냥요. (침묵) 리웨이가 로그인할 때 그 사람이 뒤에 서 있기도 해요?
+Thomas: (lacht) Iedereen staat achter iedereen. Het is een klein lab. (zijn lach verdwijnt) Wacht. Waarom vraagt u dat?
+(웃으며) 다들 서로 뒤에 서 있어요. 좁은 실험실이니까요. (웃음이 사라진다) 잠깐만요. 왜 그걸 물으세요?
+Bram: Vergeet dat ik het vroeg. Alstublieft.
+제가 물어본 거 잊어 주세요. 부탁이에요.
+Jip: (in de lift, zacht) "Beste Sander." Het eerste bericht van de recruiter. Uit de screenshots van de drie engineers.
+(엘리베이터 안에서 조용히) "산더르 님께." 리크루터의 첫 메시지요. 엔지니어 세 명의 스크린숏에 있던 거요.
+Bram: (kijkt naar de dichte liftdeuren) Ik weet het.
+(닫힌 엘리베이터 문을 바라보며) 알아.
+Jip: Wat doen we nu?
+이제 어떻게 해요?
+Bram: We wachten tot woensdag. (stilte) En we eten geen stroopwafels uit lab 4.12.
+수요일까지 기다려. (침묵) 그리고 4.12 실험실 스트롭와플은 먹지 마.
+Hanna: (in een rustige hoek van het campuscafé, later; ze roert in haar koffie zonder te drinken) De beveiliging van de universiteit geeft de badgegegevens niet. Niet aan mij. Niet aan u. Alleen aan de politie, als er aangifte is.
+(나중에 캠퍼스 카페의 조용한 구석; 마시지 않고 커피를 젓는다) 대학 보안팀은 출입 기록을 안 줘요. 저한테도. 당신한테도. 고발이 있으면 경찰한테만요.
+Bram: En als er aangifte komt, is het tegen Li Wei.
+그리고 고발이 들어온다면 리웨이를 상대로겠죠.
+Hanna: Precies. (stilte) Dat is precies het probleem. De enige manier om hem vrij te pleiten, is hem eerst te beschuldigen.
+바로 그거예요. (침묵) 그게 정확히 문제예요. 그 애의 혐의를 벗기는 유일한 방법이 먼저 그 애를 고발하는 거라니요.
+Bram: Gerard. Uw hoofd beveiliging. Heeft hij toegang tot de badges van de universiteit?
+헤라르트요. 루미온 보안 책임자요. 그분이 대학 출입 기록에 접근할 수 있어요?
+Hanna: (kijkt op) Lumion heeft eigen badgelezers op 4.12. Omdat het een gedeeld lab is. (stilte) Gerard heeft die gegevens. Hij zei me vanochtend dat hij "iets heeft". Hij wilde niet zeggen wat.
+(고개를 들며) 루미온은 4.12에 자체 출입증 리더기가 있어요. 공동 실험실이라서요. (침묵) 헤라르트한테 그 자료가 있어요. 오늘 아침에 "뭔가 있다"고 하더라고요. 뭔지는 말 안 했어요.
+Bram: Woensdag. Hij heeft woensdag met mij afgesproken.
+수요일이요. 수요일에 저랑 만나기로 했어요.
+Bram: Mevrouw Vermeulen. Werkt er iemand van Lumion 's nachts in 4.12?
+페르묄런 씨. 루미온 사람 중에 밤에 4.12에서 일하는 사람이 있어요?
+Hanna: (haar lepel stopt) Waarom vraagt u dat?
+(숟가락이 멈춘다) 왜 그걸 물으세요?
+Bram: Omdat iemand die Li Wei's wachtwoord had, ook in dat lab moest zijn. Om drie uur 's nachts.
+리웨이 비밀번호를 가진 누군가는 새벽 세 시에 그 실험실에도 있어야 했으니까요.
+Hanna: (zet haar kopje heel langzaam neer) Ik ga niet raden, meneer Hoekstra. Niet over mijn eigen mensen. (stilte) Ik heb ze allemaal zelf aangenomen.
+(찻잔을 아주 천천히 내려놓으며) 추측하지 않겠어요, 후크스트라 씨. 제 사람들에 대해서는요. (침묵) 다 제가 직접 뽑았어요.
+Hanna: (een lange stilte) Dan weet hij het al. (stilte) Meneer Hoekstra. Als het iemand van mijn team is… iemand die ik heb aangenomen… dan wil ik dat Wei het als eerste hoort. Niet van de krant. Van mij.
+(긴 침묵) 그럼 이미 알고 있는 거네요. (침묵) 후크스트라 씨. 그게 우리 팀 사람이라면… 제가 뽑은 사람이라면… 웨이가 제일 먼저 들었으면 해요. 신문이 아니라. 저한테서요.
+Bram: Dat beloof ik.
+약속할게요.
+Hanna: (staat op en zet haar fleece-kraag omhoog) Marjolein Brandt zei me vanochtend nog iets. De tip over de downloads kwam anoniem. Met de exacte tijden. (stilte) Wie stuurt een tip met de exacte tijden, meneer Hoekstra?
+(일어나 플리스 깃을 세우며) 마르욜레인 브란트가 오늘 아침에 하나 더 말했어요. 다운로드 제보가 익명으로 왔대요. 정확한 시각까지요. (침묵) 누가 정확한 시각까지 적어서 제보를 보내겠어요, 후크스트라 씨?
+Bram: (stil) Iemand die erbij was. Of iemand die de downloader betaalt.
+(조용히) 그 자리에 있었던 사람. 아니면 다운로드한 사람한테 돈을 주는 사람.
+Hanna: (heel zacht, terwijl ze haar tas pakt) Dan heb ik ergens een vergissing gemaakt. Bij een sollicitatie. Jaren geleden.
+(가방을 챙기며 아주 조용히) 그럼 제가 어딘가에서 실수를 한 거네요. 채용 면접에서요. 몇 년 전에.
+Lucas: (dinsdagochtend, in de oorlogskamer; hij staat bij het whiteboard en tikt op de foto van Li Wei die Noor daar ooit heeft opgehangen) We moeten dit nu schrijven. Een student wordt erin geluisd. We hebben de kattencamera. Drie keer. Tijdstempels. Dat is bewijs.
+(화요일 아침, 전쟁실; 화이트보드 앞에 서서 노르가 예전에 붙여 둔 리웨이 사진을 톡톡 친다) 지금 써야 해요. 학생 하나가 누명을 쓰고 있어요. 고양이 카메라가 있잖아요. 세 번이요. 타임스탬프까지. 그게 증거예요.
+Hanneke: (zit met haar armen over elkaar) Bewijs dat hij in bed lag. Niet bewijs dat iemand anders het deed. En niet bewijs van wie.
+(팔짱을 끼고 앉아서) 그가 침대에 누워 있었다는 증거지. 다른 누가 했다는 증거는 아니야. 누가 했는지의 증거는 더더욱 아니고.
+Jip: We hebben ook de phishingmail. Van Northgate. Vier dagen voor de eerste download.
+피싱 메일도 있어요. 노스게이트에서 온 거요. 첫 다운로드 나흘 전이요.
+Hanneke: (knikt) Dat helpt. Dat is een tweede steen. (stilte) Maar het is nog steeds geen naam.
+(고개를 끄덕이며) 그건 도움이 돼. 두 번째 돌이야. (침묵) 그래도 아직 이름은 아니야.
+Jip: (kijkt naar Bram; Bram schudt bijna onzichtbaar zijn hoofd) Nee. Nog geen naam.
+(브람을 본다; 브람이 거의 보이지 않게 고개를 젓는다) 네. 아직 이름은 아니에요.
+Lucas: Dan schrijven we dat hij in bed lag. Dat is genoeg om hem vrij te pleiten.
+그럼 침대에 있었다고 쓰면 되잖아요. 혐의를 벗기기엔 그걸로 충분해요.
+Femke: Is het? (stilte) Als we schrijven "Li Wei lag in bed", schrijven we ook zijn naam. Opnieuw. In de krant. Naast het woord "downloads". Wat onthoudt de lezer?
+충분해? (침묵) "리웨이는 침대에 있었다"라고 쓰면, 그 이름도 쓰는 거야. 또다시. 신문에. "다운로드"라는 단어 옆에. 독자는 뭘 기억할까?
+Jip: (zacht) "Chinese student. Downloads."
+(조용히) "중국인 학생. 다운로드."
+Lucas: Maar we mogen niemand verdacht maken op afkomst. Dat is toch het hele punt? Als wij nu zwijgen, laten we de verdachtmaking staan.
+그런데 출신으로 누굴 의심받게 만들면 안 되잖아요. 그게 핵심 아니에요? 우리가 지금 입 다물면, 그 의심을 그대로 두는 거예요.
+Noor: (vanaf het raam) Lucas heeft gelijk. En Femke ook. (stilte) Dat is precies het probleem. Elke keer dat we zijn naam schrijven om hem te verdedigen, staat zijn naam weer naast het woord "spion".
+(창가에서) 뤼카스 말이 맞아요. 펨커도요. (침묵) 그게 정확히 문제예요. 그를 변호하려고 이름을 쓸 때마다 그의 이름이 또 "스파이"라는 단어 옆에 서게 되잖아요.
+Lucas: (draait zich om) En als het een Nederlander was? Met een Nederlandse naam? Zouden we dan ook zo lang twijfelen?
+(돌아서며) 그게 네덜란드 사람이었다면요? 네덜란드 이름을 가진? 그때도 우리가 이렇게 오래 망설였을까요?
+Femke: (een lange stilte) Nee. (stilte) Dan hadden we het al geschreven. Met zijn naam. Op de voorpagina.
+(긴 침묵) 아니. (침묵) 그럼 벌써 썼겠지. 이름까지. 1면에.
+Lucas: Dat is precies het probleem.
+그게 정확히 문제예요.
+Lucas: (later, bij de koffieautomaat, zacht tegen Bram) Je hebt een naam. Ik zie het aan je gezicht. Je knipperde niet toen Hanneke "geen naam" zei.
+(나중에 커피 자판기 옆에서 브람에게 조용히) 이름 있으시죠. 얼굴 보면 알아요. 하네커가 "이름은 없다"고 할 때 눈도 안 깜빡이셨잖아요.
+Bram: (vult zijn beker) Woensdag.
+(컵을 채우며) 수요일.
+Lucas: (glimlacht half) Jij hebt ook geheimen. Net als ik.
+(반쯤 미소 지으며) 선배도 비밀이 있네요. 저처럼요.
+Bram: Ik vertel je mijn geheim woensdag. Jij vertelt me het jouwe wanneer?
+난 수요일에 말해 줄게. 넌 언제 말해 줄 건데?
+Lucas: (stilte) Als het klaar is. (hij loopt weg) Dat zei ik toch.
+(침묵) 다 되면요. (걸어가며) 그렇게 말씀드렸잖아요.
+Hanneke: Waar is het bewijs dat iemand anders het deed? Een naam? Een badge? Een beeld van een camera in het lab?
+다른 사람이 했다는 증거는 어디 있어? 이름? 출입증? 실험실 카메라 영상?
+Bram: (die al die tijd heeft geluisterd) Woensdag. Gerard.
+(그동안 듣기만 하다가) 수요일. 헤라르트.
+Hanneke: Dan wachten we tot woensdag.
+그럼 수요일까지 기다리자.
+Lucas: (gooit zijn stift op tafel) En als de universiteit vandaag aangifte doet? Dan staat zijn naam morgen in elke krant. Behalve in de onze.
+(마커를 탁자에 던지며) 오늘 대학이 고발하면요? 그럼 내일 모든 신문에 그 이름이 나와요. 우리 신문만 빼고요.
+Femke: (kalm) Dan zijn wij de enige krant die het juiste niet heeft opgeschreven. (stilte) Dat kan ik leven met.
+(차분하게) 그럼 우린 옳지 않은 걸 쓰지 않은 유일한 신문이 되겠지. (침묵) 그 정도는 받아들일 수 있어.
+Lucas: Ik niet. (hij kijkt naar Bram) Jij zei: een verhaal dat niet geschreven wordt, kan niemand pijn doen. Maar een verhaal dat te laat geschreven wordt, ook niet helpen.
+전 못 해요. (브람을 보며) 선배가 그랬잖아요: 쓰이지 않은 기사는 아무도 다치게 하지 않는다고. 그런데 너무 늦게 쓰인 기사는 아무도 돕지도 못해요.
+Bram: (een lange stilte) We schrijven het. Vandaag. Maar niet over Li Wei. (hij pakt een stift) Over de methode. "Universiteit onderzoekt downloads via account van promovendus — camerabeelden tonen dat hij thuis sliep." Geen naam. Geen nationaliteit. Geen land.
+(긴 침묵) 쓰자. 오늘. 그런데 리웨이에 관해서가 아니라. (마커를 집으며) 방법에 관해서. "대학, 박사과정생 계정 통한 다운로드 조사 — 카메라 영상은 그가 집에서 자고 있었음을 보여 줘." 이름 없이. 국적 없이. 나라 없이.
+Hanneke: (langzaam) Dat kan. Als hij toestemming geeft voor de beelden.
+(천천히) 그건 돼. 그가 영상 사용에 동의한다면.
+Jip: En als de universiteit morgen aangifte doet, weet iedereen dat er beelden zijn. Dan kan niemand meer doen alsof.
+그리고 내일 대학이 고발하면, 영상이 있다는 걸 다들 알게 되죠. 그럼 아무도 모르는 척 못 해요.
+Lucas: (stilte; dan glimlacht hij half) Oké. Dat is beter dan wat ik wilde.
+(침묵; 그리고 반쯤 미소 지으며) 좋아요. 제가 원했던 것보다 낫네요.
+Femke: (tegen Bram, zacht) Goed gedaan, voorzitter.
+(브람에게 조용히) 잘했어, 의장님.
+Bram: (bij het raam, later, alleen met Jip) Sander Wolters. Niet opschrijven. Nergens. Niet in het systeem. Niet in je telefoon.
+(나중에, 창가에서 입과 단둘이) 산더르 볼터르스. 적지 마. 어디에도. 시스템에도. 휴대폰에도.
+Jip: (knikt) Ook niet aan Femke?
+(고개를 끄덕이며) 펨커한테도요?
+Bram: Femke weet het al. Ze weet alles. (stilte) Maar niet Margreet. Niet tot woensdag.
+펨커는 벌써 알아. 다 알지. (침묵) 그런데 마르흐레이트는 안 돼. 수요일까지는.
+Margreet: (dinsdagmiddag, in haar kantoor, met de deur dicht; ze leest de opzet) "Camerabeelden tonen dat hij thuis sliep." (ze kijkt op) Mooi. Heel menselijk. Een kat als getuige.
+(화요일 오후, 문을 닫은 자기 사무실에서 초안을 읽는다) "카메라 영상은 그가 집에서 자고 있었음을 보여 줘." (고개를 들며) 좋네. 아주 인간적이야. 고양이가 증인이라니.
+Bram: Er blijkt iemand anders in het lab te zijn geweest. Met zijn wachtwoord.
+다른 누군가가 그의 비밀번호로 실험실에 있었던 것으로 드러났어요.
+Margreet: (knikt) Natuurlijk. (stilte) Hoewel… mijn bron in Den Haag zei vorige week al dat de universiteit "harde gegevens" had. Logbestanden. Downloads. Ik had je dat moeten zeggen.
+(고개를 끄덕이며) 당연하지. (침묵) 그런데… 내 헤이그 소식통이 지난주에 벌써 대학이 "확실한 자료"를 갖고 있다고 했어. 로그 파일. 다운로드. 너한테 말했어야 했는데.
+Bram: (heel stil) Vorige week?
+(아주 조용히) 지난주에요?
+Margreet: Woensdag of donderdag. (ze bladert) Ik dacht dat het niet belangrijk was. Je zat toen in Den Haag, toch? (glimlacht) Ik las de planning.
+수요일인가 목요일인가. (서류를 넘기며) 중요하지 않다고 생각했어. 그때 넌 헤이그에 있었잖아, 그치? (미소 지으며) 일정표 읽었어.
+Bram: (zijn gezicht beweegt niet) Wij waren donderdag in Den Haag. Dat stond in de planning.
+(얼굴이 조금도 움직이지 않는다) 저흰 목요일에 헤이그에 있었죠. 그건 일정표에 있었어요.
+Margreet: Precies. (stilte) Publiceer het. Goed werk. (ze kijkt weer naar haar scherm)
+그러니까. (침묵) 내보내. 잘했어. (다시 화면을 본다)
+Bram: (bij de deur) Margreet. De universiteit vond de downloads pas zondag. Ze riepen hem maandag op. (stilte) Hoe kon je bron het woensdag al weten?
+(문 옆에서) 마르흐레이트. 대학은 일요일에야 다운로드 기록을 발견했어요. 월요일에 그를 소환했고요. (침묵) 당신 소식통은 어떻게 수요일에 벌써 알았죠?
+Margreet: (een seconde stilte; ze kijkt niet op) Misschien bedoelde hij iets anders. Bronnen zeggen veel. (stilte) Of misschien heb ik me vergist met de dag. Ik word oud, Bram.
+(1초간 침묵; 고개를 들지 않는다) 다른 걸 말한 건지도 모르지. 소식통들은 말이 많아. (침묵) 아니면 내가 날짜를 착각했을 수도 있고. 나도 늙나 봐, 브람.
+Bram: (blijft staan) De downloads waren op 2, 9 en 16 oktober. De laatste was op de zestiende. Een zaterdag. (stilte) Als je bron het woensdag de twintigste wist, wist hij het vóór de universiteit.
+(서 있다) 다운로드는 10월 2일, 9일, 16일이었어요. 마지막이 16일이었고요. 토요일이요. (침묵) 당신 소식통이 20일 수요일에 알았다면, 대학보다 먼저 안 거예요.
+Margreet: (zet haar bril af; ze kijkt hem nu recht aan, rustig) Of hij wist het van de persoon die het deed. (stilte) Dat zou een verhaal zijn, hè? Zoek het uit, Bram. Dat is je werk.
+(안경을 벗고 이번엔 그를 똑바로 바라본다, 차분하게) 아니면 그걸 한 사람한테서 들었거나. (침묵) 그거야말로 기사겠네, 그치? 알아봐, 브람. 그게 네 일이잖아.
+Femke: [Signal] (dinsdagavond) Wat zei ze precies?
+[시그널] (화요일 저녁) 그녀가 정확히 뭐라고 했어?
+Bram: [Signal] Dat haar bron in Den Haag vorige week woensdag of donderdag al van de downloads wist. Voor de universiteit.
+[시그널] 헤이그 소식통이 지난주 수요일인가 목요일에 벌써 다운로드를 알았대. 대학보다 먼저.
+Femke: [Signal] En toen?
+[시그널] 그다음엔?
+Bram: [Signal] Toen ik het vroeg, zei ze: "Of hij wist het van de persoon die het deed. Zoek het uit."
+[시그널] 내가 물으니까 이러더라: "아니면 그걸 한 사람한테서 들었거나. 알아봐."
+Femke: [Signal] (een lange pauze) Ze gaf je zelf de vraag. Die je niet durfde te stellen.
+[시그널] (긴 공백) 네가 묻지 못한 질문을 그녀가 직접 줬네.
+Bram: [Signal] Of ze weet niets en denkt hardop. Zoals ik.
+[시그널] 아니면 아무것도 모르고 혼잣말한 거거나. 나처럼.
+Femke: [Signal] Nummer 45. (stilte) Bram. Iemand die vóór de universiteit van de downloads wist, wist het van de downloader. Of van wie de downloader betaalt. Er is geen derde mogelijkheid.
+[시그널] 45번. (침묵) 브람. 대학보다 먼저 다운로드를 안 사람은 다운로드한 사람한테서 들은 거야. 아니면 그 사람한테 돈을 주는 쪽한테서. 세 번째 가능성은 없어.
+Bram: [Signal] Of ze vergiste zich met de dag.
+[시그널] 아니면 그녀가 날짜를 착각했거나.
+Femke: [Signal] Dat is de derde mogelijkheid die je zelf verzint. Omdat je hem nodig hebt.
+[시그널] 그건 네가 필요해서 스스로 지어낸 세 번째 가능성이야.
+Bram: [Signal] En de universiteit kreeg zondag een anonieme tip. Met de exacte tijden.
+[시그널] 그리고 대학은 일요일에 익명 제보를 받았어. 정확한 시각까지 적힌.
+Femke: [Signal] Dus de tip ging naar de universiteit op zondag. En naar Margreets bron op woensdag ervoor. (stilte) Dezelfde bron. Twee kanalen.
+[시그널] 그러니까 제보는 일요일에 대학으로 갔고. 그 전 수요일에 마르흐레이트의 소식통한테 갔고. (침묵) 같은 출처. 두 개의 경로.
+Gerard: [SMS] (dinsdagnacht) Morgen. 21:00. Evoluon. Niets veranderd. Ik heb de badges van 4.12.
+[SMS] (화요일 밤) 내일. 21시. 에볼루온. 바뀐 거 없어요. 4.12 출입 기록 있어요.
+Bram: [SMS] Ik kom alleen.
+[SMS] 혼자 갈게요.
+Li Wei: [Bericht] (dinsdagavond) Mijn moeder belde. Ze las een Chinese vertaling van uw stuk op een forum. Iemand had het vertaald. Ze zegt: "Die Nederlandse kat is slimmer dan de Nederlandse regering."
+[메시지] (화요일 저녁) 엄마가 전화했어요. 어느 포럼에서 당신 기사의 중국어 번역본을 읽으셨대요. 누가 번역했더라고요. 엄마가 그러세요: "그 네덜란드 고양이가 네덜란드 정부보다 똑똑하네."
+Bram: [Bericht] Uw moeder heeft gelijk. Zeg haar dat niet hardop in Chengdu.
+[메시지] 어머니 말씀이 맞아요. 청두에선 그 말을 크게 하지 마시라고 전해 주세요.
+Li Wei: [Bericht] Ik heb toestemming gegeven voor de beelden. Einstein ook. Hij likte aan het formulier.
+[메시지] 영상 사용 동의했어요. 아인슈타인도요. 동의서를 핥았어요.
+Bram: [Bericht] Dan is het officieel.
+[메시지] 그럼 공식이네요.
+Li Wei: [Bericht] Meneer Hoekstra. Morgen spreekt u iemand. Hanna zei het. (stilte) Als u weet wie het was… zegt u het dan eerst tegen haar? Zij heeft het team gemaakt. Zij moet het horen.
+[메시지] 후크스트라 씨. 내일 누군가 만나신다고요. 하나가 그랬어요. (침묵) 누군지 알게 되면… 하나한테 먼저 말해 주실래요? 그 팀을 만든 사람이잖아요. 하나가 들어야 해요.
+Bram: [Bericht] Dat heb ik haar al beloofd. En u ook.
+[메시지] 이미 하나한테 약속했어요. 당신한테도요.
+Lieke: [Bericht] Papa! Ik las een stuk op jullie site. Over een student en een kat. Is dat jouw verhaal?
+[메시지] 아빠! 사이트에서 기사 읽었어. 학생이랑 고양이 얘기. 그거 아빠 기사야?
+Bram: [Bericht] Van het hele team. De kat deed het meeste werk.
+[메시지] 팀 전체 기사야. 고양이가 제일 많이 일했어.
+Lieke: [Bericht] Mama wil een kattencamera. Voor als ik thuis ben en zij niet. 😑
+[메시지] 엄마가 고양이 카메라 사고 싶대. 내가 집에 있고 엄마가 없을 때 보려고. 😑
+Bram: [Bericht] Dan heb ik eindelijk een bondgenoot. 🙂
+[메시지] 그럼 드디어 아빠한테 동맹이 생기는 거네. 🙂
+
+## 주요 단어
+de kennisveiligheid | 더 케니스페일리흐헤이트 | 지식 안보
+de kennisveiligheidsadviseur | 더 케니스페일리흐헤이츠아드피쇠르 | 지식안보 자문관
+oproepen | 옵루펀 | 소환하다, 호출하다
+de specificatie | 더 스페시피카시 | 사양서
+de vertrouwenspersoon | 더 페르트라우언스페르손 | 신뢰인(면담 동석자)
+de beschuldiging | 더 버스휠더힝 | 고발, 비난
+de terminal | 더 테르미널 | 단말기
+de badge | 더 배지 | 출입증
+de badgelezer | 더 배질레이저르 | 출입증 리더기
+het nachtzicht | 헷 나흐트지흐트 | 야간 화면, 적외선 촬영
+de getuige | 더 허타위허 | 증인
+op afstand inloggen | 옵 아프스탄트 인로헌 | 원격 접속하다
+privacygevoelig | 프라이버시헤푸럭 | 개인정보 민감한
+vrijpleiten | 프레이플레이턴 | 혐의를 벗기다
+erin luizen | 에린 라위전 | 누명을 씌우다, 함정에 빠뜨리다
+de verdachtmaking | 더 페르다흐트마킹 | 의심받게 만들기, 모함
+de tijdstempel | 더 테이트스템펄 | 타임스탬프
+de afkomst | 더 아프콤스트 | 출신
+toestemming geven | 투스테밍 헤펀 | 동의하다, 허락하다
+
+## 문법·표현 정리
+**We mogen niemand verdacht maken op afkomst(출신으로 누구도 의심받게 만들면 안 된다):** iemand verdacht maken = ~를 의심받게 하다. op + 명사 = ~을 근거로. op basis van afkomst와 같은 뜻.
+**Waar is het bewijs?(증거는 어디 있어?):** 하네커의 원칙. Waar is het bewijs dat…?(~라는 증거는 어디 있어?)로 확장.
+**Dat is precies het probleem(그게 정확히 문제야):** precies = 정확히. 상대 말에 동의하면서 더 깊은 문제를 지적할 때.
+**Er blijkt iemand anders in het lab te zijn geweest(다른 누군가가 실험실에 있었던 것으로 드러났다):** blijken + te + 완료부정사(te zijn geweest). 4부의 완곡·확인 표현. Het blijkt dat…(~인 것으로 드러났다)도 같습니다.
+**Dit is geen beschuldiging. Het is een gesprek(이건 고발이 아니라 면담이에요):** 공식 면담의 완곡 화법. 브란트의 "아직은요(Nog niet)"가 진짜 의미를 드러냅니다.
+**Kunt u dat verklaren?(설명할 수 있나요?):** verklaren = 설명하다/진술하다. 조사·면담의 정형 질문.
+**alsof hij ze moet laten zien(마치 손을 보여 줘야 하는 것처럼):** alsof + 종속절. laten zien = 보여 주다.
+**De enige manier om hem vrij te pleiten, is hem eerst te beschuldigen:** de enige manier om … te + 부정사 = ~하는 유일한 방법. 아이러니한 대칭 구조.
+**Elke keer dat we zijn naam schrijven…(그 이름을 쓸 때마다):** elke keer dat/als = ~할 때마다.
+**Dan zijn wij de enige krant die het juiste niet heeft opgeschreven:** de enige … die = ~한 유일한. 펨커의 역설적 위로.
+**een verhaal dat te laat geschreven wordt, ook niet helpen:** 뤼카스의 반박 — 문법적으로는 kan … helpen이 맞지만 흥분해서 조동사가 빠졌습니다.
+**Ik word oud(나도 늙나 봐):** worden = ~해지다(변화). Het wordt laat.(늦어지네)
+**Dat zou een verhaal zijn, hè?(그거야말로 기사겠네, 그치?):** zou + zijn = 가정·추측. hè로 동의를 구함.
+**Er is geen derde mogelijkheid(세 번째 가능성은 없어):** 서수 derde. 펨커의 논리 — 그리고 브람이 «지어낸» 세 번째.
+
+## 취재 노트
+네덜란드 대학들은 2023년 이후 국가 차원의 «지식 안보(kennisveiligheid)» 지침에 따라 민감 기술 연구에 대한 심사와 접근 통제를 강화했고, 일부 대학은 특정 국가 출신 연구자의 채용·참여를 제한하기도 했다. 이에 대해 학계에서는 국적에 근거한 일괄적 의심이 차별과 학문의 자유 침해로 이어질 수 있다는 비판이 제기되었다.
+이 화의 «플럭스» 건물 4.12 실험실, 브란트 자문관, 다운로드 기록, 고양이 카메라는 모두 가상이다.
