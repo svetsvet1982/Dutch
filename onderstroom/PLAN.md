@@ -42,7 +42,7 @@
 | **Noor el Amrani** (노르 엘 암라니), 29 | 데이터 기자 | 모로코계, 경제학·코딩. 가족이 수당 스캔들 피해자 → 2부 중심. 암스테르담 구어·straattaal과 표준어를 오감 |
 | **Jip Vermeulen** (입 페르묄런), 26 | OSINT·기술 담당 | 선박 추적(AIS), 위성사진, 드론, 텔레그램 잠입. 말이 빠르고 영어 섞음(Dunglish) |
 | **Femke Dijkstra** (펨커 데이크스트라), 37 | 잠입 취재 전문 | 전직 경찰 잠입수사관(infiltrant), 폴란드계 어머니. 위장 신분(legende) 설계 담당. 과거 때문에 5부에서 의심받음 |
-| **Lucas Brink** (뤼카스 브링크), 31 | 영상 기자(프리랜서) | 1부 1화에 합류. 유쾌하고 성실한 분위기 메이커 → **5부에서 사설 정보회사가 심은 내부 첩자로 밝혀짐** |
+| **Lucas Brink** (뤼카스 브링크), 31 | 영상 기자(프리랜서) | 1부 1화에 합류. 유쾌하고 성실한 분위기 메이커, 지나칠 만큼 꼼꼼해 "Erik에게 직접 연락하지 말 것"이라는 Bram의 규칙을 몰래 어기고 사실 확인을 함 → **5부 카나리아 트랩에 첩자로 지목되어 쫓겨남(누명)** → 6부에 혼자 진실을 추적 → 7부 복귀 |
 | **mr. Hanneke van der Laan** (하네커 판 데르 란), 50 | 미디어 전문 변호사 | 기사 출고 전 법률 검토, 가처분·명예훼손 소송 방어. 법률 용어 담당 |
 
 ### 주변 인물
@@ -50,11 +50,11 @@
 | 인물 | 설명 |
 |---|---|
 | **Kees Molenaar** (케이스 몰레나르), 69 | Bram의 멘토, 전설적인 범죄 전문 기자. 1부 10화에서 피격 → 시리즈 전체의 상처이자 동력 |
-| **«Kraai»** (까마귀) | 익명 제보자. 암호화 메신저로만 연락. 7부 8화에서 정체 공개: 케이스의 딸 **Esther Molenaar**, 금융정보분석원(FIU-Nederland) 분석가 |
-| **Erik Veenstra** (에릭 페인스트라), 47 | 경찰 수사관, Bram의 비공식 취재원. 도움인지 이용인지 끝까지 애매 |
+| **«Kraai»** (까마귀) | 익명 제보자. 암호화 메신저로만 연락. 7부 7화에서 정체 공개: 케이스의 딸 **Esther Molenaar**, 금융정보분석원(FIU-Nederland) 분석가 |
+| **Erik Veenstra** (에릭 페인스트라), 47 | 경찰 범죄정보팀(CIE) 수사관, Bram의 20년 지기이자 비공식 취재원. 팀이 기사 전에 늘 사실을 확인하는 상대. **실은 정보 브로커**: 팀이 확인을 요청할 때마다 팀이 무엇을 쥐고 있는지 알게 되고, 같은 정보를 네트워크(Brugwachter·공증인)에도 넘김. 때로는 Kraai의 진짜 단서를 "헛소문"이라며 깎아내리고 거짓 확인을 해 줌. 7부 9~10화에 정체가 드러남 |
 | **Wout Claes** (바우트 클라스), 40 | 앤트워프의 플랑드르 기자, 벨기에 쪽 공동취재 파트너 → 플랑드르 네덜란드어 담당 |
 | **mr. Frederik van Oosterhout** (프레데릭 판 오스터하우트), 63 | **최종 악역 «De Notaris»(공증인)**. 자위다스(Zuidas)의 공증·신탁 사무소 대표. 마약 자금, 부동산, 수용시설 계약, 국방 조달을 하나의 구조로 엮는 설계자. 1부 15화에서 이름만 등장, 6부 13화에서 첫 대면 |
-| **Brugwachter Intelligence** | 전직 정보요원들이 만든 사설 정보회사(가상). 4부 말 등장, 5부 핵심. Lucas를 심은 곳 |
+| **Brugwachter Intelligence** | 전직 정보요원들이 만든 사설 정보회사(가상). 4부 말 등장, 5부 핵심. 팀원 프로필을 모으고, 내부 코드명 «V.»라는 취재원에게서 정보를 사들임 |
 
 ---
 
@@ -116,17 +116,36 @@
 | **2부** | **Het Algoritme** (알고리즘) | 수당 스캔들 이후 보상 지연, 지자체 부정수급 탐지 알고리즘의 차별, 데이터 유출 | 🕵️ Noor가 알고리즘 업체에 입사 / 🔍 업체에 정책을 흘린 부처 공무원 적발 | 업체 대주주 신탁에 같은 공증인 서명 |
 | **3부** | **Gif** (독) | PFAS 오염·형사수사, 제철소 인근 건강 피해, 질소 매입 정책과 토지 투기, 마약 폐기물 투기 | 🕵️ Jip이 환경 컨설팅사 인턴으로 잠입 | 투기 펀드의 공증 서류 / 컨설팅사가 Jip을 미리 알고 있었다 |
 | **4부** | **Silicium** (실리콘) | 반도체 수출 통제, 정부의 반도체 기업 경영 개입과 회사 분열, 해외 비밀 경찰서, 디아스포라 협박 | 🔍 반도체 기업 내부 스파이 적발 / 🕵️ Femke가 가짜 엔지니어로 역함정 | 가짜 헤드헌터를 고용한 사설 정보회사 «Brugwachter»가 De Lantaarn도 감시 중 |
-| **5부** | **Hybride** (하이브리드) | 러시아 하이브리드 위협: 해저 인프라 지도화, 군 수송로 카메라 해킹, 텔레그램 10대 포섭, 선거 허위정보 | 🕵️ Jip이 10대로 위장해 텔레그램 잠입 / 🔍 **팀 내부 첩자 Lucas 적발** (카나리아 트랩) | Brugwachter 서버의 «De Notaris» 파일 |
-| **6부** | **Stenen** (벽돌) | 주택난, 악덕 임대, 이주노동자 착취, 난민 긴급 수용시설 폭리, 부동산 돈세탁, 은행 AML 실패, 공공 건설 뇌물 | 🕵️ Femke가 폴란드 노동자로 / Bram이 현금 투자자로 잠입 | 돈이 헤이그로 간다 — 국방 조달 |
-| **7부** | **Het Binnenhof** (비넨호프) | 소수 내각의 불안정, NATO 5% 국방비와 조달 비리, 조선업 해외 뇌물, 로비·회전문, 스파이웨어, 취재원 보호 | 🔍 제보자 «Kraai»의 정체 / 국정조사 증언 | 완결 — 그리고 새로운 제보 |
+| **5부** | **Hybride** (하이브리드) | 러시아 하이브리드 위협: 해저 인프라 지도화, 군 수송로 카메라 해킹, 텔레그램 10대 포섭, 선거 허위정보 | 🕵️ Jip이 10대로 위장해 텔레그램 잠입 / 🔍 카나리아 트랩이 **Lucas를 지목 — 그러나 오판** | Brugwachter 서버의 «De Notaris» 파일과 정체불명의 취재원 «V.» / **가짜 해결** |
+| **6부** | **Stenen** (벽돌) | 주택난, 악덕 임대, 이주노동자 착취, 난민 긴급 수용시설 폭리, 부동산 돈세탁, 은행 AML 실패, 공공 건설 뇌물 | 🕵️ Femke가 폴란드 노동자로 / Bram이 현금 투자자로 잠입 | 돈이 헤이그로 간다 — 국방 조달 / Lucas가 없는데도 또 샌다 → "우리가 늘 누구한테 확인했지?" |
+| **7부** | **Het Binnenhof** (비넨호프) | 소수 내각의 불안정, NATO 5% 국방비와 조달 비리, 조선업 해외 뇌물, 로비·회전문, 스파이웨어, 취재원 보호 | 🔍 제보자 «Kraai»의 정체 / 🔍 **Erik에게 역 카나리아 트랩** / 국정조사 증언 | 완결 — 그리고 새로운 제보 |
 
 **개인 서사의 축**
-1. **케이스의 죽음**(1부 10화) → 누가 그의 동선을 흘렸나 → 5부 12화 Lucas의 고백 → 7부 13화 재판
+1. **케이스의 죽음**(1부 10화) → 누가 그의 동선을 흘렸나 → 5부 Lucas가 의심받음(오판) → 6부 15화 의심이 Erik으로 → 7부 13화 재판에서 진실: 케이스는 죽기 전날 Erik에게 확인 전화를 했다
 2. **Bram과 딸 Lieke**: 소원함(1부) → 위협(3부 11화) → 경호·이사(5부) → 화해(7부 14화)
-3. **Bram의 리더십**: 혼자 결정(1~3부) → Lucas를 감싸다 실패(4~5부) → 팀을 믿고 맡김(6~7부)
-4. **Kraai**: 매 부 결정적 순간에 한 줄짜리 메시지 → 7부 8화 정체 공개
+3. **Bram의 리더십**: 혼자 결정(1~3부) → 팀을 의심하고 Lucas를 내침(5부) → 자기 원칙이 덫이었음을 인정, 팀을 믿고 맡김(6~7부)
+4. **Kraai**: 매 부 결정적 순간에 한 줄짜리 메시지. 그 진짜 단서를 Erik이 번번이 "헛소문"이라 깎아내림 → 7부 7화 정체 공개
+5. **Erik**: 든든한 조력자(1~5부) → 작은 어긋남이 쌓임(6부) → 정보 브로커로 드러남(7부)
 
-**복선**: 케이스가 1부 9화에 남긴 낡은 수첩(«Het rode boekje») / 1부 1화의 USB에 있던 의미 없는 숫자열(=6부의 공증 증서 번호) / Lucas가 늘 왼손으로 휴대전화 두 대를 쓰는 습관 / Bram의 말버릇 "Eerst checken, dan schrijven." → 7부 15화에서 새 인턴이 같은 말을 함
+**복선**: 케이스가 1부 9화에 남긴 낡은 수첩(«Het rode boekje», 마지막 장에 «E.V. — morgen checken») / 1부 1화의 USB에 있던 의미 없는 숫자열(=6부의 공증 증서 번호) / Lucas가 휴대전화 두 대를 쓰는 습관(**레드 헤링**: 한 대는 요양원에 있는 어머니 전용) / Erik의 말버릇 **"Ik check het even voor je."**(내가 확인해 줄게) — 답은 늘 하루 늦게 옴 / Bram의 말버릇 "Eerst checken, dan schrijven." → 7부 15화에서 새 인턴이 같은 말을 하고, Bram이 덧붙임: "…en let op bij wie je checkt."(…그리고 누구한테 확인하는지 조심해)
+
+### 5-1. 정보 유출의 진짜 구조 — "확인하는 행위 자체가 통로였다"
+
+팀은 내부에서 정보가 샌다고 믿지만, 실제로 팀 안에서 샌 정보는 없음. **정보를 주고받을 수 있는 자리에 있는 Erik**이
+- 팀이 확인을 요청할 때마다 **팀이 무엇을 아는지 파악하고, 같은 정보를 네트워크에도 줌** → 상대가 늘 한발 앞섬
+- 때로는 **거짓 확인·거짓 제보**로 팀을 공증인의 경쟁자 쪽으로 유도 → 1~4부 특종의 일부가 공증인의 경쟁자를 치우는 데 쓰였다는 씁쓸한 진실
+
+| 부 | 팀이 본 것 | 실제 |
+|---|---|---|
+| 1부 | 잠입 날짜가 샘, 회사는 반론 질문을 미리 알고 있었음 → "팀 안에 누가 있다" | Bram이 안전을 위해 잠입 일정을 Erik에게만 알림. 질문 목록도 Erik에게 검토받음. 케이스도 죽기 전날 Erik에게 확인 전화 |
+| 2부 | 공무원 추적이 2주 헛돎 | Erik의 거짓 확인 "Martijn은 깨끗해" |
+| 3부 | 마약 실험실이 단속 전날 비워짐, Jip의 정체가 샘 | 실험실 신고를 Erik을 통해 함. Jip의 위장 신원 점검도 Erik에게 부탁함 |
+| 4부 | Lucas의 수상한 몰래 통화 | Lucas가 규칙을 어기고 Erik에게 직접 사실을 확인하던 것 |
+| 5부 | 카나리아 트랩에서 Lucas 버전이 새어 나감 → Lucas 해고 | Lucas만 자기 버전을 Erik에게 확인했기 때문. Erik은 Brugwachter 압수수색을 제보해 자기 흔적을 지우고 공도 챙김 |
+| 6부 | Lucas가 없는데도 샘 | Bram이 Erik에게만 말한 세부를 공증인이 입에 올림 |
+| 7부 | 진실 | Kraai(Esther)의 금융정보 분석 + Erik에게 거는 역 카나리아 트랩 |
+
+Erik의 마지막 변명(7부 10화): **"Ik heb jullie nooit iets gegeven wat niet al rondging. Ik ruil informatie — zo werkt dit vak."**(이미 돌던 것 말고 너희한테 준 건 없어. 나는 정보를 거래할 뿐이야. 이 바닥은 원래 그래.)
 
 ---
 
@@ -160,16 +179,16 @@
 | 3 | Een nieuwe naam (새 이름) 🕵️ | B1 | 편집국→파견업체 사무실 | Femke가 Bram의 위장 신분 «Bert de Wit»를 설계, 터미널 야간직에 지원 | Je heet vanaf nu… · Wat is je verhaal? · Hoe lang heb je daar gewerkt? |
 | 4 | Explosie in West (서부의 폭발) | B1 | 보스 엔 로머르 아파트 앞·새벽 | 엉뚱한 집에 터진 폭탄. 주민의 공포, 경찰 대변인, 텔레그램 «청부 공고» | Wat is er gebeurd? · Ik dacht dat het vuurwerk was · Ze hebben het verkeerde huis |
 | 5 | Nachtdienst (야간 근무) 🕵️ | B1 | 터미널·밤 | 동료 Dennis가 «부업» 제안: 출입 카드를 빌려주면 5천 유로 | Wil je wat bijverdienen? · Niemand hoeft het te weten · Ik denk erover na |
-| 6 | Versleuteld (암호화) | B1 | Jip의 작업실·카페 | 암호폰 판매상 추적, 경찰 취재원 Erik과 첫 비밀 만남 | Dit blijft tussen ons · Daar kan ik niets over zeggen · Je hebt dit niet van mij |
+| 6 | Versleuteld (암호화) | B1 | Jip의 작업실·카페 | 암호폰 판매상 추적, 경찰 취재원 Erik과 비밀 만남. Bram은 만일을 대비해 잠입 일정을 Erik에게만 알려 둠 | Dit blijft tussen ons · Als er iets misgaat, bel ik jou · Ik check het even voor je |
 | 7 | De advocaat (변호사) | B1 | 법률사무소·오후 | 협박받는 변호사, 공익 증인(kroongetuige) 가족 이야기 | Bent u niet bang? · Ik doe gewoon mijn werk · Iedereen heeft recht op… |
-| 8 | Wederhoor (반론 청취) | B1~B2 | 터미널 본사 회의실 | 회사 홍보 담당의 회피 화법 vs Bram의 집요한 질문. 공식 반론 요청 메일 | Wij herkennen ons niet in… · Kunt u daar concreet op reageren? · Geen commentaar |
-| 9 | Het rode boekje (빨간 수첩) | B1 | 요르단의 갈색 카페·밤 | 멘토 케이스와 술 한잔. 30년 전 사건, «빨간 수첩»을 맡김 | Wees voorzichtig, jongen · Vroeger was het anders · Bewaar dit voor me |
+| 8 | Wederhoor (반론 청취) | B1~B2 | 터미널 본사 회의실 | 회사 홍보 담당의 회피 화법 vs Bram의 집요한 질문. 회사는 질문을 미리 알고 있었던 듯 답변을 다 준비해 둠(질문 목록은 전날 Erik이 검토해 줌) | Wij herkennen ons niet in… · Kunt u daar concreet op reageren? · Geen commentaar |
+| 9 | Het rode boekje (빨간 수첩) | B1 | 요르단의 갈색 카페·밤 | 멘토 케이스와 술 한잔. 30년 전 사건, «빨간 수첩»을 맡김. "내일 오랜 친구한테 하나만 확인해 보고" | Wees voorzichtig, jongen · Vroeger was het anders · Bewaar dit voor me |
 | 10 | Schoten op de gracht (운하의 총성) | B1 | 운하 변→병원·밤 | 케이스 피격. 병원 복도, 경찰 조사, 그날 밤 케이스는 숨을 거둠 | Bel een ambulance! · Blijf bij me · Hij heeft het niet gehaald |
 | 11 | Rouw en woede (슬픔과 분노) | B1 | 장례식→편집국 | 계속할 것인가. Margreet은 중단, Bram은 계속. 경호 제안을 거절 | We stoppen hier niet · Het is te gevaarlijk · Dit zijn we hem verplicht |
 | 12 | De marechaussee (헌병대) | B1~B2 | 스히폴 출국장·헤이그 | 헌병대 직원이 승객 정보를 갱에 팔았다는 의혹, 운반책의 비행 동선 | Wie had toegang tot die gegevens? · Dat is een ernstige beschuldiging · Er loopt een onderzoek |
 | 13 | Antwerpen (앤트워프) | B1~B2 | 앤트워프 항구·카페 | 플랑드르 기자 Wout와 공동취재. 돈이 암스테르담 자위다스로 흐름. 플랑드르어 차이 장면 | Hebt gij dat gezien? · Allee, vertel · Bij ons zeggen we… |
 | 14 | De val (함정) 🕵️ | B1 | 터미널·새벽 | Dennis가 Bram의 진짜 이름을 부름 — 누군가 흘렸다. Femke의 탈출 작전 | Ik weet wie je bent · Rustig blijven · Nu weg, niet omkijken |
-| 15 | Publicatie (보도) 🧩 | B1~B2 | 편집국→밤 페리 | 첫 기사 «De Witte Haven» 출고, 터미널 직원 3명 체포. 그러나 Kraai의 메시지: "Dit is pas het begin. Zoek de notaris." 그리고 잠입 날짜를 아는 사람은 팀 안뿐이었다 | We gaan live · Wie wist ervan? · Dit is pas het begin |
+| 15 | Publicatie (보도) 🧩 | B1~B2 | 편집국→밤 페리 | 첫 기사 «De Witte Haven» 출고, 터미널 직원 3명 체포. 그러나 Kraai의 메시지: "Dit is pas het begin. Zoek de notaris." 그리고 잠입 날짜를 아는 사람은 팀 안뿐이었다 — 팀은 그렇게 믿는다 | We gaan live · Wie wist ervan? · Dit is pas het begin |
 
 ### 2부 · Het Algoritme (알고리즘) — B1 → B2 · 2027년 2 ~ 3월
 
@@ -185,7 +204,7 @@
 | 6 | Eerste werkdag (첫 출근) 🕵️ | B1 | Veritas 사무실 | 회사 문화, «우리는 지자체의 사기 근절을 돕는다». 동료 개발자 Sven | Wij helpen gemeenten fraude te bestrijden · Welkom in het team · Waar staat de koffie? |
 | 7 | De variabelen (변수) 🕵️ | B2 | Veritas 서버실·야근 | 코드에서 «한부모», «이중국적», «언어 수준» 변수 발견 | Dit mag eigenlijk niet · Wie heeft dit goedgekeurd? · Dat is gewoon hoe het werkt |
 | 8 | Het datalek (데이터 유출) | B2 | Jip의 작업실·다크웹 | 공공기관 유출 데이터가 다크웹에서 팔리고, Veritas의 학습 데이터와 겹침 | Waar komen deze gegevens vandaan? · Dat is strafbaar · We kunnen het niet publiceren zonder… |
-| 9 | De ambtenaar (공무원) 🔍 | B2 | 헤이그 부처 주변·카페 | 정책 초안이 공개 전에 Veritas에 넘어감. 누가? 회의 기록·사진·링크드인 추적 | Wie zat er bij dat overleg? · Dat kan geen toeval zijn · Hij werkte er vroeger |
+| 9 | De ambtenaar (공무원) 🔍 | B2 | 헤이그 부처 주변·카페 | 정책 초안이 공개 전에 Veritas에 넘어감. 누가? Erik의 "Martijn은 깨끗해"라는 확인에 2주를 허비한 뒤 회의 기록·사진·링크드인으로 추적 | Wie zat er bij dat overleg? · Dat kan geen toeval zijn · Hij werkte er vroeger |
 | 10 | Op heterdaad (현장 포착) 🔍 | B2 | 헤이그 레스토랑·저녁 | 공무원 Martijn과 Veritas 대표의 비밀 저녁 식사 촬영. 대면 질문 | Mag ik u iets vragen? · Dit is een privégesprek · U was op de hoogte |
 | 11 | Ontdekt? (들켰나?) 🕵️ | B1~B2 | Veritas 보안팀 사무실 | USB 로그가 감지됨. Noor의 아슬아슬한 거짓말 | Kun je even meekomen? · Dat was voor mijn werk · We moeten dit melden |
 | 12 | De klokkenluider (내부고발자) | B2 | 유트레흐트 공원·비 | 개발자 Sven이 고발을 결심, 내부고발자 보호법을 묻다 | Ik wil hier niet meer aan meewerken · Wat gebeurt er met mij? · Je bent beschermd door… |
@@ -210,7 +229,7 @@
 | 9 | Trekkers op de snelweg (고속도로의 트랙터) | B2 | A12 고속도로·시위 현장 | 농민 시위, 분노한 시위대가 «거짓말 언론»이라며 Lucas를 밀침. 언론 불신 | Jullie schrijven toch alleen leugens · Ik wil uw kant horen · Rustig, we zijn hier om te luisteren |
 | 10 | De gedeputeerde (도 의원) | B2~C1 | 도청(Provinciehuis) | 투기 펀드와 가족 회사로 연결된 도 의원과 인터뷰, 이해충돌 부인 | Ik heb altijd integer gehandeld · Daar wil ik niet op ingaan · Dat is een karikatuur |
 | 11 | Bedreigd (협박) | B2 | Lieke의 학교 앞·Sanne의 집 | 딸 학교 앞의 수상한 차, 사진이 담긴 협박 편지. 전처와의 격한 대화 | Dit gaat over onze dochter · Ik kan nu niet stoppen · Wanneer is het genoeg? |
-| 12 | Het lab in de schuur (헛간의 실험실) | B2 | 브라반트 헛간·밤 | Jip이 마약 실험실을 발견. 언제 신고하나? 기자 윤리 논쟁 | Dit moeten we melden · Dan is ons verhaal weg · Mensenlevens gaan voor |
+| 12 | Het lab in de schuur (헛간의 실험실) | B2 | 브라반트 헛간·밤 | Jip이 마약 실험실을 발견. 언제 신고하나? 기자 윤리 논쟁 끝에 Erik을 통해 신고 → 단속 전날 실험실이 깨끗이 비워짐 | Dit moeten we melden · Mensenlevens gaan voor · Alles was leeg |
 | 13 | Strafrechtelijk onderzoek (형사 수사) | B2 | 검찰청 앞·전화 | 검찰이 화학기업 PFAS 형사수사 착수, 측정회사 압수수색 | Het OM heeft een onderzoek ingesteld · Er zijn administraties in beslag genomen · Wij werken volledig mee |
 | 14 | De rekensom (계산) | B2 | 편집국·밤샘 | 보상금이 룩셈부르크·퀴라소 회사로 흘러간 경로를 데이터로 재구성 | Volg het geld · Het loopt dood in Luxemburg · Kijk wie hier tekent |
 | 15 | Wie betaalt? (누가 대가를 치르나) 🧩 | B2 | 편집국→브라반트 농가 | 보도, 도 의원 사임. Toon 가족과의 마지막 대화. 펀드 서류의 공증인 서명 / GroenGrond는 Jip의 정체를 처음부터 알고 있었다 — 또 샜다 | Het is niet genoeg · Weer dezelfde notaris · Ze wisten wie Jip was |
@@ -234,7 +253,7 @@
 | 11 | Ontmaskerd (정체 폭로) 🔍 | B2 | 스헤르토헨보스의 집·저녁 | 중견 엔지니어 Ruud, 빚과 협박. 대면 인터뷰와 눈물 | Ik zat klem · Hoe lang al? · Ik wilde dit nooit |
 | 12 | Uitstel (보도 연기) | B2~C1 | 익명의 회의실 | 정보기관이 보도 연기를 요청. 국가안보 vs 알 권리, 팀 내 격론 | In het belang van de nationale veiligheid · Wij laten ons niet muilkorven · Hoe lang is uitstel? |
 | 13 | Diplomatieke storm (외교 폭풍) | B2~C1 | 장관의 베이징 방문 기자회견(중계)·편집국 | 대사관 성명, 무역 보복 경고, 업계의 압박 | Dit schaadt de bilaterale betrekkingen · Wij betreuren… · Het gesprek was constructief |
-| 14 | Lucas' lange nacht (뤼카스의 긴 밤) | B2 | 편집국·주차장 | Lucas의 이상한 통화를 Noor가 목격. Bram은 Lucas를 감쌈 → 팀 균열 | Met wie belde je? · Je bent paranoïde · Ik vertrouw hem |
+| 14 | Lucas' lange nacht (뤼카스의 긴 밤) | B2 | 편집국·주차장 | Lucas의 몰래 통화를 Noor가 목격. Lucas는 "엄마"라고 둘러댐(실은 규칙을 어기고 Erik에게 사실 확인 중). Bram은 Lucas를 감쌈 → 팀 균열 | Met wie belde je? · Mijn moeder, oké? · Ik vertrouw hem |
 | 15 | Twee kanten (두 얼굴) 🧩 | B2 | 편집국→NDSM 부두 | 보도, Ruud 체포. 그러나 헤드헌터를 고용한 «Brugwachter Intelligence»가 De Lantaarn 팀원 전원의 프로필을 갖고 있었다 | Ze houden óns in de gaten · Sinds wanneer? · Iemand heeft ze geholpen |
 
 ### 5부 · Hybride (하이브리드) — B2 → C1 · 2027년 10 ~ 12월
@@ -253,11 +272,11 @@
 | 8 | Brugwachter (브뤼흐바흐터) | C1 | 자위다스 오피스 빌딩·로비 | 사설 정보회사 추적: 전직 요원들, 고객 목록 일부 확보 — 그 안에 «De Notaris» | Wij leveren strategisch advies · Onze cliënten eisen discretie · U loopt hier niet zomaar binnen |
 | 9 | De kanarieval (카나리아 트랩) 🔍 | B2~C1 | Bram의 집·Femke와 둘이서 | 팀원마다 다른 가짜 정보를 흘리는 함정 설계 — 결국 Femke까지 의심 | Iedereen krijgt een andere versie · Ook ik? · Ook jij |
 | 10 | Vertrouwen (신뢰) | B2~C1 | 편집국 | 함정을 알아챈 팀의 분노, Femke의 경찰 과거가 폭로됨, 팀 해체 위기 | Je bespioneert je eigen team · Ik had geen keus · Dan werk ik hier niet meer |
-| 11 | De kanarie zingt (카나리아가 울다) 🔍 | C1 | 편집국·밤 | Lucas에게만 준 가짜 정보가 Brugwachter에 도달 | Alleen Lucas wist dit · Nee… niet hij · Weet je het zeker? |
-| 12 | Lucas | C1 | 빈 NDSM 창고·밤 | 대면. 도박 빚과 협박, 1부 전부터 심어진 첩자. 케이스 피격 날의 동선 정보도 그를 통했을 가능성 | Ik wist niet dat ze hem… · Hoe lang al? · Vanaf de eerste dag |
-| 13 | Dubbelspel (이중 게임) | C1 | 편집국·차 안 | Lucas를 역이용해 Brugwachter에 가짜 정보를 흘릴 것인가, 윤리 논쟁 | Is dit nog journalistiek? · Het is de enige kans · Ik doe het voor Kees |
+| 11 | De kanarie zingt (카나리아가 울다) 🔍 | C1 | 편집국·밤 | Lucas에게만 준 가짜 정보가 Brugwachter에 도달(실은 Lucas가 그 버전을 Erik에게 확인했기 때문) | Alleen Lucas wist dit · Nee… niet hij · Weet je het zeker? |
+| 12 | Lucas | C1 | 빈 NDSM 창고·밤 | 대면. Lucas는 결백을 호소하지만, 규칙을 어기고 Erik에게 확인한 일은 말하지 못함(그게 "넘긴 것"이라고는 생각조차 못 함). 휴대전화 두 대, 4부의 거짓말이 그를 옭아맴 | Ik heb het aan niemand doorgegeven · Waarom loog je dan? · Je moet me geloven |
+| 13 | Ontslagen (해고) | C1 | 편집국·Erik의 차 안 | Lucas 해고, 팀은 무너진 신뢰를 추스름. 괴로워하는 Bram을 Erik이 위로하고 Brugwachter 압수수색을 돕겠다고 나섬(극적 아이러니) | Je hebt het juiste gedaan · Ik heb hem binnengehaald · Laat Brugwachter maar aan mij over |
 | 14 | Moskou of Amsterdam? (모스크바인가 암스테르담인가) | C1 | 헤이그 정보 소식통·카페 | 하이브리드 공격 뒤의 진짜 의뢰인: 외국 정부뿐 아니라 국내 이해관계자도 | Het is niet zwart-wit · Ze werken voor wie het best betaalt · Wie heeft er baat bij? |
-| 15 | Arrestatie (체포) 🧩 | C1 | 경찰서 앞→Brugwachter 압수수색 | Lucas 자수, Brugwachter 압수수색 생중계. 확보된 서버에 «De Notaris» 폴더 | Ik geef mezelf aan · Het spijt me, Bram · Map: «De Notaris» |
+| 15 | Arrestatie (체포) 🧩 | C1 | 경찰서 앞→Brugwachter 압수수색 | Erik의 제보로 Brugwachter 압수수색 생중계, Erik은 공을 챙기며 자기 흔적을 지움. 확보된 서버에 «De Notaris» 폴더와 코드명 «V.»의 정보 구매 기록. 팀은 "V.=Lucas"라고 결론 — **가짜 해결**. 마지막 장면: 텅 빈 집에서 Lucas가 Bram에게 보내지 못한 문자를 지움 | Het is voorbij · Bron V. · Ik was het niet, Bram |
 
 ### 6부 · Stenen (벽돌) — C1 · 2028년 1 ~ 3월
 
@@ -274,12 +293,12 @@
 | 7 | Witwassen met stenen (벽돌로 하는 세탁) | C1 | 편집국·지적등기 데이터 | 현금 매입, 같은 집이 1년에 세 번 팔림, 명의 대여자 | Contant betaald · Drie keer doorverkocht · De koper is een katvanger |
 | 8 | De koper (매수인) 🕵️ | C1 | 운하 저택 매물·중개인 사무실 | Bram이 «출처를 묻지 않는» 투자자로 위장, 중개인이 비밀을 흘림 | Waar komt het geld vandaan? Dat vragen wij niet · Via een stichting · Mijn notaris regelt alles |
 | 9 | Zuidas (자위다스) | C1 | 자위다스 고층 빌딩·로비·커피 바 | 공증 사무소 «Van Oosterhout & Partners». 전직 직원의 증언 | Op de 23e verdieping · Daar wordt niet over gesproken · Iedereen kende de regels |
-| 10 | Brievenbusfirma's (페이퍼컴퍼니) | C1 | 한 사무실 주소·우편함 벽 | 한 주소에 수천 개 회사, «실소유주(UBO)» 추적 | Hier zitten 3.000 bedrijven · Wie is de uiteindelijke belanghebbende? · Op papier legaal |
+| 10 | Brievenbusfirma's (페이퍼컴퍼니) | C1 | 한 사무실 주소·우편함 벽 | 한 주소에 수천 개 회사, «실소유주(UBO)» 추적. 부수 발견: Brugwachter가 «V.»에게 돈을 보낸 페이퍼컴퍼니는 Lucas의 계좌와 전혀 맞지 않음 — Jip만 찜찜해함 | Hier zitten 3.000 bedrijven · Wie is de uiteindelijke belanghebbende? · Op papier legaal |
 | 11 | De bank (은행) | C1 | 은행 컴플라이언스 부서 출신의 집 | 의심 거래 보고를 묵살한 은행, 내부고발 | Wij hebben het gemeld, en toen niets · Het was te lucratief · Ik wil dat dit uitkomt |
 | 12 | De aanbesteding (입찰) | C1 | 로테르담 시청·공사 현장 | 공공 건설 입찰 뇌물, 해고된 공무원 2명, 공증 사무소의 자문료 | Er waren afspraken vooraf · Adviesfee · Dat is geen omkoping, dat is netwerken |
-| 13 | De notaris spreekt (공증인이 말하다) | C1 | 공증인의 집무실·저녁 | 판 오스터하우트와의 첫 대면 인터뷰. 우아한 말투 속의 위협 | U bent een moedig man, meneer Hoekstra · Ik zou het jammer vinden als… · Alles wat ik doe is legaal |
-| 14 | SLAPP (전략적 봉쇄 소송) ⚖️ | C1 | 편집국·변호사 사무실 | 수백만 유로 명예훼손 소송, 매체 파산 위기, 독자 후원 캠페인 | Een schadeclaim van… · Ze willen ons kapot procederen · De lezers staan achter ons |
-| 15 | Het netwerk (네트워크) 🧩 | C1 | 편집국 벽 전체를 채운 지도 | 항구 마약 → 부동산 → 수용시설 → 건설 → ? 모든 선이 한곳에 모임. Kraai: "Het geld gaat naar Den Haag." | Alles hangt samen · Hier komen alle lijnen samen · Den Haag |
+| 13 | De notaris spreekt (공증인이 말하다) | C1 | 공증인의 집무실·저녁 | 판 오스터하우트와의 첫 대면 인터뷰. 우아한 말투 속의 위협. 그가 지나가듯 꺼낸 세부 하나 — Bram이 지난주 Erik에게만 말한 것. Bram이 얼어붙음 | U bent een moedig man, meneer Hoekstra · Ik zou het jammer vinden als… · Alles wat ik doe is legaal |
+| 14 | SLAPP (전략적 봉쇄 소송) ⚖️ | C1 | 편집국·변호사 사무실 | 수백만 유로 명예훼손 소송, 매체 파산 위기, 독자 후원 캠페인. 후원 행사장 구석에 Lucas가 나타나 Bram에게 쪽지를 건넴: "Ik moet je iets vertellen over Erik." | Een schadeclaim van… · Ze willen ons kapot procederen · De lezers staan achter ons |
+| 15 | Het netwerk (네트워크) 🧩 | C1 | 편집국 벽 전체를 채운 지도 | 항구 마약 → 부동산 → 수용시설 → 건설 → ? 모든 선이 한곳에 모임. Lucas의 고백: "그 버전은 Erik한테만 확인했어." 벽의 지도 옆에 1~5부의 «유출» 시점을 붙여 보니 매번 직전에 Erik에게 전화한 기록이 있음. Bram: "Wie hebben we altijd gebeld om te checken?" 그리고 Kraai: "Het geld gaat naar Den Haag. En vertrouw V. niet." | Alles hangt samen · Ik heb het alleen bij Erik gecheckt · Wie hebben we altijd gebeld? |
 
 ### 7부 · Het Binnenhof (비넨호프) — C1 · 2028년 4 ~ 6월
 
@@ -288,20 +307,20 @@
 | 화 | 제목 | 수준 | 장소·시간 | 줄거리 | 핵심 표현 |
 |---|---|---|---|---|---|
 | 1 | Minderheidskabinet (소수 내각) | C1 | 비넨호프·국회 기자실 | 법안마다 과반을 «사야» 하는 내각, 출입기자의 시선 | Elke stemming is een gok · Gedoogsteun · Wie levert er wat in? |
-| 2 | Vijf procent (5퍼센트) | C1 | 국방부 브리핑·방산 박람회 | 국방비 급증, 조달 속도전, 견제는 실종 | Snelheid boven zorgvuldigheid · Er is haast geboden · Wie controleert dit? |
+| 2 | Vijf procent (5퍼센트) | C1 | 국방부 브리핑·방산 박람회 | 국방비 급증, 조달 속도전, 견제는 실종. 박람회에서 방산 로비스트가 된 전직 차관(회전문) | Snelheid boven zorgvuldigheid · Dat is geen lobby, dat is expertise · Wie controleert dit? |
 | 3 | De scheepswerf (조선소) | C1 | 플리싱언 조선소·해외 계약 서류 | 가상 조선사의 해외 뇌물과 국내 군함 계약 | Commissies voor tussenpersonen · Dat was in die landen gebruikelijk · Nu bouwen ze onze fregatten |
-| 4 | De draaideur (회전문) | C1 | 헤이그 로비 회사 | 전직 차관이 방산 로비스트로. 로비의 언어 | Ik breng partijen bij elkaar · Dat is geen lobby, dat is expertise · Mijn netwerk is mijn kapitaal |
-| 5 | Het crisiscontract (위기 계약) | C1 | 편집국·팬데믹 계약 기록 | 마스크 거래의 수법이 국방 긴급 조달에 그대로: 수의계약, 중개 수수료 | Zonder aanbesteding · Een tussenpersoon verdiende miljoenen · Geschiedenis herhaalt zich |
-| 6 | De staatssecretaris (차관) | C1 | 국회 복도·차관실 | 차관 가족의 신탁에 공증 사무소, 인터뷰 거절과 복도 기습 질문 | Daar ga ik nu niet op in · Ik heb niets te verbergen · Waarom dan die stichting? |
-| 7 | Spyware (스파이웨어) | C1 | 디지털 보안 연구자의 실험실 | Bram의 휴대전화가 수개월간 감염. 누가, 언제부터? | Uw telefoon is geïnfecteerd · Ze lazen alles mee · Ook mijn bronnen? |
-| 8 | Kraai (까마귀) | C1 | 케이스의 옛 단골 카페·새벽 | 제보자 정체 공개: 케이스의 딸 Esther, 금융정보분석원 분석가. 아버지의 수첩과 일을 이어 온 이유 | Ik ben Kraai · Mijn vader begon hieraan · Ik kon het niet alleen |
-| 9 | Bronbescherming (취재원 보호) ⚖️ | C1 | 법원·검사실 | 검찰이 유출자 확인을 위해 Bram에게 취재원 공개 요구, 거부 | Ik beroep mij op mijn verschoningsrecht · Weigeren is strafbaar · Dan maar de cel in |
-| 10 | Spoeddebat (긴급 토론) ⚖️ | C1 | 국회 본회의장 | 보도 후 긴급 토론, 소수 내각 붕괴 위기, 의원들의 날 선 질의 | Voorzitter, dit is ongehoord · Heeft de minister de Kamer juist geïnformeerd? · Motie van wantrouwen |
-| 11 | Onder ede (선서하고) ⚖️ | C1 | 국정조사 청문회장 | Bram의 증언, 위원장 질의. 공증인 측 변호사의 반박 | Zweert u de gehele waarheid te zeggen? · Dat zweer ik · Kunt u dat onderbouwen? |
-| 12 | Vertrekhal 3 (3번 출국장) | C1 (일부 B2) | 스히폴 출국장·새벽 | 판 오스터하우트의 출국 시도, 헌병대가 체포. Bram은 멀리서 지켜봄 | Meneer Van Oosterhout, u gaat met ons mee · Mijn advocaat… · Het is voorbij |
-| 13 | De rechtszaak (재판) ⚖️ | C1 | 암스테르담 법원(뷔텐펠더르트) | 케이스 살해 청부 재판, Lucas의 증언, 판결 | De rechtbank acht bewezen dat… · Ik heb spijt · Het vonnis luidt… |
-| 14 | Wat het kost (대가) | B2~C1 | Bram의 집·NDSM 부두 | 팀의 상처를 돌아보는 밤. Lieke와 화해, 팀원들의 선택, 케이스의 수첩 마지막 장 | Was het het waard? · Je hebt het voor mij ook gedaan · Papa, ik ben trots op je |
-| 15 | De volgende tip (다음 제보) | C1→B1 | De Lantaarn 편집국·11월 밤 | 1부 1화의 거울: 2년 뒤 같은 밤, 새 USB 도착. 새 인턴이 말함 "Eerst checken, dan schrijven." Bram이 웃음. 마지막 대사 "Wie heeft dit gestuurd?" | Welkom bij De Lantaarn · Eerst checken, dan schrijven · Wie heeft dit gestuurd? |
+| 4 | Het crisiscontract (위기 계약) | C1 | 편집국·팬데믹 계약 기록 | 마스크 거래의 수법이 국방 긴급 조달에 그대로: 수의계약, 중개 수수료. 이번엔 Erik에게 확인하지 않고 진행 — 처음으로 상대가 허를 찔림 | Zonder aanbesteding · Een tussenpersoon verdiende miljoenen · Dit keer bellen we niemand |
+| 5 | De staatssecretaris (차관) | C1 | 국회 복도·차관실 | 차관 가족의 신탁에 공증 사무소, 인터뷰 거절과 복도 기습 질문 | Daar ga ik nu niet op in · Ik heb niets te verbergen · Waarom dan die stichting? |
+| 6 | Spyware (스파이웨어) | C1 | 디지털 보안 연구자의 실험실 | Bram의 휴대전화가 수개월간 감염. 팀 일부는 "그동안 샌 게 이거였다"며 안도 — 그러나 감염 시점은 6부, 1~5부의 유출은 설명이 안 됨 | Uw telefoon is geïnfecteerd · Sinds wanneer precies? · Dat verklaart niet alles |
+| 7 | Kraai (까마귀) 🔍 | C1 | 케이스의 옛 단골 카페·새벽 | 제보자 정체 공개: 케이스의 딸 Esther, 금융정보분석원 분석가. 아버지의 수첩 마지막 장 «E.V. — morgen checken», 그리고 «V.»의 페이퍼컴퍼니가 Erik 배우자의 회사로 이어지는 금융 기록 | Ik ben Kraai · Mijn vader belde hem die avond · Ik kon het niet alleen |
+| 8 | Bronbescherming (취재원 보호) ⚖️ | C1 | 법원·검사실 | 검찰이 유출자 확인을 이유로 Kraai의 정체를 요구, Bram은 거부. 그 요구의 출발점이 Erik의 내부 보고서였음 — Erik은 Kraai가 누구인지 알고 싶어 한다 | Ik beroep mij op mijn verschoningsrecht · Weigeren heeft gevolgen · Wie wil dit eigenlijk weten? |
+| 9 | De omgekeerde val (역 카나리아 트랩) 🔍 | C1 | Bram의 집·Lucas 복귀 | 팀이 Lucas에게 사과하고 다시 모임. 이번엔 Erik에게만 가짜 정보(공증인의 출국 경로)를 "확인"해 달라고 함 — 그리고 기다림 | Het spijt me, Lucas · Nu checken we hém · Ik check het even voor je |
+| 10 | Erik 🔍 | C1 | 이에(IJ) 강변 벤치·밤 | 가짜 정보가 공증인 측에 도달. 20년 지기와의 대면. 거짓 확인, 케이스의 마지막 전화, 정보 거래의 논리. 대화 녹음은 켜져 있음 | Ik heb jullie nooit iets gegeven wat niet al rondging · Kees belde jou die avond · Zo werkt dit vak |
+| 11 | Onder ede (선서하고) ⚖️ | C1 | 국회 본회의장(긴급 토론)→국정조사 청문회장 | 보도 후 소수 내각 붕괴 위기, 이어진 국정조사에서 Bram의 증언. 공증인 측 변호사의 반박, 경찰 정보 관리의 구멍이 쟁점이 됨 | Zweert u de gehele waarheid te zeggen? · Dat zweer ik · Hoe kon één agent zoveel weten? |
+| 12 | Vertrekhal 3 (3번 출국장) | C1 (일부 B2) | 스히폴 출국장·새벽 | 판 오스터하우트가 Erik에게서 들은 "안전한" 경로로 출국 시도 — 그 경로가 바로 팀이 흘린 가짜 정보. 헌병대가 체포 | Meneer Van Oosterhout, u gaat met ons mee · Mijn advocaat… · Het is voorbij |
+| 13 | De rechtszaak (재판) ⚖️ | C1 | 암스테르담 법원(뷔텐펠더르트) | 케이스 살해 청부 재판: 공증인, 청부업자, 그리고 동선을 흘린 Erik. Lucas가 증인석에서 누명의 경위를 증언. 판결 | De rechtbank acht bewezen dat… · Hij was mijn vriend · Het vonnis luidt… |
+| 14 | Wat het kost (대가) | B2~C1 | Bram의 집·NDSM 부두 | 팀의 상처를 돌아보는 밤. Lieke와 화해, Lucas와 맥주 한 병, 팀원들의 선택, 케이스의 수첩 마지막 장 | Was het het waard? · Ik had jou moeten geloven · Papa, ik ben trots op je |
+| 15 | De volgende tip (다음 제보) | C1→B1 | De Lantaarn 편집국·11월 밤 | 1부 1화의 거울: 2년 뒤 같은 밤, 새 USB 도착. 새 인턴이 말함 "Eerst checken, dan schrijven." Bram이 웃으며 덧붙임 "…en let op bij wie je checkt." 마지막 대사 "Wie heeft dit gestuurd?" | Welkom bij De Lantaarn · Eerst checken, dan schrijven · Wie heeft dit gestuurd? |
 
 ---
 
@@ -346,7 +365,7 @@
 | 1 | 시리즈 제목 | Onderstroom | De Lantaarn, Achter de Gevel(가면 뒤), Volg het geld |
 | 2 | 시작 난이도 | B1 (주제상 A2는 어려움) | 1부 일부 화를 A2~B1로 낮춤 |
 | 3 | 케이스의 죽음 | 1부 10화에 사망 | 중상 후 생존(7부에 증언) |
-| 4 | 내부 첩자 | Lucas (5부 적발) | Erik(경찰 취재원)으로 바꿔 팀 밖 배신으로 |
+| 4 | 정보 유출 구조 | 팀 안에서 샌 것은 없음. 취재원 Erik이 양쪽에 같은 정보를 주고 때로 거짓 확인(5-1장), Lucas는 5부에서 누명 | Kraai 자신이 양쪽에 정보를 주는 인물(더 어두운 결말, 케이스 딸의 감정선은 포기) |
 | 5 | 제보자 Kraai의 정체 | 케이스의 딸 Esther | 부처 공무원, 공증인 사무소 직원 |
 | 6 | 시간 흐름 | 2026.11 ~ 2028.6 근미래 | 시점을 2025~2026년 실제 사건 시기로 고정 |
 | 7 | 화당 단어·문법 분량 | 단어 18~20, 문법 12~15 | 기존과 같이 15 / 13 |
