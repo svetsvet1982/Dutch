@@ -1,0 +1,349 @@
+# 5부 7화. Deepfake (딥페이크)
+수준: B2~C1 | 장소: 편집국 팩트체크 책상 → 대학 미디어 포렌식 연구실(화상) → 장관 대변인 전화 → 편집국 전쟁실 → 브람의 발코니 | 시간: 2028년 2월 넷째 주, 수요일 → 금요일
+핵심 표현: Dit is gemanipuleerd · Kijk naar de schaduw · Binnen een uur een miljoen views · Het is niet de minister die…
+
+## 대화
+Noor: (woensdagochtend om half negen, in de oorlogskamer; op het grote scherm een video; de minister van Defensie achter een microfoon, in een studio) Kijk. Sinds vannacht. Vier miljoen keer bekeken.
+(수요일 아침 여덟 시 반, 전쟁실; 대형 화면에 영상; 마이크 앞 스튜디오의 국방장관) 봐요. 어젯밤부터요. 4백만 조회요.
+Bram: (komt binnen met zijn jas nog aan) Vier miljoen. Om half negen 's ochtends.
+(외투를 입은 채 들어오며) 4백만. 아침 여덟 시 반에.
+Noor: Zet je geluid aan. Luister eerst. Kijk niet.
+소리 켜 봐요. 먼저 들어 보세요. 보지는 말고요.
+Bram: (sluit zijn ogen) Waarom niet kijken?
+(눈을 감으며) 왜 안 봐?
+Noor: Omdat je ogen hem geloven. Je oren twijfelen eerder.
+눈은 그 사람을 믿거든요. 귀가 먼저 의심해요.
+Minister: (op het scherm, met een vlakke stem) Na overleg met onze NAVO-bondgenoten heeft Nederland besloten de militaire steun aan Oekraïne per direct stop te zetten. Wij kunnen deze last niet langer dragen.
+(화면 속, 밋밋한 목소리로) NATO 동맹국들과의 협의 끝에 네덜란드는 우크라이나에 대한 군사 지원을 즉시 중단하기로 결정했습니다. 우리는 더 이상 이 부담을 감당할 수 없습니다.
+Jip: (die ernaast staat) Dat heeft hij nooit gezegd. Er is geen persconferentie geweest. Geen enkel persbureau heeft het.
+(그 옆에 서서) 이런 말 한 적 없어요. 기자 회견도 없었고요. 어느 통신사도 안 받았어요.
+Bram: (kijkt naar het scherm) Het is zijn gezicht. Zijn stem. Zijn studio.
+(화면을 바라보며) 그 사람 얼굴이야. 목소리고. 스튜디오고.
+Jip: Het is zijn gezicht op zijn stem op zijn studio. (stilte) Maar het is niet hij. Dit is gemanipuleerd.
+그 사람 스튜디오 위 목소리 위 얼굴이죠. (침묵) 그런데 그 사람이 아니에요. 조작된 거예요.
+Noor: Hoe weet je dat zo zeker?
+그걸 어떻게 그렇게 확신해?
+Jip: (klikt op pauze; hij zoomt in op de hand van de minister op de lessenaar) Kijk naar de schaduw. (stilte) Zijn hand werpt een schaduw naar links. Maar het licht komt van links. Een hand bij licht van links werpt een schaduw naar rechts.
+(일시 정지를 누른다; 연단 위 장관의 손을 확대한다) 그림자를 봐요. (침묵) 손 그림자가 왼쪽으로 져요. 그런데 빛은 왼쪽에서 와요. 왼쪽 빛을 받는 손은 오른쪽으로 그림자가 지죠.
+Bram: (buigt zich voorover) De schaduw klopt niet.
+(몸을 앞으로 숙이며) 그림자가 안 맞네.
+Jip: De schaduw klopt niet. (stilte) Het model dat dit maakte, begrijpt gezichten. Het begrijpt stemmen. (stilte) Het begrijpt geen licht. Nog niet.
+그림자가 안 맞아요. (침묵) 이걸 만든 모델은 얼굴을 이해해요. 목소리도 이해하고요. (침묵) 빛은 이해 못 해요. 아직은요.
+Bram: Nog niet.
+아직은이라.
+Jip: Over een jaar wel. (stilte) Over een jaar werpt de hand de goede schaduw. Over twee jaar knippert hij vijftien keer per minuut. (stilte) Dan hebben we de schaduw niet meer.
+1년 뒤면 돼요. (침묵) 1년 뒤엔 손이 제대로 그림자를 드리워요. 2년 뒤엔 1분에 열다섯 번 깜빡이고요. (침묵) 그럼 우린 그림자를 더는 못 써요.
+Bram: Wat hebben we dan nog?
+그럼 그땐 뭐가 남아?
+Jip: (stilte) Dan hebben we alleen nog de vraag: wie stuurde dit? En wanneer? En van welke server? (stilte) Techniek veroudert. Een server is een server.
+(침묵) 그럼 질문만 남아요: 누가 이걸 보냈나? 언제? 어느 서버에서? (침묵) 기술은 낡아요. 서버는 서버고요.
+Bram: (zacht) Daarom is de server het verhaal.
+(조용히) 그래서 서버가 기사인 거야.
+Jip: Daarom is de server het verhaal.
+그래서 서버가 기사인 거예요.
+Femke: (vanuit de hoek) Hoeveel mensen kijken naar de schaduw?
+(구석에서) 그림자를 보는 사람이 몇이나 돼?
+Jip: (stilte) Niemand. (stilte) Mensen kijken naar het gezicht. Ze horen de stem. Ze delen het. Binnen een uur een miljoen views. Binnen een nacht vier.
+(침묵) 아무도요. (침묵) 다들 얼굴을 봐요. 목소리를 듣고요. 공유하죠. 한 시간에 백만 조회. 하룻밤에 4백만.
+Femke: En het dementi van het ministerie?
+그럼 국방부 부인 성명은?
+Noor: (scrolt) Tweeduizend keer gedeeld. (stilte) De waarheid is weer honderd keer trager dan de leugen.
+(스크롤하며) 이천 번 공유됐어요. (침묵) 진실이 또 거짓말보다 백 배 느리네요.
+Jip: (woensdagmiddag, voor het videogesprek begint) Ik ben zenuwachtig. Dit is dé expert. Ze schreef het boek over mediaforensiek.
+(화상 통화가 시작되기 전) 저 떨려요. 이 분야 최고 전문가예요. 미디어 포렌식 교과서를 쓴 분이에요.
+Noor: Jij vond de schaduw. Zij zal het bevestigen. Niet andersom.
+그림자는 네가 찾았잖아. 그분은 확인해 주는 거야. 그 반대가 아니라.
+Jip: (haalt diep adem) Oké. (stilte) Sem was zeventien. Jip is weer zesentwintig. En nu moet Jip slim klinken voor een hoogleraar.
+(깊이 숨을 쉬며) 좋아요. (침묵) 셈은 열일곱이었죠. 입은 다시 스물여섯이고요. 그리고 이제 입은 교수 앞에서 똑똑하게 들려야 하네요.
+Prakash: (woensdagmiddag, via een videoverbinding; een vrouw van veertig in een universiteitslab, met een scherm vol golfvormen achter haar) Uw collega heeft gelijk. De schaduw is de eerste fout. Maar er zijn er meer. (stilte) Luister naar de "s". Als de minister "steun" zegt.
+(수요일 오후, 화상 연결; 뒤에 파형으로 가득한 화면이 있는 대학 연구실의 마흔 살 여자) 동료분 말이 맞아요. 그림자가 첫 번째 오류예요. 그런데 더 있어요. (침묵) "s" 소리를 들어 보세요. 장관이 "지원(steun)"이라고 할 때요.
+Bram: Wat is er met de "s"?
+그 "s"가 어때요?
+Prakash: (speelt een fragment af; een sissend geluid dat net te lang duurt) Een echte "s" duurt tachtig milliseconden. Deze duurt honderdtwintig. (stilte) Het model heeft geleerd hoe een "s" klinkt. Maar niet hoe lang een mens adem heeft.
+(한 토막을 재생한다; 조금 너무 긴 쉿 소리) 진짜 "s"는 80밀리초예요. 이건 120이고요. (침묵) 모델은 "s"가 어떻게 들리는지 배웠어요. 그런데 사람의 숨이 얼마나 긴지는 못 배웠죠.
+Noor: Kunt u bewijzen dat het nep is? Officieel?
+그게 가짜라는 걸 증명할 수 있어요? 공식적으로요?
+Prakash: (knikt) Ik kan een rapport schrijven. Met de schaduw. Met de "s". Met de knipperfrequentie van de ogen. (stilte) Een mens knippert vijftien keer per minuut. Deze minister knippert zes keer. (stilte) Maar mijn rapport is tien pagina's. De video is elf seconden. Raad eens wat mensen lezen.
+(고개를 끄덕이며) 보고서를 쓸 수 있어요. 그림자로. "s"로. 눈 깜빡임 빈도로요. (침묵) 사람은 1분에 열다섯 번 깜빡여요. 이 장관은 여섯 번 깜빡이고요. (침묵) 그런데 제 보고서는 열 쪽이에요. 영상은 11초고요. 사람들이 뭘 읽을지 맞혀 보세요.
+Bram: De elf seconden.
+11초요.
+Prakash: De elf seconden. (stilte) Dat is het echte probleem, meneer Hoekstra. Niet dat we het niet kunnen bewijzen. Dat bewijzen te laat komt.
+11초요. (침묵) 그게 진짜 문제예요, 후크스트라 씨. 증명을 못 하는 게 아니라. 증명이 너무 늦게 온다는 거요.
+Noor: Wat moeten we doen? Als bewijzen te laat komt?
+어떻게 해야 해요? 증명이 너무 늦게 온다면요?
+Prakash: (denkt na) Niet achteraf bewijzen. Vooraf leren kijken. (stilte) Als ik u één ding mee mag geven: leer mensen twijfelen aan beweging. Een deepfake is goed in een foto. Minder goed in beweging. (stilte) Laat een gezicht lang praten. Dan verschijnt de fout vanzelf.
+(생각하며) 사후에 증명하는 게 아니라. 미리 보는 법을 배우는 거예요. (침묵) 하나만 드릴 수 있다면: 사람들이 '움직임'을 의심하도록 가르치세요. 딥페이크는 사진엔 능해요. 움직임엔 덜 능하고요. (침묵) 얼굴이 오래 말하게 하세요. 그럼 오류가 저절로 나타나요.
+Bram: Lang praten.
+오래 말하게.
+Prakash: Elf seconden is kort. In elf seconden kan een model perfect zijn. (stilte) Vraag om één minuut. Een echte minister kan één minuut praten. Een deepfake begint te trillen.
+11초는 짧아요. 11초 안엔 모델이 완벽할 수 있어요. (침묵) 1분을 요구하세요. 진짜 장관은 1분을 말할 수 있어요. 딥페이크는 떨리기 시작하죠.
+Jip: (zacht) Mevrouw. Mag ik iets vragen? (stilte) Als de techniek over een jaar ook licht en knipperen kan… wat blijft er dan over?
+(조용히) 교수님. 하나 여쭤봐도 돼요? (침묵) 1년 뒤에 기술이 빛이랑 깜빡임도 할 수 있게 되면… 그럼 뭐가 남아요?
+Prakash: (kijkt lang in de camera) Goede vraag. (stilte) Dan blijft er maar één ding over. De bron. (stilte) Niet "klopt het beeld?" maar "wie stuurde het, en waarom nu?" (stilte) Techniek kan een gezicht namaken. Een motief kan het niet.
+(카메라를 오래 들여다본다) 좋은 질문이에요. (침묵) 그럼 하나만 남아요. 출처. (침묵) "영상이 맞나?"가 아니라 "누가 보냈고, 왜 하필 지금인가?"예요. (침묵) 기술은 얼굴을 흉내 낼 수 있어요. 동기는 못 하죠.
+Jip: (knikt langzaam) Dus uiteindelijk is het geen technische vraag.
+(천천히 고개를 끄덕이며) 그러니까 결국 기술적 질문이 아니네요.
+Prakash: Het was nooit een technische vraag. (stilte) Techniek is alleen de verpakking. Zei iemand dat niet laatst tegen u?
+한 번도 기술적 질문이 아니었어요. (침묵) 기술은 포장일 뿐이죠. 요전에 누가 그렇게 말하지 않았어요?
+Noor: (heel stil) Een hoogleraar jeugd en radicalisering. Vorige week. (stilte) "Geld is de verpakking."
+(아주 조용히) 청소년·극단화 전공 교수요. 지난주에요. (침묵) "돈은 포장이다."
+Prakash: (glimlacht) Dan hebben we het over hetzelfde. (stilte) Alleen de verpakking verschilt.
+(미소 지으며) 그럼 우린 같은 얘기를 하는 거네요. (침묵) 포장만 다를 뿐이죠.
+Woordvoerder: (woensdagmiddag, aan de telefoon; de woordvoerder van het ministerie van Defensie; hij klinkt uitgeput) De minister heeft dit nooit gezegd. Er is geen besluit. Er is geen persconferentie. (stilte) Wij hebben om acht uur vanochtend een dementi gestuurd. Naar alle media.
+(수요일 오후, 전화로; 국방부 대변인; 지쳐 들린다) 장관은 이런 말 한 적 없습니다. 그런 결정도 없고요. 기자 회견도 없었습니다. (침묵) 오늘 아침 여덟 시에 부인 성명을 보냈습니다. 모든 언론에요.
+Bram: Uw dementi is tweeduizend keer gedeeld. De video vier miljoen keer.
+부인 성명은 이천 번 공유됐어요. 영상은 4백만 번이고요.
+Woordvoerder: (een lange stilte) Ik weet het. (stilte) Weet u wat het ergste is? In Kyiv keken ze vanochtend ook. Een Oekraïense ambtenaar belde ons in paniek. "Stoppen jullie echt?" (stilte) Een nepvideo zorgde voor een echt telefoontje. Uit een echt oorlogsgebied.
+(긴 침묵) 압니다. (침묵) 뭐가 제일 끔찍한지 아세요? 오늘 아침 키이우에서도 봤어요. 우크라이나 공무원이 당황해서 전화했어요. "정말 중단하는 겁니까?" (침묵) 가짜 영상이 진짜 전화를 불렀어요. 진짜 전쟁 지역에서요.
+Bram: Wat zei de minister tegen Kyiv?
+장관은 키이우한테 뭐라고 했어요?
+Woordvoerder: Hij belde zelf terug. Binnen tien minuten. (stilte) Hij zei: "Kijk naar mijn handen. Dat ben ik niet." (stilte) Een minister die moet bewijzen dat hij zichzelf niet is. Dat is 2028.
+본인이 직접 전화를 걸었어요. 10분 안에요. (침묵) 그러셨대요: "제 손을 보세요. 그건 제가 아닙니다." (침묵) 장관이 자기가 자기가 아니라는 걸 증명해야 하는 거예요. 그게 2028년이죠.
+Bram: Gaat de minister aangifte doen?
+장관은 고발하실 건가요?
+Woordvoerder: Tegen wie? (stilte) Dat vraag ik tegenwoordig elke week aan iemand. (hij lacht moe) Het antwoord is altijd hetzelfde. "Onbekend."
+누구를요? (침묵) 요즘 매주 누군가한테 그걸 물어요. (지친 웃음) 답은 늘 같아요. "신원 불상."
+Bram: Nog één vraag. De site waar de video als eerste stond. "Vrij Nieuws NL." Kent u die?
+하나만 더요. 영상이 처음 올라온 사이트요. "자유 뉴스 NL." 아세요?
+Woordvoerder: (een lange stilte) Officieel: wij volgen geen individuele websites. (stilte) Onofficieel: die naam staat op een lijst. Niet bij ons. Bij een dienst die ik niet mag noemen. (stilte) En hij staat er niet alleen op.
+(긴 침묵) 공식적으로는: 저흰 개별 웹사이트를 추적하지 않습니다. (침묵) 비공식적으로는: 그 이름이 명단에 있어요. 저희 쪽이 아니라. 제가 말할 수 없는 기관의. (침묵) 그리고 거기 혼자 있는 게 아니에요.
+Bram: Met wie staat hij erop?
+누구랑 같이 있는데요?
+Woordvoerder: (zacht) Dat heeft u niet van mij. (stilte) Met een adviesbureau. Dat rapporten schrijft over buitenlandse dreigingen. (de verbinding kraakt even) Ik moet ophangen.
+(조용히) 그건 저한테 들은 거 아닙니다. (침묵) 한 컨설팅 회사랑요. 해외 위협에 관한 보고서를 쓰는. (연결이 잠깐 지직거린다) 끊어야겠어요.
+Bram: (langzaam) Een adviesbureau dat rapporten schrijft over dreigingen.
+(천천히) 위협에 관한 보고서를 쓰는 컨설팅 회사라.
+Femke: (die meeluisterde) En dat op dezelfde lijst staat als de nepsite. (stilte) Brugwachter schrijft de waarschuwing. En host de dreiging.
+(같이 듣고 있다가) 그리고 가짜 사이트랑 같은 명단에 있는. (침묵) 브뤼흐바흐터가 경고문을 쓰고. 위협을 호스팅하고.
+Bram: Weet u wie het gemaakt heeft?
+누가 만들었는지 아세요?
+Woordvoerder: Dat onderzoekt de AIVD. (stilte) Ik mag alleen zeggen: het is "geavanceerd". En het is "niet amateuristisch". (stilte) Dat is het nieuwe "wij doen geen uitspraken".
+그건 AIVD가 조사해요. (침묵) 제가 말할 수 있는 건: "정교하다"는 거예요. 그리고 "아마추어가 아니다"요. (침묵) 그게 새로운 "언급하지 않습니다"죠.
+Jip: (woensdagavond, in de kelder; op drie schermen verschillende versies van de video) Ik heb de video gevolgd. Waar hij als eerste verscheen. (stilte) Niet op een Russische site. Niet op een anoniem account. (stilte) Op een Nederlandse nieuwsaggregator. "Vrij Nieuws NL."
+(수요일 저녁, 지하; 모니터 세 대에 영상의 여러 판본) 영상을 따라가 봤어요. 어디서 처음 나타났는지요. (침묵) 러시아 사이트가 아니에요. 익명 계정도 아니고요. (침묵) 네덜란드 뉴스 수집 사이트에서요. "자유 뉴스 NL."
+Bram: Een nieuwssite?
+뉴스 사이트?
+Jip: Een site die bestaande artikelen kopieert. Van echte kranten. En er af en toe een eigen "exclusief" tussen zet. (stilte) De video stond tussen een echt artikel van de NOS en een echt artikel van ons.
+기존 기사를 복사하는 사이트예요. 진짜 신문사 거요. 그리고 가끔 자기네 "단독"을 끼워 넣죠. (침묵) 영상은 NOS 진짜 기사랑 우리 진짜 기사 사이에 있었어요.
+Noor: Tussen onze artikelen.
+우리 기사 사이에요.
+Jip: Dat is het slimme. Een nepvideo tussen twee echte artikelen lijkt ook echt. (stilte) De site bestaat sinds oktober. Vierhonderdduizend bezoekers per maand. Meer dan sommige echte kranten.
+그게 교묘한 거예요. 진짜 기사 두 개 사이의 가짜 영상은 진짜처럼 보이죠. (침묵) 그 사이트는 10월부터 있었어요. 월 방문자 사십만. 진짜 신문사 몇 곳보다 많아요.
+Femke: Wie is de eigenaar?
+소유주가 누구야?
+Jip: (klikt) Op papier een stichting. "Stichting Vrije Media Nederland." (stilte) De website staat op een server. Dezelfde cloudserver in Den Haag waar de camerabeelden van de Achterhoek heen gingen.
+(클릭한다) 서류상으론 재단이요. "자유 미디어 네덜란드 재단." (침묵) 웹사이트는 서버에 있어요. 아흐테르훅 카메라 영상이 가던 헤이그의 그 클라우드 서버랑 같은 곳이요.
+Bram: (heel stil) Dezelfde server.
+(아주 조용히) 같은 서버라.
+Jip: Dezelfde server. (stilte) Russische camera's. Een Haagse nieuwssite. Een deepfake van een Nederlandse minister. (stilte) Allemaal op één adres.
+같은 서버예요. (침묵) 러시아 카메라. 헤이그 뉴스 사이트. 네덜란드 장관의 딥페이크. (침묵) 전부 한 주소에.
+Noor: (zacht) Dat is geen toeval meer.
+(조용히) 이제 우연이 아니네요.
+Femke: Toeval bestaat niet. Niet op één server. (stilte) Jip, kun je bewijzen dat het dezelfde server is? Of lijkt het erop?
+우연은 없어. 한 서버에선. (침묵) 입, 같은 서버라는 걸 증명할 수 있어? 아니면 그래 보이는 거야?
+Jip: (stilte) Ik kan bewijzen dat het hetzelfde IP-blok is. Gehuurd door hetzelfde trustkantoor. (stilte) Maar niet dat dezelfde hand op dezelfde knop drukte. (stilte) Dat is het verschil tussen "dezelfde server" en "dezelfde mens".
+(침묵) 같은 IP 대역이라는 건 증명할 수 있어요. 같은 신탁 회사가 빌린 거라는 것도요. (침묵) 그런데 같은 손이 같은 버튼을 눌렀다는 건 못 해요. (침묵) 그게 "같은 서버"랑 "같은 사람"의 차이죠.
+Bram: Dan schrijven we "dezelfde server". Niet "dezelfde mens".
+그럼 "같은 서버"라고 쓰자. "같은 사람"이 아니라.
+Hanneke: (knikt) Dat is het verschil tussen een artikel en een rechtszaak die we verliezen.
+(고개를 끄덕이며) 그게 기사와 우리가 지는 재판의 차이야.
+Jip: En nog iets. De stichting achter de site. "Stichting Vrije Media Nederland." De oprichtingsakte. (stilte) Ik heb het aktenummer. Het begint met VO.
+그리고 하나 더요. 사이트 뒤의 재단이요. "자유 미디어 네덜란드 재단." 설립 증서요. (침묵) 증서 번호를 구했어요. VO로 시작해요.
+Bram: (zit doodstil) VO.
+(꼼짝 않고 앉아) VO라.
+Jip: VO/2027/1118. (stilte) Notaris: mr. F.J. van Oosterhout.
+VO/2027/1118이요. (침묵) 공증인: F.J. 판 오스터하우트.
+Femke: (heel stil) Weer dezelfde notaris.
+(아주 조용히) 또 같은 공증인이네.
+Noor: Een nepnieuwssite. Opgericht bij de notaris van de Zuidas. (stilte) Dezelfde die de haven deed. Het algoritme. Het gif. De grond. Kempen.
+가짜 뉴스 사이트. 자위다스의 그 공증인이 세운. (침묵) 항구를 맡았던 그 사람. 알고리즘. 독극물. 땅. 켐펀.
+Bram: (staat op en loopt naar het raam) Kees schreef het in 1998. "N. = ?" (stilte) Dertig jaar. Van een parkeergarage tot een deepfake. (stilte) Eén handtekening.
+(일어나 창가로 걸어가며) 케이스가 1998년에 적었어. "N. = ?" (침묵) 30년. 주차장에서 딥페이크까지. (침묵) 서명 하나.
+Hanneke: (zacht) En dat mogen we niet schrijven.
+(조용히) 그리고 그걸 우린 못 쓰지.
+Bram: Nog niet.
+아직은요.
+Hanneke: (knikt) Nog niet. (stilte) Een notaris die een akte passeert, pleegt geen misdrijf. (stilte) Maar honderd akten op één web… dat is geen toeval meer. Dat is een patroon. (stilte) We hebben alleen de honderdste nog niet.
+(고개를 끄덕이며) 아직은. (침묵) 공증인이 증서를 작성하는 건 범죄가 아니야. (침묵) 그런데 한 거미줄에 백 개의 증서… 그건 더 이상 우연이 아니야. 패턴이지. (침묵) 다만 우리한텐 아직 백 번째가 없어.
+Hanneke: (donderdagochtend, in de oorlogskamer; ze heeft de opzet voor zich) Juridisch is dit gevaarlijk. Als we schrijven "deze video is nep", moeten we het kunnen bewijzen. Tegen de maker. Tegen de site. Tegen iedereen die zegt dat wij de echte nepnieuwsmakers zijn.
+(목요일 아침, 전쟁실; 앞에 초안) 법적으로 이건 위험해. "이 영상은 가짜다"라고 쓰려면 증명할 수 있어야 해. 제작자한테. 사이트한테. 우리가 진짜 가짜 뉴스 제작자라고 하는 모든 사람한테.
+Bram: We hebben Dr. Prakash. Het rapport. De schaduw. De "s". De ogen.
+프라카시 박사가 있잖아요. 보고서. 그림자. "s". 눈.
+Hanneke: (knikt) Dat is sterk. (stilte) Maar weet je wat sterker is? Niet schrijven "de video is nep". Schrijven: "zo zie je zelf dat de video nep is". (stilte) Geef de lezer de schaduw. Laat hem het zelf zien.
+(고개를 끄덕이며) 그건 강해. (침묵) 그런데 뭐가 더 강한지 알아? "영상은 가짜다"라고 쓰는 게 아니라. "**영상이 가짜라는 걸 당신이 직접 이렇게 알 수 있다**"라고 쓰는 거야. (침묵) 독자한테 그림자를 줘. 직접 보게 해.
+Noor: Een handleiding. "Hoe herken je een deepfake."
+설명서네요. "딥페이크를 알아보는 법."
+Hanneke: Precies. (stilte) Want de volgende video komt. En de volgende. En wij kunnen niet elke keer een hoogleraar bellen. (stilte) Maar als mensen zelf naar de schaduw leren kijken…
+정확해. (침묵) 다음 영상이 올 테니까. 그다음도. 그리고 우린 매번 교수한테 전화할 순 없어. (침묵) 그런데 사람들이 직접 그림자를 보는 법을 배우면…
+Bram: (langzaam) Dan is de leugen de volgende keer trager.
+(천천히) 그럼 다음엔 거짓말이 더 느려지죠.
+Margreet: (komt binnen, met een tablet; op het scherm de deepfake) Hebben jullie dit gezien? De hele Kamer is in rep en roer. Drie partijen eisen opheldering. (stilte) Dit is enorm, Bram.
+(태블릿을 들고 들어온다; 화면에 딥페이크) 이거 봤어? 국회 전체가 난리야. 세 정당이 해명을 요구해. (침묵) 이거 엄청나, 브람.
+Bram: Het is nep, Margreet. De minister heeft het nooit gezegd.
+가짜예요, 마르흐레이트. 장관은 이런 말 한 적 없어요.
+Margreet: (een korte stilte) Nep? (stilte) Weet je dat zeker?
+(짧은 침묵) 가짜라고? (침묵) 그거 확실해?
+Bram: De schaduw klopt niet. De "s" is te lang. De ogen knipperen te weinig. (stilte) En de video verscheen als eerste op een site op een server in Den Haag. Dezelfde server als de Achterhoek-camera's.
+그림자가 안 맞아요. "s"가 너무 길고요. 눈이 너무 안 깜빡여요. (침묵) 그리고 영상은 헤이그 서버에 있는 사이트에서 처음 나타났어요. 아흐테르훅 카메라랑 같은 서버요.
+Margreet: (een lange stilte; ze legt de tablet neer) Een server in Den Haag. (stilte) Schrijf over de deepfake, Bram. Over hoe je hem herkent. Dat is belangrijk. Dat redt mensen. (stilte) Maar de server… dat is een technisch detail. Dat leidt af van het echte verhaal.
+(긴 침묵; 태블릿을 내려놓으며) 헤이그 서버라. (침묵) 딥페이크에 대해 써, 브람. 알아보는 법에 대해. 그게 중요해. 그게 사람들을 구해. (침묵) 그런데 서버는… 그건 기술적 세부야. 진짜 이야기에서 주의를 돌리게 해.
+Femke: (zonder op te kijken) Zes.
+(고개를 들지 않고) 여섯.
+Margreet: (kijkt naar Femke) Pardon?
+(펨커를 보며) 뭐라고?
+Femke: (kijkt op, rustig) Zes technische details hebben we nodig. Voor de handleiding. De schaduw, de "s", de ogen, de mond, de oren, de achtergrond. (stilte) Zes.
+(차분하게 고개를 들며) 여섯 가지 기술적 세부가 필요해요. 설명서에요. 그림자, "s", 눈, 입, 귀, 배경. (침묵) 여섯이요.
+Margreet: (een seconde stilte; dan glimlacht ze) Zes. Goed. (ze pakt haar tablet) Maak er een mooie handleiding van. (ze gaat)
+(1초간 침묵; 그리고 미소 짓는다) 여섯. 좋아. (태블릿을 집으며) 멋진 설명서로 만들어. (나간다)
+Hanneke: (als Margreet weg is, zacht) Ze noemt de server "een technisch detail". (stilte) Een technisch detail dat drie keer op dezelfde plek uitkomt.
+(마르흐레이트가 나가자 조용히) 서버를 "기술적 세부"라고 하네. (침묵) 세 번이나 같은 자리로 이어지는 기술적 세부를.
+Bram: Ze heeft gelijk dat de handleiding mensen helpt. Dat is waar.
+설명서가 사람들을 돕는다는 건 맞아요. 그건 사실이에요.
+Hanneke: Ze heeft altijd gelijk over het ding dat helpt. (stilte) En ze stuurt altijd weg van het ding dat pijn doet. (stilte) Allebei waar. Tegelijk.
+그녀는 돕는 것에 대해선 늘 옳아. (침묵) 그리고 아프게 하는 것에서는 늘 멀어지게 하지. (침묵) 둘 다 사실이야. 동시에.
+Bram: (als ze weg is) "De server leidt af van het echte verhaal."
+(그녀가 나가자) "서버는 진짜 이야기에서 주의를 돌리게 해."
+Femke: (heel stil) Zes keer "later" of "af". (stilte) En elke keer is het de server in Den Haag. (stilte) Of Kadezicht. Of Snijders. Of het adres op de Zuidas.
+(아주 조용히) "나중에"나 "돌리게 해"가 여섯 번째. (침묵) 그리고 매번 헤이그 서버야. (침묵) 아니면 카더지흐트. 아니면 스네이더르스. 아니면 자위다스의 그 주소.
+Lucas: (die in de hoek zit, zacht) Het is niet de minister die het verhaal is. (stilte) Het is de server. (stilte) En zij stuurt ons telkens weg van de server.
+(구석에 앉아 조용히) 기사는 장관이 아니에요. (침묵) 서버예요. (침묵) 그리고 그녀는 매번 우릴 서버에서 떼어 놔요.
+Bram: (kijkt hem aan; een lange stilte) Dat zeg ik niet, Lucas.
+(그를 바라본다; 긴 침묵) 난 그렇게 말 안 해, 뤼카스.
+Lucas: Ik zeg het wel. (stilte) Iemand moet het hardop zeggen. (stilte) Ik heb niets te verliezen. Jullie denken toch al dat ik het ben.
+전 할래요. (침묵) 누군가는 소리 내서 말해야죠. (침묵) 전 잃을 게 없어요. 어차피 다들 저라고 생각하잖아요.
+Noor: (zacht) Dat denken we niet, Lucas.
+(조용히) 그렇게 생각 안 해, 뤼카스.
+Lucas: (staat op) Jawel. (stilte) En weet je? Ik begrijp het. (hij pakt zijn jas) Als ik jullie was, zou ik mij ook verdenken. Twee telefoons. Een bron die E. heet. Een moeder die niet weet welk jaar het is. (stilte) Ik pas perfect.
+(일어선다) 맞아요. (침묵) 그리고 있잖아요? 이해해요. (외투를 집으며) 제가 선배들이라도 저를 의심할 거예요. 휴대폰 두 대. E.라는 취재원. 올해가 몇 년인지도 모르는 어머니. (침묵) 전 완벽하게 들어맞죠.
+Bram: Lucas…
+뤼카스…
+Lucas: (bij de deur) Ik ga de handleiding maken. De zes details. Dat is tenminste iets wat ik kan. (stilte) Iets wat mensen helpt om níet te geloven wat ze zien. (hij lacht kort) Ironisch, hè. De verdachte leert iedereen hoe je nep herkent.
+(문 옆에서) 설명서 만들게요. 여섯 가지 세부요. 그건 적어도 제가 할 수 있는 일이니까요. (침묵) 사람들이 본 걸 안 믿도록 돕는 일이요. (짧게 웃으며) 아이러니하죠. 용의자가 가짜 알아보는 법을 모두한테 가르치네요.
+Noor: (loopt hem achterna tot de deur) Lucas. (stilte) De handleiding die jij maakt. De zes details. (stilte) Als die mensen helpt om nep te herkennen, dan heb jij meer gedaan dan wie dan ook van ons deze week.
+(문까지 뒤따라가며) 뤼카스. (침묵) 네가 만드는 설명서. 여섯 가지 세부. (침묵) 그게 사람들이 가짜를 알아보도록 돕는다면, 넌 이번 주에 우리 누구보다 많은 일을 한 거야.
+Lucas: (blijft staan; hij draait zich niet helemaal om) Waarom zeg je dat?
+(멈춰 선다; 완전히 돌아보지는 않는다) 왜 그런 말을 해?
+Noor: Omdat het waar is. (stilte) En omdat ik in december iets zei wat niet waar was. "Leugenaar." (stilte) Ik haal het nog steeds in.
+사실이니까. (침묵) 그리고 12월에 사실이 아닌 말을 했으니까. "거짓말쟁이." (침묵) 아직도 만회하는 중이야.
+Lucas: (zacht) Dat hoeft niet.
+(조용히) 그럴 필요 없어.
+Noor: Jawel. (stilte) Elke week een beetje.
+있어. (침묵) 매주 조금씩.
+Lucas: (draait zich eindelijk helemaal om) Noor. (stilte) De zes details. Als ik ze maak… beloof me één ding. (stilte) Als het ooit mijn gezicht is, in een nepfilmpje, met een stem die niet van mij is… geloof dan de schaduw. Niet het gezicht.
+(마침내 완전히 돌아선다) 노르. (침묵) 여섯 가지 세부. 내가 그걸 만들면… 하나만 약속해 줘. (침묵) 언젠가 가짜 영상 속 내 얼굴이, 내 목소리가 아닌 목소리로 나오면… 그럼 그림자를 믿어. 얼굴 말고.
+Noor: (stilte) Waarom zeg je dat?
+(침묵) 왜 그런 말을 해?
+Lucas: (zacht) Omdat ik denk dat het een keer gaat gebeuren. (stilte) Bij mij. (hij gaat)
+(조용히) 언젠가 그런 일이 생길 것 같아서. (침묵) 나한테. (나간다)
+Bram: (die het hoorde; heel stil, tegen Femke) Hoorde je dat?
+(그 말을 들은; 아주 조용히 펨커에게) 들었어?
+Femke: (knikt) "Als het ooit mijn gezicht is." (stilte) Een onschuldige zou dat niet zeggen. Een schuldige ook niet. (stilte) Alleen iemand die bang is dat hij het slachtoffer wordt. Zegt dat.
+(고개를 끄덕이며) "언젠가 내 얼굴이 나오면." (침묵) 무고한 사람은 그런 말 안 해. 죄 있는 사람도 안 하고. (침묵) 자기가 희생양이 될까 봐 겁내는 사람만. 그런 말을 하지.
+Bram: (lange stilte) Of iemand die het al een keer is geweest. (stilte) In december. Op een lijst. Als "doelwit".
+(긴 침묵) 아니면 이미 한 번 그래 봤던 사람이거나. (침묵) 12월에. 명단에서. "표적"으로.
+Femke: (zacht) Dat is de eerlijke lezing.
+(조용히) 그게 정직한 해석이야.
+Bram: Is er ook een oneerlijke?
+부정직한 해석도 있어?
+Femke: Er is er altijd een, Bram. (stilte) Daarom ben ik moe.
+늘 있지, 브람. (침묵) 그래서 내가 지쳐.
+Bram: (kijkt naar de dichte deur) Rust dan. Eén nacht. (stilte) Morgen tellen we weer.
+(닫힌 문을 바라보며) 그럼 쉬어. 하룻밤만. (침묵) 내일 또 세자.
+Femke: (pakt haar jas) Eén nacht. (stilte) En Bram? Niet in slaap vallen met de telefoon aan. Je stuurde me laatst een foto van je notitieboekje.
+(외투를 집으며) 하룻밤. (침묵) 그리고 브람? 휴대폰 켜 놓고 잠들지 마. 요전에 수첩 사진을 나한테 보냈잖아.
+Bram: (glimlacht) Dat was de laatste keer.
+(미소 지으며) 그게 마지막이었어.
+Femke: Dat zei je de vorige keer ook.
+지난번에도 그렇게 말했어.
+Bram: (donderdagavond, op zijn balkon; Femke staat naast hem; beneden glijdt de pont over het donkere IJ) Hij heeft gelijk. Dat is het ergste.
+(목요일 저녁, 발코니; 펨커가 옆에 서 있다; 아래로 페리가 어두운 에이강 위를 미끄러진다) 그 애 말이 맞아. 그게 제일 끔찍해.
+Femke: Hij past perfect. (stilte) Dat weet hij zelf. Een mol zou dat nooit hardop zeggen.
+완벽하게 들어맞지. (침묵) 그 애도 그걸 알아. 첩자라면 그걸 절대 소리 내서 말 안 해.
+Bram: Of een slimme mol zegt het juist wel. Zodat je denkt: hij zou het nooit zeggen als hij het was.
+아니면 똑똑한 첩자는 일부러 말하거나. 그럼 네가 "그 애가 맞으면 절대 안 말했을 거야"라고 생각하게.
+Femke: (lange stilte) Dat is de spiegel, Bram. (stilte) Elke gedachte heeft een tegengedachte. Elke uitleg een tegenuitleg. (stilte) Dat is wat Brugwachter verkoopt. Niet informatie. Twijfel.
+(긴 침묵) 그게 거울이야, 브람. (침묵) 모든 생각엔 반대 생각이 있어. 모든 설명엔 반대 설명이. (침묵) 그게 브뤼흐바흐터가 파는 거야. 정보가 아니라. 의심.
+Bram: (kijkt naar het water) Ik vertrouw Lucas. (stilte) Ik vertrouw Margreet. (stilte) Ik vertrouw jou. (stilte) En ik kan het niet alle drie tegelijk.
+(물을 바라보며) 난 뤼카스를 믿어. (침묵) 마르흐레이트를 믿어. (침묵) 널 믿고. (침묵) 그런데 셋을 동시에는 못 믿어.
+Femke: (heel zacht) Nee. (stilte) Dat kan niemand. Dat is het hele punt.
+(아주 조용히) 응. (침묵) 그건 아무도 못 해. 그게 핵심이야.
+Bram: (kijkt naar de overkant, naar de lichten van de redactie) Prakash zei vandaag iets. (stilte) "Techniek kan een gezicht namaken. Een motief kan het niet." (stilte) Over een jaar is de schaduw perfect. Dan blijft alleen de vraag: wie, en waarom nu.
+(건너편, 편집국 불빛을 바라보며) 프라카시가 오늘 이런 말을 했어. (침묵) "기술은 얼굴을 흉내 낼 수 있지만 동기는 못 한다." (침묵) 1년 뒤면 그림자도 완벽해져. 그럼 질문만 남아: 누가, 왜 하필 지금인가.
+Femke: Wie, en waarom nu. (stilte) Dat is geen techniek. Dat is journalistiek. (stilte) En dat is precies wat zij "een technisch detail" noemt.
+누가, 왜 지금. (침묵) 그건 기술이 아니야. 저널리즘이지. (침묵) 그리고 그게 바로 그녀가 "기술적 세부"라고 부르는 거야.
+Bram: (lange stilte) Of ze beschermt ons. Een server in Den Haag aanwijzen zonder bewijs… dat is een rechtszaak die een kleine krant niet overleeft.
+(긴 침묵) 아니면 우릴 보호하는 거거나. 증거 없이 헤이그 서버를 지목하는 건… 작은 신문사가 못 견디는 재판이야.
+Femke: Dat is waar. (stilte) Allebei waar. (stilte) Ik word moe van "allebei waar", Bram.
+그것도 사실이야. (침묵) 둘 다 사실. (침묵) "둘 다 사실"에 지쳐 간다, 브람.
+Bram: Ik ook. (stilte) Maar het is het eerlijkste wat we hebben.
+나도. (침묵) 그래도 우리가 가진 것 중 제일 정직한 거야.
+Lieke: [Bericht] (donderdagavond) Papa. Er is een filmpje van de minister. Alle kinderen op school delen het. Stopt Nederland echt met helpen?
+[메시지] (목요일 저녁) 아빠. 장관 영상이 있어. 학교 애들이 다 공유해. 네덜란드 정말 돕는 거 그만둬?
+Bram: [Bericht] Nee. Het filmpje is nep. (stilte) Kijk eens naar de schaduw van zijn hand. En tel hoe vaak hij knippert.
+[메시지] 아니. 그 영상 가짜야. (침묵) 손 그림자를 봐 봐. 그리고 몇 번 깜빡이는지 세 봐.
+Lieke: [Bericht] (vijf minuten later) Hij knippert bijna nooit! En de schaduw gaat de verkeerde kant op! 😳
+[메시지] (5분 뒤) 거의 안 깜빡여! 그리고 그림자가 반대쪽으로 가! 😳
+Bram: [Bericht] Nu weet je het. En nu kun je het aan anderen leren.
+[메시지] 이제 알았네. 그리고 이제 다른 사람들한테 가르쳐 줄 수 있어.
+Lieke: [Bericht] Ik ga het aan Yifan laten zien. En aan meneer De Vries.
+[메시지] 이판한테 보여 줄래. 그리고 더 프리스 선생님한테도.
+Bram: [Bericht] Dan heb je vandaag meer mensen geholpen dan ik. (stilte) Slaap lekker.
+[메시지] 그럼 오늘 아빠보다 많은 사람을 도운 거야. (침묵) 잘 자.
+Lieke: [Bericht] Papa? Jouw stem in een filmpje. Zou dat ook nep kunnen zijn?
+[메시지] 아빠? 영상 속 아빠 목소리. 그것도 가짜일 수 있어?
+Bram: (kijkt lang naar het bericht) [Bericht] Ja. (stilte) Daarom hebben wij een woord. Alleen van ons. Als ik "zonnig" zeg, ben ik het echt.
+(메시지를 오래 바라본다) [메시지] 응. (침묵) 그래서 우리한텐 단어가 있잖아. 우리만의. 아빠가 "맑음"이라고 하면 진짜 아빠야.
+Lieke: [Bericht] Zonnig?
+[메시지] 맑음?
+Bram: [Bericht] Zonnig. Een beetje bewolkt. Maar zonnig.
+[메시지] 맑음. 조금 흐리지만. 맑음.
+Lieke: [Bericht] Papa? Als iemand ooit een filmpje van jou maakt dat nep is… en jij zegt geen zonnig… dan weet ik het.
+[메시지] 아빠? 언젠가 누가 아빠 가짜 영상을 만들고… 아빠가 맑음이라고 안 하면… 그럼 내가 알아.
+Bram: (kijkt lang naar het bericht) [Bericht] Dan weet jij het. (stilte) Jij bent mijn beste mediaforensicus.
+(메시지를 오래 바라본다) [메시지] 그럼 네가 아는 거야. (침묵) 네가 아빠 최고의 미디어 포렌식 전문가야.
+Lieke: [Bericht] Dat is een moeilijk woord voor een rapportcijfer. 😄
+[메시지] 성적표에 적기엔 어려운 단어네. 😄
+Bram: [Bericht] Dan schrijf ik het erbij. Voor meneer De Vries.
+[메시지] 그럼 아빠가 옆에 적어 줄게. 더 프리스 선생님한테.
+
+## 주요 단어
+de deepfake | 더 딥페이크 | 딥페이크
+gemanipuleerd | 허마니퓔레이르트 | 조작된
+de schaduw | 더 스하두 | 그림자
+de knipperfrequentie | 더 크니퍼르프레크벤시 | 깜빡임 빈도
+de milliseconde | 더 밀리세콘더 | 밀리초
+het dementi | 헷 데멘티 | (공식) 부인, 반박 성명
+de nieuwsaggregator | 더 니우스아흐레하토르 | 뉴스 수집 사이트
+de knipperen | 크니퍼런 | 깜빡이다
+de views | 더 뷰스 | 조회수
+de handleiding | 더 한틀레이딩 | 설명서, 안내서
+de opheldering | 더 옵헬더링 | 해명, 규명
+in rep en roer | 인 렙 엔 루르 | 발칵 뒤집힌, 소란스러운
+de persconferentie | 더 페르스콘페렌시 | 기자 회견
+de golfvorm | 더 홀프포름 | 파형
+geavanceerd | 헤아반세이르트 | 정교한, 고도의
+amateuristisch | 아마퇴리스티스 | 아마추어 같은
+afleiden van | 아플레이던 판 | ~에서 주의를 돌리다
+de tegengedachte | 더 테헌헤다흐터 | 반대 생각
+de twijfel | 더 트베이펄 | 의심, 의혹
+de pont | 더 폰트 | 페리
+
+## 문법·표현 정리
+**Dit is gemanipuleerd(이건 조작됐다):** manipuleren의 수동 과거분사. 팩트체크의 핵심 단정. 단, 하네커는 "직접 보게 하라"로 한 단계 더 나아갑니다.
+**Kijk naar de schaduw(그림자를 봐):** kijken naar + 구체적 단서. 입의 분석법 — 전체가 아니라 작은 모순을 본다.
+**Binnen een uur een miljoen views(한 시간에 백만 조회):** binnen + 기간 = ~이내에. 거짓말의 속도를 숫자로.
+**Het is niet de minister die het verhaal is(기사는 장관이 아니다):** 5부 강조 구문 Het is … die… 부정형. 뤼카스가 소리 내어 말하는 결론.
+**Een hand bij licht van links werpt een schaduw naar rechts(왼쪽 빛을 받는 손은 오른쪽으로 그림자가 진다):** een schaduw werpen = 그림자를 드리우다. 물리 법칙이 거짓말을 잡습니다.
+**Raad eens wat mensen lezen(사람들이 뭘 읽을지 맞혀 봐):** raad eens = 맞혀 봐(raden 명령). 수사적.
+**Dat bewijzen te laat komt(증명이 너무 늦게 온다는 것):** dat절이 앞의 "het echte probleem"을 설명. te laat = 너무 늦은.
+**Zo zie je zelf dat de video nep is(영상이 가짜라는 걸 당신이 직접 이렇게 안다):** zo = 이렇게(방법). zelf = 직접. 저널리즘의 «보여 주기» 원칙.
+**Dan is de leugen de volgende keer trager(그럼 다음엔 거짓말이 더 느려진다):** 비교급 trager. 미디어 리터러시의 목표를 한 문장으로.
+**Dat leidt af van het echte verhaal(그건 진짜 이야기에서 주의를 돌린다):** afleiden van. 마르흐레이트의 여섯 번째 «돌리기».
+**Ik heb niets te verliezen(난 잃을 게 없다):** te + 부정사 = ~할 것. niets te verliezen, niets te doen.
+**Elke gedachte heeft een tegengedachte(모든 생각엔 반대 생각이 있다):** tegen- 접두사 = 반대. tegenargument(반론), tegenuitleg(반대 설명).
+**Dat is wat Brugwachter verkoopt. Niet informatie. Twijfel.(브뤼흐바흐터가 파는 것: 정보가 아니라 의심):** 짧은 명사구로 핵심을 못 박는 펨커식 요약.
+**Als ik "zonnig" zeg, ben ik het echt(내가 "맑음"이라고 하면 진짜 나야):** 조건 + 도치. 딥페이크 시대의 가족 암호 — 1부부터 이어진 "zonnig"의 새 의미.
+
+## 취재 노트
+정치인의 가짜 영상(딥페이크)이 선거나 외교에 혼란을 주려는 시도는 여러 나라에서 보고되었고, 전문가들은 그림자·조명·눈 깜빡임·입 모양 같은 물리적 모순으로 상당수를 식별할 수 있다고 설명해 왔다. 그러나 정교한 가짜가 수백만 회 확산되는 속도를, 열 쪽짜리 검증 보고서나 공식 부인 성명이 따라잡지 못한다는 «속도의 비대칭»이 핵심 문제로 지적된다. 이 때문에 시민의 «미디어 리터러시»(스스로 가짜를 알아보는 법)가 강조된다.
+이 화의 국방장관 딥페이크, 프라카시 박사, «자유 뉴스 NL», «자유 미디어 네덜란드 재단»은 모두 가상이다.
