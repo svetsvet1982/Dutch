@@ -380,10 +380,13 @@ Margreet의 마지막 변명(7부 10화): **"Ik heb deze krant overeind gehouden
 
 | 부 | 상태 | 파일 |
 |---|---|---|
-| 1부 Witte Haven | 기획 완료 | `onderstroom/part1/` (예정) |
+| 1부 Witte Haven | **샘플 1화 완료** (150턴, 단어 19, 문법 14) | `onderstroom/part1/ep01.txt` → `part1/sample-ep01.docx` |
 | 2부 Het Algoritme | 기획 완료 | `onderstroom/part2/` (예정) |
 | 3부 Gif | 기획 완료 | `onderstroom/part3/` (예정) |
 | 4부 Silicium | 기획 완료 | `onderstroom/part4/` (예정) |
 | 5부 Hybride | 기획 완료 | `onderstroom/part5/` (예정) |
 | 6부 Stenen | 기획 완료 | `onderstroom/part6/` (예정) |
 | 7부 Het Binnenhof | 기획 완료 | `onderstroom/part7/` (예정) |
+
+- 도구: `onderstroom/tools/check_ep.py`(150턴·단어 18~20·문법 12~15 점검), `onderstroom/tools/build_docx.py`(«🗞️ 취재 노트» 섹션 지원, 템플릿은 `../tools/template.docx`)
+- 1화에서 생긴 설정: 제보 봉투 뒷면에 Bram의 말버릇이 적혀 있음 / USB 폴더 3개 «Personeel»(43명)·«Betalingen»(매달 약 5천 유로)·«N»(숫자열 + 케이스 사진) / 가상 회사 Kadezicht Logistiek·Polderwind Trading, 같은 자위다스 주소 / 편집국 벽의 Open Venster 수표 사진(2024) / Margreet가 "모든 계획·약속·날짜를 알고 싶다"고 요구 / Kraai 첫 메시지 "Vertrouw niet iedereen die je helpt." / 케이스와 토요일 약속(→ 9화)
