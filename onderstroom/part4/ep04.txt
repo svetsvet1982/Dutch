@@ -1,0 +1,347 @@
+# 4부 4화. Twee directies (두 경영진)
+수준: 중상급 (B2) | 장소: 네이메헌 켐펀 공장 IT실·화상회의실·생산 라인 → 편집국 → 독일 국경 근처 자동차 부품 공장(전화) | 시간: 2027년 10월 첫째 주, 수요일 새벽 → 금요일
+핵심 표현: De systemen zijn afgesloten · Zij erkennen ons niet · Dit is een breuk · Ook al…
+
+## 대화
+Ravi: (woensdag om kwart over vijf 's ochtends, in de IT-ruimte van Kempen; een man van veertig met een hoodie en drie schermen vol rode meldingen; hij belt) Meneer Ruys. U moet komen. Nu.
+(수요일 새벽 다섯 시 십오 분, 켐펀 IT실; 후드티를 입은 마흔 살 남자, 빨간 경고로 가득한 모니터 세 대; 전화를 건다) 라위스 씨. 오셔야 해요. 지금요.
+Ruys: (aan de telefoon, slaperig) Ravi? Wat is er?
+(전화로, 잠긴 목소리) 라비? 무슨 일이야?
+Ravi: De systemen zijn afgesloten. Allemaal. Het ERP, de planning, de e-mail met China, de klantportalen. Om 04:03 uur. Vanuit Shanghai.
+시스템이 차단됐어요. 전부요. ERP, 생산 계획, 중국과의 이메일, 고객 포털까지요. 04시 03분에요. 상하이에서요.
+Ruys: (nu wakker) Afgesloten? Hoe kan dat?
+(이제 잠이 깬 목소리) 차단? 어떻게 그럴 수 있어?
+Ravi: Alle servers staan in Shanghai. Wij hebben hier alleen schermen. (stilte) Het is alsof iemand de stekker uit ons huis trekt, terwijl wij nog binnen zitten.
+서버가 전부 상하이에 있거든요. 여기엔 화면만 있어요. (침묵) 우리가 아직 안에 있는데 누가 집 전기 플러그를 뽑아 버린 거예요.
+Ruys: Bel meneer Zhang. Nu.
+장 사장님한테 전화해. 지금.
+Ravi: Al gedaan. Om 04:10. (stilte) Hij nam op bij de eerste keer overgaan. Hij was al wakker. Hij zei: "Ik weet het. Ik kan er niets aan doen."
+벌써 했어요. 04시 10분에요. (침묵) 신호 한 번에 받으시더라고요. 이미 깨어 계셨어요. 그러셨어요: "알아. 나도 어쩔 수 없어."
+Ruys: (stilte) Hij was al wakker.
+(침묵) 이미 깨어 있었다라.
+Ravi: Om vier uur 's nachts. (stilte) Ik zeg niks, meneer Ruys. Ik doe alleen IT.
+새벽 네 시에요. (침묵) 전 아무 말도 안 해요, 라위스 씨. 전 IT만 해요.
+Bram: (om zeven uur, bij de poort, met Noor en Lucas; Ruys heeft hen gebeld) U belde ons. Waarom?
+(일곱 시, 노르와 뤼카스와 함께 정문에서; 라위스가 그들을 불렀다) 저희를 부르셨죠. 왜요?
+Ruys: (met rode ogen, in hetzelfde pak als gisteren) Omdat ik wil dat iemand ziet wat hier gebeurt. Niet via een persbericht. Ik ben een ingenieur, meneer Hoekstra. Geen politicus. (stilte) Embargo tot vrijdag. U mag kijken. U mag noteren. U publiceert pas als ik het zeg.
+(빨개진 눈, 어제와 같은 정장 차림) 여기서 무슨 일이 벌어지는지 누군가 봤으면 해서요. 보도 자료로 말고요. 전 엔지니어예요, 후크스트라 씨. 정치인이 아니라. (침묵) 금요일까지 엠바고입니다. 보셔도 됩니다. 적으셔도 되고요. 보도는 제가 말할 때 하세요.
+Bram: Afgesproken. Met één voorwaarde. Als u liegt, vervalt het embargo.
+좋습니다. 조건 하나만요. 거짓말을 하시면 엠바고는 무효예요.
+Ruys: (een korte, vermoeide lach) Ik heb geen tijd om te liegen.
+(짧고 지친 웃음) 거짓말할 시간도 없어요.
+Lucas: (filmt de poort; operators komen binnen voor de dienst van zes uur en blijven staan voor een scherm in de hal dat alleen een foutmelding laat zien) Kijk. Iedereen kijkt naar dat scherm.
+(정문을 촬영한다; 여섯 시 근무조 오퍼레이터들이 들어오다가 오류 메시지만 뜬 홀의 화면 앞에 멈춰 선다) 봐요. 다들 저 화면을 보고 있어요.
+Dirk: (tegen de groep, met zijn armen over elkaar) Gewoon naar je lijn. De machines doen het. Wij doen het. Alleen de computer doet het niet.
+(팔짱을 끼고 무리에게) 그냥 자기 라인으로 가. 기계는 돌아가. 우리도 돌아가고. 컴퓨터만 안 돌아가는 거야.
+Werknemer: En wie zegt ons wat we moeten maken?
+그럼 뭘 만들어야 하는지는 누가 말해 줘요?
+Dirk: (stilte) Ik. Voor vandaag. (hij kijkt naar Ruys) Klopt dat, baas?
+(침묵) 내가. 오늘은. (라위스를 보며) 맞죠, 사장님?
+Ruys: (een seconde verrast door het woord "baas") Dat klopt, Dirk.
+(“사장님”이라는 말에 잠깐 놀라며) 맞아요, 디르크.
+Dirk: (zacht tegen Bram) Hij is de vierde baas in mijn leven die ik "baas" noem. De anderen zeiden het nooit terug.
+(브람에게 조용히) 내 인생에서 "사장님"이라고 부른 네 번째 사람이에요. 다른 사람들은 한 번도 대답을 안 해 줬죠.
+Ravi: (in de IT-ruimte, tegen Bram, terwijl hij door logbestanden scrolt) Kijk. Om 04:03 werden onze accounts op "inactief" gezet. Om 04:04 kwam er een bericht van het hoofdkantoor in Shanghai. In het Chinees en in het Engels.
+(IT실에서 로그 파일을 스크롤하며 브람에게) 보세요. 04시 03분에 우리 계정이 "비활성"으로 바뀌었어요. 04시 04분엔 상하이 본사에서 메시지가 왔고요. 중국어랑 영어로요.
+Noor: (leest over zijn schouder) "Due to the illegal interference of the Dutch government, Kempen Semiconductors Nederland is no longer authorized to access group systems."
+(그의 어깨 너머로 읽으며) "네덜란드 정부의 불법적 간섭으로 인해, 켐펀 세미컨덕터스 네덜란드는 더 이상 그룹 시스템에 접근할 권한이 없습니다."
+Bram: Wat betekent dat voor de productie?
+그게 생산에는 어떤 의미예요?
+Ravi: De machines draaien nog. Die staan hier. Maar we weten niet meer welke klant welke chip moet krijgen. Welke order eerst. Waar de wafers vandaan komen. (stilte) Alles stond in het systeem. Niemand heeft het op papier.
+기계는 아직 돌아가요. 여기 있으니까요. 그런데 어느 고객이 어느 칩을 받아야 하는지 이제 몰라요. 어느 주문이 먼저인지. 웨이퍼가 어디서 오는지도요. (침묵) 다 시스템에 있었어요. 종이로 가진 사람은 아무도 없어요.
+Fatma: (in de deuropening, in haar werkjas) Ik wel.
+(작업복 차림으로 문간에서) 나는 있는데.
+Ravi: (draait zich om) Wat?
+(돌아서며) 네?
+Fatma: (houdt een versleten schrift omhoog) Twintig jaar schrijf ik elke dienst op wat er op mijn lijn gebeurt. Welke order. Welke klant. Hoeveel wafers. Mijn eerste ploegleider zei: "Computers vergeten. Papier niet." (stilte) Dirk lacht me er al tien jaar om uit.
+(낡은 공책을 들어 올리며) 20년 동안 근무 때마다 내 라인에서 뭐가 있었는지 적어 왔어요. 어떤 주문. 어떤 고객. 웨이퍼 몇 장. 내 첫 반장이 그랬죠: "컴퓨터는 잊어버린다. 종이는 안 잊어버린다." (침묵) 디르크는 10년째 그걸로 날 놀려요.
+Dirk: (achter haar, in zijn werkjas) Ik lach niet meer.
+(그녀 뒤에서 작업복 차림으로) 이제 안 놀려.
+Ruys: (kijkt naar het schrift alsof het goud is) Mevrouw…?
+(공책을 금덩이 보듯 바라보며) 부인 성함이…?
+Fatma: Fatma Yilmaz. Operator. Lijn twee.
+파트마 일마즈. 오퍼레이터. 2번 라인.
+Ruys: Mevrouw Yilmaz. Mag ik dat schrift lenen?
+일마즈 씨. 그 공책 빌려도 될까요?
+Fatma: (geeft het niet meteen) U mag het lenen. Als ik het terugkrijg. En als u ons vandaag vertelt wie de baas is.
+(바로 주지 않고) 빌려도 돼요. 돌려받는다면요. 그리고 오늘 우리한테 누가 사장인지 말해 준다면요.
+Ruys: (neemt het schrift aan met twee handen) Vandaag ben ik de baas. (stilte) Morgen weet ik het niet.
+(두 손으로 공책을 받으며) 오늘은 제가 사장입니다. (침묵) 내일은 모르겠어요.
+Ravi: (opent een leeg Excel-bestand op zijn scherm) Oké. Dan bouwen we het opnieuw. Met de hand. Fatma leest voor, ik typ.
+(화면에 빈 엑셀 파일을 연다) 좋아요. 그럼 다시 만들죠. 손으로요. 파트마가 읽어 주면, 제가 입력할게요.
+Fatma: (gaat naast hem zitten en zet haar bril op) Maandag twaalf september. Lijn twee. Order 4471. Klant: "B. in Stuttgart". Achthonderd wafers.
+(그의 옆에 앉아 안경을 쓰며) 9월 12일 월요일. 2번 라인. 주문 4471. 고객: "슈투트가르트의 B." 웨이퍼 팔백 장.
+Ravi: (typt) Achthonderd. Volgende.
+(입력하며) 팔백. 다음.
+Fatma: Dinsdag dertien september…
+9월 13일 화요일…
+Noor: (zacht tegen Bram) Twintig jaar aantekeningen. Een hele fabriek in één schrift.
+(브람에게 조용히) 20년 치 기록. 공장 하나가 공책 한 권에 들어 있네요.
+Bram: Computers vergeten.
+컴퓨터는 잊어버리지.
+Dirk: (komt binnen met een stapel A3-papier en een rol plakband) Ravi. Print je lijst. Ik hang hem op in de hal. Op de muur. Zoals in 1995.
+(A3 용지 더미와 테이프 한 롤을 들고 들어오며) 라비. 그 목록 출력해. 홀 벽에 붙일 거야. 1995년처럼.
+Ravi: Op de muur?
+벽에요?
+Dirk: Een muur kan niemand uit Shanghai afsluiten.
+벽은 상하이에서 아무도 못 차단하잖아.
+Zhang: (om tien uur, in de vergaderkamer met een groot scherm; hij zit naast Ruys, maar met een lege stoel tussen hen in) De videoverbinding met Dongguan staat klaar. Daar staat onze assemblagefabriek. Zestienhonderd mensen. Alle chips van Nijmegen worden daar verpakt en getest.
+(열 시, 큰 화면이 있는 회의실; 라위스 옆에 앉았지만 둘 사이에 빈 의자 하나가 있다) 둥관과 화상 연결 준비됐어요. 거기 우리 조립 공장이 있어요. 1,600명이요. 네이메헌 칩은 전부 거기서 포장하고 테스트해요.
+Bram: (achter in de kamer, met zijn notitieboekje) Alles?
+(회의실 뒤쪽에서 수첩을 들고) 전부요?
+Zhang: Tachtig procent. Wij maken de wafers. Zij maken er chips van die je in een auto kunt zetten. (stilte) Zonder hen zijn onze wafers alleen maar glimmende schijfjes.
+80%요. 우리는 웨이퍼를 만들고. 거기서 차에 넣을 수 있는 칩으로 만들죠. (침묵) 그쪽이 없으면 우리 웨이퍼는 그냥 반짝이는 원판일 뿐이에요.
+Huang: (op het scherm; een man van vijftig in een wit overhemd, met een rode vlag op de achtergrond; hij spreekt Engels, langzaam en formeel) Good morning. I am Huang Wei, general manager of Kempen Dongguan. I have an announcement.
+(화면 속; 흰 셔츠 차림의 쉰 살 남자, 뒤에 붉은 깃발; 천천히 격식 있게 영어로 말한다) 좋은 아침입니다. 켐펀 둥관 총경리 황웨이입니다. 발표할 것이 있습니다.
+Ruys: (in het Engels) Good morning, mr. Huang. I am Jan-Willem Ruys, the interim director…
+(영어로) 좋은 아침입니다, 황 총경리님. 임시 경영자 얀빌럼 라위스입니다…
+Huang: (onderbreekt hem, zonder naar hem te kijken; hij kijkt naar Zhang) Mr. Zhang. As of today, Kempen Dongguan is an independent company. We no longer accept instructions from Nijmegen. We do not recognize the so-called interim director.
+(그를 쳐다보지도 않고 말을 끊으며; 장을 바라본다) 장 사장님. 오늘부로 켐펀 둥관은 독립 회사입니다. 더 이상 네이메헌의 지시를 받지 않습니다. 이른바 임시 경영자를 인정하지 않습니다.
+Zhang: (zacht, in het Engels) Huang. We hebben vijftien jaar samengewerkt.
+(조용히, 영어로) 황. 우리 15년을 같이 일했잖아.
+Huang: (een seconde stilte; zijn stem blijft vlak) That was a different company. (stilte) Deliveries of chips to European customers are suspended. Until further notice. Thank you. (het scherm wordt zwart)
+(1초간 침묵; 목소리는 여전히 밋밋하다) 그건 다른 회사였죠. (침묵) 유럽 고객에 대한 칩 납품은 중단됩니다. 추가 공지가 있을 때까지. 감사합니다. (화면이 꺼진다)
+Ruys: (staart naar het zwarte scherm) Zij erkennen ons niet.
+(꺼진 화면을 노려보며) 그쪽이 우리를 인정하지 않는군.
+Zhang: (heel stil) Zij erkennen mij ook niet meer. (hij zet zijn bril af en wrijft over zijn ogen) Vijftien jaar. "A different company."
+(아주 조용히) 이젠 저도 인정하지 않네요. (안경을 벗고 눈을 비비며) 15년이요. "다른 회사"라니.
+Ruys: (draait zich naar Zhang, voor het eerst recht) Meneer Zhang. Wist u dit?
+(처음으로 장을 똑바로 향해 돌아서며) 장 사장님. 이걸 알고 계셨습니까?
+Zhang: (kijkt hem aan) Ook al had ik het geweten, had ik het niet kunnen tegenhouden. (stilte) Maar nee. Ik wist het niet. Ik ben net zo verrast als u.
+(그를 바라보며) 설령 알았더라도 막을 수는 없었을 겁니다. (침묵) 그래도 아니요. 몰랐어요. 저도 당신만큼 놀랐어요.
+Ruys: (lange stilte; dan schuift hij de lege stoel tussen hen weg) Dan zitten we in hetzelfde schuitje.
+(긴 침묵; 그리고 둘 사이의 빈 의자를 밀어낸다) 그럼 우린 같은 배를 탄 거네요.
+Zhang: (kijkt naar de weggeschoven stoel) Een schuitje zonder roer.
+(밀려난 의자를 바라보며) 키 없는 배죠.
+Ruys: (op de gang, aan de telefoon; Bram staat een paar meter verderop) Minister. Ja. Dongguan erkent ons niet. Leveringen opgeschort. (stilte) Nee, dat had niemand voorzien. (stilte) Wie had dat moeten voorzien? Het rapport? (hij luistert lang) Met alle respect, minister: het rapport ging over een student. Niet over een fabriek in Dongguan.
+(복도에서 통화; 브람은 몇 미터 떨어져 서 있다) 장관님. 네. 둥관이 우리를 인정하지 않습니다. 납품 중단이고요. (침묵) 아니요, 아무도 예상하지 못했습니다. (침묵) 누가 예상했어야 했냐고요? 보고서요? (오래 듣는다) 송구하지만, 장관님: 그 보고서는 학생에 관한 거였습니다. 둥관 공장에 관한 게 아니라.
+Ruys: (hangt op en ziet Bram staan) Dat heeft u niet gehoord.
+(전화를 끊고 서 있는 브람을 본다) 방금 건 못 들으신 겁니다.
+Bram: Embargo tot vrijdag. Ik heb het gehoord. Ik publiceer het vrijdag.
+금요일까지 엠바고죠. 들었어요. 금요일에 보도할게요.
+Ruys: (zucht diep) Ik ben te oud voor dit werk. (stilte) Het ministerie heeft de ingreep gebaseerd op dat rapport, meneer Hoekstra. Veertig pagina's. Met een student op pagina zevenendertig. Niemand heeft gekeken wat er in Dongguan zou gebeuren.
+(깊이 한숨 쉬며) 난 이 일 하기엔 너무 늙었어요. (침묵) 경제부는 그 보고서를 근거로 개입했어요, 후크스트라 씨. 40쪽. 37쪽에 학생 하나가 있는. 둥관에서 무슨 일이 벌어질지는 아무도 안 봤어요.
+Bram: Mag ik dat citeren?
+그거 인용해도 될까요?
+Ruys: Vrijdag. (stilte) Als ik vrijdag nog tijdelijk bestuurder ben.
+금요일에요. (침묵) 금요일에도 제가 임시 경영자라면요.
+Bram: (later, in de gang, tegen Noor) Dit is een breuk. Niet tussen Nederland en China. Tussen een fabriek en zichzelf.
+(나중에, 복도에서 노르에게) 이건 결별이야. 네덜란드와 중국 사이가 아니라. 한 공장과 그 자신 사이의.
+Noor: (kijkt door het raam naar de productiehal, waar de machines nog draaien) En de mensen in Dongguan? Zestienhonderd. Zij hebben het ook uit het nieuws.
+(창 너머 기계가 아직 돌아가는 생산 홀을 보며) 그럼 둥관 사람들은요? 1,600명이요. 그 사람들도 뉴스로 들었겠죠.
+Zhang: (op het parkeerterrein, bij zijn auto, als hij om zeven uur naar huis gaat; Bram loopt met hem mee) U was er vanochtend. U zag het.
+(일곱 시, 퇴근하려는 장이 주차장 자기 차 옆에 있다; 브람이 함께 걷는다) 오늘 아침에 계셨죠. 보셨죠.
+Bram: Ravi zegt dat u om vier uur al wakker was.
+라비가 그러던데요, 네 시에 이미 깨어 계셨다고요.
+Zhang: (blijft staan) Ik slaap al twee weken niet. Sinds dat rapport in mijn brievenbus lag. (stilte) Ik wist niet dat Shanghai het zou doen. Maar ik wist dat iemand iets zou doen. Iedereen wachtte op iemand.
+(멈춰 서서) 2주째 잠을 못 자요. 그 보고서가 우편함에 들어온 뒤로요. (침묵) 상하이가 그럴 줄은 몰랐어요. 그래도 누군가 뭔가를 할 거라는 건 알았어요. 다들 누군가를 기다리고 있었으니까요.
+Bram: Wie stuurde u dat rapport, denkt u?
+보고서는 누가 보냈다고 생각하세요?
+Zhang: (opent het portier) Iemand die wilde dat ik bang werd. En iemand die wist dat bange mensen fouten maken. (stilte) Ik heb geen fout gemaakt, meneer Hoekstra. Ik heb niks gedaan. Twee weken lang. Niets. (hij lacht zonder vreugde) En toch ging alles kapot.
+(차 문을 열며) 제가 겁먹길 바란 누군가. 그리고 겁먹은 사람은 실수한다는 걸 아는 누군가. (침묵) 전 실수 안 했어요, 후크스트라 씨. 아무것도 안 했어요. 2주 동안. 아무것도. (즐거움 없이 웃으며) 그런데도 다 부서졌네요.
+Bram: Omdat het niet om u ging.
+선생님 문제가 아니었으니까요.
+Zhang: (stapt in) Dat is het ergste. Als het om jou gaat, kun je iets doen. (hij start de auto) Mei wacht. Zeven uur. Beloofd.
+(차에 타며) 그게 제일 끔찍해요. 내 문제면 뭐라도 할 수 있잖아요. (시동을 걸며) 메이가 기다려요. 일곱 시. 약속했거든요.
+Kacper: (op lijn twee, aan de microscoop, terwijl Lucas filmt) Ik ga gewoon door. Wat moet ik anders? (stilte) Weet u wat het rare is? Ik ken een jongen in Dongguan. Via een forum. Voor operators. We praten over microscopen. Hij schreef vanochtend: "Are we enemies now?"
+(2번 라인 현미경 앞에서, 뤼카스가 촬영하는 동안) 전 그냥 계속해요. 달리 뭘 하겠어요? (침묵) 이상한 게 뭔지 알아요? 저 둥관에 아는 애가 있어요. 오퍼레이터 포럼에서 알았어요. 현미경 얘기를 하죠. 오늘 아침 그 애가 썼어요: "우리 이제 적이야?"
+Lucas: Wat antwoordde je?
+뭐라고 답했어?
+Kacper: (kijkt door de microscoop) "Nee. We zijn operators." (stilte) Hij stuurde een duim. Daarna niets meer. Zijn account is weg.
+(현미경을 들여다보며) "아니. 우린 오퍼레이터야." (침묵) 엄지 이모티콘을 보내더라고요. 그다음엔 아무것도요. 계정이 사라졌어요.
+Lucas: (laat de camera zakken) Weg? Zomaar?
+(카메라를 내리며) 사라졌다고? 그냥?
+Kacper: Misschien heeft hij hem zelf weggehaald. Misschien iemand anders. (stilte) Ik hoop dat hij hem zelf weghaalde.
+본인이 지웠을 수도 있고. 다른 누가 지웠을 수도 있고요. (침묵) 본인이 지웠기를 바라요.
+Lin: (in de kantine, alleen aan een tafel met een kom noedels die ze niet aanraakt) Mijn moeder belde uit Wuhan. Ze zag het op het Chinese nieuws. Daar zeggen ze dat Nederland "Chinese bedrijven steelt". (stilte) Ze vroeg of ik naar huis kom.
+(구내식당, 손대지 않은 국수 한 그릇을 앞에 두고 혼자 앉아) 우한에 계신 엄마가 전화했어요. 중국 뉴스에서 봤대요. 거기선 네덜란드가 "중국 기업을 훔친다"고 한대요. (침묵) 집에 오냐고 물으셨어요.
+Noor: Ga je?
+갈 거예요?
+Lin: (kijkt naar de noedels) Hier zeggen ze dat ik misschien een spion ben. Daar zeggen ze dat ik voor de dieven werk. (ze glimlacht flauw) Ik ben nergens meer thuis. Alleen hier. Aan lijn vier.
+(국수를 바라보며) 여기선 제가 스파이일지도 모른대요. 거기선 제가 도둑들을 위해 일한대요. (희미하게 웃으며) 이제 어디에도 집이 없어요. 여기만 빼고요. 4번 라인이요.
+Noor: (gaat tegenover haar zitten) Mijn ouders kwamen uit Marokko. In de jaren tachtig. Mijn vader zei altijd: "Hier zijn we Marokkanen. Daar zijn we Hollanders." (stilte) Ik heb lang gedacht dat dat betekende dat je nergens thuis bent.
+(그녀 맞은편에 앉으며) 우리 부모님은 모로코에서 오셨어요. 80년대에요. 아빠가 늘 그러셨죠: "여기선 우리가 모로코 사람이고. 거기선 우리가 네덜란드 사람이다." (침묵) 오랫동안 그게 어디에도 집이 없다는 뜻인 줄 알았어요.
+Lin: En nu?
+그럼 지금은요?
+Noor: Nu denk ik dat het betekent dat je twee keer thuis bent. Als de anderen je laten. (ze schuift de noedels naar Lin) Eet. Ze worden koud.
+지금은 두 번 집이 있다는 뜻이라고 생각해요. 다른 사람들이 허락해 준다면요. (국수를 린 쪽으로 밀며) 드세요. 식어요.
+Margreet: (donderdagochtend, in de oorlogskamer, met een kop koffie; ze kijkt naar de foto's van Fatma's schrift op het scherm) Een operator met een schrift. Dat is prachtig, Bram. Dat is de foto voor de voorpagina.
+(목요일 아침, 커피잔을 들고 전쟁실에서 화면 속 파트마의 공책 사진을 본다) 공책 든 오퍼레이터라. 멋지다, 브람. 그게 1면 사진이야.
+Bram: Embargo tot vrijdag.
+금요일까지 엠바고예요.
+Margreet: Natuurlijk. (stilte) En wat is de rode draad?
+당연하지. (침묵) 그럼 핵심 줄기는 뭐야?
+Bram: Een rapport. Dat bij iedereen lag. Bij het ministerie, bij de Kamer, bij Zhang. Met een logo van een bureau dat Brugwachter heet.
+보고서 하나요. 모두한테 있었던. 경제부에도, 국회에도, 장한테도요. 브뤼흐바흐터라는 회사 로고가 달린.
+Margreet: (een korte stilte; ze blaast in haar koffie) Brugwachter. Nooit van gehoord. (stilte) Weet je zeker dat het niet gewoon een rapport van de AIVD is, met een raar logo? Diensten doen soms vreemde dingen.
+(짧은 침묵; 커피를 후 분다) 브뤼흐바흐터. 처음 들어 보는데. (침묵) 그냥 로고가 이상한 정보기관 보고서가 아닌 거 확실해? 정보기관은 가끔 이상한 짓을 하잖아.
+Bram: Diensten sturen geen rapporten per post naar de man over wie het rapport gaat.
+정보기관은 보고서 당사자한테 우편으로 보고서를 보내지 않아요.
+Margreet: (knikt langzaam) Dat is waar. (stilte) Kijk naar de Amerikanen. Ze hebben dit al jaren gewild. Een Amerikaans fonds zit in het consortium dat Twentech kocht, toch? Daar ligt je verhaal.
+(천천히 고개를 끄덕이며) 그건 맞네. (침묵) 미국 쪽을 봐. 몇 년째 이걸 원했잖아. 트벤테크를 산 컨소시엄에 미국 펀드가 있지? 거기 네 기사가 있어.
+Bram: (heel stil) Hoe weet je van Twentech?
+(아주 조용히) 트벤테크는 어떻게 아세요?
+Margreet: (glimlacht) Noor heeft het gisteravond in het redactiesysteem gezet. Onder "achtergrond". Ik lees alles, Bram. Dat is mijn werk. (ze loopt weg)
+(미소 지으며) 노르가 어젯밤 편집 시스템에 올렸잖아. "배경" 항목에. 난 다 읽어, 브람. 그게 내 일이야. (걸어간다)
+Noor: (wordt rood) Ik… ik heb het in het systeem gezet. Zonder Van Rossem. Alleen "consortium met Amerikaans fonds".
+(얼굴이 빨개지며) 제가… 시스템에 올렸어요. 판 로설은 빼고요. "미국 펀드가 낀 컨소시엄"이라고만요.
+Femke: (zacht) Dan stuurt ze ons naar het Amerikaanse fonds. Weg van het Nederlandse deel.
+(조용히) 그럼 그녀는 우리를 미국 펀드 쪽으로 보내는 거네. 네덜란드 쪽에서 멀어지게.
+Bram: Of ze leest gewoon wat er staat.
+아니면 그냥 적힌 걸 읽은 거거나.
+Femke: Of dat.
+아니면 그거거나.
+Bram: (donderdag, in de oorlogskamer; op het scherm een kaart van Europa met rode stippen) Hoeveel?
+(목요일, 전쟁실; 화면에 빨간 점이 찍힌 유럽 지도) 몇 군데야?
+Jip: Zeven autofabrieken die chips van Kempen gebruiken. Twee in Duitsland melden al een tekort. Eén in Wolfsburg gaat maandag een lijn stilleggen. Vierduizend mensen thuis.
+켐펀 칩을 쓰는 자동차 공장 일곱 곳이요. 독일 두 곳은 벌써 부족하다고 알렸어요. 볼프스부르크 한 곳은 월요일에 라인 하나를 세운대요. 4천 명이 집에 가요.
+Lucas: Voor een chip van twintig cent.
+20센트짜리 칩 때문에요.
+Jip: Een auto heeft vijfhonderd chips. Als er één ontbreekt, rijdt hij niet.
+차 한 대에 칩이 오백 개예요. 하나만 없어도 못 달려요.
+Noor: (aan de telefoon met de inkoper van een toeleverancier bij Kleef, over de grens) Ja… nee… Hoe lang heeft u nog? (ze dekt de telefoon af) Twee weken. Daarna staat alles stil.
+(국경 너머 클레베 근처 부품 업체 구매 담당자와 통화하며) 네… 아니요… 얼마나 버틸 수 있으세요? (송화구를 가리며) 2주요. 그다음엔 다 멈춘대요.
+Inkoper: (op de speaker; een man met een zwaar Duits accent, in het Nederlands) Wij zijn een klein bedrijf. Tweehonderd mensen. Wij maken stuurwielen. Met een chip erin. Voor de airbag. (stilte) Mijn vader begon dit bedrijf. Ik wil niet de man zijn die het sluit. Voor twintig cent.
+(스피커로; 독일 억양이 강한 네덜란드어) 저흰 작은 회사예요. 이백 명이요. 핸들을 만들어요. 칩이 들어간. 에어백용이요. (침묵) 아버지가 시작한 회사예요. 20센트 때문에 회사를 닫는 사람이 되고 싶지 않아요.
+Noor: Heeft u een andere leverancier?
+다른 공급처가 있으세요?
+Inkoper: Ja. Twentech. In Hengelo. (stilte) Ze vroegen gisteren drie keer de normale prijs. Drie keer. En je moest binnen vierentwintig uur tekenen.
+네. 트벤테크요. 헹엘로에 있는. (침묵) 어제 정상 가격의 세 배를 부르더라고요. 세 배요. 그리고 24시간 안에 서명해야 한대요.
+Bram: (zacht) Binnen vierentwintig uur. Alsof ze het al voorbereid hadden.
+(조용히) 24시간 안에라. 미리 준비해 둔 것처럼.
+Bram: (staat op en loopt naar het whiteboard) Laten we het opschrijven. Wie heeft hier iets aan?
+(일어나 화이트보드로 걸어가며) 적어 보자. 누가 이걸로 이득을 보지?
+Femke: (die al die tijd stil in de hoek zat) Goede vraag. (ze staat op en pakt een stift) Washington: krijgt wat het wilde. Een Chinees bedrijf uit Europa gedrukt. Peking: krijgt een verhaal. "Europa steelt." Den Haag: krijgt een probleem dat het zelf heeft gemaakt.
+(그동안 구석에 조용히 앉아 있다가) 좋은 질문이야. (일어나 마커를 집으며) 워싱턴: 원하던 걸 얻지. 중국 기업을 유럽에서 밀어냈으니까. 베이징: 이야기를 얻지. "유럽이 훔친다." 헤이그: 자기가 만든 문제를 얻고.
+Jip: En de rest?
+나머지는요?
+Femke: (schrijft) De concurrent. (stilte) Iemand die dezelfde chips kan maken. En die nu, met een tekort in heel Europa, elke prijs kan vragen.
+(적으며) 경쟁사. (침묵) 같은 칩을 만들 수 있는 누군가. 그리고 이제 유럽 전체에 칩이 부족하니 어떤 가격이든 부를 수 있는 누군가.
+Lucas: Een concurrent die een rapport bestelt? Is dat niet te… filmisch?
+보고서를 주문하는 경쟁사요? 그건 너무… 영화 같지 않아요?
+Femke: (kijkt hem aan) In mijn vorige werk zag ik bedrijven die concurrenten lieten volgen. Telefoons lieten afluisteren. Werknemers lieten omkopen. (stilte) Een rapport is het nette deel.
+(그를 바라보며) 내 예전 직장에서 경쟁사를 미행시키는 기업들을 봤어. 전화를 도청시키고. 직원을 매수시키고. (침묵) 보고서는 그중 깔끔한 부분이야.
+Lucas: (stil) Je vorige werk.
+(조용히) 예전 직장이라.
+Noor: (typt al) Wie maakt dezelfde chips? (stilte) Drie bedrijven. Een Duits. Een Frans. En… (ze stopt) …een Nederlands. In Hengelo. "Twentech Microsystems." Vorig jaar overgenomen.
+(벌써 입력하며) 같은 칩을 누가 만들지? (침묵) 세 곳이요. 독일 회사 하나. 프랑스 회사 하나. 그리고… (멈춘다) …네덜란드 회사 하나. 헹엘로에 있어요. "트벤테크 마이크로시스템스." 작년에 인수됐어요.
+Bram: Door wie?
+누가 인수했는데?
+Noor: (scrolt; dan, heel langzaam) Door een consortium. Met een Amerikaans fonds. En een Nederlandse investeringsmaatschappij. (stilte) Het is niet Polder Capital.
+(스크롤하다가 아주 천천히) 컨소시엄이요. 미국 펀드 하나랑. 네덜란드 투자 회사 하나요. (침묵) 폴더르 캐피털은 아니에요.
+Bram: (een seconde opluchting; dan) Welke?
+(1초간 안도했다가) 어디야?
+Noor: "Van Rossem Holding." Den Haag. (stilte) De eigenaar zit in de raad van toezicht van… (ze leest) …het Persmuseum.
+"판 로설 홀딩." 헤이그요. (침묵) 소유주가 감독 이사회에 앉아 있네요… (읽으며) …언론 박물관이요.
+Femke: (legt de stift neer; heel zacht) Het Persmuseum.
+(마커를 내려놓으며 아주 조용히) 언론 박물관이라.
+Bram: (stil) Waar Paul Hermans in zat. En Margreet.
+(조용히) 파울 헤르만스가 있던 곳. 그리고 마르흐레이트도.
+Noor: Ik zeg niks. (stilte) Het is een raad van toezicht met twaalf mensen. Het Persmuseum is geen geheim genootschap.
+전 아무 말도 안 해요. (침묵) 열두 명짜리 감독 이사회예요. 언론 박물관이 비밀 결사는 아니잖아요.
+Femke: Nee. (stilte) Het is een plek waar mensen koffie drinken. Zei iemand.
+아니지. (침묵) 사람들이 커피 마시는 곳이지. 누가 그러더라.
+Ruys: (vrijdagochtend, aan de telefoon) Meneer Hoekstra. Het embargo is opgeheven. U mag publiceren. (stilte) De minister heeft gisteravond met Peking gebeld. Er komen "gesprekken". Ondertussen leveren wij aan niemand.
+(금요일 아침, 전화로) 후크스트라 씨. 엠바고 해제합니다. 보도하셔도 됩니다. (침묵) 장관이 어젯밤 베이징이랑 통화했어요. "대화"가 있을 거래요. 그동안 저흰 아무 데도 납품을 못 하고요.
+Bram: Hoe gaat het met mevrouw Yilmaz' schrift?
+일마즈 씨 공책은 어떻게 됐어요?
+Ruys: (lacht voor het eerst) Gekopieerd. Gescand. In een kluis. Met haar naam erop. (stilte) Ze heeft het origineel terug. Ze schrijft er alweer in.
+(처음으로 웃으며) 복사했어요. 스캔했고요. 금고에 넣었어요. 그분 이름을 붙여서요. (침묵) 원본은 돌려드렸어요. 벌써 다시 쓰고 계시더라고요.
+Bram: En meneer Zhang?
+그럼 장 사장님은요?
+Ruys: (stilte) Hij zit nu naast mij. Zonder lege stoel. (stilte) Hij zegt dat zijn dochter vraagt of jullie het artikel eerst naar haar willen sturen. Ze wil weten of haar vader de slechterik is.
+(침묵) 지금 제 옆에 앉아 있어요. 빈 의자 없이요. (침묵) 그분 딸이 기사를 먼저 자기한테 보내 줄 수 있냐고 물었대요. 아빠가 나쁜 사람인지 알고 싶대요.
+Bram: Zeg haar dat er in dit verhaal geen slechterik in Nijmegen woont.
+이 이야기에선 나쁜 사람이 네이메헌에 살지 않는다고 전해 주세요.
+Ruys: (stilte; dan zachter) Dat zal ze fijn vinden. (stilte) En meneer Hoekstra? Mevrouw Yilmaz heeft gevraagd of haar naam in het stuk mag. Met haar lijnnummer. "Lijn twee," zei ze. "Dat ze in Den Haag weten waar ik sta."
+(침묵; 그리고 더 조용히) 좋아하겠네요. (침묵) 그리고 후크스트라 씨? 일마즈 씨가 기사에 자기 이름을 넣어 달래요. 라인 번호랑 같이요. "2번 라인." 그러더군요. "내가 어디 서 있는지 헤이그가 알게."
+Bram: Lijn twee. Komt erin.
+2번 라인. 넣을게요.
+Ruys: Waar dan wel?
+그럼 어디 사는데요?
+Bram: (kijkt naar het whiteboard, waar nog steeds staat: "Van Rossem Holding — Den Haag") Dat weet ik nog niet.
+(아직도 "판 로설 홀딩 — 헤이그"라고 적혀 있는 화이트보드를 바라보며) 그건 아직 모르겠어요.
+Femke: [Signal] Nummer 43. Ik zet niets op papier. Alleen dit: Persmuseum. Hermans. M. Van Rossem.
+[시그널] 43번. 아무것도 종이에 안 적을게. 이것만: 언론 박물관. 헤르만스. M. 판 로설.
+Bram: [Signal] Dat is geen lek. Dat is een lijst van mensen die op dezelfde vergaderingen zaten.
+[시그널] 그건 누설이 아니야. 같은 회의에 앉아 있던 사람들 명단이지.
+Femke: [Signal] Precies. (stilte) En toch kwam de tip over Li Wei van haar. En Li Wei staat op pagina zevenendertig. Van een rapport dat een fabriek kapotmaakte. Waar een concurrent van profiteert. Van iemand uit dezelfde raad.
+[시그널] 바로 그거야. (침묵) 그런데도 리웨이 제보는 그녀한테서 왔지. 그리고 리웨이는 37쪽에 있고. 공장 하나를 망가뜨린 보고서의. 같은 이사회 사람이 이득을 보는.
+Bram: [Signal] Ook al is dat waar, het bewijst niks.
+[시그널] 설령 그게 사실이라도, 아무것도 증명하지 못해.
+Femke: [Signal] Ook al bewijst het niks, het is waar.
+[시그널] 설령 아무것도 증명하지 못해도, 그건 사실이야.
+Lucas: (vrijdagmiddag, bij Bram's bureau, zacht) Bram. Mijn bron. Die ik niet mocht bellen. (stilte) Hij zegt dat Brugwachter al een jaar "in beeld" is. Bij de politie. Bij de FIOD. Maar niemand durft het aan. Te veel oud-collega's.
+(금요일 오후, 브람 책상 옆에서 조용히) 브람. 제 취재원이요. 전화하면 안 되는 사람. (침묵) 브뤼흐바흐터가 1년째 "주시 대상"이래요. 경찰에서도. FIOD에서도. 그런데 아무도 손을 못 댄대요. 옛 동료가 너무 많아서요.
+Bram: (kijkt op) Oud-collega's. Je bron is politie.
+(고개를 들며) 옛 동료라. 네 취재원은 경찰이구나.
+Lucas: (stilte) Ik zei het al. Iemand die jij niet zou willen dat ik bel.
+(침묵) 말씀드렸잖아요. 선배가 제가 전화하길 원하지 않을 사람이라고요.
+Bram: (heel stil) Lucas. Is het Erik?
+(아주 조용히) 뤼카스. 에릭이야?
+Lucas: (kijkt hem lang aan; dan draait hij zich om) Als het klaar is. Beloofd.
+(그를 오래 바라보다가 돌아선다) 다 되면요. 약속했잖아요.
+Femke: [Signal] Lucas belt een politiebron. Tegen jouw regel. Al weken.
+[시그널] 뤼카스가 경찰 취재원한테 전화하고 있어. 네 규칙을 어기고. 몇 주째.
+Bram: [Signal] Hij vertelde het me zelf. Dat doet een mol niet.
+[시그널] 자기 입으로 나한테 말했어. 첩자는 그런 짓 안 해.
+Femke: [Signal] Een slimme mol wel. (stilte) Maar ik denk het ook niet. Ik denk dat hij een jongen is die zijn eigen regels maakt. Net als jij vroeger.
+[시그널] 똑똑한 첩자라면 해. (침묵) 그래도 나도 아니라고 생각해. 자기 규칙을 만드는 녀석이라고 생각해. 옛날의 너처럼.
+Bram: [Signal] Schrijf hem niet op.
+[시그널] 걔는 적지 마.
+Femke: [Signal] Ik schrijf iedereen op. Ook jou.
+[시그널] 난 모두를 적어. 너도.
+Hanna: [SMS] (een prepaid-nummer) Ik las uw stuk. Over het schrift. Wei heeft het ook gelezen. Hij zegt: "Eindelijk iemand die niet over mij schrijft." Hij komt maandag weer naar het lab.
+[SMS] (선불폰 번호) 기사 읽었어요. 공책 얘기요. 웨이도 읽었어요. 그러더라고요: "드디어 나에 대해 안 쓰는 사람이 있네." 월요일에 다시 연구실에 나온대요.
+Bram: [SMS] Zeg hem dat er een kaasboer is die hem een stuk belegen schuldig is. Van mij.
+[SMS] 치즈 장수가 그한테 중간 숙성 치즈 한 덩이를 빚졌다고 전해 주세요. 제가 사는 거예요.
+Lieke: [Bericht] (vrijdagavond) Papa! Je stuk staat op de site. Met de mevrouw met het schrift. Mama zegt dat ze net als oma is. Oma schrijft ook alles op.
+[메시지] (금요일 저녁) 아빠! 아빠 기사 사이트에 올라왔어. 공책 든 아줌마랑. 엄마가 그 아줌마 할머니랑 똑같대. 할머니도 다 적어 두시잖아.
+Bram: [Bericht] Alle boeren en alle operators schrijven alles op. Anders gelooft niemand ze.
+[메시지] 농부들이랑 오퍼레이터들은 다 적어 둬. 안 그러면 아무도 안 믿어 주거든.
+Lieke: [Bericht] En journalisten?
+[메시지] 기자들은?
+Bram: [Bericht] Journalisten schrijven alles op, en dan gelooft nog steeds niemand ze. 🙂
+[메시지] 기자들은 다 적어 두는데도 여전히 아무도 안 믿어. 🙂
+
+## 주요 단어
+de directie | 더 디렉시 | 경영진
+de IT-ruimte | 더 이테이라위머 | IT실, 서버실
+afsluiten | 아프슬라위턴 | 차단하다, 잠그다
+het ERP | 헷 에이에르페이 | 전사적 자원 관리 시스템
+de melding | 더 멜딩 | 경고, 알림
+de stekker | 더 스테커르 | 전기 플러그
+het embargo | 헷 엠바르호 | 보도 유예, 엠바고
+het logbestand | 헷 로흐버스탄트 | 로그 파일
+het schrift | 헷 스흐리프트 | 공책
+de assemblagefabriek | 더 아상블라저파브리크 | 조립 공장
+erkennen | 에르케넌 | 인정하다, 승인하다
+de breuk | 더 브뢰크 | 결별, 단절
+in hetzelfde schuitje zitten | 인 헷젤프더 스하위처 시턴 | 같은 배를 타다
+opschorten | 옵스호르턴 | 중단하다, 보류하다
+het tekort | 헷 터코르트 | 부족, 결핍
+stilleggen | 스틸레헌 | (생산을) 세우다, 중단하다
+de toeleverancier | 더 투레퍼란시르 | 부품 공급업체
+de inkoper | 더 인코퍼르 | 구매 담당자
+de concurrent | 더 콩퀴렌트 | 경쟁사, 경쟁자
+het consortium | 헷 콘소르시윔 | 컨소시엄
+
+## 문법·표현 정리
+**De systemen zijn afgesloten(시스템이 차단됐다):** zijn + 과거분사 = 상태 수동태(결과 상태). worden afgesloten(차단되는 중)과 구분합니다.
+**Zij erkennen ons niet(그쪽이 우리를 인정하지 않는다):** erkennen = (공식적으로) 인정하다. een staat erkennen(국가를 승인하다). herkennen(알아보다)과 혼동 주의!
+**Dit is een breuk(이건 결별이다):** breuk = 깨짐, 골절, 단절. een breuk met het verleden(과거와의 단절).
+**Ook al had ik het geweten, had ik het niet kunnen tegenhouden — ook al(설령 ~라도):** 과거 비현실 양보. ook al + had + 과거분사, 주절은 도치(had ik…). 3화의 hoewel보다 가정의 느낌이 강합니다.
+**Ook al is dat waar, het bewijst niks:** ook al절 뒤 주절이 도치되지 않는 구어형도 자주 씁니다. 펨커는 순서를 뒤집어 반박합니다.
+**Het is alsof iemand de stekker uit ons huis trekt(누가 우리 집 플러그를 뽑는 것 같다):** het is alsof + 절 = 마치 ~인 것 같다. de stekker eruit trekken = (사업 등을) 중단시키다.
+**in hetzelfde schuitje zitten(같은 배를 타다):** schuit(작은 배) + -je. 운명을 같이하는 처지. 장의 대답 "키 없는 배"로 이어집니다.
+**Computers vergeten. Papier niet.(컴퓨터는 잊고, 종이는 안 잊는다):** 생략 구문. Papier vergeet niet.의 동사 생략.
+**Ik lach niet meer(이제 안 놀려):** uitlachen(비웃다) / lachen om(~을 보고 웃다). Dirk lacht me erom uit.
+**U publiceert pas als ik het zeg — pas als(~할 때가 돼서야):** pas = 비로소. Ik kom pas als je belt.(네가 전화해야 갈게)
+**Als u liegt, vervalt het embargo:** vervallen = 무효가 되다(3부 15화 De termijn vervalt). 조건 + 현재형.
+**Wie heeft hier iets aan?(이걸로 누가 이득을 보지?):** iets aan iets hebben(1부·4부 반복 표현). Cui bono?의 네덜란드식 질문.
+**met twee handen(두 손으로):** 소중한 것을 받는 태도를 나타내는 지문. iets met beide handen aangrijpen = (기회를) 두 손으로 붙잡다.
+**Waar dan wel?(그럼 어디인데요?):** 부정문 뒤 wel로 대조. Niet hier. — Waar dan wel?(여기 아니면 — 그럼 어디?)
+
+## 취재 노트
+네덜란드 정부가 중국계 소유 반도체 기업에 개입한 뒤, 중국 측 모회사와 현지 자회사가 네덜란드 경영진의 지시를 거부하고 사실상 독립을 선언하는 일이 일어났다. 이 과정에서 IT 시스템 분리, 중국 공장에서의 출하 중단이 이어졌고, 자동차용 범용 칩 공급이 막히면서 유럽 자동차 업계가 생산 차질을 경고했다. 정부 간 대화로 일부 수출이 재개되기도 했다.
+이 화의 켐펀 둥관, 황웨이, 라비, 파트마의 공책, 트벤테크 마이크로시스템스, 판 로설 홀딩은 모두 가상이다.
