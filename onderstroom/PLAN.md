@@ -385,7 +385,7 @@ Margreet의 마지막 변명(7부 10화): **"Ik heb deze krant overeind gehouden
 | 3부 Gif | **완료** (15화 × 150턴) | `onderstroom/part3/ep01.txt` … `ep15.txt` → `part3/part3-gif.docx` (집필 중 시간대가 2027년 6~8월로 이동 → 4부는 9~10월부터) |
 | 4부 Silicium | **완료** (15화 × 150턴) | `onderstroom/part4/ep01.txt` … `ep15.txt` → `part4/part4-silicium.docx` (시간대 2027년 9~12월 → 5부는 2028년 1~3월, 6부 4~6월, 7부 7~9월로 이동) |
 | 5부 Hybride | **완료** (15화 × 150턴) | `onderstroom/part5/ep01.txt` … `ep15.txt` → `part5/part5-hybride.docx` (안전상 4화 «De fontein»→«Het valse alarm», 14화 «Moskou of Amsterdam?»→«Wie schrijft de eerste zin?»로 교체, 6화는 잠입 윤리 중심으로 재작성) |
-| 6부 Stenen | 기획 완료 | `onderstroom/part6/` (예정) |
+| 6부 Stenen | **완료** (15화 × 150턴) | `onderstroom/part6/ep01.txt` … `ep15.txt` → `part6/part6-stenen.docx` (시간대 2028년 4~7월; 7부는 7~9월) |
 | 7부 Het Binnenhof | 기획 완료 | `onderstroom/part7/` (예정) |
 
 - 도구: `onderstroom/tools/check_ep.py`(150턴·단어 18~20·문법 12~15 점검), `onderstroom/tools/build_docx.py`(«🗞️ 취재 노트» 섹션 지원, 템플릿은 `../tools/template.docx`)

@@ -1,0 +1,352 @@
+# 6부 15화. Het netwerk (네트워크) 🧩
+수준: C1 | 장소: 편집국 전쟁실 — 벽 전체를 채운 지도(일요일 밤~월요일 새벽) → 편집장실 → 옥상 | 시간: 2028년 7월 첫째 주, 일요일 → 월요일
+핵심 표현: Alles hangt samen · Ik heb het alleen bij Erik gecheckt · Wie hebben we altijd gebeld?
+
+## 대화
+Jip: (zondagavond, in de oorlogskamer; de hele achterwand bedekt met papier, rode draden, foto's, adressen; hij staat op een stoel en prikt de laatste punaise) Klaar. Dit is alles. Vijf delen. Twee jaar.
+(일요일 저녁, 전쟁실; 뒷벽 전체가 종이, 빨간 실, 사진, 주소로 덮여 있다; 의자 위에 서서 마지막 압정을 꽂는다) 끝. 이게 전부예요. 다섯 부. 2년.
+Noor: (staat midden in de kamer, haar armen over elkaar) Begin links. Langzaam. Alsof we het voor het eerst zien.
+(방 한가운데서 팔짱을 끼고 선다) 왼쪽부터 시작해요. 천천히. 처음 보는 것처럼.
+Femke: Hoe lang heb je eraan gewerkt, Jip?
+얼마나 걸렸어, 집?
+Jip: Het hele weekend. Ik heb niet geslapen. (bijna verlegen) Mijn vriendin denkt dat ik gek ben geworden. Ze zei: "Jij maakt een muur zoals mensen in films die een seriemoordenaar zoeken."
+주말 내내요. 안 잤어요. (거의 수줍게) 여자 친구가 제가 미쳤대요. "영화에서 연쇄 살인범 찾는 사람처럼 벽을 만드네"라고 했어요.
+Bram: En wat zei jij?
+그래서 넌 뭐라고 했어?
+Jip: Dat het geen moordenaar is. Dat het een notaris is. (stil) Ze vond dat erger.
+살인범이 아니라 공증인이라고요. (침묵) 그게 더 나쁘대요.
+Jip: (springt van de stoel, wijst) Links: de haven. Witte Haven. Drugs, de uithalers, Keizer. Kadezicht Logistiek, Polderwind Trading. Hetzelfde adres op de Zuidas. Eén akte: Van Oosterhout.
+(의자에서 뛰어내려 가리킨다) 왼쪽: 항구. 비터 하번. 마약, 꺼내는 애들, 케이스. 카더지흐트 물류, 폴더르빈트 트레이딩. 자위다스의 같은 주소. 증서 하나: 판 오스터하우트.
+Femke: Dan het algoritme.
+그다음 알고리즘.
+Jip: Het algoritme. Het bureau dat de risicoscores bouwde. Opgericht met een stichting. Akte: Van Oosterhout. (volgt een rode draad) Dan het gif. De gifbelt, het bedrijf dat de grond kocht na de sanering. Akte: Van Oosterhout. Dan de chips. Brugwachter, de recruiters, de dekmantel. Stichting voor Vrij Nieuws NL. Akte: Van Oosterhout.
+알고리즘. 위험 점수를 만든 회사. 재단으로 설립. 증서: 판 오스터하우트. (빨간 실을 따라간다) 그다음 독. 독성 매립지, 정화 뒤 땅을 산 회사. 증서: 판 오스터하우트. 그다음 반도체. 브뤼흐바흐터, 리크루터들, 위장. «Vrij Nieuws NL» 재단. 증서: 판 오스터하우트.
+Noor: En nu de stenen. Oostkade, Maaskant, de tweehonderdvierenveertig huizen, Havenzorg, Kustlijn Bouw, Verbeek. Akte: Van Oosterhout.
+그리고 이제 벽돌. 오스트카더, 마스칸트, 집 244채, 하번조르흐, 쿠스틀레인 건설, 페르베이크. 증서: 판 오스터하우트.
+Femke: (wijst naar een klein kaartje in een hoek, met een foto van een open raam) En dit?
+(구석에 열린 창 사진이 붙은 작은 카드를 가리킨다) 그리고 이건?
+Jip: (zacht) Open Venster. Ik heb het klein gemaakt. In een hoek. (stil) Ik wist niet waar ik het moest hangen. Het hoort bij alles, en het hoort bij ons.
+(작게) 오픈 펜스터. 작게 만들었어요. 구석에. (침묵) 어디 붙여야 할지 몰랐어요. 전부에 속하고, 우리한테도 속하니까.
+Noor: Hang het in het midden.
+가운데 붙여.
+Jip: (kijkt naar Bram) Mag dat?
+(브람을 본다) 그래도 돼요?
+Bram: (een lange stilte) Laat het in de hoek. Voor nu.
+(긴 침묵) 구석에 둬. 지금은.
+Bram: (staat voor de muur, kijkt naar het midden, waar alle rode draden samenkomen bij één foto: een glazen toren aan de Zuidas) Alles hangt samen.
+(벽 앞에 서서, 모든 빨간 실이 한 장의 사진 — 자위다스의 유리 타워 — 으로 모이는 가운데를 본다) 전부 연결돼 있어.
+Femke: Alles hangt samen. Haven, algoritme, gif, chips, inlichtingen, huizen, schepen. Eén verdieping. Drieëntwintig.
+전부 연결돼 있어. 항구, 알고리즘, 독, 반도체, 정보, 집, 배. 층 하나. 23층.
+Jip: (wijst naar de rechterkant van de muur, waar een tweede, kleinere kaart hangt) En dit. Dit heb ik vanochtend gemaakt. Met Brams notitieboekjes. Met de redactieplanning van twee jaar. Met de belstaten van de redactietelefoons.
+(벽 오른쪽, 두 번째로 작은 지도를 가리킨다) 그리고 이거. 오늘 아침에 만들었어요. 브람의 수첩들이랑. 2년 치 편집 일정표랑. 편집국 전화 통화 기록이랑.
+Noor: Wat is het?
+뭐예요?
+Jip: Een tijdlijn van elke keer dat de overkant iets te vroeg wist. Elk "lek." (wijst) Deel één: de dag voor Keizer werd neergeschoten, wist iemand dat hij met Bram ging praten. Deel twee: de ochtend dat we bij het algoritmebureau zouden aanbellen, was de server leeg. Deel drie: de nacht voor de grondmonsters werd het hek vervangen. Deel vier: de recruiter wist van de undercover. Deel vijf: Zwolle.
+건너편이 뭔가를 너무 일찍 안 모든 순간의 연대표요. 모든 "유출." (가리킨다) 1부: 케이스가 총 맞기 전날, 누가 그가 브람이랑 얘기할 거라는 걸 알았어요. 2부: 우리가 알고리즘 회사 초인종을 누르기로 한 아침, 서버가 비어 있었어요. 3부: 토양 시료 채취 전날 밤, 펜스가 교체됐어요. 4부: 리크루터가 잠입을 알았어요. 5부: 즈볼러.
+Femke: Vijf lekken. Vijf delen.
+유출 다섯. 다섯 부.
+Noor: Wacht. Keizer. Dat was geen lek, dat was... (stopt) Hij werd neergeschoten de dag nadat hij Bram belde om te zeggen dat hij iets had.
+잠깐. 케이스. 그건 유출이 아니라... (멈춘다) 브람한테 뭔가 있다고 전화한 다음 날 총 맞았잖아요.
+Bram: (heel zacht) De dag nadat hij mij belde. En ik... (stil) Ik heb die avond Erik gebeld. Om te vragen of Keizer veilig was. Of de politie iets wist.
+(아주 작게) 나한테 전화한 다음 날. 그리고 난... (침묵) 그날 저녁 에릭한테 전화했어. 케이스가 안전한지. 경찰이 뭘 아는지.
+Femke: (kijkt hem aan) Wie wist nog dat Keizer je die dag belde?
+(그를 본다) 그날 케이스가 너한테 전화한 걸 또 누가 알았어?
+Bram: (zijn ogen dicht) Ik weet het niet meer. Het is twee jaar geleden. Ik vertelde het... aan wie ik het altijd vertel.
+(눈을 감고) 기억 안 나. 2년 전이야. 난 그걸... 늘 말하는 사람한테 말했지.
+Femke: (heel zacht) Aan wie vertel je het altijd?
+(아주 작게) 늘 누구한테 말하는데?
+Bram: (opent zijn ogen, kijkt naar de muur) Aan Erik.
+(눈을 뜨고 벽을 본다) 에릭한테.
+Jip: (zijn stem wordt zachter) En onder elk lek heb ik gezet wat er in de twee dagen daarvoor gebeurde. Wie wie belde. (stil) Ik wilde het eigenlijk niet zien.
+(목소리가 작아진다) 그리고 유출마다 그 이틀 전에 무슨 일이 있었는지 아래에 적었어요. 누가 누구한테 전화했는지. (침묵) 사실 보고 싶지 않았어요.
+Bram: (langzaam) Wat staat er?
+(천천히) 뭐라고 써 있어?
+Jip: (leest, punt voor punt) Deel één: Bram belt Erik om te checken of Keizers informatie klopt. Deel twee: Noor belt Erik om te checken of de politie al naar het bureau keek. Deel drie: Bram belt Erik over de grondmonsters. Deel vier: Lucas belt Erik over de recruiter. Deel vijf: Lucas belt Erik, woensdag, over de montage. En Zwolle.
+(한 항목씩 읽는다) 1부: 브람이 케이스 정보가 맞는지 에릭한테 확인 전화. 2부: 노르가 경찰이 이미 그 회사를 보는지 에릭한테 확인 전화. 3부: 브람이 토양 시료 건으로 에릭한테 전화. 4부: 뤼카스가 리크루터 건으로 에릭한테 전화. 5부: 뤼카스가 수요일에 편집 건으로 에릭한테 전화. 그리고 즈볼러.
+Noor: (heel stil) Elke keer. Erik.
+(아주 조용히) 매번. 에릭.
+Jip: Elke keer. Twee dagen voor het lek. (stil) En gisteren nog een. Bram, dinsdag vier uur. Over Kustlijn. En donderdag wist de notaris het.
+매번. 유출 이틀 전에. (침묵) 그리고 어제 하나 더. 브람, 화요일 네 시. 쿠스틀레인 건으로. 그리고 목요일에 공증인이 알았고요.
+Bram: (staat heel stil voor de muur) Zes keer.
+(벽 앞에 아주 가만히 서 있다) 여섯 번.
+Lucas: (de deur van de oorlogskamer gaat open; hij staat in de deuropening, zijn pet in zijn hand; voor het eerst sinds maart op de redactie) Mag ik binnenkomen?
+(전쟁실 문이 열린다; 모자를 손에 들고 문간에 서 있다; 3월 이후 처음으로 편집국에) 들어가도 돼요?
+Noor: (rent naar hem toe, omhelst hem) Lucas.
+(그에게 달려가 안는다) 뤼카스.
+Lucas: (houdt haar vast, kijkt over haar schouder naar de muur) Ik zie dat jullie het ook hebben gezien.
+(그녀를 안은 채 어깨 너머로 벽을 본다) 다들 그것도 본 것 같네요.
+Bram: (zonder zich om te draaien) Je briefje. "Ik moet je iets vertellen over Erik." Vertel het. Hier. Voor iedereen.
+(돌아서지 않고) 네 쪽지. "에릭에 대해 할 말이 있어요." 말해. 여기서. 모두 앞에서.
+Lucas: (komt binnen, gaat voor de muur staan, naast Bram) Twee dingen. Eén: in maart, toen jullie zeiden "alleen Lucas wist dit," wist ik zelf niet hoe het kon. Ik heb er drie maanden over nagedacht. Op mijn bank. (stil) Ik heb de details van Zwolle nooit aan iemand gegeven. Behalve één keer, terloops, aan één persoon. Ik heb het alleen bij Erik gecheckt.
+(들어와서 브람 옆, 벽 앞에 선다) 두 가지요. 하나: 3월에 다들 "뤼카스만 알았다"고 했을 때, 저도 어떻게 된 건지 몰랐어요. 석 달을 생각했어요. 소파에서. (침묵) 즈볼러 세부는 누구한테도 준 적 없어요. 딱 한 번, 지나가듯, 한 사람한테 말고는. 에릭한테만 확인했어요.
+Jip: (zacht) Ik heb het alleen bij Erik gecheckt.
+(작게) 에릭한테만 확인했다.
+Lucas: Ik vond het niet eens doorgeven. Het was checken. Iedereen checkt bij Erik. (kijkt de kamer rond) Toch?
+그건 넘기는 거라고 생각도 안 했어요. 확인이었죠. 다들 에릭한테 확인하잖아요. (방을 둘러본다) 그렇죠?
+Noor: (zacht) Ik ook. In deel twee. Ik belde hem over het algoritmebureau. Ik dacht dat ik slim was.
+(작게) 저도요. 2부에서. 알고리즘 회사 건으로 전화했어요. 영리한 줄 알았어요.
+Jip: En ik. Twee keer. Over schepen die hun signaal uitzetten. Hij wist altijd meer dan ik. Dat voelde als hulp.
+그리고 저도. 두 번. 신호 끈 배들 건으로. 그 사람은 늘 저보다 많이 알았어요. 그게 도움처럼 느껴졌죠.
+Bram: (heel zacht) Wie hebben we altijd gebeld?
+(아주 작게) 우린 늘 누구한테 전화했지?
+Noor: (fluistert) Erik.
+(속삭인다) 에릭.
+Bram: Wie hebben we altijd gebeld om te checken? Twintig jaar. Bij elk verhaal. Voor elke stap.
+확인하려고 늘 누구한테 전화했지? 20년 동안. 기사마다. 걸음마다.
+Femke: (heel rustig) Erik. (stil) Of degene die ons zei dat we Erik moesten bellen.
+(아주 차분하게) 에릭. (침묵) 아니면 우리한테 에릭한테 전화하라고 한 사람.
+Bram: (draait zich om naar haar) Wat?
+(그녀 쪽으로 돌아선다) 뭐?
+Femke: Niets. Ik zeg het alleen hardop. Zoals ik beloofde. (stil) Lucas, wat is het tweede ding?
+아무것도. 소리 내서 말하는 것뿐이야. 약속한 대로. (침묵) 뤼카스, 두 번째는 뭐야?
+Lucas: (haalt een kopie uit zijn jaszak, legt het op tafel) Het garageregister van Delta Trust. Iemand van de schoonmaak gaf het me. Ze kende me van het schip; haar zus woont in hut 220. (wijst) Dertien maart. De grijze leaseauto. Opgehaald om 17:40. Teruggebracht de volgende dag om 22:10. Handtekening: "E. Veenstra."
+(재킷 주머니에서 사본을 꺼내 탁자에 놓는다) 델타 트러스트 차고 기록부요. 청소하는 분이 줬어요. 배에서 절 알았대요. 언니가 220호 선실에 살거든요. (가리킨다) 3월 13일. 회색 리스 차. 17시 40분 반출. 다음 날 22시 10분 반납. 서명: "E. 페인스트라."
+Noor: (verstijft) Dertien maart. De dag voor Zwolle.
+(굳는다) 3월 13일. 즈볼러 전날.
+Jip: (staart naar de handtekening) Erik haalde de auto op waarmee de man naar Zwolle reed.
+(서명을 응시한다) 에릭이 즈볼러로 간 남자가 탄 차를 가져갔어요.
+Bram: (gaat zitten, langzaam, alsof zijn knieën het opgeven) Erik.
+(무릎이 풀린 것처럼 천천히 앉는다) 에릭.
+Lucas: Het spijt me, Bram. Ik wilde dat het iemand anders was. Echt. Ik ken hem ook. Hij haalde mij binnen. (stil) Maar het staat er.
+미안해요, 브람. 다른 누구이길 바랐어요. 정말로. 저도 그 사람 알아요. 절 데려온 사람이잖아요. (침묵) 그런데 써 있어요.
+Noor: Lucas — waarom heb je dit niet in maart gevonden? Toen het je had kunnen redden?
+뤼카스 — 왜 이걸 3월에 못 찾았어요? 당신을 구할 수 있었을 때?
+Lucas: Omdat ik in maart niet wist dat het een auto was. Ik wist alleen dat er een man in Zwolle stond. Pas toen ik in juni het kenteken bij het leasebedrijf liet natrekken, wist ik waar ik moest zoeken. (stil) Drie maanden op een bank. Dan ga je dingen natrekken die niemand anders natrekt.
+3월엔 그게 차라는 걸 몰랐으니까요. 즈볼러에 남자가 서 있었다는 것만 알았죠. 6월에 리스 회사에서 번호판을 추적하게 하고 나서야 어디를 찾을지 알았어요. (침묵) 소파에서 석 달. 그럼 아무도 안 쫓는 걸 쫓게 돼요.
+Femke: (pakt het papier, kijkt er lang naar; dan, rustig) Het staat er. Op een kopie. Van een register dat iedereen met een pen kan invullen. (stil) Waarom zou een rechercheur van de CIE een auto ophalen bij een trustkantoor en zijn eigen naam opschrijven?
+(종이를 집어 오래 본다; 그런 뒤 차분하게) 써 있지. 사본에. 펜 든 사람이면 누구나 채울 수 있는 기록부의. (침묵) 범죄정보팀 수사관이 왜 신탁 사무소에서 차를 가져가면서 자기 이름을 적겠어?
+Jip: Omdat hij arrogant is. Omdat hij denkt dat niemand het register leest.
+오만하니까요. 아무도 기록부를 안 읽는다고 생각하니까요.
+Femke: Of omdat iemand anders zijn naam opschreef. Of omdat hij er was voor een ander onderzoek. Undercover. Of... (stopt) Drie mogelijkheden. Minstens.
+아니면 다른 누가 그 이름을 적었거나. 아니면 다른 수사 때문에 거기 있었거나. 잠입으로. 아니면... (멈춘다) 가능성 셋. 최소한.
+Noor: (zacht) Femke. Zes keer. Zes lekken. Zes telefoontjes naar Erik. En nu zijn handtekening. Hoeveel mogelijkheden heb je nog nodig?
+(작게) 펨커. 여섯 번. 유출 여섯. 에릭한테 건 전화 여섯. 그리고 이제 그 사람 서명. 가능성이 몇 개나 더 필요해요?
+Femke: (een stilte; dan, heel zacht) Eén. Die we nog niet hebben bekeken. (kijkt naar Bram) Bram. Wie zei, elke keer, voordat we Erik belden, dat we Erik moesten bellen?
+(침묵; 그런 뒤 아주 작게) 하나. 아직 안 본 거. (브람을 본다) 브람. 우리가 에릭한테 전화하기 전에, 매번, 에릭한테 전화하라고 한 게 누구였어?
+Bram: (kijkt op; een lange stilte; in zijn ogen beweegt iets, en dan sluit het zich) Niemand. Het was gewoon wat we deden. Het was de regel.
+(고개를 든다; 긴 침묵; 눈 속에서 뭔가 움직이다가 닫힌다) 아무도. 그냥 우리가 하던 거였어. 규칙이었지.
+Femke: Wiens regel?
+누구의 규칙?
+Margreet: (in de deuropening; ze is binnengekomen zonder dat iemand het hoorde, haar jas aan, haar sleutels in haar hand) Wat is hier aan de hand? Het is zondagavond, elf uur. Ik zag licht.
+(문간에; 아무도 못 들은 사이 들어왔다, 외투를 입고 손에 열쇠를 든 채) 여기 무슨 일이야? 일요일 밤 열한 시야. 불이 켜져 있길래.
+Noor: (draait zich om) Margreet.
+(돌아선다) 마르흐레이트.
+Margreet: (ziet de muur; ziet Lucas; een korte stilte) Lucas. (zacht) Welkom terug. (kijkt naar de tijdlijn, leest; haar gezicht blijft rustig) Wat is dit?
+(벽을 본다; 뤼카스를 본다; 짧은 침묵) 뤼카스. (작게) 돌아온 걸 환영해. (연대표를 보고 읽는다; 얼굴이 차분한 채로) 이게 뭐야?
+Jip: Elk lek, in twee jaar. En wie er twee dagen daarvoor gebeld werd. (stil) Elke keer Erik.
+2년 동안의 모든 유출. 그리고 그 이틀 전에 누가 전화를 받았는지. (침묵) 매번 에릭.
+Lucas: (legt het garageregister voor haar neer) En dit. Dertien maart. De auto naar Zwolle. Zijn handtekening.
+(차고 기록부를 그녀 앞에 놓는다) 그리고 이거. 3월 13일. 즈볼러로 간 차. 그 사람 서명.
+Margreet: (leest; zet haar tas neer, heel langzaam; een lange stilte) Erik.
+(읽는다; 아주 천천히 가방을 내려놓는다; 긴 침묵) 에릭.
+Margreet: (kijkt naar de tijdlijn, punt voor punt; haar lippen bewegen alsof ze telt) Deel één. Deel twee. Deel drie... (stil) Zes keer.
+(연대표를 한 항목씩 본다; 세는 것처럼 입술이 움직인다) 1부. 2부. 3부... (침묵) 여섯 번.
+Jip: Zes keer. Twee dagen ervoor.
+여섯 번. 이틀 전에.
+Margreet: (gaat langzaam zitten) Ik heb dit niet gezien. Twintig jaar. (stil) Ik heb het niet willen zien.
+(천천히 앉는다) 이걸 못 봤어. 20년. (침묵) 보고 싶지 않았던 거야.
+Bram: (zijn stem nauwelijks hoorbaar) Twintig jaar.
+(거의 들리지 않는 목소리로) 20년.
+Margreet: (gaat naast hem zitten, legt een hand op zijn arm) Bram. Ik weet wat dit met je doet. Hij was ook mijn vriend. (stil) Maar kijk naar de muur. Zes keer. Zijn naam. De auto. Kijk ernaar zoals je naar alles kijkt. Met je verstand, niet met je hart.
+(그 옆에 앉아 그의 팔에 손을 얹는다) 브람. 이게 너한테 어떤 건지 알아. 내 친구이기도 했어. (침묵) 그런데 벽을 봐. 여섯 번. 그 사람 이름. 그 차. 네가 모든 걸 보듯이 봐. 마음이 아니라 머리로.
+Femke: (heel rustig, vanaf de andere kant van de kamer) Mag ik iets vragen, Margreet?
+(방 반대편에서 아주 차분하게) 하나 물어도 돼요, 마르흐레이트?
+Margreet: (kijkt op) Natuurlijk.
+(고개를 든다) 물론.
+Femke: Jij spreekt Erik elke week, zei je zaterdag. Twintig jaar. Wist jij van de kanarieval, in maart? Heb je het hem verteld? Om advies te vragen?
+토요일에 매주 에릭이랑 얘기한다고 했죠. 20년. 3월에 카나리아 트랩을 알았잖아요. 그 사람한테 말했어요? 조언을 구하려고?
+Margreet: (zonder te aarzelen) Ja. (stil) Natuurlijk heb ik het hem verteld. Ik vroeg hem of het juridisch kon, een val voor je eigen redactie. Hij is politie. Hij weet hoe dat werkt. (kijkt naar Bram) Ik vroeg het voor ons, Bram. Om je te beschermen. En hij... (haar stem breekt, heel even) ...hij gebruikte het.
+(망설임 없이) 응. (침묵) 당연히 말했지. 자기 편집국에 함정을 놓는 게 법적으로 괜찮은지 물었어. 경찰이잖아. 그런 게 어떻게 돌아가는지 알아. (브람을 본다) 우리를 위해 물었던 거야, 브람. 널 지키려고. 그런데 그 사람이... (목소리가 아주 잠깐 갈라진다) ...그걸 이용했어.
+Noor: (fluistert) Dus Erik wist van de val. Via jou.
+(속삭인다) 그럼 에릭은 함정을 알았네요. 당신을 통해.
+Margreet: Via mij. (tranen in haar ogen, echt of niet echt) Ik heb het hem zelf gegeven. Dat zal ik mezelf nooit vergeven. (stil) Ik was degene die zei "Heb je het al bij Erik gecheckt?" Twintig jaar lang. Ik dacht dat hij ons beschermde.
+나를 통해서. (눈에 눈물, 진짜인지 아닌지) 내가 직접 줬어. 절대 나 자신을 용서 못 할 거야. (침묵) "에릭한테 확인은 했어?"라고 한 게 나였어. 20년 동안. 그 사람이 우릴 지켜 주는 줄 알았어.
+Femke: (heel stil; kijkt haar lang aan) Jij zei het. Twintig jaar.
+(아주 조용히; 그녀를 오래 본다) 당신이 말했죠. 20년 동안.
+Margreet: (veegt haar ogen; staat op; haar stem wordt vast) En daarom moet ik het nu ook zeggen. Als hoofdredacteur. Dan weten we genoeg. Erik eruit.
+(눈을 훔치고 일어선다; 목소리가 단단해진다) 그래서 이제 내가 말해야 해. 편집장으로서. 그럼 충분히 알았어. 에릭은 끝이야.
+Femke: (rustig) Is dat niet te snel? Gisteren noemde de notaris Eriks naam drie keer. Vandaag hangt hij aan onze muur. Wie wil dat we vandaag naar Erik kijken?
+(차분하게) 너무 빠르지 않아요? 어제 공증인이 에릭 이름을 세 번 댔어요. 오늘 그 이름이 우리 벽에 걸려 있고요. 누가 우리가 오늘 에릭을 보길 원하죠?
+Margreet: (kijkt haar aan, koel) Femke. Je wilde in maart ook niet dat het Lucas was. En je had gelijk. Nu is het niet Lucas. Nu is het iemand met een handtekening in een register en zes telefoontjes. Wat moeten we nog meer hebben? Een bekentenis van Erik zelf?
+(그녀를 본다, 차갑게) 펨커. 3월에도 뤼카스이길 원하지 않았지. 그리고 네가 맞았어. 이젠 뤼카스가 아냐. 이젠 기록부에 서명이 있고 전화가 여섯 번인 사람이야. 뭘 더 가져야 해? 에릭 본인의 자백?
+Femke: (zacht) Dat zou een begin zijn.
+(작게) 그게 시작은 되겠죠.
+Margreet: (draait zich naar Bram) Bram. Jij beslist. Je kent hem het langst. Wat zeg jij?
+(브람 쪽으로 돌아선다) 브람. 네가 결정해. 네가 제일 오래 알았잖아. 넌 뭐라고 해?
+Bram: (kijkt van Femke naar Margreet, naar de muur, naar zijn eigen handen; een heel lange stilte) Zes keer. Zijn naam. (stil) Erik eruit.
+(펨커에서 마르흐레이트로, 벽으로, 자기 손으로 시선을 옮긴다; 아주 긴 침묵) 여섯 번. 그 사람 이름. (침묵) 에릭은 끝.
+Jip: Erik eruit.
+에릭은 끝.
+Margreet: Geen contact meer. Niemand belt hem nog. Geen enkel verhaal gaat nog langs hem. Morgen meld ik het bij de Rijksrecherche. Een politieman die informatie van een redactie doorverkoopt aan een notaris, hoort niet bij de politie. (kijkt naar Lucas) En Lucas — morgen staat je naam weer op het rooster. Met excuses. Van mij persoonlijk.
+연락 끊어. 아무도 그 사람한테 전화하지 마. 어떤 기사도 그 사람을 거치지 마. 내일 내가 경찰 내부 감찰(Rijksrecherche)에 신고할게. 편집국 정보를 공증인한테 팔아넘기는 경찰은 경찰에 있으면 안 돼. (뤼카스를 본다) 그리고 뤼카스 — 내일 네 이름 다시 근무표에 올릴게. 사과와 함께. 나 개인적으로.
+Lucas: (een stilte; dan, voorzichtig) Dank je.
+(침묵; 그런 뒤 조심스럽게) 고마워요.
+Bram: (staat op; kijkt naar de muur, naar Eriks naam, naar zes rode draden; zijn stem is dun maar vast) Erik eruit. (stil) Ik bel hem morgen. Om het hem zelf te zeggen. Recht in zijn gezicht. Dat ben ik hem schuldig. Twintig jaar.
+(일어선다; 벽을, 에릭의 이름을, 빨간 실 여섯 개를 본다; 목소리는 가늘지만 단단하다) 에릭은 끝. (침묵) 내일 전화할게. 직접 말하려고. 면전에서. 그건 내가 그 사람한테 진 빚이야. 20년.
+Margreet: (zacht) Niet doen, Bram. Als je hem waarschuwt, wist hij alles. Laat het aan de Rijksrecherche over.
+(작게) 그러지 마, 브람. 경고하면 그 사람이 다 지울 거야. 감찰에 맡겨.
+Femke: (heel zacht, bijna voor zichzelf) Laat het maar aan mij over.
+(아주 작게, 거의 혼잣말로) 나한테 맡겨.
+Margreet: (kijkt om) Wat zei je, Femke?
+(돌아본다) 뭐라고 했어, 펨커?
+Femke: (rustig) Niets. Een zin die ik deze maand vaak heb gehoord.
+(차분하게) 아무것도요. 이번 달에 자주 들은 문장이에요.
+Margreet: (een fractie van een seconde stil; dan glimlacht ze, moe) Ga naar huis, allemaal. Het is laat. Morgen begint iets nieuws. Zonder Erik. (bij de deur) Bram — het spijt me. Echt. Voor jou het meest.
+(찰나의 침묵; 그런 뒤 지친 듯 미소 짓는다) 다들 집에 가. 늦었어. 내일 새로운 게 시작돼. 에릭 없이. (문가에서) 브람 — 미안해. 정말로. 너한테 제일.
+Lucas: (voordat ze gaat) Margreet. De excuses. Mag ik die schriftelijk? Voor mijn moeder. Ze heeft drie maanden gedacht dat haar zoon een verrader was.
+(그녀가 가기 전에) 마르흐레이트. 그 사과요. 서면으로 받을 수 있어요? 우리 엄마를 위해서요. 석 달 동안 아들이 배신자인 줄 알았거든요.
+Margreet: (een korte stilte; dan knikt ze) Natuurlijk. Morgen. Op papier. Met mijn handtekening.
+(짧은 침묵; 그런 뒤 끄덕인다) 당연하지. 내일. 서면으로. 내 서명이랑.
+Femke: (zacht, als ze weg is) Met haar handtekening. Papier is de enige werkelijkheid die telt.
+(그녀가 가자 작게) 그 사람 서명이랑. 종이가 통하는 유일한 현실이지.
+Bram: (zacht) Ik weet het.
+(작게) 알아.
+Margreet: (in de deuropening, nog één keer omkijkend naar de muur) Haal dat morgen weg, Jip. Voor de schoonmakers. Niet iedereen hoeft alles te zien.
+(문간에서 한 번 더 벽을 돌아보며) 그거 내일 떼, 집. 청소하는 사람들 때문에. 다들 다 볼 필요는 없잖아.
+Jip: (zacht) Ja, Margreet.
+(작게) 네, 마르흐레이트.
+Femke: (als Margreets voetstappen in het trappenhuis verdwijnen; bijna onhoorbaar) Veertien.
+(마르흐레이트의 발소리가 계단으로 사라지자; 거의 들리지 않게) 열넷.
+Bram: (draait zich naar haar) Wat zeg je?
+(그녀 쪽으로 돌아선다) 뭐라고?
+Femke: Veertien keer dat ze ons naar een einde duwde. "Dan weten we genoeg." Het grootste einde van allemaal. Een naam, een rooster, een melding, en "morgen begint iets nieuws." (stil) Ik heb het je gezegd, Bram. Zoals beloofd. Nu is het jouw beslissing.
+그 사람이 우릴 결말로 민 게 열네 번. "그럼 충분히 알았어." 그중 제일 큰 결말. 이름 하나, 근무표, 신고, 그리고 "내일 새로운 게 시작된다." (침묵) 말했어, 브람. 약속한 대로. 이제 네 결정이야.
+Bram: (heel moe) Femke. Zes keer Erik. Zijn handtekening. En ze gaf toe dat ze hem van de val vertelde. Wat wil je nog meer?
+(아주 지쳐서) 펨커. 여섯 번 에릭. 그 사람 서명. 그리고 함정을 그 사람한테 말했다고 인정했어. 뭘 더 원해?
+Femke: Ze gaf iets toe wat we binnen een week zelf hadden ontdekt. Dat is de slimste bekentenis die er bestaat. Je geeft het kleine toe, zodat niemand naar het grote vraagt. (stil) En ze huilde precies op het juiste moment. Ik heb negen jaar mensen op het juiste moment zien huilen, Bram. Ook mezelf.
+일주일 안에 우리가 스스로 알아냈을 걸 인정했지. 그게 세상에서 제일 영리한 자백이야. 작은 걸 인정해서 아무도 큰 걸 묻지 않게. (침묵) 그리고 딱 맞는 순간에 울었어. 난 9년 동안 사람들이 딱 맞는 순간에 우는 걸 봤어, 브람. 나 자신도.
+Noor: (zacht) Femke. Je zegt...
+(작게) 펨커. 지금 말하는 게...
+Femke: Ik zeg niks. Ik tel. (kijkt naar de muur) Kijk naar de tijdlijn. Wie wist er, bij elk van die zes lekken, óók van het telefoontje naar Erik? Wie keurde het goed? Wie zei: "Heb je het al bij Erik gecheckt?"
+아무 말도 안 해. 세는 거야. (벽을 본다) 연대표 봐. 그 여섯 번 유출 때마다 에릭한테 건 전화를 또 누가 알았어? 누가 승인했어? 누가 "에릭한테 확인은 했어?"라고 했어?
+Jip: (heel langzaam, kijkend naar zijn eigen tijdlijn) Dat staat er niet. Niemand schrijft op wie zegt dat je moet bellen. Alleen wie belt.
+(아주 천천히, 자기가 만든 연대표를 보며) 그건 안 써 있어요. 전화하라고 한 사람은 아무도 안 적어요. 전화한 사람만 적지.
+Femke: Precies. De tijdlijn is eerlijk. Maar hij heeft een blinde vlek. En die blinde vlek heeft een naam die zo gewoon is dat niemand hem opschrijft.
+그렇지. 연대표는 정직해. 그런데 사각지대가 있어. 그리고 그 사각지대엔 너무 평범해서 아무도 안 적는 이름이 있어.
+Bram: (een heel lange stilte; hij kijkt naar de deur waardoor Margreet verdween) Femke. Ik kan dit niet. Niet vannacht. Ik heb vannacht een vriend verloren. Vraag me niet om er twee te verliezen.
+(아주 긴 침묵; 마르흐레이트가 사라진 문을 본다) 펨커. 이건 못 하겠어. 오늘 밤은. 오늘 밤 친구 하나를 잃었어. 둘을 잃으라고 하지 마.
+Femke: (zacht, met iets van verdriet) Ik vraag het je niet. Ik zeg alleen dat het kan. (stil) Ik schrijf het op voor Hanneke. Regel negen. Met datum. En dan wacht ik.
+(작게, 슬픔 같은 걸 담아) 그러라는 게 아냐. 그럴 수도 있다는 것뿐이야. (침묵) 하네커한테 적어 줄게. 아홉 번째 줄. 날짜와 함께. 그리고 기다릴게.
+Lucas: (kijkt van Femke naar Bram; dan, heel zacht) Ik weet hoe het voelt als iedereen tegelijk zeker is. In maart was iedereen zeker over mij. (stil) Ik ben niet zeker, Bram. Ik heb het garageregister gevonden. Maar ik ben niet zeker.
+(펨커에서 브람으로 시선을 옮긴다; 그런 뒤 아주 작게) 다들 한꺼번에 확신하는 게 어떤 기분인지 알아요. 3월엔 다들 저에 대해 확신했죠. (침묵) 전 확신 안 해요, 브람. 차고 기록부는 제가 찾았어요. 그래도 확신은 안 해요.
+Bram: (kijkt hem aan; dan, bijna onhoorbaar) Dank je, Lucas.
+(그를 본다; 그런 뒤 거의 들리지 않게) 고마워, 뤼카스.
+Jip: (begint de rode draden van de tijdlijn los te maken; stopt; laat ze hangen) Moet ik dit weghalen? Voor als ze morgen binnenkomt?
+(연대표의 빨간 실을 풀기 시작하다가 멈추고 그대로 둔다) 이거 떼야 해요? 내일 그 사람이 들어올 때를 위해?
+Bram: (kijkt naar de muur) Laat het hangen. Ze heeft het al gezien. (stil) En voeg een rij toe. Onder elk telefoontje naar Erik. Een lege rij.
+(벽을 본다) 그대로 둬. 이미 봤잖아. (침묵) 그리고 줄 하나 추가해. 에릭한테 건 전화마다 그 아래. 빈 줄 하나.
+Jip: (verbaasd) Een lege rij? Waarvoor?
+(의아해서) 빈 줄이요? 뭐 하게요?
+Bram: Voor wie zei dat we moesten bellen. (stil) We vullen hem in als we het weten. Of laten hem leeg, als we het nooit weten.
+누가 전화하라고 했는지. (침묵) 알게 되면 채우자. 영영 모르면 비워 두고.
+Femke: (kijkt hem lang aan; zegt niets; knikt)
+(그를 오래 본다; 아무 말 없이 끄덕인다)
+Noor: (op het dakterras, kwart over twaalf; de stad stil; ze staat naast Bram, die over de reling naar het donkere water kijkt) Ga je hem morgen bellen? Erik?
+(옥상, 자정 15분; 고요한 도시; 난간 너머 어두운 물을 보는 브람 옆에 선다) 내일 그 사람한테 전화할 거예요? 에릭?
+Bram: (zacht) Margreet zegt nee.
+(작게) 마르흐레이트는 하지 말래.
+Noor: Ik vraag niet wat Margreet zegt. Ik vraag wat jij doet.
+마르흐레이트가 뭐라는지 묻는 게 아니에요. 당신이 뭘 할지 묻는 거죠.
+Bram: (een lange stilte) Ik weet het niet. Twintig jaar heb ik niks gedaan zonder het eerst bij iemand te checken. (bijna een lachje) Ik weet niet eens meer hoe dat moet. Zelf beslissen. Zonder te checken.
+(긴 침묵) 모르겠어. 20년 동안 누구한테 먼저 확인 안 하고 한 게 하나도 없어. (거의 웃음) 이젠 그걸 어떻게 하는지도 몰라. 혼자 결정하는 거. 확인 없이.
+Noor: (zacht) Dan leer je het. Of je checkt bij ons. Bij Femke. Bij Lucas. Bij mij. Niet bij één persoon. Bij een team.
+(작게) 그럼 배우면 돼요. 아니면 우리한테 확인해요. 펨커한테. 뤼카스한테. 저한테. 한 사람한테가 아니라. 팀한테.
+Bram: (kijkt haar aan) Bij een team.
+(그녀를 본다) 팀한테.
+Noor: Dat is toch wat je ons altijd leerde? "Eerst checken, dan schrijven." Je zei nooit: eerst checken bij Erik. Of bij Margreet. Je zei: eerst checken.
+그게 늘 우리한테 가르친 거잖아요? "먼저 확인, 그다음에 쓰기." 에릭한테 먼저 확인이라고 한 적은 없어요. 아니면 마르흐레이트한테. 그냥 먼저 확인이라고 했죠.
+Bram: (een flauwe glimlach) Eerst checken. (stil) Bij wie checken jullie of ik het goed doe?
+(희미한 미소) 먼저 확인. (침묵) 너흰 내가 잘하고 있는지 누구한테 확인해?
+Noor: (een kleine aarzeling) Mag ik eerlijk zijn? Bij Femke, meestal. En Femke checkt bij Hanneke.
+(살짝 망설이며) 솔직해도 돼요? 대개 펨커한테요. 그리고 펨커는 하네커한테 확인하고요.
+Bram: (zacht) En Hanneke?
+(작게) 그럼 하네커는?
+Noor: Bij haar lijst.
+자기 목록한테요.
+Noor: Bij elkaar. Dat doen we al sinds april. Zonder het je te vertellen. (glimlacht) Sorry.
+서로한테요. 4월부터 그러고 있어요. 당신한테 말 안 하고. (미소 짓는다) 미안해요.
+Bram: (bijna lachend) Een team dat mij checkt.
+(거의 웃으며) 날 확인하는 팀.
+Noor: Een team dat jou beschermt. Ook tegen jezelf.
+당신을 지키는 팀이요. 당신 자신으로부터도.
+Bram: (kijkt naar de stad) Weet je wat Keizer zei, de laatste keer dat ik hem zag? "Bram, je bent een goede journalist en een slechte rechercheur. Je gelooft mensen te lang." (stil) Ik dacht dat het een compliment was.
+(도시를 본다) 케이스를 마지막으로 봤을 때 뭐라고 했는지 알아? "브람, 넌 좋은 기자고 나쁜 수사관이야. 사람을 너무 오래 믿어." (침묵) 칭찬인 줄 알았어.
+Noor: Het was ook een compliment. En een waarschuwing. Allebei tegelijk.
+칭찬이기도 했어요. 그리고 경고이기도 했고. 둘 다 동시에.
+Bram: (bijna een glimlach) Iedereen zegt dat tegenwoordig.
+(거의 미소) 요즘 다들 그 말 하네.
+Noor: Omdat het dit jaar altijd klopte.
+올해는 그게 늘 맞았으니까요.
+Bram: (zijn telefoon trilt in zijn zak; hij haalt hem eruit; een versleuteld bericht, van een nummer dat al twee jaar alleen op deze manier contact zoekt; hij leest het hardop, zacht) Kraai.
+(주머니 속 폰이 울린다; 꺼낸다; 2년째 이 방식으로만 연락하는 번호에서 온 암호화 메시지; 작게 소리 내 읽는다) 까마귀(크라이).
+Noor: (verstijft) Kraai? Na al die maanden?
+(굳는다) 까마귀요? 그 몇 달 만에?
+Bram: (leest) "Jullie kijken naar de goede muur. Maar naar de verkeerde draad. Het geld gaat naar Den Haag."
+(읽는다) "너희는 맞는 벽을 보고 있다. 그런데 틀린 실을 보고 있다. 돈은 헤이그로 간다."
+Bram: Den Haag. Het Binnenhof. De politiek.
+헤이그. 비넨호프. 정치.
+Noor: Wie in Den Haag? Waarvoor?
+헤이그의 누구요? 뭘 위해서요?
+Bram: (scrolt) Er staat nog meer.
+(스크롤한다) 더 있어.
+Bram: (scrolt; een tweede regel verschijnt; hij leest het één keer in zichzelf, en dan, heel langzaam, hardop) "En de vuurtoren staat dichterbij dan je denkt."
+(스크롤한다; 두 번째 줄이 뜬다; 속으로 한 번 읽은 뒤, 아주 천천히, 소리 내어) "그리고 등대는 네 생각보다 가까이 있다."
+Noor: (heel stil) Dichterbij dan je denkt.
+(아주 조용히) 생각보다 가까이.
+Bram: (kijkt omhoog, naar het gebouw achter hen, naar de donkere ramen van de redactie, naar één raam op de tweede verdieping waar het licht nog brandt; Margreets kantoor) Ze is teruggekomen. Ze zei dat ze naar huis ging.
+(고개를 들어 뒤쪽 건물을, 편집국의 어두운 창들을, 아직 불이 켜진 2층의 창 하나를 본다; 마르흐레이트의 사무실) 그 사람 돌아왔네. 집에 간다고 했는데.
+Noor: (volgt zijn blik; fluistert) Ze werkt altijd laat.
+(그의 시선을 따라간다; 속삭인다) 늘 늦게까지 일하잖아요.
+Bram: (zijn stem nauwelijks hoorbaar) Dertig jaar lang werkt ze laat.
+(거의 들리지 않는 목소리로) 30년째 늦게까지 일하지.
+Noor: (kijkt hem aan) Bram?
+(그를 본다) 브람?
+Bram: (stopt de telefoon langzaam terug in zijn zak; kijkt nog één keer naar het verlichte raam; dan draait hij zich om naar het water) Morgen bel ik niemand. Morgen tel ik.
+(천천히 폰을 주머니에 다시 넣는다; 불 켜진 창을 한 번 더 본다; 그런 뒤 물 쪽으로 돌아선다) 내일은 아무한테도 전화 안 해. 내일은 셀 거야.
+
+## 주요 단어
+het netwerk — 네트워크, 연결망
+de punaise — 압정
+de rode draad — 빨간 실(관통하는 맥락)
+de tijdlijn — 연대표
+de belstaat — 통화 기록
+het lek — 유출
+de dekmantel — 위장, 가림막
+de grondmonsters — 토양 시료
+het garageregister — 차고 기록부
+de handtekening — 서명
+de blinde vlek — 사각지대
+de Rijksrecherche — (네덜란드) 공직자 범죄 수사국, 경찰 감찰
+doorverkopen — 되팔다, 팔아넘기다
+het rooster — 근무표
+de bekentenis — 자백, 고백
+vergeven — 용서하다
+versleuteld — 암호화된
+de reling — 난간
+waarschuwen — 경고하다
+opgeven — 포기하다, (힘이) 빠지다
+
+## 문법·표현 정리
+Alles hangt samen — samenhangen(연결되다)의 현재형, 부의 결론을 압축
+Ik heb het alleen bij Erik gecheckt — alleen(~에게만) + bij iemand checken(~에게 확인하다)
+Wie hebben we altijd gebeld? — 의문사 + altijd + 현재완료로 습관 전체를 되묻는 질문
+Alsof we het voor het eerst zien — alsof + 현재(마치 ~인 것처럼)
+Ik wilde het eigenlijk niet zien — eigenlijk(사실은)으로 망설임 고백
+Of degene die ons zei dat we Erik moesten bellen — degene die(~한 사람) + 간접화법 moesten
+Iemand van de schoonmaak gaf het me — van + 집단 명사(~ 쪽 사람)
+een register dat iedereen met een pen kan invullen — 관계절 + met een pen(펜만 있으면)
+Hoeveel mogelijkheden heb je nog nodig? — nog nodig hebben(아직 더 필요하다)
+Dan weten we genoeg. Erik eruit. — dan 결론 + 동사 생략 명령(~는 끝이다/내보내라)
+Je geeft het kleine toe, zodat niemand naar het grote vraagt — toegeven(분리) + zodat 목적절
+Niemand schrijft op wie zegt dat je moet bellen — 간접의문 wie… 안에 dat절 중첩
+Vraag me niet om er twee te verliezen — vragen om te(~하라고 청하다) + er(그중)
+Het geld gaat naar Den Haag. En de vuurtoren staat dichterbij dan je denkt — 비교급 dichterbij + dan의 예언적 문장
+
+## 취재 노트
+🗞️ 6부의 마지막 화는 PLAN의 설계대로 **두 번째 오답**으로 끝난다. 2년간의 모든 사건이 23층의 한 공증인으로 수렴하는 지도("Alles hangt samen")와 함께, 집이 만든 연대표는 1~5부의 모든 "유출" 이틀 전에 팀원이 **에릭에게 확인 전화**를 했다는 패턴을 보여 준다. 뤼카스의 고백("Ik heb het alleen bij Erik gecheckt"), 델타 트러스트 차고 기록부의 **3월 13일 "E. Veenstra" 서명**, 그리고 마르흐레이트의 "함정을 에릭에게 조언 구하려고 말했다"는 눈물의 고백이 겹치며 팀은 결론에 이른다: «Dan weten we genoeg. Erik eruit.» — 에릭과의 절연과 감찰 신고, 뤼카스의 복귀.
+
+🗞️ 그러나 작품은 독자에게 결정적 사각지대를 남긴다. 펨커가 짚듯 **연대표는 "누가 전화했는지"만 기록하고 "누가 전화하라고 했는지"는 기록하지 않는다** — 그 사각지대의 이름은 "너무 평범해서 아무도 안 적는" 마르흐레이트의 입버릇 «Heb je het al bij Erik gecheckt?»이다. 그녀의 고백은 "일주일 안에 스스로 알아냈을 작은 것을 인정해 큰 것을 묻지 않게 하는" 전형적인 수법으로도, 진심 어린 자책으로도 읽힌다. 펨커의 셈은 **«열넷»**에서 멈추고, 하네커 목록은 **아홉 번째 줄**이 된다. 차고 기록부의 서명은 7부 4화(에릭의 무고 — 다른 수사 중이었거나 누군가 그의 이름을 썼거나)로 회수된다.
+
+🗞️ 이 화의 또 다른 축은 브람의 변화다. "20년 동안 누구에게 먼저 확인하지 않고 한 일이 없다 — 혼자 결정하는 법을 모르겠다"는 그에게, 노르는 "한 사람이 아니라 팀에게 확인하라 — 우린 4월부터 서로를 확인해 왔다"고 답한다. PLAN의 인물 축("혼자 하는 기자 → 팀을 믿는 리더")이 처음으로 말이 되는 순간이다.
+
+🗞️ 마지막 장면: 2년간 침묵하던 제보자 **«까마귀(Kraai)»**의 메시지 — "맞는 벽, 틀린 실. **돈은 헤이그로 간다. 그리고 등대는 네 생각보다 가까이 있다.**" 집에 간다던 마르흐레이트의 사무실 창에 불이 켜져 있다. 브람은 "내일은 아무한테도 전화 안 하고 셀 것"이라고 말한다 — 7부 «Het Binnenhof(헤이그 의회)»로 이어진다. 모든 인물·기관·사건은 가상이다.
