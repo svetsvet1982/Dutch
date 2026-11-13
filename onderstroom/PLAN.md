@@ -386,7 +386,7 @@ Margreet의 마지막 변명(7부 10화): **"Ik heb deze krant overeind gehouden
 | 4부 Silicium | **완료** (15화 × 150턴) | `onderstroom/part4/ep01.txt` … `ep15.txt` → `part4/part4-silicium.docx` (시간대 2027년 9~12월 → 5부는 2028년 1~3월, 6부 4~6월, 7부 7~9월로 이동) |
 | 5부 Hybride | **완료** (15화 × 150턴) | `onderstroom/part5/ep01.txt` … `ep15.txt` → `part5/part5-hybride.docx` (안전상 4화 «De fontein»→«Het valse alarm», 14화 «Moskou of Amsterdam?»→«Wie schrijft de eerste zin?»로 교체, 6화는 잠입 윤리 중심으로 재작성) |
 | 6부 Stenen | **완료** (15화 × 150턴) | `onderstroom/part6/ep01.txt` … `ep15.txt` → `part6/part6-stenen.docx` (시간대 2028년 4~7월; 7부는 7~9월) |
-| 7부 Het Binnenhof | 기획 완료 | `onderstroom/part7/` (예정) |
+| 7부 Het Binnenhof | **완료** (15화 × 150턴) — **시리즈 완결** | `onderstroom/part7/ep01.txt` … `ep15.txt` → `part7/part7-het-binnenhof.docx` (시간대 2028년 7~8월 + 13화 2029년 3월 재판, 14화 4월 협동조합, 15화 2029년 11월 = 1부 1화 3년 뒤의 거울. 스파이웨어는 기술 세부 없이 '그런 일이 있었다·누가·의미' 수준으로만 서술) |
 
 - 도구: `onderstroom/tools/check_ep.py`(150턴·단어 18~20·문법 12~15 점검), `onderstroom/tools/build_docx.py`(«🗞️ 취재 노트» 섹션 지원, 템플릿은 `../tools/template.docx`)
 - 1화에서 생긴 설정: 제보 봉투 뒷면에 Bram의 말버릇이 적혀 있음 / USB 폴더 3개 «Personeel»(43명)·«Betalingen»(매달 약 5천 유로)·«N»(숫자열 + 케이스 사진) / 가상 회사 Kadezicht Logistiek·Polderwind Trading, 같은 자위다스 주소 / 편집국 벽의 Open Venster 수표 사진(2024) / Margreet가 "모든 계획·약속·날짜를 알고 싶다"고 요구 / Kraai 첫 메시지 "Vertrouw niet iedereen die je helpt." / 케이스와 토요일 약속(→ 9화)
