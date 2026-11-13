@@ -1,0 +1,352 @@
+# 7부 6화. Spyware (스파이웨어)
+수준: C1 | 장소: 사이언스 파크의 디지털 보안 연구실 → 연구실 복도 → 하네커의 사무실 → 브람의 집 | 시간: 2028년 7월 마지막 주, 월요일 아침 → 밤
+핵심 표현: Uw telefoon is geïnfecteerd · Wie heeft dit toestel geregeld? · Dat verklaart niet alles
+
+## 대화
+Yara: (maandagochtend, in een wit lab op het Science Park; ze is begin dertig, met een lange vlecht en een kop koffie die al koud is) Goedemorgen. U bent Bram. En u bent Femke. Leg de telefoon maar hier neer. In de doos.
+(월요일 아침, 사이언스 파크의 하얀 연구실; 서른 초반, 긴 땋은 머리, 이미 식은 커피 한 잔) 안녕하세요. 브람 씨죠. 그리고 펨커 씨. 폰은 여기 두세요. 상자 안에.
+Bram: (haalt de telefoon uit een theedoek) Een doos?
+(행주에서 폰을 꺼낸다) 상자요?
+Yara: Een kooi van metaal. Er komt geen signaal in en geen signaal uit. Zolang hij daarin ligt, hoort niemand mee. (glimlacht) Ook niet als iemand dat nu probeert.
+금속 케이지예요. 신호가 들어오지도 나가지도 않아요. 안에 있는 동안은 아무도 못 엿들어요. (웃는다) 지금 누가 시도해도요.
+Femke: Hoe lang duurt het?
+얼마나 걸려요?
+Yara: Een paar uur. Ik maak een kopie van wat er op staat, met uw toestemming, en ik kijk naar sporen. Ik ga niet in uw berichten lezen. Ik kijk naar wat er niet hoort.
+몇 시간요. 허락하시면 안에 있는 걸 복사하고, 흔적을 봐요. 메시지를 읽진 않을 거예요. 있으면 안 되는 걸 봐요.
+Bram: (tekent een formulier) Toestemming. Voor het dossier.
+(서식에 서명한다) 동의. 기록용으로.
+Yara: (pakt het formulier) Iedereen die hier komt, wil eigenlijk dat ik niets vind. (stil) En iedereen die met een theedoek komt, weet al dat ik iets ga vinden.
+(서식을 받는다) 여기 오는 사람은 다 사실 제가 아무것도 못 찾길 바라요. (침묵) 그리고 행주에 싸 오는 사람은 다 제가 뭔가 찾을 걸 이미 알고요.
+Femke: Hoe vaak vindt u iets?
+얼마나 자주 찾으세요?
+Yara: Bij journalisten? Vaker dan u denkt. Vorig jaar zeven keer. In Nederland. (stil) Iedereen denkt dat het alleen in verre landen gebeurt.
+기자들한테요? 생각보다 자주요. 작년에 일곱 번. 네덜란드에서. (침묵) 다들 먼 나라에서만 일어나는 줄 알죠.
+Bram: Moeten we wachten?
+기다려야 해요?
+Yara: In de gang staat een automaat. De koffie is slecht. Maar het is beter dan hier naar een scherm kijken.
+복도에 자판기가 있어요. 커피는 별로예요. 그래도 여기서 화면 보는 것보단 나아요.
+Femke: (in de gang, met twee bekertjes; zacht) Je trilt.
+(복도에서 컵 두 개를 들고; 작게) 너 떨고 있어.
+Bram: (kijkt naar zijn handen) Twee jaar, Femke. Ik heb die telefoon twee jaar gebruikt. Voor alles. Bronnen. Lieke. De dokter van mijn moeder.
+(자기 손을 본다) 2년이야, 펨커. 그 폰을 2년 썼어. 전부에. 취재원. 리커. 엄마 주치의.
+Femke: Misschien vindt ze niets.
+아무것도 못 찾을지도 몰라.
+Bram: (een lange stilte) Dan heb ik een bankje in het Vondelpark dat ik niet kan verklaren.
+(긴 침묵) 그럼 설명할 수 없는 폰델파크 벤치가 남지.
+Femke: Weet je nog wie die telefoons uitdeelde? Die dag?
+그날 누가 그 폰들을 나눠 줬는지 기억나?
+Bram: Margreet. Op de redactievergadering. Ze zei: "Na wat er met Bram is gebeurd, gaan we niet meer gokken. Een fonds betaalt. Gratis. Versleuteld." Ze klapte. Iedereen klapte.
+마르흐레이트. 편집회의에서. 그러더라. "브람한테 그 일이 있었으니 더는 운에 맡기지 않는다. 기금이 낸다. 무료. 암호화." 박수 쳤어. 다들 박수 쳤어.
+Femke: Ik ook. (stil) Maar ik heb hem nooit gebruikt. Hij ligt nog in mijn la. In de doos.
+나도. (침묵) 그런데 난 한 번도 안 썼어. 아직 서랍에 있어. 상자째로.
+Bram: (verbaasd) Nooit?
+(놀라서) 한 번도?
+Femke: Ik vertrouw geen cadeaus die ik niet heb gevraagd. Dat heb ik van mijn moeder. (stil) En ik was te lui om al mijn nummers over te zetten.
+안 달라고 한 선물은 안 믿어. 엄마한테 배웠어. (침묵) 그리고 번호 다 옮기기 귀찮았고.
+Bram: (bijna een glimlach) Luiheid als beveiliging.
+(거의 미소) 게으름이 보안이네.
+Femke: Onderschat het niet. (stil) Noor heeft de hare wel gebruikt. Jip niet, die heeft zijn eigen spullen. Lucas kreeg er geen. Die kwam later.
+얕보지 마. (침묵) 노르는 썼어. 집은 아니고, 자기 장비가 있으니까. 루카스는 못 받았어. 나중에 왔으니까.
+Bram: Lucas kreeg er geen. (stil) En toch dachten we dat Lucas lekte.
+루카스는 못 받았지. (침묵) 그런데도 우린 루카스가 흘린다고 생각했지.
+Femke: Ja. Dat gaan we ook nog opschrijven.
+응. 그것도 적을 거야.
+Yara: (opent de deur van het lab, na twee uur; haar gezicht is rustig maar ernstig) Komt u binnen. Ga zitten.
+(두 시간 뒤 연구실 문을 연다; 얼굴은 차분하지만 심각하다) 들어오세요. 앉으세요.
+Bram: (gaat niet zitten) Zeg het maar.
+(앉지 않는다) 말씀하세요.
+Yara: (kijkt hem aan) Uw telefoon is geïnfecteerd.
+(그를 본다) 휴대전화가 감염돼 있어요.
+Bram: (een lange stilte; dan gaat hij toch zitten)
+(긴 침묵; 그런 뒤 결국 앉는다)
+Femke: Sinds wanneer?
+언제부터요?
+Yara: Het oudste spoor dat ik vind is van twee jaar geleden. Een paar dagen nadat het toestel voor het eerst werd aangezet. (stil) Het zat er dus al in toen u hem kreeg. Of het kwam er vlak daarna op.
+제가 찾은 가장 오래된 흔적은 2년 전이에요. 기기를 처음 켠 며칠 뒤. (침묵) 그러니까 받았을 때 이미 있었거나. 그 직후에 들어갔거나.
+Bram: Wat kon het?
+뭘 할 수 있었어요?
+Yara: (kiest haar woorden) Genoeg. Uw locatie. Uw agenda. Uw berichten, ook die in versleutelde apps, omdat het meekeek vóór de versleuteling. (stil) De technische details zet ik in mijn rapport. Die zijn voor de rechter en voor andere onderzoekers. Niet voor de krant.
+(말을 고른다) 충분히요. 위치. 일정. 메시지, 암호화 앱 것도요, 암호화되기 전에 같이 봤으니까. (침묵) 기술적 세부는 보고서에 넣을게요. 그건 판사와 다른 연구자용이에요. 신문용이 아니고요.
+Femke: Waarom niet voor de krant?
+왜 신문용은 아니에요?
+Yara: Omdat elke uitleg over hoe het werkt een handleiding is voor de volgende. Jullie schrijven dát het gebeurde. Wie. En wat het betekent. Dat is genoeg.
+작동 방식에 대한 설명은 하나하나가 다음 사람을 위한 설명서가 되니까요. 여러분은 그런 일이 있었다는 것, 누가, 그리고 그게 무슨 의미인지 쓰면 돼요. 그걸로 충분해요.
+Bram: (zacht) De bank. In het Vondelpark. Ik had er een notitie over in mijn telefoon. "Erik, oude plek." Van jaren geleden.
+(작게) 그 벤치. 폰델파크의. 폰에 메모가 있었어요. "에릭, 옛날 장소." 몇 년 전 거.
+Yara: Dan stond het daar. En dan kon iemand het lezen.
+그럼 거기 있었던 거네요. 그럼 누군가 읽을 수 있었고요.
+Femke: (heel stil) Zo vond ze hem.
+(아주 조용히) 그래서 찾았구나.
+Bram: (zijn stem dun) Zo wist ze welke bank.
+(목소리가 가늘다) 그래서 어느 벤치인지 알았구나.
+Yara: Ik kan u niet zeggen wíe meelas. Alleen dat iemand het deed. De gegevens gingen naar een server. Die server huurde een bedrijf. Wie dat bedrijf betaalde, staat niet in een telefoon.
+누가 읽었는지는 말씀드릴 수 없어요. 누군가 읽었다는 것만요. 데이터는 서버로 갔어요. 그 서버는 한 회사가 빌렸고요. 그 회사에 누가 돈을 냈는지는 폰에 안 적혀 있어요.
+Femke: Welk bedrijf?
+어떤 회사요?
+Yara: (schuift een papier over de tafel) Een bv in Cyprus. Opgericht in 2024. Dat is alles wat ik weet. De rest is jullie werk.
+(종이를 탁자 위로 민다) 키프로스의 유한회사. 2024년 설립. 제가 아는 건 그게 다예요. 나머지는 여러분 일이에요.
+Bram: (kijkt naar het papier; dan naar Yara) Wie heeft dit toestel geregeld?
+(종이를 본다; 그런 뒤 야라를 본다) 이 기기를 누가 마련했죠?
+Yara: Dat moet ik u vragen. Waar kwam hij vandaan?
+그건 제가 여쭤봐야죠. 어디서 났어요?
+Bram: Van een veiligheidsprogramma voor journalisten. Betaald door een fonds. Stichting Open Venster.
+기자 안전 프로그램에서요. 기금이 냈어요. 열린 창 재단.
+Yara: (een korte stilte) Dat is geen naam die ik ken uit mijn vak. De echte programma's, van de beroepsverenigingen, geven je geen telefoon. Ze geven je advies. En ze laten je je eigen toestel kopen, in een gewone winkel.
+(짧은 침묵) 제 분야에선 모르는 이름이에요. 진짜 프로그램들, 직업 단체들 거는 폰을 안 줘요. 조언을 줘요. 그리고 일반 매장에서 자기 기기를 사게 하죠.
+Femke: Waarom?
+왜요?
+Yara: Omdat een telefoon die iemand anders voor je kiest, een telefoon is waarvan iemand anders weet wat erin zit. (stil) Dat is de eerste regel. Een cadeau is geen beveiliging.
+남이 골라 준 폰은 그 안에 뭐가 있는지 남이 아는 폰이니까요. (침묵) 그게 첫 번째 규칙이에요. 선물은 보안이 아니에요.
+Femke: (zacht) Mijn moeder had gelijk.
+(작게) 우리 엄마가 맞았네.
+Bram: Hoeveel toestellen? Kunt u dat zien?
+기기가 몇 대예요? 그것도 보여요?
+Yara: Niet uit één telefoon. Breng de andere. Allemaal. Ook de ongebruikte. Vooral de ongebruikte. Die vertellen wat er in de doos zat voordat iemand hem aanzette.
+폰 한 대로는 안 보여요. 다른 것도 가져오세요. 전부. 안 쓴 것도요. 특히 안 쓴 거요. 누가 켜기 전에 상자 안에 뭐가 있었는지 말해 주니까요.
+Femke: (staat al op) Die van mij ligt in mijn la. Ongeopend.
+(벌써 일어난다) 내 건 서랍에 있어요. 미개봉.
+Yara: Dan is die van u het belangrijkste stuk bewijs dat jullie hebben. Raak hem niet aan. Leg hem in een plastic zak. Ik kom hem zelf halen.
+그럼 그게 여러분이 가진 제일 중요한 증거예요. 만지지 마세요. 비닐봉지에 넣어 두세요. 제가 직접 가지러 갈게요.
+Bram: (een lange stilte; dan heel zacht) En wat doe ik nu? Met deze?
+(긴 침묵; 그런 뒤 아주 작게) 그럼 지금 이건 어떻게 해요?
+Yara: U heeft twee keuzes. Uitzetten en bewaren als bewijs. Of aanlaten, en weten dat iemand meeleest. (stil) Sommigen kiezen het tweede. Dan weten ze wat ze moeten zeggen.
+선택지가 두 개예요. 끄고 증거로 보관하거나. 켜 두고 누가 엿보는 걸 알고 있거나. (침묵) 두 번째를 고르는 사람도 있어요. 그럼 뭘 말해야 할지 아니까요.
+Femke: (kijkt naar Bram) Daar praten we niet hier over.
+(브람을 본다) 그건 여기서 얘기하지 말자.
+Yara: (knikt) Goed. Ik hoef het ook niet te weten. (stil) Nog één ding, meneer Hoekstra. Dit is geen schuld van u. Iedereen die ik hier zie, denkt dat het zijn schuld is.
+(고개를 끄덕인다) 좋아요. 저도 알 필요 없어요. (침묵) 하나만 더요, 훅스트라 씨. 이건 당신 잘못이 아니에요. 여기 오는 사람은 다 자기 잘못인 줄 알아요.
+Bram: (kijkt naar de doos) Ik heb Erik eruit gegooid. Om dat bankje. En Lucas. Om een naam op een scherm.
+(상자를 본다) 에릭을 쫓아냈어요. 그 벤치 때문에. 그리고 루카스도. 화면 속 이름 때문에.
+Yara: Dan heeft iemand gezorgd dat u dat dacht. Dat is wat dit soort software doet. Niet alleen meelezen. Wantrouwen zaaien.
+그럼 누군가 당신이 그렇게 생각하게 만든 거예요. 이런 소프트웨어가 하는 일이 그거예요. 엿보는 것만이 아니라. 불신을 심는 거.
+Femke: (op de gang, buiten het lab, zacht, met haar eigen telefoon die ze in de winkel kocht) Noor? Met Femke. Doe me een plezier. Pak de telefoon van het veiligheidsprogramma. Zet hem uit. Leg hem in een la. Zeg niets.
+(연구실 밖 복도, 매장에서 산 자기 폰으로 작게) 노르? 펨커야. 부탁 하나만. 안전 프로그램 폰 꺼. 서랍에 넣어. 아무 말도 하지 마.
+Noor: (door de telefoon) Uitzetten? Waarom? (stil) O. (lange stilte) Ik heb op dat ding mijn hele analyse van de CMS-logs gemaakt.
+(전화기 너머로) 끄라고요? 왜요? (침묵) 아. (긴 침묵) 그걸로 CMS 로그 분석 전부 했는데.
+Femke: (heel stil) Wanneer?
+(아주 조용히) 언제?
+Noor: Vorige week. Donderdag. Die avond dat we zeiden: Erik is onschuldig.
+지난주요. 목요일. 에릭이 무죄라고 했던 그 밤요.
+Femke: (sluit haar ogen) Zet hem uit, Noor.
+(눈을 감는다) 꺼, 노르.
+Bram: (komt de gang op) Wat?
+(복도로 나온다) 뭐야?
+Femke: Noor maakte haar analyse op de telefoon van Open Venster. (stil) Als iemand meelas, weet die iemand dat wij weten dat de lekken samenvallen met haar goedkeuring.
+노르가 열린 창 폰으로 분석을 했어. (침묵) 누가 엿봤다면, 그 사람은 유출이 그 사람 승인과 겹친다는 걸 우리가 안다는 걸 알아.
+Bram: (heel stil) Dan weet zij dat wij het weten.
+(아주 조용히) 그럼 그 사람은 우리가 안다는 걸 아는 거네.
+Femke: Misschien. (stil) En toch probeerde ze vrijdag alinea zes te schrappen. Met een vals advies. Als ze wist dat wij het wisten, waarom zo onvoorzichtig?
+어쩌면. (침묵) 그런데도 금요일에 가짜 조언으로 6단락을 빼려 했어. 우리가 안다는 걸 알았다면, 왜 그렇게 부주의했지?
+Bram: (denkt) Omdat ze niet alles leest. Of omdat iemand anders leest en het haar niet vertelt.
+(생각한다) 다 읽진 않으니까. 아니면 다른 사람이 읽고 그 사람한테 말 안 하거나.
+Femke: Of omdat ze geen keus had. Alinea zes was haar familie niet. Maar het was wél iemands familie die ze moest beschermen.
+아니면 선택지가 없었거나. 6단락은 그 사람 가족이 아니었어. 그래도 그 사람이 지켜야 할 누군가의 가족이었지.
+Yara: (vanuit de deur) Nog iets. Ik heb gekeken wanneer de software het meest actief was. (geeft Bram een uitdraai) Dit zijn de pieken. U kunt ze vergelijken met uw eigen agenda.
+(문가에서) 하나 더요. 소프트웨어가 언제 제일 활발했는지 봤어요. (브람에게 출력물을 준다) 이게 정점들이에요. 본인 일정이랑 비교해 보세요.
+Hanneke: (maandagmiddag, in haar kantoor; de uitdraai van Yara naast haar lijst met data; Noor op haar knieën met een laptop die ze net in de winkel heeft gekocht) Lees maar voor, Noor. Langzaam.
+(월요일 오후, 사무실; 야라의 출력물을 날짜 목록 옆에 놓고; 노르는 방금 매장에서 산 노트북을 무릎에 놓고) 읽어 봐, 노르. 천천히.
+Noor: (leest) Piek één. Een woensdag in november 2026. Tien over tien 's avonds. (stil) Dat is de avond dat Kees stierf.
+(읽는다) 정점 하나. 2026년 11월의 한 수요일. 밤 열 시 십 분. (침묵) 케이스가 죽은 밤이에요.
+Hanneke: (schrijft niet) Was Bram toen met Kees in contact?
+(적지 않는다) 그때 브람이 케이스와 연락했어?
+Bram: (zacht) Hij stuurde me die avond een bericht. "Gesprek gehad. Kom om elf uur naar Het Anker. Het kan niet wachten." Om tien uur. Ik las het meteen.
+(작게) 그날 밤 문자를 보냈어. "얘기 나눴다. 열한 시에 «Het Anker»로 와. 기다릴 수 없는 일이야." 열 시에. 바로 읽었고.
+Hanneke: (een lange stilte) Dan wist iemand anders om tien over tien waar Kees om elf uur zou zijn.
+(긴 침묵) 그럼 다른 누군가도 열 시 십 분에 케이스가 열한 시에 어디 있을지 알았던 거네.
+Femke: (heel stil) Tegelijk met jou.
+(아주 조용히) 너랑 동시에.
+Noor: (leest verder, haar stem zachter) Piek twee. De avond van de garage in Rotterdam. Piek drie. De avond voor de huiszoeking bij Lucas. Piek vier. Het bankje.
+(이어 읽는다, 목소리가 작아진다) 정점 둘. 로테르담 차고의 밤. 정점 셋. 루카스 압수수색 전날 밤. 정점 넷. 그 벤치.
+Hanneke: Regel twintig. (schrijft) "Telefoon B.H., uitgereikt via Open Venster op initiatief van M.Z., twee jaar geïnfecteerd. Eerste activiteit dagen na uitreiking. Pieken op data van lekken."
+스무 번째 줄. (적는다) "B.H.의 폰, M.Z. 주도로 열린 창을 통해 지급, 2년간 감염. 지급 며칠 뒤 첫 활동. 유출 날짜에 정점."
+Bram: Dus het is de telefoon. Alles. Het was nooit Lucas, nooit Erik. Het was dit ding in mijn zak.
+그럼 폰이네. 전부. 루카스도, 에릭도 아니었어. 내 주머니 속 이거였어.
+Noor: (kijkt naar haar scherm, langzaam) Nee. (stil) Dat verklaart niet alles.
+(화면을 보며 천천히) 아뇨. (침묵) 그걸로 다 설명되진 않아요.
+Bram: Wat bedoel je?
+무슨 뜻이야?
+Noor: (draait de laptop naar hem) Kijk. Zeventien lekken op de lijst van Hanneke. Bij elf zie ik een piek op jouw telefoon. Bij zes niet. (stil) Zes lekken waar jouw telefoon niets wist. Omdat jij het niet wist.
+(노트북을 그에게 돌린다) 봐요. 하네커 목록에 유출이 열일곱 건. 열한 건에선 선배 폰에 정점이 보여요. 여섯 건엔 없어요. (침묵) 선배 폰이 아무것도 몰랐던 유출 여섯 건. 선배가 몰랐으니까요.
+Femke: Welke zes?
+어떤 여섯 건?
+Noor: (leest) De datum van het proces van Ronnie, voordat die openbaar was. De naam van de getuige in de Zuidas-zaak. Het bedrag van de aanbesteding in juni. (stil) Dingen die alleen in het systeem stonden. Ter goedkeuring. Of die alleen in haar kantoor besproken werden. Met de deur dicht.
+(읽는다) 공개되기 전의 로니 재판 날짜. 자위다스 사건 증인 이름. 6월 입찰 금액. (침묵) 시스템에만 있던 것들. 승인용으로. 아니면 그 사람 사무실에서만 논의된 것들. 문 닫고.
+Hanneke: (een lange stilte) Dus er zijn twee lekken. Een telefoon. En een mens.
+(긴 침묵) 그러니까 새는 곳이 둘이네. 폰 하나. 그리고 사람 하나.
+Femke: (zacht) Een telefoon die zij regelde. En een mens die alles goedkeurde.
+(작게) 그 사람이 마련한 폰. 그리고 모든 걸 승인한 사람.
+Bram: (kijkt naar de lijst) Dat verklaart niet alles. (stil) Zij kon de telefoon geregeld hebben omdat iemand haar dat vroeg. Zonder te weten wat erin zat. Een hoofdredacteur die een cadeau doorgeeft.
+(목록을 본다) 그걸로 다 설명되진 않아. (침묵) 누가 부탁해서 폰을 마련했을 수도 있어. 안에 뭐가 있는지 모른 채. 선물을 전달한 편집장일 뿐일 수도.
+Hanneke: (droog) Dat is precies wat haar advocaat zal zeggen. (stil) En dan vraag ik: wie heeft dit toestel geregeld? Wie belde welke leverancier? Wie koos het model? Wie tekende voor ontvangst?
+(건조하게) 그게 바로 그 사람 변호사가 할 말이야. (침묵) 그럼 난 물어. 이 기기를 누가 마련했나? 누가 어느 공급업체에 전화했나? 누가 모델을 골랐나? 누가 수령에 서명했나?
+Jip: (komt binnen met een map, nat van de regen) Ik heb hem. De factuur. Uit de administratie van Open Venster, uit het jaarverslag dat ze bij de Kamer van Koophandel moesten deponeren. "Veiligheidsprogramma journalisten — 12 toestellen — levering via Lichtbaken Holding."
+(비에 젖어 서류철을 들고 들어온다) 찾았어요. 청구서. 열린 창이 상공회의소에 제출해야 했던 연차보고서의 회계에서요. "기자 안전 프로그램 — 기기 12대 — 등대불 홀딩을 통한 납품."
+Femke: (verstijft) Lichtbaken.
+(굳는다) 등대불.
+Jip: Lichtbaken Holding. Beethovenstraat 400. Dezelfde die de betalingen aan Stichting Baken doet. (stil) De telefoons kwamen van de Vuurtoren.
+등대불 홀딩. 베토벤스트라트 400. 바컨 재단에 돈을 보내는 바로 그곳. (침묵) 폰들은 등대에게서 왔어요.
+Bram: (een heel lange stilte) En wie tekende voor ontvangst?
+(아주 긴 침묵) 그럼 수령은 누가 서명했어?
+Jip: (slaat de map open; een kopie van een leveringsbon; onderaan een handtekening die iedereen in de kamer kent) "Ontvangen in goede orde. M. Zwart, hoofdredactie De Lantaarn."
+(서류철을 연다; 납품서 사본; 맨 아래 방 안의 모두가 아는 서명) "이상 없이 수령. M. 즈바르트, 드 란타른 편집국장."
+Noor: (fluistert) Haar handtekening.
+(속삭인다) 그 사람 서명.
+Hanneke: (schrijft heel langzaam) Regel eenentwintig. "Leveringsbon toestellen: leverancier Lichtbaken Holding. Ontvangst getekend door M.Z."
+(아주 천천히 적는다) 스물한 번째 줄. "기기 납품서: 공급자 등대불 홀딩. 수령 서명 M.Z."
+Bram: (zacht) Ze tekende voor de telefoons die ons afluisterden. Bij het bedrijf dat haar betaalt.
+(작게) 우리를 엿들은 폰들을 그 사람이 서명하고 받았어. 자기한테 돈 주는 회사한테서.
+Hanneke: Bij het bedrijf dat Stichting Baken betaalt. (stil) Of Baken haar betaalt, weten we nog niet. Dat het O.V. terugbetaalt, wel. Houd de lijn tussen wat we weten en wat we denken. Juist nu.
+바컨 재단에 돈 주는 회사한테서. (침묵) 바컨이 그 사람한테 돈을 주는지는 아직 몰라. O.V.로 돈이 돌아가는 건 알지. 아는 것과 생각하는 것 사이 선을 지켜. 지금이야말로.
+Femke: Dat verklaart niet alles. Maar het verklaart wel waarom ze zo graag wilde dat Bram de telefoon hield.
+그걸로 다 설명되진 않아. 그래도 왜 그 사람이 브람이 그 폰을 계속 쓰길 그렇게 바랐는지는 설명돼.
+Bram: (verbaasd) Wilde ze dat?
+(놀라서) 그랬어?
+Femke: In maart stelde Jip voor om alle toestellen te vervangen. Na de huiszoeking. Weet je wat Margreet zei? "Niet nu. Te duur. En het programma loopt nog. We kunnen het fonds niet beledigen."
+3월에 집이 압수수색 뒤에 기기를 전부 바꾸자고 했잖아. 마르흐레이트가 뭐라 했는지 기억나? "지금은 안 돼. 너무 비싸. 그리고 프로그램이 아직 진행 중이야. 기금 기분을 상하게 할 순 없어."
+Jip: (zacht) Ik heb dat gezegd. Ik dacht dat ik paranoïde was.
+(작게) 제가 그랬어요. 제가 편집증인 줄 알았어요.
+Hanneke: Regel tweeëntwintig. (schrijft) "Maart: voorstel J. om toestellen te vervangen; M.Z. weigert."
+스물두 번째 줄. (적는다) "3월: J.가 기기 교체 제안; M.Z. 거부."
+Bram: (kijkt naar de lijst; zijn stem breekt bijna) Kees. Die avond. Hij schreef "het kan niet wachten." Naar de telefoon die zij me gaf.
+(목록을 본다; 목소리가 거의 갈라진다) 케이스. 그 밤. "기다릴 수 없는 일"이라고 썼어. 그 사람이 준 폰으로.
+Femke: (legt haar hand op zijn arm) Bram.
+(그의 팔에 손을 얹는다) 브람.
+Bram: (heel zacht) Als ik een gewone telefoon had gehad. Uit een gewone winkel. Had hij dan nog geleefd?
+(아주 작게) 내가 그냥 폰을 썼다면. 그냥 매장에서 산. 그럼 그 사람 아직 살아 있었을까?
+Hanneke: (legt haar pen neer) Dat weet niemand. (stil) Maar luister. De telefoon las om tien over tien. Dat verklaart niet alles. Een bericht lezen is iets anders dan iemand doodmaken. Daar zit nog een mens tussen. Iemand die besloot. Die persoon zoeken we. Niet jouw telefoon. Niet jou.
+(펜을 내려놓는다) 아무도 몰라. (침묵) 그래도 들어. 폰은 열 시 십 분에 읽었어. 그걸로 다 설명되진 않아. 문자를 읽는 것과 사람을 죽이는 건 달라. 그 사이에 아직 사람이 하나 있어. 결정한 누군가. 우리가 찾는 건 그 사람이야. 네 폰이 아니라. 네가 아니라.
+Noor: (heel zacht) Had Kees ook zo'n telefoon? Hij was met pensioen, maar hij kwam nog op de borrels.
+(아주 작게) 케이스도 그런 폰이 있었어요? 은퇴했지만 모임엔 아직 왔잖아요.
+Femke: (een lange stilte) Nee. Margreet bood hem er een aan, op de borrel waar ze de toestellen uitdeelde. Kees weigerde. Hij zei: "Ik heb een Nokia uit 2009 en die houd ik." (bijna een glimlach) Hij was de enige die nee zei. Behalve ik.
+(긴 침묵) 아니. 마르흐레이트가 기기 나눠 준 그 모임에서 하나 권했어. 케이스는 거절했고. 그러더라. "난 2009년산 노키아가 있고 그거 계속 쓸 거다." (거의 미소) 거절한 건 그 사람뿐이었어. 나 빼고.
+Bram: (zacht) Ik weet het nog. Hij lachte haar uit. "Een cadeau van een fonds, Margreet? Sinds wanneer?"
+(작게) 기억나. 그 사람 비웃었지. "기금이 주는 선물이라고, 마르흐레이트? 언제부터?"
+Femke: En zij lachte mee. (stil) Ze lachte altijd mee als Kees iets zei wat waar was.
+그리고 그 사람도 같이 웃었어. (침묵) 케이스가 맞는 말을 할 때면 늘 같이 웃었지.
+Bram: (zacht) Dan kon niemand Kees lezen. Alleen mij.
+(작게) 그럼 아무도 케이스를 못 읽었어. 나만.
+Hanneke: En wie hij belde. (stil) Die avond belde hij iemand. Dat staat niet op jouw telefoon. Dat staat op die van hem. Of in de gesprekslijst van de provider.
+그리고 그가 누구한테 전화했는지. (침묵) 그 밤 그는 누군가에게 전화했어. 그건 네 폰엔 없어. 그 사람 폰에 있지. 아니면 통신사 통화 기록에.
+Femke: Die Nokia. Waar is die?
+그 노키아. 어디 있어?
+Bram: (een lange stilte) Bij de politie. In het dossier. Al bijna twee jaar. (stil) Niemand heeft ooit gevraagd wie hij als laatste belde. De twee jongens op de scooter zijn gevonden. Wie hen betaalde, niet. Het dossier ligt stil.
+(긴 침묵) 경찰에. 수사 기록에. 벌써 2년 가까이. (침묵) 아무도 그가 마지막으로 누구한테 전화했는지 묻지 않았어. 스쿠터 탄 두 녀석은 잡혔어. 누가 돈을 줬는지는 아니고. 수사는 멈춰 있어.
+Jip: (zacht) Erik kan dat vragen.
+(작게) 에릭이 물어볼 수 있어요.
+Bram: (kijkt naar Jip; heel lang) Erik.
+(집을 본다; 아주 오래) 에릭.
+Hanneke: Niet nu. Niet zo. (stil) Eerst bel je hem om sorry te zeggen. Dan pas om hulp te vragen. In die volgorde, Bram.
+지금은 아냐. 이렇게는 아냐. (침묵) 먼저 미안하다고 전화해. 그다음에야 도움을 청해. 그 순서로, 브람.
+Femke: En niet op die telefoon.
+그리고 그 폰으론 말고.
+Bram: (maandagavond, thuis, aan de keukentafel; de telefoon van het programma ligt in de metalen doos die Yara hem meegaf; ernaast het prepaid toestel; Lieke komt binnen met een zak friet) Je bent vroeg.
+(월요일 밤, 집 부엌 식탁; 프로그램 폰은 야라가 준 금속 상자 안에; 옆에 선불폰; 리커가 감자튀김 봉지를 들고 들어온다) 일찍 왔네.
+Lieke: Mama zei dat je moe klonk. (ziet de doos) Wat is dat?
+엄마가 아빠 목소리 피곤하다고 했어. (상자를 본다) 그게 뭐야?
+Bram: Mijn telefoon. In een kooi.
+내 폰. 우리 안에 갇혀서.
+Lieke: (gaat zitten, zet de friet tussen hen in) Waarom zit je telefoon in een kooi?
+(앉아서 감자튀김을 사이에 놓는다) 왜 폰이 우리에 갇혀 있어?
+Bram: (een lange stilte) Omdat iemand hem twee jaar lang heeft gebruikt om mee te luisteren. Naar mij. Naar jou, als we belden.
+(긴 침묵) 누가 2년 동안 그걸로 엿들었으니까. 아빠를. 우리 통화할 땐 너도.
+Lieke: (verstijft) Naar mij?
+(굳는다) 나도?
+Bram: Naar onze gesprekken. Niet naar jouw telefoon. (stil) Het spijt me, lieverd.
+우리 통화를. 네 폰은 아니고. (침묵) 미안해, 우리 딸.
+Lieke: (kijkt lang naar de doos) Wie heeft dit toestel geregeld?
+(상자를 오래 본다) 그 폰 누가 마련했어?
+Bram: (verrast door de vraag; dan, eerlijk) Iemand die ik vertrouwde.
+(질문에 놀란다; 그런 뒤 솔직하게) 아빠가 믿었던 사람.
+Lieke: (zacht) Tante Margreet?
+(작게) 마르흐레이트 이모?
+Bram: (een heel lange stilte) Waarom zeg je dat?
+(아주 긴 침묵) 왜 그렇게 말해?
+Lieke: Omdat ze me die kerst vroeg of ik het fijn vond dat papa een veilige telefoon had. Ik was dertien. Ik zei ja. (stil) Ze vroeg of je hem altijd bij je had. Ook 's nachts.
+그해 크리스마스에 아빠가 안전한 폰을 가져서 좋냐고 물었거든. 나 열세 살이었어. 좋다고 했지. (침묵) 아빠가 그걸 늘 갖고 다니냐고 물었어. 밤에도.
+Bram: (sluit zijn ogen)
+(눈을 감는다)
+Lieke: Pap? Wat heb ik gezegd?
+아빠? 내가 뭐라고 했어?
+Bram: (opent zijn ogen, pakt haar hand) Niets verkeerds. Jij was dertien en je zei de waarheid. (stil) Dat is nooit verkeerd.
+(눈을 뜨고 손을 잡는다) 잘못한 거 하나도 없어. 열세 살이었고 사실을 말했어. (침묵) 그건 절대 잘못이 아니야.
+Lieke: (zacht) Is ze slecht?
+(작게) 그 이모 나쁜 사람이야?
+Bram: (kijkt naar de doos) Ik weet het niet. Ik weet wat ze deed. Nog niet waarom. (stil) Dat verklaart niet alles.
+(상자를 본다) 모르겠어. 뭘 했는지는 알아. 왜인지는 아직 몰라. (침묵) 그걸로 다 설명되진 않아.
+Lieke: (pakt een frietje, schuift de zak naar hem toe) Eet, pap. Je kunt niet nadenken met een lege maag. Dat zeg jij altijd.
+(감자튀김 하나를 집고, 봉지를 그쪽으로 민다) 먹어, 아빠. 배고프면 생각 못 해. 아빠가 늘 그러잖아.
+Bram: (bijna een glimlach; hij pakt er een) Dat zeg ik altijd.
+(거의 미소; 하나 집는다) 아빠가 늘 그러지.
+Lieke: (na een stilte) Ga je Erik bellen? Mama zei dat jullie ruzie hadden.
+(잠시 뒤) 에릭 아저씨한테 전화할 거야? 엄마가 둘이 싸웠다던데.
+Bram: (pakt het prepaid toestel) Ja. (stil) Ik moet iemand sorry zeggen die gelijk had toen ik dacht dat hij loog.
+(선불폰을 집는다) 응. (침묵) 거짓말하는 줄 알았는데 맞았던 사람한테 미안하다고 해야 해.
+Lieke: Wil je dat ik wegga?
+나 나가 있을까?
+Bram: Nee. Blijf. (stil) Ik wil dat je hoort hoe het moet.
+아니. 있어. (침묵) 어떻게 하는 건지 네가 들었으면 좋겠어.
+Bram: (toetst een nummer dat hij uit zijn hoofd kent; het gaat over; voicemail) Erik. Met Bram. Ander nummer. (stil) Je had gelijk. Het was niet jij. Het was nooit jij. Het was mijn telefoon. En ik heb je niet geloofd. (stil) Het spijt me. Bel me als je wilt. Als je niet wilt, begrijp ik dat.
+(외우고 있는 번호를 누른다; 신호가 간다; 음성사서함) 에릭. 브람이야. 다른 번호. (침묵) 네가 맞았어. 너 아니었어. 한 번도 너 아니었어. 내 폰이었어. 그런데 난 널 안 믿었어. (침묵) 미안해. 원하면 전화해. 원하지 않으면, 이해해.
+Lieke: (als hij ophangt, zacht) Dat was goed, pap.
+(그가 끊자 작게) 잘했어, 아빠.
+Bram: (kijkt naar het toestel) Het was laat.
+(폰을 본다) 늦었지.
+Lieke: Laat is beter dan nooit. Dat zeg jij ook altijd.
+늦어도 안 하는 것보단 낫지. 그것도 아빠가 늘 그러잖아.
+Bram: (het toestel trilt; één bericht, van een onbekend nummer; hij leest het, en zijn gezicht verandert) Lieke. Ga even naar je kamer.
+(폰이 떤다; 모르는 번호에서 메시지 한 통; 읽는다, 얼굴이 변한다) 리커. 잠깐 방에 가 있어.
+Lieke: Is het Erik?
+에릭 아저씨야?
+Bram: (zacht) Nee. (hij leest het nog eens; het is het oude, korte ritme dat hij kent) "Jullie hebben de telefoon gevonden. Goed. Nu het geld. Donderdag, vijf uur, het café van mijn vader. — K."
+(작게) 아니. (다시 읽는다; 아는 짧은 옛 리듬) "폰을 찾았군요. 좋아요. 이제 돈. 목요일 다섯 시, 우리 아버지 카페. — K."
+Lieke: (bij de deur) Wie is K?
+(문가에서) K가 누구야?
+Bram: (kijkt naar het woord "vader") Iemand die het al twee jaar weet. En die het niet alleen kon.
+('아버지'라는 단어를 본다) 2년 전부터 알고 있던 사람. 그리고 혼자선 할 수 없었던 사람.
+
+## 주요 단어
+geïnfecteerd — 감염된
+de kooi — 우리, 케이지(차폐 상자)
+het spoor (de sporen) — 흔적
+meelezen / meekijken — 몰래 같이 읽다/보다
+de versleuteling — 암호화
+de handleiding — 설명서
+de server — 서버
+de beroepsvereniging — 직업 단체
+ongeopend — 미개봉의
+het bewijsstuk — 증거물
+wantrouwen zaaien — 불신을 심다
+de piek — 정점
+uitreiken — 지급하다, 나눠 주다
+de leverancier — 공급업체
+de leveringsbon — 납품서
+voor ontvangst tekenen — 수령 서명하다
+deponeren — (공적 기관에) 제출하다
+de gesprekslijst — 통화 기록
+de provider — 통신사
+beledigen — 기분 상하게 하다, 모욕하다
+
+## 문법·표현 정리
+Uw telefoon is geïnfecteerd — zijn + 과거분사(상태 수동), 진단의 단정
+Wie heeft dit toestel geregeld? — regelen(마련하다)의 현재완료 의문, 책임 소재 질문
+Dat verklaart niet alles — 부분 부정(niet alles), 7부의 반복 모티프
+Het zat er al in toen u hem kreeg — er…in(그 안에) 분리 + toen 과거 시점
+Omdat het meekeek vóór de versleuteling — 분리동사 meekijken의 과거 + vóór(강세) 시간 전치사
+Elke uitleg over hoe het werkt is een handleiding voor de volgende — 간접의문(hoe het werkt)이 전치사 목적어로
+Een cadeau is geen beveiliging — 짧은 격언형 명사문
+Die vertellen wat er in de doos zat voordat iemand hem aanzette — wat 간접절 + voordat 종속절
+Dan heeft iemand gezorgd dat u dat dacht — zorgen dat(~하게 만들다)
+Als ik een gewone telefoon had gehad, had hij dan nog geleefd? — 과거완료 비현실 조건문
+Houd de lijn tussen wat we weten en wat we denken — 명령문 + wat 명사절 대조
+Eerst bel je hem om sorry te zeggen. Dan pas om hulp te vragen — dan pas(그제야) + om te 부정사
+Je kunt niet nadenken met een lege maag — met + 상태 명사구
+Laat is beter dan nooit — 비교 관용 표현
+
+## 취재 노트
+🗞️ 이 화는 **기자를 겨냥한 스파이웨어**를 다룬다. 실제로 유럽에서도 언론인 휴대전화 감염이 디지털 포렌식 연구소(시민단체·대학 연구실)를 통해 확인된 사례들이 보고돼 왔다. 작품 속 연구자 야라는 원칙을 분명히 한다: 기기 분석은 **당사자의 서면 동의**로, 메시지 내용은 읽지 않고 흔적만 본다; 기술적 세부는 **법원과 연구자용 보고서**에만 — "작동 방식 설명은 다음 사람을 위한 설명서가 된다". 그래서 대본에도 감염 방식의 기술적 내용은 없다. 기자가 쓸 것은 "그런 일이 있었다는 것, 누가, 그리고 의미"다.
+
+🗞️ 실천적 교훈: "**선물은 보안이 아니다(Een cadeau is geen beveiliging)**". 진짜 언론인 안전 프로그램은 대개 기기를 지급하지 않고 **조언**을 주며, 일반 매장에서 직접 기기를 사게 한다 — 남이 골라 준 기기는 남이 내용을 아는 기기이기 때문이다. 펨커가 '게으름' 덕에 미개봉으로 둔 폰은 "누가 켜기 전에 상자 안에 뭐가 있었는지" 말해 줄 **핵심 증거물**이 된다. 또 이런 소프트웨어의 진짜 피해는 엿보기만이 아니라 "**불신을 심는 것**"(루카스·에릭 누명)이라는 점을 짚는다.
+
+🗞️ PLAN의 결정적 장면 — "**Dat verklaart niet alles**": 감염 정점은 하네커 목록 17건 중 **11건**과 겹친다(케이스가 죽은 2026년 11월 수요일 22:10 — "열한 시에 Het Anker로"를 브람과 동시에 읽은 누군가, 로테르담 차고, 루카스 압수수색 전날, 벤치). 그러나 **6건**(로니 재판 날짜, 자위다스 증인 이름, 6월 입찰 금액)은 브람의 폰이 몰랐던 정보 — 시스템의 승인 단계나 문 닫힌 편집장실에서만 다뤄진 것. 하네커: "**새는 곳이 둘 — 폰 하나, 사람 하나.**" 집이 찾은 연차보고서 청구서: 기기 12대 "**등대불 홀딩을 통한 납품**", 납품서 수령 서명 "**M. 즈바르트**". 하네커 목록 **20~22줄**. 그래도 하네커는 선을 지킨다: "문자를 읽는 것과 사람을 죽이는 것 사이엔 아직 결정한 사람이 하나 있다."
+
+🗞️ 연속성: 은퇴한 케이스는 모임에서 마르흐레이트가 권한 프로그램 폰을 거절하고("기금이 주는 선물? 언제부터?") **2009년산 노키아**를 썼다(거절자는 케이스와 펨커뿐) → 그 노키아는 2년째 경찰 증거물; 아무도 마지막 통화 상대를 묻지 않았다(스쿠터 두 명은 잡혔으나 의뢰인은 미상, 수사 정지) → 7화 «M. bellen»으로. 리커의 기억: 열세 살 크리스마스에 마르흐레이트 "이모"가 "아빠가 그 폰을 밤에도 갖고 다니냐"고 물었다. 브람은 하네커가 정한 순서("먼저 사과, 그다음 도움")대로 리커 앞에서 에릭에게 사과 음성 메시지를 남긴다. 클리프행어: 모르는 번호 "**폰을 찾았군요. 이제 돈. 목요일 다섯 시, 우리 아버지 카페. — K.**" → 7화 «Kraai».
