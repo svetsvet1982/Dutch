@@ -149,9 +149,9 @@ Bram: En als hij niet leeg blijft?
 그런데 안 비어 있으면?
 Femke: Dan heb je iets ergs geleerd op een nette manier. Dat is nog altijd beter dan iets ergs nooit weten, of het op een lelijke manier ontdekken, te laat, als iemand gewond is.
 그럼 끔찍한 걸 깔끔한 방식으로 안 거야. 그건 끔찍한 걸 영영 모르거나, 추하게, 누가 다친 뒤 너무 늦게 알아내는 것보단 늘 나아.
-Bram: (heel zacht) Zoals Keizer. Te laat.
+Bram: (heel zacht) Zoals Kees. Te laat.
 (아주 작게) 케이스처럼. 너무 늦게.
-Femke: (kijkt hem aan, zegt niets een tel) Zoals Keizer. Daarom doen we het netjes, op tijd, met vijf vellen op een keukentafel in plaats van met gok en woede.
+Femke: (kijkt hem aan, zegt niets een tel) Zoals Kees. Daarom doen we het netjes, op tijd, met vijf vellen op een keukentafel in plaats van met gok en woede.
 (그를 바라보며 한 박자 침묵) 케이스처럼. 그래서 우린 깔끔하게, 제때, 어림짐작과 분노가 아니라 부엌 식탁 위 다섯 장으로 하는 거야.
 Bram: (schuift zijn stoel naar achteren) Ik fluister je mijn eigen detail nu in. Daarna schrijf jij niks. Het blijft tussen mijn oor en jouw geheugen.
 (의자를 뒤로 민다) 내 세부를 지금 너한테 속삭일게. 그다음 넌 아무것도 안 적어. 그건 내 입과 네 기억 사이에만 남아.
@@ -349,4 +349,4 @@ Blijf alsjeblieft leeg — 사물(vel)을 향한 명령형으로 인물의 간�
 
 🗞️ 극적 아이러니: 브람은 마르흐레이트에게 함정을 "규정대로" 보고하고 승인받는다. 마르흐레이트의 반응("내가 먼저 제안했어야 했다", "이건 배신이 아니라 돌봄이다")은 결백한 상사의 품격으로도, 덫을 미리 파악한 진짜 첩자의 침착함으로도 읽히도록 양면적으로 썼다. 그녀가 받은 유일한 세부는 «금요일, 헤이그» — 이 단서가 뒤에서 어떻게 움직이는지가 5-1장(진짜 유출 구조)의 핵심이다.
 
-🗞️ 연속성: 다섯 버전의 고유 표지 — 노르=여자/화요일/위트레흐트, 집=남자/수요일/아머스포르트, 뤼카스=비공개 번호/목요일/즈볼러, 마르흐레이트=헤이그/금요일, 브람=자기만 아는 단어 — 는 뒤 화에서 "어느 버전이 샜는가"를 가리는 장치다. «케이스(Keizer)»의 죽음("너무 늦게")이 함정을 "제때, 깔끔하게" 하려는 동기로 명시적으로 연결된다. 모든 인물·취재원·장소는 가상이다.
+🗞️ 연속성: 다섯 버전의 고유 표지 — 노르=여자/화요일/위트레흐트, 집=남자/수요일/아머스포르트, 뤼카스=비공개 번호/목요일/즈볼러, 마르흐레이트=헤이그/금요일, 브람=자기만 아는 단어 — 는 뒤 화에서 "어느 버전이 샜는가"를 가리는 장치다. «케이스(Kees)»의 죽음("너무 늦게")이 함정을 "제때, 깔끔하게" 하려는 동기로 명시적으로 연결된다. 모든 인물·취재원·장소는 가상이다.
