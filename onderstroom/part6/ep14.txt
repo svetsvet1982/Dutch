@@ -1,0 +1,352 @@
+# 6부 14화. SLAPP (전략적 봉쇄 소송) ⚖️
+수준: C1 | 장소: 편집국 입구(집달관) → 하네커의 사무실 → 편집장실(긴급 회의) → 편집국(모금 캠페인) → NDSM 창고 후원의 밤 | 시간: 2028년 7월 첫째 주, 월요일 → 토요일
+핵심 표현: Een schadeclaim van… · Ze willen ons kapot procederen · De lezers staan achter ons
+
+## 대화
+Deurwaarder: (maandagochtend, negen uur, bij de deur van de redactie, een man in een grijs pak met een envelop) Goedemorgen. Stichting De Lantaarn, gevestigd aan de NDSM-werf? Ik ben gerechtsdeurwaarder. Ik moet dit persoonlijk overhandigen.
+(월요일 아침 아홉 시, 편집국 문 앞, 봉투를 든 회색 정장의 남자) 안녕하세요. NDSM 부두 소재 드 란타른 재단 맞죠? 법원 집달관입니다. 이걸 직접 전달해야 합니다.
+Noor: (neemt de envelop aan, zwaar) Wat is het?
+(무거운 봉투를 받는다) 이게 뭐예요?
+Deurwaarder: Een dagvaarding. En een aankondiging van een kort geding. (stil) Ik bezorg alleen het papier, mevrouw. Ik lees het niet.
+소환장이요. 그리고 가처분 신청 통지. (침묵) 전 종이만 전달해요, 부인. 읽진 않아요.
+Bram: (komt erbij, opent de envelop, leest; zijn gezicht wordt stil) Eisers: Van Oosterhout & Partners Notarissen. Kustlijn Beheer bv. Kustlijn Bouw bv. Verbeek Strategie & Netwerk. (stil) Een schadeclaim van vier komma zeven miljoen euro.
+(다가와 봉투를 열고 읽는다; 얼굴이 조용해진다) 원고: 판 오스터하우트 & 파트너스 공증 사무소. 쿠스틀레인 관리 유한회사. 쿠스틀레인 건설 유한회사. 페르베이크 전략 & 네트워크. (침묵) 손해배상 청구액 470만 유로.
+Jip: (fluistert) Vier komma zeven miljoen. Wij hebben op de bank... (stopt) Ik weet niet eens hoeveel wij op de bank hebben.
+(속삭인다) 470만. 우리 통장엔... (멈춘다) 우리 통장에 얼마 있는지도 모르겠어요.
+Femke: (leest over Brams schouder) "Wegens onrechtmatige publicaties, het verspreiden van onware en ernstig belastende beschuldigingen, en het voornemen tot verdere publicaties." Ze willen ook dat we niet meer over hen schrijven.
+(브람 어깨 너머로 읽는다) "불법적 보도, 허위이자 심각하게 부담을 주는 비방의 유포, 그리고 추가 보도 의도를 이유로." 더 이상 자기들에 대해 쓰지 못하게도 하려는 거야.
+Noor: Het kort geding is volgende week donderdag. Ze eisen een publicatieverbod. Op alles wat we nog niet gepubliceerd hebben over hen.
+가처분 심리는 다음 주 목요일이에요. 보도 금지를 요구해요. 아직 안 낸 그들에 관한 모든 것에.
+Bram: (vouwt het papier dicht) Dan weten ze wat we nog niet gepubliceerd hebben. Of ze vermoeden het.
+(종이를 접는다) 그럼 우리가 아직 안 낸 게 뭔지 아는 거야. 아니면 짐작하거나.
+Femke: Wat hebben we nog niet gepubliceerd?
+아직 안 낸 게 뭐야?
+Noor: Wendy en Ruben. Marloes. De adviesfee van Verbeek. Ingrid, als ze ooit wil. (stil) En Open Venster. Maar dat staat nergens. Alleen op Jips laptop en in Hannekes kluis.
+벤디랑 뤼번. 마를루스. 페르베이크 자문료. 잉그리드, 언젠가 원하면. (침묵) 그리고 오픈 펜스터. 그런데 그건 어디에도 없어요. 집 노트북이랑 하네커 금고에만.
+Jip: (zacht) En de dagvaarding noemt "voornemen tot verdere publicaties over de financiering van persorganen." (kijkt op) Persorganen. Dat zijn wij.
+(작게) 그리고 소환장에 "언론 기관 재원에 관한 추가 보도 의도"라고 써 있어요. (고개를 든다) 언론 기관. 그게 우리예요.
+Bram: (heel stil) Ze weten dat we naar Open Venster kijken.
+(아주 조용히) 우리가 오픈 펜스터를 보고 있다는 걸 알아.
+Femke: Of ze raden het, na het gesprek in de hoekkamer. Hij zag je gezicht toen je de naam noemde.
+아니면 모퉁이 방 대화 뒤에 짐작했거나. 네가 그 이름을 댈 때 네 얼굴을 봤잖아.
+Hanneke: (in haar kantoor, een uur later, het dossier voor zich, haar bril op haar neus) Dit is een SLAPP. Strategic lawsuit against public participation. Een rechtszaak die niet bedoeld is om te winnen, maar om jullie leeg te laten bloeden.
+(한 시간 뒤 사무실에서, 앞에 서류, 코에 걸친 안경) 이건 SLAPP이야. 공공 참여에 대한 전략적 봉쇄 소송. 이기려는 게 아니라 너희를 말려 죽이려는 소송.
+Noor: Hoe weet je dat zo zeker?
+그걸 어떻게 그렇게 확신해요?
+Hanneke: Aan drie dingen. Het bedrag is absurd hoog voor een kleine redactie. Er zijn vier eisers in plaats van één, zodat jullie vier keer verweer moeten voeren. En ze eisen een verbod op toekomstige publicaties. Wie zich alleen tegen een fout wil verweren, vraagt om een rectificatie. Wie wil dat je zwijgt, vraagt om een verbod.
+세 가지로요. 작은 편집국한텐 금액이 터무니없이 높아. 원고가 하나가 아니라 넷이라 너흰 방어를 네 번 해야 하고. 그리고 앞으로의 보도 금지를 요구해. 잘못만 바로잡고 싶은 사람은 정정 보도를 요구해. 네가 입 다물길 원하는 사람은 금지를 요구하지.
+Femke: Rectificatie versus verbod.
+정정 보도 대 금지.
+Hanneke: Dat is het verschil tussen iemand die gelijk wil krijgen en iemand die stilte wil kopen.
+그게 옳다고 인정받고 싶은 사람과 침묵을 사고 싶은 사람의 차이야.
+Bram: Kunnen ze winnen?
+그쪽이 이길 수 있어?
+Hanneke: Op de inhoud? Waarschijnlijk niet. Alles wat jullie gepubliceerd hebben, is feitelijk, met wederhoor, met bronnen. De datastukken zijn openbare registers. (stil) Maar daar gaat het ze niet om. Ze willen ons kapot procederen.
+내용으로? 아마 못 이겨. 너희가 낸 건 다 사실이고, 반론 받았고, 출처가 있어. 데이터 기사는 공개 등기부고. (침묵) 그런데 그쪽 목적은 그게 아냐. 우릴 소송으로 망가뜨리고 싶은 거야.
+Femke: Kapot procederen.
+소송으로 망가뜨린다.
+Hanneke: Een zaak van vier komma zeven miljoen duurt twee, drie jaar. Hoger beroep, cassatie. Elke stap kost advocatenuren. Experts. Getuigen. Jullie moeten verweer voeren tegen vier eisers, elk met een eigen topkantoor. (kijkt over haar bril) Alleen al de verdediging kost tweehonderdduizend euro. Per jaar.
+470만짜리 사건은 2, 3년 걸려. 항소, 상고. 단계마다 변호사 시간이 들지. 전문가. 증인. 원고 넷을 상대로 방어해야 하는데, 다들 일류 로펌이 따로 있어. (안경 너머로 본다) 방어만 해도 1년에 20만 유로야.
+Jip: Tweehonderdduizend per jaar. Wij hebben... (kijkt op zijn telefoon) Wij hebben een reserve van tachtigduizend. Volgens de laatste jaarrekening.
+1년에 20만. 우린... (폰을 본다) 예비금이 8만이에요. 지난 재무제표 기준으로.
+Hanneke: Dan zijn jullie over vijf maanden failliet. Zonder dat een rechter ooit een woord van jullie onwaar heeft verklaard.
+그럼 5개월 뒤에 파산이야. 판사가 너희 말 한마디도 허위라고 한 적 없이.
+Bram: (heel stil) Dat is het plan. Niet winnen. Uitputten.
+(아주 조용히) 그게 계획이네. 이기는 게 아니라. 지치게 하는 거.
+Hanneke: Dat is altijd het plan bij een SLAPP. (stil) Er is één lichtpunt. Europa heeft een anti-SLAPP-richtlijn aangenomen. Nederland heeft die net omgezet. Een rechter kan nu een zaak vroegtijdig afwijzen als die "kennelijk ongegrond" is, en de eiser laten betalen voor onze kosten.
+SLAPP은 늘 그게 계획이야. (침묵) 희망은 하나 있어. 유럽이 반(反)SLAPP 지침을 채택했고. 네덜란드가 막 국내법으로 옮겼어. 이제 판사가 소송이 "명백히 근거 없는" 경우 일찍 기각하고, 원고한테 우리 비용을 물게 할 수 있어.
+Femke: Hoe snel?
+얼마나 빨리?
+Hanneke: Als we geluk hebben, binnen een paar maanden. Maar het is nieuw. Nog niemand heeft het in Nederland echt getest. (stil) Wij zouden de eerste zijn.
+운이 좋으면 몇 달 안에. 그런데 새 제도야. 네덜란드에선 아직 아무도 제대로 시험해 본 적이 없어. (침묵) 우리가 처음이 될 거야.
+Bram: En tot die tijd?
+그때까진?
+Hanneke: (kijkt hem aan) En Bram — er is nog iets. De eis tegen jou persoonlijk. Niet alleen tegen de stichting. Tegen Bram Hoekstra, als auteur. Ze willen dat jij persoonlijk aansprakelijk bent.
+(그를 본다) 그리고 브람 — 하나 더 있어. 너 개인한테 하는 청구. 재단만이 아니라. 기사 작성자 브람 훅스트라한테. 네가 개인적으로 책임지길 원해.
+Bram: (stil) Mijn huis. Mijn spaargeld.
+(침묵) 내 집. 내 저금.
+Hanneke: Liekes studie. (zacht) Dat is waarom hij haar eindexamen noemde. Hij wilde dat je rekende. Dit is de rekensom.
+리커 학비. (작게) 그래서 그 사람이 졸업 시험을 언급한 거야. 네가 계산해 보길 바랐던 거지. 이게 그 계산이야.
+Bram: (een lange stilte) "Ik zou het jammer vinden."
+(긴 침묵) "안타까울 거예요."
+Hanneke: Tot die tijd betalen jullie. En als jullie het kort geding verliezen, mogen jullie niks meer over ze publiceren tot de bodemzaak klaar is. Twee, drie jaar zwijgen.
+그때까진 너희가 내. 그리고 가처분에서 지면, 본안 소송이 끝날 때까지 그들에 대해 아무것도 못 내. 2, 3년 침묵.
+Femke: (zacht) Een geheimhoudingsclausule, maar dan opgelegd door een rechter.
+(작게) 비밀 유지 조항인데, 판사가 부과하는 거네.
+Hanneke: (knikt) Precies. Hetzelfde instrument, een andere pen.
+(끄덕인다) 그렇지. 같은 도구, 다른 펜.
+Margreet: (in haar kantoor, 's middags, met het hele team; de deur dicht, de jaloezieën open) Ik heb de dagvaarding gelezen. Drie keer. (stil) Ik ga eerlijk zijn, want jullie verdienen eerlijkheid. Dit kunnen we niet betalen.
+(오후, 편집장실, 팀 전원; 문은 닫고 블라인드는 열어 둔 채) 소환장 읽었어. 세 번. (침묵) 솔직하게 말할게, 너희는 솔직함을 받을 자격이 있으니까. 이건 우리가 감당 못 해.
+Bram: Hanneke zegt dat we op de inhoud winnen.
+하네커는 내용으로는 우리가 이긴대.
+Margreet: Op de inhoud. Over drie jaar. Als we dan nog bestaan. (stil) Ik heb dit eerder gezien, Bram. In 2024. Toen hadden we nog twee maanden. Toen werden we gered.
+내용으로는. 3년 뒤에. 그때까지 우리가 존재하면. (침묵) 이거 전에도 봤어, 브람. 2024년에. 그땐 두 달 남아 있었지. 그리고 구해졌어.
+Bram: (heel rustig) Door Open Venster.
+(아주 차분하게) 오픈 펜스터한테.
+Margreet: (een korte stilte; ze kijkt hem aan) Door Open Venster. Ja. (stil) En die zal ons dit keer niet redden, denk ik. Gezien wie er voorzitter van is en wie ons nu aanklaagt.
+(짧은 침묵; 그를 본다) 오픈 펜스터한테. 그래. (침묵) 그리고 이번엔 그 재단이 우릴 구하지 않을 거야, 아마. 누가 의장이고 지금 누가 우릴 고소하는지를 보면.
+Femke: (zacht) U weet wie de voorzitter is.
+(작게) 의장이 누군지 아시네요.
+Margreet: Iedereen kan het in het register lezen, Femke. (glimlacht dun) Ik heb het jullie nooit verteld omdat het irrelevant was. Een notaris in een bestuur. Er zitten notarissen in elk bestuur van elk goed doel in Nederland.
+등기부에서 누구나 읽을 수 있어, 펨커. (엷게 미소 짓는다) 관련이 없어서 너희한테 말 안 했던 거야. 이사회의 공증인 하나. 네덜란드 자선 단체 이사회엔 다 공증인이 있어.
+Bram: Hij heeft ons gered. En nu klaagt hij ons aan.
+그 사람이 우릴 구했어. 그리고 이제 우릴 고소해.
+Margreet: En dat is precies waarom we voorzichtig moeten zijn. (leunt naar voren) Ik stel het volgende voor. We vragen uitstel van het kort geding. We publiceren drie maanden niks meer over Van Oosterhout. We onderhandelen. Misschien trekt hij de zaak in als we laten zien dat we redelijk zijn.
+그래서 바로 우리가 조심해야 하는 거야. (몸을 앞으로 기울인다) 이렇게 제안할게. 가처분 연기를 요청하자. 석 달 동안 판 오스터하우트에 대해 아무것도 내지 말자. 협상하자. 우리가 합리적이라는 걸 보여 주면 소송을 취하할지도 몰라.
+Noor: Drie maanden niks? En Wendy? Marloes? Ze hebben met naam gesproken. Ze wachten op hun stuk.
+석 달 동안 아무것도요? 그럼 벤디는요? 마를루스는요? 실명으로 말했어요. 자기 기사를 기다리고 있어요.
+Margreet: Ze kunnen wachten. Ze wachten al jaren. Drie maanden extra maakt het verschil niet.
+기다릴 수 있어. 몇 년째 기다리고 있잖아. 석 달 더 해서 달라질 건 없어.
+Noor: (scherp) Wendy solliciteert. Elke keer als iemand haar naam googelt, ziet hij "integriteitsschending." Drie maanden is voor haar nog drie maanden zonder baan.
+(날카롭게) 벤디는 구직 중이에요. 누가 이름을 구글링할 때마다 "청렴 위반"을 봐요. 석 달이면 그 사람한텐 석 달 더 일자리 없이예요.
+Margreet: (zachter) Ik weet het, Noor. Het is wreed. Maar als we failliet gaan, krijgt Wendy nooit haar stuk. Dan staat er niemand meer die het kan schrijven.
+(더 부드럽게) 알아, 노르. 잔인하지. 그런데 우리가 파산하면 벤디는 영영 자기 기사를 못 받아. 그걸 쓸 사람이 아무도 안 남아.
+Jip: Dat klinkt redelijk.
+합리적으로 들려요.
+Femke: (zacht) Alles wat ze zegt, klinkt redelijk. Dat is altijd zo.
+(작게) 그 사람이 하는 말은 다 합리적으로 들려. 늘 그래.
+Femke: (heel stil, bijna onhoorbaar) Twaalf.
+(아주 조용히, 거의 들리지 않게) 열둘.
+Bram: (kijkt Margreet lang aan) Uitstel. Zwijgen. Onderhandelen. (stil) Dat is precies wat de dagvaarding wil. Als we het zelf doen, hoeft hij het niet eens te winnen.
+(마르흐레이트를 오래 본다) 연기. 침묵. 협상. (침묵) 그게 딱 소환장이 원하는 거야. 우리가 직접 하면, 그 사람은 이길 필요도 없어.
+Margreet: (koeler) Ik bescherm deze krant, Bram. Veertien banen. Als jij dit tot het einde wilt uitvechten, met geld dat we niet hebben, dan doe je dat met mijn handtekening niet.
+(더 차갑게) 난 이 신문을 지키는 거야, 브람. 일자리 열넷. 네가 없는 돈으로 이걸 끝까지 싸우고 싶으면, 내 서명으론 안 돼.
+Jip: (aarzelt, dan) Er is nog een optie. We vragen het de lezers.
+(망설이다가) 다른 선택지가 하나 있어요. 독자들한테 물어보는 거요.
+Margreet: (verbaasd) De lezers?
+(놀라서) 독자들?
+Jip: Crowdfunding. Een rechtsfonds. "Draag de Lantaarn." We leggen uit wat een SLAPP is, wat er op het spel staat, en we vragen tien euro. Twintig. Wat mensen kunnen missen.
+크라우드펀딩. 소송 기금. "등불을 들어 주세요." SLAPP이 뭔지, 뭐가 걸렸는지 설명하고, 10유로를 부탁하는 거예요. 20유로. 사람들이 낼 수 있는 만큼.
+Margreet: Een krant die bedelt.
+구걸하는 신문.
+Noor: Een krant die het vraagt aan de mensen voor wie ze schrijft. Niet aan een fonds. Aan hen.
+자기가 쓰는 대상인 사람들한테 묻는 신문이에요. 기금이 아니라. 그 사람들한테.
+Bram: (zacht) Niet aan een fonds.
+(작게) 기금이 아니라.
+Margreet: (een lange stilte) Tweehonderdduizend euro per jaar, in tientjes?
+(긴 침묵) 1년에 20만 유로를 10유로짜리로?
+Noor: Twintigduizend mensen. Wij hebben vijfenzeventigduizend abonnees op de nieuwsbrief.
+2만 명이요. 뉴스레터 구독자가 7만 5천 명이에요.
+Margreet: (staat op, loopt naar het raam) Probeer het. Een week. Als het niets oplevert, doen we het op mijn manier. (draait zich om) En geen woord over Van Oosterhout in die campagne. Alleen over persvrijheid. In het algemeen.
+(일어나 창가로 간다) 해 봐. 일주일. 아무것도 안 나오면, 내 방식대로 해. (돌아선다) 그리고 그 캠페인엔 판 오스터하우트 얘긴 한 마디도 없이. 언론 자유에 대해서만. 일반적으로.
+Bram: (een stilte) In het algemeen.
+(침묵) 일반적으로.
+Margreet: (glimlacht weer, warm) Ik zeg niet nee, Bram. Ik zeg: slim. Ik bescherm jullie nog steeds. Ook als jullie het niet geloven.
+(다시 따뜻하게 미소 짓는다) 안 된다는 게 아니야, 브람. 영리하게 하라는 거야. 난 아직도 너희를 지켜. 너희가 안 믿어도.
+Noor: (als Margreet de deur opent om te gaan) Mag ik iets vragen? Waarom geen naam? Als iedereen het in het register kan lezen?
+(마르흐레이트가 나가려고 문을 열자) 하나 물어도 돼요? 왜 이름은 안 돼요? 다들 등기부에서 읽을 수 있다면서요?
+Margreet: (blijft staan) Omdat een naam in een campagne een beschuldiging is, Noor. En een beschuldiging in een campagne is precies wat hij nodig heeft voor zijn zaak. (stil) Ik ben niet je vijand. Ik ben je juridische geheugen.
+(멈춰 선다) 캠페인에 들어간 이름은 비난이니까, 노르. 그리고 캠페인 속 비난이야말로 그 사람 소송에 딱 필요한 거고. (침묵) 난 네 적이 아냐. 네 법적 기억이지.
+Hanneke: (via de telefoon, droog) Daar heeft ze gelijk in. Geen naam in de campagne. Dat is het enige advies van vandaag waarover wij het eens zijn.
+(전화로, 건조하게) 그건 그 사람 말이 맞아. 캠페인엔 이름 넣지 마. 오늘 우리가 동의하는 유일한 조언이야.
+Femke: (zacht, tegen Noor, als Margreet weg is) Zie je? Soms heeft ze gewoon gelijk. Dat maakt het zo moeilijk.
+(마르흐레이트가 간 뒤 노르에게 작게) 봤지? 가끔은 그 사람 말이 그냥 맞아. 그래서 이렇게 어려운 거야.
+Noor: Een kapotte klok heeft twee keer per dag gelijk.
+고장 난 시계도 하루 두 번은 맞잖아요.
+Noor: (dinsdagochtend, op de redactie, voor haar scherm; de teller van de campagne staat op de muur geprojecteerd) Hij staat open. Sinds zeven uur. Kijk.
+(화요일 아침, 편집국 화면 앞; 캠페인 카운터가 벽에 투사돼 있다) 열렸어요. 일곱 시부터. 봐요.
+Jip: (leest) Vierhonderd donaties. In drie uur. Elfduizend euro.
+(읽는다) 기부 400건. 세 시간 만에. 1만 1천 유로.
+Noor: Ik heb gisteravond tot drie uur aan de tekst gezeten. Geen naam van de notaris. Zoals Margreet wilde. Alleen: "Een kleine redactie wordt aangeklaagd voor miljoenen omdat ze schreef over huizen, schepen en mensen die wachten."
+어젯밤 세 시까지 문구를 썼어요. 공증인 이름 없이. 마르흐레이트가 원한 대로. 그냥 이렇게. "작은 편집국이 집과 배와 기다리는 사람들에 대해 썼다는 이유로 수백만 유로 소송을 당했습니다."
+Femke: Mensen die wachten. Dat is het hele verhaal in vier woorden.
+기다리는 사람들. 이야기 전체가 네 단어에 들었네.
+Femke: (leest de berichten die bij de donaties staan) "Voor Samira, die vijftien jaar wachtte." "Van een verpleegkundige uit het OLVG. Ik ken Joost." "Ik ben postbode. Ik breng post naar spoken. Hierbij vijf euro. Henk."
+(기부와 함께 온 메시지를 읽는다) "열다섯 해를 기다린 사미라를 위해." "OLVG 간호사가요. 요스트를 알아요." "저는 집배원이에요. 유령들한테 우편을 배달해요. 여기 5유로. 헹크."
+Bram: (staat achter hen, heel stil) Henk.
+(그들 뒤에 서서 아주 조용히) 헹크.
+Noor: (scrolt) "Mevrouw Bakker, Schiedam. Mijn man was boekhouder. Wie niks opschrijft, heeft niks gezien. Twintig euro." (stil) En hier. "Een moeder in hut 214. Vijf euro. Mijn dochter Liya kent nu een lucht zonder schip, op een filmpje."
+(스크롤한다) "바커르 부인, 스히담. 남편이 회계사였어요. 아무것도 안 적는 사람은 아무것도 못 본 것. 20유로." (침묵) 그리고 여기. "214호 선실의 엄마. 5유로. 우리 딸 리야가 이제 영상으로 배 없는 하늘을 알아요."
+Jip: (zacht) Senait.
+(작게) 세나이트.
+Femke: (heel zacht) Vijf euro van iemand die in negen vierkante meter woont.
+(아주 작게) 9제곱미터에 사는 사람이 보낸 5유로.
+Bram: (moet even weglopen, staat bij het raam; dan, zonder zich om te draaien) Lees verder. Allemaal. Ik wil ze allemaal horen.
+(잠깐 걸어가 창가에 선다; 그런 뒤 돌아서지 않고) 계속 읽어. 전부. 다 듣고 싶어.
+Noor: "Kasia, Westland. Mijn voet is beter. Tien euro. Dank aan Agnieszka, wie ze ook is." (stil, kijkt naar Femke)
+"카샤, 베스틀란트. 발이 나았어요. 10유로. 아그니에슈카한테 고마워요, 그 사람이 누구든." (침묵, 펨커를 본다)
+Femke: (draait zich weg, haar ogen nat) Lees verder.
+(고개를 돌린다, 눈이 젖어 있다) 계속 읽어.
+Noor: "Een jongen uit Zuid. Ik heb mijn naam terug van zes van de zeventien. Met een advocaat. Vijftig euro, want ik verdien weer gewoon." (stil) Dylan.
+"자위트의 청년. 열일곱 개 중 여섯 개에서 내 이름을 되찾았어요. 변호사랑. 50유로, 이제 다시 평범하게 버니까." (침묵) 딜런.
+Noor: En hier. Twee van één adres in Rotterdam. "Wendy Kok, tien euro. Ruben, tien euro. Wij hebben geen baan, maar wel een krant." (stil) Ze hebben allebei geen werk, Bram.
+그리고 여기. 로테르담 한 주소에서 두 건. "벤디 콕, 10유로. 뤼번, 10유로. 우린 일자리는 없지만 신문은 있어요." (침묵) 둘 다 일이 없어요, 브람.
+Bram: (zijn stem dik) Lees verder.
+(목소리가 메인다) 계속 읽어.
+Noor: "Ingrid. Twintig euro. Voor de tomaten." En: "Marloes Visser. Vijftig euro. Mama kon te goed rekenen."
+"잉그리드. 20유로. 토마토를 위해." 그리고: "마를루스 피서르. 50유로. 엄마가 계산을 너무 잘해서."
+Jip: (kijkt naar de teller) Twaalfhonderd donaties. Achtendertigduizend euro. Het is nog geen tien uur.
+(카운터를 본다) 기부 1,200건. 3만 8천 유로. 아직 열 시도 안 됐어요.
+Bram: (draait zich eindelijk om) De lezers staan achter ons.
+(마침내 돌아선다) 독자들이 우리 뒤에 있어.
+Hanneke: (via de telefoon op de luidspreker) Ik zie het. Iedereen ziet het. Het staat al op de site van drie andere kranten. "Kleine redactie krijgt in een ochtend veertigduizend euro na miljoenenclaim." (stil) Dat is ook iets wat ik in het kort geding kan gebruiken. Een rechter leest ook kranten. Hij ziet dat het publiek dit verhaal belangrijk vindt.
+(스피커폰으로) 보여. 다들 봐. 벌써 다른 신문 세 곳 사이트에 났어. "수백만 유로 소송 당한 작은 편집국, 오전 한나절에 4만 유로 모금." (침묵) 그것도 가처분에서 쓸 수 있어. 판사도 신문을 읽어. 대중이 이 기사를 중요하게 여긴다는 걸 보지.
+Margreet: (verschijnt in de deuropening, kijkt naar de teller op de muur; een lange stilte) Achtendertigduizend.
+(문간에 나타나 벽의 카운터를 본다; 긴 침묵) 3만 8천.
+Bram: In drie uur. Van tientjes. Van mensen die we hebben laten praten.
+세 시간 만에. 10유로짜리로. 우리가 말하게 해 준 사람들한테서.
+Margreet: (glimlacht, maar het is een vreemde glimlach) Dan heb ik me vergist. De lezers staan achter ons. (stil) Gefeliciteerd, allemaal. Dit is... indrukwekkend.
+(미소 짓지만 묘한 미소다) 그럼 내가 틀렸네. 독자들이 우리 뒤에 있어. (침묵) 다들 축하해. 이건... 인상적이야.
+Femke: (als ze weg is, zacht) Ze vergiste zich niet graag.
+(그녀가 가자 작게) 그 사람은 틀리는 걸 안 좋아해.
+Jip: (kijkt naar het scherm) Er komt een grote. Vijfduizend euro. Anoniem. (stil) Met een bericht: "Voor Lucas. Die de ramen filmde."
+(화면을 본다) 큰 게 하나 들어와요. 5천 유로. 익명. (침묵) 메시지랑 같이. "뤼카스를 위해. 창문을 찍은 사람."
+Noor: (zacht) Iemand kent zijn werk.
+(작게) 누가 그의 작업을 알아요.
+Bram: Iemand van het schip, misschien. Of van de omroep. (stil) Zeg het hem niet via de mail. Zeg het hem zelf.
+배 위의 누군가일지도. 아니면 방송사의. (침묵) 메일로 말하지 마. 직접 말해.
+Bram: (zacht) Niemand vergist zich graag. (stil) Maar ze keek naar de teller zoals Verbeek naar de klok keek.
+(작게) 틀리는 걸 좋아하는 사람은 없어. (침묵) 그런데 그 사람은 페르베이크가 시계를 보던 것처럼 카운터를 봤어.
+Femke: Schrijf het op.
+적어.
+Noor: (zaterdagavond, in de grote hal van een oud scheepsbouwpakhuis op de NDSM-werf; honderden mensen, lange tafels, lampjes; een spandoek "DRAAG DE LANTAARN") Driehonderdtwintigduizend euro. In vijf dagen. Vierentwintigduizend donateurs.
+(토요일 저녁, NDSM 부두 옛 조선 창고의 큰 홀; 수백 명, 긴 탁자들, 작은 전구들; 현수막 "등불을 들어 주세요") 32만 유로. 닷새 만에. 기부자 2만 4천 명.
+Jip: Genoeg voor anderhalf jaar verdediging. En Hanneke heeft het kort geding uitgesteld gekregen, omdat de anti-SLAPP-procedure eerst moet. De rechter wil eerst horen of de zaak "kennelijk ongegrond" is.
+방어 1년 반치예요. 그리고 하네커가 가처분을 연기시켰어요, 반SLAPP 절차가 먼저래요. 판사가 먼저 소송이 "명백히 근거 없는지"부터 듣고 싶대요.
+Hanneke: (staat bij de bar met een glas water; tegen Bram) Wij zijn de eerste zaak in Nederland onder de nieuwe wet. Er komen journalisten uit Brussel naar de zitting. (stil) Als we winnen, Bram, dan heeft elke kleine krant in Europa daar iets aan.
+(물 한 잔을 들고 바 옆에 서서 브람에게) 우리가 새 법에 따른 네덜란드 첫 사건이야. 브뤼셀에서 기자들이 심리에 와. (침묵) 우리가 이기면, 브람, 유럽의 모든 작은 신문이 덕을 볼 거야.
+Bram: En als we verliezen?
+지면?
+Hanneke: Dan weet iedereen wat een SLAPP kan. Dat is ook een soort winst. Een lelijke.
+그럼 다들 SLAPP이 뭘 할 수 있는지 알게 되지. 그것도 일종의 승리야. 못생긴.
+Bram: (kijkt de zaal rond; Samira en Joost met Ilyas op de arm; mevrouw Bakker met een kleinzoon; Marek en Tomasz achter in de hoek; Henk in een colbert) Ze zijn allemaal gekomen.
+(홀을 둘러본다; 일리아스를 안은 사미라와 요스트; 손자와 함께 온 바커르 부인; 구석의 마렉과 토마시; 재킷을 입은 헹크) 다들 왔네.
+Femke: (wijst) Dorota ook. Met Kasia. Kasia zonder gips.
+(가리킨다) 도로타도. 카샤랑. 깁스 없는 카샤.
+Dorota: (komt naar Femke toe, in het Pools, dan in het Nederlands, met een kleine glimlach) Agnieszka. Of hoe je ook heet. (stil) Je hebt het goed opgeschreven. Ook de wc. Ik heb het gelezen. Drie keer.
+(펨커에게 다가와, 폴란드어로, 그런 뒤 네덜란드어로, 작은 미소와 함께) 아그니에슈카. 아니면 네 이름이 뭐든. (침묵) 잘 적었어. 화장실도. 읽었어. 세 번.
+Femke: (zacht) Femke. Ik heet Femke.
+(작게) 펨커. 제 이름은 펨커예요.
+Dorota: (knikt) Femke. Een mooie naam. Voor een Nederlander. (lacht)
+(끄덕인다) 펨커. 예쁜 이름이네. 네덜란드 사람치고. (웃는다)
+Kasia: (omhelst Femke, in het Pools en dan in het Nederlands) Je hebt de ambulance gebeld. Met je eigen stem. Ik dacht die dag: die vrouw is niet bang voor Dennis. Nu weet ik waarom.
+(펨커를 안는다, 폴란드어로, 그런 뒤 네덜란드어로) 구급차 불러 줬잖아요. 자기 목소리로. 그날 생각했어요. 저 여자는 데니스를 안 무서워하네. 이제 왜인지 알아요.
+Femke: (zacht) Ik was wel bang. Ik deed het toch.
+(작게) 무서웠어요. 그래도 했어요.
+Kasia: Dat is hetzelfde, zegt mijn moeder. Moed is bang zijn en het toch doen.
+우리 엄마가 그건 같은 거래요. 용기는 무서운데도 하는 거래요.
+Margreet: (op een klein podium, een microfoon in haar hand; de zaal wordt stil) Goedenavond. Ik ben Margreet Zwart. Hoofdredacteur van De Lantaarn. (stil) In 2024 stonden we op omvallen. Toen werden we gered door een fonds. Vandaag werden we gered door jullie. Door vierentwintigduizend mensen die geloven dat een krant lastige vragen moet kunnen stellen. Dat is de mooiste redding die een krant kan krijgen.
+(작은 무대 위, 손에 마이크; 홀이 조용해진다) 안녕하세요. 마르흐레이트 즈바르트입니다. 드 란타른 편집장이에요. (침묵) 2024년에 우린 쓰러지기 직전이었어요. 그때 한 기금이 우릴 구했죠. 오늘은 여러분이 우릴 구했어요. 신문은 곤란한 질문을 할 수 있어야 한다고 믿는 2만 4천 명이. 신문이 받을 수 있는 가장 아름다운 구원이에요.
+Bram: (achterin de zaal, naast Femke, heel zacht) "Door een fonds." Ze noemt de naam niet.
+(홀 뒤쪽, 펨커 옆에서 아주 작게) "한 기금이." 이름은 안 대네.
+Femke: (zacht) Niemand hier zou de naam begrijpen. Of iedereen.
+(작게) 여기 아무도 그 이름을 이해 못 할 거야. 아니면 다들 이해하거나.
+Margreet: (verder) ...en ik wil in het bijzonder Bram Hoekstra bedanken. Die dertig jaar geleden als scholier bij mij stage liep en die me nog steeds elke dag leert wat moed is. (applaus) Bram, kom even.
+(계속) ...그리고 특히 브람 훅스트라에게 감사하고 싶어요. 30년 전 학생으로 저한테 실습을 왔고, 지금도 매일 용기가 뭔지 가르쳐 주는 사람이에요. (박수) 브람, 잠깐 올라와.
+Bram: (een seconde verstijfd; dan loopt hij naar voren, tussen de tafels door; de zaal applaudisseert; Margreet slaat een arm om hem heen voor de foto's) Dank je.
+(일 초 굳는다; 그런 뒤 탁자들 사이로 앞으로 걸어간다; 홀이 박수 친다; 마르흐레이트가 사진을 위해 그의 어깨에 팔을 두른다) 고마워.
+Margreet: (zacht in zijn oor, terwijl de camera's flitsen) Zie je wel? We redden het altijd samen. Dertig jaar. (stil) Laat de notaris even rusten, Bram. Voor het kort geding. Voor mij.
+(카메라 플래시가 터지는 동안 그의 귀에 작게) 봤지? 우린 늘 같이 해내. 30년. (침묵) 공증인은 잠깐 쉬게 둬, 브람. 가처분 때문에. 나를 위해서.
+Bram: (glimlacht voor de camera; zegt niets)
+(카메라를 향해 미소 짓는다; 아무 말도 하지 않는다)
+Margreet: (nog zachter, haar arm nog om hem heen) En Bram? Erik vroeg naar je. Hij wil je spreken. Hij maakt zich zorgen. Bel hem, morgen. Hij kan helpen met het kort geding. Hij weet wat justitie over Kustlijn heeft.
+(더 작게, 아직 그를 팔로 두른 채) 그리고 브람? 에릭이 네 안부를 물었어. 너랑 얘기하고 싶대. 걱정하더라. 내일 전화해. 가처분에 도움이 될 거야. 검찰이 쿠스틀레인에 대해 뭘 갖고 있는지 알거든.
+Bram: (een seconde; dan, tussen zijn tanden, nog steeds glimlachend) Je hebt Erik gesproken?
+(일 초; 그런 뒤 여전히 미소 지은 채 이 사이로) 에릭이랑 얘기했어?
+Margreet: (laat hem los, wuift naar de zaal) Natuurlijk. Ik spreek hem elke week. Al twintig jaar. Net als jij. (glimlacht) Heb je het al bij Erik gecheckt? Dat vraag ik je toch altijd.
+(그를 놓고 홀을 향해 손을 흔든다) 당연하지. 매주 얘기해. 20년째. 너처럼. (미소 짓는다) 에릭한테 확인은 했어? 내가 늘 묻잖아.
+Femke: (achterin, tegen niemand, heel zacht) Dertien.
+(뒤쪽에서, 아무에게도 아니게, 아주 작게) 열셋.
+Bram: (komt terug van het podium, naast Femke, zijn glimlach weg) Ze zei: "Heb je het al bij Erik gecheckt?" Zoals altijd.
+(무대에서 돌아와 펨커 옆에 선다, 미소가 사라져 있다) 그 사람이 그러더라. "에릭한테 확인은 했어?" 늘 하던 대로.
+Femke: (kijkt hem lang aan) Zoals altijd. Elke dinsdag. Dertig jaar.
+(그를 오래 본다) 늘 하던 대로. 매주 화요일. 30년.
+Bram: (een stilte; iets beweegt achter zijn ogen en zakt dan weer weg) Ze spreekt hem elke week. Dat wist ik. Dat weet iedereen.
+(침묵; 눈 뒤에서 뭔가가 움직였다가 다시 가라앉는다) 매주 얘기한대. 알고 있었어. 다들 알아.
+Femke: Iedereen weet het. Daarom ziet niemand het.
+다들 알지. 그래서 아무도 못 보는 거야.
+Lucas: (later, bij de lange tafel met koffie, achter in de hal; hij heeft een pet op, een camera om zijn nek; hij komt naast Bram staan alsof hij een vreemde is) Mooie avond.
+(나중에, 홀 뒤쪽 커피가 놓인 긴 탁자 옆; 모자를 쓰고 목에 카메라를 건 채; 낯선 사람인 것처럼 브람 옆에 와 선다) 멋진 밤이네요.
+Bram: (verrast, zacht) Lucas. Je bent er.
+(놀라서 작게) 뤼카스. 왔구나.
+Lucas: Ik heb vijftig euro gedoneerd. Met mijn eigen naam. (bijna een glimlach) Mijn rekening staat weer rood. Maar het was het waard.
+50유로 기부했어요. 제 이름으로. (거의 미소) 계좌가 다시 적자예요. 그래도 그럴 가치가 있었어요.
+Bram: Waarom sta je achterin? Kom naar voren. Noor wil je zien. Jip ook.
+왜 뒤에 있어? 앞으로 와. 노르가 보고 싶어 해. 집도.
+Lucas: (schudt zijn hoofd, kijkt naar het podium, waar Margreet met mensen praat) Niet vanavond. (stil) Ik moet je iets geven. Niet hier. (hij drukt Bram snel een opgevouwen papiertje in de hand, zoals je een muntje geeft) Lees het niet nu. Lees het als je alleen bent.
+(고개를 젓고, 마르흐레이트가 사람들과 얘기하는 무대를 본다) 오늘 밤은 아니에요. (침묵) 드릴 게 있어요. 여기선 말고. (동전 건네듯 접은 쪽지를 브람 손에 재빨리 쥐여 준다) 지금 읽지 마요. 혼자 있을 때 읽어요.
+Bram: (houdt het papiertje vast, voelt het in zijn vuist) Wat is het?
+(쪽지를 쥐고 주먹 안에서 느낀다) 이게 뭐야?
+Lucas: (kijkt rond; Noor ziet hem van ver en zwaait; hij zwaait klein terug) Noor heeft mijn camera nog op de plank, hè.
+(둘러본다; 노르가 멀리서 그를 보고 손을 흔든다; 그도 작게 흔든다) 노르가 아직 제 카메라 선반에 두고 있죠.
+Bram: Op jouw plank. Niemand raakt hem aan. (stil) En er kwam vanmiddag een donatie binnen. Vijfduizend euro. Anoniem. "Voor Lucas. Die de ramen filmde."
+네 선반에. 아무도 안 건드려. (침묵) 그리고 오늘 오후에 기부가 하나 들어왔어. 5천 유로. 익명. "뤼카스를 위해. 창문을 찍은 사람."
+Lucas: (een stilte; zijn kaak beweegt) Iemand heeft het gezien.
+(침묵; 턱이 움직인다) 누가 봤네요.
+Bram: Iemand heeft het gezien. Zoals ik je beloofde: niet alleen.
+누가 봤어. 내가 약속했듯이. 혼자가 아니라고.
+Lucas: (zacht, al wegdraaiend) Iets wat ik vond. Bij Delta Trust. In het register van de garage. Wie de grijze auto in maart ophaalde. (stil) Je zei: eerst naar jou. Dit is eerst naar jou.
+(작게, 벌써 돌아서며) 찾은 거예요. 델타 트러스트에서. 차고 기록부에서. 3월에 누가 그 회색 차를 가져갔는지. (침묵) 당신한테 먼저 오라고 했죠. 이게 당신한테 먼저예요.
+Bram: Lucas — wacht.
+뤼카스 — 기다려.
+Lucas: (bij de deur, draait zich nog één keer om, zijn gezicht onder de pet) Het spijt me, Bram. Ik weet hoe lang je hem kent.
+(문가에서 한 번 더 돌아본다, 모자 아래 얼굴) 미안해요, 브람. 그 사람을 얼마나 오래 알았는지 알아요.
+Bram: (later, buiten, alleen op de kade, het water zwart, het feest achter hem gedempt; hij vouwt het papiertje open en leest het bij het licht van zijn telefoon) "Ik moet je iets vertellen over Erik."
+(나중에, 밖, 부두에 혼자, 검은 물, 등 뒤의 파티 소리가 먹먹하다; 쪽지를 펴고 폰 불빛에 읽는다) "에릭에 대해 할 말이 있어요."
+Bram: (eronder, in Lucas' kleine handschrift: een datum in maart, een tijd, en een naam uit een garageregister; hij leest het twee keer; dan vouwt hij het papiertje heel langzaam weer dicht en zegt tegen het water) Erik.
+(그 아래, 뤼카스의 작은 글씨로: 3월의 날짜 하나, 시간 하나, 그리고 차고 기록부의 이름 하나; 두 번 읽는다; 그런 뒤 아주 천천히 쪽지를 다시 접고 물을 향해 말한다) 에릭.
+Femke: (komt naast hem staan, twee bekers koffie in haar handen; ziet zijn gezicht) Wat staat erop?
+(커피 두 잔을 들고 그 옆에 와 선다; 그의 얼굴을 본다) 뭐라고 써 있어?
+Bram: (geeft haar het papiertje niet; houdt het in zijn vuist) Morgen. (stil) Femke, ik denk dat ik het weet.
+(쪽지를 주지 않는다; 주먹에 쥔다) 내일. (침묵) 펨커, 알 것 같아.
+Femke: Mag ik het lezen?
+읽어도 돼?
+Bram: (een lange stilte; dan, heel zacht) Nog niet. Ik wil het eerst zelf zeker weten. Ik wil niet dat jij het ook in je hoofd hebt als het niet klopt.
+(긴 침묵; 그런 뒤 아주 작게) 아직은. 먼저 내가 확실히 알고 싶어. 맞지 않으면 너까지 머릿속에 담고 있게 하고 싶지 않아.
+Femke: (zacht) Dat is precies wat jij Lucas in maart niet gaf. Een tweede paar ogen voordat je oordeelt.
+(작게) 그게 바로 3월에 네가 뤼카스한테 안 준 거야. 판단하기 전에 두 번째 눈.
+Femke: (heel zacht) Dat zei je in maart ook. Over Lucas.
+(아주 작게) 3월에도 그렇게 말했어. 뤼카스에 대해.
+Bram: (kijkt naar het water) Dit keer is het een naam in een register. Geen gevoel. Een naam.
+(물을 본다) 이번엔 기록부의 이름이야. 느낌이 아니라. 이름.
+Femke: (kijkt naar de verlichte hal achter hen, waar Margreet bij de deur staat en naar hen kijkt) Een naam in een register is ook maar papier, Bram. Dat zei de notaris. Papier is de enige werkelijkheid die telt. (stil) Wie heeft dat papier geschreven?
+(뒤쪽 불 켜진 홀을 본다, 마르흐레이트가 문가에 서서 그들을 보고 있다) 기록부의 이름도 종이일 뿐이야, 브람. 공증인이 그랬잖아. 종이가 통하는 유일한 현실이라고. (침묵) 그 종이는 누가 썼어?
+Bram: (een lange stilte; hij draait zich om naar de hal; ziet Margreet bij de deur, die hem toezwaait met een glas in haar hand; hij zwaait terug) Morgen.
+(긴 침묵; 홀 쪽으로 돌아선다; 문가에서 잔을 든 채 그에게 손을 흔드는 마르흐레이트를 본다; 그도 손을 흔든다) 내일.
+
+## 주요 단어
+de deurwaarder — 법원 집달관
+de dagvaarding — 소환장
+het kort geding — 가처분 (신청·심리)
+de eiser — 원고
+de schadeclaim — 손해배상 청구
+onrechtmatig — 불법의, 위법한
+belastend — 부담을 주는, 불리한
+het publicatieverbod — 보도 금지
+de SLAPP — 전략적 봉쇄 소송
+procederen — 소송하다
+het hoger beroep — 항소
+de cassatie — 상고
+het verweer — 방어, 항변
+de richtlijn — (EU) 지침
+kennelijk ongegrond — 명백히 근거 없는
+de bodemzaak — 본안 소송
+de crowdfunding — 크라우드펀딩
+het rechtsfonds — 소송 기금
+de donateur — 기부자
+het spandoek — 현수막
+
+## 문법·표현 정리
+Een schadeclaim van… — van + 금액으로 청구 규모를 제시하는 법률·보도체
+Ze willen ons kapot procederen — kapot + 동사(~해서 망가뜨리다)의 결과 복합 표현
+De lezers staan achter ons — achter iemand staan(~을 지지하다)의 관용 표현
+Ik bezorg alleen het papier. Ik lees het niet — 대구로 책임 회피의 일상 언어를 보여 줌
+Dan weten ze wat we nog niet gepubliceerd hebben — dan(그렇다면) + 간접의문
+Een rechtszaak die niet bedoeld is om te winnen — bedoeld zijn om te(~하려는 의도이다)
+zonder dat een rechter ooit een woord onwaar heeft verklaard — zonder dat + 완료(~한 적 없이)
+Hetzelfde instrument, een andere pen — 동사 없는 대구 은유(비밀 유지 조항 = 보도 금지)
+Als jij dit wilt uitvechten, doe je dat met mijn handtekening niet — 조건 + 도치, 부정의 위치로 강조
+Probeer het. Een week. — 짧은 명령 + 기한, 조건부 허락
+Ik zeg niet nee. Ik zeg: slim — niet A, (maar) B의 재정의(거절을 '영리함'으로 포장)
+Wie niks opschrijft, heeft niks gezien — 6부 2화 격언의 회수
+Lees het als je alleen bent — als(~할 때) 조건 명령
+Een naam in een register is ook maar papier — ook maar(~일 뿐)의 한정
+
+## 취재 노트
+🗞️ **SLAPP(Strategic Lawsuit Against Public Participation)**은 이길 목적보다 비용과 시간으로 언론·시민을 지치게 하려는 소송을 말한다. 유럽연합은 2024년 언론인과 인권 옹호자를 보호하기 위한 **반(反)SLAPP 지침**을 채택했고, 회원국은 이를 국내법으로 옮겨야 한다. 지침의 핵심 장치 — "명백히 근거 없는" 소송의 조기 기각, 원고의 비용 부담 — 은 하네커의 설명에 반영되었다. 작품 속 청구액(470만 유로), 절차의 세부와 시점은 극적 효과를 위한 가상 설정이다.
+
+🗞️ 하네커의 대사 «Hetzelfde instrument, een andere pen(같은 도구, 다른 펜)»은 내부고발자들의 비밀 유지 조항(9·11화)과 법원의 보도 금지가 같은 목적 — 침묵 — 에 봉사한다는 이 부의 주제를 압축한다. "판사가 우리 말 한마디도 허위라고 하지 않았는데 5개월 뒤 파산"이라는 계산은 SLAPP의 작동 방식을 보여 준다.
+
+🗞️ 독자 모금(crowdfunding)은 실제로 소송 위협을 받은 독립 언론이 독자 후원으로 버틴 사례들에서 착안했다. 이 화의 감정적 중심은 기부 메시지들이다 — 헹크(5유로, "유령들한테 우편을"), 바커르 부인, **세나이트(9제곱미터에서 5유로)**, 카샤("아그니에슈카한테, 그 사람이 누구든"), **딜런(17개 중 6개 회사에서 이름을 되찾음, 50유로)**. 6부에서 기자들이 "말하게 해 준" 사람들이 이번엔 기자들을 지킨다.
+
+🗞️ 연속성: 마르흐레이트는 긴급 회의에서 **"가처분 연기, 석 달 침묵, 협상"**을 제안하고(펨커의 셈 «열둘»), 후원의 밤 무대에서 브람을 껴안은 채 귓속말로 "**공증인은 잠깐 쉬게 둬, 나를 위해서**"라고 한다(«열셋»). 그녀는 오픈 펜스터 의장이 공증인이라는 사실을 "등기부에서 누구나 읽을 수 있다, 관련 없어서 말 안 했다"고 정면으로 인정한다 — 완벽하게 합리적인 해명. 연설에선 "한 기금"이라고만 말한다. 그리고 PLAN대로 **뤼카스가 후원 행사장 구석에 나타나 쪽지를 건넨다: "Ik moet je iets vertellen over Erik."** 아래엔 델타 트러스트 차고 기록부의 **3월 날짜·시간·이름**(15화에서 공개). 펨커의 마지막 질문 — "**기록부의 이름도 종이일 뿐, 그 종이는 누가 썼어?**" — 는 15화의 오답(에릭)과 7부 4화(무고)를 잇는 경고다. 문가에서 손을 흔드는 마르흐레이트에게 브람도 손을 흔든다.
