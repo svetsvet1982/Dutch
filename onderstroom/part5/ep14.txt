@@ -1,0 +1,350 @@
+# 5부 14화. Wie schrijft de eerste zin? (누가 첫 문장을 쓰나)
+수준: C1 | 장소: 헤이그 스헤베닝언 해변 카페 → 헤이그 중앙역 플랫폼 → 편집국 전쟁실(저녁) → 브람의 책상(밤) | 시간: 2028년 3월 셋째 주, 목요일
+핵심 표현: Het is niet zwart-wit · Ze werken voor wie het best betaalt · Wie heeft er baat bij?
+
+## 대화
+Ingrid: (donderdagochtend, in een leeg strandcafé in Scheveningen, de zee grijs achter het raam) U bent Hoekstra. Gaat u zitten. Ik heb een uur, en ik ga u vooral vertellen wat u níét moet schrijven.
+(목요일 아침, 스헤베닝언의 텅 빈 해변 카페, 창밖 회색 바다) 훅스트라 씨군요. 앉으세요. 한 시간 있어요, 그리고 주로 쓰면 안 되는 걸 말씀드릴 거예요.
+Bram: (gaat zitten) Dat is een ongebruikelijk begin.
+(앉는다) 특이한 시작이네요.
+Ingrid: Ik was tweeëntwintig jaar analist. Mijn werk was niet ontdekken wie iets deed. Mijn werk was zeggen hoe zeker we het wisten. Dat is een ander vak, en de meeste journalisten verwarren die twee.
+전 이십이 년간 분석관이었어요. 제 일은 누가 했는지 알아내는 게 아니었어요. 우리가 그걸 얼마나 확실히 아는지 말하는 거였죠. 그건 다른 일이에요, 그리고 기자들 대부분이 둘을 헷갈려요.
+Femke: (naast Bram) Daarom wilde ik dat je haar sprak, Bram. Niet voor namen. Voor maat.
+(브람 옆에서) 그래서 네가 이분을 만나길 바랐어, 브람. 이름 때문이 아니라. 척도 때문에.
+Ingrid: Femke en ik kennen elkaar van vroeger. Van de andere kant van een tafel. Zij stelde de vragen, ik schreef op hoe zeker de antwoorden waren.
+펨커와 전 예전부터 알아요. 탁자 반대편에서요. 펨커가 질문했고, 전 그 답이 얼마나 확실한지 적었죠.
+Bram: En nu stelt ze ze aan mij.
+그리고 이젠 저한테 묻고요.
+Ingrid: Dat is een goed teken. Wie zich laat bevragen, kan nog leren.
+좋은 신호예요. 질문받기를 허락하는 사람은 아직 배울 수 있어요.
+Bram: Maat. Goed. Dan de vraag die iedereen ons stelt. De kabel, de camera's, het valse alarm, de deepfake. Iedereen zegt: Moskou. Mogen wij dat schrijven?
+척도. 좋아요. 그럼 다들 우리한테 묻는 질문이요. 케이블, 카메라, 가짜 경보, 딥페이크. 다들 모스크바라고 해요. 우리가 그렇게 써도 됩니까?
+Ingrid: (roert in haar thee) Wat weet u? Niet wat denkt u. Wat weet u?
+(차를 젓는다) 뭘 아세요? 뭘 생각하시는지가 아니라. 뭘 아세요?
+Bram: We weten dat een schip zijn signaal uitzette boven een kabel. Dat camera's beelden naar een server in Den Haag stuurden. Dat dezelfde server een nepnieuwssite host. Dat een stichting achter die site staat.
+배 한 척이 케이블 위에서 신호를 껐다는 걸 알아요. 카메라들이 헤이그 서버로 영상을 보냈다는 것. 같은 서버가 가짜 뉴스 사이트를 호스팅한다는 것. 그 사이트 뒤에 재단이 있다는 것.
+Ingrid: En wie de opdracht gaf?
+그럼 누가 지시했는지는요?
+Bram: (stil) Dat weten we niet.
+(침묵) 그건 몰라요.
+Ingrid: Dan schrijft u dat. Precies dat. Wat u weet, en daarnaast, even groot, wat u niet weet. Het is niet zwart-wit, meneer Hoekstra. Het is grijs, en uw taak is het grijs nauwkeurig te beschrijven, niet het zwart te maken omdat zwart beter verkoopt.
+그럼 그렇게 쓰세요. 정확히 그렇게요. 아는 것, 그리고 그 옆에 똑같은 크기로, 모르는 것. 흑백이 아니에요, 훅스트라 씨. 회색이에요. 당신 일은 그 회색을 정확히 묘사하는 거지, 검정이 더 잘 팔린다고 검게 칠하는 게 아니에요.
+Bram: Het is niet zwart-wit. Dat zeggen mensen vaak als ze iets willen ontwijken.
+흑백이 아니다. 사람들이 뭔가를 피하고 싶을 때 자주 하는 말이죠.
+Ingrid: Klopt. Daarom zeg ik het als een opdracht, niet als een uitvlucht. Grijs beschrijven is moeilijker dan zwart roepen. Het vraagt meer woorden en minder applaus.
+맞아요. 그래서 전 그걸 핑계가 아니라 과제로 말하는 거예요. 회색을 묘사하는 건 검정을 외치는 것보다 어려워요. 말은 더 많이 들고 박수는 덜 받죠.
+Femke: Hoe deden jullie dat, intern? Hoe schreef je grijs?
+내부에선 그걸 어떻게 했어요? 회색을 어떻게 썼어요?
+Ingrid: Met woorden die een gewicht hebben. "Wij weten." "Wij achten het waarschijnlijk." "Wij kunnen niet uitsluiten." Elk woord een andere trede. Een lezer moet kunnen zien op welke trede u staat.
+무게가 있는 단어로요. "우리는 안다." "우리는 가능성이 높다고 본다." "우리는 배제할 수 없다." 단어마다 다른 계단이에요. 독자가 당신이 어느 계단에 서 있는지 볼 수 있어야 해요.
+Bram: En als een lezer de trede niet ziet? Als hij alleen de kop leest?
+그런데 독자가 계단을 못 보면요? 헤드라인만 읽으면요?
+Ingrid: Dan moet de kop zelf op de juiste trede staan. Dat is de hele kunst. De meeste mensen lezen alleen de eerste zin. Dus wie de eerste zin schrijft, schrijft eigenlijk het hele stuk.
+그럼 헤드라인 자체가 맞는 계단에 서 있어야죠. 그게 기술의 전부예요. 대부분은 첫 문장만 읽어요. 그러니 첫 문장을 쓰는 사람이 사실상 기사 전체를 쓰는 거예요.
+Femke: Wie schrijft de eerste zin. Daar gaat het om.
+누가 첫 문장을 쓰나. 그게 핵심이네요.
+Ingrid: Daar gaat het altijd om. In een rapport, in een krant, in een rechtszaal. De eerste zin is wat blijft hangen. De rest is voor de mensen die al twijfelen.
+늘 그게 핵심이에요. 보고서에서도, 신문에서도, 법정에서도. 첫 문장이 남아요. 나머지는 이미 의심하는 사람들을 위한 거고요.
+Bram: En de meeste koppen staan op de bovenste trede terwijl het verhaal op de onderste staat.
+그런데 대부분의 헤드라인은 기사가 맨 아래 계단에 있는데 맨 위 계단에 서 있죠.
+Ingrid: Precies. Dat is de meest voorkomende fout. En weet u wat het ergste is? Bij dit soort zaken helpt u daarmee precies degene die u wilt ontmaskeren.
+정확해요. 그게 제일 흔한 실수예요. 그리고 제일 나쁜 게 뭔지 아세요? 이런 종류의 사건에선 그걸로 당신이 정체를 밝히려는 바로 그쪽을 돕는다는 거예요.
+Bram: Hoe dan?
+어떻게요?
+Ingrid: Als u "Moskou" schrijft en het blijkt later deels anders, dan heeft niemand het over de kabel of de camera's. Dan heeft iedereen het over de krant die zich vergiste. Uw fout wordt het verhaal. En wie twijfel wil zaaien, kan zich geen mooier geschenk wensen.
+"모스크바"라고 썼는데 나중에 일부라도 다르다고 밝혀지면, 아무도 케이블이나 카메라 얘기를 안 해요. 다들 틀린 신문 얘기를 하죠. 당신 실수가 기사가 돼요. 그리고 의심을 뿌리려는 쪽한텐 그보다 예쁜 선물이 없어요.
+Femke: Twijfel is hun product. Dat zei ik vorige week tegen het team.
+의심이 그들의 상품. 지난주에 제가 팀한테 한 말이에요.
+Ingrid: Dan heeft u het begrepen. Een overhaaste beschuldiging is ook twijfel. Ze komt alleen later.
+그럼 이해하신 거네요. 성급한 비난도 의심이에요. 다만 나중에 올 뿐이죠.
+Bram: Mag ik u iets vragen over het bureau zelf? Zonder dat u namen noemt?
+그 회사 자체에 대해 여쭤봐도 될까요? 이름을 대지 않으셔도 되게?
+Ingrid: Over de branche. In het algemeen. Ga uw gang.
+업계에 대해선요. 일반적으로. 말씀하세요.
+Bram: Waarom zou iemand die voor een staat werkte, later voor zo'n bureau gaan werken?
+국가를 위해 일하던 사람이 왜 나중에 그런 회사에서 일하게 되죠?
+Ingrid: Om dezelfde reden waarom een chirurg een privékliniek begint. Dezelfde vaardigheden, een hoger salaris, minder regels. En niemand die vraagt waarom.
+외과의가 개인 병원을 차리는 것과 같은 이유죠. 같은 기술, 더 높은 급여, 더 적은 규칙. 그리고 왜냐고 묻는 사람이 없어요.
+Bram: Minder regels. Dat is het gevaarlijke deel.
+더 적은 규칙. 그게 위험한 부분이네요.
+Ingrid: Dat is het hele verschil. Bij de staat schrijf je voor een minister die je kan ontslaan. Bij een bureau schrijf je voor een klant die je kan betalen. Het eerste is een controle. Het tweede is een prijs.
+그게 차이의 전부예요. 국가에선 당신을 해임할 수 있는 장관을 위해 쓰죠. 회사에선 당신한테 돈을 낼 수 있는 고객을 위해 써요. 앞의 건 통제예요. 뒤의 건 가격이고요.
+Bram: Is zo'n bureau het werktuig van één staat?
+그런 회사가 한 국가의 도구입니까?
+Ingrid: Soms. Vaker niet. Particuliere inlichtingenbureaus hebben meestal geen vlag. Ze werken voor wie het best betaalt. Een bedrijf, een advocatenkantoor, een rijke familie, soms een buitenlandse partij. Vaak meerdere tegelijk, zonder dat de klanten van elkaar weten.
+가끔은요. 대개는 아니고요. 사설 정보회사는 보통 깃발이 없어요. 가장 많이 내는 쪽을 위해 일하죠. 기업, 로펌, 부유한 가문, 가끔은 외국 쪽. 흔히 여럿을 동시에요, 고객들끼리는 서로 모른 채.
+Bram: Ze werken voor wie het best betaalt.
+가장 많이 내는 쪽을 위해 일한다.
+Ingrid: En daarom is "wie zit erachter?" bij zulke bureaus een vraag met meer dan één antwoord. Dat maakt uw kop moeilijker. Het maakt uw verhaal niet zwakker. Het maakt het eerlijker.
+그래서 그런 회사에선 "누가 배후냐?"가 답이 하나 이상인 질문이에요. 그게 헤드라인을 어렵게 해요. 기사를 약하게 하진 않아요. 더 정직하게 하죠.
+Femke: Er is nog een oude vraag. Cui bono. Wie heeft er baat bij? Mogen wij die stellen?
+오래된 질문이 하나 더 있어요. 쿠이 보노. 누가 이득을 보나? 우리가 그걸 물어도 되나요?
+Ingrid: (kijkt haar lang aan) Stellen mag. Beantwoorden met een gok niet. Wie heeft er baat bij — dat is een vraag om te gaan zoeken, geen antwoord om te gaan schrijven. Iedereen die ooit iemand ten onrechte beschuldigde, begon bij die vraag en stopte er ook.
+(그녀를 오래 본다) 묻는 건 돼요. 짐작으로 답하는 건 안 되고요. 누가 이득을 보나 — 그건 찾으러 나서게 하는 질문이지, 쓰러 나서게 하는 답이 아니에요. 누군가를 부당하게 비난한 사람은 모두 그 질문에서 시작해서 거기서 멈췄어요.
+Bram: (zacht) Dat herken ik. Dat deden wij vorige week bijna met een collega.
+(작게) 알 것 같아요. 지난주에 우리가 동료한테 거의 그렇게 했어요.
+Ingrid: Dan heeft u geluk dat u "bijna" zegt.
+그럼 "거의"라고 말할 수 있으니 운이 좋으시네요.
+Bram: (stil) We zeiden "bijna". Hij is toch geschorst. Door iemand anders.
+(침묵) "거의"라고 했죠. 그래도 그는 정직됐어요. 다른 사람한테.
+Ingrid: (zet haar kopje neer) Dan ken ik dat patroon ook. Iemand heeft de vraag gesteld en het antwoord al klaar gehad. Pas op voor mensen die bij "wie heeft er baat bij" nooit hoeven na te denken.
+(찻잔을 내려놓는다) 그럼 그 패턴도 알아요. 누군가 질문을 던졌는데 답이 이미 준비돼 있었던 거죠. "누가 이득을 보나"에서 한 번도 생각할 필요가 없는 사람을 조심하세요.
+Femke: Waarom?
+왜요?
+Ingrid: Omdat wie meteen weet wie er baat bij heeft, óf heel slim is, óf er zelf baat bij heeft. En van buitenaf zien die twee er precies hetzelfde uit.
+누가 이득을 보는지 바로 아는 사람은, 아주 영리하거나, 아니면 본인이 이득을 보거든요. 그리고 밖에서 보면 그 둘은 똑같이 생겼어요.
+Bram: (heel stil) Allebei tegelijk.
+(아주 조용히) 둘 다 동시에.
+Ingrid: Dat zeggen ze in uw redactie, hoor ik. Een wijs zinnetje. Maar het is geen eindpunt. Het is de plek waar je je hoofd koel houdt tot er een feit komt dat één van de twee uitsluit.
+편집국에서 그렇게들 말한다고 들었어요. 현명한 짧은 말이죠. 그런데 그건 종점이 아니에요. 둘 중 하나를 배제하는 사실이 올 때까지 머리를 차갑게 두는 자리예요.
+Femke: Nog één ding. Een oud-collega van Bram biedt aan een officiële doorzoeking bij dat bureau te regelen. Via zijn contacten. Wat zou u doen?
+하나만 더요. 브람의 옛 동료가 그 회사 공식 압수수색을 성사시켜 주겠대요. 자기 연줄로. 당신이라면 어떻게 하시겠어요?
+Ingrid: (een lange stilte) Ik zou willen weten waarom hij dat kan. En waarom hij het u aanbiedt in plaats van het gewoon te doen. Een man die u om toestemming vraagt, wil soms vooral dat u er straks bij betrokken bent.
+(긴 침묵) 그가 왜 그걸 할 수 있는지 알고 싶겠죠. 그리고 왜 그냥 하지 않고 당신한테 제안하는지도요. 당신한테 허락을 구하는 사람은, 가끔은 나중에 당신이 거기 연루되길 주로 바라는 거예요.
+Bram: Betrokken. Zodat wat er straks gevonden wordt, ook ons verhaal is.
+연루. 나중에 발견되는 것도 우리 기사가 되도록.
+Ingrid: Ik zeg niks over uw oud-collega. Ik zeg iets over het weer. (staat op) Mijn uur is om. Schrijf grijs, meneer Hoekstra. En als u ooit zeker bent, wacht dan nog een dag. Zekerheid op een donderdag is vaak twijfel op een vrijdag.
+당신 옛 동료에 대해선 아무 말도 안 해요. 날씨 얘기를 하는 거죠. (일어선다) 제 한 시간 끝났어요. 회색으로 쓰세요, 훅스트라 씨. 그리고 언젠가 확신이 들면, 하루만 더 기다리세요. 목요일의 확신은 흔히 금요일의 의심이에요.
+Bram: (op het perron van Den Haag Centraal, wachtend op de trein) "Schrijf grijs." Ik heb twintig jaar zwart en wit geschreven en dacht dat dat moed was.
+(헤이그 중앙역 플랫폼에서 기차를 기다리며) "회색으로 써라." 난 이십 년을 검정과 흰색으로 쓰면서 그게 용기라고 생각했어.
+Femke: Ze was hard voor je.
+너한테 엄했지.
+Bram: Ze was eerlijk. Dat voelt tegenwoordig hetzelfde.
+정직했지. 요즘은 그게 똑같이 느껴져.
+Femke: Ze heeft me vroeger een keer teruggestuurd met een rapport van veertig pagina's. Ze had één zin onderstreept. "Waarom staat hier 'zeker'?" Ik had geen antwoord. Ik heb het woord geschrapt en het rapport werd beter.
+예전에 마흔 쪽짜리 보고서를 들고 갔다가 돌려받은 적이 있어. 한 문장에 밑줄을 그어 놨더라. "왜 여기 '확실히'라고 썼죠?" 답을 못 했어. 그 단어를 지웠고, 보고서가 나아졌어.
+Bram: Eén woord geschrapt.
+단어 하나를 지웠구나.
+Femke: Eén woord kan een man de gevangenis in schrijven, zei ze toen. Of een krant failliet.
+단어 하나가 사람을 감옥에 보낼 수도 있다고 그때 그랬어. 아니면 신문을 파산시키거나.
+Femke: Soms was het ook moed. Toen je de haven schreef, wist je het. Toen mocht het zwart. Nu weet je het niet.
+가끔은 정말 용기였어. 항구 기사 쓸 땐 알았잖아. 그땐 검정이어도 됐어. 지금은 몰라.
+Bram: En Margreet wil morgen een kop. Ik weet welke kop ze wil.
+그런데 마르흐레이트는 내일 헤드라인을 원해. 어떤 헤드라인을 원하는지 알아.
+Femke: "Moskou." In vette letters.
+"모스크바." 굵은 글씨로.
+Bram: Dat zei ze gisteren al. "Een helder verhaal voor een verwarde lezer." Ze heeft er niet eens een vraagteken achter gezet.
+어제 벌써 그렇게 말했어. "혼란스러운 독자에게 명료한 이야기." 물음표도 안 붙였어.
+Femke: Een helder verhaal dat de server weglaat. Want een kop over Moskou gaat over Moskou. Niet over een stichting in Den Haag, niet over een notaris op de Zuidas.
+서버를 빼는 명료한 이야기지. 모스크바 헤드라인은 모스크바 얘기니까. 헤이그의 재단도, 자위다스의 공증인도 아니고.
+Bram: (kijkt haar aan) Zeg je dat ze het daarom wil?
+(그녀를 본다) 그래서 그 사람이 그걸 원한다는 거야?
+Femke: Ik zeg dat een kop over Moskou het verhaal ver weg legt. Of dat haar bedoeling is, weet ik niet. Ingrid zou zeggen: wie heeft er baat bij — en dan niet meteen antwoorden.
+모스크바 헤드라인은 기사를 멀리 치운다는 거야. 그게 그 사람 의도인지는 몰라. 잉그리드라면 이랬겠지. 누가 이득을 보나 — 그리고 바로 답하진 말 것.
+Bram: Dan antwoorden we niet. We schrijven. (de trein rijdt binnen) Wat is de eerste zin, Femke? Als je hem nu moest schrijven.
+그럼 답하지 말자. 쓰자. (기차가 들어온다) 첫 문장은 뭐야, 펨커? 지금 써야 한다면.
+Femke: (denkt) "Wij weten wie de camera's aanzette. Wij weten niet wie erom vroeg."
+(생각한다) "우리는 누가 카메라를 켰는지 안다. 우리는 누가 그걸 요청했는지 모른다."
+Bram: Wacht. Weten we wie de camera's aanzette?
+잠깐. 누가 카메라를 켰는지 우리가 알아?
+Femke: (stopt) Nee. We weten waar de beelden heen gingen. Niet wie de camera's overnam. (lacht kort) Zie je? Zelfs ik sprong een trede te hoog. In één zin.
+(멈춘다) 아니. 영상이 어디로 갔는지는 알아. 누가 카메라를 가로챘는지는 모르고. (짧게 웃는다) 봤지? 나조차 계단 하나를 더 올라갔어. 한 문장 만에.
+Bram: Dan zijn we allemaal leerlingen vandaag.
+그럼 오늘은 우리 다 학생이네.
+Femke: Vandaag en morgen. Dit leer je nooit af.
+오늘도 내일도. 이건 졸업이 없어.
+Bram: (langzaam) Dat is grijs. En het is waar. En Margreet gaat hem haten.
+(천천히) 그건 회색이야. 그리고 사실이고. 그리고 마르흐레이트는 그걸 싫어할 거야.
+Femke: Dan weet je tenminste waar je staat. Op welke trede.
+그럼 적어도 네가 어디 서 있는지는 알잖아. 어느 계단에.
+Jip: (die avond in de oorlogskamer, als Bram en Femke binnenkomen) Eindelijk. Margreet heeft drie keer gevraagd waar jullie waren. Ze wil om acht uur de opzet van de voorpagina zien.
+(그날 저녁 전쟁실, 브람과 펨커가 들어오자) 드디어요. 마르흐레이트가 두 분 어디 있냐고 세 번 물었어요. 여덟 시에 1면 구성을 보고 싶대요.
+Noor: En ze heeft al een kop voorgesteld. Op een geeltje. Het hangt op het bord.
+그리고 벌써 헤드라인을 제안했어요. 포스트잇에. 보드에 붙어 있어요.
+Bram: (leest het geeltje) "Russische schaduwoorlog bereikt Nederlandse dorpen." (stil) Geen vraagteken. Geen "mogelijk". Geen "volgens".
+(포스트잇을 읽는다) "러시아의 그림자 전쟁, 네덜란드 마을에 닿다." (침묵) 물음표 없음. "가능성" 없음. "~에 따르면" 없음.
+Jip: Het klinkt goed. Eerlijk is eerlijk. Het verkoopt.
+듣기엔 좋아요. 솔직히 말하면. 팔려요.
+Noor: Het klinkt goed en het is niet bewezen. We hebben geen enkel document dat een buitenlandse opdrachtgever noemt.
+듣기엔 좋은데 증명이 안 됐어. 외국 의뢰인을 명시하는 문서가 하나도 없잖아.
+Jip: Maar iedereen weet het. De diensten zeggen het al jaren. Elk jaarverslag.
+그래도 다들 알잖아. 정보기관들이 몇 년째 말해 왔어. 연례 보고서마다.
+Femke: De diensten zeggen dat er een dreiging is. In het algemeen. Niet dat déze camera's en déze site van díé opdrachtgever komen. Dat is een sprong van het algemene naar het bijzondere. Precies de sprong die Ingrid vanochtend verbood.
+정보기관들은 위협이 있다고 말해. 일반적으로. 이 카메라들과 이 사이트가 저 의뢰인한테서 왔다고는 안 해. 그건 일반에서 특수로의 비약이야. 잉그리드가 오늘 아침 금지한 바로 그 비약.
+Jip: Wie is Ingrid?
+잉그리드가 누구예요?
+Noor: Een bron?
+취재원이에요?
+Bram: Een leraar. Ze geeft geen feiten. Ze geeft maat. Dat hadden we nodig.
+선생님. 사실은 안 줘. 척도를 주지. 우리한테 필요했던 거야.
+Bram: Iemand die het weer kent. (zet een stoel bij het bord) Luister. We gaan samen de eerste zin schrijven. Niet ik alleen. Niet Margreet. Wij vieren. En we schrijven hem zo dat hij morgen én over een jaar nog waar is.
+날씨를 잘 아는 사람. (보드 옆에 의자를 놓는다) 들어 봐. 첫 문장을 같이 쓸 거야. 나 혼자도 아니고. 마르흐레이트도 아니고. 우리 넷이. 내일도 일 년 뒤에도 여전히 사실인 문장으로.
+Noor: Vier. (kijkt naar de lege stoel van Lucas) Vroeger waren we met vijf.
+넷. (뤼카스의 빈 의자를 본다) 예전엔 다섯이었는데.
+Bram: (een stilte) Vijf. Laat die stoel staan. Hij hoort erbij tot het tegendeel bewezen is.
+(침묵) 다섯. 그 의자는 그냥 둬. 반대가 증명될 때까지 그 자리는 그의 거야.
+Jip: (zacht) Daarover — ik moet jullie iets zeggen. Later. Niet nu. Iets wat me dwarszit over Lucas. Het past niet.
+(작게) 그 얘기 말인데요 — 할 말이 있어요. 나중에. 지금 말고. 뤼카스에 대해 걸리는 게 있어요. 안 맞아요.
+Femke: (kijkt op) Wat past niet?
+(고개를 든다) 뭐가 안 맞아?
+Jip: Ik weet het nog niet precies. Een gevoel over cijfers. Ik wil het eerst nakijken. Ik wil niet weer iets roepen voor ik het zeker weet. Dat heb ik vorige week geleerd.
+아직 정확히는 몰라요. 숫자에 대한 느낌. 먼저 확인하고 싶어요. 확실히 알기 전에 또 뭘 외치고 싶진 않아요. 지난주에 배웠거든요.
+Bram: (knikt) Goed. Kijk het na. Vertel het mij als eerste, en niemand anders. Afgesproken?
+(끄덕인다) 좋아. 확인해 봐. 나한테 제일 먼저, 다른 누구한테도 말고. 약속?
+Jip: Afgesproken.
+약속해요.
+Bram: Dan nu de zin. Wat weten we zeker? Hardop. Alleen wat we zeker weten.
+그럼 이제 문장. 확실히 아는 게 뭐지? 소리 내서. 확실히 아는 것만.
+Noor: Dat camera's langs militaire routes beelden doorstuurden naar een server in Den Haag. Dat hebben we met logbestanden.
+군 수송로의 카메라들이 헤이그의 서버로 영상을 보냈다는 것. 로그 파일로 갖고 있어요.
+Jip: Dat dezelfde server Vrij Nieuws NL host, waar de deepfake van de minister het eerst verscheen. Dat hebben we met IP-gegevens.
+같은 서버가 장관 딥페이크가 처음 나타난 «Vrij Nieuws NL»을 호스팅한다는 것. IP 정보로 갖고 있어요.
+Femke: Dat de site wordt gerund door een stichting met een akte van notariskantoor Van Oosterhout. Dat hebben we uit het register.
+그 사이트를 판 오스터하우트 공증 사무소 증서로 세워진 재단이 운영한다는 것. 등기부에서 나왔어.
+Bram: En wat weten we niet?
+그럼 모르는 건?
+Femke: Even wachten. Eerst controleren of wat we "zeker" noemden ook zeker is. Noor — de logbestanden. Wie heeft ze gezien?
+잠깐. 먼저 우리가 "확실"이라 부른 게 정말 확실한지 확인하자. 노르 — 로그 파일. 누가 봤어?
+Noor: Jip en ik. En een onafhankelijke beveiliger die we hebben ingehuurd. Drie paar ogen.
+집이랑 저요. 그리고 우리가 고용한 독립 보안 전문가. 눈 세 쌍.
+Femke: Goed. En het register?
+좋아. 그럼 등기부는?
+Jip: Openbaar. Iedereen kan het opvragen. Daar is geen twijfel over.
+공개예요. 누구나 열람할 수 있어요. 거긴 의심의 여지가 없어요.
+Noor: Wie die stichting betaalt. Wie de opdracht gaf. Of het één opdrachtgever is of meer.
+누가 그 재단에 돈을 대는지. 누가 지시했는지. 의뢰인이 하나인지 여럿인지.
+Jip: En of het iets met Brugwachter te maken heeft. Dat hebben we alleen van een oud-medewerker, niet op papier.
+그리고 브뤼흐바흐터랑 관계가 있는지. 그건 전직 직원한테서만 들었지, 문서론 없어요.
+Bram: Dan is dat ons verhaal. Drie dingen die we weten, drie dingen die we niet weten, even groot gedrukt. (schrijft op het bord) "Eén server in Den Haag verbindt camera's langs militaire routes, een nepnieuwssite en een deepfake van de minister. Wie de rekening betaalt, is nog onbekend."
+그럼 그게 우리 기사야. 아는 것 셋, 모르는 것 셋, 같은 크기로 인쇄해서. (보드에 쓴다) "헤이그의 서버 하나가 군 수송로 카메라, 가짜 뉴스 사이트, 장관 딥페이크를 잇는다. 누가 비용을 대는지는 아직 알려지지 않았다."
+Noor: (leest het twee keer) Dat is goed. Het is minder spannend dan Moskou, en het is beter.
+(두 번 읽는다) 좋아요. 모스크바보다 덜 짜릿한데, 더 나아요.
+Jip: Het is ook gevaarlijker, eigenlijk. "Een server in Den Haag" wijst naar binnen. Naar ons eigen land. Naar mensen met een adres hier.
+사실 더 위험하기도 해요. "헤이그의 서버"는 안쪽을 가리켜요. 우리나라를. 여기 주소가 있는 사람들을.
+Femke: Precies. Daarom is het moedig, Jip. Moskou is ver weg en kan ons niet aanklagen. Een stichting in Den Haag kan dat wel.
+정확해. 그래서 용감한 거야, 집. 모스크바는 멀어서 우릴 고소 못 해. 헤이그의 재단은 할 수 있지.
+Margreet: (in de deuropening, om acht uur precies) De voorpagina. Laat zien. (leest het bord, dan het geeltje, dan weer het bord) Waar is mijn kop?
+(정확히 여덟 시에 문가에서) 1면. 보여 줘. (보드를 읽고, 포스트잇을 읽고, 다시 보드를 읽는다) 내 헤드라인은 어디 있어?
+Bram: Op het geeltje. Waar hij hoort. Dit is de kop die we kunnen bewijzen.
+포스트잇에. 있어야 할 자리에. 이게 우리가 증명할 수 있는 헤드라인이야.
+Margreet: "Wie de rekening betaalt, is nog onbekend." (kijkt hem aan) Bram, dat is geen kop. Dat is een excuus. Lezers willen weten wie de vijand is. Jij geeft ze een server en een vraagteken.
+"누가 비용을 대는지는 아직 알려지지 않았다." (그를 본다) 브람, 그건 헤드라인이 아냐. 변명이지. 독자들은 적이 누군지 알고 싶어 해. 넌 서버 하나랑 물음표를 주는 거야.
+Bram: Ik geef ze wat we weten. En wat we niet weten. Het is niet zwart-wit, Margreet. Als we "Moskou" schrijven en het blijkt deels anders, dan is onze fout morgen het verhaal en niet de server.
+아는 걸 주는 거야. 그리고 모르는 것도. 흑백이 아니야, 마르흐레이트. "모스크바"라고 썼는데 일부라도 다르면, 내일은 서버가 아니라 우리 실수가 기사가 돼.
+Margreet: Het ís deels Moskou. Dat zegt elke dienst.
+일부는 모스크바 맞아. 모든 기관이 그렇게 말해.
+Bram: Noem me één dienst die zegt dat déze server van Moskou is.
+이 서버가 모스크바 거라고 말하는 기관 하나만 대 봐.
+Margreet: (een korte stilte) Dat zeggen ze niet hardop. Dat weet je. Zulke dingen worden gefluisterd.
+(짧은 침묵) 그런 건 대놓고 말 안 해. 알잖아. 그런 건 속삭여지지.
+Bram: Dan drukken we geen gefluister in vette letters.
+그럼 속삭임을 굵은 글씨로 찍진 말자.
+Femke: In het algemeen. Niet over deze server. Wij hebben geen document dat een buitenlandse opdrachtgever aan deze stichting koppelt. Wel een notaris op de Zuidas.
+일반적으로는요. 이 서버에 대해서는 아니고요. 외국 의뢰인을 이 재단과 잇는 문서는 우리한테 없어요. 자위다스의 공증인은 있고요.
+Margreet: (koel) De notaris weer. Jullie hebben een obsessie. Een notaris zet handtekeningen, dat is zijn beroep. Daar maak je geen voorpagina van.
+(차갑게) 또 공증인. 너희는 집착이 있어. 공증인은 서명하는 게 직업이야. 그걸로 1면을 만들진 않아.
+Bram: Daarom staat zijn naam er niet in. Alleen het feit dat de akte bestaat. Dat is grijs, Margreet. Precies zo grijs als het is.
+그래서 그 사람 이름은 안 넣었어. 증서가 존재한다는 사실만. 그게 회색이야, 마르흐레이트. 딱 그만큼 회색.
+Margreet: (lange stilte; dan zachter, bijna moederlijk) Bram. Ik ken je. Je bent bang om nog een fout te maken, na Lucas. Dat begrijp ik. Maar angst maakt saaie kranten. Laat de server even liggen, geef de lezer zijn vijand, en volgende week gaan we dieper.
+(긴 침묵; 그런 뒤 더 부드럽게, 거의 어머니처럼) 브람. 난 널 알아. 뤼카스 일 뒤로 또 실수할까 봐 겁나는 거지. 이해해. 그런데 두려움은 지루한 신문을 만들어. 서버는 잠깐 놔두고, 독자한테 적을 줘, 그리고 다음 주에 더 깊이 가자.
+Femke: (heel zacht, zodat alleen Bram het hoort) Tien.
+(브람만 들리게 아주 작게) 열.
+Bram: (blijft Margreet aankijken) Dit is niet angst. Dit is maat. Ik heb vandaag geleerd dat een kop op de verkeerde trede het verhaal weggeeft aan wie twijfel wil zaaien. Wij geven het niet weg.
+(마르흐레이트를 계속 바라본다) 이건 두려움이 아냐. 척도야. 오늘 배웠어. 잘못된 계단에 선 헤드라인은 의심을 뿌리려는 쪽한테 기사를 넘겨준다는 걸. 우린 안 넘겨.
+Margreet: (een korte, harde stilte) Je weigert mijn kop.
+(짧고 단단한 침묵) 내 헤드라인을 거부하는구나.
+Bram: Ik weiger een zin die we niet kunnen bewijzen. Als jij hem toch wilt, dan zet je er je eigen naam onder. Niet de mijne, niet die van dit team.
+증명 못 하는 문장을 거부하는 거야. 그래도 원하면, 네 이름을 그 밑에 달아. 내 것도, 이 팀 것도 말고.
+Margreet: (kijkt de kamer rond, naar vier gezichten die niet wegkijken) Vier tegen één. (stil) Goed. Jouw kop. Maar als de lezers hem niet begrijpen, is het jouw nederlaag, niet de mijne.
+(방을 둘러본다, 시선을 피하지 않는 네 얼굴) 넷 대 하나. (침묵) 좋아. 네 헤드라인. 그런데 독자들이 이해 못 하면, 그건 내 패배가 아니라 네 패배야.
+Noor: (als Margreet weg is) Vier tegen één. Vorige week zei ze nog "veertien tegen één" over Lucas.
+(마르흐레이트가 떠나자) 넷 대 하나. 지난주엔 뤼카스 두고 "열넷 대 하나"라고 했었는데.
+Jip: Grappig hoe die rekensom werkt. Als zij de één is, telt het ineens niet meer zo zwaar.
+그 계산법 웃기네요. 그 사람이 하나일 땐 갑자기 덜 무겁게 쳐지잖아요.
+Femke: Niet grappig. Leerzaam. Onthoud het, Jip. Zonder er iets uit te concluderen. Nog niet.
+웃긴 게 아니라. 배울 만한 거지. 기억해, 집. 거기서 아무 결론도 내지 말고. 아직은.
+Bram: (die nacht, alleen aan zijn bureau; zijn telefoon trilt, Erik) Erik. Het is middernacht.
+(그날 밤, 책상에 혼자; 전화기가 울린다, 에릭) 에릭. 자정이야.
+Erik: (door de telefoon, opgewekt) Ik wilde je het als eerste vertellen. Je hoefde niet te beslissen. Ik heb het al geregeld.
+(전화기 너머로, 기분 좋게) 제일 먼저 너한테 알려 주고 싶었어. 네가 결정할 필요 없었어. 내가 벌써 처리했어.
+Bram: (verstijft) Wat heb je geregeld?
+(굳는다) 뭘 처리했는데?
+Erik: Rustig. Het is goed nieuws. Het beste nieuws van deze maand.
+진정해. 좋은 소식이야. 이번 달 최고의 소식.
+Erik: Brugwachter. Morgenochtend, zes uur. Doorzoeking. Justitie, recherche, de hele zaak. Ik dacht: Bram twijfelt te lang, en zulke deuren gaan dicht.
+브뤼흐바흐터. 내일 아침 여섯 시. 압수수색. 검찰, 수사관, 전부. 생각했지. 브람은 너무 오래 망설인다, 그런 문은 닫힌다.
+Bram: Ik had je gevraagd te wachten.
+기다려 달라고 했잖아.
+Erik: Je vroeg me om tijd. Ik gaf je drie dagen. Meer heeft een bureau als Brugwachter niet nodig om servers te wissen. Ik heb je verhaal gered, oude vriend. Je mag me straks bedanken.
+시간을 달라고 했지. 사흘 줬어. 브뤼흐바흐터 같은 회사가 서버를 지우는 데 그 이상 필요 없어. 네 기사를 구한 거야, 옛 친구. 이따 고맙다고 하면 돼.
+Bram: (langzaam) Wie weet het nog? Van morgen?
+(천천히) 또 누가 알아? 내일 일을?
+Erik: Jij. Ik. De mensen die het moeten weten. En ik heb je hoofdredacteur ingelicht, uit beleefdheid. Zij vond het een uitstekend idee. Ze zei dat jullie team er morgen met camera bij moet zijn.
+너. 나. 알아야 할 사람들. 그리고 예의상 네 편집장한테도 알렸어. 아주 좋은 생각이래. 너희 팀이 내일 카메라 들고 거기 가야 한다더라.
+Bram: (heel stil) Margreet weet het al.
+(아주 조용히) 마르흐레이트가 벌써 알아.
+Erik: Sinds vanavond. Ik dacht dat ze het jou al gezegd had. (stil) Is dat een probleem?
+오늘 저녁부터. 너한테 벌써 말한 줄 알았는데. (침묵) 그게 문제야?
+Bram: Nee. (stil) Nee, Erik. Zes uur. We zijn er.
+아니. (침묵) 아니, 에릭. 여섯 시. 갈게.
+Bram: (legt neer, belt meteen Femke) Morgen zes uur. Doorzoeking bij Brugwachter. Erik heeft het geregeld zonder te wachten. En Margreet wist het vanavond al, om acht uur, toen ze mijn kop afwees en zei "volgende week gaan we dieper."
+(전화를 끊고 바로 펨커에게 건다) 내일 여섯 시. 브뤼흐바흐터 압수수색. 에릭이 안 기다리고 처리했어. 그리고 마르흐레이트는 오늘 저녁 여덟 시에 이미 알았어, 내 헤드라인을 거절하면서 "다음 주에 더 깊이 가자"고 했을 때.
+Femke: (door de telefoon, meteen wakker) Ze wist van een doorzoeking en ze zei niks. Terwijl ze ons een kop over Moskou wilde laten drukken.
+(전화기 너머로, 단번에 깨서) 압수수색을 알면서 아무 말도 안 했네. 우리한테 모스크바 헤드라인을 찍게 하려 하면서.
+Bram: Misschien wilde ze het verrassen. Misschien mocht ze het niet zeggen. Misschien...
+어쩌면 깜짝 놀래 주려 했겠지. 어쩌면 말하면 안 됐거나. 어쩌면...
+Femke: Misschien. Drie mogelijkheden, altijd. (stil) Maar Bram — morgen om zes uur gaat iemand anders kiezen wat er bij Brugwachter gevonden wordt. Niet wij. Weet je nog wat ik zei?
+어쩌면. 늘 세 가지 가능성. (침묵) 그런데 브람 — 내일 여섯 시엔 다른 누군가가 브뤼흐바흐터에서 뭐가 발견될지 골라. 우리가 아니라. 내가 뭐라 했는지 기억나?
+Bram: Wie de deur opent, kiest wat er binnen ligt.
+문을 여는 사람이 안에 뭐가 있는지 고른다.
+Femke: Dan gaan we morgen kijken naar wat ze ons laten vinden. En nog belangrijker: naar wat er níét ligt. We schrijven grijs, ook morgen. Zeker morgen.
+그럼 내일 걔네가 우리한테 찾게 하는 걸 보러 가자. 그리고 더 중요한 거. 거기 없는 걸. 내일도 회색으로 써. 내일이야말로.
+Bram: (kijkt naar de eerste zin op het bord, door het glas van de donkere redactie) "Wie de rekening betaalt, is nog onbekend." Morgen gaat iemand ons een antwoord geven. Een te mooi antwoord, denk ik.
+(어두운 편집국 유리 너머, 보드의 첫 문장을 본다) "누가 비용을 대는지는 아직 알려지지 않았다." 내일 누군가 우리한테 답을 줄 거야. 너무 예쁜 답을, 아마.
+Femke: Zekerheid op een vrijdag. Wacht dan nog een dag, zei Ingrid.
+금요일의 확신. 그럼 하루만 더 기다려, 잉그리드가 그랬지.
+Bram: En Lucas? Moet ik hem bellen?
+그럼 뤼카스는? 전화해야 할까?
+Femke: Morgen. Na de doorzoeking. Als je weet wat er gevonden is. Je hebt hem beloofd dat hij het van jou hoort. Zorg dat je dan iets te vertellen hebt dat waar is.
+내일. 압수수색 뒤에. 뭐가 발견됐는지 알게 되면. 네가 그한테 너한테서 듣게 해 주겠다고 약속했잖아. 그때 사실인 걸 말할 수 있게 해.
+Bram: Iets wat waar is. (stil) Ik ben bang dat ze morgen iets vinden dat over hem gaat.
+사실인 것. (침묵) 내일 걔네가 그에 관한 뭔가를 찾을까 봐 겁나.
+Femke: Ik ook. Daarom kijken we morgen met twee ogen. Eén voor wat er ligt, één voor wie het daar neerlegde.
+나도. 그래서 내일은 두 눈으로 보자. 하나는 거기 있는 걸, 하나는 그걸 거기 둔 사람을.
+Bram: (zet zijn wekker op vier uur) Ik wacht. Maar ik ga wel kijken. Welterusten, Femke.
+(알람을 네 시에 맞춘다) 기다릴게. 그래도 보러는 가. 잘 자, 펨커.
+
+## 주요 단어
+de toeschrijving — 귀속, (배후로) 지목함
+de zekerheid — 확실성
+de trede — (계단의) 단, 단계
+de kop — (신문) 헤드라인
+de uitvlucht — 핑계, 구실
+nauwkeurig — 정확한, 꼼꼼한
+uitsluiten — 배제하다
+waarschijnlijk achten — 가능성이 높다고 보다
+de opdrachtgever — 의뢰인, 지시한 자
+de branche — 업계
+particulier — 사적인, 민간의
+ontmaskeren — 정체를 밝히다, 가면을 벗기다
+het geschenk — 선물
+aanklagen — 고소하다
+de voorpagina — (신문) 1면
+weigeren — 거부하다
+de nederlaag — 패배
+inlichten — 알리다, 통보하다
+de beleefdheid — 예의
+het logbestand — 로그 파일
+
+## 문법·표현 정리
+Het is niet zwart-wit — 관용 표현(흑백이 아니다)을 '핑계'가 아닌 '과제'로 재정의
+Ze werken voor wie het best betaalt — voor + wie 관계절(~하는 사람을 위해) + 최상급 het best
+Wie heeft er baat bij? — baat hebben bij(~에서 이득을 보다)의 의문, er는 장소·대상 대명사
+Wat weet u? Niet wat denkt u — 대조 반복으로 사실과 추측을 구분
+"Wij weten" / "Wij achten het waarschijnlijk" / "Wij kunnen niet uitsluiten" — 확신의 단계를 나타내는 정보 분석식 표현
+Het vraagt meer woorden en minder applaus — meer A en minder B의 비교 대구
+Uw fout wordt het verhaal — worden + 명사(~이 되다)의 짧은 결과 진술
+een vraag om te gaan zoeken, geen antwoord om te gaan schrijven — om te + 동사원형의 목적 대구
+óf heel slim, óf er zelf baat bij heeft — óf…óf(~이거나 ~이거나) 양자택일 강조
+Zekerheid op een donderdag is vaak twijfel op een vrijdag — 요일 대비의 격언식 구문
+Het is minder spannend dan Moskou, en het is beter — 비교급 minder + dan과 평가의 병치
+Als zij de één is, telt het ineens niet meer zo zwaar — als 조건절 + ineens niet meer(갑자기 더는 ~않다)
+zonder er iets uit te concluderen — zonder + te 부정사, er…uit(그것에서) 분리 대명부사
+Wie de deur opent, kiest wat er binnen ligt — Wie 주어절의 격언(13화 펨커 말의 반복 모티프)
+
+## 취재 노트
+🗞️ 이 화는 하이브리드 위협 보도에서 가장 어려운 문제인 **귀속(attribution)** 을 다룬다. 실제 정보기관의 분석 보고서는 "우리는 안다 / 가능성이 높다고 본다 / 배제할 수 없다"처럼 확신 정도를 단계적으로 표시하는 언어를 쓴다. 저널리즘에서도 국가 배후설을 제목으로 단정했다가 일부라도 틀리면, 원래 사건보다 "틀린 언론"이 더 큰 이야기가 되어 오히려 불신을 키운다는 지적이 꾸준히 나온다. 이 화의 결론 — "아는 것과 모르는 것을 같은 크기로 쓴다" — 은 그런 보도 윤리를 일반화해 반영한 것이다.
+
+🗞️ 사설 정보회사가 "깃발 없이 가장 많이 내는 쪽을 위해 일한다"는 묘사는 업계에 대한 일반론으로만 다루었으며, 특정 기업·국가를 가리키지 않는다. «잉그리드», «브뤼흐바흐터», «Vrij Nieuws NL», 공증 사무소 «판 오스터하우트»는 모두 가상이다. 작품은 의도적으로 "누가 어떻게 이득을 보는가"의 구체적 수법은 묘사하지 않고, 그 질문을 **"찾으러 나서게 하는 질문이지 쓰러 나서게 하는 답이 아니다"**라는 원칙으로만 다룬다.
+
+🗞️ 연속성: 마르흐레이트의 헤드라인("러시아의 그림자 전쟁…")은 기사를 "먼 곳"으로 치워 헤이그의 재단·자위다스의 공증인에게서 시선을 돌리는 효과를 낸다. 펨커의 셈은 «열»이 되었다. 지난주 뤼카스에게 "열넷 대 하나"를 말했던 그녀가 이번엔 "넷 대 하나"로 물러서는 대비는, 셈법이 상황에 따라 달라진다는 단서로 남는다(해석은 유보). 집이 "뤼카스에 대해 숫자가 안 맞는다"고 말을 꺼내는 장면은 6부 10화(브뤼흐바흐터가 «Vuurtoren»에게 보낸 돈이 뤼카스 계좌와 맞지 않음)의 복선이다. 마지막에 에릭이 브람을 기다리지 않고 압수수색을 "이미 처리"했고, 마르흐레이트가 그날 저녁 이미 알고 있었다는 사실이 드러나며 15화 «Arrestatie(체포)»의 가짜 해결로 이어진다.
