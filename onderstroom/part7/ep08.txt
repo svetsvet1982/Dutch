@@ -1,0 +1,352 @@
+# 7부 8화. Bronbescherming (취재원 보호)
+수준: C1 | 장소: 편집장실(목요일 오후) → 하네커의 사무실 → 암스테르담 법원, 예심판사 집무실(월요일) → 법원 앞 계단 → 편집국 옥상 | 시간: 2028년 8월 첫째~둘째 주, 목요일 → 다음 주 월요일
+핵심 표현: Ik beroep mij op mijn verschoningsrecht · Denk aan de krant, Bram · Wie wil dit eigenlijk weten?
+
+## 대화
+Margreet: (donderdagmiddag, in haar kantoor; de brief van het OM ligt op haar bureau, ernaast een kop thee die ze niet aanraakt; Bram en Hanneke tegenover haar) Ik heb er de hele ochtend over nagedacht. Ik wil dat jullie eerst luisteren. Tot het eind.
+(목요일 오후, 편집장실; 책상 위 검찰 편지, 옆에 손도 안 댄 차 한 잔; 맞은편에 브람과 하네커) 오전 내내 생각했어. 먼저 끝까지 들어 줘.
+Bram: We luisteren.
+듣고 있어.
+Margreet: Stichting Baken heeft aangifte gedaan. Het OM vordert gegevens over een bron. Over "Kraai." (stil) Als we weigeren, wordt het een rechtszaak van maanden. Advocaten. Kosten. En intussen schrijft iedere krant in Nederland dat De Lantaarn een bron beschermt die bedrijfsgeheimen steelt.
+바컨 재단이 고소했어. 검찰은 취재원 자료를 요구하고. "까마귀"에 대해. (침묵) 거부하면 몇 달짜리 소송이 돼. 변호사. 비용. 그동안 네덜란드의 모든 신문이 드 란타른이 영업 비밀을 훔치는 취재원을 보호한다고 쓰겠지.
+Hanneke: Niemand heeft iets gestolen. Alles wat De Lantaarn publiceerde, kwam uit openbare registers.
+아무도 훔친 거 없어. 드 란타른이 보도한 건 전부 공개 등기부에서 나왔어.
+Margreet: Dat weet ik, Hanneke. Jij weet het. Maar de lezer weet het niet. En de adverteerders ook niet. (stil) We hebben net de SLAPP gewonnen. We hebben geen geld voor een tweede oorlog.
+알아, 하네커. 너도 알고. 그런데 독자는 몰라. 광고주도 모르고. (침묵) 우리 SLAPP 막 이겼잖아. 두 번째 전쟁 할 돈은 없어.
+Bram: Wat stel je voor?
+뭘 제안하는 거야?
+Margreet: (vouwt haar handen) Een middenweg. We geven geen naam. Natuurlijk niet. Maar we geven het OM de berichten. Alleen de tekst. Zonder nummers. Dan zien ze dat er niets gestolen in staat, en dan is het voorbij.
+(손을 모은다) 중간 길. 이름은 안 줘. 당연히 아니지. 그런데 검찰에 메시지는 줘. 텍스트만. 번호 없이. 그럼 훔친 게 하나도 없다는 걸 보고 끝나겠지.
+Hanneke: (koel) Uit de tekst van een bericht kun je vaak de schrijver halen. Een woord. Een tijdstip. Een spelfout. (stil) Dat is precies waarom het verschoningsrecht ook de berichten beschermt.
+(차갑게) 메시지 텍스트에서 쓴 사람을 뽑아낼 수 있는 경우가 많아. 단어 하나. 시간 하나. 맞춤법 실수 하나. (침묵) 그래서 증언 거부권이 메시지까지 보호하는 거야.
+Margreet: (zacht) Denk aan de krant, Bram. Dertig mensen. Dertig salarissen. Een stichting die al vier jaar op het randje loopt.
+(작게) 신문을 생각해, 브람. 서른 명. 서른 명의 월급. 4년째 벼랑 끝을 걷는 재단.
+Bram: (een lange stilte) Ik denk aan de krant. (stil) Daarom geef ik niets.
+(긴 침묵) 신문을 생각하고 있어. (침묵) 그래서 아무것도 안 줘.
+Margreet: (een fractie scherper) Je denkt aan je bron. Dat is iets anders.
+(조금 더 날카롭게) 넌 네 취재원을 생각하는 거지. 그건 다른 거야.
+Bram: Nee. Een krant die zijn bronnen weggeeft, is geen krant meer. Dan is het een loket. Waar iedereen die genoeg advocaten heeft, kan komen halen wie er met ons praat.
+아니. 취재원을 내주는 신문은 더 이상 신문이 아냐. 그럼 창구지. 변호사 많은 사람은 누구든 와서 우리랑 얘기하는 사람을 받아 가는.
+Margreet: (een stilte; dan, warmer, bijna moederlijk) Bram. Weet jij eigenlijk wie Kraai is?
+(침묵; 그런 뒤 더 따뜻하게, 거의 엄마처럼) 브람. 너 까마귀가 누군지 알긴 해?
+Bram: (kijkt haar aan) Waarom vraag je dat?
+(그녀를 본다) 왜 그걸 물어?
+Margreet: Omdat ik de hoofdredacteur ben. Als we hier samen doorheen moeten, moet ik weten wie we beschermen. Wat als het iemand is die liegt? Of die zelf iets te verbergen heeft? Dan moet ik dat weten. Om de krant te beschermen.
+내가 편집장이니까. 이걸 같이 뚫고 가야 한다면, 우리가 누굴 지키는지 알아야 해. 거짓말하는 사람이면? 자기도 숨길 게 있는 사람이면? 그럼 난 알아야 해. 신문을 지키려면.
+Hanneke: (zonder op te kijken van haar notitieblok) Een hoofdredacteur hoeft de identiteit van een bron niet te kennen om haar te beschermen. Het is vaak veiliger als ze die niet kent.
+(메모장에서 고개도 안 들고) 편집장이 취재원을 지키려고 그 정체를 알 필요는 없어. 모르는 게 더 안전한 경우가 많지.
+Margreet: (glimlacht, licht) Hanneke, je bent mijn advocaat, niet mijn geweten.
+(가볍게 웃는다) 하네커, 넌 내 변호사지 내 양심이 아냐.
+Hanneke: Ik ben de advocaat van de krant, Margreet. (stil) Niet van één persoon.
+난 신문의 변호사야, 마르흐레이트. (침묵) 한 사람의 변호사가 아니라.
+Bram: (staat op) Ik zeg het niet. Niet tegen het OM. Niet tegen een rechter. (stil) En niet tegen jou.
+(일어선다) 말 안 해. 검찰한테도. 판사한테도. (침묵) 그리고 너한테도.
+Margreet: (een heel lange stilte; haar glimlach blijft, maar haar stem wordt dun) Dertig jaar, Bram. En je vertrouwt me niet.
+(아주 긴 침묵; 미소는 남지만 목소리가 가늘어진다) 30년이야, 브람. 그런데 날 안 믿는구나.
+Bram: (bij de deur, zacht) Ik vertrouw de regel. Die heb jij me geleerd. In mijn eerste week. "Een bron is van niemand. Ook niet van de hoofdredacteur."
+(문가에서 작게) 난 규칙을 믿어. 네가 가르쳐 준 거야. 내 첫 주에. "취재원은 누구의 것도 아니다. 편집장 것도 아니다."
+Margreet: (kijkt naar haar handen) Dat zei ik toen.
+(자기 손을 본다) 그땐 그랬지.
+Bram: Is het veranderd?
+바뀌었어?
+Margreet: (na een lange pauze) Nee. (stil) Ga maar. Ik ga ervan uit dat Hanneke jullie verdedigt. De krant staat achter je.
+(긴 침묵 뒤) 아니. (침묵) 가. 하네커가 너희를 변호할 거라고 생각할게. 신문은 네 뒤에 서 있어.
+Hanneke: (op de gang, zacht, terwijl ze naar de lift lopen) "Ik ga ervan uit dat Hanneke jullie verdedigt." Ze zei niet: "Ik verdedig jullie."
+(엘리베이터로 걸어가며 복도에서 작게) "하네커가 너희를 변호할 거라고 생각할게." "내가 너희를 지킬게"라고는 안 했어.
+Bram: Je hoort alles.
+넌 다 듣는구나.
+Hanneke: Ik word betaald om te horen wat mensen niet zeggen. (stil) En ze keek niet naar jou toen ze zei dat de krant achter je stond. Ze keek naar de brief.
+사람들이 말하지 않는 걸 듣는 게 내 밥벌이야. (침묵) 그리고 신문이 네 뒤에 서 있다고 할 때 너를 안 봤어. 편지를 봤지.
+Bram: (drukt op de knop van de lift) Dertig jaar heb ik niet gezien waar ze naar keek.
+(엘리베이터 버튼을 누른다) 30년 동안 그 사람이 어딜 보는지 못 봤어.
+Femke: (later, in Hannekes kantoor; ze staat bij het raam, met de armen over elkaar) Ze vroeg het. Rechtstreeks.
+(나중에, 하네커 사무실; 팔짱을 끼고 창가에 서서) 물어봤네. 대놓고.
+Hanneke: Ze vroeg het drie keer. Ik telde. Eén: "Weet jij wie het is?" Twee: "Ik moet weten wie we beschermen." Drie: "Dertig jaar, en je vertrouwt me niet."
+세 번 물었어. 내가 셌어. 하나. "누군지 알긴 해?" 둘. "누굴 지키는지 알아야 해." 셋. "30년인데 날 안 믿는구나."
+Noor: (aan de tafel, met haar nieuwe laptop) De derde is geen vraag.
+(탁자에서, 새 노트북을 앞에 두고) 세 번째는 질문이 아니잖아요.
+Hanneke: De derde is de belangrijkste vraag. Die zegt: als je het me niet vertelt, ben je geen vriend.
+세 번째가 제일 중요한 질문이야. 이렇게 말하는 거거든. 말 안 하면 넌 친구가 아니다.
+Jip: (zacht) Het OM wil weten wie Kraai is. Baken wil weten wie Kraai is. En Margreet wil weten wie Kraai is.
+(작게) 검찰은 까마귀가 누군지 알고 싶어 해요. 바컨도. 그리고 마르흐레이트도.
+Bram: (kijkt naar de brief van het OM, die nu op Hannekes tafel ligt) Wie wil dit eigenlijk weten?
+(이제 하네커 탁자 위에 있는 검찰 편지를 본다) 이걸 정말 알고 싶어 하는 게 누구지?
+Femke: Niet het OM. Het OM heeft een aangifte gekregen en moet er iets mee. Dat is hun werk.
+검찰은 아냐. 고소를 받았으니 뭔가 해야 하지. 그게 걔들 일이고.
+Noor: Niet Baken. Baken is een stichting. Een stichting wil niets. Mensen willen dingen.
+바컨도 아니고요. 바컨은 재단이에요. 재단은 아무것도 원하지 않아요. 사람이 원하죠.
+Hanneke: (knikt) Wie heeft er belang bij de naam van een bron die alleen wegwijzers stuurde? Niet om een rechtszaak te winnen. Daar is de naam niet voor nodig. Maar om te weten wie er nog meer weet. Wie er nog meer kan praten.
+(고개를 끄덕인다) 이정표만 보낸 취재원의 이름에 누가 이해관계가 있을까? 소송에서 이기려는 건 아냐. 그러려면 이름이 필요 없어. 그런데 누가 더 알고 있는지 알려면. 누가 더 입을 열 수 있는지.
+Femke: (heel stil) Iemand die bang is voor wat Kraai nog weet.
+(아주 조용히) 까마귀가 아직 아는 걸 두려워하는 사람.
+Bram: Iemand die wil weten of Kees' dochter een agenda heeft gevonden.
+케이스의 딸이 수첩을 찾았는지 알고 싶어 하는 사람.
+Jip: (fluistert) Of een telefoonrekening.
+(속삭인다) 아니면 통신 청구서.
+Hanneke: (legt haar pen neer) Daarom gaat er maandag bij de rechter-commissaris niets over tafel. Geen naam. Geen bericht. Geen tijdstip. Bram, je zegt één zin. En die zeg je zo vaak als nodig.
+(펜을 내려놓는다) 그래서 월요일 예심판사 앞에선 아무것도 탁자 위에 안 올라가. 이름도. 메시지도. 시간도. 브람, 넌 한 문장만 말해. 필요한 만큼 몇 번이고.
+Bram: Welke zin?
+어떤 문장?
+Hanneke: "Ik beroep mij op mijn verschoningsrecht." (stil) Zeg het.
+"저는 증언 거부권을 행사합니다." (침묵) 말해 봐.
+Bram: (een beetje onwennig) Ik beroep mij op mijn verschoningsrecht.
+(조금 어색하게) 저는 증언 거부권을 행사합니다.
+Hanneke: Nog eens. Alsof je het meent.
+한 번 더. 진심인 것처럼.
+Bram: (rustiger) Ik beroep mij op mijn verschoningsrecht.
+(더 차분하게) 저는 증언 거부권을 행사합니다.
+Hanneke: Goed. Ze gaan proberen je iets anders te laten zeggen. Een kleine vraag. "Is de bron een man of een vrouw?" "Werkt de bron bij de overheid?" "Is de bron familie van een slachtoffer?" Elke kleine vraag is een stukje van de naam.
+좋아. 다른 말을 하게 하려고 할 거야. 작은 질문. "취재원이 남자입니까, 여자입니까?" "정부에서 일합니까?" "피해자의 가족입니까?" 작은 질문 하나하나가 이름의 한 조각이야.
+Noor: Als twintig vragen. Het spel.
+스무고개 같네요. 그 게임.
+Hanneke: Precies. En wie twintig keer "ja" of "nee" zegt, heeft de naam gegeven. Dus je zegt nooit ja en nooit nee. Je zegt de zin.
+바로 그거야. 스무 번 "예"나 "아니오"를 한 사람은 이름을 준 거야. 그러니까 절대 예도 아니오도 안 해. 그 문장을 말해.
+Femke: (zacht) Ook als ze vragen of het Kees' dochter is?
+(작게) 케이스 딸이냐고 물어도?
+Hanneke: Vooral dan. (stil) Als je die vraag ontkent, is het een leugen. Als je zwijgt, is het een antwoord. Alleen de zin beschermt haar.
+그때야말로. (침묵) 그 질문을 부인하면 거짓말이야. 침묵하면 대답이 되고. 그 문장만이 그 사람을 지켜.
+Bram: (kijkt naar het raam) En als de rechter beslist dat ik het moet zeggen?
+(창을 본다) 판사가 말해야 한다고 결정하면?
+Hanneke: Dan kan het alleen als er een zwaarwegend maatschappelijk belang is dat zwaarder weegt dan de bescherming van de bron. Een aanslag die op het punt staat te gebeuren. Een leven in gevaar. (stil) Een aangifte over bedrijfsgeheimen van een stichting met een brievenbusadres is dat niet.
+그건 취재원 보호보다 무거운 중대한 사회적 이익이 있을 때만 가능해. 임박한 테러. 위험에 처한 생명. (침묵) 우편함 주소 가진 재단의 영업 비밀 고소는 그게 아냐.
+Bram: En als hij toch beslist?
+그런데도 결정하면?
+Hanneke: (droog) Dan ga je in beroep. En als je verliest, ga je naar Straatsburg. En onderweg zit je misschien een paar dagen vast. (stil) Ik heb collega's die dat hebben gedaan. Ze zijn er trots op.
+(건조하게) 그럼 항소하는 거지. 지면 스트라스부르로 가고. 가는 길에 며칠 갇힐 수도 있고. (침묵) 그렇게 한 동료들이 있어. 자랑스러워해.
+Femke: (bijna een glimlach) Bram in een cel. Lieke zou het geweldig vinden.
+(거의 미소) 감방에 있는 브람. 리커가 아주 좋아하겠네.
+Bram: (zacht) Lieke zou een spandoek maken.
+(작게) 리커는 현수막을 만들 거야.
+Noor: (kijkt op van haar laptop) Mag ik iets zeggen? (stil) Als Margreet het vraagt, en wij weten dat haar telefoon... dat zij... (ze maakt de zin niet af)
+(노트북에서 고개를 든다) 저 말해도 돼요? (침묵) 마르흐레이트가 묻는데, 우리가 그 사람 폰이... 그 사람이... (문장을 끝내지 않는다)
+Hanneke: Maak de zin af, Noor. In deze kamer mag dat.
+문장 끝내, 노르. 이 방에선 돼.
+Noor: Als zij weet wie Kraai is, dan weten ze het allemaal. Binnen een dag. Zoals met alles. (stil) Dan is Esther de volgende.
+그 사람이 까마귀가 누군지 알면, 다 알게 돼요. 하루 안에. 모든 게 그랬듯이. (침묵) 그럼 에스터가 다음이에요.
+Bram: (een lange stilte) Daarom heet ze in deze kamer ook niet Esther. Vanaf nu. Ze heet Kraai. Ook hier. Ook tussen ons.
+(긴 침묵) 그래서 이 방에서도 이제부터 에스터라고 안 불러. 까마귀라고 불러. 여기서도. 우리 사이에서도.
+Jip: (knikt) Kraai.
+(고개를 끄덕인다) 까마귀.
+Rechter: (maandagochtend, tien uur, in een kleine kamer in de rechtbank; een vrouw van zestig met een leesbril, achter een tafel vol dossiers; links de officier van justitie, rechts Hanneke en Bram, achteraan de advocaat van Stichting Baken) We beginnen. Meneer Hoekstra, u bent hier als getuige. U weet waarom.
+(월요일 오전 열 시, 법원의 작은 방; 서류철 가득한 탁자 뒤 돋보기를 쓴 예순 살 여자; 왼쪽엔 검사, 오른쪽엔 하네커와 브람, 뒤쪽엔 바컨 재단 변호사) 시작하겠습니다. 훅스트라 씨, 증인으로 오셨습니다. 이유는 아시죠.
+Bram: Ja, edelachtbare.
+네, 재판장님.
+Rechter: Ik ben rechter-commissaris. Dit is geen zitting. Dit is een verhoor. Wat u hier zegt, wordt opgeschreven. U bent verplicht naar waarheid te antwoorden, tenzij u een recht hebt om te zwijgen. (kijkt over haar bril) Hebt u dat recht, denkt u?
+저는 예심판사입니다. 이건 공판이 아닙니다. 신문입니다. 여기서 하는 말은 기록됩니다. 침묵할 권리가 없는 한 사실대로 답할 의무가 있습니다. (안경 너머로 본다) 그 권리가 있다고 생각하십니까?
+Bram: Ja. Ik ben journalist.
+네. 저는 기자입니다.
+Officier: (een man van veertig, netjes, vriendelijk) Edelachtbare, het OM betwist niet dat meneer Hoekstra journalist is. Wij vragen alleen om de identiteit van één bron, omdat er sterke aanwijzingen zijn dat die bron vertrouwelijke bedrijfsinformatie heeft verspreid.
+(마흔 살 남자, 단정하고 친절하다) 재판장님, 검찰은 훅스트라 씨가 기자라는 점을 다투지 않습니다. 다만 한 취재원의 신원을 요청할 뿐입니다. 그 취재원이 기밀 영업 정보를 퍼뜨렸다는 강한 정황이 있기 때문입니다.
+Rechter: Meneer Hoekstra. Wie is de bron die in uw berichten "Kraai" heet?
+훅스트라 씨. 메시지에서 "까마귀"라고 불리는 취재원은 누구입니까?
+Bram: (rustig) Ik beroep mij op mijn verschoningsrecht.
+(차분하게) 저는 증언 거부권을 행사합니다.
+Rechter: (schrijft) Genoteerd. (stil) Mag ik vragen of de bron werkzaam is bij een overheidsinstantie?
+(적는다) 기록했습니다. (침묵) 취재원이 정부 기관에서 일하는지 물어도 되겠습니까?
+Bram: Ik beroep mij op mijn verschoningsrecht.
+저는 증언 거부권을 행사합니다.
+Advocaat: (achteraan, een man met een zilveren das; hij staat half op) Edelachtbare, mag ik een vraag voorstellen? Is de bron een familielid van een overleden journalist?
+(뒤쪽, 은색 넥타이를 맨 남자; 반쯤 일어선다) 재판장님, 질문 하나 제안해도 되겠습니까? 취재원이 사망한 기자의 가족입니까?
+Hanneke: (scherp, voordat de rechter iets zegt) Edelachtbare. Bezwaar. Dat is geen vraag. Dat is een gok. En als mijn cliënt daar ja of nee op zegt, heeft hij de identiteit prijsgegeven.
+(판사가 말하기 전에 날카롭게) 재판장님. 이의 있습니다. 그건 질문이 아닙니다. 짐작입니다. 제 의뢰인이 예든 아니오든 답하면, 신원을 내준 겁니다.
+Rechter: (kijkt over haar bril naar de advocaat) Meneer de advocaat. U bent hier toehoorder namens de aangever. U stelt hier geen vragen. (stil) Maar ik wil wel weten waarom u juist deze vraag bedacht.
+(안경 너머로 변호사를 본다) 변호사님. 고소인을 대리한 방청인이십니다. 여기서 질문하지 않습니다. (침묵) 그런데 왜 하필 이 질문을 떠올리셨는지는 알고 싶군요.
+Advocaat: (gaat zitten, glimlachend) Een veronderstelling van mijn cliënt, edelachtbare. Meer niet.
+(웃으며 앉는다) 의뢰인의 추정일 뿐입니다, 재판장님. 그 이상은 아닙니다.
+Bram: (heel stil; hij kijkt niet om)
+(아주 조용하다; 돌아보지 않는다)
+Hanneke: (fluistert naar Bram, zonder haar lippen te bewegen) Niet kijken. Niets laten zien.
+(입술을 거의 움직이지 않고 브람에게 속삭인다) 보지 마. 아무것도 드러내지 마.
+Rechter: (schrijft iets op; dan, rustig) Meneer Hoekstra. Ik stel de vraag zelf, zodat het in het verslag staat. Is de bron familie van een overleden persoon die in uw berichtgeving voorkomt?
+(뭔가를 적는다; 그런 뒤 차분하게) 훅스트라 씨. 기록에 남도록 제가 직접 묻겠습니다. 취재원이 귀하의 보도에 등장하는 사망자의 가족입니까?
+Bram: (zonder aarzelen) Ik beroep mij op mijn verschoningsrecht.
+(망설임 없이) 저는 증언 거부권을 행사합니다.
+Rechter: (een kleine knik, bijna goedkeurend) Genoteerd. (tegen de officier) Meneer de officier. Wat is het zwaarwegende belang?
+(작게, 거의 인정하듯 고개를 끄덕인다) 기록했습니다. (검사에게) 검사님. 중대한 이익이 무엇입니까?
+Officier: (bladert) De aangever stelt dat er bedrijfsgevoelige informatie over haar financiële relaties is gepubliceerd. Dat brengt schade toe aan haar reputatie en aan haar partners.
+(넘긴다) 고소인은 자신의 금융 관계에 관한 영업상 민감한 정보가 보도됐다고 주장합니다. 그것이 고소인과 파트너들의 평판에 손해를 끼친다고요.
+Officier: (vriendelijk, tegen Bram) Mag ik u wel vragen of u de bron ooit geld hebt betaald?
+(친절하게, 브람에게) 취재원에게 돈을 준 적이 있는지는 여쭤봐도 되겠습니까?
+Hanneke: (knikt naar Bram) Die mag je beantwoorden. Die zegt niets over wie.
+(브람에게 고개를 끄덕인다) 그건 답해도 돼. 누군지에 대해선 아무것도 말하지 않으니까.
+Bram: Nee. Nooit. De Lantaarn betaalt geen bronnen. Geen euro. Geen kop koffie.
+아니요. 한 번도요. 드 란타른은 취재원에게 돈을 주지 않습니다. 1유로도. 커피 한 잔도.
+Rechter: (schrijft) Genoteerd. (stil) Een bron die niets kreeg en alleen naar openbare stukken wees. Ik probeer te begrijpen waar de schade zit, meneer de officier.
+(적는다) 기록했습니다. (침묵) 아무것도 받지 않고 공개 문서만 가리킨 취재원. 손해가 어디 있는지 이해해 보려는 중입니다, 검사님.
+Rechter: Uit welke bron kwam die informatie volgens de publicaties zelf?
+보도 자체에 따르면 그 정보는 어떤 출처에서 나왔습니까?
+Hanneke: (schuift een map over de tafel) Edelachtbare. Elk feit in elk artikel staat hier met een bronvermelding. Handelsregister. Kadaster. Jaarverslagen, gedeponeerd bij de Kamer van Koophandel. Openbaar. Voor iedereen. Voor drie euro per uittreksel.
+(서류철을 탁자 위로 민다) 재판장님. 모든 기사의 모든 사실이 여기 출처와 함께 있습니다. 상업 등기부. 토지 등기. 상공회의소에 제출된 연차보고서. 공개입니다. 누구에게나. 발췌본 한 장에 3유로.
+Rechter: (bladert lang; het enige geluid is het papier) Openbaar.
+(오래 넘긴다; 들리는 건 종이 소리뿐) 공개.
+Officier: (iets minder zeker) De aangever stelt dat de bron de journalisten heeft gewezen op welke openbare stukken relevant waren. Dat zou op voorkennis duiden.
+(조금 덜 확신하며) 고소인은 취재원이 어떤 공개 문서가 관련 있는지 기자들에게 알려 줬다고 주장합니다. 그건 내부 정보를 암시한다고요.
+Hanneke: Dus het OM vraagt een journalist zijn bron prijs te geven omdat die bron wist in welke la van een openbare kast hij moest kijken. (stil) Edelachtbare, dat heet journalistiek.
+그러니까 검찰은 공개된 서랍장의 어느 서랍을 봐야 하는지 알았다는 이유로 기자에게 취재원을 내놓으라는 거군요. (침묵) 재판장님, 그걸 저널리즘이라고 부릅니다.
+Rechter: (zet haar bril af; een lange stilte) Meneer Hoekstra. Ik wil u nog iets vragen, buiten het verhoor om. U hoeft niet te antwoorden.
+(안경을 벗는다; 긴 침묵) 훅스트라 씨. 신문과 별개로 하나 더 묻고 싶습니다. 답하지 않으셔도 됩니다.
+Bram: Ja?
+네?
+Rechter: Wie wil dit eigenlijk weten?
+이걸 정말 알고 싶어 하는 게 누굽니까?
+Bram: (verrast; dan, voorzichtig) Edelachtbare. Dat vraag ik me ook af.
+(놀란다; 그런 뒤 조심스럽게) 재판장님. 저도 그게 궁금합니다.
+Rechter: (zet haar bril weer op, en schrijft) Dan zijn we het eens. (stil) Ik besluit als volgt. Het beroep op het verschoningsrecht wordt gehonoreerd. Er is geen zwaarwegend maatschappelijk belang dat de bescherming van deze bron opzij zet. De vordering wordt afgewezen.
+(안경을 다시 쓰고 적는다) 그럼 의견이 같군요. (침묵) 다음과 같이 결정합니다. 증언 거부권 행사를 인정합니다. 이 취재원 보호를 밀어낼 중대한 사회적 이익은 없습니다. 요구를 기각합니다.
+Officier: (knikt, bijna opgelucht) Het OM neemt daar kennis van.
+(고개를 끄덕인다, 거의 안도하며) 검찰은 이를 수용합니다.
+Rechter: (tegen de advocaat, zonder op te kijken) En meneer de advocaat. Ik zet in het verslag dat u een vraag voorstelde over familie van een overleden persoon. Ik weet niet waarom uw cliënt daaraan dacht. Misschien wil iemand anders dat ooit weten.
+(고개도 들지 않고 변호사에게) 그리고 변호사님. 귀하가 사망자의 가족에 관한 질문을 제안했다는 걸 기록에 남깁니다. 의뢰인이 왜 그걸 떠올렸는지 저는 모릅니다. 언젠가 다른 누군가가 알고 싶어 할지도 모르죠.
+Advocaat: (zijn glimlach verdwijnt) Edelachtbare.
+(미소가 사라진다) 재판장님.
+Hanneke: (op de trappen van de rechtbank, buiten; de zon schijnt; ze haalt diep adem) Dat had ik niet verwacht. Die laatste zin. Ze heeft het in het verslag gezet.
+(법원 밖 계단; 해가 비친다; 깊이 숨을 쉰다) 그건 예상 못 했어. 마지막 문장. 그걸 기록에 넣었어.
+Bram: (heel stil) "Is de bron familie van een overleden journalist?" (stil) Ze weten het, Hanneke. Of ze vermoeden het.
+(아주 조용히) "취재원이 사망한 기자의 가족입니까?" (침묵) 알고 있어, 하네커. 아니면 짐작하거나.
+Hanneke: Ze vermoeden het. Anders hadden ze niet gegokt. (stil) En wie heeft hen op dat idee gebracht?
+짐작하지. 안 그랬으면 짐작으로 묻지 않았겠지. (침묵) 그런데 누가 그런 생각을 하게 했을까?
+Bram: Niemand weet dat Kraai familie is. Behalve wij vijf. En Esther zelf.
+까마귀가 가족이라는 건 아무도 몰라. 우리 다섯 빼고. 그리고 에스터 본인.
+Hanneke: (scherp) Kraai.
+(날카롭게) 까마귀.
+Bram: (knikt) Kraai. (stil) Wij vijf. En de telefoon in de doos. Maar daarop stond het nooit. Ik heb haar naam nooit getypt. Nooit gezegd in de buurt van dat ding.
+(고개를 끄덕인다) 까마귀. (침묵) 우리 다섯. 그리고 상자 속 폰. 그런데 거기엔 한 번도 없었어. 그 사람 이름은 한 번도 친 적 없어. 그 물건 근처에서 한 번도 말한 적 없고.
+Hanneke: Dan is het een gok die op iets gebouwd is. Op wie Kees als laatste belde. Op wie in het ziekenhuis naar wie keek. (stil) Een gok van iemand die erbij was.
+그럼 뭔가 위에 세운 짐작이네. 케이스가 마지막으로 누구한테 전화했는지. 병원에서 누가 누구를 봤는지. (침묵) 그 자리에 있었던 사람의 짐작.
+Bram: (een lange stilte; hij kijkt naar de gracht beneden) Margreet was erbij. In het ziekenhuis. Ze zag Esther naar haar kijken.
+(긴 침묵; 아래 운하를 본다) 마르흐레이트가 거기 있었어. 병원에. 에스터가 자기를 보는 걸 봤지.
+Hanneke: Kraai, Bram.
+까마귀, 브람.
+Bram: (zacht) Kraai keek naar haar. En zij zag het.
+(작게) 까마귀가 그 사람을 봤어. 그리고 그 사람이 그걸 봤어.
+Hanneke: Regel vijfentwintig. (schrijft op haar knie) "Maandag, RC-verhoor: advocaat Baken stelt vraag 'familie van overleden journalist'. Kennis die alleen kon komen van iemand die de nacht van de moord in het OLVG was."
+스물다섯 번째 줄. (무릎에 대고 적는다) "월요일, 예심판사 신문: 바컨 측 변호사가 '사망한 기자의 가족' 질문을 제안. 살해 당일 밤 OLVG에 있었던 사람에게서만 나올 수 있는 지식."
+Bram: Of van iemand die het van haar hoorde.
+아니면 그 사람한테서 들은 누군가.
+Hanneke: Of van iemand die het van haar hoorde. (stil) Ik word er moe van, Bram. Elke regel is waar. En elke regel kan haar advocaat wegpraten.
+아니면 그 사람한테서 들은 누군가. (침묵) 지친다, 브람. 줄마다 다 사실이야. 그리고 줄마다 그 사람 변호사가 말로 지워 버릴 수 있어.
+Femke: (op het dak van de redactie, die avond; de zon zakt boven de IJ; Noor en Jip zitten op een oude bank, Bram leunt tegen de reling) Het is afgewezen. We hebben gewonnen.
+(그날 저녁, 편집국 옥상; 이에이 강 위로 해가 진다; 노르와 집은 낡은 벤치에 앉아 있고, 브람은 난간에 기대 있다) 기각됐어. 우리가 이겼어.
+Noor: Dan waarom voelt het niet zo?
+그런데 왜 이긴 것 같지가 않아요?
+Jip: Omdat ze nu weten dat ze het zelf moeten uitzoeken. Zonder de rechter.
+이제 판사 없이 직접 알아내야 한다는 걸 걔들이 아니까요.
+Noor: (trekt haar knieën op) Ik moest de hele dag aan de vraag denken. Twintig vragen. Ik dacht: als ik daar had gezeten, had ik bij de derde al "nee" gezegd. Gewoon uit reflex.
+(무릎을 끌어안는다) 하루 종일 그 질문 생각했어요. 스무고개. 제가 거기 앉아 있었으면 세 번째에서 벌써 "아니요" 했을 거예요. 그냥 반사적으로.
+Bram: Ik ook bijna. Bij de vraag over familie. Mijn mond ging al open.
+나도 거의 그럴 뻔했어. 가족 질문에서. 입이 벌써 열렸어.
+Femke: En toen?
+그래서?
+Bram: Toen dacht ik aan een kraai op een vensterbank. (stil) Die zegt ook nooit ja of nee.
+그때 창턱의 까마귀가 생각났어. (침묵) 걔도 절대 예나 아니오를 안 하잖아.
+Femke: (kijkt naar Bram) Kraai moet weten wat er vandaag gevraagd werd.
+(브람을 본다) 까마귀가 오늘 무슨 질문이 나왔는지 알아야 해.
+Bram: Hanneke belt haar vanavond. Via haar eigen lijn. (stil) Ze heeft een week vrij genomen. Ze is bij haar moeder in Zeeland.
+하네커가 오늘 밤 전화해. 자기 회선으로. (침묵) 일주일 휴가 냈어. 제일란트 엄마 집에 있어.
+Noor: Zeeland. (bijna een glimlach) Waar alles naartoe gaat.
+제일란트. (거의 미소) 모든 게 가는 곳.
+Margreet: (de deur naar het dak gaat open; ze komt naar buiten met een fles prosecco en vijf plastic bekertjes; ze lacht) Daar zijn jullie! Ik hoorde het van Hanneke. Afgewezen! Gefeliciteerd.
+(옥상 문이 열린다; 프로세코 한 병과 플라스틱 컵 다섯 개를 들고 웃으며 나온다) 여기들 있었네! 하네커한테 들었어. 기각! 축하해.
+Femke: (een fractie te laat) Margreet.
+(찰나만큼 늦게) 마르흐레이트.
+Margreet: (schenkt in, geeft de bekertjes rond) Ik moet iets zeggen. Ik zat fout, donderdag. Met mijn middenweg. Jullie hadden gelijk. (stil) Op de bron. Wie het ook is.
+(따르고, 컵을 돌린다) 할 말이 있어. 목요일엔 내가 틀렸어. 그 중간 길. 너희가 맞았어. (침묵) 취재원을 위해. 누구든.
+Bram: (neemt het bekertje aan, zonder te drinken) Op de bron.
+(마시지 않고 컵을 받는다) 취재원을 위해.
+Margreet: (drinkt; dan, luchtig) Ik hoorde dat die advocaat van Baken een rare vraag stelde. Over familie. (lacht) Hoe komen ze erop.
+(마신다; 그런 뒤 가볍게) 바컨 변호사가 이상한 질문을 했다며. 가족에 대해. (웃는다) 어떻게 그런 생각을 했대.
+Jip: (heel stil, naar zijn bekertje)
+(아주 조용히, 자기 컵을 본다)
+Bram: (rustig) Dat vroeg de rechter ook. Ze heeft het in het verslag gezet.
+(차분하게) 판사도 그걸 물었어. 기록에 넣었고.
+Margreet: (een halve seconde stil; dan) Goed zo. Een rechter met ruggengraat. (stil) Nou. Ik laat jullie. Jullie hebben het verdiend. (ze zet de fles op de bank, en gaat naar binnen)
+(반 초 침묵; 그런 뒤) 잘됐네. 소신 있는 판사네. (침묵) 자. 난 갈게. 너희가 누릴 자격 있어. (병을 벤치에 놓고 안으로 들어간다)
+Noor: (als de deur dicht is, fluisterend) Ze wist van de vraag. Hoe wist ze van de vraag?
+(문이 닫히자 속삭이며) 그 질문을 알았어요. 어떻게 그 질문을 알았죠?
+Femke: Hanneke vertelde haar dat het afgewezen was. Niet wat er gevraagd werd. (stil) Dat stond in geen enkel bericht. Het verslag is nog niet eens uitgetypt.
+하네커가 기각됐다는 건 말했어. 무슨 질문이 나왔는지는 말 안 했고. (침묵) 그건 어떤 메시지에도 없었어. 기록은 아직 타이핑도 안 됐어.
+Jip: Dan hoorde ze het van de advocaat. Vandaag. Na het verhoor.
+그럼 변호사한테서 들었네요. 오늘. 신문 끝나고.
+Bram: (zet zijn bekertje op de reling, ongedronken) Of ze wist het van tevoren. Omdat ze hem de vraag gaf.
+(마시지 않은 컵을 난간에 놓는다) 아니면 미리 알았거나. 그 질문을 그한테 줬으니까.
+Femke: (een lange stilte) Dat kunnen we niet bewijzen.
+(긴 침묵) 그건 증명할 수 없어.
+Bram: Nee. (stil) Maar we kunnen het testen.
+아니. (침묵) 그래도 시험해 볼 순 있어.
+Noor: Hoe?
+어떻게요?
+Bram: Zoals we het met Erik deden. En met Lucas. Alleen nu goed. (stil) Een stuk informatie dat alleen zij krijgt. Niemand anders. Niet in het systeem, niet op een telefoon. Op papier, in haar hand. En dan kijken we waar het opduikt.
+에릭한테 했던 것처럼. 루카스한테도. 다만 이번엔 제대로. (침묵) 그 사람만 받는 정보 하나. 다른 누구도 안 받는. 시스템에도, 폰에도 없이. 종이로, 그 사람 손에. 그리고 그게 어디서 떠오르는지 보는 거야.
+Jip: (zacht) Een kanarie.
+(작게) 카나리아.
+Femke: (kijkt naar Bram) Een omgekeerde val. Voor haar.
+(브람을 본다) 거꾸로 된 덫. 그 사람을 위한.
+Bram: (knikt) Maar eerst moet ik twee mensen sorry zeggen. Van wie ik dacht dat ze lekten. (stil) Je zet geen val voor de echte als je de valse nog niet je excuses hebt aangeboden.
+(고개를 끄덕인다) 그런데 먼저 두 사람한테 미안하다고 해야 해. 흘린다고 생각했던 사람들. (침묵) 가짜한테 사과도 안 하고 진짜한테 덫을 놓을 순 없어.
+Noor: Lucas. En Erik.
+루카스. 그리고 에릭.
+Bram: (zijn prepaid toestel trilt in zijn zak; hij haalt het eruit; een naam die hij zelf heeft ingetypt, die middag) Erik.
+(주머니 속 선불폰이 떤다; 꺼낸다; 그날 오후 직접 입력해 둔 이름) 에릭.
+Femke: (zacht) Neem op.
+(작게) 받아.
+Bram: (neemt op; zijn stem is dun) Erik.
+(받는다; 목소리가 가늘다) 에릭.
+Erik: (door de telefoon, na een lange stilte; droog, moe) Je bericht. Ik heb het vijf keer afgeluisterd. (stil) "Het was mijn telefoon." Je bent een idioot, Hoekstra.
+(전화기 너머로, 긴 침묵 뒤; 건조하고 지친 목소리) 네 메시지. 다섯 번 들었어. (침묵) "내 폰이었어." 넌 바보야, 훅스트라.
+Bram: (bijna een lach) Ik weet het.
+(거의 웃음) 알아.
+Erik: Twintig jaar. En je dacht dat ik je verkocht. (stil) Zaterdag. Bij jou thuis. Neem bier mee. Goed bier. En die jongen. Lucas. Die heeft er ook recht op.
+20년이야. 그런데 내가 널 팔았다고 생각했지. (침묵) 토요일. 너희 집에서. 맥주 사 와. 좋은 걸로. 그리고 그 녀석. 루카스. 그 애도 들을 권리가 있어.
+Bram: (zacht) Zaterdag.
+(작게) 토요일.
+Erik: En Hoekstra. (stil) Wie die rare vraag over familie ook heeft bedacht vandaag. Ik heb het al gehoord. In de wandelgangen van het bureau. (stil) Pas op voor wie er die nacht in het ziekenhuis stond.
+그리고 훅스트라. (침묵) 오늘 가족에 대한 그 이상한 질문, 누가 생각해 냈든. 벌써 들었어. 경찰서 복도에서. (침묵) 그 밤 병원에 서 있던 사람을 조심해.
+Bram: (kijkt naar de dichte deur van het dak) Dat weet ik, Erik. (stil) Nu weet ik het.
+(옥상의 닫힌 문을 본다) 알아, 에릭. (침묵) 이제야 알아.
+
+## 주요 단어
+de bronbescherming — 취재원 보호
+het verschoningsrecht — 증언 거부권
+zich beroepen op — ~을 원용하다, 행사하다
+de vordering — (법적) 요구
+de rechter-commissaris — 예심판사
+het verhoor — 신문, 심문
+de officier van justitie — 검사
+de aangever — 고소인
+edelachtbare — 재판장님(호칭)
+prijsgeven — 내주다, 누설하다
+het bezwaar — 이의
+de toehoorder — 방청인
+het uittreksel — 발췌본, 등본
+de voorkennis — 사전 정보, 내부 정보
+zwaarwegend — 중대한
+honoreren — 인정하다, 받아들이다
+afwijzen — 기각하다
+het verslag — 기록, 조서
+de ruggengraat — 등뼈(비유: 소신)
+het loket — 창구
+
+## 문법·표현 정리
+Ik beroep mij op mijn verschoningsrecht — 재귀동사 zich beroepen op, 법정의 정형 문장
+Denk aan de krant, Bram — denken aan + 명령문, 감정에 호소하는 압박
+Wie wil dit eigenlijk weten? — eigenlijk(도대체, 실은)으로 숨은 의도를 묻는 질문
+Een krant die zijn bronnen weggeeft, is geen krant meer — 관계절 주어 + geen…meer
+Het is vaak veiliger als ze die niet kent — 비교급 + als 조건절
+Elke kleine vraag is een stukje van de naam — 지소사(-je)로 '조각'의 위험 강조
+Als je die vraag ontkent, is het een leugen. Als je zwijgt, is het een antwoord — 병렬 조건문 대조
+Dan kan het alleen als er een zwaarwegend belang is dat zwaarder weegt dan… — 관계절 + 비교 구문
+U bent verplicht naar waarheid te antwoorden, tenzij… — verplicht zijn + te 부정사 + tenzij(~하지 않는 한)
+Dat zou op voorkennis duiden — duiden op(~을 암시하다) + zou(유보적 주장)
+Het beroep op het verschoningsrecht wordt gehonoreerd — 현재 수동, 결정문 문체
+Ik zet in het verslag dat u een vraag voorstelde — 판사의 기록 선언(dat 종속절)
+Je zet geen val voor de echte als je de valse nog niet je excuses hebt aangeboden — excuses aanbieden(사과하다) + 대비(echte/valse)
+Pas op voor wie er die nacht in het ziekenhuis stond — oppassen voor + wie 명사절
+
+## 취재 노트
+🗞️ 이 화는 네덜란드의 **취재원 보호(bronbescherming)** 제도를 다룬다. 2019년부터 기자와 언론인의 **증언 거부권(verschoningsrecht)**이 형사소송법에 명시됐고, 검찰의 요구가 있어도 결정은 **예심판사(rechter-commissaris)**가 하며, 취재원 보호를 밀어낼 수 있는 건 임박한 중대 범죄나 생명의 위험 같은 **중대한 사회적 이익**이 있고 다른 방법이 없을 때뿐이다(유럽인권재판소 판례도 같은 방향). 작품 속 예심판사는 모든 사실이 **공개 등기부·연차보고서**에서 나왔다는 하네커의 자료를 보고 요구를 **기각**한다 — "어느 서랍을 봐야 하는지 아는 것, 그걸 저널리즘이라 부른다."
+
+🗞️ 하네커의 핵심 수업 — **스무고개의 위험**: "남자냐 여자냐", "정부에서 일하냐", "피해자 가족이냐" 같은 작은 질문 하나하나가 이름의 조각이다. 부인하면 거짓말, 침묵하면 대답 — 그래서 기자는 예도 아니오도 하지 않고 같은 **한 문장**만 반복한다: "**Ik beroep mij op mijn verschoningsrecht.**" 또 "편집장이 취재원을 지키려고 그 정체를 알 필요는 없다, 모르는 게 더 안전하다"는 원칙. 마르흐레이트의 "신문을 생각해"와 "메시지 텍스트만 주자"는 '중간 길'은 이 원칙에 대한 전형적 압박으로 그려진다.
+
+🗞️ PLAN의 결정적 장면 — "**Wie wil dit eigenlijk weten?**": 마르흐레이트는 세 번 묻는다("누군지 알아?", "누굴 지키는지 알아야 해", "30년인데 날 안 믿는구나" — 하네커: 세 번째가 제일 중요한 질문). 신문에서 바컨 측 변호사가 "**사망한 기자의 가족이냐**"는 질문을 제안하고, 판사는 그것을 기록에 남긴다. 그 짐작은 살해 당일 밤 OLVG에서 에스터가 마르흐레이트를 보던 장면을 아는 사람에게서만 나올 수 있다(하네커 목록 **25줄**). 그날 저녁 옥상에서 마르흐레이트는 프로세코로 사과하면서 "가족에 대한 이상한 질문"을 먼저 꺼낸다 — 기록은 아직 타이핑도 안 됐는데. 팀은 이제부터 에스터를 이 방에서도 "**까마귀**"라고만 부른다.
+
+🗞️ 연속성: 브람 "증명은 못 해도 시험은 할 수 있다" → 9화 **역 카나리아 트랩**("그 사람만 받는 정보, 시스템·폰 없이 종이로"). 그 전에 "가짜에게 사과도 안 하고 진짜에게 덫을 놓을 순 없다" — 루카스와 에릭. 에릭의 답 전화: "다섯 번 들었어. 넌 바보야, 훅스트라." **토요일 브람 집, 좋은 맥주, 루카스도.** 에릭은 경찰서 복도에서 이미 그 질문을 들었다 — "그 밤 병원에 서 있던 사람을 조심해." 에스터는 일주일 휴가로 제일란트 어머니 집.
